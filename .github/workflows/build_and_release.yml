@@ -10,10 +10,10 @@ jobs:
     name: Release
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
         with:
-          node-version: "14"
+          node-version: "24"
       - name: Install build dependencies
         run: npm install svgo
       - name: Create dist directory
@@ -33,10 +33,15 @@ jobs:
         run: rm dist/studios/**/studio.json
       - name: Compress built assets
         run: cd dist; zip -r -D ../release.zip *; cd ..
-      - uses: "marvinpinto/action-automatic-releases@v1.2.0"
+      - name: Delete previous latest release
+        env:
+          GH_TOKEN: ${{ secrets.JF_BOT_TOKEN }}
+        run: gh release delete latest --cleanup-tag --yes || true
+      - uses: softprops/action-gh-release@v3
         with:
-          repo_token: "${{ secrets.JF_BOT_TOKEN }}"
-          automatic_release_tag: "latest"
+          token: ${{ secrets.JF_BOT_TOKEN }}
+          tag_name: latest
+          name: latest
           prerelease: false
-          files: |
-            release.zip
+          make_latest: "true"
+          files: release.zip
