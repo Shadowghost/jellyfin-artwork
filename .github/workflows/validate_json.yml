@@ -11,9 +11,38 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
-      - name: Validate studios.json
-        uses: snapcart/json-schema-validator@v1.0.0
+      - uses: actions/setup-python@v6
         with:
-          token: ${{ secrets.JF_BOT_TOKEN }}
-          json_schema: .github/studios.schema.json
-          json_path_pattern: studios/.*/studio.json$
+          python-version: '3.14'
+      - name: Install jsonschema
+        run: pip install jsonschema
+      - name: Validate studios.json
+        run: |
+          python <<'EOF'
+          import glob, json, sys
+          from jsonschema import Draft7Validator
+
+          with open('.github/studios.schema.json') as f:
+              schema = json.load(f)
+          validator = Draft7Validator(schema)
+
+          failed = False
+          for path in sorted(glob.glob('studios/*/studio.json')):
+              with open(path) as f:
+                  try:
+                      data = json.load(f)
+                  except json.JSONDecodeError as e:
+                      print(f'::error file={path}::Invalid JSON: {e}')
+                      failed = True
+                      continue
+              errors = sorted(validator.iter_errors(data), key=lambda e: e.path)
+              if errors:
+                  failed = True
+                  for err in errors:
+                      loc = '/'.join(str(p) for p in err.absolute_path) or '<root>'
+                      print(f'::error file={path}::{loc}: {err.message}')
+              else:
+                  print(f'OK: {path}')
+
+          sys.exit(1 if failed else 0)
+          EOF
