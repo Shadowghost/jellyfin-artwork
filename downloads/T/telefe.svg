@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg25023" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 535.9">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Adsız_degrade_4);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#Adsız_degrade_3);
+      }
+
+      .cls-3 {
+        fill: #545454;
+      }
+
+      .cls-4 {
+        fill: url(#Adsız_degrade_5);
+      }
+
+      .cls-5 {
+        fill: url(#Adsız_degrade);
+      }
+
+      .cls-6 {
+        fill: url(#Adsız_degrade_2);
+      }
+
+      .cls-7 {
+        fill: url(#Adsız_degrade_6);
+      }
+    </style>
+    <radialGradient id="Adsız_degrade" data-name="Adsız degrade" cx="900.91" cy="340.75" fx="900.91" fy="340.75" r="330.99" gradientTransform="translate(-45.28 323.68) scale(.62 -.63)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#37fa63"/>
+      <stop offset=".31" stop-color="#30f35e"/>
+      <stop offset=".67" stop-color="#0fcd47" stop-opacity=".99"/>
+      <stop offset="1" stop-color="#22a13e"/>
+    </radialGradient>
+    <radialGradient id="Adsız_degrade_2" data-name="Adsız degrade 2" cx="1317.77" cy="558.8" fx="1317.77" fy="558.8" r="330.99" gradientTransform="translate(765.05 917.86) rotate(-90) scale(.59 -.47)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1fa93f" stop-opacity="0"/>
+      <stop offset=".74" stop-color="#12c746" stop-opacity="0"/>
+      <stop offset="1" stop-color="#1da33c"/>
+    </radialGradient>
+    <radialGradient id="Adsız_degrade_3" data-name="Adsız degrade 3" cx="900.91" cy="340.75" fx="900.91" fy="340.75" r="330.99" gradientTransform="translate(290.55 323.68) scale(.62 -.63)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f6245c"/>
+      <stop offset=".31" stop-color="#ef1b57"/>
+      <stop offset=".67" stop-color="#d9084b"/>
+      <stop offset="1" stop-color="#9c2340"/>
+    </radialGradient>
+    <radialGradient id="Adsız_degrade_4" data-name="Adsız degrade 4" cx="1266.93" cy="499.13" fx="1266.93" fy="499.13" r="330.93" gradientTransform="translate(1110.83 1305.87) rotate(-90) scale(.9 -.55)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1fa93f" stop-opacity="0"/>
+      <stop offset=".7" stop-color="#8e0f2c" stop-opacity="0"/>
+      <stop offset="1" stop-color="#8c0f2b"/>
+    </radialGradient>
+    <radialGradient id="Adsız_degrade_5" data-name="Adsız degrade 5" cx="900.91" cy="340.75" fx="900.91" fy="340.75" r="330.99" gradientTransform="translate(-381.1 323.68) scale(.62 -.63)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1da1ff"/>
+      <stop offset=".31" stop-color="#008cef" stop-opacity=".9"/>
+      <stop offset=".67" stop-color="#0078d4" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#0162a9"/>
+    </radialGradient>
+    <radialGradient id="Adsız_degrade_6" data-name="Adsız degrade 6" cx="1248.59" cy="537.39" fx="1248.59" fy="537.39" r="330.99" gradientTransform="translate(384.64 1430.86) rotate(-87.34) scale(1 -.56)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1fa93f" stop-opacity="0"/>
+      <stop offset=".74" stop-color="#025283" stop-opacity=".13"/>
+      <stop offset="1" stop-color="#024975" stop-opacity=".97"/>
+    </radialGradient>
+  </defs>
+  <g id="g25933">
+    <g id="g25021">
+      <path id="path25009" class="cls-3" d="M273.43,447.47h-26.38v47.15c0,3.93,1.01,6.8,3.04,8.62,2.02,1.81,4.98,2.83,8.87,3.06,4.82.22,9.65.18,14.47-.11v26.52c-20.7,2.27-35.29.38-43.77-5.66-8.48-6.04-12.72-16.85-12.72-32.41v-47.15h-20.31v-28.11h20.31v-22.9l30.11-8.84v31.74h26.38v28.1Z"/>
+      <path id="path25011" class="cls-3" d="M316.63,488.05c4.04,14.22,15.02,21.33,32.92,21.33,11.52,0,20.23-3.78,26.14-11.33l24.28,13.56c-11.52,16.17-28.48,24.26-50.89,24.25-19.3,0-34.79-5.67-46.46-17-11.67-11.33-17.51-25.61-17.51-42.84,0-17.08,5.76-31.32,17.28-42.73,11.52-11.41,26.3-17.11,44.35-17.11,17.12,0,31.24,5.74,42.37,17.23,11.13,11.48,16.69,25.69,16.69,42.62-.02,4.03-.41,8.05-1.17,12.01h-88.01ZM316.17,465.38h59.52c-1.71-7.71-5.25-13.45-10.62-17.23-5.36-3.77-11.77-5.76-18.33-5.67-8.09,0-14.79,2-20.08,6.01-5.29,4-8.79,9.63-10.5,16.89Z"/>
+      <path id="path25013" class="cls-3" d="M426.8,532.7v-165.47h30.11v165.47h-30.11Z"/>
+      <path id="path25015" class="cls-3" d="M509.93,488.05c4.04,14.22,15.02,21.33,32.92,21.33,11.52,0,20.23-3.78,26.14-11.33l24.28,13.56c-11.52,16.17-28.48,24.26-50.89,24.25-19.3,0-34.79-5.67-46.46-17-11.67-11.33-17.51-25.61-17.51-42.84,0-17.08,5.76-31.32,17.28-42.73,11.52-11.41,26.3-17.11,44.35-17.11,17.12,0,31.24,5.74,42.37,17.23,11.13,11.48,16.69,25.69,16.69,42.62-.02,4.03-.41,8.05-1.17,12.01h-88.01ZM509.46,465.38h59.52c-1.71-7.71-5.25-13.45-10.62-17.23-5.36-3.77-11.77-5.76-18.33-5.67-8.09,0-14.79,2-20.08,6.01s-8.79,9.63-10.5,16.89h0Z"/>
+      <path id="path25017" class="cls-3" d="M679.4,398.96c-16.5-1.21-24.75,5.22-24.75,19.27v1.13h24.75v28.11h-24.75v85.23h-30.11v-85.23h-16.81v-28.11h16.81v-1.13c0-16.02,4.59-28.18,13.77-36.5,9.18-8.31,22.88-11.94,41.09-10.88v28.11Z"/>
+      <path id="path25019" class="cls-3" d="M714.19,488.05c4.04,14.22,15.02,21.33,32.92,21.33,11.52,0,20.23-3.78,26.14-11.33l24.3,13.6c-11.52,16.17-28.48,24.26-50.89,24.25-19.3,0-34.78-5.67-46.46-17-11.67-11.33-17.51-25.61-17.51-42.84s5.76-31.32,17.28-42.73,26.3-17.11,44.35-17.11c17.12,0,31.24,5.74,42.37,17.23,11.13,11.48,16.69,25.68,16.69,42.59-.02,4.03-.41,8.05-1.17,12.01h-88.03ZM713.72,465.38h59.52c-1.71-7.71-5.25-13.45-10.62-17.23-5.36-3.77-11.77-5.76-18.33-5.67-8.09,0-14.79,2-20.08,6.01s-8.79,9.63-10.5,16.89Z"/>
+    </g>
+    <g id="g25848">
+      <g id="g25908">
+        <path id="path25031" class="cls-5" d="M664.18,164.18c0,90.67-73.5,164.18-164.18,164.18s-164.18-73.5-164.18-164.18S409.33,0,500,0h0c90.67,0,164.18,73.5,164.18,164.18h0Z"/>
+        <path id="circle25498" class="cls-6" d="M664.18,164.18c0,90.67-73.5,164.18-164.18,164.18s-164.18-73.5-164.18-164.18S409.33,0,500,0h0c90.67,0,164.18,73.5,164.18,164.18h0Z"/>
+        <path id="circle25510" class="cls-2" d="M1000,164.18c0,90.67-73.5,164.18-164.18,164.18s-164.18-73.5-164.18-164.18S745.15,0,835.82,0h0c90.67,0,164.18,73.5,164.18,164.18h0Z"/>
+        <path id="circle25512" class="cls-1" d="M1000,164.18c0,90.67-73.5,164.18-164.18,164.18s-164.18-73.5-164.18-164.18S745.15,0,835.82,0h0c90.67,0,164.18,73.5,164.18,164.18h0Z"/>
+        <path id="circle25825" class="cls-4" d="M328.35,164.18c0,90.67-73.5,164.18-164.18,164.18h0C73.5,328.35,0,254.85,0,164.18S73.5,0,164.18,0C254.85,0,328.35,73.5,328.35,164.18Z"/>
+        <path id="circle25827" class="cls-7" d="M328.35,164.18c0,90.67-73.5,164.18-164.18,164.18h0C73.5,328.35,0,254.85,0,164.18S73.5,0,164.18,0C254.85,0,328.35,73.5,328.35,164.18Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
