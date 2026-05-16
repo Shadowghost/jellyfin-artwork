@@ -1,0 +1,27 @@
+{
+  "slug": "pbs",
+  "sha256": "1e1ce475793e1dd4d940a64ea46d98f9a781e5c48f6e59bf3a0a4e356ada7f7c",
+  "entity_name": "PBS (Public Broadcasting Service)",
+  "aka": ["PBS"],
+  "type": "broadcast-network",
+  "country": "US",
+  "founded": "1969",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.pbs.org",
+  "wikipedia": "https://en.wikipedia.org/wiki/PBS",
+  "brand_guidelines_url": "https://brand.pbs.org",
+  "brand_colors": [
+    {"name": "PBS Blue", "hex": "#2638C4"}
+  ],
+  "logo_usage": null,
+  "description": "American public broadcaster and non-commercial, free-to-air television network with 350+ member stations across the United States.",
+  "duplicate_files": ["downloads/P/pbs.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - PBS", "url": "https://en.wikipedia.org/wiki/PBS"},
+    {"title": "PBS Brand Guidelines", "url": "https://brand.pbs.org"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

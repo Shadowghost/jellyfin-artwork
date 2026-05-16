@@ -1,0 +1,26 @@
+{
+  "slug": "south-australian-film-corporation",
+  "sha256": "bc8333cad11864a1c7355f45ca56e69fdfd2d25307d87d293f2184534ddafd0e",
+  "entity_name": "South Australian Film Corporation",
+  "aka": ["SAFC"],
+  "type": "government-agency",
+  "country": "AU",
+  "founded": "1972",
+  "defunct": null,
+  "parent_company": "Government of South Australia",
+  "official_website": "https://www.safilm.com.au/",
+  "wikipedia": "https://en.wikipedia.org/wiki/South_Australian_Film_Corporation",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "State government agency in South Australia supporting and funding screen production in the state.",
+  "duplicate_files": [
+    "downloads/S/south-australian-film-corporation.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – South Australian Film Corporation", "url": "https://en.wikipedia.org/wiki/South_Australian_Film_Corporation"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "human-rights-foundation",
+  "sha256": "1d27cf7e4aee1d66cbd4ca6180a86ffa46f5f1400c3d40e586f9624ac16722d3",
+  "entity_name": "Human Rights Foundation",
+  "aka": ["HRF"],
+  "type": "other",
+  "country": "US",
+  "founded": "2005",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://hrf.org",
+  "wikipedia": "https://en.wikipedia.org/wiki/Human_Rights_Foundation",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American non-profit non-governmental organization promoting and protecting human rights globally, particularly focused on closed societies; founded by Thor Halvorssen.",
+  "duplicate_files": ["downloads/H/human-rights-foundation.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Human Rights Foundation", "url": "https://en.wikipedia.org/wiki/Human_Rights_Foundation"},
+    {"title": "HRF official site", "url": "https://hrf.org/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

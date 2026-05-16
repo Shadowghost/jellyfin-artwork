@@ -1,0 +1,25 @@
+{
+  "slug": "studio-xilam",
+  "sha256": "ebb37e0701f90fa9cf7dcc9d392f8893fb8c9b76705537c2dd1b881660c332f5",
+  "entity_name": "Xilam Animation",
+  "aka": ["Studio Xilam", "Xilam"],
+  "type": "studio",
+  "country": "FR",
+  "founded": "1999",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.xilam.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Xilam",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "French animation studio founded by Marc du Pontavice, known for Oggy and the Cockroaches, Zig & Sharko, and The Daltons.",
+  "duplicate_files": ["downloads/S/studio-xilam.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Xilam", "url": "https://en.wikipedia.org/wiki/Xilam"},
+    {"title": "Xilam official site", "url": "https://www.xilam.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

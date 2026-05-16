@@ -1,0 +1,26 @@
+{
+  "slug": "toon-disney",
+  "sha256": "1dbda9fdef0f1d3f1adba6fc6515c5d5c1828364ad585ae6dc27e4ac4bf1454a",
+  "entity_name": "Toon Disney",
+  "aka": [],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1998",
+  "defunct": "2009",
+  "parent_company": "The Walt Disney Company",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Toon_Disney",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Former American cable television channel owned by Disney that aired animated programming; replaced by Disney XD in 2009.",
+  "duplicate_files": [
+    "downloads/T/toon-disney.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Toon Disney", "url": "https://en.wikipedia.org/wiki/Toon_Disney"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

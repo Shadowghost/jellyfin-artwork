@@ -1,0 +1,24 @@
+{
+  "slug": "leverage-entertainment",
+  "sha256": "37c2a3e632b34d0faa9361952c77c05e2dfbc1ae81c64583a4782f1be774e6de",
+  "entity_name": "Leverage Entertainment",
+  "aka": ["Leverage Management"],
+  "type": "production-company",
+  "country": "US",
+  "founded": null,
+  "defunct": null,
+  "parent_company": null,
+  "official_website": null,
+  "wikipedia": null,
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American talent management and film/television production company.",
+  "duplicate_files": ["downloads/L/leverage-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "IMDb - Leverage Entertainment", "url": "https://www.imdb.com/search/title/?companies=leverage+entertainment"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "low"
+}

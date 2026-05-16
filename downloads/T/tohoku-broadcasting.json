@@ -1,0 +1,24 @@
+{
+  "slug": "tohoku-broadcasting",
+  "sha256": "7d6aea8bd9abfbee396f3a379eef7d4a446eb9e10d1f0b8bc4f40eb0706313af",
+  "entity_name": "Tohoku Broadcasting",
+  "aka": ["TBC", "Tohoku Hoso"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1951",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.tbc-sendai.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Tohoku_Broadcasting_Company",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese radio and television broadcaster based in Sendai, Miyagi Prefecture, affiliated with the Japan News Network (JNN).",
+  "duplicate_files": ["downloads/T/tohoku-broadcasting.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Tohoku Broadcasting Company", "url": "https://en.wikipedia.org/wiki/Tohoku_Broadcasting_Company"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

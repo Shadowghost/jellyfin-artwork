@@ -1,0 +1,31 @@
+{
+  "slug": "kennedy-marshall-the",
+  "sha256": "b5085b943d6106bb0e58c392f6a478340d9319d75a73993adc69342366902cfc",
+  "entity_name": "The Kennedy/Marshall Company",
+  "aka": ["Kennedy/Marshall", "Kennedy Marshall", "The Kennedy-Marshall Company"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1991",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://kennedymarshall.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/The_Kennedy/Marshall_Company",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American independent film production company founded by Kathleen Kennedy and Frank Marshall, producing the Jason Bourne series, The Sixth Sense, and many other films.",
+  "duplicate_files": [
+    "downloads/K/kennedy-marshall-company-the.svg",
+    "downloads/K/kennedy-marshall-the.svg",
+    "downloads/M/marshall-company-the.svg",
+    "downloads/T/the-kennedy-marshall-company.svg",
+    "downloads/T/the-kennedymarshall-company.svg"
+  ],
+  "duplicate_count": 5,
+  "sources": [
+    {"title": "Wikipedia - The Kennedy/Marshall Company", "url": "https://en.wikipedia.org/wiki/The_Kennedy/Marshall_Company"},
+    {"title": "Kennedy/Marshall official site", "url": "https://kennedymarshall.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

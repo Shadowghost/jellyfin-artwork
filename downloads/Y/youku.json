@@ -1,0 +1,27 @@
+{
+  "slug": "youku",
+  "sha256": "38e0b442aebc9ed1ac9716b90297ed79085df3e8856b8e398c3bd1d58a54b008",
+  "entity_name": "Youku",
+  "aka": ["Youku Tudou"],
+  "type": "streaming-service",
+  "country": "CN",
+  "founded": "2006",
+  "defunct": null,
+  "parent_company": "Alibaba Group",
+  "official_website": "https://www.youku.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Youku",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Youku Blue", "hex": "#168AE6"}
+  ],
+  "logo_usage": null,
+  "description": "Chinese video-hosting and streaming service owned by Alibaba Group; one of China's largest streaming platforms, often compared to YouTube and Netflix.",
+  "duplicate_files": ["downloads/Y/youku.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Youku", "url": "https://en.wikipedia.org/wiki/Youku"},
+    {"title": "Youku official site", "url": "https://www.youku.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

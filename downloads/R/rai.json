@@ -1,0 +1,27 @@
+{
+  "slug": "rai",
+  "sha256": "0bb32ef2a9852f34e77dc923ec656f3967345932b827bca705abad33b357f4cc",
+  "entity_name": "RAI – Radiotelevisione Italiana",
+  "aka": ["RAI", "Radiotelevisione Italiana", "Rai 3"],
+  "type": "broadcast-network",
+  "country": "IT",
+  "founded": "1954",
+  "defunct": null,
+  "parent_company": "Italian Ministry of Economy and Finance",
+  "official_website": "https://www.rai.it",
+  "wikipedia": "https://en.wikipedia.org/wiki/RAI",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Italian public broadcaster operating multiple television and radio channels, including Rai 3 (radiotelevisione italiana).",
+  "duplicate_files": [
+    "downloads/R/rai-tre-radiotelevisione-italiana.svg",
+    "downloads/R/rai.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – RAI", "url": "https://en.wikipedia.org/wiki/RAI"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

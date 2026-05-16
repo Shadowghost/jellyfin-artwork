@@ -1,0 +1,25 @@
+{
+  "slug": "osn",
+  "sha256": "10cb769783f3be33fcfdf7f8965f9569434c81fe826fadf2034ee7fa017331bd",
+  "entity_name": "OSN",
+  "aka": ["Orbit Showtime Network"],
+  "type": "streaming-service",
+  "country": "AE",
+  "founded": "2009",
+  "defunct": null,
+  "parent_company": "OSN Group (KIPCO)",
+  "official_website": "https://www.osn.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/OSN",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Pay television network in the Middle East and North Africa formed from the merger of Orbit and Showtime Arabia.",
+  "duplicate_files": ["downloads/O/osn.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - OSN", "url": "https://en.wikipedia.org/wiki/OSN"},
+    {"title": "OSN official", "url": "https://www.osn.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

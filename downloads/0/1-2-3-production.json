@@ -1,0 +1,24 @@
+{
+  "slug": "1-2-3-production",
+  "sha256": "fbe3473d06b65724287d67cbe50c86bf78a6ab35671c77b35dbb5f9141f43b37",
+  "entity_name": "1-2-3 Production",
+  "aka": ["1.2.3. Production", "123 Production"],
+  "type": "production-company",
+  "country": "FR",
+  "founded": null,
+  "defunct": null,
+  "parent_company": null,
+  "official_website": null,
+  "wikipedia": null,
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "French television and film production company.",
+  "duplicate_files": ["downloads/0/1-2-3-production.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Web search – 1-2-3 Production", "url": "https://www.google.com/search?q=%221-2-3+Production%22+French+TV"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "low"
+}

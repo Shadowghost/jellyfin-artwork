@@ -1,0 +1,24 @@
+{
+  "slug": "viacom-canada",
+  "sha256": "f87d176eb762c296c8d234017b9d8e1e723bd81f399aca2529eb3242e03b33bd",
+  "entity_name": "Viacom Canada",
+  "aka": [],
+  "type": "production-company",
+  "country": "CA",
+  "founded": null,
+  "defunct": null,
+  "parent_company": "Viacom (now Paramount Global)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Viacom_(original)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Canadian division of Viacom, the American media conglomerate, involved in production and distribution of programming in Canada.",
+  "duplicate_files": ["downloads/V/viacom-canada.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Viacom (original)", "url": "https://en.wikipedia.org/wiki/Viacom_(original)"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "low"
+}

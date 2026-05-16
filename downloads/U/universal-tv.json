@@ -1,0 +1,24 @@
+{
+  "slug": "universal-tv",
+  "sha256": "86941aa0eb95947ca9aad1e3fd59943a3a121a8af939bd311b7d68e1841fc7d0",
+  "entity_name": "Universal TV",
+  "aka": ["Universal Channel", "13th Street Universal"],
+  "type": "cable-network",
+  "country": "DE",
+  "founded": "2008",
+  "defunct": null,
+  "parent_company": "NBCUniversal (Comcast)",
+  "official_website": "https://www.universal-tv.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Universal_TV_(German_TV_channel)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Pay-television entertainment channel operated by NBCUniversal Global Networks; the Universal TV brand is used in several markets including Germany.",
+  "duplicate_files": ["downloads/U/universal-tv.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Universal TV (German TV channel)", "url": "https://en.wikipedia.org/wiki/Universal_TV_(German_TV_channel)"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

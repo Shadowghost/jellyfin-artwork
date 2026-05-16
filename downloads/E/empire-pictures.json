@@ -1,0 +1,24 @@
+{
+  "slug": "empire-pictures",
+  "sha256": "5a2db4e7bcf19f06a6796ab29a4ecd188abc0718083c7edb8d93b6f9e8ac8624",
+  "entity_name": "Empire Pictures",
+  "aka": ["Empire International Pictures"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1983",
+  "defunct": "1988",
+  "parent_company": null,
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Empire_International_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film production company founded by Charles Band, specialized in low-budget horror and fantasy films during the 1980s.",
+  "duplicate_files": ["downloads/E/empire-pictures.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Empire International Pictures", "url": "https://en.wikipedia.org/wiki/Empire_International_Pictures"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

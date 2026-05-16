@@ -1,0 +1,24 @@
+{
+  "slug": "cmc-pictures",
+  "sha256": "af8fae6bed1a8279af995596867568334373d7b87a71d41aeaf96a7bfee5d72c",
+  "entity_name": "CMC Pictures",
+  "aka": ["CMC Pictures Holdings"],
+  "type": "distributor",
+  "country": "CN",
+  "founded": "2017",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.cmcpictures.com/",
+  "wikipedia": null,
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Chinese film distribution company specializing in distributing Chinese-language films in international markets.",
+  "duplicate_files": ["downloads/C/cmc-pictures.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "CMC Pictures official site", "url": "https://www.cmcpictures.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

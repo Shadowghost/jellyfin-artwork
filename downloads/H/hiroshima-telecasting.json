@@ -1,0 +1,25 @@
+{
+  "slug": "hiroshima-telecasting",
+  "sha256": "7abeac171e4759dfaf3251181e6748105ced498885a640d36b31253742a30f7d",
+  "entity_name": "Hiroshima Telecasting",
+  "aka": ["HTV", "Hiroshima Telecasting Co., Ltd."],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1962",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.htv.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Hiroshima_Telecasting",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial television broadcaster based in Hiroshima, affiliated with the Nippon News Network and Nippon Television Network System.",
+  "duplicate_files": ["downloads/H/hiroshima-telecasting.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Hiroshima Telecasting", "url": "https://en.wikipedia.org/wiki/Hiroshima_Telecasting"},
+    {"title": "HTV official site", "url": "https://www.htv.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

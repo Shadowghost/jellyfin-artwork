@@ -1,0 +1,25 @@
+{
+  "slug": "nbc-universal",
+  "sha256": "82949c0f5581f311ef56a4d71fb8a3e06d550748655545b3ab35880148f8134e",
+  "entity_name": "NBCUniversal",
+  "aka": ["NBC Universal", "NBCU"],
+  "type": "studio",
+  "country": "US",
+  "founded": "2004",
+  "defunct": null,
+  "parent_company": "Comcast",
+  "official_website": "https://www.nbcuniversal.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/NBCUniversal",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American multinational mass media and entertainment conglomerate owned by Comcast, parent of NBC, Universal Pictures, and Universal Studios.",
+  "duplicate_files": ["downloads/N/nbc-universal.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - NBCUniversal", "url": "https://en.wikipedia.org/wiki/NBCUniversal"},
+    {"title": "NBCUniversal official", "url": "https://www.nbcuniversal.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

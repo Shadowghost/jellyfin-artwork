@@ -1,0 +1,25 @@
+{
+  "slug": "access-entertainment",
+  "sha256": "6ee0e14e124a8202b9f8339f6e4b3aa6e97853144bcf96a792d6d2c8f2a73285",
+  "entity_name": "Access Entertainment",
+  "aka": ["Access Industries Entertainment"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2016",
+  "defunct": null,
+  "parent_company": "Access Industries",
+  "official_website": "https://www.accessentertainment.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Access_Industries",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Entertainment investment arm of Len Blavatnik's Access Industries, focused on financing and producing film, TV, and theatre.",
+  "duplicate_files": ["downloads/A/access-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Access Entertainment", "url": "https://www.accessentertainment.com/"},
+    {"title": "Wikipedia – Access Industries", "url": "https://en.wikipedia.org/wiki/Access_Industries"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

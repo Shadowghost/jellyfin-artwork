@@ -1,0 +1,24 @@
+{
+  "slug": "virtual-films",
+  "sha256": "2942f7360eaddc365aae2bf52334dafaac346ddb469777a847e4e8db2b553c60",
+  "entity_name": "Virtual Films",
+  "aka": ["Virtual Studios", "Virtual Films/Virtual Studios"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2004",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Virtual_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film financing and production company founded by Benjamin Waisbren that co-financed Warner Bros. titles such as The Assassination of Jesse James and 10,000 BC.",
+  "duplicate_files": ["downloads/V/virtual-films.svg", "downloads/V/virtual-studios.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Virtual Studios", "url": "https://en.wikipedia.org/wiki/Virtual_Studios"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

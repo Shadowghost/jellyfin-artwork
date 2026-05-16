@@ -1,0 +1,25 @@
+{
+  "slug": "sesame-street",
+  "sha256": "ef648b0a93667a49a767a87ef39034f8dbbccbb704a2c4856bdf6973f2bc11dc",
+  "entity_name": "Sesame Street",
+  "aka": [],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1969",
+  "defunct": null,
+  "parent_company": "Sesame Workshop",
+  "official_website": "https://www.sesamestreet.org/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sesame_Street",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Long-running American educational children's television series produced by Sesame Workshop, first aired in 1969; features Muppet characters including Big Bird, Elmo, Bert and Ernie, and Cookie Monster.",
+  "duplicate_files": ["downloads/S/sesame-street.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Sesame Street", "url": "https://en.wikipedia.org/wiki/Sesame_Street"},
+    {"title": "Sesame Street official site", "url": "https://www.sesamestreet.org/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

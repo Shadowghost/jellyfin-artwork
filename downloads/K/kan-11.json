@@ -1,0 +1,24 @@
+{
+  "slug": "kan-11",
+  "sha256": "9933644f1a75e4445805e6144a2c5ac80fede03f96449805da37007e9b385736",
+  "entity_name": "Kan 11",
+  "aka": ["Kan", "IPBC"],
+  "type": "broadcast-network",
+  "country": "IL",
+  "founded": "2017",
+  "defunct": null,
+  "parent_company": "Israeli Public Broadcasting Corporation (Kan)",
+  "official_website": "https://www.kan.org.il/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Kan_11",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Israeli state-owned free-to-air television channel operated by the Israeli Public Broadcasting Corporation (Kan); launched May 2017 after Channel 1 closed.",
+  "duplicate_files": ["downloads/K/kan-11.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Kan 11", "url": "https://en.wikipedia.org/wiki/Kan_11"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

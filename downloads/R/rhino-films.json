@@ -1,0 +1,25 @@
+{
+  "slug": "rhino-films",
+  "sha256": "1abffc7110c481d669b5ef12830d348444ea449be6f1c94c6495aa27ec9b178f",
+  "entity_name": "Rhino Films",
+  "aka": [],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1986",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Rhino_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Independent American film production company originally established in 1986 by Rhino Records with New World Pictures; produced films including Fear and Loathing in Las Vegas (1998) and The Sessions (2012).",
+  "duplicate_files": ["downloads/R/rhino-films.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Rhino Entertainment", "url": "https://en.wikipedia.org/wiki/Rhino_Entertainment"},
+    {"title": "The Numbers – Rhino Films", "url": "https://www.the-numbers.com/movies/production-company/Rhino-Films"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "marvel-knights",
+  "sha256": "014de529496aebeb67c7f3f7dd079eb2484410074f71acdfd4df01cb6ceae337",
+  "entity_name": "Marvel Knights",
+  "aka": [],
+  "type": "publisher",
+  "country": "US",
+  "founded": "1998",
+  "defunct": null,
+  "parent_company": "Marvel Entertainment (The Walt Disney Company)",
+  "official_website": "https://www.marvel.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Marvel_Knights",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Imprint of Marvel Comics launched in 1998 for darker, more mature stories featuring street-level characters such as Daredevil and the Punisher; also used as a sub-brand for animated direct-to-video films.",
+  "duplicate_files": ["downloads/M/marvel-knights.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Marvel Knights", "url": "https://en.wikipedia.org/wiki/Marvel_Knights"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "tnt-us",
+  "sha256": "0d82eeff73e8052e232c19b4992880e0ea4f9ff79b88d5f530c7fafd3de7e70f",
+  "entity_name": "TNT (US)",
+  "aka": ["Turner Network Television", "TNT"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1988",
+  "defunct": null,
+  "parent_company": "Warner Bros. Discovery",
+  "official_website": "https://www.tntdrama.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/TNT_(American_TV_network)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American pay-TV channel owned by Warner Bros. Discovery, originally founded by Ted Turner; programs drama, sports and feature films.",
+  "duplicate_files": [
+    "downloads/T/tnt-us.svg",
+    "downloads/T/turner-network-television-tnt.svg",
+    "downloads/T/turner-network-television.svg"
+  ],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia - TNT (American TV network)", "url": "https://en.wikipedia.org/wiki/TNT_(American_TV_network)"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

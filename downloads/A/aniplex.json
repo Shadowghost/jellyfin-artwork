@@ -1,0 +1,25 @@
+{
+  "slug": "aniplex",
+  "sha256": "d96195ec88457b8ab71813261bbbe58b44e546f8a170fea6b370de1ef4d6da72",
+  "entity_name": "Aniplex",
+  "aka": ["Aniplex Inc.", "アニプレックス"],
+  "type": "production-company",
+  "country": "JP",
+  "founded": "1995",
+  "defunct": null,
+  "parent_company": "Sony Music Entertainment Japan",
+  "official_website": "https://www.aniplex.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Aniplex",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese anime production and music company, a subsidiary of Sony Music Entertainment Japan; produces and licenses anime such as Demon Slayer and Fate series.",
+  "duplicate_files": ["downloads/A/aniplex.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Aniplex", "url": "https://en.wikipedia.org/wiki/Aniplex"},
+    {"title": "Aniplex official site", "url": "https://www.aniplex.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

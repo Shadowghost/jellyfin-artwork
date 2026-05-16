@@ -1,0 +1,24 @@
+{
+  "slug": "todd-ao",
+  "sha256": "e5d72b5314b89e613e8afa6dff49fda221eafdc3006ca068c48a4c3b9819712a",
+  "entity_name": "Todd-AO",
+  "aka": ["Todd-AO Corporation"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1953",
+  "defunct": null,
+  "parent_company": "Ascent Media (Deluxe Entertainment Services Group)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Todd-AO",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American post-production company and former 70mm widescreen film format pioneer founded by Mike Todd and the American Optical Company.",
+  "duplicate_files": ["downloads/T/todd-ao.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Todd-AO", "url": "https://en.wikipedia.org/wiki/Todd-AO"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

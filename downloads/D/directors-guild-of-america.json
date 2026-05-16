@@ -1,0 +1,25 @@
+{
+  "slug": "directors-guild-of-america",
+  "sha256": "590c27abee768e97e2f3147aecc8a54ed37da87c762de592b899839d0f7ac1de",
+  "entity_name": "Directors Guild of America",
+  "aka": ["DGA"],
+  "type": "other",
+  "country": "US",
+  "founded": "1936",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.dga.org/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Directors_Guild_of_America",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American labor union representing film and television directors and members of the directorial team in the United States.",
+  "duplicate_files": ["downloads/D/directors-guild-of-america.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Directors Guild of America", "url": "https://en.wikipedia.org/wiki/Directors_Guild_of_America"},
+    {"title": "DGA official site", "url": "https://www.dga.org/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

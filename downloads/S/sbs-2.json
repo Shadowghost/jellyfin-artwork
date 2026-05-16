@@ -1,0 +1,29 @@
+{
+  "slug": "sbs-2",
+  "sha256": "6a2fbbd93ac534ce32146026e1b82b01e7cad91427df39ec01d1e00c1e99130c",
+  "entity_name": "Special Broadcasting Service",
+  "aka": ["SBS", "SBS Australia", "SBS 2", "SBS Viceland"],
+  "type": "broadcast-network",
+  "country": "AU",
+  "founded": "1975",
+  "defunct": null,
+  "parent_company": "Government of Australia",
+  "official_website": "https://www.sbs.com.au/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Special_Broadcasting_Service",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Australian hybrid-funded public broadcaster focusing on multicultural and multilingual television and radio; SBS 2 (now SBS Viceland) is a secondary channel.",
+  "duplicate_files": [
+    "downloads/S/sbs-2.svg",
+    "downloads/S/sbs-australia.svg",
+    "downloads/S/special-broadcasting-service.svg"
+  ],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia – Special Broadcasting Service", "url": "https://en.wikipedia.org/wiki/Special_Broadcasting_Service"},
+    {"title": "SBS official", "url": "https://www.sbs.com.au/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

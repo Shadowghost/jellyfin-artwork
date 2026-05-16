@@ -1,0 +1,24 @@
+{
+  "slug": "cosmopolitan-tv",
+  "sha256": "4c2a829ffbc9d66ba19e9118cfd13a42889652d7cdccd4435d70025aed404c8e",
+  "entity_name": "Cosmopolitan TV",
+  "aka": ["Cosmo TV"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "2008",
+  "defunct": null,
+  "parent_company": "Hearst Communications",
+  "official_website": "https://www.cosmopolitan.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Cosmopolitan_TV",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Television channel brand based on Cosmopolitan magazine targeted at young women, launched in various international markets (Latin America, Spain, Canada, Asia) by Hearst.",
+  "duplicate_files": ["downloads/C/cosmopolitan-tv.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Cosmopolitan TV", "url": "https://en.wikipedia.org/wiki/Cosmopolitan_TV"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

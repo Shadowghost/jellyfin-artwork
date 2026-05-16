@@ -1,0 +1,28 @@
+{
+  "slug": "reliance-entertainment",
+  "sha256": "c11f22efaaeb0fdd7fc9d6517d641bf6bbc53d39fb190c858434daf6de68af84",
+  "entity_name": "Reliance Entertainment",
+  "aka": ["Reliance Big Entertainment"],
+  "type": "production-company",
+  "country": "IN",
+  "founded": "2005",
+  "defunct": null,
+  "parent_company": "Reliance Group",
+  "official_website": "https://www.reliance-entertainment.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Reliance_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Indian entertainment company under Anil Ambani's Reliance Group, active in film production, distribution, gaming and digital.",
+  "duplicate_files": [
+    "downloads/R/reliance-big-entertainment.svg",
+    "downloads/R/reliance-entertainment.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Reliance Entertainment", "url": "https://en.wikipedia.org/wiki/Reliance_Entertainment"},
+    {"title": "Reliance Entertainment official", "url": "https://www.reliance-entertainment.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

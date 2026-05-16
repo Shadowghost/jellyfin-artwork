@@ -1,0 +1,32 @@
+{
+  "slug": "universal-pictures",
+  "sha256": "409fd5ba763402f8d6c408adb459c819cdac9b6ed3b4b2ae7a0da5a558c9b684",
+  "entity_name": "Universal Pictures",
+  "aka": ["Universal Studios", "Universal Pictures Corporation", "Universal International Pictures", "UPI"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1912",
+  "defunct": null,
+  "parent_company": "NBCUniversal (Comcast)",
+  "official_website": "https://www.universalpictures.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Universal_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Universal Blue", "hex": "#0033A0"}
+  ],
+  "logo_usage": null,
+  "description": "American film production and distribution company, one of the 'Big Five' major studios, owned by NBCUniversal.",
+  "duplicate_files": [
+    "downloads/U/universal-international-pictures.svg",
+    "downloads/U/universal-pictures-corporation.svg",
+    "downloads/U/universal-pictures-international-upi.svg",
+    "downloads/U/universal-pictures.svg",
+    "downloads/U/universal-productions-france.svg"
+  ],
+  "duplicate_count": 5,
+  "sources": [
+    {"title": "Wikipedia – Universal Pictures", "url": "https://en.wikipedia.org/wiki/Universal_Pictures"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "spindlehorse",
+  "sha256": "6becab159336355b7e0ecf01fc2c4085428e4200a8c08f0ce086a898d3d84853",
+  "entity_name": "SpindleHorse Toons",
+  "aka": ["SpindleHorse"],
+  "type": "studio",
+  "country": "US",
+  "founded": "2018",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.spindlehorse.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Vivienne_Medrano",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American independent animation studio founded by Vivienne Medrano, producer of Helluva Boss and the Hazbin Hotel pilot.",
+  "duplicate_files": ["downloads/S/spindlehorse.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "SpindleHorse official", "url": "https://www.spindlehorse.com/"},
+    {"title": "Wikipedia – Vivienne Medrano", "url": "https://en.wikipedia.org/wiki/Vivienne_Medrano"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

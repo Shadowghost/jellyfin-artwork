@@ -1,0 +1,26 @@
+{
+  "slug": "namco",
+  "sha256": "09117ae4c44bc2891a40f9c627e14c4aab00a96d8dda88fcc7f165fa34d5c432",
+  "entity_name": "Namco",
+  "aka": ["Bandai Namco", "Bandai Namco Filmworks"],
+  "type": "other",
+  "country": "JP",
+  "founded": "1955",
+  "defunct": "2006",
+  "parent_company": "Bandai Namco Holdings",
+  "official_website": "https://www.bandainamcoent.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Namco",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Namco Red", "hex": "#ED1C24"}
+  ],
+  "logo_usage": null,
+  "description": "Japanese video game and amusement company, merged with Bandai in 2005 to form Bandai Namco; Namco's anime production arm became Bandai Namco Filmworks.",
+  "duplicate_files": ["downloads/B/bandai-namco-filmworks.svg", "downloads/N/namco.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Namco", "url": "https://en.wikipedia.org/wiki/Namco"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "bethesda-game-studios",
+  "sha256": "3e2288672a040ea93a8ada87f8bbf26130962add5021a814a458453863d0004a",
+  "entity_name": "Bethesda Game Studios",
+  "aka": ["BGS", "Bethesda"],
+  "type": "studio",
+  "country": "US",
+  "founded": "2001",
+  "defunct": null,
+  "parent_company": "ZeniMax Media (Microsoft)",
+  "official_website": "https://bethesdagamestudios.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Bethesda_Game_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American video game development studio known for The Elder Scrolls, Fallout, and Starfield franchises.",
+  "duplicate_files": ["downloads/B/bethesda-game-studios.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Bethesda Game Studios", "url": "https://en.wikipedia.org/wiki/Bethesda_Game_Studios"},
+    {"title": "Bethesda Game Studios official site", "url": "https://bethesdagamestudios.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

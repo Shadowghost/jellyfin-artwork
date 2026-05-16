@@ -1,0 +1,27 @@
+{
+  "slug": "bbc-hd",
+  "sha256": "0ff0f8aeb6fb1b1a5a62ea68e6fd045c58457313f9cf2e94f76fc869abcf7dd9",
+  "entity_name": "BBC HD",
+  "aka": [],
+  "type": "broadcast-network",
+  "country": "GB",
+  "founded": "2006",
+  "defunct": "2013",
+  "parent_company": "BBC",
+  "official_website": "https://www.bbc.co.uk/",
+  "wikipedia": "https://en.wikipedia.org/wiki/BBC_HD",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "BBC Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "High-definition television channel operated by the BBC from 2006 to 2013, replaced by BBC Two HD.",
+  "duplicate_files": ["downloads/B/bbc-hd.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – BBC HD", "url": "https://en.wikipedia.org/wiki/BBC_HD"},
+    {"title": "BBC", "url": "https://www.bbc.co.uk/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "fangoria",
+  "sha256": "33e2f81b0192e26b6769ccf8db32cad0f48e4a35272e1fb7067dc88202107288",
+  "entity_name": "Fangoria",
+  "aka": [],
+  "type": "publisher",
+  "country": "US",
+  "founded": "1979",
+  "defunct": null,
+  "parent_company": "Cinestate (formerly), then sold; currently owned by The Fangoria Group",
+  "official_website": "https://www.fangoria.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Fangoria",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Long-running American horror-genre magazine and multimedia brand covering horror, fantasy and sci-fi films, with related podcasts, home video releases and original productions.",
+  "duplicate_files": ["downloads/F/fangoria.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Fangoria", "url": "https://en.wikipedia.org/wiki/Fangoria"},
+    {"title": "Fangoria official site", "url": "https://www.fangoria.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

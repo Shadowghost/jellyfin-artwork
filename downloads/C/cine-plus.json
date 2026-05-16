@@ -1,0 +1,24 @@
+{
+  "slug": "cine-plus",
+  "sha256": "1baa0250dddf0a3dfc3ddde05a07bfcb0bd78fc7356e94917d6900e574e545c6",
+  "entity_name": "Ciné+",
+  "aka": ["Cine Plus", "CinéCinéma"],
+  "type": "cable-network",
+  "country": "FR",
+  "founded": "1991",
+  "defunct": null,
+  "parent_company": "Canal+ Group",
+  "official_website": "https://www.canalplus.com/cineplus",
+  "wikipedia": "https://en.wikipedia.org/wiki/Cin%C3%A9%2B",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "French film-oriented pay television channels package operated by Canal+ Group.",
+  "duplicate_files": ["downloads/C/cine-plus.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Ciné+", "url": "https://en.wikipedia.org/wiki/Cin%C3%A9%2B"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

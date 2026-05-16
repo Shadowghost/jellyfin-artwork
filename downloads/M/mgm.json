@@ -1,0 +1,27 @@
+{
+  "slug": "mgm",
+  "sha256": "8360c7f2525fc72e307b71c34da38d742e7c73273b137b2c215d54e8551efd5d",
+  "entity_name": "Metro-Goldwyn-Mayer",
+  "aka": ["MGM", "MGM Studios", "Metro-Goldwyn-Mayer Studios"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1924",
+  "defunct": null,
+  "parent_company": "Amazon (Amazon MGM Studios)",
+  "official_website": "https://www.mgm.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Metro-Goldwyn-Mayer",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "MGM Gold", "hex": "#C5A572"},
+    {"name": "MGM Black", "hex": "#000000"}
+  ],
+  "logo_usage": "Famous Leo the Lion mascot in a roundel inscribed with the Latin motto 'Ars Gratia Artis' ('Art for art's sake').",
+  "description": "American film and television production and distribution company founded in 1924; acquired by Amazon in 2022 and rebranded as Amazon MGM Studios.",
+  "duplicate_files": ["downloads/M/mgm.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Metro-Goldwyn-Mayer", "url": "https://en.wikipedia.org/wiki/Metro-Goldwyn-Mayer"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

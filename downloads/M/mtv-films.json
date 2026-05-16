@@ -1,0 +1,30 @@
+{
+  "slug": "mtv-films",
+  "sha256": "d5bc1c94a169139009418bdf086eb3746a489722781020bdc3c5e73df052f72b",
+  "entity_name": "MTV Entertainment Studios",
+  "aka": ["MTV Films", "MTV Productions", "MTV Documentary Films", "MTV Production Development"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1996",
+  "defunct": null,
+  "parent_company": "Paramount Global",
+  "official_website": "https://www.mtv.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/MTV_Entertainment_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Film and television production division of MTV (under Paramount Global), responsible for theatrical features like Beavis and Butt-Head Do America and Jackass, plus documentary and scripted series.",
+  "duplicate_files": [
+    "downloads/M/mtv-documentary-films.svg",
+    "downloads/M/mtv-entertainment-studios.svg",
+    "downloads/M/mtv-films.svg",
+    "downloads/M/mtv-production-development.svg",
+    "downloads/M/mtv-productions.svg"
+  ],
+  "duplicate_count": 5,
+  "sources": [
+    {"title": "Wikipedia - MTV Entertainment Studios", "url": "https://en.wikipedia.org/wiki/MTV_Entertainment_Studios"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "screen-nsw",
+  "sha256": "a4b390b671a9b0357aff15d8b4e6af1bce988a7424503a2b8a517ef22c35dfe1",
+  "entity_name": "Screen NSW",
+  "aka": ["Screen New South Wales"],
+  "type": "government-agency",
+  "country": "AU",
+  "founded": "2010",
+  "defunct": null,
+  "parent_company": "Create NSW (Government of New South Wales)",
+  "official_website": "https://www.screen.nsw.gov.au",
+  "wikipedia": "https://en.wikipedia.org/wiki/Screen_NSW",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "New South Wales government agency that supports and promotes the screen industry in the Australian state.",
+  "duplicate_files": ["downloads/S/screen-nsw-regional-filming-fund.svg", "downloads/S/screen-nsw.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Screen NSW", "url": "https://en.wikipedia.org/wiki/Screen_NSW"},
+    {"title": "Screen NSW official site", "url": "https://www.screen.nsw.gov.au/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "we-tv",
+  "sha256": "90a8ad6775bc7d1739007d0af39a785fe25ec1106a1f38d65c9b0cb71b702984",
+  "entity_name": "WE tv",
+  "aka": ["Women's Entertainment", "WE: Women's Entertainment"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1997",
+  "defunct": null,
+  "parent_company": "AMC Networks",
+  "official_website": "https://www.wetv.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/WE_tv",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American basic cable channel owned by AMC Networks, targeting a female audience with reality and lifestyle programming.",
+  "duplicate_files": ["downloads/W/we-tv.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – WE tv", "url": "https://en.wikipedia.org/wiki/WE_tv"},
+    {"title": "WE tv official site", "url": "https://www.wetv.com"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

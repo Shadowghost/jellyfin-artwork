@@ -1,0 +1,28 @@
+{
+  "slug": "the-history-channel",
+  "sha256": "e77df51d8fb0dd3aec29848ab0547556f53b49634bd679eb1b00a9da4be2ac71",
+  "entity_name": "History (The History Channel)",
+  "aka": ["History", "History Channel", "The History Channel"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1995",
+  "defunct": null,
+  "parent_company": "A&E Networks (Disney/Hearst)",
+  "official_website": "https://www.history.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/History_(American_TV_channel)",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "History Yellow", "hex": "#FFCC00"},
+    {"name": "History Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "American pay-television channel operated by A&E Networks, broadcasting documentaries, reality shows, and dramatic programming about historical topics.",
+  "duplicate_files": ["downloads/T/the-history-channel.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - History (American TV channel)", "url": "https://en.wikipedia.org/wiki/History_(American_TV_channel)"},
+    {"title": "History official site", "url": "https://www.history.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

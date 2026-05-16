@@ -1,0 +1,29 @@
+{
+  "slug": "youtube",
+  "sha256": "bfbd88f7bf9d31d4760742691c85f30c8aa812b52ee0f3a0bccee361082381e0",
+  "entity_name": "YouTube",
+  "aka": ["YouTube LLC"],
+  "type": "streaming-service",
+  "country": "US",
+  "founded": "2005",
+  "defunct": null,
+  "parent_company": "Google (Alphabet Inc.)",
+  "official_website": "https://www.youtube.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/YouTube",
+  "brand_guidelines_url": "https://www.youtube.com/howyoutubeworks/resources/brand-resources/",
+  "brand_colors": [
+    {"name": "YouTube Red", "hex": "#FF0000"},
+    {"name": "YouTube White", "hex": "#FFFFFF"},
+    {"name": "YouTube Black", "hex": "#282828"}
+  ],
+  "logo_usage": "Use only the official YouTube logo files from the YouTube brand resources; do not modify, reproportion, or recolor the logo.",
+  "description": "American online video sharing and streaming platform owned by Google, founded in 2005; the world's largest video-sharing service and one of the most-visited websites globally.",
+  "duplicate_files": ["downloads/Y/youtube.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - YouTube", "url": "https://en.wikipedia.org/wiki/YouTube"},
+    {"title": "YouTube Brand Resources", "url": "https://www.youtube.com/howyoutubeworks/resources/brand-resources/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

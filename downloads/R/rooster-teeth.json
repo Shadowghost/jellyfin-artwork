@@ -1,0 +1,30 @@
+{
+  "slug": "rooster-teeth",
+  "sha256": "f07595e312427b0729409ec820f751f5e00bd4ed2741894d3f0b72ea759eaeb8",
+  "entity_name": "Rooster Teeth",
+  "aka": ["Rooster Teeth Productions"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2003",
+  "defunct": "2024",
+  "parent_company": "Warner Bros. Discovery (former)",
+  "official_website": "https://roosterteeth.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Rooster_Teeth",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Rooster Teeth Orange", "hex": "#F1671E"},
+    {"name": "Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "American digital media and production company best known for Red vs. Blue and RWBY; shut down by Warner Bros. Discovery in May 2024.",
+  "duplicate_files": [
+    "downloads/R/rooster-teeth-productions.svg",
+    "downloads/R/rooster-teeth.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Rooster Teeth", "url": "https://en.wikipedia.org/wiki/Rooster_Teeth"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "entertainment-tonight",
+  "sha256": "1af31615c0495ed85ef2f6e6afbe28a60cd0e759b3e36e5550e7e6cf3c47c800",
+  "entity_name": "Entertainment Tonight",
+  "aka": ["ET"],
+  "type": "news",
+  "country": "US",
+  "founded": "1981",
+  "defunct": null,
+  "parent_company": "CBS Media Ventures (Paramount Global)",
+  "official_website": "https://www.etonline.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Entertainment_Tonight",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American first-run entertainment news syndicated television show.",
+  "duplicate_files": ["downloads/E/entertainment-tonight.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Entertainment Tonight", "url": "https://en.wikipedia.org/wiki/Entertainment_Tonight"},
+    {"title": "ET Online", "url": "https://www.etonline.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

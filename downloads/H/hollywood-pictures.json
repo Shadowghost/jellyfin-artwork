@@ -1,0 +1,28 @@
+{
+  "slug": "hollywood-pictures",
+  "sha256": "91a3bd27aac4534becc11859b8d3aceed9527f5943485a39efecba2d3449de7a",
+  "entity_name": "Hollywood Pictures",
+  "aka": ["Hollywood Pictures Home Entertainment", "Hollywood Pictures Home Video"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1989",
+  "defunct": "2007",
+  "parent_company": "The Walt Disney Company",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hollywood_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Defunct American film label of The Walt Disney Studios, active 1989–2001 and briefly revived 2006–2007; released films such as The Sixth Sense and Pretty Woman.",
+  "duplicate_files": [
+    "downloads/H/hollywood-pictures-home-entertainment.svg",
+    "downloads/H/hollywood-pictures-home-video.svg",
+    "downloads/H/hollywood-pictures.svg"
+  ],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia – Hollywood Pictures", "url": "https://en.wikipedia.org/wiki/Hollywood_Pictures"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "avnet",
+  "sha256": "ecebb49577a921500a69e1b718f5f9e4f9e7a3eae4f1b13b560a4c043ed77b53",
+  "entity_name": "Avnet, Inc.",
+  "aka": ["Avnet"],
+  "type": "other",
+  "country": "US",
+  "founded": "1921",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.avnet.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Avnet",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Avnet Blue", "hex": "#005DAA"}
+  ],
+  "logo_usage": null,
+  "description": "American distributor of electronic components, possibly associated with Jon Avnet's film production work.",
+  "duplicate_files": ["downloads/A/avnet.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Avnet", "url": "https://en.wikipedia.org/wiki/Avnet"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "low"
+}

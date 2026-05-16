@@ -1,0 +1,25 @@
+{
+  "slug": "olm-digital-inc",
+  "sha256": "6afd58e9ace70726a53f695723758d15744f10093991c1eaa2b3c5c56b2667e2",
+  "entity_name": "OLM Digital, Inc.",
+  "aka": ["OLM Digital"],
+  "type": "studio",
+  "country": "JP",
+  "founded": "1990",
+  "defunct": null,
+  "parent_company": "Imagica Group (via OLM, Inc.)",
+  "official_website": "https://www.olm.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/OLM,_Inc.",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese digital production studio and division of OLM, Inc., providing CGI and digital effects for anime including the Pokemon series.",
+  "duplicate_files": ["downloads/O/olm-digital-inc.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - OLM, Inc.", "url": "https://en.wikipedia.org/wiki/OLM,_Inc."},
+    {"title": "OLM official site", "url": "https://www.olm.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

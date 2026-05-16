@@ -1,0 +1,28 @@
+{
+  "slug": "national-geographic-society",
+  "sha256": "d7dab188da020da5ae780aa678bb91e2541219d86215f331cae2b8fd32ef5e34",
+  "entity_name": "National Geographic Society",
+  "aka": ["NGS", "Nat Geo"],
+  "type": "publisher",
+  "country": "US",
+  "founded": "1888",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.nationalgeographic.org",
+  "wikipedia": "https://en.wikipedia.org/wiki/National_Geographic_Society",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Nat Geo Yellow", "hex": "#FFCC00"},
+    {"name": "Black", "hex": "#000000"}
+  ],
+  "logo_usage": "The iconic yellow rectangle border is a key brand asset.",
+  "description": "American non-profit scientific and educational organization founded in 1888, focused on geography, archaeology, natural science and exploration.",
+  "duplicate_files": ["downloads/N/national-geographic-society.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – National Geographic Society", "url": "https://en.wikipedia.org/wiki/National_Geographic_Society"},
+    {"title": "NGS official site", "url": "https://www.nationalgeographic.org"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

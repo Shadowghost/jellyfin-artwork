@@ -1,0 +1,27 @@
+{
+  "slug": "animal-planet",
+  "sha256": "3f33e1a6ce611d93356c915b462034921cbf5f792e0539e03e0fd0d8b5de4563",
+  "entity_name": "Animal Planet",
+  "aka": ["AP"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1996",
+  "defunct": null,
+  "parent_company": "Warner Bros. Discovery",
+  "official_website": "https://www.animalplanet.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Animal_Planet",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Animal Planet Blue", "hex": "#0072CE"}
+  ],
+  "logo_usage": null,
+  "description": "American multinational pay television channel focused on animal- and nature-related programming.",
+  "duplicate_files": ["downloads/A/animal-planet.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Animal Planet", "url": "https://en.wikipedia.org/wiki/Animal_Planet"},
+    {"title": "Animal Planet official", "url": "https://www.animalplanet.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

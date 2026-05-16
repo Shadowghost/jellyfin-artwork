@@ -1,0 +1,27 @@
+{
+  "slug": "bandai-namco-group",
+  "sha256": "eb7c0a6fa6db4a0533d235b44b08380059308d77d97b197f28d03ac3cdfa7159",
+  "entity_name": "Bandai Namco Holdings",
+  "aka": ["Bandai Namco", "Bandai Namco Group", "BNHD"],
+  "type": "other",
+  "country": "JP",
+  "founded": "2005",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.bandainamco.co.jp/en/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Bandai_Namco_Holdings",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Bandai Namco Red", "hex": "#EE1D23"}
+  ],
+  "logo_usage": null,
+  "description": "Japanese multinational entertainment holding company formed in 2005 from the merger of Bandai and Namco; encompasses toys, games, anime, arcades and amusement parks.",
+  "duplicate_files": ["downloads/B/bandai-namco-group.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Bandai Namco Holdings", "url": "https://en.wikipedia.org/wiki/Bandai_Namco_Holdings"},
+    {"title": "Bandai Namco corporate site", "url": "https://www.bandainamco.co.jp/en/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

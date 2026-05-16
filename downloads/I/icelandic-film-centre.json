@@ -1,0 +1,26 @@
+{
+  "slug": "icelandic-film-centre",
+  "sha256": "53eeeec646d4ef28591535b08b2cd999bd05e17538a1b030a1cde7da18e7c69e",
+  "entity_name": "Icelandic Film Centre",
+  "aka": ["Kvikmyndamiðstöð Íslands"],
+  "type": "government-agency",
+  "country": "IS",
+  "founded": "1979",
+  "defunct": null,
+  "parent_company": "Government of Iceland (Ministry of Culture)",
+  "official_website": "https://www.icelandicfilmcentre.is/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Icelandic_Film_Centre",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Government agency promoting and supporting Icelandic film production, education, and international distribution.",
+  "duplicate_files": [
+    "downloads/I/icelandic-film-centre.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Icelandic Film Centre", "url": "https://en.wikipedia.org/wiki/Icelandic_Film_Centre"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

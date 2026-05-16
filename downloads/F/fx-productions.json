@@ -1,0 +1,27 @@
+{
+  "slug": "fx-productions",
+  "sha256": "36296504b674584d7d46852b144b08cbbf5467f89713ef12b40548c2b078d2e7",
+  "entity_name": "FX Productions",
+  "aka": ["FXP"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2008",
+  "defunct": null,
+  "parent_company": "FX Networks (The Walt Disney Company)",
+  "official_website": "https://www.fxnetworks.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/FX_Productions",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "FX Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "American television production company and division of FX Networks, owned by The Walt Disney Company.",
+  "duplicate_files": ["downloads/F/fx-productions.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - FX Productions", "url": "https://en.wikipedia.org/wiki/FX_Productions"},
+    {"title": "FX Networks", "url": "https://www.fxnetworks.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

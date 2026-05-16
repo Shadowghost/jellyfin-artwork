@@ -1,0 +1,32 @@
+{
+  "slug": "arte",
+  "sha256": "a79fb57834591551d74eb09645abf691f3e351e21178b376f5b805e712aded46",
+  "entity_name": "Arte",
+  "aka": ["ARTE", "Association Relative à la Télévision Européenne"],
+  "type": "broadcast-network",
+  "country": "FR",
+  "founded": "1991",
+  "defunct": null,
+  "parent_company": "Arte GEIE (Arte France + Arte Deutschland)",
+  "official_website": "https://www.arte.tv/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Arte",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Arte Black", "hex": "#000000"},
+    {"name": "Arte White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": "Wordmark 'ARTE' typically rendered in black on white or white on black.",
+  "description": "Franco-German public service cultural television network broadcasting in French, German and other European languages.",
+  "duplicate_files": [
+    "downloads/A/arte-france-cin-ma.svg",
+    "downloads/A/arte.svg",
+    "downloads/Z/zdf-arte.svg"
+  ],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia - Arte", "url": "https://en.wikipedia.org/wiki/Arte"},
+    {"title": "Arte official site", "url": "https://www.arte.tv/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

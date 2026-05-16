@@ -1,0 +1,26 @@
+{
+  "slug": "nickelodeon-studios",
+  "sha256": "ffc57dec211d182e5c3a9c62a685554267717983f5b504b81ef3f276881add49",
+  "entity_name": "Nickelodeon Studios",
+  "aka": ["Nick Studios"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1990",
+  "defunct": null,
+  "parent_company": "Paramount Global (Nickelodeon)",
+  "official_website": "https://www.nick.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Nickelodeon_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Nickelodeon Orange", "hex": "#FF6600"}
+  ],
+  "logo_usage": null,
+  "description": "American television and film production studio of Nickelodeon, the children's cable network owned by Paramount Global.",
+  "duplicate_files": ["downloads/N/nickelodeon-studios.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Nickelodeon Studios", "url": "https://en.wikipedia.org/wiki/Nickelodeon_Studios"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

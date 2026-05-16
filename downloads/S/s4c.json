@@ -1,0 +1,24 @@
+{
+  "slug": "s4c",
+  "sha256": "a2a201e0f4bc772fbef6a18e681ef6365bfb8ed6cc1d24ca9f8e0bc96d0ce989",
+  "entity_name": "S4C",
+  "aka": ["Sianel Pedwar Cymru"],
+  "type": "broadcast-network",
+  "country": "GB",
+  "founded": "1982",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.s4c.cymru",
+  "wikipedia": "https://en.wikipedia.org/wiki/S4C",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Welsh-language free-to-air public service television channel, the only Welsh-language TV channel; broadcast from Cardiff.",
+  "duplicate_files": ["downloads/S/s4c.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – S4C", "url": "https://en.wikipedia.org/wiki/S4C"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

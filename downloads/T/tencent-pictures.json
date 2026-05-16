@@ -1,0 +1,24 @@
+{
+  "slug": "tencent-pictures",
+  "sha256": "1b1e1d43f6918b8fed4f6d47ef8b8dff9ff725e4be7c90183d37080122acd6fe",
+  "entity_name": "Tencent Pictures",
+  "aka": ["Tencent Penguin Pictures", "Huayi Tencent Entertainment"],
+  "type": "production-company",
+  "country": "CN",
+  "founded": "2015",
+  "defunct": null,
+  "parent_company": "Tencent",
+  "official_website": "https://pictures.qq.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Tencent_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Chinese film production and distribution company, a subsidiary of Tencent, that has co-financed numerous international productions.",
+  "duplicate_files": ["downloads/H/huayi-tencent-entertainment.svg", "downloads/T/tencent-penguin-pictures.svg", "downloads/T/tencent-pictures.svg"],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia – Tencent Pictures", "url": "https://en.wikipedia.org/wiki/Tencent_Pictures"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

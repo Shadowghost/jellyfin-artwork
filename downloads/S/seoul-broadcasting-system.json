@@ -1,0 +1,25 @@
+{
+  "slug": "seoul-broadcasting-system",
+  "sha256": "0607489a1da59f33019106533a46cc52ea71da21048b709d20f63bd5d679af35",
+  "entity_name": "Seoul Broadcasting System",
+  "aka": ["SBS", "SBS Korea", "서울방송"],
+  "type": "broadcast-network",
+  "country": "KR",
+  "founded": "1990",
+  "defunct": null,
+  "parent_company": "SBS Media Holdings (Taeyoung Group)",
+  "official_website": "https://www.sbs.co.kr/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Seoul_Broadcasting_System",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "South Korean major private television and radio network based in Seoul.",
+  "duplicate_files": ["downloads/S/seoul-broadcasting-system.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Seoul Broadcasting System", "url": "https://en.wikipedia.org/wiki/Seoul_Broadcasting_System"},
+    {"title": "SBS Korea", "url": "https://www.sbs.co.kr/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

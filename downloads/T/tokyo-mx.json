@@ -1,0 +1,25 @@
+{
+  "slug": "tokyo-mx",
+  "sha256": "d9df7bce65216cd95ecebd87f807c588a58362b4c592557d07e1b401faebebe7",
+  "entity_name": "Tokyo MX",
+  "aka": ["TOKYO MX", "Tokyo Metropolitan Television Broadcasting Corporation", "東京メトロポリタンテレビジョン"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1993",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://s.mxtv.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Tokyo_MX",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese independent terrestrial television station based in Tokyo, well known for airing anime programming.",
+  "duplicate_files": ["downloads/T/tokyo-mx.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Tokyo MX", "url": "https://en.wikipedia.org/wiki/Tokyo_MX"},
+    {"title": "Tokyo MX official site", "url": "https://s.mxtv.jp"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

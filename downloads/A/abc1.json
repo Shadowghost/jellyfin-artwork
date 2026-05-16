@@ -1,0 +1,25 @@
+{
+  "slug": "abc1",
+  "sha256": "7392ef09021f85d3cc7bb500a7978d950ce35be02642a17921d315e39ca1bf1b",
+  "entity_name": "ABC1",
+  "aka": ["ABC One"],
+  "type": "broadcast-network",
+  "country": "AU",
+  "founded": "1956",
+  "defunct": null,
+  "parent_company": "Australian Broadcasting Corporation",
+  "official_website": "https://www.abc.net.au/tv",
+  "wikipedia": "https://en.wikipedia.org/wiki/ABC_TV_(Australian_TV_channel)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Primary television channel of the Australian Broadcasting Corporation, known as ABC1 from 2008-2014.",
+  "duplicate_files": ["downloads/A/abc1.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – ABC TV (Australian TV channel)", "url": "https://en.wikipedia.org/wiki/ABC_TV_(Australian_TV_channel)"},
+    {"title": "ABC TV official site", "url": "https://www.abc.net.au/tv"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

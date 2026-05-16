@@ -1,0 +1,30 @@
+{
+  "slug": "universal-home-entertainment",
+  "sha256": "5a5fcfa5617abc93c3f3c3ea88252e7afffa239cffac9a3525b5a2dbc6a782d4",
+  "entity_name": "Universal Pictures Home Entertainment",
+  "aka": ["Universal Studios Home Entertainment", "Universal Home Video", "Universal Family and Home Entertainment"],
+  "type": "distributor",
+  "country": "US",
+  "founded": "1980",
+  "defunct": null,
+  "parent_company": "NBCUniversal / Universal Pictures",
+  "official_website": "https://www.uphe.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Universal_Pictures_Home_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Home video distribution division of Universal Pictures, responsible for DVD, Blu-ray, and digital releases of Universal films and TV.",
+  "duplicate_files": [
+    "downloads/U/universal-family-and-home-entertainment.svg",
+    "downloads/U/universal-home-entertainment.svg",
+    "downloads/U/universal-pictures-home-entertainment.svg",
+    "downloads/U/universal-studios-entertainment.svg",
+    "downloads/U/universal-studios-home-entertainment.svg"
+  ],
+  "duplicate_count": 5,
+  "sources": [
+    {"title": "Wikipedia – Universal Pictures Home Entertainment", "url": "https://en.wikipedia.org/wiki/Universal_Pictures_Home_Entertainment"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

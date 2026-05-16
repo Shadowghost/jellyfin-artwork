@@ -1,0 +1,28 @@
+{
+  "slug": "abc-us",
+  "sha256": "db5f9e4d6884c63f8627f7e79110cd2c7517478e629674120aba1fd88844f16b",
+  "entity_name": "ABC (American Broadcasting Company)",
+  "aka": ["ABC", "ABC Network", "ABC Entertainment"],
+  "type": "broadcast-network",
+  "country": "US",
+  "founded": "1943",
+  "defunct": null,
+  "parent_company": "The Walt Disney Company",
+  "official_website": "https://abc.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/American_Broadcasting_Company",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "ABC Black", "hex": "#000000"},
+    {"name": "ABC White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": "The ABC logo is the iconic lowercase 'abc' inside a black circle, designed by Paul Rand in 1962.",
+  "description": "American commercial broadcast television network owned by The Walt Disney Company, headquartered in Burbank, California.",
+  "duplicate_files": ["downloads/A/abc-com.svg", "downloads/A/abc-entertainment.svg", "downloads/A/abc-us.svg"],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia - American Broadcasting Company", "url": "https://en.wikipedia.org/wiki/American_Broadcasting_Company"},
+    {"title": "ABC official site", "url": "https://abc.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

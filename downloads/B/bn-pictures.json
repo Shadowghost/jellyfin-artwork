@@ -1,0 +1,26 @@
+{
+  "slug": "bn-pictures",
+  "sha256": "cf7dc7bafe59ffba116628a13be2d6e0e238b565e2df8ae9da923e2bd1f1bf1a",
+  "entity_name": "Bandai Namco Pictures",
+  "aka": ["BN Pictures", "BNP"],
+  "type": "production-company",
+  "country": "JP",
+  "founded": "2015",
+  "defunct": null,
+  "parent_company": "Bandai Namco Filmworks (Bandai Namco Holdings)",
+  "official_website": "https://www.bn-pictures.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Bandai_Namco_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese animation studio spun off from Sunrise in 2015, focused on family and children's anime IPs.",
+  "duplicate_files": [
+    "downloads/B/bn-pictures.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Bandai Namco Pictures", "url": "https://en.wikipedia.org/wiki/Bandai_Namco_Pictures"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

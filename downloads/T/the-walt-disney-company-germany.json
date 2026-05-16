@@ -1,0 +1,24 @@
+{
+  "slug": "the-walt-disney-company-germany",
+  "sha256": "81444d7bbec68722803a2c8305ec1df96e2185028a3dd0d179ddef55c3e7c5d2",
+  "entity_name": "The Walt Disney Company Germany",
+  "aka": ["Disney Germany", "The Walt Disney Company (Germany) GmbH"],
+  "type": "distributor",
+  "country": "DE",
+  "founded": "1991",
+  "defunct": null,
+  "parent_company": "The Walt Disney Company",
+  "official_website": "https://www.disney.de",
+  "wikipedia": "https://de.wikipedia.org/wiki/The_Walt_Disney_Company_(Germany)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "German subsidiary of The Walt Disney Company, responsible for distribution and marketing of Disney content in Germany, Austria, and Switzerland.",
+  "duplicate_files": ["downloads/T/the-walt-disney-company-germany.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia (German) – The Walt Disney Company (Germany)", "url": "https://de.wikipedia.org/wiki/The_Walt_Disney_Company_(Germany)"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

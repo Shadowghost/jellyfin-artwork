@@ -1,0 +1,25 @@
+{
+  "slug": "pbs-digital-studios",
+  "sha256": "5922e72d70d503652f8654116c2c9d2bbbed5f55769b8cf6bc7a4c29dde63624",
+  "entity_name": "PBS Digital Studios",
+  "aka": [],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2012",
+  "defunct": null,
+  "parent_company": "PBS (Public Broadcasting Service)",
+  "official_website": "https://www.pbs.org/show/pbs-digital-studios/",
+  "wikipedia": "https://en.wikipedia.org/wiki/PBS_Digital_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Digital production arm of the US Public Broadcasting Service that produces educational web series for YouTube and other platforms, including Crash Course, PBS Space Time, and PBS Eons.",
+  "duplicate_files": ["downloads/P/pbs-digital-studios.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - PBS Digital Studios", "url": "https://en.wikipedia.org/wiki/PBS_Digital_Studios"},
+    {"title": "PBS Digital Studios", "url": "https://www.pbs.org/show/pbs-digital-studios/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "rctv",
+  "sha256": "060e5489d4c8eff862c31a1c3682548f6fba8548e614cac7b4c4924e1b8038f9",
+  "entity_name": "RCTV (Radio Caracas Televisión)",
+  "aka": ["RCTV", "Radio Caracas Televisión"],
+  "type": "broadcast-network",
+  "country": "VE",
+  "founded": "1953",
+  "defunct": "2010",
+  "parent_company": "1BC Group",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/RCTV",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Venezuelan commercial television network founded in 1953; its broadcast license was not renewed in 2007 and it ceased operations in 2010.",
+  "duplicate_files": ["downloads/R/rctv.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - RCTV", "url": "https://en.wikipedia.org/wiki/RCTV"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

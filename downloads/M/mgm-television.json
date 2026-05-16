@@ -1,0 +1,27 @@
+{
+  "slug": "mgm-television",
+  "sha256": "4e20185fe08a21bc842a62ee4bea0287374967bd3062c013d5c3cda8dc3c9d02",
+  "entity_name": "MGM Television",
+  "aka": ["Metro-Goldwyn-Mayer Television", "MGM Global Holdings"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1956",
+  "defunct": null,
+  "parent_company": "Amazon MGM Studios / Amazon",
+  "official_website": "https://www.mgm.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/MGM_Television",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Television production and distribution arm of Metro-Goldwyn-Mayer (now Amazon MGM Studios), producer of The Handmaid's Tale, Vikings, and Fargo.",
+  "duplicate_files": [
+    "downloads/M/mgm-global-holdings.svg",
+    "downloads/M/mgm-television.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – MGM Television", "url": "https://en.wikipedia.org/wiki/MGM_Television"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

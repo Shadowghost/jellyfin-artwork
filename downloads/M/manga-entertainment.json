@@ -1,0 +1,24 @@
+{
+  "slug": "manga-entertainment",
+  "sha256": "7a4a1bd34424814f1ac987d2685f261de36dd6369d3e345a9b1e5cdefe433963",
+  "entity_name": "Manga Entertainment",
+  "aka": ["Manga UK", "Manga Video"],
+  "type": "distributor",
+  "country": "GB",
+  "founded": "1991",
+  "defunct": null,
+  "parent_company": "Funimation / Crunchyroll (Sony)",
+  "official_website": "https://mangauk.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Manga_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "UK anime distribution label, historically a major releaser of titles like Akira and Ghost in the Shell, eventually folded into Funimation/Crunchyroll's UK operations.",
+  "duplicate_files": ["downloads/M/manga-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Manga Entertainment", "url": "https://en.wikipedia.org/wiki/Manga_Entertainment"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

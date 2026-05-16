@@ -1,0 +1,29 @@
+{
+  "slug": "jim-henson-family-tv",
+  "sha256": "ec55dcc73268a66713466d460bef3a59133c3ac45a1588275747026e1736f678",
+  "entity_name": "The Jim Henson Company",
+  "aka": ["Jim Henson Productions", "Jim Henson Television", "Jim Henson Family TV"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1958",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.henson.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/The_Jim_Henson_Company",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American entertainment company founded by Jim Henson in 1958, known for the Muppets, Fraggle Rock, and other puppetry-based productions.",
+  "duplicate_files": [
+    "downloads/J/jim-henson-family-tv.svg",
+    "downloads/J/jim-henson-productions.svg",
+    "downloads/J/jim-henson-television.svg",
+    "downloads/T/the-jim-henson-company.svg"
+  ],
+  "duplicate_count": 4,
+  "sources": [
+    {"title": "Wikipedia – The Jim Henson Company", "url": "https://en.wikipedia.org/wiki/The_Jim_Henson_Company"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

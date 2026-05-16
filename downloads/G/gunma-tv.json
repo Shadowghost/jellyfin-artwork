@@ -1,0 +1,25 @@
+{
+  "slug": "gunma-tv",
+  "sha256": "b0782d8d4d417b02a5adbf641e5188ba364855ad3c13e6321916569eaf8b9f8d",
+  "entity_name": "Gunma Television",
+  "aka": ["GTV", "Gunma TV"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1971",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.gtv.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Gunma_Television",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese independent local television station serving Gunma Prefecture.",
+  "duplicate_files": ["downloads/G/gunma-tv.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Gunma Television", "url": "https://en.wikipedia.org/wiki/Gunma_Television"},
+    {"title": "Gunma TV official", "url": "https://www.gtv.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

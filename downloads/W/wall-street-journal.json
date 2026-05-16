@@ -1,0 +1,27 @@
+{
+  "slug": "wall-street-journal",
+  "sha256": "9fe02e9b616fb794bedafc7328de590b5505674a5de67cc15bb2ebb10d8decb4",
+  "entity_name": "The Wall Street Journal",
+  "aka": ["WSJ", "Wall Street Journal"],
+  "type": "news",
+  "country": "US",
+  "founded": "1889",
+  "defunct": null,
+  "parent_company": "Dow Jones & Company (News Corp)",
+  "official_website": "https://www.wsj.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/The_Wall_Street_Journal",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "WSJ Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "American business-focused English-language international daily newspaper, owned by Dow Jones & Company / News Corp.",
+  "duplicate_files": ["downloads/W/wall-street-journal.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – The Wall Street Journal", "url": "https://en.wikipedia.org/wiki/The_Wall_Street_Journal"},
+    {"title": "WSJ", "url": "https://www.wsj.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

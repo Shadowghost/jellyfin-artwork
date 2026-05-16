@@ -1,0 +1,24 @@
+{
+  "slug": "geffen-company-the",
+  "sha256": "b64af777d0ac710c19062ef00fdba7e4f525f83992753bc903fb0bdf9da5fe7f",
+  "entity_name": "The Geffen Company",
+  "aka": ["Geffen Pictures", "Geffen Film Company"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1982",
+  "defunct": "1997",
+  "parent_company": "Warner Bros.",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Geffen_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Defunct American film production company founded by David Geffen, distributed primarily through Warner Bros.",
+  "duplicate_files": ["downloads/G/geffen-company-the.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Geffen Pictures", "url": "https://en.wikipedia.org/wiki/Geffen_Pictures"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

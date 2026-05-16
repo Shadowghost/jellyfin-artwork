@@ -1,0 +1,25 @@
+{
+  "slug": "bold-films",
+  "sha256": "830496e39d71432be31c0dbeaeb2e6adbb83b2ba8950e8570114cf7061ccee15",
+  "entity_name": "Bold Films",
+  "aka": [],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2005",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.boldfilms.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Bold_Films",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film production and finance company based in Los Angeles, known for films including Drive, Whiplash, and Nightcrawler.",
+  "duplicate_files": ["downloads/B/bold-films.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Bold Films", "url": "https://en.wikipedia.org/wiki/Bold_Films"},
+    {"title": "Bold Films official site", "url": "https://www.boldfilms.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

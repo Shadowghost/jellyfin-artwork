@@ -1,0 +1,25 @@
+{
+  "slug": "ifc-films",
+  "sha256": "30c3d435b8e5d50b18acb37738141a6552323ae3f2b02d65679a3795c9c108c5",
+  "entity_name": "IFC Films",
+  "aka": ["IFC Midnight", "IFC Productions", "Sundance Selects"],
+  "type": "distributor",
+  "country": "US",
+  "founded": "2000",
+  "defunct": null,
+  "parent_company": "AMC Networks",
+  "official_website": "https://www.ifcfilms.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/IFC_Films",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film distribution company specializing in independent and foreign films, operating as a subsidiary of AMC Networks; releases titles under IFC Films, IFC Midnight (genre/horror), and Sundance Selects labels.",
+  "duplicate_files": ["downloads/I/ifc-films.svg", "downloads/I/ifc-midnight.svg", "downloads/I/ifc-productions.svg", "downloads/S/sundance-selects.svg"],
+  "duplicate_count": 4,
+  "sources": [
+    {"title": "Wikipedia - IFC Films", "url": "https://en.wikipedia.org/wiki/IFC_Films"},
+    {"title": "IFC Films official site", "url": "https://www.ifcfilms.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

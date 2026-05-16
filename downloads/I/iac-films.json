@@ -1,0 +1,24 @@
+{
+  "slug": "iac-films",
+  "sha256": "a0b757ef289c95e320adbb9cff228224721d559d9be2ef84850b2e7379b18d64",
+  "entity_name": "IAC Films",
+  "aka": ["IAC Films"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2002",
+  "defunct": null,
+  "parent_company": "IAC (InterActiveCorp)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/IAC_Films",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film production company, subsidiary of IAC, known for producing films directed by Woody Allen including Blue Jasmine and Midnight in Paris.",
+  "duplicate_files": ["downloads/I/iac-films.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - IAC Films", "url": "https://en.wikipedia.org/wiki/IAC_Films"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

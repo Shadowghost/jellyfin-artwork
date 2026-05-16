@@ -1,0 +1,25 @@
+{
+  "slug": "bbc-america",
+  "sha256": "d7d694b351dbd00f5d2effb69e109830cf95997044bb4d107165f7c73546d09b",
+  "entity_name": "BBC America",
+  "aka": ["BBCA"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1998",
+  "defunct": null,
+  "parent_company": "AMC Networks / BBC Studios",
+  "official_website": "https://www.bbcamerica.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/BBC_America",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American basic cable television channel jointly owned by AMC Networks and BBC Studios.",
+  "duplicate_files": ["downloads/B/bbc-america.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – BBC America", "url": "https://en.wikipedia.org/wiki/BBC_America"},
+    {"title": "BBC America official site", "url": "https://www.bbcamerica.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

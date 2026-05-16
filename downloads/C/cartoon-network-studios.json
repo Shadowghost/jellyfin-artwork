@@ -1,0 +1,27 @@
+{
+  "slug": "cartoon-network-studios",
+  "sha256": "584de6999c38be79cd0d4a9d339776336f9479ec8fd59e2b5da72b75fb8f8f56",
+  "entity_name": "Cartoon Network Studios",
+  "aka": ["CNS"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1994",
+  "defunct": null,
+  "parent_company": "Warner Bros. Discovery",
+  "official_website": "https://www.cartoonnetwork.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Cartoon_Network_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Cartoon Network Black", "hex": "#000000"},
+    {"name": "Cartoon Network White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": null,
+  "description": "American animation studio owned by Warner Bros. Discovery, producer of original animated series for Cartoon Network.",
+  "duplicate_files": ["downloads/C/cartoon-network-studios.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Cartoon Network Studios", "url": "https://en.wikipedia.org/wiki/Cartoon_Network_Studios"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

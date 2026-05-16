@@ -1,0 +1,25 @@
+{
+  "slug": "mill-film",
+  "sha256": "9ec5a24d71c1d0281f8a18a1b2898865281a1b09e739fc90e4286015e583ec2b",
+  "entity_name": "Mill Film",
+  "aka": ["The Mill Film"],
+  "type": "studio",
+  "country": "GB",
+  "founded": "1997",
+  "defunct": null,
+  "parent_company": "Technicolor SA",
+  "official_website": "https://www.millfilm.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Mill_Film",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British visual effects studio, an Academy Award-winning VFX house (Gladiator) and subsidiary of Technicolor.",
+  "duplicate_files": ["downloads/M/mill-film.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Mill Film", "url": "https://en.wikipedia.org/wiki/Mill_Film"},
+    {"title": "Mill Film official site", "url": "https://www.millfilm.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

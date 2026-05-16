@@ -1,0 +1,24 @@
+{
+  "slug": "one-hd",
+  "sha256": "2d4796aebdf6a8c18d33578988958cf078e55eae5127ac53f7e4b7b3ecc9de69",
+  "entity_name": "One HD",
+  "aka": ["ONE", "One Digital", "One (Australian TV channel)"],
+  "type": "broadcast-network",
+  "country": "AU",
+  "founded": "2009",
+  "defunct": "2020",
+  "parent_company": "Network 10 (Paramount Networks UK & Australia)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/10_Bold",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Australian digital television channel launched in 2009 as One HD by Network Ten; later rebranded as One and then 10 Boss/10 Bold. Note: duplicate hash also matches bbc-one.svg in this repo, likely a logo similarity coincidence.",
+  "duplicate_files": ["downloads/B/bbc-one.svg", "downloads/O/one-hd.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – 10 Bold (formerly One)", "url": "https://en.wikipedia.org/wiki/10_Bold"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "united-artists",
+  "sha256": "e7a1b80411ec473c3d7bdd621a538ab4bd799dcff1c7edafb059417d159cc4ce",
+  "entity_name": "United Artists",
+  "aka": ["UA", "United Artists Corporation"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1919",
+  "defunct": null,
+  "parent_company": "Amazon MGM Studios",
+  "official_website": "https://www.unitedartists.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/United_Artists",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film production and distribution company founded in 1919 by Charlie Chaplin, Mary Pickford, Douglas Fairbanks, and D. W. Griffith; now part of Amazon MGM Studios.",
+  "duplicate_files": ["downloads/U/united-artists-corporation.svg", "downloads/U/united-artists.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – United Artists", "url": "https://en.wikipedia.org/wiki/United_Artists"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

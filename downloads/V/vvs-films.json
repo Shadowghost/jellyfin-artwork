@@ -1,0 +1,25 @@
+{
+  "slug": "vvs-films",
+  "sha256": "ea990a008f9670dfced5c9574b7b9f479ea703a91121df72ffb54f8ee4864971",
+  "entity_name": "VVS Films",
+  "aka": ["Les Films VVS"],
+  "type": "distributor",
+  "country": "CA",
+  "founded": "2002",
+  "defunct": null,
+  "parent_company": "Quebecor Media",
+  "official_website": "https://vvsfilms.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/VVS_Films",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Canadian film and home video distributor based in Montreal, releasing French- and English-language theatrical and home entertainment titles in Canada.",
+  "duplicate_files": ["downloads/V/vvs-films.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - VVS Films", "url": "https://en.wikipedia.org/wiki/VVS_Films"},
+    {"title": "VVS Films official site", "url": "https://vvsfilms.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

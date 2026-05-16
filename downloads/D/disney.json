@@ -1,0 +1,27 @@
+{
+  "slug": "disney",
+  "sha256": "f8c69dfcb5e6a061f575a47c6d11d5d485f1c8af22ea5c9f8f3c0aeac477720a",
+  "entity_name": "The Walt Disney Company",
+  "aka": ["Disney", "Walt Disney", "TWDC"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1923",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://thewaltdisneycompany.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/The_Walt_Disney_Company",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Disney Blue", "hex": "#0063E5"}
+  ],
+  "logo_usage": null,
+  "description": "American multinational mass media and entertainment conglomerate founded in 1923 by Walt and Roy O. Disney, headquartered in Burbank, California.",
+  "duplicate_files": ["downloads/D/disney.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – The Walt Disney Company", "url": "https://en.wikipedia.org/wiki/The_Walt_Disney_Company"},
+    {"title": "Disney corporate site", "url": "https://thewaltdisneycompany.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "bs-asahi",
+  "sha256": "2e65934a46e37ef167801fd42576b1d360bc9f62ebd77dae0f181282408affb4",
+  "entity_name": "BS Asahi",
+  "aka": ["BS Asahi Corporation", "BS5"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1998",
+  "defunct": null,
+  "parent_company": "TV Asahi Holdings",
+  "official_website": "https://www.bs-asahi.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/BS_Asahi",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese satellite television broadcaster, a subsidiary of TV Asahi Holdings.",
+  "duplicate_files": ["downloads/B/bs-asahi.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – BS Asahi", "url": "https://en.wikipedia.org/wiki/BS_Asahi"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

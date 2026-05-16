@@ -1,0 +1,24 @@
+{
+  "slug": "the-movie-network",
+  "sha256": "20aca7ac5538331e07320f29ce5457a40da2c5d03ee58244a1bfa0be615168da",
+  "entity_name": "The Movie Network",
+  "aka": ["TMN", "Crave (rebranded 2016)"],
+  "type": "cable-network",
+  "country": "CA",
+  "founded": "1983",
+  "defunct": "2016",
+  "parent_company": "Bell Media",
+  "official_website": "https://www.crave.ca/",
+  "wikipedia": "https://en.wikipedia.org/wiki/The_Movie_Network",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Canadian English-language premium discretionary television channel; rebranded as Crave in 2016.",
+  "duplicate_files": ["downloads/T/the-movie-network.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - The Movie Network", "url": "https://en.wikipedia.org/wiki/The_Movie_Network"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

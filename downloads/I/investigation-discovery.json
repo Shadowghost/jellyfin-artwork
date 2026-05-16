@@ -1,0 +1,25 @@
+{
+  "slug": "investigation-discovery",
+  "sha256": "0e7e2ee726fc446af7e7876223f36fde2b7eb96373a2fb180ef1a603bfd09425",
+  "entity_name": "Investigation Discovery",
+  "aka": ["ID"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1996",
+  "defunct": null,
+  "parent_company": "Warner Bros. Discovery",
+  "official_website": "https://www.investigationdiscovery.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Investigation_Discovery",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American pay television network owned by Warner Bros. Discovery focused on true-crime and investigation documentary programming; previously Discovery Times and Discovery Civilization.",
+  "duplicate_files": ["downloads/I/investigation-discovery.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Investigation Discovery", "url": "https://en.wikipedia.org/wiki/Investigation_Discovery"},
+    {"title": "Investigation Discovery official site", "url": "https://www.investigationdiscovery.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "mitsubishi",
+  "sha256": "37674197b172922cb6c59599030f5a820dd6c79c76c153233c7174e773acac2f",
+  "entity_name": "Mitsubishi",
+  "aka": ["Mitsubishi Group", "Mitsubishi Shoji", "Mitsubishi Corporation", "三菱"],
+  "type": "other",
+  "country": "JP",
+  "founded": "1870",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.mitsubishi.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Mitsubishi",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Mitsubishi Red", "hex": "#E60012"}
+  ],
+  "logo_usage": "The three-diamond 'three rhombuses' (Three Diamonds) emblem is the shared mark of the Mitsubishi keiretsu.",
+  "description": "Japanese multinational keiretsu (conglomerate) of autonomous companies sharing the three-diamond mark, founded by Yataro Iwasaki in 1870; Mitsubishi Shoji is the historic name of its trading arm, Mitsubishi Corporation.",
+  "duplicate_files": ["downloads/M/mitsubishi-shoji.svg", "downloads/M/mitsubishi.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Mitsubishi", "url": "https://en.wikipedia.org/wiki/Mitsubishi"},
+    {"title": "Mitsubishi official site", "url": "https://www.mitsubishi.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "imagine-entertainment",
+  "sha256": "3d7a97ea73963807a4ae89d688cfb5f4a0740c3cd3132e6ff79501ba84ff4140",
+  "entity_name": "Imagine Entertainment",
+  "aka": ["Imagine Films Entertainment", "Imagine Television"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1986",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.imagine-entertainment.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Imagine_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film and television production company founded by Ron Howard and Brian Grazer.",
+  "duplicate_files": ["downloads/I/imagine-entertainment.svg", "downloads/I/imagine-television-studios.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Imagine Entertainment", "url": "https://en.wikipedia.org/wiki/Imagine_Entertainment"},
+    {"title": "Imagine Entertainment official site", "url": "https://www.imagine-entertainment.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

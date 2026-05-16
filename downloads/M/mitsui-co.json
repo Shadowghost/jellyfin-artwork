@@ -1,0 +1,24 @@
+{
+  "slug": "mitsui-co",
+  "sha256": "5fc3012c001c466c539808efbf6d66328ac723ffabdb8be52ca2daa19ff8edad",
+  "entity_name": "Mitsui & Co.",
+  "aka": ["Mitsui", "Mitsui Bussan"],
+  "type": "other",
+  "country": "JP",
+  "founded": "1947",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.mitsui.com/jp/en/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Mitsui_%26_Co.",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "One of Japan's largest sogo shosha (general trading companies), based in Tokyo; occasionally co-finances film and media productions.",
+  "duplicate_files": ["downloads/M/mitsui-co.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Mitsui & Co.", "url": "https://en.wikipedia.org/wiki/Mitsui_%26_Co."}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

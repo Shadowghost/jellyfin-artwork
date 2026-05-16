@@ -1,0 +1,27 @@
+{
+  "slug": "e",
+  "sha256": "2a20624bb78ec3ea3ea16d42dcd102b76f38199dff201a9985f4ea396cc98175",
+  "entity_name": "E! (Entertainment Television)",
+  "aka": ["E!", "E! Entertainment", "E! Entertainment Television"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1987",
+  "defunct": null,
+  "parent_company": "NBCUniversal (Comcast)",
+  "official_website": "https://www.eonline.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/E!",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "E! Red", "hex": "#E10A18"}
+  ],
+  "logo_usage": null,
+  "description": "American basic cable television channel focused on entertainment news, pop culture, and reality programming.",
+  "duplicate_files": ["downloads/E/e-entertainment.svg", "downloads/E/e.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - E!", "url": "https://en.wikipedia.org/wiki/E!"},
+    {"title": "E! Online official site", "url": "https://www.eonline.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

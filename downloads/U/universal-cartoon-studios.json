@@ -1,0 +1,24 @@
+{
+  "slug": "universal-cartoon-studios",
+  "sha256": "b9354c46281d00c4f43b2352f3f72b43e67be1a66a7d139cdad7632312afc4ec",
+  "entity_name": "Universal Animation Studios",
+  "aka": ["Universal Cartoon Studios"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1991",
+  "defunct": null,
+  "parent_company": "Universal Pictures (NBCUniversal)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Universal_Animation_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American animation studio, subsidiary of Universal Pictures, producer of direct-to-video sequels and animated TV series; formerly known as Universal Cartoon Studios.",
+  "duplicate_files": ["downloads/U/universal-animation-studios.svg", "downloads/U/universal-cartoon-studios.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Universal Animation Studios", "url": "https://en.wikipedia.org/wiki/Universal_Animation_Studios"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

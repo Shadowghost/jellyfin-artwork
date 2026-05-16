@@ -1,0 +1,25 @@
+{
+  "slug": "new-zealand-film-commission",
+  "sha256": "857ee924f07ccbc8aa5f2f1e5dbe057410ad9a8fdcb48896b7a336c1d232d422",
+  "entity_name": "New Zealand Film Commission",
+  "aka": ["NZFC", "Te Tumu Whakaata Taonga"],
+  "type": "government-agency",
+  "country": "NZ",
+  "founded": "1978",
+  "defunct": null,
+  "parent_company": "Government of New Zealand",
+  "official_website": "https://www.nzfilm.co.nz/",
+  "wikipedia": "https://en.wikipedia.org/wiki/New_Zealand_Film_Commission",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "New Zealand Crown entity that promotes and funds the New Zealand film industry.",
+  "duplicate_files": ["downloads/N/new-zealand-film-commission.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - New Zealand Film Commission", "url": "https://en.wikipedia.org/wiki/New_Zealand_Film_Commission"},
+    {"title": "NZFC official", "url": "https://www.nzfilm.co.nz/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "goldcrest-films",
+  "sha256": "e2012649e3d903dc55738df77f563e3f126c4938bc7c3a4511e23a51ac6d6cdc",
+  "entity_name": "Goldcrest Films",
+  "aka": ["Goldcrest", "Goldcrest Pictures", "Goldcrest Films International"],
+  "type": "production-company",
+  "country": "GB",
+  "founded": "1977",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.goldcrestfilms.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Goldcrest_Films",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British independent film production, sales and post-production company; producer of Gandhi, The Killing Fields and A Room with a View.",
+  "duplicate_files": ["downloads/G/goldcrest-films-international.svg", "downloads/G/goldcrest-films.svg", "downloads/G/goldcrest-pictures.svg"],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia – Goldcrest Films", "url": "https://en.wikipedia.org/wiki/Goldcrest_Films"},
+    {"title": "Goldcrest Films official site", "url": "https://www.goldcrestfilms.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

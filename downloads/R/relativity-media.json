@@ -1,0 +1,25 @@
+{
+  "slug": "relativity-media",
+  "sha256": "d7bfda5d05acac788307ff76f8086fb37fb19802861d72088122c0a464f416c3",
+  "entity_name": "Relativity Media",
+  "aka": ["Relativity"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2004",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://relativitymedia.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Relativity_Media",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film and television production company founded by Ryan Kavanaugh, known for The Social Network and Limitless; has filed for bankruptcy multiple times.",
+  "duplicate_files": ["downloads/R/relativity-media.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Relativity Media", "url": "https://en.wikipedia.org/wiki/Relativity_Media"},
+    {"title": "Relativity Media official site", "url": "https://relativitymedia.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

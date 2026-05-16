@@ -1,0 +1,24 @@
+{
+  "slug": "disney-music-group",
+  "sha256": "f973790ac85319ac95b1db224bb133196c88b73691de6d444b2f0107ef62781e",
+  "entity_name": "Disney Music Group",
+  "aka": ["DMG"],
+  "type": "record-label",
+  "country": "US",
+  "founded": "1956",
+  "defunct": null,
+  "parent_company": "The Walt Disney Company",
+  "official_website": "https://music.disney.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Disney_Music_Group",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American multinational music umbrella company of The Walt Disney Company, encompassing Walt Disney Records and Hollywood Records.",
+  "duplicate_files": ["downloads/D/disney-music-group.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Disney Music Group", "url": "https://en.wikipedia.org/wiki/Disney_Music_Group"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "scholastic-productions",
+  "sha256": "c62de17f4d58ed778442e8cea8eb3151b40800fdc828eaa376b120f1e26984f3",
+  "entity_name": "Scholastic Entertainment",
+  "aka": ["Scholastic Productions"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1995",
+  "defunct": null,
+  "parent_company": "Scholastic Corporation",
+  "official_website": "https://www.scholastic.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Scholastic_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Scholastic Red", "hex": "#E81F2E"}
+  ],
+  "logo_usage": null,
+  "description": "American film and television production division of Scholastic Corporation, producer of The Magic School Bus, Goosebumps, and Clifford the Big Red Dog adaptations.",
+  "duplicate_files": ["downloads/S/scholastic-entertainment.svg", "downloads/S/scholastic-productions.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Scholastic Entertainment", "url": "https://en.wikipedia.org/wiki/Scholastic_Entertainment"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "rotana-studios",
+  "sha256": "690ff3cee0d86bdd25f6ac858b9fe6c3a9fd74c247c7caa2b02d2c80fd89b048",
+  "entity_name": "Rotana Studios",
+  "aka": ["Rotana Film Production", "Rotana"],
+  "type": "production-company",
+  "country": "SA",
+  "founded": "1987",
+  "defunct": null,
+  "parent_company": "Rotana Group",
+  "official_website": "https://rotana.net/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Rotana_Group",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Saudi Arabian entertainment company; Rotana Studios is the film production division of Rotana Group, the largest Arab entertainment company.",
+  "duplicate_files": ["downloads/R/rotana-film-production.svg", "downloads/R/rotana-studios.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Rotana Group", "url": "https://en.wikipedia.org/wiki/Rotana_Group"},
+    {"title": "Rotana official site", "url": "https://rotana.net/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

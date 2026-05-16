@@ -1,0 +1,24 @@
+{
+  "slug": "epix",
+  "sha256": "ea4692c0862f2c5add86f0e081db3fb1023dbf78099426548f1e056a098ed1b9",
+  "entity_name": "Epix",
+  "aka": ["EPIX", "MGM+"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "2009",
+  "defunct": null,
+  "parent_company": "Amazon MGM Studios",
+  "official_website": "https://www.mgmplus.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/MGM%2B",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American premium cable and satellite television network launched in 2009 as Epix; rebranded to MGM+ in January 2023 after MGM was acquired by Amazon.",
+  "duplicate_files": ["downloads/E/epix.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – MGM+ (formerly Epix)", "url": "https://en.wikipedia.org/wiki/MGM%2B"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "path",
+  "sha256": "83c0218e924b01d059197b04fe54a7963f8419604f707c181adf70a6c9d179c4",
+  "entity_name": "Pathé",
+  "aka": ["Pathé Distribution", "Pathé Pictures International", "Société Nouvelle Pathé Cinéma", "Pathé Consortium Cinéma"],
+  "type": "studio",
+  "country": "FR",
+  "founded": "1896",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.pathe.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Path%C3%A9",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Pathé Red", "hex": "#E30613"}
+  ],
+  "logo_usage": "Iconic crowing rooster mark trademarked by Pathé.",
+  "description": "Major French film production and distribution company, one of the oldest in the world; also operates cinema chains across Europe.",
+  "duplicate_files": [
+    "downloads/P/path-consortium-cin-ma.svg",
+    "downloads/P/path-distribution.svg",
+    "downloads/P/path-pictures-international.svg",
+    "downloads/P/path.svg",
+    "downloads/S/soci-t-nouvelle-path-cin-ma.svg"
+  ],
+  "duplicate_count": 5,
+  "sources": [
+    {"title": "Wikipedia – Pathé", "url": "https://en.wikipedia.org/wiki/Path%C3%A9"},
+    {"title": "Pathé official", "url": "https://www.pathe.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "bandai-visual",
+  "sha256": "c54829f76565ccca7010d5b64703dac005da76a1811aa24ad1dd93e708d2d8c9",
+  "entity_name": "Bandai Visual",
+  "aka": ["Bandai Visual Co., Ltd.", "Emotion"],
+  "type": "distributor",
+  "country": "JP",
+  "founded": "1983",
+  "defunct": "2018",
+  "parent_company": "Bandai Namco Holdings",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Bandai_Visual",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese anime and film distribution company; merged into Bandai Namco Arts in 2018 and later Bandai Namco Filmworks.",
+  "duplicate_files": ["downloads/B/bandai-visual.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Bandai Visual", "url": "https://en.wikipedia.org/wiki/Bandai_Visual"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

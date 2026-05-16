@@ -1,0 +1,25 @@
+{
+  "slug": "sky-atlantic",
+  "sha256": "2af126095906c4e71a594f3533ccb4b53d24e4a4748b08e49a6f205d10418918",
+  "entity_name": "Sky Atlantic",
+  "aka": [],
+  "type": "cable-network",
+  "country": "GB",
+  "founded": "2011",
+  "defunct": null,
+  "parent_company": "Sky Group (Comcast)",
+  "official_website": "https://www.sky.com/watch/sky-atlantic",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sky_Atlantic",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British and Irish pay television channel owned by Sky Group (Comcast); home of premium scripted drama with first-run HBO and Sky Original programming.",
+  "duplicate_files": ["downloads/S/sky-atlantic.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Sky Atlantic", "url": "https://en.wikipedia.org/wiki/Sky_Atlantic"},
+    {"title": "Sky Atlantic official site", "url": "https://www.sky.com/watch/sky-atlantic"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

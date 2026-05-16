@@ -1,0 +1,25 @@
+{
+  "slug": "white-fox",
+  "sha256": "24038440d48def21b527455f48b902e9c37f952c9244807bac55575cbafe0ab8",
+  "entity_name": "White Fox",
+  "aka": ["Studio White Fox"],
+  "type": "studio",
+  "country": "JP",
+  "founded": "2007",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "http://www.whitefox.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/White_Fox",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese animation studio known for series including Steins;Gate and Re:Zero - Starting Life in Another World.",
+  "duplicate_files": ["downloads/W/white-fox-izuk-gen-studio.svg", "downloads/W/white-fox.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - White Fox", "url": "https://en.wikipedia.org/wiki/White_Fox"},
+    {"title": "White Fox official", "url": "http://www.whitefox.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "jerry-bruckheimer-films",
+  "sha256": "8304596c1df777935aeda5d65c6e4800a5b0489f7e20b0ceea9da5389263229b",
+  "entity_name": "Jerry Bruckheimer Films",
+  "aka": ["Jerry Bruckheimer Television", "JBF"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1995",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.jbfilms.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Jerry_Bruckheimer_Films",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film and television production company founded by producer Jerry Bruckheimer.",
+  "duplicate_files": ["downloads/J/jerry-bruckheimer-films.svg", "downloads/J/jerry-bruckheimer-television.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Jerry Bruckheimer Films", "url": "https://en.wikipedia.org/wiki/Jerry_Bruckheimer_Films"},
+    {"title": "JBF official site", "url": "https://www.jbfilms.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

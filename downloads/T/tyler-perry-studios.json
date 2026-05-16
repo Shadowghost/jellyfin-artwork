@@ -1,0 +1,28 @@
+{
+  "slug": "tyler-perry-studios",
+  "sha256": "f7811d6b112a68c525f099949a3960fe5741c9e6a628ea842255c062a974739b",
+  "entity_name": "Tyler Perry Studios",
+  "aka": ["The Tyler Perry Company", "TPS"],
+  "type": "studio",
+  "country": "US",
+  "founded": "2006",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://tylerperrystudios.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Tyler_Perry_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film and television production company founded by writer/director/actor Tyler Perry; its 330-acre Atlanta studio lot opened in 2019, one of the largest in the US.",
+  "duplicate_files": [
+    "downloads/T/tyler-perry-company-the.svg",
+    "downloads/T/tyler-perry-studios.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Tyler Perry Studios", "url": "https://en.wikipedia.org/wiki/Tyler_Perry_Studios"},
+    {"title": "Tyler Perry Studios official site", "url": "https://tylerperrystudios.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

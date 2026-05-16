@@ -1,0 +1,24 @@
+{
+  "slug": "playboy-enterprises",
+  "sha256": "784032f866a9e8cc7adec8be7037ab7594e2e0de094b56f21ffa2e75151c186d",
+  "entity_name": "Playboy Enterprises",
+  "aka": ["Playboy"],
+  "type": "publisher",
+  "country": "US",
+  "founded": "1953",
+  "defunct": null,
+  "parent_company": "PLBY Group, Inc.",
+  "official_website": "https://www.playboy.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Playboy_Enterprises",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": "Uses the iconic Playboy 'bunny' head mark.",
+  "description": "American lifestyle and entertainment media company founded by Hugh Hefner, originator of Playboy magazine and various television and film ventures.",
+  "duplicate_files": ["downloads/P/playboy-enterprises.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Playboy Enterprises", "url": "https://en.wikipedia.org/wiki/Playboy_Enterprises"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

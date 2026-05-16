@@ -1,0 +1,24 @@
+{
+  "slug": "syncopy",
+  "sha256": "7f55e935389a3b545b322da0ba0bcc9bad7e6a742a7fa91cc378f0927fd8f49f",
+  "entity_name": "Syncopy",
+  "aka": ["Syncopy Inc.", "Syncopy Films"],
+  "type": "production-company",
+  "country": "GB",
+  "founded": "2001",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Syncopy_Inc.",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British/American film production company founded by Christopher Nolan and Emma Thomas; producer of Inception, Interstellar, Dunkirk, Tenet and Oppenheimer.",
+  "duplicate_files": ["downloads/S/syncopy.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Syncopy Inc.", "url": "https://en.wikipedia.org/wiki/Syncopy_Inc."}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

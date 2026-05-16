@@ -1,0 +1,26 @@
+{
+  "slug": "viz-media",
+  "sha256": "0f6388a14337d5964364b8042e894886b04e852589d77547c9e7d14d5d5591b7",
+  "entity_name": "Viz Media",
+  "aka": ["VIZ Media", "VIZ Communications"],
+  "type": "publisher",
+  "country": "US",
+  "founded": "1986",
+  "defunct": null,
+  "parent_company": "Shueisha, Shogakukan, Shogakukan-Shueisha Productions",
+  "official_website": "https://www.viz.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Viz_Media",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American manga publisher and anime distributor based in San Francisco, licensing properties such as Naruto, One Piece, and Bleach for North America.",
+  "duplicate_files": [
+    "downloads/V/viz-media.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Viz Media", "url": "https://en.wikipedia.org/wiki/Viz_Media"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

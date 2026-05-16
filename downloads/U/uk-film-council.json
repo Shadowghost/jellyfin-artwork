@@ -1,0 +1,24 @@
+{
+  "slug": "uk-film-council",
+  "sha256": "772d4b1fb6c4a8d2978a65988a277ba87eb2be6bad885d095e5c113d58af34f1",
+  "entity_name": "UK Film Council",
+  "aka": ["UKFC"],
+  "type": "government-agency",
+  "country": "GB",
+  "founded": "2000",
+  "defunct": "2011",
+  "parent_company": "UK Government (Department for Culture, Media and Sport)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/UK_Film_Council",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Non-departmental public body of the UK Government established in 2000 to develop and promote the British film industry; abolished in 2011 with functions transferred to the BFI.",
+  "duplicate_files": ["downloads/U/uk-film-council.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – UK Film Council", "url": "https://en.wikipedia.org/wiki/UK_Film_Council"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

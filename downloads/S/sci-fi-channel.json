@@ -1,0 +1,24 @@
+{
+  "slug": "sci-fi-channel",
+  "sha256": "a440603dff1c1179b16db1ebc89d8f4dcf3d1d2ef254e086803a249e801c3678",
+  "entity_name": "Sci-Fi Channel",
+  "aka": ["Syfy (rebrand)", "SciFi", "The Sci-Fi Channel"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1992",
+  "defunct": null,
+  "parent_company": "NBCUniversal (Comcast)",
+  "official_website": "https://www.syfy.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Syfy",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American cable television channel launched in 1992 as the Sci-Fi Channel; rebranded as Syfy in 2009. Owned by NBCUniversal.",
+  "duplicate_files": ["downloads/S/sci-fi-channel.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Syfy", "url": "https://en.wikipedia.org/wiki/Syfy"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

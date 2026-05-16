@@ -1,0 +1,27 @@
+{
+  "slug": "bad-robot",
+  "sha256": "f229948ea88366c9bfe521cef83d9173d4869a16e021a5a7ec3d777f9c427b4b",
+  "entity_name": "Bad Robot Productions",
+  "aka": ["Bad Robot"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2001",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://bad-robot.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Bad_Robot_Productions",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Bad Robot Red", "hex": "#E32119"}
+  ],
+  "logo_usage": "The Bad Robot logo features an animated red robot character; static usage features a stylized robot silhouette.",
+  "description": "American film and television production company founded by J.J. Abrams, known for Lost, Westworld, and the Star Wars sequel trilogy.",
+  "duplicate_files": ["downloads/B/bad-robot-productions.svg", "downloads/B/bad-robot.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Bad Robot Productions", "url": "https://en.wikipedia.org/wiki/Bad_Robot_Productions"},
+    {"title": "Bad Robot official site", "url": "https://bad-robot.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

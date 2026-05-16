@@ -1,0 +1,27 @@
+{
+  "slug": "cj-enm",
+  "sha256": "55d35fcaf822a25c2e1fa260d7366ba139a07eefa05620677a8c055415a603d9",
+  "entity_name": "CJ ENM",
+  "aka": ["CJ E&M", "CJ Entertainment & Media", "CJ Entertainment"],
+  "type": "production-company",
+  "country": "KR",
+  "founded": "2018",
+  "defunct": null,
+  "parent_company": "CJ Group",
+  "official_website": "https://www.cjenm.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/CJ_ENM",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "CJ Red", "hex": "#E60012"}
+  ],
+  "logo_usage": null,
+  "description": "South Korean entertainment and media conglomerate operating broadcast channels, film production, music and live events; produced Parasite.",
+  "duplicate_files": ["downloads/C/cj-enm-studios.svg", "downloads/C/cj-enm.svg", "downloads/C/cj-entertainment.svg"],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia - CJ ENM", "url": "https://en.wikipedia.org/wiki/CJ_ENM"},
+    {"title": "CJ ENM official site", "url": "https://www.cjenm.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "playtone",
+  "sha256": "45a71f10fc2313658cc38c8eb83e52a62f9fabb234019cf2292a444772190d03",
+  "entity_name": "Playtone",
+  "aka": ["Playtone Pictures"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1998",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.playtone.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Playtone",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film and television production company founded by Tom Hanks and Gary Goetzman, named after the fictional record label in That Thing You Do!",
+  "duplicate_files": ["downloads/P/playtone.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Playtone", "url": "https://en.wikipedia.org/wiki/Playtone"},
+    {"title": "Playtone official site", "url": "https://www.playtone.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "red-bull-media-house",
+  "sha256": "c49d0fe254f07dde3de43b6228de021cbaf9a86e89160dc16ef45e139f6f99d6",
+  "entity_name": "Red Bull Media House",
+  "aka": ["RBMH"],
+  "type": "production-company",
+  "country": "AT",
+  "founded": "2007",
+  "defunct": null,
+  "parent_company": "Red Bull GmbH",
+  "official_website": "https://www.redbullmediahouse.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Red_Bull_Media_House",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Red Bull Red", "hex": "#DB0A40"},
+    {"name": "Red Bull Blue", "hex": "#001489"},
+    {"name": "Red Bull Yellow", "hex": "#FFC906"}
+  ],
+  "logo_usage": null,
+  "description": "Austrian multi-platform media company owned by Red Bull GmbH, producing sports, music and entertainment content.",
+  "duplicate_files": ["downloads/R/red-bull-media-house.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Red Bull Media House", "url": "https://en.wikipedia.org/wiki/Red_Bull_Media_House"},
+    {"title": "Red Bull Media House official site", "url": "https://www.redbullmediahouse.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

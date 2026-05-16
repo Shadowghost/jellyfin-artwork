@@ -1,0 +1,29 @@
+{
+  "slug": "zdf-enterprises",
+  "sha256": "c114408f9e9423c47630f8628b5a23499375402c7c940d8841ded75539a6cda0",
+  "entity_name": "ZDF Enterprises",
+  "aka": ["ZDFE", "ZDF Studios"],
+  "type": "distributor",
+  "country": "DE",
+  "founded": "1993",
+  "defunct": null,
+  "parent_company": "Zweites Deutsches Fernsehen (ZDF)",
+  "official_website": "https://www.zdf-studios.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/ZDF_Enterprises",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "ZDF Orange", "hex": "#FA7D19"}
+  ],
+  "logo_usage": null,
+  "description": "Commercial subsidiary of German public broadcaster ZDF, handling international program sales, co-productions, and merchandising; rebranded ZDF Studios in 2022.",
+  "duplicate_files": [
+    "downloads/Z/zdf-enterprises.svg",
+    "downloads/Z/zdf-productions.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – ZDF Enterprises", "url": "https://en.wikipedia.org/wiki/ZDF_Enterprises"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "tokyo-broadcasting-system",
+  "sha256": "c2d8d57f64f9003d8f40282b07602a8d44ab8d9d1a395ccdc45697f262fa04e4",
+  "entity_name": "Tokyo Broadcasting System Television",
+  "aka": ["TBS", "Tokyo Broadcasting System", "東京放送"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1951",
+  "defunct": null,
+  "parent_company": "TBS Holdings",
+  "official_website": "https://www.tbs.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Tokyo_Broadcasting_System",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese television network headquartered in Tokyo, flagship station of the Japan News Network (JNN) and the TBS Network.",
+  "duplicate_files": ["downloads/T/tokyo-broadcasting-system-tbs.svg", "downloads/T/tokyo-broadcasting-system-television.svg", "downloads/T/tokyo-broadcasting-system.svg"],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia - Tokyo Broadcasting System", "url": "https://en.wikipedia.org/wiki/Tokyo_Broadcasting_System"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

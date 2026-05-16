@@ -1,0 +1,25 @@
+{
+  "slug": "creative-scotland",
+  "sha256": "db5d10c601dbf8cf1c917fe3364fad8c95890b70dc8975cc04941845617bd7c0",
+  "entity_name": "Creative Scotland",
+  "aka": ["Creative Scotland"],
+  "type": "government-agency",
+  "country": "GB",
+  "founded": "2010",
+  "defunct": null,
+  "parent_company": "Scottish Government",
+  "official_website": "https://www.creativescotland.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Creative_Scotland",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Scottish government public body that supports the arts, screen and creative industries across Scotland.",
+  "duplicate_files": ["downloads/C/creative-scotland.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Creative Scotland", "url": "https://en.wikipedia.org/wiki/Creative_Scotland"},
+    {"title": "Creative Scotland official site", "url": "https://www.creativescotland.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

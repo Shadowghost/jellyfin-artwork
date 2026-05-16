@@ -1,0 +1,24 @@
+{
+  "slug": "zanuck-company",
+  "sha256": "a59d3d3c61e7e17d98ecdb41ac17f22c65b8eb6caafb985676bf5c5505fe703e",
+  "entity_name": "The Zanuck Company",
+  "aka": ["Zanuck Company", "The Zanuck/Brown Company", "Zanuck/Brown Productions"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1972",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/The_Zanuck_Company",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film production company founded by Richard D. Zanuck (initially as Zanuck/Brown Company with David Brown); producer of Jaws, Driving Miss Daisy, and Alice in Wonderland.",
+  "duplicate_files": ["downloads/T/the-zanuck-brown-company.svg", "downloads/T/the-zanuck-company.svg", "downloads/Z/zanuck-company-the.svg", "downloads/Z/zanuck-company.svg"],
+  "duplicate_count": 4,
+  "sources": [
+    {"title": "Wikipedia - The Zanuck Company", "url": "https://en.wikipedia.org/wiki/The_Zanuck_Company"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

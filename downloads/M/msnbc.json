@@ -1,0 +1,28 @@
+{
+  "slug": "msnbc",
+  "sha256": "3b4ecaa412435111032a962a9af58dcac1ac5e98f2bbdc041efe907df8e9365d",
+  "entity_name": "MSNBC",
+  "aka": [],
+  "type": "news",
+  "country": "US",
+  "founded": "1996",
+  "defunct": null,
+  "parent_company": "NBCUniversal (Comcast)",
+  "official_website": "https://www.msnbc.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/MSNBC",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "MSNBC Blue", "hex": "#1A1C7C"}
+  ],
+  "logo_usage": null,
+  "description": "American news-based cable television channel headquartered in New York City, owned by NBCUniversal.",
+  "duplicate_files": [
+    "downloads/M/msnbc.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – MSNBC", "url": "https://en.wikipedia.org/wiki/MSNBC"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

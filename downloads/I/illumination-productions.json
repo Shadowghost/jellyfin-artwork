@@ -1,0 +1,26 @@
+{
+  "slug": "illumination-productions",
+  "sha256": "0b06bf743d2fb8ccdcd51764abd317cf8096f2198cbbbf4535c8de528fd091d5",
+  "entity_name": "Illumination",
+  "aka": ["Illumination Entertainment", "Illumination Productions"],
+  "type": "studio",
+  "country": "US",
+  "founded": "2007",
+  "defunct": null,
+  "parent_company": "Universal Pictures (Comcast/NBCUniversal)",
+  "official_website": "https://www.illumination.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Illumination_(company)",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Illumination Yellow", "hex": "#FFD500"}
+  ],
+  "logo_usage": null,
+  "description": "American animation studio founded by Chris Meledandri, owned by Universal Pictures, known for the Despicable Me/Minions and The Super Mario Bros. Movie franchises.",
+  "duplicate_files": ["downloads/I/illumination-entertainment.svg", "downloads/I/illumination-productions.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Illumination", "url": "https://en.wikipedia.org/wiki/Illumination_(company)"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

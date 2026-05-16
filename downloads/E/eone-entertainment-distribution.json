@@ -1,0 +1,24 @@
+{
+  "slug": "eone-entertainment-distribution",
+  "sha256": "7ddc2f99e02be28defb8e8c9a13d62faf95e29786df5721f8edf7f717f36cff5",
+  "entity_name": "Entertainment One",
+  "aka": ["eOne", "eOne Entertainment Distribution"],
+  "type": "distributor",
+  "country": "CA",
+  "founded": "1973",
+  "defunct": null,
+  "parent_company": "Lionsgate (Lionsgate Studios)",
+  "official_website": "https://www.entonegroup.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Entertainment_One",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Canadian-British multinational entertainment company producing and distributing film and television; acquired by Lionsgate from Hasbro in 2023.",
+  "duplicate_files": ["downloads/E/eone-entertainment-distribution.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Entertainment One", "url": "https://en.wikipedia.org/wiki/Entertainment_One"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

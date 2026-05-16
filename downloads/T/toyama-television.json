@@ -1,0 +1,24 @@
+{
+  "slug": "toyama-television",
+  "sha256": "c215aebfb8d33788655040c0f326157e006a57f794acef93bd78c6bcc453e457",
+  "entity_name": "Toyama Television Broadcasting",
+  "aka": ["BBT", "Toyama TV"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1969",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.bbt.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Toyama_Television_Broadcasting",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese television station based in Toyama Prefecture, affiliated with the Fuji News Network and Fuji Network System.",
+  "duplicate_files": ["downloads/T/toyama-television.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Toyama Television Broadcasting", "url": "https://en.wikipedia.org/wiki/Toyama_Television_Broadcasting"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

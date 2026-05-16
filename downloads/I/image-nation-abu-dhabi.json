@@ -1,0 +1,25 @@
+{
+  "slug": "image-nation-abu-dhabi",
+  "sha256": "2413b06dfc75f5e1c539b47b0db98a7d357eb8176aafb617652959de2d16cbd9",
+  "entity_name": "Image Nation Abu Dhabi",
+  "aka": ["Image Nation"],
+  "type": "production-company",
+  "country": "AE",
+  "founded": "2008",
+  "defunct": null,
+  "parent_company": "International Media Investments (IMI)",
+  "official_website": "https://www.imagenation.ae",
+  "wikipedia": "https://en.wikipedia.org/wiki/Image_Nation_Abu_Dhabi",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Emirati film and television production and finance company based in Abu Dhabi, co-producing international and Arabic-language content.",
+  "duplicate_files": ["downloads/I/image-nation-abu-dhabi.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Image Nation Abu Dhabi", "url": "https://en.wikipedia.org/wiki/Image_Nation_Abu_Dhabi"},
+    {"title": "Image Nation Abu Dhabi official site", "url": "https://www.imagenation.ae/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

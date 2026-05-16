@@ -1,0 +1,25 @@
+{
+  "slug": "samuel-goldwyn-films",
+  "sha256": "71a2eabe503d9cbf01b0eb6bb056faa9b8d572ffd6567aaff1be1fb66c4a2efa",
+  "entity_name": "Samuel Goldwyn Films",
+  "aka": ["The Samuel Goldwyn Company"],
+  "type": "distributor",
+  "country": "US",
+  "founded": "1979",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://samuelgoldwynfilms.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Goldwyn_Films",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film distribution and production company specializing in independent and foreign films.",
+  "duplicate_files": ["downloads/S/samuel-goldwyn-films.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Samuel Goldwyn Films", "url": "https://en.wikipedia.org/wiki/Samuel_Goldwyn_Films"},
+    {"title": "Samuel Goldwyn Films official site", "url": "https://samuelgoldwynfilms.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

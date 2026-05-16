@@ -1,0 +1,25 @@
+{
+  "slug": "lotterywest",
+  "sha256": "880540d9f66a55c1ed9948b4c0b0a397fc3f4f4cc14b257472c066b059a2e900",
+  "entity_name": "Lotterywest",
+  "aka": ["Lotteries Commission of Western Australia"],
+  "type": "government-agency",
+  "country": "AU",
+  "founded": "1932",
+  "defunct": null,
+  "parent_company": "Government of Western Australia",
+  "official_website": "https://www.lotterywest.wa.gov.au/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Lotterywest",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Government-owned lottery and grants body of Western Australia, funds community and cultural projects including film.",
+  "duplicate_files": ["downloads/L/lotterywest.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Lotterywest", "url": "https://en.wikipedia.org/wiki/Lotterywest"},
+    {"title": "Lotterywest official", "url": "https://www.lotterywest.wa.gov.au/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

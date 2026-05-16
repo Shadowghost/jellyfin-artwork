@@ -1,0 +1,24 @@
+{
+  "slug": "williams-entertainment",
+  "sha256": "be9f00b32f008e457a1a4ef773552131c3a50b3c879fecbe2145c8118c8a69ee",
+  "entity_name": "Williams Entertainment",
+  "aka": ["Williams", "Williams Electronics"],
+  "type": "other",
+  "country": "US",
+  "founded": "1988",
+  "defunct": "1999",
+  "parent_company": "WMS Industries",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Midway_Games",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Brand of WMS Industries used to publish home-console video games (later folded into Midway Games); also pinball/arcade heritage. Likely the entity referenced here.",
+  "duplicate_files": ["downloads/W/williams-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Midway Games", "url": "https://en.wikipedia.org/wiki/Midway_Games"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

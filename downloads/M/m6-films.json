@@ -1,0 +1,24 @@
+{
+  "slug": "m6-films",
+  "sha256": "c82e156ba5b4eb483a2b5cab4448749c72d4296fc73a0bb2eb3711a6cc966746",
+  "entity_name": "M6 Films",
+  "aka": [],
+  "type": "production-company",
+  "country": "FR",
+  "founded": "1987",
+  "defunct": null,
+  "parent_company": "Groupe M6",
+  "official_website": "https://www.m6.fr",
+  "wikipedia": "https://fr.wikipedia.org/wiki/M6_Films",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "French film production company, the cinema-financing arm of Groupe M6 television network.",
+  "duplicate_files": ["downloads/M/m6-films.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia (fr) - M6 Films", "url": "https://fr.wikipedia.org/wiki/M6_Films"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

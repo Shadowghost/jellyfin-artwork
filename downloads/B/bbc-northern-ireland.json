@@ -1,0 +1,28 @@
+{
+  "slug": "bbc-northern-ireland",
+  "sha256": "adfb0a8cf29ab117a9e52edc8fcc03875622cc0a636251a64c3d792012d6a45b",
+  "entity_name": "BBC Northern Ireland",
+  "aka": ["BBC NI"],
+  "type": "broadcast-network",
+  "country": "GB",
+  "founded": "1924",
+  "defunct": null,
+  "parent_company": "BBC",
+  "official_website": "https://www.bbc.co.uk/northernireland",
+  "wikipedia": "https://en.wikipedia.org/wiki/BBC_Northern_Ireland",
+  "brand_guidelines_url": "https://www.bbc.co.uk/branding",
+  "brand_colors": [
+    {"name": "BBC Black", "hex": "#000000"},
+    {"name": "BBC White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": "Uses standard BBC block logo branding with 'NORTHERN IRELAND' regional descriptor.",
+  "description": "BBC's national broadcasting region for Northern Ireland, producing TV, radio and online content from its Belfast headquarters.",
+  "duplicate_files": ["downloads/B/bbc-northern-ireland.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - BBC Northern Ireland", "url": "https://en.wikipedia.org/wiki/BBC_Northern_Ireland"},
+    {"title": "BBC Northern Ireland official site", "url": "https://www.bbc.co.uk/northernireland"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

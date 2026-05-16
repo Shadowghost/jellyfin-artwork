@@ -1,0 +1,25 @@
+{
+  "slug": "tooniverse",
+  "sha256": "1fe69a13a32f2f71a4173d90720592fe61480ea7dcee19fe68c2c63805c6be6b",
+  "entity_name": "Tooniverse",
+  "aka": [],
+  "type": "cable-network",
+  "country": "KR",
+  "founded": "1995",
+  "defunct": null,
+  "parent_company": "CJ ENM",
+  "official_website": "https://tooniverse.cjenm.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Tooniverse",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "South Korean cable and satellite animation television channel owned by CJ ENM.",
+  "duplicate_files": ["downloads/T/tooniverse.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Tooniverse", "url": "https://en.wikipedia.org/wiki/Tooniverse"},
+    {"title": "Tooniverse official", "url": "https://tooniverse.cjenm.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

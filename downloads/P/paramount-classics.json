@@ -1,0 +1,26 @@
+{
+  "slug": "paramount-classics",
+  "sha256": "96380906f4a878208c9b74fce2c130db90072f6c7c71901b21f28f94ae83cb8c",
+  "entity_name": "Paramount Classics",
+  "aka": ["Paramount Vantage (successor)"],
+  "type": "distributor",
+  "country": "US",
+  "founded": "1998",
+  "defunct": "2006",
+  "parent_company": "Paramount Pictures",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Paramount_Vantage",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Specialty-film division of Paramount Pictures, focused on independent and art-house films; succeeded by Paramount Vantage.",
+  "duplicate_files": [
+    "downloads/P/paramount-classics.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Paramount Vantage", "url": "https://en.wikipedia.org/wiki/Paramount_Vantage"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

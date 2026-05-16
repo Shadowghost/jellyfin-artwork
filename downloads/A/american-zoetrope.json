@@ -1,0 +1,25 @@
+{
+  "slug": "american-zoetrope",
+  "sha256": "8ffa67be4003a1ed4815e7bb2ea3fe0f5eade897041dc823c8a4118303cbc680",
+  "entity_name": "American Zoetrope",
+  "aka": ["Zoetrope Studios", "Omni Zoetrope"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1969",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.zoetrope.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/American_Zoetrope",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Independent American film studio founded by Francis Ford Coppola and George Lucas in San Francisco.",
+  "duplicate_files": ["downloads/A/american-zoetrope.svg", "downloads/O/omni-zoetrope-studios.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – American Zoetrope", "url": "https://en.wikipedia.org/wiki/American_Zoetrope"},
+    {"title": "Zoetrope official site", "url": "https://www.zoetrope.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

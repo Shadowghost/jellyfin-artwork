@@ -1,0 +1,24 @@
+{
+  "slug": "geneon-entertainment",
+  "sha256": "3aee9003242640ad9c2bad4b03cbdddc55bcbac40036052f5b35f8e8d6bca2a8",
+  "entity_name": "Geneon Entertainment",
+  "aka": ["Geneon Universal Entertainment", "Pioneer LDC"],
+  "type": "distributor",
+  "country": "JP",
+  "founded": "1981",
+  "defunct": "2013",
+  "parent_company": "NBCUniversal Entertainment Japan (merged)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Geneon_Universal_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese anime, music and film production/distribution company that merged with Universal Pictures Japan to form NBCUniversal Entertainment Japan.",
+  "duplicate_files": ["downloads/G/geneon-entertainment.svg", "downloads/G/geneon-universal-entertainment.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Geneon Universal Entertainment", "url": "https://en.wikipedia.org/wiki/Geneon_Universal_Entertainment"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

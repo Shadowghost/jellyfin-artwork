@@ -1,0 +1,24 @@
+{
+  "slug": "astral-media",
+  "sha256": "4f634db0f947f9e4bf2e78c015654ab647b029cf93c0ae0fe2a65d5a09bc818c",
+  "entity_name": "Astral Media",
+  "aka": ["Astral", "Astral Communications"],
+  "type": "other",
+  "country": "CA",
+  "founded": "1961",
+  "defunct": "2013",
+  "parent_company": "Bell Media (acquired 2013)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Astral_Media",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Canadian media company based in Montreal, operator of television channels and radio stations, acquired by Bell Media in 2013.",
+  "duplicate_files": ["downloads/A/astral-media.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Astral Media", "url": "https://en.wikipedia.org/wiki/Astral_Media"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

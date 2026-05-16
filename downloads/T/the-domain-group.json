@@ -1,0 +1,25 @@
+{
+  "slug": "the-domain-group",
+  "sha256": "6100b049b4e03ee754d870abe0ab5915cce60c2f6913c08b71d9f255539b03ba",
+  "entity_name": "The Domain Group",
+  "aka": ["The Domain Group, Inc."],
+  "type": "other",
+  "country": "US",
+  "founded": null,
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://thedomaingroupinc.com",
+  "wikipedia": null,
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American production research and clearance services company supporting film and television productions; credited on series such as American Gods, BoJack Horseman, and Rick and Morty.",
+  "duplicate_files": ["downloads/T/the-domain-group.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "The Domain Group official site", "url": "https://thedomaingroupinc.com/about-us"},
+    {"title": "IMDb – The Domain Group", "url": "https://www.imdb.com/search/title/?companies=co0136851"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

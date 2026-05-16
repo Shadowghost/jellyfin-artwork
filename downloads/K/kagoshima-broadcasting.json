@@ -1,0 +1,25 @@
+{
+  "slug": "kagoshima-broadcasting",
+  "sha256": "baa32061dbdf6b49cfe1e13b5f3b1f9452ef050d72277501f49576d9e0add6dc",
+  "entity_name": "Kagoshima Broadcasting",
+  "aka": ["KKB", "Kagoshima Hoso"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1982",
+  "defunct": null,
+  "parent_company": "All-Nippon News Network (ANN)",
+  "official_website": "https://www.kkb.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Kagoshima_Broadcasting",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial television station based in Kagoshima Prefecture, affiliated with TV Asahi and All-Nippon News Network.",
+  "duplicate_files": ["downloads/K/kagoshima-broadcasting.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Kagoshima Broadcasting", "url": "https://en.wikipedia.org/wiki/Kagoshima_Broadcasting"},
+    {"title": "KKB official site", "url": "https://www.kkb.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "showcase-ca",
+  "sha256": "8c8449167fc180a28bb7a406326daf1382acf97ed5e0afee517fdfe99c94ccda",
+  "entity_name": "Showcase (Canada)",
+  "aka": ["Showcase Entertainment", "Showcase Canada"],
+  "type": "cable-network",
+  "country": "CA",
+  "founded": "1995",
+  "defunct": null,
+  "parent_company": "Corus Entertainment",
+  "official_website": "https://www.showcase.ca/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Showcase_(Canadian_TV_channel)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Canadian English-language specialty cable channel owned by Corus Entertainment, broadcasting feature films and edgy dramatic programming.",
+  "duplicate_files": ["downloads/S/showcase-ca.svg", "downloads/S/showcase-entertainment.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Showcase (Canadian TV channel)", "url": "https://en.wikipedia.org/wiki/Showcase_(Canadian_TV_channel)"},
+    {"title": "Showcase official site", "url": "https://www.showcase.ca/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

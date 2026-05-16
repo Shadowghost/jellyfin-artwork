@@ -1,0 +1,26 @@
+{
+  "slug": "screen-queensland",
+  "sha256": "e4ce89ac435046e8be80f60580d26e2a3c392fe320bc73b4e24cda7f10551a31",
+  "entity_name": "Screen Queensland",
+  "aka": [],
+  "type": "government-agency",
+  "country": "AU",
+  "founded": "1991",
+  "defunct": null,
+  "parent_company": "Queensland Government",
+  "official_website": "https://screenqueensland.com.au/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Screen_Queensland",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Queensland state government agency promoting and funding screen production in Queensland, Australia.",
+  "duplicate_files": [
+    "downloads/S/screen-queensland.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Screen Queensland", "url": "https://en.wikipedia.org/wiki/Screen_Queensland"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

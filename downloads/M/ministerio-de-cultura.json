@@ -1,0 +1,24 @@
+{
+  "slug": "ministerio-de-cultura",
+  "sha256": "427a38310ae09799242c761bd053bb0490e7a4a4363a72e3f3b014d5daffd746",
+  "entity_name": "Ministerio de Cultura",
+  "aka": ["Ministry of Culture"],
+  "type": "government-agency",
+  "country": "ES",
+  "founded": null,
+  "defunct": null,
+  "parent_company": "Government (national)",
+  "official_website": "https://www.cultura.gob.es/",
+  "wikipedia": "https://es.wikipedia.org/wiki/Ministerio_de_Cultura_(Espa%C3%B1a)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Government ministry of culture (most commonly Spain's Ministerio de Cultura, but the same name is used by several Spanish-speaking countries); frequently credited as a public film funder.",
+  "duplicate_files": ["downloads/M/ministerio-de-cultura.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia (es) - Ministerio de Cultura (España)", "url": "https://es.wikipedia.org/wiki/Ministerio_de_Cultura_(Espa%C3%B1a)"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

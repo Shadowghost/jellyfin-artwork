@@ -1,0 +1,25 @@
+{
+  "slug": "abc-news-24",
+  "sha256": "4f7654afa270098b0048c71317ab91a8aecff7f9a60684bae7e23f32657ccd81",
+  "entity_name": "ABC News 24",
+  "aka": ["ABC News Channel", "News 24"],
+  "type": "broadcast-network",
+  "country": "AU",
+  "founded": "2010",
+  "defunct": null,
+  "parent_company": "Australian Broadcasting Corporation",
+  "official_website": "https://www.abc.net.au/news",
+  "wikipedia": "https://en.wikipedia.org/wiki/ABC_News_(Australian_TV_channel)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Australian free-to-air rolling news television channel operated by the Australian Broadcasting Corporation, launched in 2010 as ABC News 24 and rebranded simply as ABC News in 2017.",
+  "duplicate_files": ["downloads/A/abc-news-24.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – ABC News (Australian TV channel)", "url": "https://en.wikipedia.org/wiki/ABC_News_(Australian_TV_channel)"},
+    {"title": "ABC News official site", "url": "https://www.abc.net.au/news"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

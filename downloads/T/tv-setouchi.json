@@ -1,0 +1,27 @@
+{
+  "slug": "tv-setouchi",
+  "sha256": "d1acb8ec4648d39f4d8e3076cf1ad4df0b4e1831bf29f672cfe36b2a82f1ebe4",
+  "entity_name": "TV Setouchi Broadcasting",
+  "aka": ["TSC", "JOPH-DTV"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1985",
+  "defunct": null,
+  "parent_company": "Sanyo Shimbun group",
+  "official_website": "https://www.webtsc.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/TV_Setouchi",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial television station based in Okayama, serving Okayama and Kagawa prefectures as a TX Network (TV Tokyo) affiliate.",
+  "duplicate_files": [
+    "downloads/T/tv-setouchi-broadcasting.svg",
+    "downloads/T/tv-setouchi.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – TV Setouchi", "url": "https://en.wikipedia.org/wiki/TV_Setouchi"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

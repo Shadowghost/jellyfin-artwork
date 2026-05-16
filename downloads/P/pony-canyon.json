@@ -1,0 +1,24 @@
+{
+  "slug": "pony-canyon",
+  "sha256": "b8bb1b9854f031b7fae791df15a1b182c72d8598b955c910dbea7771d71d1391",
+  "entity_name": "Pony Canyon",
+  "aka": ["ポニーキャニオン"],
+  "type": "record-label",
+  "country": "JP",
+  "founded": "1966",
+  "defunct": null,
+  "parent_company": "Fujisankei Communications Group",
+  "official_website": "https://www.ponycanyon.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Pony_Canyon",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese publisher, distributor, and producer of various entertainment products including music, anime, films, and video games; subsidiary of Fujisankei Communications Group.",
+  "duplicate_files": ["downloads/P/pony-canyon-enterprise.svg", "downloads/P/pony-canyon.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Pony Canyon", "url": "https://en.wikipedia.org/wiki/Pony_Canyon"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

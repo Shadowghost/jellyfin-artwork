@@ -1,0 +1,24 @@
+{
+  "slug": "tulip-television",
+  "sha256": "7e01bcddcb1b95ed7ab9bbbc2da1cb931ee154f89b295da0b3ced257f15db75b",
+  "entity_name": "Tulip Television Inc.",
+  "aka": ["TUT", "チューリップテレビ"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1990",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.tulip-tv.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Tulip_Television",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial television station serving Toyama Prefecture, affiliated with Japan News Network (JNN/TBS).",
+  "duplicate_files": ["downloads/T/tulip-television.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Tulip Television", "url": "https://en.wikipedia.org/wiki/Tulip_Television"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

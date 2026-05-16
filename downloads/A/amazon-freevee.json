@@ -1,0 +1,26 @@
+{
+  "slug": "amazon-freevee",
+  "sha256": "8d4363fd38f9a501498e0322c5433a2ca51ebcffaee98865deb79934354bc638",
+  "entity_name": "Amazon Freevee",
+  "aka": ["Freevee", "IMDb TV (former)", "IMDb Freedive (former)"],
+  "type": "streaming-service",
+  "country": "US",
+  "founded": "2019",
+  "defunct": "2024",
+  "parent_company": "Amazon",
+  "official_website": "https://www.amazon.com/freevee",
+  "wikipedia": "https://en.wikipedia.org/wiki/Amazon_Freevee",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Amazon Orange", "hex": "#FF9900"}
+  ],
+  "logo_usage": null,
+  "description": "Free ad-supported streaming television service owned by Amazon, formerly known as IMDb TV; shut down in 2024 and merged into Prime Video.",
+  "duplicate_files": ["downloads/A/amazon-freevee.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Amazon Freevee", "url": "https://en.wikipedia.org/wiki/Amazon_Freevee"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

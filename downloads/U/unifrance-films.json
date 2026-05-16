@@ -1,0 +1,25 @@
+{
+  "slug": "unifrance-films",
+  "sha256": "624b6e01531d49ed1ee4df82fe88bd045188d98c7962d89239d6f6752768c299",
+  "entity_name": "Unifrance",
+  "aka": ["Unifrance Films"],
+  "type": "other",
+  "country": "FR",
+  "founded": "1949",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.unifrance.org/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Unifrance",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "French organization charged with promoting French cinema and audiovisual works around the world, funded by the CNC and member professionals.",
+  "duplicate_files": ["downloads/U/unifrance-films.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Unifrance", "url": "https://en.wikipedia.org/wiki/Unifrance"},
+    {"title": "Unifrance official site", "url": "https://www.unifrance.org/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

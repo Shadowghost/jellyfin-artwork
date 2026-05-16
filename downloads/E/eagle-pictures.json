@@ -1,0 +1,25 @@
+{
+  "slug": "eagle-pictures",
+  "sha256": "916b129a9c592445035ca37d4a70e17ef179235ea9e35bcac2df18f1fda08698",
+  "entity_name": "Eagle Pictures",
+  "aka": [],
+  "type": "distributor",
+  "country": "IT",
+  "founded": "1986",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.eaglepictures.com/",
+  "wikipedia": "https://it.wikipedia.org/wiki/Eagle_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Italian independent theatrical and home-video film distributor, handling Italian releases of major international films and TV series.",
+  "duplicate_files": ["downloads/E/eagle-pictures.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia (it) - Eagle Pictures", "url": "https://it.wikipedia.org/wiki/Eagle_Pictures"},
+    {"title": "Eagle Pictures official site", "url": "https://www.eaglepictures.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

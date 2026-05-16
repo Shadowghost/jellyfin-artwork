@@ -1,0 +1,25 @@
+{
+  "slug": "canal-13-de-chile",
+  "sha256": "4a5049f61742139a3caebaf72144d8ac3254fc840ac7962eabc00d469b0ea415",
+  "entity_name": "Canal 13 (Chile)",
+  "aka": ["Canal 13 de Chile", "Trece"],
+  "type": "broadcast-network",
+  "country": "CL",
+  "founded": "1959",
+  "defunct": null,
+  "parent_company": "Secul S.A. (Grupo Luksic + Pontificia Universidad Católica de Chile)",
+  "official_website": "https://www.13.cl/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Canal_13_(Chilean_TV_channel)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Chilean free-to-air television network, the second-oldest in the country; originally owned by the Catholic University of Chile and now majority-owned by the Luksic group.",
+  "duplicate_files": ["downloads/C/canal-13-de-chile.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Canal 13 (Chilean TV channel)", "url": "https://en.wikipedia.org/wiki/Canal_13_(Chilean_TV_channel)"},
+    {"title": "Canal 13 official site", "url": "https://www.13.cl/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

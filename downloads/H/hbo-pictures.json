@@ -1,0 +1,26 @@
+{
+  "slug": "hbo-pictures",
+  "sha256": "3ed834167b9f8169ea262aff151b24ecb6ab55f78ceabd5de1caebf716eeda4b",
+  "entity_name": "HBO Pictures",
+  "aka": [],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1983",
+  "defunct": "1999",
+  "parent_company": "Home Box Office (Warner Bros. Discovery)",
+  "official_website": "https://www.hbo.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/HBO_Films",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "HBO Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "Television film production division of HBO, originally branded HBO Pictures (later folded into HBO Films); produced original made-for-cable movies starting in 1983.",
+  "duplicate_files": ["downloads/H/hbo-pictures.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – HBO Films", "url": "https://en.wikipedia.org/wiki/HBO_Films"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

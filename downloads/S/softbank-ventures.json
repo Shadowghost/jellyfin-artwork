@@ -1,0 +1,25 @@
+{
+  "slug": "softbank-ventures",
+  "sha256": "f77eaaff37f365786b043c26e33824bc7d24fa8f22132aeb0c73d4b135151747",
+  "entity_name": "SoftBank Ventures Asia",
+  "aka": ["SoftBank Ventures Korea", "SoftBank Ventures"],
+  "type": "other",
+  "country": "KR",
+  "founded": "2000",
+  "defunct": null,
+  "parent_company": "SoftBank Group",
+  "official_website": "https://www.softbankventures.co.kr/",
+  "wikipedia": "https://en.wikipedia.org/wiki/SoftBank_Group",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Early-stage venture capital arm of SoftBank Group, originally founded as SoftBank Ventures Korea, that has invested in entertainment and tech companies across Asia.",
+  "duplicate_files": ["downloads/S/softbank-ventures-korea.svg", "downloads/S/softbank-ventures.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – SoftBank Group", "url": "https://en.wikipedia.org/wiki/SoftBank_Group"},
+    {"title": "SoftBank Ventures Asia", "url": "https://www.softbankventures.co.kr/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "atresmedia",
+  "sha256": "e5860d5eacc4e4c74f7cb264299d67b9d0c657badfacdd4cdb550529e1c338a5",
+  "entity_name": "Atresmedia",
+  "aka": ["Atresmedia Corporación", "Antena 3 de Televisión"],
+  "type": "broadcast-network",
+  "country": "ES",
+  "founded": "1989",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.atresmedia.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Atresmedia",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Spanish mass media conglomerate operating television (Antena 3, laSexta), radio (Onda Cero) and film production (Atresmedia Cine).",
+  "duplicate_files": ["downloads/A/atresmedia.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Atresmedia", "url": "https://en.wikipedia.org/wiki/Atresmedia"},
+    {"title": "Atresmedia official site", "url": "https://www.atresmedia.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "tv-u-yamagata",
+  "sha256": "0c8dc788f28dc270b22cd6700df94799da8d18fd4b543403def14f0451b11f05",
+  "entity_name": "TV-U Yamagata",
+  "aka": ["TUY", "TV-U Yamagata Inc."],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1989",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.tuy.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/TV-U_Yamagata",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial television broadcaster based in Yamagata Prefecture, affiliated with the Japan News Network (TBS).",
+  "duplicate_files": ["downloads/T/tv-u-yamagata.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - TV-U Yamagata", "url": "https://en.wikipedia.org/wiki/TV-U_Yamagata"},
+    {"title": "TUY official site", "url": "https://www.tuy.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

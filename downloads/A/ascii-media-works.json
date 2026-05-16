@@ -1,0 +1,26 @@
+{
+  "slug": "ascii-media-works",
+  "sha256": "0f8d671e36a51c7320d1718a07ee1acb7a8038254cf2acb1cfe714be8825ee24",
+  "entity_name": "ASCII Media Works",
+  "aka": ["ASCII Media Works Inc.", "Dengeki"],
+  "type": "publisher",
+  "country": "JP",
+  "founded": "2008",
+  "defunct": "2013",
+  "parent_company": "Kadokawa Corporation",
+  "official_website": "https://dengekibunko.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/ASCII_Media_Works",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese publishing company known for the Dengeki imprints, merged into Kadokawa in 2013.",
+  "duplicate_files": [
+    "downloads/A/ascii-media-works.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – ASCII Media Works", "url": "https://en.wikipedia.org/wiki/ASCII_Media_Works"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

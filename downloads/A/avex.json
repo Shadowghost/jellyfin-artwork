@@ -1,0 +1,30 @@
+{
+  "slug": "avex",
+  "sha256": "ae06ce8750aef380e6c173f0d924436937b8e937c668bf2e31fedf805b795390",
+  "entity_name": "Avex Group",
+  "aka": ["Avex", "Avex Inc.", "Avex Entertainment", "Avex Pictures", "Avex Trax"],
+  "type": "record-label",
+  "country": "JP",
+  "founded": "1988",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://avex.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Avex_Group",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese entertainment conglomerate headquartered in Tokyo encompassing the Avex Trax record label, Avex Pictures (anime production/distribution) and Avex Entertainment (talent management/live events).",
+  "duplicate_files": [
+    "downloads/A/avex-entertainment.svg",
+    "downloads/A/avex-pictures.svg",
+    "downloads/A/avex-trax.svg",
+    "downloads/A/avex.svg"
+  ],
+  "duplicate_count": 4,
+  "sources": [
+    {"title": "Wikipedia – Avex Group", "url": "https://en.wikipedia.org/wiki/Avex_Group"},
+    {"title": "Avex official site", "url": "https://avex.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

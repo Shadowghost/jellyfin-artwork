@@ -1,0 +1,25 @@
+{
+  "slug": "7mate",
+  "sha256": "8400d0b0ada2cb8969a6a411c41f4c7f90426c276f4c49da494622002fb29cfc",
+  "entity_name": "7mate",
+  "aka": ["7mate HD"],
+  "type": "broadcast-network",
+  "country": "AU",
+  "founded": "2010",
+  "defunct": null,
+  "parent_company": "Seven West Media",
+  "official_website": "https://7plus.com.au/",
+  "wikipedia": "https://en.wikipedia.org/wiki/7mate",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Australian free-to-air digital multichannel owned by Seven Network targeting male demographics.",
+  "duplicate_files": ["downloads/0/7mate.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - 7mate", "url": "https://en.wikipedia.org/wiki/7mate"},
+    {"title": "Seven Network", "url": "https://7plus.com.au/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "hallmark-entertainment",
+  "sha256": "ba37a55d04d62d88acbebaeaa57571776efc9d4a323b1a79469a7637dca9069d",
+  "entity_name": "Hallmark Entertainment",
+  "aka": ["RHI Entertainment (later name)"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1994",
+  "defunct": "2006",
+  "parent_company": "Hallmark Cards (formerly)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/RHI_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Hallmark Purple", "hex": "#6E2C8C"}
+  ],
+  "logo_usage": null,
+  "description": "American producer of television miniseries and TV movies, subsidiary of Hallmark Cards; renamed RHI Entertainment in 2006.",
+  "duplicate_files": ["downloads/H/hallmark-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - RHI Entertainment", "url": "https://en.wikipedia.org/wiki/RHI_Entertainment"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

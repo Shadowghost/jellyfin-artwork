@@ -1,0 +1,28 @@
+{
+  "slug": "paramount-with-showtime",
+  "sha256": "79f4bd170d5a830006f72e6f467c7883b12014899543b44c54c67dba6e5e98e1",
+  "entity_name": "Paramount+ with Showtime",
+  "aka": ["Paramount Plus with Showtime"],
+  "type": "streaming-service",
+  "country": "US",
+  "founded": "2023",
+  "defunct": null,
+  "parent_company": "Paramount Global",
+  "official_website": "https://www.paramountplus.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Paramount%2B",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Paramount Blue", "hex": "#0064FF"}
+  ],
+  "logo_usage": null,
+  "description": "Premium tier of the Paramount+ streaming service that integrates Showtime content, launched in June 2023.",
+  "duplicate_files": [
+    "downloads/P/paramount-with-showtime.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Paramount+", "url": "https://en.wikipedia.org/wiki/Paramount%2B"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

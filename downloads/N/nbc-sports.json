@@ -1,0 +1,25 @@
+{
+  "slug": "nbc-sports",
+  "sha256": "5a57a165effe801c15b7b96f45ef60e124559197f18177380b557a539cadb2e2",
+  "entity_name": "NBC Sports",
+  "aka": [],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1940",
+  "defunct": null,
+  "parent_company": "NBCUniversal (Comcast)",
+  "official_website": "https://www.nbcsports.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/NBC_Sports",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": "Often paired with the NBC peacock mark.",
+  "description": "Sports programming division of the American broadcast television network NBC, covering events including the Olympics, NFL Sunday Night Football, NASCAR, the NHL and Premier League.",
+  "duplicate_files": ["downloads/N/nbc-sports.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - NBC Sports", "url": "https://en.wikipedia.org/wiki/NBC_Sports"},
+    {"title": "NBC Sports official site", "url": "https://www.nbcsports.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

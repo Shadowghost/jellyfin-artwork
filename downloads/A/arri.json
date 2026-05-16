@@ -1,0 +1,28 @@
+{
+  "slug": "arri",
+  "sha256": "f96e1fb8b8b7c538b0a41675452268b4ec3415572fc9e7cf06044870f671f692",
+  "entity_name": "ARRI",
+  "aka": ["Arnold & Richter Cine Technik", "Arri Group"],
+  "type": "other",
+  "country": "DE",
+  "founded": "1917",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.arri.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Arri",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "ARRI Black", "hex": "#000000"},
+    {"name": "ARRI White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": null,
+  "description": "German manufacturer of motion picture cameras, lenses, lighting and post-production equipment, founded in Munich in 1917.",
+  "duplicate_files": ["downloads/A/arri.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Arri", "url": "https://en.wikipedia.org/wiki/Arri"},
+    {"title": "ARRI official site", "url": "https://www.arri.com"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "victoria-state-government",
+  "sha256": "56ecf7be9759b858612f071778b9e55ab0b48aef8b822e60f36a20101af84e03",
+  "entity_name": "Victoria State Government",
+  "aka": ["Government of Victoria", "Victorian Government"],
+  "type": "government-agency",
+  "country": "AU",
+  "founded": "1855",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.vic.gov.au",
+  "wikipedia": "https://en.wikipedia.org/wiki/Government_of_Victoria",
+  "brand_guidelines_url": "https://creative.vic.gov.au/resources/logos-and-acknowledgements/victorian-state-government-logo",
+  "brand_colors": [],
+  "logo_usage": "Use of the Victoria State Government logo is managed by Creative Victoria and the Department of Premier and Cabinet; typically required as an acknowledgement on funded screen productions, often shown alongside the VicScreen (Film Victoria) logo.",
+  "description": "Australian state government of Victoria, credited on productions supported by Film Victoria / VicScreen.",
+  "duplicate_files": [
+    "downloads/V/victoria-state-government.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Creative Victoria – Victorian State Government logo", "url": "https://creative.vic.gov.au/resources/logos-and-acknowledgements/victorian-state-government-logo"},
+    {"title": "VicScreen – Logo Usage", "url": "https://vicscreen.vic.gov.au/legal/logo-usage"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

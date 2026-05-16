@@ -1,0 +1,25 @@
+{
+  "slug": "akita-asahi-broadcasting",
+  "sha256": "687f645e298d0b7f2f208e59982dc368b1010eea3b9e5916966bbe671fd48d81",
+  "entity_name": "Akita Asahi Broadcasting Co., Ltd.",
+  "aka": ["AAB", "秋田朝日放送"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1991",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.aab-tv.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Akita_Asahi_Broadcasting",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial television station based in Akita Prefecture, affiliated with All-Nippon News Network (ANN/TV Asahi).",
+  "duplicate_files": ["downloads/A/akita-asahi-broadcasting.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Akita Asahi Broadcasting", "url": "https://en.wikipedia.org/wiki/Akita_Asahi_Broadcasting"},
+    {"title": "AAB official site", "url": "https://www.aab-tv.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

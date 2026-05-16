@@ -1,0 +1,25 @@
+{
+  "slug": "bell-media",
+  "sha256": "160f699a7dc928cde64d4c94a8fa22c7e815b952ba34b5e6f43e19f49315f5a1",
+  "entity_name": "Bell Media",
+  "aka": ["Bell Media Inc."],
+  "type": "other",
+  "country": "CA",
+  "founded": "2011",
+  "defunct": null,
+  "parent_company": "BCE Inc.",
+  "official_website": "https://www.bellmedia.ca",
+  "wikipedia": "https://en.wikipedia.org/wiki/Bell_Media",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Canadian mass media subsidiary of BCE Inc., owning CTV, Crave, TSN and numerous radio and television properties.",
+  "duplicate_files": ["downloads/B/bell-media.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Bell Media", "url": "https://en.wikipedia.org/wiki/Bell_Media"},
+    {"title": "Bell Media official site", "url": "https://www.bellmedia.ca/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

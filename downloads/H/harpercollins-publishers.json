@@ -1,0 +1,25 @@
+{
+  "slug": "harpercollins-publishers",
+  "sha256": "802d0145624f5e9674bad2bd358fd118ee18198a80273cd0489eaf9462224c84",
+  "entity_name": "HarperCollins Publishers",
+  "aka": ["HarperCollins"],
+  "type": "publisher",
+  "country": "US",
+  "founded": "1989",
+  "defunct": null,
+  "parent_company": "News Corp",
+  "official_website": "https://www.harpercollins.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/HarperCollins",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "One of the Big Five English-language publishers, a subsidiary of News Corp, formed by the 1989 merger of Harper & Row and William Collins, Sons.",
+  "duplicate_files": ["downloads/H/harpercollins-publishers.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – HarperCollins", "url": "https://en.wikipedia.org/wiki/HarperCollins"},
+    {"title": "HarperCollins official site", "url": "https://www.harpercollins.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

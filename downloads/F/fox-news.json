@@ -1,0 +1,29 @@
+{
+  "slug": "fox-news",
+  "sha256": "5455df4d7b29f2065dff252068e017bd7c96f69ba27935c12700a79660f1017e",
+  "entity_name": "Fox News",
+  "aka": ["Fox News Channel", "FNC"],
+  "type": "news",
+  "country": "US",
+  "founded": "1996",
+  "defunct": null,
+  "parent_company": "Fox Corporation",
+  "official_website": "https://www.foxnews.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Fox_News",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Fox News Blue", "hex": "#003366"},
+    {"name": "Fox News Red", "hex": "#B71C1C"}
+  ],
+  "logo_usage": null,
+  "description": "American multinational conservative news and political commentary cable channel, owned by Fox Corporation.",
+  "duplicate_files": [
+    "downloads/F/fox-news.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Fox News", "url": "https://en.wikipedia.org/wiki/Fox_News"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

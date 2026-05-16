@@ -1,0 +1,31 @@
+{
+  "slug": "fox-sports",
+  "sha256": "ba86c5e302171429029ba44e7a872f556e9bbcd185db1667d09f614f4f1eb5dd",
+  "entity_name": "Fox Sports",
+  "aka": ["Fox Sports Media Group", "Fox College Sports"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1994",
+  "defunct": null,
+  "parent_company": "Fox Corporation",
+  "official_website": "https://www.foxsports.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Fox_Sports_(United_States)",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Fox Sports Blue", "hex": "#1A2B5F"},
+    {"name": "Fox Sports Yellow", "hex": "#FFCC00"}
+  ],
+  "logo_usage": null,
+  "description": "American sports programming division of the Fox Broadcasting Company, operating cable channels and a national sports network.",
+  "duplicate_files": [
+    "downloads/F/fox-college-sports.svg",
+    "downloads/F/fox-sports.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Fox Sports (US)", "url": "https://en.wikipedia.org/wiki/Fox_Sports_(United_States)"},
+    {"title": "Fox Sports official site", "url": "https://www.foxsports.com"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

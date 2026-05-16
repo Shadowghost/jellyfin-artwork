@@ -1,0 +1,27 @@
+{
+  "slug": "abema",
+  "sha256": "4531fc3a6ff28ad35b26865902e422d763ce6ebdc7b6fafc9dbd054f44e20227",
+  "entity_name": "ABEMA",
+  "aka": ["AbemaTV", "Abema TV"],
+  "type": "streaming-service",
+  "country": "JP",
+  "founded": "2016",
+  "defunct": null,
+  "parent_company": "CyberAgent / TV Asahi (AbemaTV, Inc.)",
+  "official_website": "https://abema.tv/",
+  "wikipedia": "https://en.wikipedia.org/wiki/AbemaTV",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Abema Green", "hex": "#11ECDA"}
+  ],
+  "logo_usage": null,
+  "description": "Japanese internet television service operated jointly by CyberAgent and TV Asahi.",
+  "duplicate_files": ["downloads/A/abema-tv.svg", "downloads/A/abema.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - AbemaTV", "url": "https://en.wikipedia.org/wiki/AbemaTV"},
+    {"title": "ABEMA official", "url": "https://abema.tv/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

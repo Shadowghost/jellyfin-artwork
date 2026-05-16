@@ -1,0 +1,28 @@
+{
+  "slug": "france-t-l-visions",
+  "sha256": "59d01c49e64aea457497f0ec26e7e3074327880abf5424ddb798f6f3b0a5d0fb",
+  "entity_name": "France Télévisions",
+  "aka": ["France Televisions", "FTV"],
+  "type": "broadcast-network",
+  "country": "FR",
+  "founded": "1992",
+  "defunct": null,
+  "parent_company": "Government of France",
+  "official_website": "https://www.francetelevisions.fr/",
+  "wikipedia": "https://en.wikipedia.org/wiki/France_T%C3%A9l%C3%A9visions",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "French public national television broadcaster operating France 2, France 3, France 4, France 5 and France.tv streaming.",
+  "duplicate_files": [
+    "downloads/F/france-t-l-visions-distribution.svg",
+    "downloads/F/france-t-l-visions.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – France Télévisions", "url": "https://en.wikipedia.org/wiki/France_T%C3%A9l%C3%A9visions"},
+    {"title": "France Télévisions official", "url": "https://www.francetelevisions.fr/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

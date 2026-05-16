@@ -1,0 +1,25 @@
+{
+  "slug": "film-i-v-st",
+  "sha256": "0806491cc7560672b9b6b45f4245801428e17a5fcb3a985e85a5e755a3028aa2",
+  "entity_name": "Film i Väst",
+  "aka": ["Trollywood"],
+  "type": "production-company",
+  "country": "SE",
+  "founded": "1992",
+  "defunct": null,
+  "parent_company": "Västra Götalandsregionen",
+  "official_website": "https://filmivast.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Film_i_V%C3%A4st",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Swedish regional film fund and co-producer based in Trollhättan, owned by Västra Götalandsregionen.",
+  "duplicate_files": ["downloads/F/film-i-v-st.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Film i Väst", "url": "https://en.wikipedia.org/wiki/Film_i_V%C3%A4st"},
+    {"title": "Film i Väst official", "url": "https://filmivast.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

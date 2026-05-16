@@ -1,0 +1,27 @@
+{
+  "slug": "hbo-nordic",
+  "sha256": "5f82f500dd75202bc2d6abf82ad73e045fd4b88f82ff7710dbc1a9542a7543cd",
+  "entity_name": "HBO Nordic",
+  "aka": ["HBO Max Nordic", "HBO Europe"],
+  "type": "streaming-service",
+  "country": "SE",
+  "founded": "2012",
+  "defunct": "2022",
+  "parent_company": "Warner Bros. Discovery",
+  "official_website": "https://www.max.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/HBO_Nordic",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "HBO Black", "hex": "#000000"},
+    {"name": "HBO White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": null,
+  "description": "Nordic subscription video-on-demand service operated by HBO Europe in Sweden, Denmark, Norway, Finland; replaced by HBO Max in 2021 and now Max under Warner Bros. Discovery.",
+  "duplicate_files": ["downloads/H/hbo-nordic.svg", "downloads/I/independent-comedy-network.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - HBO Nordic", "url": "https://en.wikipedia.org/wiki/HBO_Nordic"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

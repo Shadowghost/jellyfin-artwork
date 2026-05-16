@@ -1,0 +1,25 @@
+{
+  "slug": "all3media",
+  "sha256": "4cc2513746454ddf0abdf9eeda8014d08571f71d1e41ac42d4d7f0e3849f72d4",
+  "entity_name": "All3Media",
+  "aka": ["all3media", "All3Media International"],
+  "type": "production-company",
+  "country": "GB",
+  "founded": "2003",
+  "defunct": null,
+  "parent_company": "RedBird IMI",
+  "official_website": "https://www.all3media.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/All3Media",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British television, film and digital production and distribution group with subsidiaries worldwide.",
+  "duplicate_files": ["downloads/A/all3media-international.svg", "downloads/A/all3media.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – All3Media", "url": "https://en.wikipedia.org/wiki/All3Media"},
+    {"title": "All3Media official site", "url": "https://www.all3media.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

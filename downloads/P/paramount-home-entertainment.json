@@ -1,0 +1,24 @@
+{
+  "slug": "paramount-home-entertainment",
+  "sha256": "c98a43d01843721b9400d9c31ff4bc91ae6e4e04b75284acad93514e90f513ae",
+  "entity_name": "Paramount Home Entertainment",
+  "aka": ["Paramount Home Media Distribution", "Paramount Home Video"],
+  "type": "distributor",
+  "country": "US",
+  "founded": "1980",
+  "defunct": null,
+  "parent_company": "Paramount Global / Paramount Pictures",
+  "official_website": "https://www.paramount.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Paramount_Home_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Home media distribution arm of Paramount Pictures, releasing the studio's catalog on physical media and digital platforms worldwide.",
+  "duplicate_files": ["downloads/P/paramount-home-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Paramount Home Entertainment", "url": "https://en.wikipedia.org/wiki/Paramount_Home_Entertainment"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

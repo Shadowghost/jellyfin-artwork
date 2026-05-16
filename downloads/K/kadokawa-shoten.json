@@ -1,0 +1,25 @@
+{
+  "slug": "kadokawa-shoten",
+  "sha256": "f7a6c9505e701c2534bc30e28ec3e4891c858d328e5a758ff5f844a2d6bc0277",
+  "entity_name": "Kadokawa Shoten",
+  "aka": ["Kadokawa Publishing", "Kadokawa Media House", "Kadokawa Game Linkage"],
+  "type": "publisher",
+  "country": "JP",
+  "founded": "1945",
+  "defunct": null,
+  "parent_company": "Kadokawa Corporation",
+  "official_website": "https://www.kadokawa.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Kadokawa_Shoten",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese publishing brand and division of Kadokawa Corporation, producing manga, light novels and magazines.",
+  "duplicate_files": ["downloads/K/kadokawa-game-linkage.svg", "downloads/K/kadokawa-media-house.svg", "downloads/K/kadokawa-shoten-publishing-co-ltd.svg", "downloads/K/kadokawa-shoten.svg"],
+  "duplicate_count": 4,
+  "sources": [
+    {"title": "Wikipedia - Kadokawa Shoten", "url": "https://en.wikipedia.org/wiki/Kadokawa_Shoten"},
+    {"title": "Kadokawa Corporation", "url": "https://www.kadokawa.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

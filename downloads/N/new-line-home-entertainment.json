@@ -1,0 +1,24 @@
+{
+  "slug": "new-line-home-entertainment",
+  "sha256": "b77db2593fb499743714d85a09b481ba8ae810eb5ab9db9ed675c074425b4b07",
+  "entity_name": "New Line Home Entertainment",
+  "aka": ["New Line Home Video"],
+  "type": "distributor",
+  "country": "US",
+  "founded": "1990",
+  "defunct": null,
+  "parent_company": "Warner Bros. Discovery (New Line Cinema)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/New_Line_Cinema",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Home-video distribution arm of New Line Cinema, now part of Warner Bros. Home Entertainment.",
+  "duplicate_files": ["downloads/N/new-line-home-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – New Line Cinema", "url": "https://en.wikipedia.org/wiki/New_Line_Cinema"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

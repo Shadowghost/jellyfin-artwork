@@ -1,0 +1,26 @@
+{
+  "slug": "dc-vertigo",
+  "sha256": "921f1ace02aaf9c8cd3e5686c92c56e34e91abb8376c0ac59a3e0982eae45e4c",
+  "entity_name": "DC Vertigo",
+  "aka": ["Vertigo", "Vertigo Comics"],
+  "type": "publisher",
+  "country": "US",
+  "founded": "1993",
+  "defunct": "2020",
+  "parent_company": "DC Comics / Warner Bros. Discovery",
+  "official_website": "https://www.dccomics.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Vertigo_Comics",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Adult-oriented imprint of DC Comics, known for mature-themed series like Sandman, Preacher, and Hellblazer. Discontinued in 2020.",
+  "duplicate_files": [
+    "downloads/D/dc-vertigo.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Vertigo Comics", "url": "https://en.wikipedia.org/wiki/Vertigo_Comics"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "trinity-broadcasting-network",
+  "sha256": "a34c60e6f797ca0f84cf622afc1f4977e8bed0059ec385c9a234f7acb355f25c",
+  "entity_name": "Trinity Broadcasting Network",
+  "aka": ["TBN"],
+  "type": "broadcast-network",
+  "country": "US",
+  "founded": "1973",
+  "defunct": null,
+  "parent_company": "Trinity Christian Center of Santa Ana, Inc.",
+  "official_website": "https://www.tbn.org",
+  "wikipedia": "https://en.wikipedia.org/wiki/Trinity_Broadcasting_Network",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American international Christian-based broadcast television network, one of the largest religious television networks in the world.",
+  "duplicate_files": ["downloads/T/trinity-broadcasting-network.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Trinity Broadcasting Network", "url": "https://en.wikipedia.org/wiki/Trinity_Broadcasting_Network"},
+    {"title": "TBN official site", "url": "https://www.tbn.org"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

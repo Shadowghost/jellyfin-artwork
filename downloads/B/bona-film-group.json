@@ -1,0 +1,24 @@
+{
+  "slug": "bona-film-group",
+  "sha256": "f3c680d211cd6065f9f2d312b11b0da7b3d195f900911ab8db0a53e079aa0c50",
+  "entity_name": "Bona Film Group",
+  "aka": ["Bona Film", "Bona Entertainment"],
+  "type": "production-company",
+  "country": "CN",
+  "founded": "2003",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "http://www.bonafilm.cn",
+  "wikipedia": "https://en.wikipedia.org/wiki/Bona_Film_Group",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Chinese film distributor and producer based in Beijing, one of the largest privately owned film distributors in China.",
+  "duplicate_files": ["downloads/B/bona-film-group.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Bona Film Group", "url": "https://en.wikipedia.org/wiki/Bona_Film_Group"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

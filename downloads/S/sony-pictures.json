@@ -1,0 +1,25 @@
+{
+  "slug": "sony-pictures",
+  "sha256": "80816687cefca8e9da54f2ca68c9066620bce8f1e22cbfdd3529787fd0da7d62",
+  "entity_name": "Sony Pictures Entertainment",
+  "aka": ["SPE", "Sony Pictures"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1987",
+  "defunct": null,
+  "parent_company": "Sony Group Corporation",
+  "official_website": "https://www.sonypictures.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sony_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film and television production studio, a subsidiary of Sony Group Corporation.",
+  "duplicate_files": ["downloads/S/sony-pictures-entertainment.svg", "downloads/S/sony-pictures-international-productions.svg", "downloads/S/sony-pictures.svg"],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia – Sony Pictures", "url": "https://en.wikipedia.org/wiki/Sony_Pictures"},
+    {"title": "Sony Pictures official site", "url": "https://www.sonypictures.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

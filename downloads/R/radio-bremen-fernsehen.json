@@ -1,0 +1,25 @@
+{
+  "slug": "radio-bremen-fernsehen",
+  "sha256": "a08495494578362d58bfbe49fcc474908ea814e9cddb2b0cde6c2d980bec8b09",
+  "entity_name": "Radio Bremen Fernsehen",
+  "aka": ["Radio Bremen TV", "Bremen TV"],
+  "type": "broadcast-network",
+  "country": "DE",
+  "founded": "1954",
+  "defunct": null,
+  "parent_company": "Radio Bremen (ARD)",
+  "official_website": "https://www.radiobremen.de/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Radio_Bremen",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Television service of Radio Bremen, the public broadcaster for the German state of Bremen and a member of the ARD network; contributes programming to Das Erste.",
+  "duplicate_files": ["downloads/R/radio-bremen-fernsehen.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Radio Bremen", "url": "https://en.wikipedia.org/wiki/Radio_Bremen"},
+    {"title": "Radio Bremen official site", "url": "https://www.radiobremen.de/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

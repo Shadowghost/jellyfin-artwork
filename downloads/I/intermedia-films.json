@@ -1,0 +1,28 @@
+{
+  "slug": "intermedia-films",
+  "sha256": "5f3a8165b7a91951427ba63ba346d95d067258c954322031c7a4b42933a2bec2",
+  "entity_name": "Intermedia Films",
+  "aka": ["Intermedia", "IMF Internationale Medien und Film", "IM Internationalmedia AG"],
+  "type": "production-company",
+  "country": "UK",
+  "founded": "1995",
+  "defunct": null,
+  "parent_company": "Library Liquidity Company (library, as of 2023)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Intermedia_(company)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Independent film production and finance company founded by Guy East and Nigel Sinclair; funded via the German IMF (Internationale Medien und Film) tax-shelter funds.",
+  "duplicate_files": [
+    "downloads/I/imf-internationale-medien-und-film-3-produktions.svg",
+    "downloads/I/imf-internationale-medien-und-film-gmbh-co-3-produktions-kg.svg",
+    "downloads/I/intermedia-films.svg"
+  ],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia – Intermedia (company)", "url": "https://en.wikipedia.org/wiki/Intermedia_(company)"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

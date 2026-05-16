@@ -1,0 +1,24 @@
+{
+  "slug": "spike-tv",
+  "sha256": "10b260d6768e3e81c1c2549925fae7187af864c4d7b7cfc42efa435d8bda2acd",
+  "entity_name": "Spike TV",
+  "aka": ["Spike", "TNN", "The Nashville Network"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1983",
+  "defunct": "2018",
+  "parent_company": "Paramount Global (formerly Viacom)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Spike_(TV_channel)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American cable network owned by Viacom, rebranded from TNN in 2003 and again as Paramount Network in 2018; aimed at male audiences.",
+  "duplicate_files": ["downloads/S/spike-tv.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Spike (TV channel)", "url": "https://en.wikipedia.org/wiki/Spike_(TV_channel)"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

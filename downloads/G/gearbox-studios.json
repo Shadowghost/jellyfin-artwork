@@ -1,0 +1,25 @@
+{
+  "slug": "gearbox-studios",
+  "sha256": "29c5f9afaef584644b7dec7a6b8a99e340361f5cb4f2974684d2803e01071427",
+  "entity_name": "Gearbox Studios",
+  "aka": ["Gearbox Software", "Gearbox Entertainment"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1999",
+  "defunct": null,
+  "parent_company": "Take-Two Interactive (since 2024)",
+  "official_website": "https://www.gearboxsoftware.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Gearbox_Software",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American video game developer based in Frisco, Texas, best known for the Borderlands franchise.",
+  "duplicate_files": ["downloads/G/gearbox-studios.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Gearbox Software", "url": "https://en.wikipedia.org/wiki/Gearbox_Software"},
+    {"title": "Gearbox official site", "url": "https://www.gearboxsoftware.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

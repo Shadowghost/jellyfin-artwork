@@ -1,0 +1,30 @@
+{
+  "slug": "skydance",
+  "sha256": "4059bc682dcfe34d2b6e2dd40ae935a8ae8d4cd525c1525f24bfa6732276be97",
+  "entity_name": "Skydance Media",
+  "aka": ["Skydance", "Skydance Productions", "Skydance Television"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2010",
+  "defunct": null,
+  "parent_company": "Paramount Skydance Corporation",
+  "official_website": "https://skydance.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Skydance_Media",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American diversified media company founded by David Ellison, producing films (Top Gun: Maverick, Mission: Impossible sequels), television, animation and games; merged with Paramount in 2025.",
+  "duplicate_files": [
+    "downloads/S/skydance-media.svg",
+    "downloads/S/skydance-productions.svg",
+    "downloads/S/skydance-television.svg",
+    "downloads/S/skydance.svg"
+  ],
+  "duplicate_count": 4,
+  "sources": [
+    {"title": "Wikipedia - Skydance Media", "url": "https://en.wikipedia.org/wiki/Skydance_Media"},
+    {"title": "Skydance official site", "url": "https://skydance.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

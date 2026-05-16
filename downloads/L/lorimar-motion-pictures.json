@@ -1,0 +1,24 @@
+{
+  "slug": "lorimar-motion-pictures",
+  "sha256": "75a080cca1a1d77e570532b749cc04f20b85697303f63fd6cd4a9ac83508be44",
+  "entity_name": "Lorimar Motion Pictures",
+  "aka": ["Lorimar", "Lorimar Film Entertainment", "Lorimar Productions"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1969",
+  "defunct": "1993",
+  "parent_company": "Warner Bros. (Warner Communications)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Lorimar",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American independent television and film production company, known for Dallas and Knots Landing; absorbed into Warner Bros. in 1989 and dissolved in 1993.",
+  "duplicate_files": ["downloads/L/lorimar-film-entertainment.svg", "downloads/L/lorimar-motion-pictures.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Lorimar", "url": "https://en.wikipedia.org/wiki/Lorimar"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

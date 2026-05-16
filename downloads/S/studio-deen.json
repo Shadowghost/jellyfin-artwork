@@ -1,0 +1,25 @@
+{
+  "slug": "studio-deen",
+  "sha256": "ad84f892b6588832f89a2f6935a43acfaf1e63d251a04147c2ea505461d0ae27",
+  "entity_name": "Studio Deen",
+  "aka": ["スタジオディーン"],
+  "type": "studio",
+  "country": "JP",
+  "founded": "1975",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.deen.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Studio_Deen",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese animation studio known for Ranma 1/2, Fate/stay night, and Konosuba.",
+  "duplicate_files": ["downloads/S/studio-deen.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Studio Deen", "url": "https://en.wikipedia.org/wiki/Studio_Deen"},
+    {"title": "Studio Deen official site", "url": "https://www.deen.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

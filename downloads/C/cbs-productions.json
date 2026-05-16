@@ -1,0 +1,28 @@
+{
+  "slug": "cbs-productions",
+  "sha256": "f46670c4eaa8eb26838a7a4594069fcce0872485385ce72d529e349940151f0d",
+  "entity_name": "CBS Productions",
+  "aka": [],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1952",
+  "defunct": null,
+  "parent_company": "Paramount Global / CBS",
+  "official_website": "https://www.cbs.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/CBS_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "CBS Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "Television production division of CBS, producing scripted television content primarily for the CBS broadcast network.",
+  "duplicate_files": [
+    "downloads/C/cbs-productions.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – CBS Studios", "url": "https://en.wikipedia.org/wiki/CBS_Studios"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

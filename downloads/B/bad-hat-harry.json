@@ -1,0 +1,27 @@
+{
+  "slug": "bad-hat-harry",
+  "sha256": "f33be48b679cd6fdd1f44197996eb8a17781479bf9c09fa33876ff96c3a6b47a",
+  "entity_name": "Bad Hat Harry Productions",
+  "aka": ["Bad Hat Harry"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1999",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Bad_Hat_Harry_Productions",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American television and film production company founded by director Bryan Singer, best known for producing House M.D.",
+  "duplicate_files": [
+    "downloads/B/bad-hat-harry-productions.svg",
+    "downloads/B/bad-hat-harry.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Bad Hat Harry Productions", "url": "https://en.wikipedia.org/wiki/Bad_Hat_Harry_Productions"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

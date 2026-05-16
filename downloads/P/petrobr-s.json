@@ -1,0 +1,27 @@
+{
+  "slug": "petrobr-s",
+  "sha256": "f8e322a2032c9eed034e129bbb0eba43ccfc514bf08382e8bd58dfd7226f0a4b",
+  "entity_name": "Petrobras",
+  "aka": ["Petróleo Brasileiro S.A."],
+  "type": "other",
+  "country": "BR",
+  "founded": "1953",
+  "defunct": null,
+  "parent_company": "Government of Brazil (state-controlled)",
+  "official_website": "https://petrobras.com.br/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Petrobras",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Petrobras Green", "hex": "#008B47"},
+    {"name": "Petrobras Yellow", "hex": "#FCC200"}
+  ],
+  "logo_usage": null,
+  "description": "Brazilian multinational state-controlled petroleum corporation; appears as a sponsor/cultural funder for Brazilian film productions.",
+  "duplicate_files": ["downloads/P/petrobr-s.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Petrobras", "url": "https://en.wikipedia.org/wiki/Petrobras"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

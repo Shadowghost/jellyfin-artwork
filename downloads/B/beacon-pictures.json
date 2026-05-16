@@ -1,0 +1,24 @@
+{
+  "slug": "beacon-pictures",
+  "sha256": "7e02638cca68cd1cabf6183b2dd4e769c1be861475ebeba6c551332dfa34be83",
+  "entity_name": "Beacon Pictures",
+  "aka": ["Beacon Communications"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1990",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.beaconpictures.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Beacon_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American independent film production company founded by Armyan Bernstein, known for films such as Air Force One, The Hurricane, and Bring It On.",
+  "duplicate_files": ["downloads/B/beacon-communications.svg", "downloads/B/beacon-pictures.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Beacon Pictures", "url": "https://en.wikipedia.org/wiki/Beacon_Pictures"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

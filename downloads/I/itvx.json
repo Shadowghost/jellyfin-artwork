@@ -1,0 +1,24 @@
+{
+  "slug": "itvx",
+  "sha256": "5e345385c31994dae564a8b30ceb4dacd4ce5dad684117172d7ffaa328267e7d",
+  "entity_name": "ITVX",
+  "aka": ["ITV Hub (predecessor)"],
+  "type": "streaming-service",
+  "country": "GB",
+  "founded": "2022",
+  "defunct": null,
+  "parent_company": "ITV plc",
+  "official_website": "https://www.itv.com/watch",
+  "wikipedia": "https://en.wikipedia.org/wiki/ITVX",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British video streaming service from ITV plc, launched in December 2022, replacing the ITV Hub and BritBox UK.",
+  "duplicate_files": ["downloads/I/itvx.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - ITVX", "url": "https://en.wikipedia.org/wiki/ITVX"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

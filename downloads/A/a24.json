@@ -1,0 +1,28 @@
+{
+  "slug": "a24",
+  "sha256": "1411199379d09e7127498bd23383635538a4432d06fe0753529b1af0a8deda48",
+  "entity_name": "A24",
+  "aka": ["A24 Films"],
+  "type": "studio",
+  "country": "US",
+  "founded": "2012",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://a24films.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/A24",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "A24 Black", "hex": "#000000"},
+    {"name": "A24 White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": null,
+  "description": "American independent entertainment company specializing in film and television production and distribution, known for arthouse and prestige films.",
+  "duplicate_files": ["downloads/A/a24.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - A24", "url": "https://en.wikipedia.org/wiki/A24"},
+    {"title": "A24 official site", "url": "https://a24films.com"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

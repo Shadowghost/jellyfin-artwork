@@ -1,0 +1,24 @@
+{
+  "slug": "austrian-film-commission",
+  "sha256": "c68c3fca7e7be408bad08dd75da275c420f8ee767d2f410f00ec6b54aa59a306",
+  "entity_name": "Austrian Film Commission",
+  "aka": ["AFC"],
+  "type": "government-agency",
+  "country": "AT",
+  "founded": "1986",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.afc.at/",
+  "wikipedia": null,
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Public film promotion agency for Austria, supporting Austrian film abroad through festival representation, marketing and industry services.",
+  "duplicate_files": ["downloads/A/austrian-film-commission.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Austrian Film Commission official site", "url": "https://www.afc.at/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

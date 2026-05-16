@@ -1,0 +1,25 @@
+{
+  "slug": "puhutv",
+  "sha256": "908c995cdf992346ff605239b8d8d5155211e35ebc907def7480e38b8ae6f9a3",
+  "entity_name": "puhutv",
+  "aka": ["Puhu TV"],
+  "type": "streaming-service",
+  "country": "TR",
+  "founded": "2016",
+  "defunct": null,
+  "parent_company": "Doğuş Yayın Grubu",
+  "official_website": "https://puhutv.com/",
+  "wikipedia": "https://tr.wikipedia.org/wiki/Puhutv",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Turkish online video streaming platform offering original series, drama and films, owned by the Doğuş Media Group.",
+  "duplicate_files": ["downloads/P/puhutv.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia (tr) - Puhutv", "url": "https://tr.wikipedia.org/wiki/Puhutv"},
+    {"title": "puhutv official site", "url": "https://puhutv.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

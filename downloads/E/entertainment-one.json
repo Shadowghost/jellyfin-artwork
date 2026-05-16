@@ -1,0 +1,28 @@
+{
+  "slug": "entertainment-one",
+  "sha256": "508b2c5fa69cc287bd78fbf44d586d9970569895fd68e6d2e44e3cc79787876a",
+  "entity_name": "Entertainment One",
+  "aka": ["eOne", "Entertainment One Features", "Entertainment One Television"],
+  "type": "production-company",
+  "country": "CA",
+  "founded": "1973",
+  "defunct": null,
+  "parent_company": "Lionsgate (formerly Hasbro)",
+  "official_website": "https://www.entonegroup.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Entertainment_One",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Canadian-American multinational entertainment company producing and distributing film, television, and music. Known for Peppa Pig and various film/TV productions.",
+  "duplicate_files": [
+    "downloads/E/entertainment-one-features.svg",
+    "downloads/E/entertainment-one-television.svg",
+    "downloads/E/entertainment-one.svg"
+  ],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia – Entertainment One", "url": "https://en.wikipedia.org/wiki/Entertainment_One"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

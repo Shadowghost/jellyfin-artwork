@@ -1,0 +1,25 @@
+{
+  "slug": "sbs-tv",
+  "sha256": "9a80af14dbc6d0df7028fa9ffa2a962abcf4c8dfe3047e2ba64e5774ca85270e",
+  "entity_name": "SBS TV",
+  "aka": ["Seoul Broadcasting System Television"],
+  "type": "broadcast-network",
+  "country": "KR",
+  "founded": "1991",
+  "defunct": null,
+  "parent_company": "Seoul Broadcasting System (Taeyoung Construction)",
+  "official_website": "https://www.sbs.co.kr/",
+  "wikipedia": "https://en.wikipedia.org/wiki/SBS_TV",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "South Korean free-to-air television channel operated by the Seoul Broadcasting System, the country's largest private broadcaster; launched 9 December 1991.",
+  "duplicate_files": ["downloads/S/sbs-tv.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – SBS TV", "url": "https://en.wikipedia.org/wiki/SBS_TV"},
+    {"title": "Wikipedia – Seoul Broadcasting System", "url": "https://en.wikipedia.org/wiki/Seoul_Broadcasting_System"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

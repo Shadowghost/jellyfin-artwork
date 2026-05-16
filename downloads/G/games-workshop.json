@@ -1,0 +1,25 @@
+{
+  "slug": "games-workshop",
+  "sha256": "dfcd4cebf199576693fbc1ef6083677239f14f2d7161f49a22a2114bfb4c68aa",
+  "entity_name": "Games Workshop",
+  "aka": ["Games Workshop Group plc", "GW"],
+  "type": "other",
+  "country": "GB",
+  "founded": "1975",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.games-workshop.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Games_Workshop",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British manufacturer of tabletop miniature wargames, best known for Warhammer 40,000 and Warhammer Age of Sigmar; licensor of many film/TV adaptations.",
+  "duplicate_files": ["downloads/G/games-workshop.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Games Workshop", "url": "https://en.wikipedia.org/wiki/Games_Workshop"},
+    {"title": "Games Workshop official site", "url": "https://www.games-workshop.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

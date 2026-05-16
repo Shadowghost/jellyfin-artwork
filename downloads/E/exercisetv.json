@@ -1,0 +1,24 @@
+{
+  "slug": "exercisetv",
+  "sha256": "8c4f7b94d52c6dc8b1f5d843507ba1f53a7b860bf6451e32bb59cef0dc6c9e25",
+  "entity_name": "ExerciseTV",
+  "aka": ["Exercise TV"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "2006",
+  "defunct": "2011",
+  "parent_company": "Time Warner Cable / Comcast",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/ExerciseTV",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American fitness-focused video on demand channel that operated from 2006 to 2011, ceased operations in 2011.",
+  "duplicate_files": ["downloads/E/exercisetv.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - ExerciseTV", "url": "https://en.wikipedia.org/wiki/ExerciseTV"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

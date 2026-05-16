@@ -1,0 +1,25 @@
+{
+  "slug": "curzon-film-distributors",
+  "sha256": "c985a18cdc80e11483ea95ee064931cb5043caafc4e9740925ed576d41d4cc6c",
+  "entity_name": "Curzon Film Distributors",
+  "aka": ["Curzon Artificial Eye", "Curzon"],
+  "type": "distributor",
+  "country": "GB",
+  "founded": "1976",
+  "defunct": null,
+  "parent_company": "Curzon",
+  "official_website": "https://www.curzon.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Curzon_(company)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British film distributor specializing in arthouse and world cinema, part of Curzon cinema chain group.",
+  "duplicate_files": ["downloads/C/curzon-film-distributors.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Curzon", "url": "https://en.wikipedia.org/wiki/Curzon_(company)"},
+    {"title": "Curzon official site", "url": "https://www.curzon.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "showtime-networks",
+  "sha256": "e1cfb647a4f7e74cf3bc46170fb0b2c4e1cd5c1a15403922a002ea7ddb7cdf2b",
+  "entity_name": "Showtime Networks",
+  "aka": ["Showtime", "Paramount+ with Showtime"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1976",
+  "defunct": null,
+  "parent_company": "Paramount Global",
+  "official_website": "https://www.sho.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Showtime_Networks",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Showtime Red", "hex": "#E40000"}
+  ],
+  "logo_usage": null,
+  "description": "American premium television network subsidiary of Paramount Global, operating Showtime, The Movie Channel and Flix; producer of original series such as Dexter, Homeland and Yellowjackets.",
+  "duplicate_files": ["downloads/S/showtime-networks.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Showtime Networks", "url": "https://en.wikipedia.org/wiki/Showtime_Networks"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

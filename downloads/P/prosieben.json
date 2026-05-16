@@ -1,0 +1,27 @@
+{
+  "slug": "prosieben",
+  "sha256": "dbfc117184e87e2b4343cb2de0b70c15f1ab9e1c0396459a1322c9618fcb9c65",
+  "entity_name": "ProSieben",
+  "aka": ["Pro7", "ProSieben Television"],
+  "type": "broadcast-network",
+  "country": "DE",
+  "founded": "1989",
+  "defunct": null,
+  "parent_company": "ProSiebenSat.1 Media",
+  "official_website": "https://www.prosieben.de/",
+  "wikipedia": "https://en.wikipedia.org/wiki/ProSieben",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "ProSieben Red", "hex": "#E20613"}
+  ],
+  "logo_usage": null,
+  "description": "German free-to-air commercial television channel, flagship of the ProSiebenSat.1 Media group, focusing on entertainment and US series.",
+  "duplicate_files": ["downloads/P/prosieben.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - ProSieben", "url": "https://en.wikipedia.org/wiki/ProSieben"},
+    {"title": "ProSieben official site", "url": "https://www.prosieben.de/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

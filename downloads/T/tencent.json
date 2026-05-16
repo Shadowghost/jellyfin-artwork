@@ -1,0 +1,28 @@
+{
+  "slug": "tencent",
+  "sha256": "27f9aad7e83813d86115f1de913b1a14ce77c6b8189059ea7ef4eef9450d7f2f",
+  "entity_name": "Tencent",
+  "aka": ["Tencent Holdings", "腾讯", "Tencent Japan"],
+  "type": "other",
+  "country": "CN",
+  "founded": "1998",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.tencent.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Tencent",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Chinese multinational technology and entertainment conglomerate active in gaming, social media (WeChat), streaming (Tencent Video) and film/anime production.",
+  "duplicate_files": [
+    "downloads/T/tencent-japan.svg",
+    "downloads/T/tencent.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Tencent", "url": "https://en.wikipedia.org/wiki/Tencent"},
+    {"title": "Tencent official", "url": "https://www.tencent.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

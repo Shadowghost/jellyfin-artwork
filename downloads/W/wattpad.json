@@ -1,0 +1,27 @@
+{
+  "slug": "wattpad",
+  "sha256": "7f8fc9d1f92449647768b53a0afdc3fb5e699cdbe709e8859fcdcc8e51214a6e",
+  "entity_name": "Wattpad",
+  "aka": ["Wattpad Webtoon Studios"],
+  "type": "publisher",
+  "country": "CA",
+  "founded": "2006",
+  "defunct": null,
+  "parent_company": "Naver Corporation",
+  "official_website": "https://www.wattpad.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Wattpad",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Wattpad Orange", "hex": "#FF500A"}
+  ],
+  "logo_usage": null,
+  "description": "Canadian social-storytelling platform; its Wattpad Webtoon Studios subsidiary develops Wattpad stories into films and TV (After series, etc.).",
+  "duplicate_files": ["downloads/W/wattpad.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Wattpad", "url": "https://en.wikipedia.org/wiki/Wattpad"},
+    {"title": "Wattpad official site", "url": "https://www.wattpad.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

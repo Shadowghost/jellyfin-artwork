@@ -1,0 +1,25 @@
+{
+  "slug": "studio-ghibli",
+  "sha256": "d248ea94aca572638f4d188e49c88a0a96fcc0b37cd8e0584413ef9e79478c77",
+  "entity_name": "Studio Ghibli",
+  "aka": ["スタジオジブリ"],
+  "type": "studio",
+  "country": "JP",
+  "founded": "1985",
+  "defunct": null,
+  "parent_company": "Nippon TV Holdings",
+  "official_website": "https://www.ghibli.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Studio_Ghibli",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": "Uses the Totoro silhouette mark.",
+  "description": "Japanese animation studio co-founded by Hayao Miyazaki, Isao Takahata and Toshio Suzuki, known for films such as My Neighbor Totoro, Spirited Away and Princess Mononoke.",
+  "duplicate_files": ["downloads/S/studio-ghibli.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Studio Ghibli", "url": "https://en.wikipedia.org/wiki/Studio_Ghibli"},
+    {"title": "Studio Ghibli official site", "url": "https://www.ghibli.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

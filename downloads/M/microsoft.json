@@ -1,0 +1,31 @@
+{
+  "slug": "microsoft",
+  "sha256": "1bc121700dfa8eb7f31747b212fb8b34dd93283f4b4e11566a0132e7a0a5c8cf",
+  "entity_name": "Microsoft Corporation",
+  "aka": ["Microsoft", "MSFT"],
+  "type": "other",
+  "country": "US",
+  "founded": "1975",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.microsoft.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Microsoft",
+  "brand_guidelines_url": "https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks",
+  "brand_colors": [
+    {"name": "Red", "hex": "#F25022"},
+    {"name": "Green", "hex": "#7FBA00"},
+    {"name": "Blue", "hex": "#00A4EF"},
+    {"name": "Yellow", "hex": "#FFB900"},
+    {"name": "Gray", "hex": "#737373"}
+  ],
+  "logo_usage": "Four-square logo introduced in 2012. The four colored squares represent Microsoft's diverse product lines. Strict trademark and brand guidelines apply.",
+  "description": "American multinational technology corporation; in media context, parent of Xbox Game Studios and Microsoft Studios productions.",
+  "duplicate_files": ["downloads/M/microsoft.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Microsoft", "url": "https://en.wikipedia.org/wiki/Microsoft"},
+    {"title": "Microsoft Trademark Guidelines", "url": "https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "cine-bazar",
+  "sha256": "5dfe54523155aaf23b6ffce740c6f36344f7b06423c714ab63500a3eeb8dd0a7",
+  "entity_name": "Cine Bazar",
+  "aka": [],
+  "type": "production-company",
+  "country": "IT",
+  "founded": null,
+  "defunct": null,
+  "parent_company": null,
+  "official_website": null,
+  "wikipedia": null,
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Italian film production company credited on a number of European features; limited public information available.",
+  "duplicate_files": ["downloads/C/cine-bazar.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "TMDb company search - Cine Bazar", "url": "https://www.themoviedb.org/search/company?query=Cine+Bazar"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "low"
+}

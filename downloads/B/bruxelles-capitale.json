@@ -1,0 +1,24 @@
+{
+  "slug": "bruxelles-capitale",
+  "sha256": "9b623b0f629d4143e2a4c9dd1cabd0a13e697d59fe43dc907c2b8c0b4aca7e13",
+  "entity_name": "Brussels-Capital Region",
+  "aka": ["Région de Bruxelles-Capitale", "Brussels-Capital", "Bruxelles-Capitale"],
+  "type": "government-agency",
+  "country": "BE",
+  "founded": "1989",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://be.brussels",
+  "wikipedia": "https://en.wikipedia.org/wiki/Brussels-Capital_Region",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Federal region of Belgium comprising 19 municipalities including the city of Brussels; commonly funds and supports Belgian film productions.",
+  "duplicate_files": ["downloads/B/bruxelles-capitale.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Brussels-Capital Region", "url": "https://en.wikipedia.org/wiki/Brussels-Capital_Region"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

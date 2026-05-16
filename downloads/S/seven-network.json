@@ -1,0 +1,29 @@
+{
+  "slug": "seven-network",
+  "sha256": "e5465ba312cba83f438589b99d5726cc83b4ff051ae2702dacf76d8b5b68f1e3",
+  "entity_name": "Seven Network",
+  "aka": ["Channel 7", "Seven", "7HD"],
+  "type": "broadcast-network",
+  "country": "AU",
+  "founded": "1956",
+  "defunct": null,
+  "parent_company": "Seven West Media",
+  "official_website": "https://7plus.com.au",
+  "wikipedia": "https://en.wikipedia.org/wiki/Seven_Network",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Seven Red", "hex": "#E4002B"}
+  ],
+  "logo_usage": null,
+  "description": "Australian commercial free-to-air television network owned by Seven West Media, one of the country's three major commercial networks.",
+  "duplicate_files": [
+    "downloads/S/seven-network-hd.svg",
+    "downloads/S/seven-network.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Seven Network", "url": "https://en.wikipedia.org/wiki/Seven_Network"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

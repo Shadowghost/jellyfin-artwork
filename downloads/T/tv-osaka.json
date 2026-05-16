@@ -1,0 +1,24 @@
+{
+  "slug": "tv-osaka",
+  "sha256": "ffa98fab41b7567a028f091ab4eda38738b2bc10617331bbfe75090f0e330bbe",
+  "entity_name": "TV Osaka",
+  "aka": ["TVO", "テレビ大阪"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1981",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.tv-osaka.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/TV_Osaka",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese television station based in Osaka, affiliated with the TX Network (TV Tokyo).",
+  "duplicate_files": ["downloads/T/tv-osaka.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - TV Osaka", "url": "https://en.wikipedia.org/wiki/TV_Osaka"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

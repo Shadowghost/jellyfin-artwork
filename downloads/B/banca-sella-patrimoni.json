@@ -1,0 +1,24 @@
+{
+  "slug": "banca-sella-patrimoni",
+  "sha256": "6e3427fc03511ea412561f866cc48ce125e8500fb15baa16246f2a8f61482f0b",
+  "entity_name": "Banca Patrimoni Sella & C.",
+  "aka": ["Banca Sella Patrimoni"],
+  "type": "other",
+  "country": "IT",
+  "founded": "2003",
+  "defunct": null,
+  "parent_company": "Banca Sella Holding (Gruppo Sella)",
+  "official_website": "https://www.bancapatrimoni.it/",
+  "wikipedia": null,
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Italian private bank specializing in wealth management, part of the Banca Sella group; appears as a film-financing/sponsoring credit on some Italian productions.",
+  "duplicate_files": ["downloads/B/banca-sella-patrimoni.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Banca Patrimoni Sella official site", "url": "https://www.bancapatrimoni.it/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

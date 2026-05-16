@@ -1,0 +1,24 @@
+{
+  "slug": "keshet-studios",
+  "sha256": "9dbf72d5160e1790e28e9047d14b14ba2ea17fa46bb235502abfaef26689e88e",
+  "entity_name": "Keshet Studios",
+  "aka": ["Keshet International"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2016",
+  "defunct": null,
+  "parent_company": "Keshet Media Group",
+  "official_website": "https://keshetinternational.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Keshet_Media_Group",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "US-based television production arm of Israeli media company Keshet Media Group, producing scripted programming for the US market.",
+  "duplicate_files": ["downloads/K/keshet-studios.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Keshet Media Group", "url": "https://en.wikipedia.org/wiki/Keshet_Media_Group"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

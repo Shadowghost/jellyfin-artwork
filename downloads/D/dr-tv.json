@@ -1,0 +1,25 @@
+{
+  "slug": "dr-tv",
+  "sha256": "3e6ab9eafb9ad5520be76322e6812eba896aaf68dc30c5b8560bb592811a11d0",
+  "entity_name": "DR TV",
+  "aka": ["DRTV", "DR"],
+  "type": "broadcast-network",
+  "country": "DK",
+  "founded": "1951",
+  "defunct": null,
+  "parent_company": "DR (Danmarks Radio)",
+  "official_website": "https://www.dr.dk/drtv",
+  "wikipedia": "https://en.wikipedia.org/wiki/DR_(broadcaster)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Television service of DR (Danmarks Radio), the Danish public-service broadcaster; DRTV is also DR's streaming/on-demand platform.",
+  "duplicate_files": ["downloads/D/dr-tv.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - DR (broadcaster)", "url": "https://en.wikipedia.org/wiki/DR_(broadcaster)"},
+    {"title": "DRTV official site", "url": "https://www.dr.dk/drtv"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

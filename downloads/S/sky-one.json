@@ -1,0 +1,24 @@
+{
+  "slug": "sky-one",
+  "sha256": "475033b8a1d65a993c6cc6027a76ac9a13e7ed797bd72351d3511a6dc71fb6c7",
+  "entity_name": "Sky One",
+  "aka": ["Sky1"],
+  "type": "cable-network",
+  "country": "UK",
+  "founded": "1982",
+  "defunct": "2021",
+  "parent_company": "Sky Group (Comcast)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Sky_One",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British pay television channel operated by Sky Group; replaced by Sky Max and Sky Showcase in September 2021.",
+  "duplicate_files": ["downloads/S/sky-one.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Sky One", "url": "https://en.wikipedia.org/wiki/Sky_One"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

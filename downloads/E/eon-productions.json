@@ -1,0 +1,25 @@
+{
+  "slug": "eon-productions",
+  "sha256": "514fe96e543bc76001925603a8ee44ba3777867a00750490c664a6de9e24cc6f",
+  "entity_name": "Eon Productions",
+  "aka": ["EON Productions"],
+  "type": "production-company",
+  "country": "GB",
+  "founded": "1961",
+  "defunct": null,
+  "parent_company": "Danjaq, LLC",
+  "official_website": "https://www.007.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Eon_Productions",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British film production company founded by Albert R. Broccoli and Harry Saltzman, best known as the producer of the James Bond film series.",
+  "duplicate_files": ["downloads/E/eon-productions.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Eon Productions", "url": "https://en.wikipedia.org/wiki/Eon_Productions"},
+    {"title": "Official James Bond site", "url": "https://www.007.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

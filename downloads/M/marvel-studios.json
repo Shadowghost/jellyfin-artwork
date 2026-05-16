@@ -1,0 +1,35 @@
+{
+  "slug": "marvel-studios",
+  "sha256": "8ec8b1162693fb423f5d5dc736ea239d3c13c14399378ed8fa3d67da72498492",
+  "entity_name": "Marvel Studios",
+  "aka": ["Marvel", "Marvel Entertainment", "Marvel Animation", "Marvel Television", "Marvel Enterprises", "Marvel Entertainment Group"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1993",
+  "defunct": null,
+  "parent_company": "The Walt Disney Company",
+  "official_website": "https://www.marvel.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Marvel_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Marvel Red", "hex": "#ED1D24"}
+  ],
+  "logo_usage": null,
+  "description": "American film and television studio that produces the Marvel Cinematic Universe; subsidiary of The Walt Disney Company since the 2009 acquisition of Marvel Entertainment.",
+  "duplicate_files": [
+    "downloads/M/marvel-animation.svg",
+    "downloads/M/marvel-enterprises.svg",
+    "downloads/M/marvel-entertainment-group.svg",
+    "downloads/M/marvel-entertainment-llc.svg",
+    "downloads/M/marvel-entertainment.svg",
+    "downloads/M/marvel-studios.svg",
+    "downloads/M/marvel-television.svg"
+  ],
+  "duplicate_count": 7,
+  "sources": [
+    {"title": "Wikipedia – Marvel Studios", "url": "https://en.wikipedia.org/wiki/Marvel_Studios"},
+    {"title": "Marvel official site", "url": "https://www.marvel.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

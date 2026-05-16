@@ -1,0 +1,32 @@
+{
+  "slug": "warner-bros",
+  "sha256": "607d62dbe54663a81e0920175f136e98b3ccd8f3495899696e177351f3dcdafe",
+  "entity_name": "Warner Bros.",
+  "aka": ["Warner Bros. Pictures", "Warner Bros. Family Entertainment", "Warner Premiere", "WB"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1923",
+  "defunct": null,
+  "parent_company": "Warner Bros. Discovery",
+  "official_website": "https://www.warnerbros.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Warner_Bros.",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "WB Blue", "hex": "#0033A0"},
+    {"name": "WB Gold", "hex": "#C39B45"}
+  ],
+  "logo_usage": "WB shield trademarked; Warner Bros. Family Entertainment used a Bugs Bunny variant; Warner Premiere was the direct-to-video division (defunct 2013).",
+  "description": "American major film studio and a subsidiary of Warner Bros. Discovery; one of the Big Five Hollywood studios.",
+  "duplicate_files": [
+    "downloads/W/warner-bros-family-entertainment.svg",
+    "downloads/W/warner-bros.svg",
+    "downloads/W/warner-premiere.svg"
+  ],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia – Warner Bros.", "url": "https://en.wikipedia.org/wiki/Warner_Bros."},
+    {"title": "Warner Bros. official", "url": "https://www.warnerbros.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

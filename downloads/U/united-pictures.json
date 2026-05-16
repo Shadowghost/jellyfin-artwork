@@ -1,0 +1,25 @@
+{
+  "slug": "united-pictures",
+  "sha256": "3f20590a44a45f516a9071a06fd65733302e6cd4fa23722e48e25f32e0d17635",
+  "entity_name": "United International Pictures",
+  "aka": ["UIP", "United Pictures"],
+  "type": "distributor",
+  "country": "US",
+  "founded": "1981",
+  "defunct": null,
+  "parent_company": "Paramount Pictures / Universal Pictures (joint venture)",
+  "official_website": "https://www.uipmovies.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/United_International_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Joint-venture international film distributor of Paramount Pictures and Universal Pictures, releasing their films theatrically in markets outside North America.",
+  "duplicate_files": ["downloads/U/united-international-pictures.svg", "downloads/U/united-pictures.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - United International Pictures", "url": "https://en.wikipedia.org/wiki/United_International_Pictures"},
+    {"title": "UIP official site", "url": "https://www.uipmovies.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

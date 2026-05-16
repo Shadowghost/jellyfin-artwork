@@ -1,0 +1,25 @@
+{
+  "slug": "medienboard-berlin-brandenburg",
+  "sha256": "0077eeafa82535a0ac7bc47c0c9d910be1b293f5bd8757408c47f37fe008da73",
+  "entity_name": "Medienboard Berlin-Brandenburg",
+  "aka": ["Medienboard"],
+  "type": "government-agency",
+  "country": "DE",
+  "founded": "2004",
+  "defunct": null,
+  "parent_company": "States of Berlin and Brandenburg",
+  "official_website": "https://www.medienboard.de/",
+  "wikipedia": "https://de.wikipedia.org/wiki/Medienboard_Berlin-Brandenburg",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "German regional film and media funding agency for Berlin and Brandenburg, co-financing feature films, TV productions and games.",
+  "duplicate_files": ["downloads/M/medienboard-berlin-brandenburg.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia (de) - Medienboard Berlin-Brandenburg", "url": "https://de.wikipedia.org/wiki/Medienboard_Berlin-Brandenburg"},
+    {"title": "Medienboard official site", "url": "https://www.medienboard.de/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

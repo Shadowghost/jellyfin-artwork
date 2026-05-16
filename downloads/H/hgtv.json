@@ -1,0 +1,28 @@
+{
+  "slug": "hgtv",
+  "sha256": "a7528841546bcab40bdc834afc24f84ed7452fb52ba462da98e84f49a9ebe7ff",
+  "entity_name": "HGTV",
+  "aka": ["Home & Garden Television"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1994",
+  "defunct": null,
+  "parent_company": "Warner Bros. Discovery",
+  "official_website": "https://www.hgtv.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/HGTV",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "HGTV Green", "hex": "#74AC1F"}
+  ],
+  "logo_usage": null,
+  "description": "American cable channel owned by Warner Bros. Discovery, focused on home improvement and real estate programming.",
+  "duplicate_files": [
+    "downloads/H/hgtv.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – HGTV", "url": "https://en.wikipedia.org/wiki/HGTV"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "bbc-two",
+  "sha256": "e43558c9c3ff125a23b6e04e4b7df5e3ad69e21b48901dc27ad18d60b883cf9d",
+  "entity_name": "BBC Two",
+  "aka": ["BBC2", "BBC TWO"],
+  "type": "broadcast-network",
+  "country": "GB",
+  "founded": "1964",
+  "defunct": null,
+  "parent_company": "BBC",
+  "official_website": "https://www.bbc.co.uk/bbctwo",
+  "wikipedia": "https://en.wikipedia.org/wiki/BBC_Two",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "BBC Two Dark", "hex": "#1A1A1A"}
+  ],
+  "logo_usage": null,
+  "description": "British free-to-air public broadcast television channel owned and operated by the BBC, launched in 1964.",
+  "duplicate_files": ["downloads/B/bbc-two.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - BBC Two", "url": "https://en.wikipedia.org/wiki/BBC_Two"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "teleclub",
+  "sha256": "37a0a58342bdcf7001a91d9869f9814b83c1e92bc73d81e8fbc226301f78397e",
+  "entity_name": "Teleclub",
+  "aka": [],
+  "type": "cable-network",
+  "country": "CH",
+  "founded": "1984",
+  "defunct": null,
+  "parent_company": "Swisscom (CT Cinetrade)",
+  "official_website": "https://www.blue.ch",
+  "wikipedia": "https://en.wikipedia.org/wiki/Teleclub",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Swiss pay-TV network owned by Swisscom; first pay-TV service in German-speaking Europe, rebranded under the 'blue' brand in 2020.",
+  "duplicate_files": ["downloads/T/teleclub.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Teleclub", "url": "https://en.wikipedia.org/wiki/Teleclub"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

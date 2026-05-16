@@ -1,0 +1,28 @@
+{
+  "slug": "warnermedia",
+  "sha256": "401603435ef7ba1fa9ddff2189c05fa7ba0727034919817d51e7342d15000015",
+  "entity_name": "WarnerMedia",
+  "aka": ["Warner Bros. Discovery", "Time Warner"],
+  "type": "studio",
+  "country": "US",
+  "founded": "2018",
+  "defunct": null,
+  "parent_company": "Warner Bros. Discovery (since 2022)",
+  "official_website": "https://www.wbd.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Warner_Bros._Discovery",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American multinational mass media and entertainment conglomerate; WarnerMedia (2018-2022) merged with Discovery, Inc. to form Warner Bros. Discovery.",
+  "duplicate_files": [
+    "downloads/W/warner-bros-discovery.svg",
+    "downloads/W/warnermedia.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Warner Bros. Discovery", "url": "https://en.wikipedia.org/wiki/Warner_Bros._Discovery"},
+    {"title": "WBD corporate site", "url": "https://www.wbd.com"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

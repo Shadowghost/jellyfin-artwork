@@ -1,0 +1,27 @@
+{
+  "slug": "amc-studios",
+  "sha256": "cdb914ec02a1e75e798bc94620acb9d5677301b1ba985e53c7916e20db0e1033",
+  "entity_name": "AMC Studios",
+  "aka": ["AMC Networks Studios"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2010",
+  "defunct": null,
+  "parent_company": "AMC Networks",
+  "official_website": "https://www.amcnetworks.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/AMC_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "AMC Yellow", "hex": "#CC9900"},
+    {"name": "Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "American television production company subsidiary of AMC Networks producing series such as The Walking Dead and Better Call Saul.",
+  "duplicate_files": ["downloads/A/amc-studios.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - AMC Studios", "url": "https://en.wikipedia.org/wiki/AMC_Studios"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

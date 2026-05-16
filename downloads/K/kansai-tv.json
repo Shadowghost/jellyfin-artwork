@@ -1,0 +1,24 @@
+{
+  "slug": "kansai-tv",
+  "sha256": "14df923788663e88e86a88b7010e308ec110d0dd078e5fec77f82e7f35b5cd87",
+  "entity_name": "Kansai Television",
+  "aka": ["KTV", "Kansai TV"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1958",
+  "defunct": null,
+  "parent_company": "Fujisankei Communications Group",
+  "official_website": "https://www.ktv.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Kansai_Television",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese television station headquartered in Osaka, affiliated with the Fuji News Network and Fuji Network System.",
+  "duplicate_files": ["downloads/K/kansai-television.svg", "downloads/K/kansai-tv.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Kansai Television", "url": "https://en.wikipedia.org/wiki/Kansai_Television"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

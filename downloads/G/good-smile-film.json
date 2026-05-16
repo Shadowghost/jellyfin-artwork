@@ -1,0 +1,25 @@
+{
+  "slug": "good-smile-film",
+  "sha256": "e4f8454a331e2de1b24804d847ee3f4080b4de4a9b920857e9b122c9b38a88d8",
+  "entity_name": "Good Smile Company",
+  "aka": ["Good Smile Film", "GSC"],
+  "type": "production-company",
+  "country": "JP",
+  "founded": "2001",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.goodsmile.info/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Good_Smile_Company",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese manufacturer of hobby products (Nendoroid, figma) and anime production committee member; Good Smile Film is the company's film production division.",
+  "duplicate_files": ["downloads/G/good-smile-company.svg", "downloads/G/good-smile-film.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Good Smile Company", "url": "https://en.wikipedia.org/wiki/Good_Smile_Company"},
+    {"title": "Good Smile Company official site", "url": "https://www.goodsmile.info/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

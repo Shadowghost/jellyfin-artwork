@@ -1,0 +1,24 @@
+{
+  "slug": "shueisha",
+  "sha256": "a2de86c572b1af5a290f64364180e9c55f916530f23f04ccac2a45efc8190341",
+  "entity_name": "Shueisha",
+  "aka": ["Shūeisha"],
+  "type": "publisher",
+  "country": "JP",
+  "founded": "1925",
+  "defunct": null,
+  "parent_company": "Hitotsubashi Group",
+  "official_website": "https://www.shueisha.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Shueisha",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Major Japanese publishing company best known for Weekly Shōnen Jump, publisher of manga franchises including One Piece, Naruto, Dragon Ball, and Demon Slayer.",
+  "duplicate_files": ["downloads/S/shueisha.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Shueisha", "url": "https://en.wikipedia.org/wiki/Shueisha"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

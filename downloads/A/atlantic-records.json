@@ -1,0 +1,28 @@
+{
+  "slug": "atlantic-records",
+  "sha256": "0dc5b2b578ae9fb834fad51814be9106bba37e58d690c6713839c943c40863a3",
+  "entity_name": "Atlantic Records",
+  "aka": ["Atlantic Recording Corporation"],
+  "type": "record-label",
+  "country": "US",
+  "founded": "1947",
+  "defunct": null,
+  "parent_company": "Warner Music Group",
+  "official_website": "https://www.atlanticrecords.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Atlantic_Records",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Atlantic Red", "hex": "#E2231A"},
+    {"name": "Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "American record label founded in 1947 by Ahmet Ertegun and Herb Abramson, now a subsidiary of Warner Music Group.",
+  "duplicate_files": ["downloads/A/atlantic-records.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Atlantic Records", "url": "https://en.wikipedia.org/wiki/Atlantic_Records"},
+    {"title": "Atlantic Records official site", "url": "https://www.atlanticrecords.com"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

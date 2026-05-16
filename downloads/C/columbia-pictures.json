@@ -1,0 +1,27 @@
+{
+  "slug": "columbia-pictures",
+  "sha256": "c734d53b381af9d8403164e29412890c4f8fe30d21fc1c9570ca3822bfb65477",
+  "entity_name": "Columbia Pictures",
+  "aka": ["Columbia Pictures Industries", "Columbia Pictures Corporation"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1918",
+  "defunct": null,
+  "parent_company": "Sony Pictures Entertainment (Sony Group Corporation)",
+  "official_website": "https://www.sonypictures.com/corp/columbiapictures.html",
+  "wikipedia": "https://en.wikipedia.org/wiki/Columbia_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Columbia Blue", "hex": "#0F47AF"}
+  ],
+  "logo_usage": "The Columbia Pictures torch-bearing 'Torch Lady' logo is iconic; the modern version was painted by Michael Deas in 1993.",
+  "description": "American film production and distribution company that is a subsidiary of Sony Pictures Entertainment.",
+  "duplicate_files": ["downloads/C/columbia-pictures-corporation.svg", "downloads/C/columbia-pictures-film-production-asia.svg", "downloads/C/columbia-pictures-productions.svg", "downloads/C/columbia-pictures.svg", "downloads/D/deutsche-columbia-filmproduktion.svg"],
+  "duplicate_count": 5,
+  "sources": [
+    {"title": "Wikipedia - Columbia Pictures", "url": "https://en.wikipedia.org/wiki/Columbia_Pictures"},
+    {"title": "Sony Pictures - Columbia Pictures", "url": "https://www.sonypictures.com/corp/columbiapictures.html"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "crime-investigation-network",
+  "sha256": "ac59ff4ccf6d0590d5fca1a93f1392c02d6e32b9aace4c7b1be9a5db686816c7",
+  "entity_name": "Crime + Investigation",
+  "aka": ["CI", "Crime & Investigation Network", "Planète Crime Investigation"],
+  "type": "cable-network",
+  "country": "GB",
+  "founded": "2008",
+  "defunct": null,
+  "parent_company": "A+E Networks UK",
+  "official_website": "https://www.crimeandinvestigation.co.uk",
+  "wikipedia": "https://en.wikipedia.org/wiki/Crime_%2B_Investigation",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Pay television channel focused on true crime and investigation content, operated by A+E Networks.",
+  "duplicate_files": ["downloads/C/crime-investigation-network.svg", "downloads/P/plan-te-crime-investigation.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Crime + Investigation", "url": "https://en.wikipedia.org/wiki/Crime_%2B_Investigation"},
+    {"title": "Crime + Investigation UK", "url": "https://www.crimeandinvestigation.co.uk/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

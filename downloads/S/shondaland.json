@@ -1,0 +1,25 @@
+{
+  "slug": "shondaland",
+  "sha256": "b71a97c1690d593d992554d1f528749caf254261eb510c74f48642099024afc0",
+  "entity_name": "Shondaland",
+  "aka": [],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2005",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://shondaland.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Shondaland",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American production company founded by Shonda Rhimes, known for Grey's Anatomy, Scandal, How to Get Away with Murder, and Bridgerton.",
+  "duplicate_files": ["downloads/S/shondaland.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Shondaland", "url": "https://en.wikipedia.org/wiki/Shondaland"},
+    {"title": "Shondaland official site", "url": "https://shondaland.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

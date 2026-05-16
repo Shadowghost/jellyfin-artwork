@@ -1,0 +1,26 @@
+{
+  "slug": "tf1",
+  "sha256": "5058f8e0fe046ebb3d60127fc2aa66503ffa4de946bfba2231d206ef53a13d27",
+  "entity_name": "TF1",
+  "aka": ["Télévision Française 1"],
+  "type": "broadcast-network",
+  "country": "FR",
+  "founded": "1975",
+  "defunct": null,
+  "parent_company": "TF1 Group (Bouygues)",
+  "official_website": "https://www.tf1.fr",
+  "wikipedia": "https://en.wikipedia.org/wiki/TF1",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "TF1 Blue", "hex": "#0066CC"}
+  ],
+  "logo_usage": null,
+  "description": "French free-to-air television channel, the most-watched private network in France and Europe, owned by TF1 Group.",
+  "duplicate_files": ["downloads/T/tf1.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - TF1", "url": "https://en.wikipedia.org/wiki/TF1"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

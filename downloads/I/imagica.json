@@ -1,0 +1,25 @@
+{
+  "slug": "imagica",
+  "sha256": "51a14dc82adb18da48febb5d6283866e863f43fff0052ddcf3abde9d139c692d",
+  "entity_name": "Imagica Group",
+  "aka": ["IMAGICA", "Imagica Corp."],
+  "type": "production-company",
+  "country": "JP",
+  "founded": "1935",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.imagicagroup.co.jp/en/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Imagica_Group",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese post-production and media services group founded in 1935, providing film/video processing, dubbing, and digital media services.",
+  "duplicate_files": ["downloads/I/imagica-group.svg", "downloads/I/imagica.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Imagica Group", "url": "https://en.wikipedia.org/wiki/Imagica_Group"},
+    {"title": "Imagica Group official site", "url": "https://www.imagicagroup.co.jp/en/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

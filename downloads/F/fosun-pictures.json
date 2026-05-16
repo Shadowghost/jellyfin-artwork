@@ -1,0 +1,24 @@
+{
+  "slug": "fosun-pictures",
+  "sha256": "8620b2ba2e31e001d3283197e1b07a5dd406effd8aa38cee2f5ae9f9dbdc641b",
+  "entity_name": "Fosun Pictures",
+  "aka": [],
+  "type": "production-company",
+  "country": "CN",
+  "founded": "2011",
+  "defunct": null,
+  "parent_company": "Fosun International",
+  "official_website": null,
+  "wikipedia": null,
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Chinese film production and investment company, subsidiary of Fosun International.",
+  "duplicate_files": ["downloads/F/fosun-pictures.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Fosun International", "url": "https://www.fosun.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

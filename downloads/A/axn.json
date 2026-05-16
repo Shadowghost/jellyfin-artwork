@@ -1,0 +1,27 @@
+{
+  "slug": "axn",
+  "sha256": "c3b9021fefca852abcd2f095fc2b7f21a260e7cdf6f3a541fe46adcd20d1c046",
+  "entity_name": "AXN",
+  "aka": [],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1997",
+  "defunct": null,
+  "parent_company": "Sony Pictures Entertainment",
+  "official_website": "https://www.axn.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/AXN",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "AXN Black", "hex": "#000000"},
+    {"name": "AXN White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": null,
+  "description": "International pay television channel owned by Sony Pictures Entertainment, focused on action, adventure, and thriller programming.",
+  "duplicate_files": ["downloads/A/axn.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - AXN", "url": "https://en.wikipedia.org/wiki/AXN"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

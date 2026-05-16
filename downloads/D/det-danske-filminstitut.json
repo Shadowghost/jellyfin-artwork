@@ -1,0 +1,25 @@
+{
+  "slug": "det-danske-filminstitut",
+  "sha256": "81a9da62f143a01ae84abb6c00d8a46ff9aa70615f4f132dc98cf09e4119738c",
+  "entity_name": "Det Danske Filminstitut",
+  "aka": ["Danish Film Institute", "DFI"],
+  "type": "government-agency",
+  "country": "DK",
+  "founded": "1972",
+  "defunct": null,
+  "parent_company": "Danish Ministry of Culture",
+  "official_website": "https://www.dfi.dk/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Danish_Film_Institute",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "The Danish national agency responsible for supporting and encouraging film and cinema culture in Denmark.",
+  "duplicate_files": ["downloads/D/det-danske-filminstitut.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Danish Film Institute", "url": "https://en.wikipedia.org/wiki/Danish_Film_Institute"},
+    {"title": "DFI official site", "url": "https://www.dfi.dk/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

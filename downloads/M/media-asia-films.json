@@ -1,0 +1,29 @@
+{
+  "slug": "media-asia-films",
+  "sha256": "e8204b96816173858aff925a00b46b07f7a98ce1000d8120f180059c82242745",
+  "entity_name": "Media Asia Films",
+  "aka": ["Media Asia Group", "Media Asia Film Production", "寰亞電影"],
+  "type": "production-company",
+  "country": "HK",
+  "founded": "1994",
+  "defunct": null,
+  "parent_company": "Media Asia Group Holdings",
+  "official_website": "https://www.mediaasia.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Media_Asia",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Hong Kong-based film production and distribution company, known for Infernal Affairs and other major Hong Kong cinema productions.",
+  "duplicate_files": [
+    "downloads/M/media-asia-film-production.svg",
+    "downloads/M/media-asia-films.svg",
+    "downloads/M/media-asia-group.svg"
+  ],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia – Media Asia", "url": "https://en.wikipedia.org/wiki/Media_Asia"},
+    {"title": "Media Asia official site", "url": "https://www.mediaasia.com"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

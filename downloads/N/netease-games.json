@@ -1,0 +1,26 @@
+{
+  "slug": "netease-games",
+  "sha256": "436f1846875f47e1f7c384afcb48b142a063be3bf5d0d0dc4839105ddf421abb",
+  "entity_name": "NetEase Games",
+  "aka": ["NetEase"],
+  "type": "other",
+  "country": "CN",
+  "founded": "2001",
+  "defunct": null,
+  "parent_company": "NetEase",
+  "official_website": "https://www.neteasegames.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/NetEase",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "NetEase Red", "hex": "#C8161D"}
+  ],
+  "logo_usage": null,
+  "description": "Chinese video game development division of NetEase, headquartered in Guangzhou; publisher and developer of online and mobile games.",
+  "duplicate_files": ["downloads/N/netease-games.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - NetEase", "url": "https://en.wikipedia.org/wiki/NetEase"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

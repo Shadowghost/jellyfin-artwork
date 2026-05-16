@@ -1,0 +1,25 @@
+{
+  "slug": "gwn7",
+  "sha256": "afd99bd4c3891dc045fabebcefa22e67061b203c241f30c70d35775a9325ccd3",
+  "entity_name": "GWN7",
+  "aka": ["Golden West Network", "Channel Seven Regional WA"],
+  "type": "broadcast-network",
+  "country": "AU",
+  "founded": "1988",
+  "defunct": null,
+  "parent_company": "Seven West Media",
+  "official_website": "https://www.gwn7.com.au/",
+  "wikipedia": "https://en.wikipedia.org/wiki/GWN7",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Australian regional television station serving Western Australia, affiliated with the Seven Network.",
+  "duplicate_files": ["downloads/G/gwn7.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – GWN7", "url": "https://en.wikipedia.org/wiki/GWN7"},
+    {"title": "GWN7 official", "url": "https://www.gwn7.com.au/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

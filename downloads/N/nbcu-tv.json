@@ -1,0 +1,24 @@
+{
+  "slug": "nbcu-tv",
+  "sha256": "c33b74b5ea51dade03a95a28325ad4c86f622c1f0ce981e621b67471c20da8da",
+  "entity_name": "NBCUniversal Television",
+  "aka": ["NBCU TV", "NBCUniversal Television and Streaming"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2004",
+  "defunct": null,
+  "parent_company": "NBCUniversal (Comcast)",
+  "official_website": "https://www.nbcuniversal.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/NBCUniversal_Television_and_Streaming",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Television production and distribution division of NBCUniversal, encompassing broadcast, cable and streaming operations.",
+  "duplicate_files": ["downloads/N/nbcu-tv.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – NBCUniversal Television and Streaming", "url": "https://en.wikipedia.org/wiki/NBCUniversal_Television_and_Streaming"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

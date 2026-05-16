@@ -1,0 +1,28 @@
+{
+  "slug": "proximus",
+  "sha256": "c4fc65b4aa7a73aedc8aaa91728ae0ec00c76a10b11f38b96d405162a9f2f749",
+  "entity_name": "Proximus",
+  "aka": ["Proximus Group", "Belgacom"],
+  "type": "other",
+  "country": "BE",
+  "founded": "1930",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.proximus.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Proximus_Group",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Proximus Purple", "hex": "#660099"}
+  ],
+  "logo_usage": null,
+  "description": "Belgian telecommunications company, also active as a media and TV distribution platform; often credited as co-producer/funder of Belgian films.",
+  "duplicate_files": [
+    "downloads/P/proximus.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Proximus Group", "url": "https://en.wikipedia.org/wiki/Proximus_Group"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

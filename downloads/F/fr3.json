@@ -1,0 +1,24 @@
+{
+  "slug": "fr3",
+  "sha256": "b1553b57c37d1b1bd2b2f060db7c666309a213f504edb9ee3f57cd641284f4f0",
+  "entity_name": "FR3 (France Régions 3)",
+  "aka": ["FR3", "France 3"],
+  "type": "broadcast-network",
+  "country": "FR",
+  "founded": "1972",
+  "defunct": "1992",
+  "parent_company": "Office de Radiodiffusion Télévision Française (until 1974), later France Télévisions",
+  "official_website": "https://www.france.tv/france-3/",
+  "wikipedia": "https://en.wikipedia.org/wiki/France_3",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Original name (1972–1992) of the French public-service regional television channel now known as France 3.",
+  "duplicate_files": ["downloads/F/fr3.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - France 3", "url": "https://en.wikipedia.org/wiki/France_3"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

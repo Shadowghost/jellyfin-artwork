@@ -1,0 +1,29 @@
+{
+  "slug": "fox-tv",
+  "sha256": "101a356acffbba3787e87a2a3f77777682107743043f3e0c21ed004faf49b3b0",
+  "entity_name": "Fox Broadcasting Company",
+  "aka": ["FOX", "FOX TV", "Fox US", "Fox Network"],
+  "type": "broadcast-network",
+  "country": "US",
+  "founded": "1986",
+  "defunct": null,
+  "parent_company": "Fox Corporation",
+  "official_website": "https://www.fox.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Fox_Broadcasting_Company",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "FOX Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "American commercial broadcast television network owned by Fox Corporation.",
+  "duplicate_files": [
+    "downloads/F/fox-tv.svg",
+    "downloads/F/fox-us.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Fox Broadcasting Company", "url": "https://en.wikipedia.org/wiki/Fox_Broadcasting_Company"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

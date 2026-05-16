@@ -1,0 +1,26 @@
+{
+  "slug": "sky-witness",
+  "sha256": "0e11ca19ab130c5c8acdc2a1e8cd02adde4a88388a7ec58f66091c5f40ccc913",
+  "entity_name": "Sky Witness",
+  "aka": [],
+  "type": "cable-network",
+  "country": "GB",
+  "founded": "2018",
+  "defunct": null,
+  "parent_company": "Sky Group (Comcast)",
+  "official_website": "https://www.sky.com/tv/channel/skywitness",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sky_Witness",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British pay television channel owned by Sky, focused on US drama series; rebranded from Sky Living in 2018.",
+  "duplicate_files": [
+    "downloads/S/sky-witness.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Sky Witness", "url": "https://en.wikipedia.org/wiki/Sky_Witness"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

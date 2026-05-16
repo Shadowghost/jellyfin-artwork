@@ -1,0 +1,25 @@
+{
+  "slug": "televisa",
+  "sha256": "fc131789c9bfe9671a7ed4dfe311a57c99b3758ddf8988e463e46dc771c2325b",
+  "entity_name": "Televisa",
+  "aka": ["Grupo Televisa", "TelevisaUnivision"],
+  "type": "other",
+  "country": "MX",
+  "founded": "1973",
+  "defunct": null,
+  "parent_company": "TelevisaUnivision (since 2022)",
+  "official_website": "https://www.televisa.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Televisa",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Mexican multimedia mass media company and the largest Spanish-language broadcaster in the world; producer of telenovelas and television networks across Mexico. Merged with Univision's content unit in 2022 to form TelevisaUnivision.",
+  "duplicate_files": ["downloads/T/televisa.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Televisa", "url": "https://en.wikipedia.org/wiki/Televisa"},
+    {"title": "Televisa official site", "url": "https://www.televisa.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

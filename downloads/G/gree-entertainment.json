@@ -1,0 +1,24 @@
+{
+  "slug": "gree-entertainment",
+  "sha256": "ee66f1ca84770719e85b5d6b1d0e6d073692685544942206bdfdfcc227d181a2",
+  "entity_name": "GREE Entertainment",
+  "aka": [],
+  "type": "production-company",
+  "country": "JP",
+  "founded": null,
+  "defunct": null,
+  "parent_company": "GREE, Inc.",
+  "official_website": "https://corp.gree.net/",
+  "wikipedia": "https://en.wikipedia.org/wiki/GREE,_Inc.",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Entertainment/anime production subsidiary of Japanese mobile-gaming and internet company GREE, Inc.",
+  "duplicate_files": ["downloads/G/gree-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - GREE, Inc.", "url": "https://en.wikipedia.org/wiki/GREE,_Inc."}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

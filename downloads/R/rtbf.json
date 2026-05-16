@@ -1,0 +1,25 @@
+{
+  "slug": "rtbf",
+  "sha256": "59d26ea7905a1c0ec7be49a6bc29b6d30590428f57f3c07d4ae4167659c0eae0",
+  "entity_name": "Radio-télévision belge de la Communauté française",
+  "aka": ["RTBF"],
+  "type": "broadcast-network",
+  "country": "BE",
+  "founded": "1960",
+  "defunct": null,
+  "parent_company": "French Community of Belgium",
+  "official_website": "https://www.rtbf.be/",
+  "wikipedia": "https://en.wikipedia.org/wiki/RTBF",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Public broadcasting organization for the French-speaking Community of Belgium.",
+  "duplicate_files": ["downloads/R/radio-t-l-vision-belge-francophone-rtbf.svg", "downloads/R/rtbf.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - RTBF", "url": "https://en.wikipedia.org/wiki/RTBF"},
+    {"title": "RTBF official", "url": "https://www.rtbf.be/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

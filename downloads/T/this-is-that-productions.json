@@ -1,0 +1,24 @@
+{
+  "slug": "this-is-that-productions",
+  "sha256": "6f9f1b0178b01bdcda0af1d852ca84c9af9f65fb7c5aca14cf79d9e1023cb5f2",
+  "entity_name": "This is That Productions",
+  "aka": ["This is That"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2002",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/This_Is_That_Productions",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American independent film production company founded by Anthony Bregman, Ted Hope, and Anne Carey, producing arthouse films.",
+  "duplicate_files": ["downloads/T/this-is-that-productions.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – This Is That Productions", "url": "https://en.wikipedia.org/wiki/This_Is_That_Productions"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

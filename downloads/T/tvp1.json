@@ -1,0 +1,25 @@
+{
+  "slug": "tvp1",
+  "sha256": "5dd7fa0c5ea9c8eb54ffac4d0588ad78ec4c4600981d01395f36d24927801660",
+  "entity_name": "TVP1",
+  "aka": ["TVP Jedynka", "Program 1"],
+  "type": "broadcast-network",
+  "country": "PL",
+  "founded": "1952",
+  "defunct": null,
+  "parent_company": "Telewizja Polska (TVP)",
+  "official_website": "https://www.tvp.pl/",
+  "wikipedia": "https://en.wikipedia.org/wiki/TVP1",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Flagship general-content channel of Polish public broadcaster Telewizja Polska, the oldest television channel in Poland.",
+  "duplicate_files": ["downloads/T/tvp1.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – TVP1", "url": "https://en.wikipedia.org/wiki/TVP1"},
+    {"title": "TVP official site", "url": "https://www.tvp.pl/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "metro-goldwyn-mayer",
+  "sha256": "6cf1900fde1e67fd1a486eed4acae4fcb754a3ee732679a5184ab21ef93299a4",
+  "entity_name": "Metro-Goldwyn-Mayer",
+  "aka": ["MGM", "MGM Studios", "Metro-Goldwyn-Mayer Pictures"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1924",
+  "defunct": null,
+  "parent_company": "Amazon MGM Studios (Amazon)",
+  "official_website": "https://www.mgm.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Metro-Goldwyn-Mayer",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "MGM Gold", "hex": "#C9A227"}
+  ],
+  "logo_usage": "Iconic Leo the Lion roaring logo; trademarked.",
+  "description": "American film and television production company, one of the original Hollywood majors; owned by Amazon since 2022 (Amazon MGM Studios).",
+  "duplicate_files": [
+    "downloads/M/metro-goldwyn-mayer-british-studios.svg",
+    "downloads/M/metro-goldwyn-mayer-mgm.svg",
+    "downloads/M/metro-goldwyn-mayer-pictures.svg",
+    "downloads/M/metro-goldwyn-mayer-studios.svg",
+    "downloads/M/metro-goldwyn-mayer.svg"
+  ],
+  "duplicate_count": 5,
+  "sources": [
+    {"title": "Wikipedia – Metro-Goldwyn-Mayer", "url": "https://en.wikipedia.org/wiki/Metro-Goldwyn-Mayer"},
+    {"title": "MGM official", "url": "https://www.mgm.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

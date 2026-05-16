@@ -1,0 +1,26 @@
+{
+  "slug": "danmarks-radio-dr",
+  "sha256": "7bd9f5f17b8995e13311ae05771f9462fef827256c4877fb097280f396c8978e",
+  "entity_name": "DR (Danmarks Radio)",
+  "aka": ["DR", "Danish Broadcasting Corporation", "Danmarks Radio"],
+  "type": "broadcast-network",
+  "country": "DK",
+  "founded": "1925",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.dr.dk",
+  "wikipedia": "https://en.wikipedia.org/wiki/DR_(broadcaster)",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "DR Blue", "hex": "#0066A1"}
+  ],
+  "logo_usage": null,
+  "description": "Denmark's national public broadcasting corporation, founded in 1925, providing radio, television, and online content.",
+  "duplicate_files": ["downloads/D/danish-broadcasting-corporation.svg", "downloads/D/danmarks-radio-dr.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - DR (broadcaster)", "url": "https://en.wikipedia.org/wiki/DR_(broadcaster)"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "sony-music-communications",
+  "sha256": "3dc4ef9a92668f96d105ebc58445bddcdc6b17303967379ca6c5b76e6836950c",
+  "entity_name": "Sony Music Communications",
+  "aka": ["SMC"],
+  "type": "record-label",
+  "country": "JP",
+  "founded": "1995",
+  "defunct": null,
+  "parent_company": "Sony Music Entertainment (Japan)",
+  "official_website": "https://www.smc.sonymusic.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sony_Music_Entertainment_Japan",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese subsidiary of Sony Music Entertainment Japan involved in television, anime, and music production.",
+  "duplicate_files": ["downloads/S/sony-music-communications.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Sony Music Entertainment Japan", "url": "https://en.wikipedia.org/wiki/Sony_Music_Entertainment_Japan"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

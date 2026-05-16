@@ -1,0 +1,28 @@
+{
+  "slug": "cartoon-network",
+  "sha256": "fdd6d3645979e583e2edbcd1cca96f7fd5aaa5df12ff32fa8cc668f719b1682f",
+  "entity_name": "Cartoon Network",
+  "aka": ["CN", "Cartoon Network Studios"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1992",
+  "defunct": null,
+  "parent_company": "Warner Bros. Discovery",
+  "official_website": "https://www.cartoonnetwork.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Cartoon_Network",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Cartoon Network Black", "hex": "#000000"},
+    {"name": "Cartoon Network White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": "Iconic black-and-white checkerboard logo with 'CARTOON NETWORK' wordmark.",
+  "description": "American pay-television channel owned by Warner Bros. Discovery, dedicated primarily to animated programming.",
+  "duplicate_files": ["downloads/C/cartoon-network.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Cartoon Network", "url": "https://en.wikipedia.org/wiki/Cartoon_Network"},
+    {"title": "Cartoon Network official site", "url": "https://www.cartoonnetwork.com"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

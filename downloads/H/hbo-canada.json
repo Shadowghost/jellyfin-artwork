@@ -1,0 +1,28 @@
+{
+  "slug": "hbo-canada",
+  "sha256": "3bd3b701a80f3a57fe318a53bb70e8e4747cb85b1b887a16b4f646e2511f3394",
+  "entity_name": "HBO Canada",
+  "aka": [],
+  "type": "cable-network",
+  "country": "CA",
+  "founded": "2008",
+  "defunct": "2019",
+  "parent_company": "Bell Media / Corus Entertainment (operated under license from WarnerMedia)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/HBO_Canada",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "HBO Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "Former Canadian premium television service launched in 2008 as a joint co-branded service by HBO and Canadian broadcasters; discontinued in 2019.",
+  "duplicate_files": [
+    "downloads/H/hbo-canada.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – HBO Canada", "url": "https://en.wikipedia.org/wiki/HBO_Canada"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "fukuoka-broadcasting-system-fbs",
+  "sha256": "1cea339ba1e98e86304bac5b0902e5ff85fc633c5836ff7db6e2213b5a3f4ed8",
+  "entity_name": "Fukuoka Broadcasting System",
+  "aka": ["FBS", "Fukuoka Hoso"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1969",
+  "defunct": null,
+  "parent_company": "Nippon Television Network (NNN/NNS affiliate)",
+  "official_website": "https://fbs.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Fukuoka_Broadcasting_System",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese television broadcaster based in Fukuoka, Kyushu, and an affiliate of the Nippon News Network.",
+  "duplicate_files": ["downloads/F/fukuoka-broadcasting-system-fbs.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Fukuoka Broadcasting System", "url": "https://en.wikipedia.org/wiki/Fukuoka_Broadcasting_System"},
+    {"title": "FBS official site", "url": "https://fbs.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "muse-entertainment",
+  "sha256": "08f0e9c32b85041e0960c647a32184362260be77fb94d7a617dbe495fd32ff94",
+  "entity_name": "Muse Entertainment",
+  "aka": ["Muse Entertainment Enterprises"],
+  "type": "production-company",
+  "country": "CA",
+  "founded": "1998",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.muse.ca/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Muse_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Canadian independent film and television production and distribution company based in Montreal.",
+  "duplicate_files": [
+    "downloads/M/muse-entertainment-enterprises.svg",
+    "downloads/M/muse-entertainment.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Muse Entertainment", "url": "https://en.wikipedia.org/wiki/Muse_Entertainment"},
+    {"title": "Muse official", "url": "https://www.muse.ca/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

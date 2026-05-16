@@ -1,0 +1,24 @@
+{
+  "slug": "movieola",
+  "sha256": "d1934492c67e5476d9ba0095275bbe02418a2d9ccd9a84ab08dfc1f612ada5f5",
+  "entity_name": "Movieola",
+  "aka": ["Movieola – The Short Film Channel"],
+  "type": "cable-network",
+  "country": "CA",
+  "founded": "2001",
+  "defunct": null,
+  "parent_company": "Channel Zero",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Movieola",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Canadian English-language Category B specialty channel devoted entirely to short films, owned by Channel Zero.",
+  "duplicate_files": ["downloads/M/movieola.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Movieola", "url": "https://en.wikipedia.org/wiki/Movieola"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

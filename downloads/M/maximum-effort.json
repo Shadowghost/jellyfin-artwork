@@ -1,0 +1,25 @@
+{
+  "slug": "maximum-effort",
+  "sha256": "cd61578ed14e5234e0a8a773a27729ccf1215a7236957732674212641cce808a",
+  "entity_name": "Maximum Effort",
+  "aka": ["Maximum Effort Productions"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2018",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://maximumeffort.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Maximum_Effort",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film and marketing production company founded by Ryan Reynolds, producing Deadpool-related content, ads, and the film Free Guy.",
+  "duplicate_files": ["downloads/M/maximum-effort.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Maximum Effort", "url": "https://en.wikipedia.org/wiki/Maximum_Effort"},
+    {"title": "Maximum Effort official site", "url": "https://maximumeffort.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "upn",
+  "sha256": "4b3c3f2e84311fbe91fb2b94848d21917b44df02fcb4b9730183d273f8be7c30",
+  "entity_name": "UPN (United Paramount Network)",
+  "aka": ["UPN", "United Paramount Network"],
+  "type": "broadcast-network",
+  "country": "US",
+  "founded": "1995",
+  "defunct": "2006",
+  "parent_company": "CBS Corporation / Chris-Craft Industries",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/UPN",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American broadcast television network that operated from 1995 to 2006; merged with The WB to form The CW.",
+  "duplicate_files": ["downloads/U/upn.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - UPN", "url": "https://en.wikipedia.org/wiki/UPN"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

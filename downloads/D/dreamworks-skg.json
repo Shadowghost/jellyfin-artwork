@@ -1,0 +1,29 @@
+{
+  "slug": "dreamworks-skg",
+  "sha256": "efb395944d77ee14741f9a3d16607ddaf037cede3290529827f9f63fe210819d",
+  "entity_name": "DreamWorks Pictures",
+  "aka": ["DreamWorks SKG", "DreamWorks Studios", "DreamWorks Home Entertainment"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1994",
+  "defunct": null,
+  "parent_company": "Amblin Partners (distributed by Universal Pictures)",
+  "official_website": "https://www.dreamworks.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/DreamWorks_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film studio founded by Steven Spielberg, Jeffrey Katzenberg, and David Geffen (the SKG); now a unit of Amblin Partners.",
+  "duplicate_files": [
+    "downloads/D/dreamworks-home-entertainment.svg",
+    "downloads/D/dreamworks-pictures.svg",
+    "downloads/D/dreamworks-skg.svg",
+    "downloads/D/dreamworks-studios.svg"
+  ],
+  "duplicate_count": 4,
+  "sources": [
+    {"title": "Wikipedia – DreamWorks Pictures", "url": "https://en.wikipedia.org/wiki/DreamWorks_Pictures"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

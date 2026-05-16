@@ -1,0 +1,25 @@
+{
+  "slug": "wallace-and-gromit",
+  "sha256": "14d101c7d20f8d9c93e5b07214ad3b4f0f7d39bb7747efe279e52727287b3de9",
+  "entity_name": "Wallace & Gromit",
+  "aka": ["Wallace and Gromit"],
+  "type": "other",
+  "country": "GB",
+  "founded": "1989",
+  "defunct": null,
+  "parent_company": "Aardman Animations",
+  "official_website": "https://www.wallaceandgromit.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Wallace_%26_Gromit",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British clay-animation franchise created by Nick Park at Aardman Animations, featuring inventor Wallace and his dog Gromit; films include A Grand Day Out, The Wrong Trousers, A Close Shave, Curse of the Were-Rabbit and Vengeance Most Fowl.",
+  "duplicate_files": ["downloads/W/wallace-and-gromit.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Wallace & Gromit", "url": "https://en.wikipedia.org/wiki/Wallace_%26_Gromit"},
+    {"title": "Wallace & Gromit official site", "url": "https://www.wallaceandgromit.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "geffen-pictures",
+  "sha256": "f2221e63c1799c3f8176048258bd42fe38db731c6d94398a878e2a55d2f72071",
+  "entity_name": "Geffen Pictures",
+  "aka": ["Geffen Film Company"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1982",
+  "defunct": "1997",
+  "parent_company": "Warner Bros. (former distribution)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Geffen_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film production company founded by David Geffen, producing films such as Beetlejuice and Interview with the Vampire.",
+  "duplicate_files": [
+    "downloads/G/geffen-pictures.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Geffen Pictures", "url": "https://en.wikipedia.org/wiki/Geffen_Pictures"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

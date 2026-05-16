@@ -1,0 +1,27 @@
+{
+  "slug": "arte-france",
+  "sha256": "1871fe255930c3d73857f82b7ff1aab912f9b364025feaf72a6ee7e6a83b19c8",
+  "entity_name": "Arte France",
+  "aka": ["ARTE France"],
+  "type": "broadcast-network",
+  "country": "FR",
+  "founded": "1986",
+  "defunct": null,
+  "parent_company": "Arte (European cultural network)",
+  "official_website": "https://www.arte.tv/fr/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Arte",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "French member organization of Arte, the Franco-German public service cultural television network.",
+  "duplicate_files": [
+    "downloads/A/arte-france.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Arte", "url": "https://en.wikipedia.org/wiki/Arte"},
+    {"title": "Arte official site", "url": "https://www.arte.tv/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

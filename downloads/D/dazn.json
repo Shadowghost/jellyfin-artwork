@@ -1,0 +1,28 @@
+{
+  "slug": "dazn",
+  "sha256": "43a79ba75887f2c5ec4cc611ab7477942936a7d282e712835a418cd0a1f864aa",
+  "entity_name": "DAZN",
+  "aka": ["DAZN Group"],
+  "type": "streaming-service",
+  "country": "UK",
+  "founded": "2016",
+  "defunct": null,
+  "parent_company": "DAZN Group",
+  "official_website": "https://www.dazn.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/DAZN",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "DAZN Yellow", "hex": "#F8FF13"},
+    {"name": "Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "British over-the-top sports subscription streaming service owned by DAZN Group.",
+  "duplicate_files": ["downloads/D/dazn.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – DAZN", "url": "https://en.wikipedia.org/wiki/DAZN"},
+    {"title": "DAZN official site", "url": "https://www.dazn.com"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

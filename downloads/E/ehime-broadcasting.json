@@ -1,0 +1,25 @@
+{
+  "slug": "ehime-broadcasting",
+  "sha256": "9571ccce76a56770d4037d22ce7e943473712ee99618c1e1bf533e83ea0ed1b5",
+  "entity_name": "Ehime Broadcasting",
+  "aka": ["EBC", "Ehime Hoso"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1968",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.ebc.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Ehime_Broadcasting",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial broadcaster headquartered in Matsuyama, Ehime Prefecture, affiliated with the Japan News Network.",
+  "duplicate_files": ["downloads/E/ehime-broadcasting.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Ehime Broadcasting", "url": "https://en.wikipedia.org/wiki/Ehime_Broadcasting"},
+    {"title": "EBC official", "url": "https://www.ebc.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "tokyo-fm",
+  "sha256": "b4d2978d5ebb04b92749cb4646d2bc5c7367df568e75c801b1ea1a0628aea1c7",
+  "entity_name": "Tokyo FM",
+  "aka": ["TOKYO FM", "FM Tokyo", "TFM"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1970",
+  "defunct": null,
+  "parent_company": "FM Tokyo Co., Ltd.",
+  "official_website": "https://www.tfm.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Tokyo_FM",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese FM radio station based in Tokyo, the flagship station of the Japan FM Network (JFN).",
+  "duplicate_files": ["downloads/T/tokyo-fm.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Tokyo FM", "url": "https://en.wikipedia.org/wiki/Tokyo_FM"},
+    {"title": "TOKYO FM official site", "url": "https://www.tfm.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "walt-disney-pictures",
+  "sha256": "e4dc53bda820d77e3ee872de554ee7a1775614aeb45c54848356db90d4008a27",
+  "entity_name": "Walt Disney Pictures",
+  "aka": ["Walt Disney Pictures Presents", "Disney"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1923",
+  "defunct": null,
+  "parent_company": "The Walt Disney Studios / The Walt Disney Company",
+  "official_website": "https://movies.disney.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Walt_Disney_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Disney Blue", "hex": "#006E99"}
+  ],
+  "logo_usage": "Iconic blue Cinderella Castle vanity card with arching shooting star; introduced in current form in 2006 (and refreshed in 2022).",
+  "description": "Flagship film production label of The Walt Disney Studios, producing live-action and animated theatrical features.",
+  "duplicate_files": [
+    "downloads/W/walt-disney-pictures-presents.svg",
+    "downloads/W/walt-disney-pictures.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Walt Disney Pictures", "url": "https://en.wikipedia.org/wiki/Walt_Disney_Pictures"},
+    {"title": "Disney Movies official site", "url": "https://movies.disney.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

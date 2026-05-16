@@ -1,0 +1,26 @@
+{
+  "slug": "fxx",
+  "sha256": "c3561c3dedc2ce705d88ca0a20a1dcb7521f5cde4a68277b5e3fe3402b1768cc",
+  "entity_name": "FXX",
+  "aka": [],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "2013",
+  "defunct": null,
+  "parent_company": "The Walt Disney Company",
+  "official_website": "https://www.fxnetworks.com/fxx",
+  "wikipedia": "https://en.wikipedia.org/wiki/FXX",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "FXX Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "American basic cable channel under the FX Networks group, targeted at younger viewers; airs It's Always Sunny in Philadelphia and Archer.",
+  "duplicate_files": ["downloads/F/fxx.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – FXX", "url": "https://en.wikipedia.org/wiki/FXX"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

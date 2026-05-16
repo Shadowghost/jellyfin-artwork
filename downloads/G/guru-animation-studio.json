@@ -1,0 +1,25 @@
+{
+  "slug": "guru-animation-studio",
+  "sha256": "c1abc1880b7ec04a79dfa5215da98aa8f981e7b9adc13329b91003475e4b721f",
+  "entity_name": "Guru Studio",
+  "aka": ["Guru Animation Studio"],
+  "type": "studio",
+  "country": "CA",
+  "founded": "2000",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.gurustudio.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Guru_Studio",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Canadian animation studio based in Toronto, known for True and the Rainbow Kingdom, Justin Time, and Big Blue.",
+  "duplicate_files": ["downloads/G/guru-animation-studio.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Guru Studio", "url": "https://en.wikipedia.org/wiki/Guru_Studio"},
+    {"title": "Guru Studio official site", "url": "https://www.gurustudio.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "nrk1",
+  "sha256": "2f32b8a410e8b70e78241a690a2821ec2439ed4fdb80855b30ea828281a4d87e",
+  "entity_name": "NRK1",
+  "aka": ["NRK Fjernsynet"],
+  "type": "broadcast-network",
+  "country": "NO",
+  "founded": "1960",
+  "defunct": null,
+  "parent_company": "NRK (Norsk rikskringkasting)",
+  "official_website": "https://tv.nrk.no/",
+  "wikipedia": "https://en.wikipedia.org/wiki/NRK1",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Flagship public-service television channel of NRK, the Norwegian state broadcaster; broadcasts news, drama, entertainment and sports.",
+  "duplicate_files": ["downloads/N/nrk1.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - NRK1", "url": "https://en.wikipedia.org/wiki/NRK1"},
+    {"title": "NRK TV official site", "url": "https://tv.nrk.no/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

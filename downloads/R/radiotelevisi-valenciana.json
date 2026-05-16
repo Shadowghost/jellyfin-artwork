@@ -1,0 +1,24 @@
+{
+  "slug": "radiotelevisi-valenciana",
+  "sha256": "3391c02a0bd7f27211934641a1f64ba3fdc5877f68f4cc2eea58af0f7a3aaf77",
+  "entity_name": "Radiotelevisió Valenciana",
+  "aka": ["RTVV", "Canal Nou", "Nou Televisió"],
+  "type": "broadcast-network",
+  "country": "ES",
+  "founded": "1984",
+  "defunct": "2013",
+  "parent_company": "Generalitat Valenciana",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Radiotelevisi%C3%B3_Valenciana",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Public broadcaster of the Valencian Community in Spain, operating the Canal Nou TV channels and Ràdio Nou; shut down in November 2013 after financial crisis layoffs.",
+  "duplicate_files": ["downloads/R/radiotelevisi-valenciana.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Radiotelevisió Valenciana", "url": "https://en.wikipedia.org/wiki/Radiotelevisi%C3%B3_Valenciana"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

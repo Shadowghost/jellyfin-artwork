@@ -1,0 +1,26 @@
+{
+  "slug": "tribeca-film",
+  "sha256": "7f7245bacba69818ad0506c3140c8cf55bcdd07c079d6faa5735b3107ef9785f",
+  "entity_name": "Tribeca Film",
+  "aka": ["Tribeca Films"],
+  "type": "distributor",
+  "country": "US",
+  "founded": "2010",
+  "defunct": null,
+  "parent_company": "Tribeca Enterprises",
+  "official_website": "https://tribecafilm.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Tribeca_Film",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film distribution label of Tribeca Enterprises, founded by Robert De Niro and Jane Rosenthal.",
+  "duplicate_files": [
+    "downloads/T/tribeca-film.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Tribeca Film", "url": "https://en.wikipedia.org/wiki/Tribeca_Film"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

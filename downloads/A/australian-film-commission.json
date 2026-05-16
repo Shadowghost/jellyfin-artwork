@@ -1,0 +1,24 @@
+{
+  "slug": "australian-film-commission",
+  "sha256": "ecec7d51d378b3332d63ba7589bb3c6973a4a6268965d65a3ef2b309509ba005",
+  "entity_name": "Australian Film Commission",
+  "aka": ["AFC"],
+  "type": "government-agency",
+  "country": "AU",
+  "founded": "1975",
+  "defunct": "2008",
+  "parent_company": "Australian Government (merged into Screen Australia in 2008)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Australian_Film_Commission",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Australian federal government agency for film support; merged into Screen Australia in 2008.",
+  "duplicate_files": ["downloads/A/australian-film-commission.svg", "downloads/T/the-australian-film-commission.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Australian Film Commission", "url": "https://en.wikipedia.org/wiki/Australian_Film_Commission"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

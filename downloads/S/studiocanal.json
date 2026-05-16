@@ -1,0 +1,30 @@
+{
+  "slug": "studiocanal",
+  "sha256": "d897dc3719f03ad5c5586ddb52e21cf4ff9e1618c61a8b780e038d9e4cc56896",
+  "entity_name": "StudioCanal",
+  "aka": ["Studio Canal", "StudioCanal UK", "Anton Capital Entertainment (related)"],
+  "type": "studio",
+  "country": "FR",
+  "founded": "1988",
+  "defunct": null,
+  "parent_company": "Canal+ Group (Vivendi/Canal+)",
+  "official_website": "https://www.studiocanal.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/StudioCanal",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "French film studio and distributor owned by Canal+ Group, one of the largest film libraries in Europe with operations in France, UK, Germany and beyond.",
+  "duplicate_files": [
+    "downloads/A/anton-capital-entertainment.svg",
+    "downloads/S/studio-canal.svg",
+    "downloads/S/studiocanal-uk.svg",
+    "downloads/S/studiocanal.svg"
+  ],
+  "duplicate_count": 4,
+  "sources": [
+    {"title": "Wikipedia – StudioCanal", "url": "https://en.wikipedia.org/wiki/StudioCanal"},
+    {"title": "StudioCanal official", "url": "https://www.studiocanal.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

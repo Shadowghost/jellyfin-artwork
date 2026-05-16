@@ -1,0 +1,27 @@
+{
+  "slug": "new-line",
+  "sha256": "a4b5621b5bdae53047a5cc89c1447c6fb3ce03179772351f596783f9167e02be",
+  "entity_name": "New Line Cinema",
+  "aka": ["New Line"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1967",
+  "defunct": null,
+  "parent_company": "Warner Bros. Discovery",
+  "official_website": "https://www.newline.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/New_Line_Cinema",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film production studio and division of Warner Bros. Pictures Group, known for The Lord of the Rings trilogy, A Nightmare on Elm Street, and the Conjuring franchise.",
+  "duplicate_files": [
+    "downloads/N/new-line-cinema.svg",
+    "downloads/N/new-line.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – New Line Cinema", "url": "https://en.wikipedia.org/wiki/New_Line_Cinema"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "incaa",
+  "sha256": "e0b601e4cd3867e95d883a88a27118dc55614e21454f1d9052b0f22a8a5b86b3",
+  "entity_name": "Instituto Nacional de Cine y Artes Audiovisuales",
+  "aka": ["INCAA"],
+  "type": "government-agency",
+  "country": "AR",
+  "founded": "1957",
+  "defunct": null,
+  "parent_company": "Ministerio de Cultura de Argentina",
+  "official_website": "https://www.argentina.gob.ar/cultura/incaa",
+  "wikipedia": "https://en.wikipedia.org/wiki/Instituto_Nacional_de_Cine_y_Artes_Audiovisuales",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Argentine government agency responsible for fostering and regulating film and audiovisual arts.",
+  "duplicate_files": ["downloads/I/incaa.svg", "downloads/I/instituto-nacional-de-cine-y-artes-audiovisuales-incaa.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - INCAA", "url": "https://en.wikipedia.org/wiki/Instituto_Nacional_de_Cine_y_Artes_Audiovisuales"},
+    {"title": "INCAA official", "url": "https://www.argentina.gob.ar/cultura/incaa"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

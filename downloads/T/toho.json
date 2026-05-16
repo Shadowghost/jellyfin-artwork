@@ -1,0 +1,32 @@
+{
+  "slug": "toho",
+  "sha256": "47091287113ef52dd292c509436cc552114a1c57b1ec27a1d4eecada099c1f03",
+  "entity_name": "Toho",
+  "aka": ["Toho Co., Ltd.", "Toho Company", "Toho Animation", "Toho Global", "Toho Towa"],
+  "type": "studio",
+  "country": "JP",
+  "founded": "1932",
+  "defunct": null,
+  "parent_company": "Hankyu Hanshin Holdings",
+  "official_website": "https://www.toho.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Toho",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese film, theatre production and distribution company headquartered in Tokyo; producer of the Godzilla franchise, Studio Ghibli releases, and many of the country's top-grossing anime films.",
+  "duplicate_files": [
+    "downloads/T/toho-animation.svg",
+    "downloads/T/toho-company-ltd.svg",
+    "downloads/T/toho-company.svg",
+    "downloads/T/toho-global.svg",
+    "downloads/T/toho-towa.svg",
+    "downloads/T/toho.svg"
+  ],
+  "duplicate_count": 6,
+  "sources": [
+    {"title": "Wikipedia – Toho", "url": "https://en.wikipedia.org/wiki/Toho"},
+    {"title": "Toho official site", "url": "https://www.toho.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

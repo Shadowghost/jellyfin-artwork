@@ -1,0 +1,24 @@
+{
+  "slug": "funimation-channel",
+  "sha256": "68998853283cb4e674d98db8535ea7e2a0a1260027f1265464dc191abac2e333",
+  "entity_name": "Funimation Channel",
+  "aka": ["Funimation"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "2005",
+  "defunct": "2016",
+  "parent_company": "Funimation (Sony Pictures Television)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Funimation_Channel",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American digital cable and satellite television channel that aired anime programming; relaunched as the streaming service Funimation, now folded into Crunchyroll.",
+  "duplicate_files": ["downloads/F/funimation-channel.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Funimation Channel", "url": "https://en.wikipedia.org/wiki/Funimation_Channel"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

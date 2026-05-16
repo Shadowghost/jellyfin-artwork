@@ -1,0 +1,29 @@
+{
+  "slug": "film4-productions",
+  "sha256": "13fa488fe6639b21f1eb2df7d3b454e57b9fb63dd61327730b51c2108b0eeffc",
+  "entity_name": "Film4 Productions",
+  "aka": ["Film4", "Channel Four Films", "FilmFour International"],
+  "type": "production-company",
+  "country": "GB",
+  "founded": "1982",
+  "defunct": null,
+  "parent_company": "Channel Four Television Corporation",
+  "official_website": "https://www.film4productions.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Film4_Productions",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British film production company owned by Channel Four; backed films including Slumdog Millionaire, 12 Years a Slave and Three Billboards.",
+  "duplicate_files": [
+    "downloads/C/channel-four-films.svg",
+    "downloads/F/film-four-international.svg",
+    "downloads/F/film4-productions.svg"
+  ],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia – Film4 Productions", "url": "https://en.wikipedia.org/wiki/Film4_Productions"},
+    {"title": "Film4 official", "url": "https://www.film4productions.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "shochiku",
+  "sha256": "5abc9e2aa9f08b2b51431430ac411468eda6646c62ceef7877e91da7d3b088cc",
+  "entity_name": "Shochiku Co., Ltd.",
+  "aka": ["Shochiku", "松竹"],
+  "type": "studio",
+  "country": "JP",
+  "founded": "1895",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.shochiku.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Shochiku",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "One of Japan's 'big four' film studios and entertainment companies, producing and distributing films, kabuki theatre and television since the late 19th century.",
+  "duplicate_files": [
+    "downloads/S/shochiku-co-ltd.svg",
+    "downloads/S/shochiku-co.svg",
+    "downloads/S/shochiku.svg"
+  ],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia - Shochiku", "url": "https://en.wikipedia.org/wiki/Shochiku"},
+    {"title": "Shochiku official site", "url": "https://www.shochiku.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

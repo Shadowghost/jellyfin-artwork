@@ -1,0 +1,24 @@
+{
+  "slug": "disneytoon-studios",
+  "sha256": "c37a23da6662ab2e00762f5fddd52c6adbbe2e6b03312951302c455225ee706a",
+  "entity_name": "DisneyToon Studios",
+  "aka": ["DisneyToon", "Disney MovieToons"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1990",
+  "defunct": "2018",
+  "parent_company": "The Walt Disney Company",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/DisneyToon_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American animation studio that produced direct-to-video sequels and theatrical animated films for The Walt Disney Company, closed in 2018.",
+  "duplicate_files": ["downloads/D/disneytoon-studios.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - DisneyToon Studios", "url": "https://en.wikipedia.org/wiki/DisneyToon_Studios"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

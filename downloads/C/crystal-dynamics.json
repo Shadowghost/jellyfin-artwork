@@ -1,0 +1,25 @@
+{
+  "slug": "crystal-dynamics",
+  "sha256": "5e0927bdec925621481cfd707d0bbddd52edb5afc48850b643b0e1114a5a795e",
+  "entity_name": "Crystal Dynamics",
+  "aka": [],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1992",
+  "defunct": null,
+  "parent_company": "Embracer Group",
+  "official_website": "https://crystald.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Crystal_Dynamics",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American video game developer known for the Tomb Raider and Legacy of Kain series.",
+  "duplicate_files": ["downloads/C/crystal-dynamics.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Crystal Dynamics", "url": "https://en.wikipedia.org/wiki/Crystal_Dynamics"},
+    {"title": "Crystal Dynamics official", "url": "https://crystald.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

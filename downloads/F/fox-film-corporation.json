@@ -1,0 +1,24 @@
+{
+  "slug": "fox-film-corporation",
+  "sha256": "c352838d3ee1bb1f88d9c4e9d224cb2176a2073872c7401142fb499f7ca4bb92",
+  "entity_name": "Fox Film Corporation",
+  "aka": ["Fox Film"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1915",
+  "defunct": "1935",
+  "parent_company": null,
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Fox_Film",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film production company founded in 1915 by William Fox; merged with Twentieth Century Pictures in 1935 to form 20th Century Fox.",
+  "duplicate_files": ["downloads/F/fox-film-corporation.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Fox Film", "url": "https://en.wikipedia.org/wiki/Fox_Film"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

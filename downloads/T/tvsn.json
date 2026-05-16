@@ -1,0 +1,25 @@
+{
+  "slug": "tvsn",
+  "sha256": "1913d388d1c1100c260d05f7ca28c1e3515d590db7021f16ef1be7350f63292b",
+  "entity_name": "TVSN",
+  "aka": ["TVSN Australia", "Television Shopping Network"],
+  "type": "cable-network",
+  "country": "AU",
+  "founded": "1995",
+  "defunct": null,
+  "parent_company": "Direct Group Pty Ltd",
+  "official_website": "https://www.tvsn.com.au/",
+  "wikipedia": "https://en.wikipedia.org/wiki/TVSN",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Australian home shopping television channel broadcasting in Australia and New Zealand, owned by Direct Group; airs on Foxtel and free-to-air digital platforms.",
+  "duplicate_files": ["downloads/T/tvsn.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - TVSN", "url": "https://en.wikipedia.org/wiki/TVSN"},
+    {"title": "TVSN official site", "url": "https://www.tvsn.com.au/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

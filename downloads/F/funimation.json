@@ -1,0 +1,26 @@
+{
+  "slug": "funimation",
+  "sha256": "2087d7228e93811dd9ebada09a2b440e00409ae6653063d090aa06fa1c0e35f2",
+  "entity_name": "Funimation",
+  "aka": ["Funimation Entertainment", "Funimation Global Group"],
+  "type": "distributor",
+  "country": "US",
+  "founded": "1994",
+  "defunct": "2024",
+  "parent_company": "Sony Pictures Entertainment (Crunchyroll, LLC)",
+  "official_website": "https://www.funimation.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Funimation",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Funimation Purple", "hex": "#5B0F8C"}
+  ],
+  "logo_usage": null,
+  "description": "American entertainment company specializing in dubbing, licensing and distributing East Asian media, particularly anime; merged into Crunchyroll in 2024.",
+  "duplicate_files": ["downloads/F/funimation-entertainment.svg", "downloads/F/funimation-global-group.svg", "downloads/F/funimation.svg"],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia - Funimation", "url": "https://en.wikipedia.org/wiki/Funimation"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

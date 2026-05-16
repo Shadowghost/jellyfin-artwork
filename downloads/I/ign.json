@@ -1,0 +1,27 @@
+{
+  "slug": "ign",
+  "sha256": "e0e0569c3ae3a4fcdc1120a054ff2acbce11e42670b31d1495b1d802dea04fab",
+  "entity_name": "IGN",
+  "aka": ["IGN Entertainment", "Imagine Games Network"],
+  "type": "publisher",
+  "country": "US",
+  "founded": "1996",
+  "defunct": null,
+  "parent_company": "Ziff Davis",
+  "official_website": "https://www.ign.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/IGN",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "IGN Red", "hex": "#BF1313"}
+  ],
+  "logo_usage": null,
+  "description": "American video game and entertainment media company headquartered in San Francisco, founded in 1996; publishes reviews, news, video and previews of games, films and TV.",
+  "duplicate_files": ["downloads/I/ign.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – IGN", "url": "https://en.wikipedia.org/wiki/IGN"},
+    {"title": "IGN official site", "url": "https://www.ign.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "yousee",
+  "sha256": "806d61dd0fd54a3389b073d3f226e189f31253215c1c98ec6c48a9f59f8fa38e",
+  "entity_name": "YouSee",
+  "aka": [],
+  "type": "other",
+  "country": "DK",
+  "founded": "2007",
+  "defunct": null,
+  "parent_company": "TDC Group / Nuuday",
+  "official_website": "https://www.yousee.dk/",
+  "wikipedia": "https://en.wikipedia.org/wiki/YouSee",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Danish cable television, broadband internet, mobile and IPTV provider owned by TDC/Nuuday.",
+  "duplicate_files": ["downloads/Y/yousee.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – YouSee", "url": "https://en.wikipedia.org/wiki/YouSee"},
+    {"title": "YouSee official", "url": "https://www.yousee.dk/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

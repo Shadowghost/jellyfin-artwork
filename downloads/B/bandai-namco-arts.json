@@ -1,0 +1,25 @@
+{
+  "slug": "bandai-namco-arts",
+  "sha256": "a0a6667305781dffbac9975d37dd3687901b67da569a6967d2eed530325b4306",
+  "entity_name": "Bandai Namco Arts",
+  "aka": ["バンダイナムコアーツ", "BNA"],
+  "type": "record-label",
+  "country": "JP",
+  "founded": "2018",
+  "defunct": "2022",
+  "parent_company": "Bandai Namco Holdings",
+  "official_website": "https://www.bandainamcoarts.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Bandai_Namco_Filmworks",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese music and video distributor under Bandai Namco; merged with Sunrise in 2022 to form Bandai Namco Filmworks.",
+  "duplicate_files": ["downloads/B/bandai-namco-arts.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Bandai Namco Filmworks", "url": "https://en.wikipedia.org/wiki/Bandai_Namco_Filmworks"},
+    {"title": "Bandai Namco Arts official", "url": "https://www.bandainamcoarts.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

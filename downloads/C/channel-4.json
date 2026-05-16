@@ -1,0 +1,26 @@
+{
+  "slug": "channel-4",
+  "sha256": "5d51b5931f5d84ebf61b9d948b56ec76f0cf777c378aef3d285f167e8f3d415a",
+  "entity_name": "Channel 4",
+  "aka": ["Channel Four", "Channel 4 Television"],
+  "type": "broadcast-network",
+  "country": "GB",
+  "founded": "1982",
+  "defunct": null,
+  "parent_company": "Channel Four Television Corporation",
+  "official_website": "https://www.channel4.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Channel_4",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Channel 4 Teal", "hex": "#1AB0AE"}
+  ],
+  "logo_usage": null,
+  "description": "British free-to-air public-service television network, launched in 1982 and owned by the publicly-owned Channel Four Television Corporation.",
+  "duplicate_files": ["downloads/C/channel-4-television.svg", "downloads/C/channel-4.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Channel 4", "url": "https://en.wikipedia.org/wiki/Channel_4"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

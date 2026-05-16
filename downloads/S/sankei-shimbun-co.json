@@ -1,0 +1,25 @@
+{
+  "slug": "sankei-shimbun-co",
+  "sha256": "ddd9f0afe02a1478cb4026dc791b10282590a53a999b6a62208bcbfef7f237bb",
+  "entity_name": "Sankei Shimbun Co., Ltd.",
+  "aka": ["Sankei", "産経新聞"],
+  "type": "publisher",
+  "country": "JP",
+  "founded": "1933",
+  "defunct": null,
+  "parent_company": "Fujisankei Communications Group",
+  "official_website": "https://www.sankei.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sankei_Shimbun",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese national daily newspaper published by The Sankei Shimbun Co., part of the Fujisankei Communications Group.",
+  "duplicate_files": ["downloads/S/sankei-shimbun-co.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Sankei Shimbun", "url": "https://en.wikipedia.org/wiki/Sankei_Shimbun"},
+    {"title": "Sankei official site", "url": "https://www.sankei.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

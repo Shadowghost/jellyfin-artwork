@@ -1,0 +1,26 @@
+{
+  "slug": "vice-studios",
+  "sha256": "fc3964b98787d3419ae2dfa4b48409d29b773c8a46ce54e8d58a2f53aea5f6a6",
+  "entity_name": "Vice Studios",
+  "aka": ["VICE Studios"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2016",
+  "defunct": null,
+  "parent_company": "Vice Media Group",
+  "official_website": "https://www.vicestudios.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Vice_Media",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Vice Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "Film and television production division of Vice Media, producing scripted and unscripted content for cinema, TV, and streaming platforms.",
+  "duplicate_files": ["downloads/V/vice-studios.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Vice Media", "url": "https://en.wikipedia.org/wiki/Vice_Media"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

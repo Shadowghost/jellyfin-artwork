@@ -1,0 +1,24 @@
+{
+  "slug": "ici-l-productions",
+  "sha256": "f9f8ebf522f24414d0e19ca2c46658f06d5fb7a78c2b6a4b4901d1c6897d67fc",
+  "entity_name": "Ici Là Productions",
+  "aka": ["Ici-Là Productions"],
+  "type": "production-company",
+  "country": "FR",
+  "founded": null,
+  "defunct": null,
+  "parent_company": null,
+  "official_website": null,
+  "wikipedia": null,
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "French independent audiovisual/film production company; limited public information available.",
+  "duplicate_files": ["downloads/I/ici-l-productions.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "TMDb company search - Ici Là Productions", "url": "https://www.themoviedb.org/search/company?query=Ici+L%C3%A0+Productions"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "low"
+}

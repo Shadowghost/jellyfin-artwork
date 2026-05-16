@@ -1,0 +1,26 @@
+{
+  "slug": "iwate-asahi-tv",
+  "sha256": "a7d823eb1d27e0bff5c3d7ba11a39a878df49a596998ebc4a2175dd24acceb69",
+  "entity_name": "Iwate Asahi Television",
+  "aka": ["IAT", "JOIY-DTV"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1995",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.iat.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Iwate_Asahi_Television",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial television broadcaster in Iwate Prefecture, affiliated with TV Asahi's All-Nippon News Network.",
+  "duplicate_files": [
+    "downloads/I/iwate-asahi-tv.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Iwate Asahi Television", "url": "https://en.wikipedia.org/wiki/Iwate_Asahi_Television"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

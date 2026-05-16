@@ -1,0 +1,28 @@
+{
+  "slug": "the-new-york-times",
+  "sha256": "f03d1a6f5b3c22358edb5c6c1cef80babd61afd1bc20cbdc33c91fcfa643f9c9",
+  "entity_name": "The New York Times",
+  "aka": ["NYT", "The Times", "NY Times"],
+  "type": "news",
+  "country": "US",
+  "founded": "1851",
+  "defunct": null,
+  "parent_company": "The New York Times Company",
+  "official_website": "https://www.nytimes.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/The_New_York_Times",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "NYT Black", "hex": "#000000"},
+    {"name": "NYT White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": null,
+  "description": "American daily newspaper based in New York City, founded in 1851; also produces documentary films and the FX/Hulu docu-series The Weekly.",
+  "duplicate_files": ["downloads/T/the-new-york-times.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – The New York Times", "url": "https://en.wikipedia.org/wiki/The_New_York_Times"},
+    {"title": "The New York Times official site", "url": "https://www.nytimes.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

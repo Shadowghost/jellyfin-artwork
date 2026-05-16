@@ -1,0 +1,25 @@
+{
+  "slug": "animax",
+  "sha256": "e5011ef0de05b3715419d6f6c5eb09159a467b639a633ef36090503e5e2cfea1",
+  "entity_name": "Animax",
+  "aka": ["Animax Broadcast Japan"],
+  "type": "cable-network",
+  "country": "JP",
+  "founded": "1998",
+  "defunct": null,
+  "parent_company": "Sony Pictures Entertainment Japan",
+  "official_website": "https://www.animax.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Animax",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese anime satellite television network owned by Sony Pictures Entertainment Japan, distributed across Asia, Europe, and Latin America.",
+  "duplicate_files": ["downloads/A/animax-broadcast-japan.svg", "downloads/A/animax.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Animax", "url": "https://en.wikipedia.org/wiki/Animax"},
+    {"title": "Animax official site", "url": "https://www.animax.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

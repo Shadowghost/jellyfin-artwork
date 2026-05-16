@@ -1,0 +1,27 @@
+{
+  "slug": "mgm-studios",
+  "sha256": "e0f448b5fa73e795e3335ab3190278cc94600e022f1a58057f509e52b3bfdfbd",
+  "entity_name": "Amazon MGM Studios",
+  "aka": ["MGM Studios", "Metro-Goldwyn-Mayer", "MGM"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1924",
+  "defunct": null,
+  "parent_company": "Amazon",
+  "official_website": "https://www.mgm.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Amazon_MGM_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "MGM Gold", "hex": "#C99A3B"},
+    {"name": "MGM Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "American film and television production company, founded as Metro-Goldwyn-Mayer in 1924; acquired by Amazon in 2022 and rebranded as Amazon MGM Studios.",
+  "duplicate_files": ["downloads/A/amazon-mgm-studios.svg", "downloads/M/mgm-studios.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Amazon MGM Studios", "url": "https://en.wikipedia.org/wiki/Amazon_MGM_Studios"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

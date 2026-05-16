@@ -1,0 +1,27 @@
+{
+  "slug": "sega",
+  "sha256": "e48955832863a2fd700cfeb8c33712de74e1ad42f6d47c280e6f42d37328374f",
+  "entity_name": "Sega",
+  "aka": ["SEGA", "Sega of Japan", "Sega of America"],
+  "type": "production-company",
+  "country": "JP",
+  "founded": "1960",
+  "defunct": null,
+  "parent_company": "Sega Sammy Holdings",
+  "official_website": "https://www.sega.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sega",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Sega Blue", "hex": "#0089CF"}
+  ],
+  "logo_usage": null,
+  "description": "Japanese multinational video game and entertainment company headquartered in Tokyo, subsidiary of Sega Sammy Holdings.",
+  "duplicate_files": ["downloads/S/sega-of-america.svg", "downloads/S/sega-of-japan.svg", "downloads/S/sega.svg"],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia - Sega", "url": "https://en.wikipedia.org/wiki/Sega"},
+    {"title": "Sega official", "url": "https://www.sega.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

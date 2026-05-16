@@ -1,0 +1,25 @@
+{
+  "slug": "digital-domain",
+  "sha256": "13ffbbcf1ac3bd77396b7b4a576d971b59a4404cd01ca72fd4cc5191650a3dc2",
+  "entity_name": "Digital Domain",
+  "aka": ["DD"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1993",
+  "defunct": null,
+  "parent_company": "Sun Innovation Holdings",
+  "official_website": "https://www.digitaldomain.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Digital_Domain",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American visual effects and digital production company founded by James Cameron, Stan Winston, and Scott Ross.",
+  "duplicate_files": ["downloads/D/digital-domain.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Digital Domain", "url": "https://en.wikipedia.org/wiki/Digital_Domain"},
+    {"title": "Digital Domain official site", "url": "https://www.digitaldomain.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

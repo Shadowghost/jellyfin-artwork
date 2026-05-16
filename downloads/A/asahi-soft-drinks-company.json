@@ -1,0 +1,27 @@
+{
+  "slug": "asahi-soft-drinks-company",
+  "sha256": "2670724ab08e736e8a09b13ccd41fb263a081dedb5ceb1eaf549e2f20decd802",
+  "entity_name": "Asahi Soft Drinks Co., Ltd.",
+  "aka": ["Asahi Soft Drinks", "アサヒ飲料"],
+  "type": "other",
+  "country": "JP",
+  "founded": "1982",
+  "defunct": null,
+  "parent_company": "Asahi Group Holdings",
+  "official_website": "https://www.asahiinryo.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Asahi_Soft_Drinks",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Asahi Red", "hex": "#E60012"}
+  ],
+  "logo_usage": null,
+  "description": "Japanese soft drink manufacturer and subsidiary of Asahi Group Holdings; appears as a media sponsor/producer for Japanese anime and TV content.",
+  "duplicate_files": ["downloads/A/asahi-soft-drinks-company.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Asahi Soft Drinks", "url": "https://en.wikipedia.org/wiki/Asahi_Soft_Drinks"},
+    {"title": "Asahi Soft Drinks official site", "url": "https://www.asahiinryo.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

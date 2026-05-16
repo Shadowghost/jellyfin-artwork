@@ -1,0 +1,28 @@
+{
+  "slug": "espn",
+  "sha256": "5a490e781b1f8d8efeb87c50400a44b696a27d508c8e38e57a3ebcd51d1d789a",
+  "entity_name": "ESPN",
+  "aka": ["Entertainment and Sports Programming Network", "ESPN Films"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1979",
+  "defunct": null,
+  "parent_company": "The Walt Disney Company (80%) / Hearst Communications (20%)",
+  "official_website": "https://www.espn.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/ESPN",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "ESPN Red", "hex": "#D90000"},
+    {"name": "ESPN Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "American multinational sports broadcasting network; ESPN Films is its documentary and film production unit, known for the 30 for 30 series.",
+  "duplicate_files": ["downloads/E/espn-films.svg", "downloads/E/espn.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – ESPN", "url": "https://en.wikipedia.org/wiki/ESPN"},
+    {"title": "ESPN official", "url": "https://www.espn.com"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

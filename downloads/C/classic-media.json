@@ -1,0 +1,24 @@
+{
+  "slug": "classic-media",
+  "sha256": "b6e525b2a53470fea7cf8b4125606e96a055e617638c7463535ff98e6dcd2d81",
+  "entity_name": "Classic Media",
+  "aka": ["Classic Media Productions"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2000",
+  "defunct": "2012",
+  "parent_company": "DreamWorks Animation (acquired 2012); since 2016 part of NBCUniversal as DreamWorks Classics",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/DreamWorks_Classics",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American media company that owned a library of classic family entertainment properties (Rocky and Bullwinkle, Casper, Lassie, Lone Ranger); acquired by DreamWorks Animation in 2012 and renamed DreamWorks Classics.",
+  "duplicate_files": ["downloads/C/classic-media-productions.svg", "downloads/C/classic-media.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – DreamWorks Classics", "url": "https://en.wikipedia.org/wiki/DreamWorks_Classics"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

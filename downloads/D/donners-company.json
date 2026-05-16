@@ -1,0 +1,24 @@
+{
+  "slug": "donners-company",
+  "sha256": "95d493d9d8cf90d64acdec958825f588d31b66dafb779d1c87943581ad556138",
+  "entity_name": "The Donners' Company",
+  "aka": ["Donners' Company", "Donner/Shuler-Donner Productions"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1985",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/The_Donners%27_Company",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film production company founded by Richard Donner and Lauren Shuler Donner, known for producing the X-Men film series.",
+  "duplicate_files": ["downloads/D/donners-company.svg", "downloads/T/the-donners-company.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – The Donners' Company", "url": "https://en.wikipedia.org/wiki/The_Donners%27_Company"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

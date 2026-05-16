@@ -1,0 +1,24 @@
+{
+  "slug": "sony-music",
+  "sha256": "3242cb4ffcf0d0d98ff9b321c49aecb4d647cbcad68fcfa8fde983b684f0350c",
+  "entity_name": "Sony Music Entertainment",
+  "aka": ["Sony Music", "SME"],
+  "type": "record-label",
+  "country": "US",
+  "founded": "1929",
+  "defunct": null,
+  "parent_company": "Sony Group Corporation (Sony Music Group)",
+  "official_website": "https://www.sonymusic.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sony_Music",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American multinational music company owned by Sony; one of the 'big three' record companies along with Universal Music Group and Warner Music Group.",
+  "duplicate_files": ["downloads/S/sony-music-entertainment.svg", "downloads/S/sony-music.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Sony Music", "url": "https://en.wikipedia.org/wiki/Sony_Music"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

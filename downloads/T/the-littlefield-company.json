@@ -1,0 +1,24 @@
+{
+  "slug": "the-littlefield-company",
+  "sha256": "f3fec0a2775a5dd5773c9f672cc95b027b8e2960b582c7e63bfc71ac9ee34048",
+  "entity_name": "The Littlefield Company",
+  "aka": ["Littlefield Company"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2017",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": null,
+  "wikipedia": null,
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Television production company founded by former NBC Entertainment executive Warren Littlefield, known for series such as Fargo, The Handmaid's Tale and The Old Man.",
+  "duplicate_files": ["downloads/T/the-littlefield-company.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Warren Littlefield", "url": "https://en.wikipedia.org/wiki/Warren_Littlefield"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

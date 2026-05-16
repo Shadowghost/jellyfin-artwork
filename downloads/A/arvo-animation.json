@@ -1,0 +1,25 @@
+{
+  "slug": "arvo-animation",
+  "sha256": "05b71704a3af1882bbc9cf2b5239037bcee8ef34ae84aea23e9208582141bb53",
+  "entity_name": "Arvo Animation",
+  "aka": ["ArVo Animation", "アーヴォ"],
+  "type": "studio",
+  "country": "JP",
+  "founded": "2017",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://arvo-animation.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Arvo_Animation",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese anime studio founded by former Diomedea staff.",
+  "duplicate_files": ["downloads/A/arvo-animation.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Arvo Animation", "url": "https://en.wikipedia.org/wiki/Arvo_Animation"},
+    {"title": "Arvo Animation official site", "url": "https://arvo-animation.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

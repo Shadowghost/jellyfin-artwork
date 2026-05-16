@@ -1,0 +1,27 @@
+{
+  "slug": "embassy-productions",
+  "sha256": "f2624f7bf1cc8019be8aee98e562849d4a73764a9c54eda596f0bb2f2ca4a1d0",
+  "entity_name": "Embassy Productions",
+  "aka": ["Embassy Pictures", "Avco Embassy Pictures"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1942",
+  "defunct": "1986",
+  "parent_company": "Avco (1968-1982), Coca-Cola (1985-1986)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Embassy_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American independent film production and distribution company founded by Joseph E. Levine; became Avco Embassy Pictures after Avco acquisition in 1968.",
+  "duplicate_files": [
+    "downloads/A/avco-embassy-pictures.svg",
+    "downloads/E/embassy-productions.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Embassy Pictures", "url": "https://en.wikipedia.org/wiki/Embassy_Pictures"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

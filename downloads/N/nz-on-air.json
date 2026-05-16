@@ -1,0 +1,25 @@
+{
+  "slug": "nz-on-air",
+  "sha256": "68e389329fb44abe6772a3f6757ed5d24db296d146c342c79d42a5d69ebd710a",
+  "entity_name": "NZ On Air",
+  "aka": ["New Zealand On Air", "Irirangi Te Motu"],
+  "type": "government-agency",
+  "country": "NZ",
+  "founded": "1989",
+  "defunct": null,
+  "parent_company": "New Zealand Government",
+  "official_website": "https://www.nzonair.govt.nz",
+  "wikipedia": "https://en.wikipedia.org/wiki/NZ_On_Air",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "New Zealand Crown entity that funds public-interest broadcasting, including local television, music, radio, and online media content.",
+  "duplicate_files": ["downloads/N/nz-on-air.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – NZ On Air", "url": "https://en.wikipedia.org/wiki/NZ_On_Air"},
+    {"title": "NZ On Air official", "url": "https://www.nzonair.govt.nz"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

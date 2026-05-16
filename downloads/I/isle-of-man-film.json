@@ -1,0 +1,24 @@
+{
+  "slug": "isle-of-man-film",
+  "sha256": "bd7c673acacf50a201df4c624324928921b5219eb214c9d19ae221f272ae3ceb",
+  "entity_name": "Isle of Man Film",
+  "aka": ["IOM Film", "Isle of Man Film Ltd"],
+  "type": "government-agency",
+  "country": "IM",
+  "founded": "1995",
+  "defunct": null,
+  "parent_company": "Isle of Man Government",
+  "official_website": "https://www.iomfilm.co.im/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Isle_of_Man_Film",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Isle of Man government-backed film investment and promotion body that co-funded over 100 feature films shot on the island.",
+  "duplicate_files": ["downloads/I/isle-of-man-film.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Isle of Man Film", "url": "https://en.wikipedia.org/wiki/Isle_of_Man_Film"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

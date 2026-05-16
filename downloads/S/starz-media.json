@@ -1,0 +1,24 @@
+{
+  "slug": "starz-media",
+  "sha256": "2a0ce6c7f78427bf18f6df8f4a92a485b56306ab1e3e4484f70c188f222cdb00",
+  "entity_name": "Starz Media",
+  "aka": ["Starz Entertainment"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2006",
+  "defunct": null,
+  "parent_company": "Lionsgate (Starz Inc.)",
+  "official_website": "https://www.starz.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Starz_Inc.",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American media production and distribution unit of Starz Inc., producing and distributing film and television content for the Starz premium network and home entertainment markets.",
+  "duplicate_files": ["downloads/S/starz-media.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Starz Inc.", "url": "https://en.wikipedia.org/wiki/Starz_Inc."}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

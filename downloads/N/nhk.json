@@ -1,0 +1,32 @@
+{
+  "slug": "nhk",
+  "sha256": "f1286b1bdc3012c4b89dfd8f2a0dce571c9af11d3325b130d8de56a45899c7a9",
+  "entity_name": "NHK (Japan Broadcasting Corporation)",
+  "aka": ["NHK", "Japan Broadcasting Corporation", "日本放送協会", "NHK BS Premium", "NHK BS1", "NHK BS2", "NHK Enterprises"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1926",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.nhk.or.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/NHK",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japan's public broadcaster, operating multiple terrestrial, satellite, and international television and radio channels and their subsidiary NHK Enterprises.",
+  "duplicate_files": [
+    "downloads/J/japan-broadcasting-corporation.svg",
+    "downloads/N/nhk-bs-premium.svg",
+    "downloads/N/nhk-bs1.svg",
+    "downloads/N/nhk-bs2.svg",
+    "downloads/N/nhk-enterprises.svg",
+    "downloads/N/nhk.svg"
+  ],
+  "duplicate_count": 6,
+  "sources": [
+    {"title": "Wikipedia – NHK", "url": "https://en.wikipedia.org/wiki/NHK"},
+    {"title": "NHK official", "url": "https://www.nhk.or.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

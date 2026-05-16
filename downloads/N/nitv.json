@@ -1,0 +1,25 @@
+{
+  "slug": "nitv",
+  "sha256": "af0344c14f6bb0c2ad38b83d5555b780bd20f1c9706cfd7ceedd7c3c2e834a2b",
+  "entity_name": "NITV",
+  "aka": ["National Indigenous Television"],
+  "type": "broadcast-network",
+  "country": "AU",
+  "founded": "2007",
+  "defunct": null,
+  "parent_company": "Special Broadcasting Service (SBS)",
+  "official_website": "https://www.sbs.com.au/nitv",
+  "wikipedia": "https://en.wikipedia.org/wiki/NITV",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Australian free-to-air television channel showcasing Indigenous Australian programming, run by SBS.",
+  "duplicate_files": ["downloads/N/nitv.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - NITV", "url": "https://en.wikipedia.org/wiki/NITV"},
+    {"title": "SBS - NITV", "url": "https://www.sbs.com.au/nitv"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

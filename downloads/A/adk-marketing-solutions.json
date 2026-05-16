@@ -1,0 +1,25 @@
+{
+  "slug": "adk-marketing-solutions",
+  "sha256": "0fe3091d836c7dff46322258b150d7cb1a8aeabfe145beb929ca2ebd3168b628",
+  "entity_name": "ADK Marketing Solutions",
+  "aka": ["ADK", "Asatsu-DK"],
+  "type": "production-company",
+  "country": "JP",
+  "founded": "1956",
+  "defunct": null,
+  "parent_company": "ADK Holdings",
+  "official_website": "https://www.adk.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Asatsu-DK",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese advertising/marketing company and anime production house, part of ADK Holdings (formerly Asatsu-DK).",
+  "duplicate_files": ["downloads/A/adk-marketing-solutions.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Asatsu-DK", "url": "https://en.wikipedia.org/wiki/Asatsu-DK"},
+    {"title": "ADK official site", "url": "https://www.adk.jp"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

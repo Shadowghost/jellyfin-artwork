@@ -1,0 +1,24 @@
+{
+  "slug": "colours-tv",
+  "sha256": "256b9fa214c7f88c4434b8bd24c9ad2d60fee8bc85f81681453f3c7bc78da087",
+  "entity_name": "Colors TV",
+  "aka": ["Colours TV", "Colors"],
+  "type": "cable-network",
+  "country": "IN",
+  "founded": "2008",
+  "defunct": null,
+  "parent_company": "Viacom18 (JioStar)",
+  "official_website": "https://www.voot.com/colors",
+  "wikipedia": "https://en.wikipedia.org/wiki/Colors_TV",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Indian Hindi-language general-entertainment pay-TV channel owned by Viacom18, launched in 2008 and known for reality and drama programming.",
+  "duplicate_files": ["downloads/C/colours-tv.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Colors TV", "url": "https://en.wikipedia.org/wiki/Colors_TV"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

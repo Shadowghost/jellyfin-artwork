@@ -1,0 +1,24 @@
+{
+  "slug": "indent-studios",
+  "sha256": "339abf384387c7e1fd02a6425e54da7a6b3b67a73f77ba1123323f55ea93ad17",
+  "entity_name": "Blue Sky Studios",
+  "aka": ["Blue Sky Studios", "Indent Studios"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1987",
+  "defunct": "2021",
+  "parent_company": "20th Century Studios (The Walt Disney Company)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Blue_Sky_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American computer animation film studio acquired by Disney through the 20th Century Fox purchase and shuttered in 2021; known for the Ice Age franchise and Rio. Logo appears to be shared with 'Indent Studios' per duplicate hash.",
+  "duplicate_files": ["downloads/B/blue-sky-studios.svg", "downloads/I/indent-studios.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Blue Sky Studios", "url": "https://en.wikipedia.org/wiki/Blue_Sky_Studios"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

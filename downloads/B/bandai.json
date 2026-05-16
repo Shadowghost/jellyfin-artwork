@@ -1,0 +1,26 @@
+{
+  "slug": "bandai",
+  "sha256": "968cfd354cd46729db84d2e5bae67a6e59a7a605234157c6c02fea966de712e7",
+  "entity_name": "Bandai Co., Ltd.",
+  "aka": ["Bandai", "株式会社バンダイ"],
+  "type": "other",
+  "country": "JP",
+  "founded": "1950",
+  "defunct": null,
+  "parent_company": "Bandai Namco Holdings",
+  "official_website": "https://www.bandai.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Bandai",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Bandai Red", "hex": "#E60012"}
+  ],
+  "logo_usage": null,
+  "description": "Japanese toy maker and a major subsidiary of Bandai Namco Holdings, with extensive involvement in anime production, merchandising, and licensing.",
+  "duplicate_files": ["downloads/B/bandai.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Bandai", "url": "https://en.wikipedia.org/wiki/Bandai"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

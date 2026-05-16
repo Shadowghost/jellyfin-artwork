@@ -1,0 +1,25 @@
+{
+  "slug": "nbc-news-studios",
+  "sha256": "7e35bcf88b96956c3fadc8ce3a78098420fa29f0cbd61dce93f94b0f79c7a08f",
+  "entity_name": "NBC News Studios",
+  "aka": [],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2020",
+  "defunct": null,
+  "parent_company": "NBCUniversal News Group (Comcast)",
+  "official_website": "https://www.nbcnews.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/NBC_News",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Long-form documentary and unscripted production unit within NBC News, producing series for streaming and theatrical release.",
+  "duplicate_files": ["downloads/N/nbc-news-studios.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – NBC News", "url": "https://en.wikipedia.org/wiki/NBC_News"},
+    {"title": "NBC News official site", "url": "https://www.nbcnews.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

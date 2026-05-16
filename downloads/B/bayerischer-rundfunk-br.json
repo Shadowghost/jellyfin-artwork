@@ -1,0 +1,27 @@
+{
+  "slug": "bayerischer-rundfunk-br",
+  "sha256": "3a05afef1569a7b6b685b8fe712a42c4e7ff5741358b3282a0a447ad94dd35da",
+  "entity_name": "Bayerischer Rundfunk",
+  "aka": ["BR", "Bavarian Broadcasting"],
+  "type": "broadcast-network",
+  "country": "DE",
+  "founded": "1949",
+  "defunct": null,
+  "parent_company": "ARD",
+  "official_website": "https://www.br.de/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Bayerischer_Rundfunk",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "BR Blue", "hex": "#005EB8"}
+  ],
+  "logo_usage": null,
+  "description": "Public-service radio and television broadcaster for the German state of Bavaria, member of ARD.",
+  "duplicate_files": ["downloads/B/bayerischer-rundfunk-br.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Bayerischer Rundfunk", "url": "https://en.wikipedia.org/wiki/Bayerischer_Rundfunk"},
+    {"title": "BR official site", "url": "https://www.br.de/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

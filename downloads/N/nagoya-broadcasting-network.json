@@ -1,0 +1,24 @@
+{
+  "slug": "nagoya-broadcasting-network",
+  "sha256": "8a8f4841dd76ab162ee163f9ad7f712ea48d5d3d50382868115a728e90dddbd1",
+  "entity_name": "Nagoya Broadcasting Network",
+  "aka": ["NBN", "Nagoya TV", "名古屋テレビ放送"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1962",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.nagoyatv.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Nagoya_Broadcasting_Network",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese television station based in Nagoya, Aichi, affiliated with TV Asahi's All-Nippon News Network (ANN).",
+  "duplicate_files": ["downloads/N/nagoya-broadcasting-network.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Nagoya Broadcasting Network", "url": "https://en.wikipedia.org/wiki/Nagoya_Broadcasting_Network"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

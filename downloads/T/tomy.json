@@ -1,0 +1,27 @@
+{
+  "slug": "tomy",
+  "sha256": "100b85759c415ab0843ff5c51686132238f4defc4fbe843316158729ace34d07",
+  "entity_name": "Tomy Company, Ltd.",
+  "aka": ["Tomy", "Takara Tomy", "TOMY"],
+  "type": "other",
+  "country": "JP",
+  "founded": "1924",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.takaratomy.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Tomy",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Tomy Red", "hex": "#E60012"}
+  ],
+  "logo_usage": null,
+  "description": "Japanese entertainment and toy company, famous for Tomica, Plarail, Beyblade, Zoids; co-produces anime and films tied to its toy franchises.",
+  "duplicate_files": ["downloads/T/tomy.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Tomy", "url": "https://en.wikipedia.org/wiki/Tomy"},
+    {"title": "Takara Tomy official site", "url": "https://www.takaratomy.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

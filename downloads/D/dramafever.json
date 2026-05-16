@@ -1,0 +1,24 @@
+{
+  "slug": "dramafever",
+  "sha256": "c988d7acd90ad3d56e98cdb6dbc98c7cb449c491e60c8f2934a7e002874a5038",
+  "entity_name": "DramaFever",
+  "aka": [],
+  "type": "streaming-service",
+  "country": "US",
+  "founded": "2009",
+  "defunct": "2018",
+  "parent_company": "Warner Bros. Digital Networks (formerly)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/DramaFever",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American streaming video service that distributed K-dramas and other international content; acquired by Warner Bros. and shut down in 2018.",
+  "duplicate_files": ["downloads/D/dramafever.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - DramaFever", "url": "https://en.wikipedia.org/wiki/DramaFever"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

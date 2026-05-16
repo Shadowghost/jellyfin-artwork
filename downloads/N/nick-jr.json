@@ -1,0 +1,26 @@
+{
+  "slug": "nick-jr",
+  "sha256": "86ac69541f2dc66f652d3f60865a178b6443af483b3a0150500c75f55889cf99",
+  "entity_name": "Nick Jr.",
+  "aka": ["Nick Jr. Channel", "Noggin (former)"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1988",
+  "defunct": null,
+  "parent_company": "Paramount Global",
+  "official_website": "https://www.nickjr.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Nick_Jr.",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Nick Jr. Orange", "hex": "#F8971D"}
+  ],
+  "logo_usage": null,
+  "description": "American preschool-focused cable channel and programming block operated by Paramount's Nickelodeon group, originating as a daytime block on Nickelodeon in 1988.",
+  "duplicate_files": ["downloads/N/nick-jr.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Nick Jr.", "url": "https://en.wikipedia.org/wiki/Nick_Jr."}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

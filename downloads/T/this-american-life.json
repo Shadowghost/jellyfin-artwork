@@ -1,0 +1,25 @@
+{
+  "slug": "this-american-life",
+  "sha256": "d862220197daf555f8025b889f8330a9af8db6809c922a5dd1a163cf0c621da0",
+  "entity_name": "This American Life",
+  "aka": ["TAL"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1995",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.thisamericanlife.org",
+  "wikipedia": "https://en.wikipedia.org/wiki/This_American_Life",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American weekly hour-long radio program and podcast hosted by Ira Glass, produced by WBEZ Chicago and distributed by Public Radio Exchange (PRX); also produced a Showtime television adaptation.",
+  "duplicate_files": ["downloads/T/this-american-life.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – This American Life", "url": "https://en.wikipedia.org/wiki/This_American_Life"},
+    {"title": "This American Life official site", "url": "https://www.thisamericanlife.org/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "belga-films",
+  "sha256": "2ea1a02fc6214b16bb50a00c17599268bb2a8af24665753c9e4334c2c0aa00fa",
+  "entity_name": "Belga Films",
+  "aka": ["Belga Productions"],
+  "type": "distributor",
+  "country": "BE",
+  "founded": "1989",
+  "defunct": null,
+  "parent_company": "Kinepolis Group",
+  "official_website": "https://www.belgafilms.be",
+  "wikipedia": "https://fr.wikipedia.org/wiki/Belga_Films",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Belgian film distribution and production company based in Brussels, distributing films for Universal, Lionsgate, and others in Benelux territories.",
+  "duplicate_files": [
+    "downloads/B/belga-films.svg",
+    "downloads/B/belga-productions.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Belga Films official site", "url": "https://www.belgafilms.be/"},
+    {"title": "Wikipedia (FR) - Belga Films", "url": "https://fr.wikipedia.org/wiki/Belga_Films"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

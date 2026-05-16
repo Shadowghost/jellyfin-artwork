@@ -1,0 +1,42 @@
+{
+  "slug": "bbc",
+  "sha256": "ddf192864e6dd3a5fb6b788f095d91795c8c0ce35f7e753a8acc8f5abfc1974e",
+  "entity_name": "British Broadcasting Corporation (BBC)",
+  "aka": ["BBC", "Beeb", "Auntie"],
+  "type": "broadcast-network",
+  "country": "GB",
+  "founded": "1922",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.bbc.co.uk",
+  "wikipedia": "https://en.wikipedia.org/wiki/BBC",
+  "brand_guidelines_url": "https://www.bbc.co.uk/branding",
+  "brand_colors": [
+    {"name": "BBC Black", "hex": "#000000"},
+    {"name": "BBC White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": "Three white blocks containing 'BBC' on black; reverse permitted in approved contexts. Strict separation rules per BBC brand guidelines.",
+  "description": "United Kingdom's public service broadcaster, the world's oldest national broadcaster; includes BBC Studios, BBC Films, and many subsidiary divisions.",
+  "duplicate_files": [
+    "downloads/B/bbc-bristol-productions.svg",
+    "downloads/B/bbc-film.svg",
+    "downloads/B/bbc-films.svg",
+    "downloads/B/bbc-lionheart-television.svg",
+    "downloads/B/bbc-studios-distribution.svg",
+    "downloads/B/bbc-studios-natural-history-unit.svg",
+    "downloads/B/bbc-studios.svg",
+    "downloads/B/bbc-television.svg",
+    "downloads/B/bbc-worldwide-france.svg",
+    "downloads/B/bbc-worldwide-productions.svg",
+    "downloads/B/bbc-worldwide.svg",
+    "downloads/B/bbc.svg",
+    "downloads/B/british-broadcasting-corporation-bbc.svg"
+  ],
+  "duplicate_count": 13,
+  "sources": [
+    {"title": "Wikipedia – BBC", "url": "https://en.wikipedia.org/wiki/BBC"},
+    {"title": "BBC official site", "url": "https://www.bbc.co.uk"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "sky-perfect-jsat",
+  "sha256": "ecbf9fdf1343a8931d84af1f283bbc630c610809e9bbd03e983624cbbb96fd10",
+  "entity_name": "SKY Perfect JSAT Group",
+  "aka": ["SKY Perfect JSAT", "SKY PerfecTV!"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "2007",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.skyperfectjsat.space/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sky_Perfect_JSAT_Group",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese satellite communications and broadcasting company, largest satellite operator in Asia, operates SKY PerfecTV! direct-broadcast satellite TV service.",
+  "duplicate_files": ["downloads/S/sky-perfect-jsat.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Sky Perfect JSAT Group", "url": "https://en.wikipedia.org/wiki/Sky_Perfect_JSAT_Group"},
+    {"title": "SKY Perfect JSAT official site", "url": "https://www.skyperfectjsat.space/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

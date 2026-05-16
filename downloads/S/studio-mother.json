@@ -1,0 +1,24 @@
+{
+  "slug": "studio-mother",
+  "sha256": "e83da153c83769045d837d057f8d7fa0a76681a7ef1cc98d92bfe24766535db7",
+  "entity_name": "Studio Mother",
+  "aka": ["studio MOTHER"],
+  "type": "studio",
+  "country": "JP",
+  "founded": "2019",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Studio_Mother",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese animation studio based in Suginami, Tokyo, founded in 2019 by former Xebec CEO Yukinao Shimoji.",
+  "duplicate_files": ["downloads/S/studio-mother.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Studio Mother", "url": "https://en.wikipedia.org/wiki/Studio_Mother"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

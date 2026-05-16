@@ -1,0 +1,25 @@
+{
+  "slug": "akita-shoten",
+  "sha256": "6739adb0a3c4649574b12b6e2d1918d6e98066ddf262248f029bcf436f1fb9ad",
+  "entity_name": "Akita Shoten",
+  "aka": ["Akita Publishing"],
+  "type": "publisher",
+  "country": "JP",
+  "founded": "1948",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.akitashoten.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Akita_Shoten",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese publishing company known for manga magazines including Shonen Champion.",
+  "duplicate_files": ["downloads/A/akita-shoten.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Akita Shoten", "url": "https://en.wikipedia.org/wiki/Akita_Shoten"},
+    {"title": "Akita Shoten official", "url": "https://www.akitashoten.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

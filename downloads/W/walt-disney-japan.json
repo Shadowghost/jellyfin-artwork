@@ -1,0 +1,31 @@
+{
+  "slug": "walt-disney-japan",
+  "sha256": "fe883dd6a1f32e5a033bf8ad5f5e9469efcf768279c8e567dafa7e2b0728cdf5",
+  "entity_name": "The Walt Disney Company (Japan / Home Entertainment)",
+  "aka": ["Walt Disney Japan", "Walt Disney Studios Home Entertainment", "Walt Disney Home Video", "Walt Disney Home Entertainment"],
+  "type": "distributor",
+  "country": "US",
+  "founded": "1980",
+  "defunct": null,
+  "parent_company": "The Walt Disney Company",
+  "official_website": "https://www.disney.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Walt_Disney_Studios_Home_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Home entertainment and regional (Japan) distribution arms of The Walt Disney Company.",
+  "duplicate_files": [
+    "downloads/T/the-walt-disney-company-japan.svg",
+    "downloads/W/walt-disney-home-entertainment.svg",
+    "downloads/W/walt-disney-home-video.svg",
+    "downloads/W/walt-disney-japan.svg",
+    "downloads/W/walt-disney-studios-home-entertainment.svg"
+  ],
+  "duplicate_count": 5,
+  "sources": [
+    {"title": "Wikipedia – Walt Disney Studios Home Entertainment", "url": "https://en.wikipedia.org/wiki/Walt_Disney_Studios_Home_Entertainment"},
+    {"title": "Wikipedia – The Walt Disney Company", "url": "https://en.wikipedia.org/wiki/The_Walt_Disney_Company"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

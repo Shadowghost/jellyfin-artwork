@@ -1,0 +1,27 @@
+{
+  "slug": "telefe",
+  "sha256": "0d7d47e54c1c76a746e593b766aa9d1cef66d53c7b18f81038046ece25849801",
+  "entity_name": "Telefe",
+  "aka": ["Televisión Federal", "Telefe Internacional"],
+  "type": "broadcast-network",
+  "country": "AR",
+  "founded": "1990",
+  "defunct": null,
+  "parent_company": "Paramount Global",
+  "official_website": "https://telefe.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Telefe",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Argentine free-to-air television network owned by Paramount Global, one of the major TV channels in Argentina.",
+  "duplicate_files": [
+    "downloads/T/telefe.svg",
+    "downloads/T/televisi-n-federal-telefe.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Telefe", "url": "https://en.wikipedia.org/wiki/Telefe"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

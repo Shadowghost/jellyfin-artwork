@@ -1,0 +1,25 @@
+{
+  "slug": "idbi-bank",
+  "sha256": "16eafe9576f0fea82e0de1ab3091accbf5bdafe1acd3db57dfa844eab6bdbe9b",
+  "entity_name": "IDBI Bank",
+  "aka": ["Industrial Development Bank of India"],
+  "type": "other",
+  "country": "IN",
+  "founded": "1964",
+  "defunct": null,
+  "parent_company": "Life Insurance Corporation of India",
+  "official_website": "https://www.idbibank.in/",
+  "wikipedia": "https://en.wikipedia.org/wiki/IDBI_Bank",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Indian commercial bank under the ownership of Life Insurance Corporation; not a media entity per se, but appears in production credits for some Indian films.",
+  "duplicate_files": ["downloads/I/idbi-bank.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – IDBI Bank", "url": "https://en.wikipedia.org/wiki/IDBI_Bank"},
+    {"title": "IDBI Bank official site", "url": "https://www.idbibank.in/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

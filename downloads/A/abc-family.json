@@ -1,0 +1,27 @@
+{
+  "slug": "abc-family",
+  "sha256": "4414c6e35159e8abdf6aa23341368d10c21bc4fee900d5389e53ccd015678583",
+  "entity_name": "ABC Family",
+  "aka": ["Freeform", "Freeform Studios", "Fox Family", "The Family Channel"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1977",
+  "defunct": null,
+  "parent_company": "Disney Entertainment (The Walt Disney Company)",
+  "official_website": "https://www.freeform.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Freeform_(TV_channel)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American pay television channel owned by Disney; rebranded from ABC Family to Freeform in 2016.",
+  "duplicate_files": [
+    "downloads/A/abc-family.svg",
+    "downloads/F/freeform-studios.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Freeform (TV channel)", "url": "https://en.wikipedia.org/wiki/Freeform_(TV_channel)"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

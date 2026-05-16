@@ -1,0 +1,27 @@
+{
+  "slug": "focus-features",
+  "sha256": "2c9ed433e84e2187170752d6e6c4af2c4c93b109a83dddc34218cdcd49c7eb06",
+  "entity_name": "Focus Features",
+  "aka": ["Focus", "Focus Films"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2002",
+  "defunct": null,
+  "parent_company": "NBCUniversal (Comcast)",
+  "official_website": "https://www.focusfeatures.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Focus_Features",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Focus Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "American film production and distribution company, a subsidiary of Universal Pictures focused on art house and independent films.",
+  "duplicate_files": ["downloads/F/focus-features.svg", "downloads/F/focus-films-limited.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Focus Features", "url": "https://en.wikipedia.org/wiki/Focus_Features"},
+    {"title": "Focus Features official site", "url": "https://www.focusfeatures.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

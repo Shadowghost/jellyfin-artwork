@@ -1,0 +1,25 @@
+{
+  "slug": "atomic-monster",
+  "sha256": "ce8559070f4790ed1ef34facff9300dffdf0d1be11577d83f3c6085e4fa154fd",
+  "entity_name": "Atomic Monster",
+  "aka": ["Atomic Monster Productions"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2014",
+  "defunct": null,
+  "parent_company": "Blumhouse Productions (merged 2024)",
+  "official_website": "https://atomicmonster.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Atomic_Monster_Productions",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American horror film and television production company founded by James Wan; merged with Blumhouse in 2024.",
+  "duplicate_files": ["downloads/A/atomic-monster.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Atomic Monster Productions", "url": "https://en.wikipedia.org/wiki/Atomic_Monster_Productions"},
+    {"title": "Atomic Monster official site", "url": "https://atomicmonster.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

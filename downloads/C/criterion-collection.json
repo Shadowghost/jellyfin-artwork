@@ -1,0 +1,29 @@
+{
+  "slug": "criterion-collection",
+  "sha256": "f9e9e672c1d11424b82640184ee39cc88e708c34058efaa0a5805725ebf26fd0",
+  "entity_name": "The Criterion Collection",
+  "aka": ["Criterion"],
+  "type": "distributor",
+  "country": "US",
+  "founded": "1984",
+  "defunct": null,
+  "parent_company": "Janus Films",
+  "official_website": "https://www.criterion.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/The_Criterion_Collection",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Criterion Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "American home video distribution company specializing in licensing and distributing classic and contemporary art-house films on DVD, Blu-ray, and streaming.",
+  "duplicate_files": [
+    "downloads/C/criterion-collection.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – The Criterion Collection", "url": "https://en.wikipedia.org/wiki/The_Criterion_Collection"},
+    {"title": "Criterion official site", "url": "https://www.criterion.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

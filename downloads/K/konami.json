@@ -1,0 +1,27 @@
+{
+  "slug": "konami",
+  "sha256": "6a464e37d88c0e1a3383d8b769ff6368f7d2606c43ffc44913f7975aee9738e9",
+  "entity_name": "Konami",
+  "aka": ["Konami Group", "Konami Holdings Corporation"],
+  "type": "production-company",
+  "country": "JP",
+  "founded": "1969",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.konami.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Konami",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Konami Red", "hex": "#D90017"}
+  ],
+  "logo_usage": null,
+  "description": "Japanese multinational video game and entertainment company known for franchises such as Metal Gear, Castlevania, and Silent Hill.",
+  "duplicate_files": ["downloads/K/konami.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Konami", "url": "https://en.wikipedia.org/wiki/Konami"},
+    {"title": "Konami official site", "url": "https://www.konami.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

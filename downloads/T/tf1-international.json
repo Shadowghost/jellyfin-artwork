@@ -1,0 +1,25 @@
+{
+  "slug": "tf1-international",
+  "sha256": "3d77d344ed22e10900497d0de8660062c91b1d4ee8977d4a7e8acb9cbcc1fa26",
+  "entity_name": "TF1 International",
+  "aka": ["TF1 Films Production", "TF1 Droits Audiovisuels", "TF1 Studio"],
+  "type": "distributor",
+  "country": "FR",
+  "founded": "1980",
+  "defunct": null,
+  "parent_company": "Groupe TF1 (Bouygues)",
+  "official_website": "https://www.groupe-tf1.fr/",
+  "wikipedia": "https://en.wikipedia.org/wiki/TF1_Group",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Film and audiovisual rights division of France's TF1 Group, encompassing TF1 Films Production (theatrical co-production), TF1 International / TF1 Droits Audiovisuels (international sales) and related labels.",
+  "duplicate_files": ["downloads/T/tf1-droits-audiovisuels.svg", "downloads/T/tf1-films-production.svg", "downloads/T/tf1-films-productions.svg", "downloads/T/tf1-international.svg"],
+  "duplicate_count": 4,
+  "sources": [
+    {"title": "Wikipedia - TF1 Group", "url": "https://en.wikipedia.org/wiki/TF1_Group"},
+    {"title": "Groupe TF1 official site", "url": "https://www.groupe-tf1.fr/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

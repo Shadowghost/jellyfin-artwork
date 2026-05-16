@@ -1,0 +1,25 @@
+{
+  "slug": "pbs-kids",
+  "sha256": "df8cb230d93663e2f67faa160b05e7897dea735509db3855ef20778c41c104f5",
+  "entity_name": "PBS Kids",
+  "aka": ["PBS KIDS"],
+  "type": "broadcast-network",
+  "country": "US",
+  "founded": "1994",
+  "defunct": null,
+  "parent_company": "Public Broadcasting Service",
+  "official_website": "https://pbskids.org/",
+  "wikipedia": "https://en.wikipedia.org/wiki/PBS_Kids",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American children's programming brand of Public Broadcasting Service (PBS), including a 24-hour TV channel and digital streaming platform.",
+  "duplicate_files": ["downloads/P/pbs-kids.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – PBS Kids", "url": "https://en.wikipedia.org/wiki/PBS_Kids"},
+    {"title": "PBS Kids official site", "url": "https://pbskids.org/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "defa-studio-f-r-spielfilme",
+  "sha256": "c87aa171f830e6382385d9eb9cdf0e4ab3d3b105ba10815b02eb838a7c5e3f1e",
+  "entity_name": "DEFA-Studio für Spielfilme",
+  "aka": ["DEFA"],
+  "type": "studio",
+  "country": "DE",
+  "founded": "1946",
+  "defunct": "1992",
+  "parent_company": "Deutsche Film AG (DEFA)",
+  "official_website": "https://www.defa-stiftung.de/",
+  "wikipedia": "https://en.wikipedia.org/wiki/DEFA",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "East German state-owned film studio that produced feature films during the German Democratic Republic era from 1946 to reunification.",
+  "duplicate_files": ["downloads/D/defa-studio-f-r-spielfilme.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – DEFA", "url": "https://en.wikipedia.org/wiki/DEFA"},
+    {"title": "DEFA-Stiftung", "url": "https://www.defa-stiftung.de/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

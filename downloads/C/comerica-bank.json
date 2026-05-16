@@ -1,0 +1,27 @@
+{
+  "slug": "comerica-bank",
+  "sha256": "c2e93e00b251cd968d3ba3786251ac2a3f671d6c5a11a29ee5498d5e4e748679",
+  "entity_name": "Comerica Bank",
+  "aka": ["Comerica Incorporated"],
+  "type": "other",
+  "country": "US",
+  "founded": "1849",
+  "defunct": null,
+  "parent_company": "Comerica Incorporated",
+  "official_website": "https://www.comerica.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Comerica",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Comerica Red", "hex": "#C8102E"}
+  ],
+  "logo_usage": null,
+  "description": "American financial services company headquartered in Dallas, Texas; the largest bank holding company headquartered in Texas and one of the 25 largest US banks.",
+  "duplicate_files": ["downloads/C/comerica-bank.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Comerica", "url": "https://en.wikipedia.org/wiki/Comerica"},
+    {"title": "Comerica Bank official site", "url": "https://www.comerica.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "toho-pictures",
+  "sha256": "deb21c9e241d785c944b1a44d04d8d7ee45c69616e8e08a8d3aea76fc5f1a30c",
+  "entity_name": "Toho Pictures",
+  "aka": ["Toho Pictures, Inc.", "東宝映画"],
+  "type": "production-company",
+  "country": "JP",
+  "founded": "1971",
+  "defunct": null,
+  "parent_company": "Toho",
+  "official_website": "https://www.toho.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Toho",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese film production subsidiary of Toho Co., Ltd., one of the major film studios in Japan; producer of Godzilla, Shin Godzilla, Your Name and many live-action features.",
+  "duplicate_files": ["downloads/T/toho-pictures-inc.svg", "downloads/T/toho-pictures.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Toho", "url": "https://en.wikipedia.org/wiki/Toho"},
+    {"title": "Toho official site", "url": "https://www.toho.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

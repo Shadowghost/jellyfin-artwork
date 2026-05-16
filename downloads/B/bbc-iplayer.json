@@ -1,0 +1,27 @@
+{
+  "slug": "bbc-iplayer",
+  "sha256": "2f87f454bdcd8e0099871a93af02bdd479fb729f252b74cae8ff8cce214f350e",
+  "entity_name": "BBC iPlayer",
+  "aka": ["iPlayer"],
+  "type": "streaming-service",
+  "country": "GB",
+  "founded": "2007",
+  "defunct": null,
+  "parent_company": "BBC",
+  "official_website": "https://www.bbc.co.uk/iplayer",
+  "wikipedia": "https://en.wikipedia.org/wiki/BBC_iPlayer",
+  "brand_guidelines_url": "https://www.bbc.co.uk/gel",
+  "brand_colors": [
+    {"name": "BBC Pink", "hex": "#FF4A98"}
+  ],
+  "logo_usage": "BBC trademark usage governed by BBC brand guidelines (GEL).",
+  "description": "The BBC's video on demand and live streaming service for UK audiences.",
+  "duplicate_files": ["downloads/B/bbc-iplayer.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – BBC iPlayer", "url": "https://en.wikipedia.org/wiki/BBC_iPlayer"},
+    {"title": "BBC iPlayer", "url": "https://www.bbc.co.uk/iplayer"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

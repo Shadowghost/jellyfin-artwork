@@ -1,0 +1,25 @@
+{
+  "slug": "unimas",
+  "sha256": "513a75276fc53e2ce27e583c195334838237dab3f57f2b0b6d0370adda369a7d",
+  "entity_name": "UniMás",
+  "aka": ["TeleFutura"],
+  "type": "broadcast-network",
+  "country": "US",
+  "founded": "2002",
+  "defunct": null,
+  "parent_company": "TelevisaUnivision",
+  "official_website": "https://www.unimas.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/UniMás",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American Spanish-language free-to-air television network owned by TelevisaUnivision.",
+  "duplicate_files": ["downloads/U/unimas.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - UniMás", "url": "https://en.wikipedia.org/wiki/UniM%C3%A1s"},
+    {"title": "UniMás official", "url": "https://www.unimas.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

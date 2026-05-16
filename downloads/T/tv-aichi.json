@@ -1,0 +1,25 @@
+{
+  "slug": "tv-aichi",
+  "sha256": "24b744735f666c21b369fe2d34d7dda4198f205bd0dd10c2ab9a4c6b63fe1743",
+  "entity_name": "TV Aichi",
+  "aka": ["TVA", "テレビ愛知"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1983",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://tv-aichi.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/TV_Aichi",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese television station based in Nagoya, Aichi Prefecture, affiliated with the TXN network (TV Tokyo); broadcasts anime, news, and general entertainment.",
+  "duplicate_files": ["downloads/T/tv-aichi.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - TV Aichi", "url": "https://en.wikipedia.org/wiki/TV_Aichi"},
+    {"title": "TV Aichi official site", "url": "https://tv-aichi.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

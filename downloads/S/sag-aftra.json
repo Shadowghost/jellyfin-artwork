@@ -1,0 +1,25 @@
+{
+  "slug": "sag-aftra",
+  "sha256": "ba64264b06a0337cdd5561ce2ec4d7e5ea26b9e66765dc94ff2b37f1605e98b1",
+  "entity_name": "SAG-AFTRA",
+  "aka": ["Screen Actors Guild-American Federation of Television and Radio Artists"],
+  "type": "other",
+  "country": "US",
+  "founded": "2012",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.sagaftra.org",
+  "wikipedia": "https://en.wikipedia.org/wiki/SAG-AFTRA",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American labor union representing approximately 160,000 film and television actors, broadcast journalists, recording artists and other media professionals; formed in 2012 by the merger of SAG and AFTRA.",
+  "duplicate_files": ["downloads/S/sag-aftra.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – SAG-AFTRA", "url": "https://en.wikipedia.org/wiki/SAG-AFTRA"},
+    {"title": "SAG-AFTRA official site", "url": "https://www.sagaftra.org/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

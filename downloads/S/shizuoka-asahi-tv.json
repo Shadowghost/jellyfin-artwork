@@ -1,0 +1,25 @@
+{
+  "slug": "shizuoka-asahi-tv",
+  "sha256": "a2e20ec08820bd57d948afe4c56270b65224a836c28cdc50accdc1d9fd1e71db",
+  "entity_name": "Shizuoka Asahi Television",
+  "aka": ["SATV", "静岡朝日テレビ"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1978",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.satv.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Shizuoka_Asahi_Television",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial broadcaster headquartered in Shizuoka City; affiliate of the All-Nippon News Network (TV Asahi).",
+  "duplicate_files": ["downloads/S/shizuoka-asahi-television.svg", "downloads/S/shizuoka-asahi-tv.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Shizuoka Asahi Television", "url": "https://en.wikipedia.org/wiki/Shizuoka_Asahi_Television"},
+    {"title": "SATV official site", "url": "https://www.satv.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

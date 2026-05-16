@@ -1,0 +1,25 @@
+{
+  "slug": "ncrv",
+  "sha256": "695031f25ccfc9f431100123f89a1914526f3063e3b9017e39dd4efc02f32825",
+  "entity_name": "NCRV",
+  "aka": ["Nederlandse Christelijke Radio Vereniging", "Dutch Christian Radio Association"],
+  "type": "broadcast-network",
+  "country": "NL",
+  "founded": "1924",
+  "defunct": "2014",
+  "parent_company": "KRO-NCRV (since 2014)",
+  "official_website": "https://kro-ncrv.nl/",
+  "wikipedia": "https://en.wikipedia.org/wiki/NCRV",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Dutch Protestant public broadcaster founded in 1924 as one of the earliest pillarised broadcasters; merged with KRO in 2014 to form KRO-NCRV.",
+  "duplicate_files": ["downloads/N/ncrv.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – NCRV", "url": "https://en.wikipedia.org/wiki/NCRV"},
+    {"title": "Wikipedia – KRO-NCRV", "url": "https://en.wikipedia.org/wiki/KRO-NCRV"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

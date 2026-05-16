@@ -1,0 +1,28 @@
+{
+  "slug": "madison-23",
+  "sha256": "5a5cd01750edf7a47ccfa806e81470963014b2a2ea9116b32c44e5191af257d3",
+  "entity_name": "Happy Madison Productions",
+  "aka": ["Madison 23", "Happy Madison"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1999",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Happy_Madison_Productions",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film and television production company founded by Adam Sandler; Madison 23 is the affiliated TV production banner.",
+  "duplicate_files": [
+    "downloads/H/happy-madison-productions.svg",
+    "downloads/H/happy-madison.svg",
+    "downloads/M/madison-23.svg"
+  ],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia – Happy Madison Productions", "url": "https://en.wikipedia.org/wiki/Happy_Madison_Productions"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

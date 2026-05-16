@@ -1,0 +1,25 @@
+{
+  "slug": "netmarble",
+  "sha256": "0e931b0b4e0a7bac27dd453a1ecf2fdda519ab1bce0a5eef40a80dc5fc2d48dc",
+  "entity_name": "Netmarble",
+  "aka": ["Netmarble Corporation", "넷마블"],
+  "type": "other",
+  "country": "KR",
+  "founded": "2000",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://company.netmarble.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Netmarble",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "South Korean mobile game developer and publisher headquartered in Seoul, known for games such as Marvel Future Fight and Lineage 2: Revolution.",
+  "duplicate_files": ["downloads/N/netmarble.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Netmarble", "url": "https://en.wikipedia.org/wiki/Netmarble"},
+    {"title": "Netmarble official site", "url": "https://company.netmarble.com"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

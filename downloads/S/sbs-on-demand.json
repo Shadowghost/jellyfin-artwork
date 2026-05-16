@@ -1,0 +1,25 @@
+{
+  "slug": "sbs-on-demand",
+  "sha256": "88b772b8bf9aba3afef1dfcb6a179835ed0982cb72a8f9281cbd5d8f04c46f70",
+  "entity_name": "SBS On Demand",
+  "aka": ["SBS OnDemand"],
+  "type": "streaming-service",
+  "country": "AU",
+  "founded": "2008",
+  "defunct": null,
+  "parent_company": "Special Broadcasting Service (SBS)",
+  "official_website": "https://www.sbs.com.au/ondemand",
+  "wikipedia": "https://en.wikipedia.org/wiki/SBS_On_Demand",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Free over-the-top streaming service operated by Australia's Special Broadcasting Service; offers SBS channel content, foreign-language films, documentaries and original programming.",
+  "duplicate_files": ["downloads/S/sbs-on-demand.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - SBS On Demand", "url": "https://en.wikipedia.org/wiki/SBS_On_Demand"},
+    {"title": "SBS On Demand official site", "url": "https://www.sbs.com.au/ondemand"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "asahi-broadcasting-aomori",
+  "sha256": "6440ba2447f6461f6bee750fa4c0936a82896b3ddb873826bda1ff1b502ebb52",
+  "entity_name": "Asahi Broadcasting Aomori",
+  "aka": ["ABA", "青森朝日放送", "Aomori Asahi Broadcasting"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1991",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.aba-net.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Asahi_Broadcasting_Aomori",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial television broadcaster in Aomori Prefecture, affiliated with the All-Nippon News Network (ANN/TV Asahi).",
+  "duplicate_files": ["downloads/A/asahi-broadcasting-aomori.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Asahi Broadcasting Aomori", "url": "https://en.wikipedia.org/wiki/Asahi_Broadcasting_Aomori"},
+    {"title": "ABA official site", "url": "https://www.aba-net.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

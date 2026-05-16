@@ -1,0 +1,25 @@
+{
+  "slug": "mbc-south-japan-broadcasting",
+  "sha256": "a65ad8b709d9807ce5d2838eb7f9437f95f963e4af9e7d71fa247ac022b6a8ea",
+  "entity_name": "Minami-Nippon Broadcasting (MBC)",
+  "aka": ["MBC", "South Japan Broadcasting", "Minaminippon Hoso"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1953",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.mbc.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Minami-Nippon_Broadcasting",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial broadcaster based in Kagoshima Prefecture, affiliated with the JNN (TBS) television network and JRN (TBS Radio) radio network.",
+  "duplicate_files": ["downloads/M/mbc-south-japan-broadcasting.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Minami-Nippon Broadcasting", "url": "https://en.wikipedia.org/wiki/Minami-Nippon_Broadcasting"},
+    {"title": "MBC official site", "url": "https://www.mbc.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

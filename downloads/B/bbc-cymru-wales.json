@@ -1,0 +1,28 @@
+{
+  "slug": "bbc-cymru-wales",
+  "sha256": "1815108528ce4f11022859dcb9a9b32f9d48a501b134c64946b04383d54110fa",
+  "entity_name": "BBC Cymru Wales",
+  "aka": ["BBC Wales"],
+  "type": "broadcast-network",
+  "country": "GB",
+  "founded": "1964",
+  "defunct": null,
+  "parent_company": "BBC",
+  "official_website": "https://www.bbc.co.uk/cymruwales",
+  "wikipedia": "https://en.wikipedia.org/wiki/BBC_Cymru_Wales",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "BBC Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "BBC's national broadcasting division for Wales, producing television and radio content in both Welsh and English.",
+  "duplicate_files": [
+    "downloads/B/bbc-cymru-wales.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – BBC Cymru Wales", "url": "https://en.wikipedia.org/wiki/BBC_Cymru_Wales"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

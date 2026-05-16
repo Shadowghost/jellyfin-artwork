@@ -1,0 +1,27 @@
+{
+  "slug": "cnbc",
+  "sha256": "c6375f384ce030e202d9c548a30d3d166985bfe466702df855be45733d0e87a5",
+  "entity_name": "CNBC",
+  "aka": ["Consumer News and Business Channel"],
+  "type": "news",
+  "country": "US",
+  "founded": "1989",
+  "defunct": null,
+  "parent_company": "NBCUniversal (Comcast)",
+  "official_website": "https://www.cnbc.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/CNBC",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "CNBC Blue", "hex": "#005EB8"}
+  ],
+  "logo_usage": null,
+  "description": "American business and financial news television network owned by NBCUniversal.",
+  "duplicate_files": ["downloads/C/cnbc.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – CNBC", "url": "https://en.wikipedia.org/wiki/CNBC"},
+    {"title": "CNBC official site", "url": "https://www.cnbc.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

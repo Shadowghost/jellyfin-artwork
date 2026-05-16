@@ -1,0 +1,25 @@
+{
+  "slug": "rtl-plus",
+  "sha256": "e402e91229f8da817f4618bcc66a4e82c84f7c099df196bc3f0cb6687493bc31",
+  "entity_name": "RTL+",
+  "aka": ["RTL Plus", "TVNow"],
+  "type": "streaming-service",
+  "country": "DE",
+  "founded": "2012",
+  "defunct": null,
+  "parent_company": "RTL Deutschland (RTL Group / Bertelsmann)",
+  "official_website": "https://plus.rtl.de/",
+  "wikipedia": "https://en.wikipedia.org/wiki/RTL%2B",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "German subscription video on demand and live TV streaming service operated by RTL Deutschland; rebranded from TVNow in 2021.",
+  "duplicate_files": ["downloads/R/rtl-plus.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – RTL+", "url": "https://en.wikipedia.org/wiki/RTL%2B"},
+    {"title": "RTL+ official", "url": "https://plus.rtl.de/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

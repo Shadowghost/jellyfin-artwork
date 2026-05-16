@@ -1,0 +1,26 @@
+{
+  "slug": "cbs-all-access",
+  "sha256": "e293beb592e6f9846bc044d60944c1d68c713e049a8b3a16cadab19fe8e6ed87",
+  "entity_name": "CBS All Access",
+  "aka": ["CBS All Access", "Paramount+ (rebranded)"],
+  "type": "streaming-service",
+  "country": "US",
+  "founded": "2014",
+  "defunct": "2021",
+  "parent_company": "Paramount Global (formerly ViacomCBS)",
+  "official_website": "https://www.paramountplus.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Paramount%2B",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "CBS Blue", "hex": "#003C96"}
+  ],
+  "logo_usage": null,
+  "description": "American subscription video on-demand streaming service launched as CBS All Access in 2014, rebranded as Paramount+ in March 2021.",
+  "duplicate_files": ["downloads/C/cbs-all-access.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Paramount+", "url": "https://en.wikipedia.org/wiki/Paramount%2B"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

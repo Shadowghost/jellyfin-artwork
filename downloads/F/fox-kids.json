@@ -1,0 +1,24 @@
+{
+  "slug": "fox-kids",
+  "sha256": "16c611f690cce88f20888efc6d52ffbfa60f5cacf22b469376c73cbdbb2b4a53",
+  "entity_name": "Fox Kids",
+  "aka": ["Fox Children's Network", "FKN"],
+  "type": "broadcast-network",
+  "country": "US",
+  "founded": "1990",
+  "defunct": "2002",
+  "parent_company": "Fox Broadcasting Company / News Corporation",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Fox_Kids",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American children's programming block on Fox television and an associated cable network that aired from 1990 to 2002; later replaced by 4Kids TV and Jetix internationally.",
+  "duplicate_files": ["downloads/F/fox-kids.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Fox Kids", "url": "https://en.wikipedia.org/wiki/Fox_Kids"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

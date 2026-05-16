@@ -1,0 +1,28 @@
+{
+  "slug": "anchor-bay-films",
+  "sha256": "04a9c560cbcd1bef2cdf16815be47b3a8d82562f1455f9387e954829e2c69523",
+  "entity_name": "Anchor Bay Entertainment",
+  "aka": ["Anchor Bay Films", "Anchor Bay Home Entertainment"],
+  "type": "distributor",
+  "country": "US",
+  "founded": "1971",
+  "defunct": null,
+  "parent_company": "Starz Inc. (formerly)",
+  "official_website": "https://www.anchorbayent.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Anchor_Bay_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American home video distribution company specializing in genre films, particularly horror, with theatrical and television distribution divisions.",
+  "duplicate_files": [
+    "downloads/A/anchor-bay-entertainment.svg",
+    "downloads/A/anchor-bay-films.svg",
+    "downloads/A/anchor-bay-home-entertainment.svg"
+  ],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia – Anchor Bay Entertainment", "url": "https://en.wikipedia.org/wiki/Anchor_Bay_Entertainment"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

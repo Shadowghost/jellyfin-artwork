@@ -1,0 +1,24 @@
+{
+  "slug": "rkk-kumamoto-broadcasting",
+  "sha256": "09f5603de8036849acf5f6f2fd0d71199ba85982fdeaa29831fb1244df28e161",
+  "entity_name": "RKK Kumamoto Broadcasting",
+  "aka": ["RKK", "Kumamoto Broadcasting", "熊本放送"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1953",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://rkk.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Kumamoto_Broadcasting",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese television and radio station based in Kumamoto Prefecture, affiliated with the Japan News Network (JNN) and TBS.",
+  "duplicate_files": ["downloads/R/rkk-kumamoto-broadcasting.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Kumamoto Broadcasting", "url": "https://en.wikipedia.org/wiki/Kumamoto_Broadcasting"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

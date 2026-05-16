@@ -1,0 +1,25 @@
+{
+  "slug": "agbo",
+  "sha256": "d4799b655799328b6979671dbfd5b59bbbf34c7d331eba7517b94f334393f95f",
+  "entity_name": "AGBO",
+  "aka": ["AGBO Films", "AGBO Studios"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2017",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://agbo.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/AGBO",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American independent film and television production company founded by Anthony and Joe Russo, known for The Gray Man and Extraction.",
+  "duplicate_files": ["downloads/A/agbo.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - AGBO", "url": "https://en.wikipedia.org/wiki/AGBO"},
+    {"title": "AGBO official site", "url": "https://agbo.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

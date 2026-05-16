@@ -1,0 +1,25 @@
+{
+  "slug": "tvq-japan",
+  "sha256": "347aeda2b3ef59a29b2429eea42c696b135b1bd2d09deceb1377a5fe9fb5f229",
+  "entity_name": "TVQ Kyushu Broadcasting",
+  "aka": ["TVQ", "TXN Kyushu", "TVQ九州放送"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1989",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.tvq.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/TVQ_Kyushu_Broadcasting",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial TV broadcaster in Fukuoka serving Kyushu, affiliated with TV Tokyo's TXN network.",
+  "duplicate_files": ["downloads/T/tvq-japan.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – TVQ Kyushu Broadcasting", "url": "https://en.wikipedia.org/wiki/TVQ_Kyushu_Broadcasting"},
+    {"title": "TVQ official", "url": "https://www.tvq.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

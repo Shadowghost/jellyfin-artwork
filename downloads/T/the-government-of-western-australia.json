@@ -1,0 +1,28 @@
+{
+  "slug": "the-government-of-western-australia",
+  "sha256": "78fa94526b324d5c5549b370edadbf6006a64a3e38d3417b4deb8a2826b8b8a1",
+  "entity_name": "Government of Western Australia",
+  "aka": ["WA Government"],
+  "type": "government-agency",
+  "country": "AU",
+  "founded": "1890",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.wa.gov.au",
+  "wikipedia": "https://en.wikipedia.org/wiki/Government_of_Western_Australia",
+  "brand_guidelines_url": "https://www.wa.gov.au/government/publications/government-of-western-australia-brand-guidelines",
+  "brand_colors": [
+    {"name": "WA Black", "hex": "#000000"},
+    {"name": "WA Gold", "hex": "#FFD200"}
+  ],
+  "logo_usage": null,
+  "description": "Australian state government of Western Australia; provides film funding through Screenwest and credits in many WA-shot productions.",
+  "duplicate_files": ["downloads/T/the-government-of-western-australia.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Government of Western Australia", "url": "https://en.wikipedia.org/wiki/Government_of_Western_Australia"},
+    {"title": "WA Government official site", "url": "https://www.wa.gov.au"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "mandalay-vision",
+  "sha256": "f748e7b1a953b9c2c2a28faa45d6477701d8cc232c3990a71d162c8700aaf34e",
+  "entity_name": "Mandalay Pictures",
+  "aka": ["Mandalay Vision", "Mandalay Entertainment"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1995",
+  "defunct": null,
+  "parent_company": "Mandalay Entertainment Group",
+  "official_website": "https://www.mandalay.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Mandalay_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film production company founded by Peter Guber; Mandalay Vision is its independent-film label.",
+  "duplicate_files": ["downloads/M/mandalay-pictures.svg", "downloads/M/mandalay-vision.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Mandalay Pictures", "url": "https://en.wikipedia.org/wiki/Mandalay_Pictures"},
+    {"title": "Mandalay Entertainment official site", "url": "https://www.mandalay.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

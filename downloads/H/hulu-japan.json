@@ -1,0 +1,26 @@
+{
+  "slug": "hulu-japan",
+  "sha256": "2d027250ec843eb007a91bffac9caa36d93b1963c970641c599ea1ef1c71445b",
+  "entity_name": "Hulu Japan",
+  "aka": ["Hulu (Japan)"],
+  "type": "streaming-service",
+  "country": "JP",
+  "founded": "2011",
+  "defunct": null,
+  "parent_company": "Nippon TV (HJ Holdings)",
+  "official_website": "https://www.hulu.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Hulu_(Japan)",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Hulu Green", "hex": "#1CE783"}
+  ],
+  "logo_usage": null,
+  "description": "Japanese subscription video on-demand service originally launched as the Japanese branch of Hulu, sold to Nippon TV in 2014 and operated separately from the US service.",
+  "duplicate_files": ["downloads/H/hulu-japan.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Hulu (Japan)", "url": "https://en.wikipedia.org/wiki/Hulu_(Japan)"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

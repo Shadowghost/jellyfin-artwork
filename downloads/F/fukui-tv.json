@@ -1,0 +1,26 @@
+{
+  "slug": "fukui-tv",
+  "sha256": "e112a0ae475092f38d6311e885e2c4b4775018d5ec7f15d4bd7cf85f5e0abeab",
+  "entity_name": "Fukui Television Broadcasting",
+  "aka": ["Fukui TV", "FTB"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1969",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.fukui-tv.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Fukui_Television_Broadcasting",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese regional commercial television station based in Fukui Prefecture; affiliate of Fuji Network System / FNN.",
+  "duplicate_files": [
+    "downloads/F/fukui-tv.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Fukui Television Broadcasting", "url": "https://en.wikipedia.org/wiki/Fukui_Television_Broadcasting"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "moviepass-films",
+  "sha256": "93613b8c1934d8f5b7b486d0c8d0057c81cf2e61dd7018bad2c0d1aa860bd2ab",
+  "entity_name": "MoviePass Films",
+  "aka": ["MoviePass Ventures"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2018",
+  "defunct": "2020",
+  "parent_company": "Helios and Matheson Analytics (former)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/MoviePass",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Short-lived film production and distribution division of subscription-based movie theatre service MoviePass.",
+  "duplicate_files": ["downloads/M/moviepass-films.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – MoviePass", "url": "https://en.wikipedia.org/wiki/MoviePass"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "vicscreen",
+  "sha256": "781f08c34265522bde49ce1f9ab79c24b52d7469a5f79e7deec2800287a18ea5",
+  "entity_name": "VicScreen",
+  "aka": ["Film Victoria"],
+  "type": "government-agency",
+  "country": "AU",
+  "founded": "1976",
+  "defunct": null,
+  "parent_company": "Government of Victoria",
+  "official_website": "https://vicscreen.vic.gov.au/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Film_Victoria",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Victoria's state film and screen agency in Australia, supporting screen production and infrastructure; rebranded from Film Victoria in 2022.",
+  "duplicate_files": ["downloads/V/vicscreen.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Film Victoria", "url": "https://en.wikipedia.org/wiki/Film_Victoria"},
+    {"title": "VicScreen official site", "url": "https://vicscreen.vic.gov.au/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "norsk-filminstitutt",
+  "sha256": "2bba1cae2e254d08aa7b0ad62bb69e0cf78d05b495be9ae3d756d92743b9c1e6",
+  "entity_name": "Norwegian Film Institute",
+  "aka": ["Norsk filminstitutt", "NFI"],
+  "type": "government-agency",
+  "country": "NO",
+  "founded": "1955",
+  "defunct": null,
+  "parent_company": "Norwegian Ministry of Culture",
+  "official_website": "https://www.nfi.no/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Norwegian_Film_Institute",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Norwegian government agency supporting and promoting Norwegian film through funding, archives and international promotion.",
+  "duplicate_files": ["downloads/N/norsk-filminstitutt.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Norwegian Film Institute", "url": "https://en.wikipedia.org/wiki/Norwegian_Film_Institute"},
+    {"title": "NFI official", "url": "https://www.nfi.no/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

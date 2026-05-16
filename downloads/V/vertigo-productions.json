@@ -1,0 +1,24 @@
+{
+  "slug": "vertigo-productions",
+  "sha256": "e97c735f30e7b363693c607c4119fd7d87c9976e53f79e78a23db3bd6bf2d6bb",
+  "entity_name": "Vertigo Entertainment",
+  "aka": ["Vertigo Productions", "Vertigo"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2001",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://vertigoentertainment.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Vertigo_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film production company founded by Roy Lee and Doug Davison, known for remakes of Asian horror films and titles such as The Lego Movie and It.",
+  "duplicate_files": ["downloads/V/vertigo-entertainment.svg", "downloads/V/vertigo-productions.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Vertigo Entertainment", "url": "https://en.wikipedia.org/wiki/Vertigo_Entertainment"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

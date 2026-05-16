@@ -1,0 +1,33 @@
+{
+  "slug": "regency-films",
+  "sha256": "19c64c65a807099d8fd60e0047b469da603bb38cc3a2a8ebe4ccf54cc6624806",
+  "entity_name": "Regency Enterprises",
+  "aka": ["New Regency Pictures", "New Regency Productions", "Regency Films", "Regency International Pictures", "Regency Productions", "Regency Television"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1982",
+  "defunct": null,
+  "parent_company": "Privately held (Arnon Milchan)",
+  "official_website": "https://www.newregency.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Regency_Enterprises",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film, television and production company founded by Arnon Milchan, behind features such as Pretty Woman, Fight Club, The Revenant and Bohemian Rhapsody.",
+  "duplicate_files": [
+    "downloads/N/new-regency-pictures.svg",
+    "downloads/N/new-regency-productions.svg",
+    "downloads/R/regency-enterprises.svg",
+    "downloads/R/regency-films.svg",
+    "downloads/R/regency-international-pictures.svg",
+    "downloads/R/regency-productions.svg",
+    "downloads/R/regency-television.svg"
+  ],
+  "duplicate_count": 7,
+  "sources": [
+    {"title": "Wikipedia - Regency Enterprises", "url": "https://en.wikipedia.org/wiki/Regency_Enterprises"},
+    {"title": "New Regency official site", "url": "https://www.newregency.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

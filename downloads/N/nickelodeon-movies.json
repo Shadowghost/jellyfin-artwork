@@ -1,0 +1,26 @@
+{
+  "slug": "nickelodeon-movies",
+  "sha256": "407080db350e412088de9ed81578d3163b9f3cef87073acc9f7ffc64dfc5fa30",
+  "entity_name": "Nickelodeon Movies",
+  "aka": ["Nick Movies"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1995",
+  "defunct": null,
+  "parent_company": "Paramount Global / Nickelodeon",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Nickelodeon_Movies",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Nickelodeon Orange", "hex": "#F57D0D"}
+  ],
+  "logo_usage": null,
+  "description": "American film production company, the theatrical film label of Nickelodeon, behind films based on Nick TV properties and original family films.",
+  "duplicate_files": ["downloads/N/nickelodeon-movies.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Nickelodeon Movies", "url": "https://en.wikipedia.org/wiki/Nickelodeon_Movies"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

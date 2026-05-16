@@ -1,0 +1,25 @@
+{
+  "slug": "toon-city",
+  "sha256": "c165b8e3fb76d8dcfd3f518c4c48189d2a5a6757b3fd54a51954ae70a839c839",
+  "entity_name": "Toon City Animation",
+  "aka": ["Toon City"],
+  "type": "studio",
+  "country": "PH",
+  "founded": "1993",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.tooncity.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Toon_City",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Philippine animation studio based in Manila, providing animation services for Disney, Warner Bros., and other major studios.",
+  "duplicate_files": ["downloads/T/toon-city-animation.svg", "downloads/T/toon-city.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Toon City", "url": "https://en.wikipedia.org/wiki/Toon_City"},
+    {"title": "Toon City official site", "url": "https://www.tooncity.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

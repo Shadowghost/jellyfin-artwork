@@ -1,0 +1,25 @@
+{
+  "slug": "proximity-media",
+  "sha256": "cb31b10496b13ee4dabe9f08f59d6920f784e6a4f871bd806b061d5683b9afd5",
+  "entity_name": "Proximity Media",
+  "aka": ["Proximity"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2020",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://proximity-media.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Proximity_Media",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film, television and digital media production company founded by Ryan Coogler.",
+  "duplicate_files": ["downloads/P/proximity-media.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Proximity Media", "url": "https://en.wikipedia.org/wiki/Proximity_Media"},
+    {"title": "Proximity Media official site", "url": "https://proximity-media.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

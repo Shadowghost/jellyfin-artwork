@@ -1,0 +1,27 @@
+{
+  "slug": "queensland-government",
+  "sha256": "63cf7170818110dcde15c130c397fce46b0db17964eff42ea921ed3d56db578b",
+  "entity_name": "Queensland Government",
+  "aka": ["Government of Queensland"],
+  "type": "government-agency",
+  "country": "AU",
+  "founded": "1859",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.qld.gov.au/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Government_of_Queensland",
+  "brand_guidelines_url": "https://www.qld.gov.au/about/how-government-works/government-responsibilities/government-and-government-departments",
+  "brand_colors": [
+    {"name": "Queensland Maroon", "hex": "#7C1234"}
+  ],
+  "logo_usage": null,
+  "description": "State government of Queensland, Australia; appears in screen production credits via Screen Queensland funding.",
+  "duplicate_files": ["downloads/Q/queensland-government.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Government of Queensland", "url": "https://en.wikipedia.org/wiki/Government_of_Queensland"},
+    {"title": "Queensland Government official site", "url": "https://www.qld.gov.au/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "19-entertainment",
+  "sha256": "ef8b5fdf68efb7d0b52393efac4825b04ac1242f4b2b554de070dd9bddcb3b97",
+  "entity_name": "19 Entertainment",
+  "aka": ["19 Management", "19"],
+  "type": "production-company",
+  "country": "GB",
+  "founded": "1985",
+  "defunct": null,
+  "parent_company": "Star Dynasty (formerly CKX, Inc.)",
+  "official_website": "https://www.19.co.uk",
+  "wikipedia": "https://en.wikipedia.org/wiki/19_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British entertainment management and production company founded by Simon Fuller, known for the Idol franchise and managing the Spice Girls.",
+  "duplicate_files": ["downloads/0/19-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - 19 Entertainment", "url": "https://en.wikipedia.org/wiki/19_Entertainment"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

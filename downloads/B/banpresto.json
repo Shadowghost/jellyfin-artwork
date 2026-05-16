@@ -1,0 +1,26 @@
+{
+  "slug": "banpresto",
+  "sha256": "3ed6573d46db2f011b8298fe699b36add39f50d723216cb3a534b996dcf933b5",
+  "entity_name": "Banpresto",
+  "aka": ["Banpresto Co., Ltd."],
+  "type": "other",
+  "country": "JP",
+  "founded": "1977",
+  "defunct": null,
+  "parent_company": "Bandai Namco Holdings",
+  "official_website": "https://banpresto.bandainamco-mirai.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Banpresto",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese toy and amusement game company specializing in prize merchandise, owned by Bandai Namco.",
+  "duplicate_files": [
+    "downloads/B/banpresto.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Banpresto", "url": "https://en.wikipedia.org/wiki/Banpresto"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

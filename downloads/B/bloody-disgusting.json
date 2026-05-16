@@ -1,0 +1,26 @@
+{
+  "slug": "bloody-disgusting",
+  "sha256": "ffa0869026724597ceb843c3a07c233718da6ea8c9318a2866c1edbe6ef636d6",
+  "entity_name": "Bloody Disgusting",
+  "aka": ["Bloody Disgusting Selects", "BD"],
+  "type": "publisher",
+  "country": "US",
+  "founded": "2001",
+  "defunct": null,
+  "parent_company": "The Collective",
+  "official_website": "https://bloody-disgusting.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Bloody_Disgusting",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Bloody Red", "hex": "#C8102E"}
+  ],
+  "logo_usage": null,
+  "description": "American horror film website and entertainment brand covering horror news, reviews, and producing/distributing horror films through its Bloody Disgusting Selects label.",
+  "duplicate_files": ["downloads/B/bloody-disgusting-selects.svg", "downloads/B/bloody-disgusting.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Bloody Disgusting", "url": "https://en.wikipedia.org/wiki/Bloody_Disgusting"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

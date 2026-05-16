@@ -1,0 +1,25 @@
+{
+  "slug": "the-independent-film-channel",
+  "sha256": "566e95f62efb9e5ecd4bea2ac864db3dd9a9051b80b833f96e01dad2b914d48b",
+  "entity_name": "IFC (Independent Film Channel)",
+  "aka": ["The Independent Film Channel", "IFC TV"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1994",
+  "defunct": null,
+  "parent_company": "AMC Networks",
+  "official_website": "https://www.ifc.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/IFC_(American_TV_channel)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American basic cable television channel owned by AMC Networks, focused on independent film and comedy.",
+  "duplicate_files": ["downloads/T/the-independent-film-channel.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – IFC (American TV channel)", "url": "https://en.wikipedia.org/wiki/IFC_(American_TV_channel)"},
+    {"title": "IFC official site", "url": "https://www.ifc.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

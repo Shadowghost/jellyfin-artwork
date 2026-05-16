@@ -1,0 +1,26 @@
+{
+  "slug": "big-west",
+  "sha256": "d0dd4060094be5d5fac31a93eb8fbb686db2dd5b3d17337f879c55ef2b7f11a5",
+  "entity_name": "Big West",
+  "aka": ["Big West Advertising"],
+  "type": "production-company",
+  "country": "JP",
+  "founded": "1977",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.bigwest.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Big_West_(company)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese advertising and production company best known as the licensor of the Macross anime franchise.",
+  "duplicate_files": [
+    "downloads/B/big-west.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Big West (company)", "url": "https://en.wikipedia.org/wiki/Big_West_(company)"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

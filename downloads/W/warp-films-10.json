@@ -1,0 +1,25 @@
+{
+  "slug": "warp-films-10",
+  "sha256": "21b33966a84b4b3af0817a6a951c68a89ffbd9d1c8b38fd52fd4510ba583d1d5",
+  "entity_name": "Warp Films",
+  "aka": ["Warp"],
+  "type": "production-company",
+  "country": "GB",
+  "founded": "2002",
+  "defunct": null,
+  "parent_company": "Warp Records",
+  "official_website": "https://warpfilms.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Warp_Films",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British independent film production company associated with Warp Records, known for This is England, Submarine, '71, and Tyrannosaur.",
+  "duplicate_files": ["downloads/W/warp-films-10.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Warp Films", "url": "https://en.wikipedia.org/wiki/Warp_Films"},
+    {"title": "Warp Films official site", "url": "https://warpfilms.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

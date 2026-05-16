@@ -1,0 +1,25 @@
+{
+  "slug": "wingnut-films",
+  "sha256": "f9d8165f4145162322d69b8a1b5d789e9a5b5b170df4ddded9d6032db8ac7f79",
+  "entity_name": "WingNut Films",
+  "aka": ["Wingnut Films", "Wing Nut Productions"],
+  "type": "production-company",
+  "country": "NZ",
+  "founded": "1992",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://wingnutfilms.co.nz/",
+  "wikipedia": "https://en.wikipedia.org/wiki/WingNut_Films",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "New Zealand film and television production company founded by Peter Jackson and Fran Walsh; produced The Lord of the Rings trilogy, King Kong, The Hobbit trilogy, and the documentary They Shall Not Grow Old.",
+  "duplicate_files": ["downloads/W/wing-nut-productions.svg", "downloads/W/wingnut-films.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - WingNut Films", "url": "https://en.wikipedia.org/wiki/WingNut_Films"},
+    {"title": "WingNut Films official site", "url": "https://wingnutfilms.co.nz/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

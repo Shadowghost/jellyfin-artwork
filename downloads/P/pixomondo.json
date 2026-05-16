@@ -1,0 +1,25 @@
+{
+  "slug": "pixomondo",
+  "sha256": "fba1b0ea89fa3c838d6840358fdc7c2210cfb6d14fe4da91e8154dc921632dbf",
+  "entity_name": "Pixomondo",
+  "aka": ["PXO"],
+  "type": "studio",
+  "country": "DE",
+  "founded": "2001",
+  "defunct": null,
+  "parent_company": "Sony Pictures Entertainment",
+  "official_website": "https://www.pixomondo.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Pixomondo",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Visual effects and animation studio with global offices, Oscar-winning for Hugo and Emmy-winning for Game of Thrones; acquired by Sony Pictures in 2022.",
+  "duplicate_files": ["downloads/P/pixomondo.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Pixomondo", "url": "https://en.wikipedia.org/wiki/Pixomondo"},
+    {"title": "Pixomondo official site", "url": "https://www.pixomondo.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

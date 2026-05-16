@@ -1,0 +1,25 @@
+{
+  "slug": "cinema-foundation-of-russia",
+  "sha256": "97d7431da8a6001f0fb26fdc29a26ffd8b7ae350b12ca9e49e6714af178a0c88",
+  "entity_name": "Cinema Foundation of the Russian Federation",
+  "aka": ["Фонд кино", "Fond Kino", "Russian Cinema Fund"],
+  "type": "government-agency",
+  "country": "RU",
+  "founded": "1995",
+  "defunct": null,
+  "parent_company": "Government of Russia",
+  "official_website": "https://fond-kino.ru/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Cinema_Foundation_of_Russia",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Russian government fund supporting domestic film production and distribution.",
+  "duplicate_files": ["downloads/C/cinema-foundation-of-russia.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Cinema Foundation of Russia", "url": "https://en.wikipedia.org/wiki/Cinema_Foundation_of_Russia"},
+    {"title": "Fond Kino", "url": "https://fond-kino.ru/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

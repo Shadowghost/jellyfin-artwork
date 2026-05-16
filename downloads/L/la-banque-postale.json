@@ -1,0 +1,27 @@
+{
+  "slug": "la-banque-postale",
+  "sha256": "c5f146683cc36dce698852ebea91d147987185636938d809b35fffa23bc3b713",
+  "entity_name": "La Banque Postale",
+  "aka": [],
+  "type": "other",
+  "country": "FR",
+  "founded": "2006",
+  "defunct": null,
+  "parent_company": "La Poste",
+  "official_website": "https://www.labanquepostale.fr",
+  "wikipedia": "https://en.wikipedia.org/wiki/La_Banque_postale",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "La Poste Yellow", "hex": "#FFCD00"},
+    {"name": "La Banque Postale Blue", "hex": "#003B7E"}
+  ],
+  "logo_usage": null,
+  "description": "French bank, subsidiary of La Poste, commonly credited as a film financier in French productions through its SOFICA funds.",
+  "duplicate_files": ["downloads/L/la-banque-postale.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - La Banque postale", "url": "https://en.wikipedia.org/wiki/La_Banque_postale"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

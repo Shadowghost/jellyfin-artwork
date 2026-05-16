@@ -1,0 +1,25 @@
+{
+  "slug": "agn-s-b-productions",
+  "sha256": "40e7197f4d738a606e81ea288eaedbbb254330a3fa68425b09f0c779e70b023d",
+  "entity_name": "Agnes B. Productions",
+  "aka": ["Agnès b. Productions"],
+  "type": "production-company",
+  "country": "FR",
+  "founded": null,
+  "defunct": null,
+  "parent_company": "Agnès b.",
+  "official_website": "https://www.agnesb.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Agn%C3%A8s_b.",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Film production arm of French fashion designer Agnès b., financing arthouse films and documentaries.",
+  "duplicate_files": ["downloads/A/agn-s-b-productions.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Agnès b.", "url": "https://en.wikipedia.org/wiki/Agn%C3%A8s_b."},
+    {"title": "Agnès b. official site", "url": "https://www.agnesb.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

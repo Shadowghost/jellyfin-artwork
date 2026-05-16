@@ -1,0 +1,25 @@
+{
+  "slug": "square-enix",
+  "sha256": "dd47b257842e2a4f8ba3435dc4d5ecc1bdc32064cdd71c1f4b164e3400831704",
+  "entity_name": "Square Enix",
+  "aka": ["Square Pictures", "Square Co.", "Enix"],
+  "type": "production-company",
+  "country": "JP",
+  "founded": "2003",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.square-enix.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Square_Enix",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese video game and entertainment holding company formed by the 2003 merger of Square and Enix; Square Pictures was its film subsidiary that produced Final Fantasy: The Spirits Within.",
+  "duplicate_files": ["downloads/S/square-enix.svg", "downloads/S/square-pictures.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Square Enix", "url": "https://en.wikipedia.org/wiki/Square_Enix"},
+    {"title": "Wikipedia - Square Pictures", "url": "https://en.wikipedia.org/wiki/Square_Pictures"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

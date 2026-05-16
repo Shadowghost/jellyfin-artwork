@@ -1,0 +1,25 @@
+{
+  "slug": "dreamworks-animation",
+  "sha256": "392eb123fe2fa5f188ea344ef5e1a6c37fc8fc8aec30ff7b251eda31978cbf41",
+  "entity_name": "DreamWorks Animation",
+  "aka": ["DreamWorks", "DWA"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1994",
+  "defunct": null,
+  "parent_company": "NBCUniversal (Comcast)",
+  "official_website": "https://www.dreamworks.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/DreamWorks_Animation",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": "Iconic logo features a boy fishing from a crescent moon.",
+  "description": "American animation studio and a subsidiary of Universal Pictures (NBCUniversal); known for Shrek, Kung Fu Panda, How to Train Your Dragon.",
+  "duplicate_files": ["downloads/D/dream-management-entertainment-inc.svg", "downloads/D/dreamworks-animation.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - DreamWorks Animation", "url": "https://en.wikipedia.org/wiki/DreamWorks_Animation"},
+    {"title": "DreamWorks official site", "url": "https://www.dreamworks.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

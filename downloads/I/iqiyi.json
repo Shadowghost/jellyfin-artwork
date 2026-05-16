@@ -1,0 +1,27 @@
+{
+  "slug": "iqiyi",
+  "sha256": "28320e3c158d02dd25401139b650faab64730af8212d71b236c214229e618515",
+  "entity_name": "iQIYI",
+  "aka": ["爱奇艺", "iQIYI Inc."],
+  "type": "streaming-service",
+  "country": "CN",
+  "founded": "2010",
+  "defunct": null,
+  "parent_company": "Baidu",
+  "official_website": "https://www.iqiyi.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/IQIYI",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "iQIYI Green", "hex": "#00BE06"}
+  ],
+  "logo_usage": null,
+  "description": "Chinese online video platform based in Beijing, one of the largest video streaming services in China, majority-owned by Baidu.",
+  "duplicate_files": ["downloads/I/iqiyi.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – iQIYI", "url": "https://en.wikipedia.org/wiki/IQIYI"},
+    {"title": "iQIYI official site", "url": "https://www.iqiyi.com"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

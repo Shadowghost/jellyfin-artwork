@@ -1,0 +1,28 @@
+{
+  "slug": "toei-company",
+  "sha256": "0525a0ed15f057798967a78a10f5cba812ff314c5bbcb5393564830f22fa3806",
+  "entity_name": "Toei Company",
+  "aka": ["Toei", "東映", "Toei Video Company"],
+  "type": "studio",
+  "country": "JP",
+  "founded": "1949",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.toei.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Toei_Company",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese film and television production studio; owns Toei Animation and produces tokusatsu series like Kamen Rider and Super Sentai.",
+  "duplicate_files": [
+    "downloads/T/toei-company.svg",
+    "downloads/T/toei-video-company.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Toei Company", "url": "https://en.wikipedia.org/wiki/Toei_Company"},
+    {"title": "Toei official", "url": "https://www.toei.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "f-s-ireann",
+  "sha256": "898f74bb18546408db3313c788f49195975521da7208cf3dfee294f2aae607be",
+  "entity_name": "Fís Éireann / Screen Ireland",
+  "aka": ["Irish Film Board", "Bord Scannán na hÉireann", "Screen Ireland"],
+  "type": "government-agency",
+  "country": "IE",
+  "founded": "1980",
+  "defunct": null,
+  "parent_company": "Government of Ireland (Department of Tourism, Culture, Arts)",
+  "official_website": "https://www.screenireland.ie",
+  "wikipedia": "https://en.wikipedia.org/wiki/Screen_Ireland",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Irish national development agency for the Irish film, television and animation industry; rebranded from Irish Film Board in 2018.",
+  "duplicate_files": ["downloads/F/f-s-ireann-screen-ireland.svg", "downloads/F/f-s-ireann.svg", "downloads/I/irish-film-board.svg", "downloads/S/screen-ireland.svg"],
+  "duplicate_count": 4,
+  "sources": [
+    {"title": "Wikipedia – Screen Ireland", "url": "https://en.wikipedia.org/wiki/Screen_Ireland"},
+    {"title": "Screen Ireland official site", "url": "https://www.screenireland.ie/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

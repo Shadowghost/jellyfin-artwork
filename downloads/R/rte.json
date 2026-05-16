@@ -1,0 +1,25 @@
+{
+  "slug": "rte",
+  "sha256": "5e9e54960f8b4012531101a8154830cc417bb35120871b7ac815bee37d6b0f31",
+  "entity_name": "RTÉ (Raidió Teilifís Éireann)",
+  "aka": ["RTÉ", "Raidió Teilifís Éireann"],
+  "type": "broadcast-network",
+  "country": "IE",
+  "founded": "1960",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.rte.ie/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Raidi%C3%B3_Teilif%C3%ADs_%C3%89ireann",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Ireland's national public service broadcaster, providing television, radio, and online services.",
+  "duplicate_files": ["downloads/R/rte.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Raidió Teilifís Éireann", "url": "https://en.wikipedia.org/wiki/Raidi%C3%B3_Teilif%C3%ADs_%C3%89ireann"},
+    {"title": "RTÉ official site", "url": "https://www.rte.ie/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "bac-films",
+  "sha256": "a60a68a7715991cde186cb50b12a98e55a4ff12cb92dca5f1431499eab5265f8",
+  "entity_name": "BAC Films",
+  "aka": ["BAC"],
+  "type": "distributor",
+  "country": "FR",
+  "founded": "1986",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.bacfilms.com",
+  "wikipedia": "https://fr.wikipedia.org/wiki/BAC_Films",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "French film distribution and international sales company founded in 1986, handling theatrical distribution in France and worldwide sales.",
+  "duplicate_files": ["downloads/B/bac-films.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia (FR) – BAC Films", "url": "https://fr.wikipedia.org/wiki/BAC_Films"},
+    {"title": "BAC Films official site", "url": "https://www.bacfilms.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

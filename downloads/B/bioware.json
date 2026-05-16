@@ -1,0 +1,25 @@
+{
+  "slug": "bioware",
+  "sha256": "a24880310b4579f6b6c128da0dd32070b3e117e4ea4ad17358d29855ef225fc0",
+  "entity_name": "BioWare",
+  "aka": ["BioWare Corp."],
+  "type": "production-company",
+  "country": "CA",
+  "founded": "1995",
+  "defunct": null,
+  "parent_company": "Electronic Arts",
+  "official_website": "https://www.bioware.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/BioWare",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Canadian video game developer known for RPGs including Mass Effect and Dragon Age; subsidiary of Electronic Arts.",
+  "duplicate_files": ["downloads/B/bioware.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - BioWare", "url": "https://en.wikipedia.org/wiki/BioWare"},
+    {"title": "BioWare official", "url": "https://www.bioware.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

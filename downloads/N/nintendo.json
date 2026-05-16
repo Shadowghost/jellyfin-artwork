@@ -1,0 +1,29 @@
+{
+  "slug": "nintendo",
+  "sha256": "6bfe0b597b9fa1b8fe8a6534ee88db0eaa095b7a039cd3e44f5aba8e0580ee1c",
+  "entity_name": "Nintendo",
+  "aka": ["Nintendo Co., Ltd.", "任天堂"],
+  "type": "other",
+  "country": "JP",
+  "founded": "1889",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.nintendo.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Nintendo",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Nintendo Red", "hex": "#E60012"}
+  ],
+  "logo_usage": null,
+  "description": "Japanese multinational video game and consumer electronics company headquartered in Kyoto, known for the Mario, Zelda, and Pokémon franchises.",
+  "duplicate_files": [
+    "downloads/N/nintendo.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Nintendo", "url": "https://en.wikipedia.org/wiki/Nintendo"},
+    {"title": "Nintendo official site", "url": "https://www.nintendo.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

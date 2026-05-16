@@ -1,0 +1,25 @@
+{
+  "slug": "australian-film-finance-corporation",
+  "sha256": "e9683afc26fdfa70852410c9a796e17f108ca89562c2415fc59c248aa75747ca",
+  "entity_name": "Australian Film Finance Corporation",
+  "aka": ["AFFC", "FFC"],
+  "type": "government-agency",
+  "country": "AU",
+  "founded": "1988",
+  "defunct": "2008",
+  "parent_company": "Australian Government",
+  "official_website": "https://www.screenaustralia.gov.au/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Australian_Film_Finance_Corporation",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Australian government film financing body that operated from 1988 to 2008, merged into Screen Australia.",
+  "duplicate_files": ["downloads/A/australian-film-finance-corporation.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Australian Film Finance Corporation", "url": "https://en.wikipedia.org/wiki/Australian_Film_Finance_Corporation"},
+    {"title": "Screen Australia", "url": "https://www.screenaustralia.gov.au/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "marvelousaql",
+  "sha256": "bf0e46f6e6fa1c8e2679a7172a41cd584c28cc752e8323b83b92d7e1f048643d",
+  "entity_name": "Marvelous (formerly MarvelousAQL)",
+  "aka": ["MarvelousAQL", "Marvelous Entertainment", "Marvelous Inc."],
+  "type": "production-company",
+  "country": "JP",
+  "founded": "1997",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.marv.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Marvelous_(company)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese video game and anime company; previously known as Marvelous Entertainment and MarvelousAQL, known for Story of Seasons and Senran Kagura.",
+  "duplicate_files": ["downloads/M/marvelous-entertainment.svg", "downloads/M/marvelousaql.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Marvelous (company)", "url": "https://en.wikipedia.org/wiki/Marvelous_(company)"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "turner-classic-movies",
+  "sha256": "2907bc841b6c6d03189b5a309094608425e4002b23743b8612eb49586906b7e9",
+  "entity_name": "Turner Classic Movies",
+  "aka": ["TCM"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1994",
+  "defunct": null,
+  "parent_company": "Warner Bros. Discovery",
+  "official_website": "https://www.tcm.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Turner_Classic_Movies",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "TCM Black", "hex": "#000000"},
+    {"name": "TCM White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": null,
+  "description": "American basic cable network owned by Warner Bros. Discovery, broadcasting commercial-free classic films from the Turner Entertainment library and beyond.",
+  "duplicate_files": ["downloads/T/turner-classic-movies.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Turner Classic Movies", "url": "https://en.wikipedia.org/wiki/Turner_Classic_Movies"},
+    {"title": "TCM official site", "url": "https://www.tcm.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

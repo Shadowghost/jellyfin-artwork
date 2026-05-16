@@ -1,0 +1,27 @@
+{
+  "slug": "yle",
+  "sha256": "207278f62e41171c6953c760032aa611cfd552fa07984d6b65d9c00726391249",
+  "entity_name": "Yle (Yleisradio)",
+  "aka": ["Yleisradio Oy", "Finnish Broadcasting Company"],
+  "type": "broadcast-network",
+  "country": "FI",
+  "founded": "1926",
+  "defunct": null,
+  "parent_company": "Finnish State (public broadcaster)",
+  "official_website": "https://yle.fi/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Yle",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Finland's national public broadcasting company, operating multiple television and radio channels and the Yle Areena streaming service.",
+  "duplicate_files": [
+    "downloads/Y/yle.svg",
+    "downloads/Y/yleisradio-yle.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Yle", "url": "https://en.wikipedia.org/wiki/Yle"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

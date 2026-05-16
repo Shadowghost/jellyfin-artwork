@@ -1,0 +1,26 @@
+{
+  "slug": "ntt-docomo",
+  "sha256": "832475eb5508f4be012d47f5c21f8a7dda78719d9c1b0befacce2da5734a0eeb",
+  "entity_name": "NTT Docomo",
+  "aka": ["Docomo", "NTTドコモ"],
+  "type": "other",
+  "country": "JP",
+  "founded": "1992",
+  "defunct": null,
+  "parent_company": "Nippon Telegraph and Telephone (NTT)",
+  "official_website": "https://www.docomo.ne.jp/english/",
+  "wikipedia": "https://en.wikipedia.org/wiki/NTT_Docomo",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Docomo Red", "hex": "#CC0033"}
+  ],
+  "logo_usage": null,
+  "description": "Predominant Japanese mobile phone operator, a subsidiary of NTT; sometimes credited in productions via its media and content investments.",
+  "duplicate_files": ["downloads/N/ntt-docomo.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – NTT Docomo", "url": "https://en.wikipedia.org/wiki/NTT_Docomo"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

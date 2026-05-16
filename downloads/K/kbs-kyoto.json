@@ -1,0 +1,24 @@
+{
+  "slug": "kbs-kyoto",
+  "sha256": "8ee5258102ac79dd9aa0882e0d765f365468a3b75c54153386d797f2926e9e84",
+  "entity_name": "KBS Kyoto",
+  "aka": ["Kyoto Broadcasting System"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1969",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.kbs-kyoto.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Kyoto_Broadcasting_System",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Independent Japanese broadcast television and radio station based in Kyoto.",
+  "duplicate_files": ["downloads/K/kbs-kyoto.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Kyoto Broadcasting System", "url": "https://en.wikipedia.org/wiki/Kyoto_Broadcasting_System"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

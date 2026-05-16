@@ -1,0 +1,25 @@
+{
+  "slug": "laika-entertainment",
+  "sha256": "467cd6a6c0eda6ba4307732dc710a1c4f5ac936454a90a67a4e48d9d9123e4a4",
+  "entity_name": "Laika",
+  "aka": ["LAIKA", "Laika Entertainment", "Laika Studios"],
+  "type": "studio",
+  "country": "US",
+  "founded": "2005",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.laika.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Laika_(company)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American stop-motion animation studio based in Hillsboro, Oregon, owned by Phil Knight; producer of Coraline, ParaNorman, Kubo and the Two Strings.",
+  "duplicate_files": ["downloads/L/laika-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Laika (company)", "url": "https://en.wikipedia.org/wiki/Laika_(company)"},
+    {"title": "Laika official site", "url": "https://www.laika.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

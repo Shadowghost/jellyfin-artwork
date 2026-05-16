@@ -1,0 +1,24 @@
+{
+  "slug": "rkb-mainichi-broadcasting-corporation",
+  "sha256": "aac2209fcc112c1de452bcdc20485616c8d1743d229538427e4f14e833bf37b6",
+  "entity_name": "RKB Mainichi Broadcasting Corporation",
+  "aka": ["RKB", "Radio Kyushu Broadcasting"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1951",
+  "defunct": null,
+  "parent_company": "Mainichi Broadcasting System (affiliate)",
+  "official_website": "https://rkb.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/RKB_Mainichi_Broadcasting",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese television and radio station based in Fukuoka, affiliated with the JNN (TBS) network.",
+  "duplicate_files": ["downloads/R/rkb-mainichi-broadcasting-corporation.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – RKB Mainichi Broadcasting", "url": "https://en.wikipedia.org/wiki/RKB_Mainichi_Broadcasting"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

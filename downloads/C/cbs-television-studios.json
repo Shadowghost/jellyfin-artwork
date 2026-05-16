@@ -1,0 +1,27 @@
+{
+  "slug": "cbs-television-studios",
+  "sha256": "c7d0a470335fd7075c5fcb782bedd57d58375202fbc3e19c67d1330fcc5b4523",
+  "entity_name": "CBS Studios",
+  "aka": ["CBS Television Studios", "CBS Productions", "CBS Paramount Television"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1952",
+  "defunct": null,
+  "parent_company": "Paramount Global",
+  "official_website": "https://www.cbsstudios.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/CBS_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "CBS Blue", "hex": "#003D7A"}
+  ],
+  "logo_usage": "Uses the iconic CBS 'eye' mark.",
+  "description": "Television production arm of Paramount Global, formerly known as CBS Television Studios, producing scripted series for CBS, Paramount+ and other networks.",
+  "duplicate_files": ["downloads/C/cbs-television-studios.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - CBS Studios", "url": "https://en.wikipedia.org/wiki/CBS_Studios"},
+    {"title": "CBS Studios official site", "url": "https://www.cbsstudios.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

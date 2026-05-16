@@ -1,0 +1,25 @@
+{
+  "slug": "tristar-pictures",
+  "sha256": "81d3e628c027b11f051bfbdf465174aabe28967dfa5cde8e8c9aafe8ad25b76a",
+  "entity_name": "TriStar Pictures",
+  "aka": ["Tri-Star Pictures"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1982",
+  "defunct": null,
+  "parent_company": "Sony Pictures Entertainment",
+  "official_website": "https://www.sonypictures.com/corp/tristarpictures.html",
+  "wikipedia": "https://en.wikipedia.org/wiki/TriStar_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film production and distribution label of Sony Pictures Entertainment.",
+  "duplicate_files": ["downloads/T/tristar-pictures.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – TriStar Pictures", "url": "https://en.wikipedia.org/wiki/TriStar_Pictures"},
+    {"title": "Sony Pictures – TriStar", "url": "https://www.sonypictures.com/corp/tristarpictures.html"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

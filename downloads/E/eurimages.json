@@ -1,0 +1,27 @@
+{
+  "slug": "eurimages",
+  "sha256": "633219502782019550b37dccf3e55c88b02e145fb8d15cde12b44428c9f36ebd",
+  "entity_name": "Eurimages",
+  "aka": [],
+  "type": "other",
+  "country": "INT",
+  "founded": "1988",
+  "defunct": null,
+  "parent_company": "Council of Europe",
+  "official_website": "https://www.coe.int/en/web/eurimages",
+  "wikipedia": "https://en.wikipedia.org/wiki/Eurimages",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Council of Europe cultural support fund providing co-production financing for European cinema.",
+  "duplicate_files": [
+    "downloads/E/eurimages.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Eurimages", "url": "https://en.wikipedia.org/wiki/Eurimages"},
+    {"title": "Eurimages – Council of Europe", "url": "https://www.coe.int/en/web/eurimages"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

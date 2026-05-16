@@ -1,0 +1,26 @@
+{
+  "slug": "the-brazilian-development-bank",
+  "sha256": "26aa9ae43078879dedc55d4a2a9226d3ebe423ae616703024c040d1b9b23bb32",
+  "entity_name": "Brazilian Development Bank",
+  "aka": ["BNDES", "Banco Nacional de Desenvolvimento Econômico e Social"],
+  "type": "government-agency",
+  "country": "BR",
+  "founded": "1952",
+  "defunct": null,
+  "parent_company": "Government of Brazil (Ministry of Development, Industry, Trade and Services)",
+  "official_website": "https://www.bndes.gov.br",
+  "wikipedia": "https://en.wikipedia.org/wiki/Brazilian_Development_Bank",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Brazilian federal development bank that finances cultural and audiovisual productions among many other sectors.",
+  "duplicate_files": [
+    "downloads/T/the-brazilian-development-bank.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Brazilian Development Bank", "url": "https://en.wikipedia.org/wiki/Brazilian_Development_Bank"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

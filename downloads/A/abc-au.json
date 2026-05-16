@@ -1,0 +1,28 @@
+{
+  "slug": "abc-au",
+  "sha256": "c58cb45a508c4806b5041c8895838433701d6e4674e50bec9b922326168a04aa",
+  "entity_name": "Australian Broadcasting Corporation",
+  "aka": ["ABC", "ABC Australia", "Aunty"],
+  "type": "broadcast-network",
+  "country": "AU",
+  "founded": "1929",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.abc.net.au/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Australian_Broadcasting_Corporation",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "ABC Black", "hex": "#000000"},
+    {"name": "ABC White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": "The ABC 'lissajous' curve logo, designed by Bill Kennard in 1965, has been the corporate identity since then.",
+  "description": "Australia's national public broadcaster, providing television, radio, online, and mobile services.",
+  "duplicate_files": ["downloads/A/abc-au.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Australian Broadcasting Corporation", "url": "https://en.wikipedia.org/wiki/Australian_Broadcasting_Corporation"},
+    {"title": "ABC official site", "url": "https://www.abc.net.au/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "mar-vista-productions",
+  "sha256": "d05b12734a69e17235386557232aa31b869965d8fd8623dc30f6a965948b9e25",
+  "entity_name": "MarVista Entertainment",
+  "aka": ["Mar Vista Productions", "MarVista"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2003",
+  "defunct": null,
+  "parent_company": "Fox Corporation (Tubi)",
+  "official_website": "https://marvista.net/",
+  "wikipedia": "https://en.wikipedia.org/wiki/MarVista_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film and television production and distribution company specializing in family and TV-movie content, acquired by Fox/Tubi in 2022.",
+  "duplicate_files": ["downloads/M/mar-vista-productions.svg", "downloads/M/marvista-entertainment.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – MarVista Entertainment", "url": "https://en.wikipedia.org/wiki/MarVista_Entertainment"},
+    {"title": "MarVista official site", "url": "https://marvista.net/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

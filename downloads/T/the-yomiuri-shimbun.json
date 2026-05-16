@@ -1,0 +1,26 @@
+{
+  "slug": "the-yomiuri-shimbun",
+  "sha256": "9e04c50ba369d79b9904e42ab9807cb04785f4940b8b4a833b5ed1311b95e35a",
+  "entity_name": "The Yomiuri Shimbun",
+  "aka": ["Yomiuri Shimbun", "Yomiuri"],
+  "type": "publisher",
+  "country": "JP",
+  "founded": "1874",
+  "defunct": null,
+  "parent_company": "Yomiuri Shimbun Holdings",
+  "official_website": "https://www.yomiuri.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Yomiuri_Shimbun",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese national newspaper with one of the largest circulations in the world; major sponsor of media productions.",
+  "duplicate_files": [
+    "downloads/T/the-yomiuri-shimbun.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Yomiuri Shimbun", "url": "https://en.wikipedia.org/wiki/Yomiuri_Shimbun"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

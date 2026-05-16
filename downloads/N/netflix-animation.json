@@ -1,0 +1,28 @@
+{
+  "slug": "netflix-animation",
+  "sha256": "ce10bd2508a356f907141fb28505a49ec2c53be0f328d92a5da21469be6b6e2c",
+  "entity_name": "Netflix Animation",
+  "aka": ["Netflix Animation Studios"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2018",
+  "defunct": null,
+  "parent_company": "Netflix, Inc.",
+  "official_website": "https://www.netflix.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Netflix_Animation",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Netflix Red", "hex": "#E50914"}
+  ],
+  "logo_usage": null,
+  "description": "American animation studio operating as the in-house animation production unit of Netflix.",
+  "duplicate_files": [
+    "downloads/N/netflix-animation.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Netflix Animation", "url": "https://en.wikipedia.org/wiki/Netflix_Animation"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

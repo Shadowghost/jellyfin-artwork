@@ -1,0 +1,24 @@
+{
+  "slug": "sony-computer-entertainment",
+  "sha256": "55a472f639eed2d03603afdd2d51eae3f52a87a18681dff6fe1d13856cbeb21e",
+  "entity_name": "Sony Computer Entertainment",
+  "aka": ["SCE", "Sony Interactive Entertainment", "SIE"],
+  "type": "production-company",
+  "country": "JP",
+  "founded": "1993",
+  "defunct": null,
+  "parent_company": "Sony Group Corporation",
+  "official_website": "https://www.sie.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Sony video game and digital entertainment company that develops the PlayStation brand of consoles, games and services; renamed Sony Interactive Entertainment in 2016.",
+  "duplicate_files": ["downloads/S/sony-computer-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Sony Interactive Entertainment", "url": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

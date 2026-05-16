@@ -1,0 +1,24 @@
+{
+  "slug": "fox-movie-channel",
+  "sha256": "3ea27956a025652f76c55a1719886e0d095351e2a2fc452fa3dd0c70cf18a5da",
+  "entity_name": "Fox Movie Channel",
+  "aka": ["FMC", "FXM"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1994",
+  "defunct": null,
+  "parent_company": "Fox Corporation",
+  "official_website": "https://www.fox.com/fxm/",
+  "wikipedia": "https://en.wikipedia.org/wiki/FXM",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American pay-TV channel, formerly Fox Movie Channel, that airs feature films primarily from the 20th Century Fox library; rebranded as FXM.",
+  "duplicate_files": ["downloads/F/fox-movie-channel.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - FXM", "url": "https://en.wikipedia.org/wiki/FXM"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

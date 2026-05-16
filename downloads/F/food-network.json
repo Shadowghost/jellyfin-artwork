@@ -1,0 +1,27 @@
+{
+  "slug": "food-network",
+  "sha256": "1734a848865b9621c41946e57998cc92794d5ecfccbdef45a505b6187f7154c2",
+  "entity_name": "Food Network",
+  "aka": [],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1993",
+  "defunct": null,
+  "parent_company": "Warner Bros. Discovery",
+  "official_website": "https://www.foodnetwork.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Food_Network",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Food Network Red", "hex": "#ED1C24"}
+  ],
+  "logo_usage": null,
+  "description": "American basic cable channel dedicated to food-related programming, owned by Warner Bros. Discovery.",
+  "duplicate_files": ["downloads/F/food-network.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Food Network", "url": "https://en.wikipedia.org/wiki/Food_Network"},
+    {"title": "Food Network official site", "url": "https://www.foodnetwork.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

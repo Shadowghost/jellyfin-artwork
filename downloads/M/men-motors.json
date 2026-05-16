@@ -1,0 +1,24 @@
+{
+  "slug": "men-motors",
+  "sha256": "00d4ab6e959f1093c59e41162805342a489832e3b93e85e75589d5f28eb1ddcb",
+  "entity_name": "Men & Motors",
+  "aka": ["Granada Men & Motors"],
+  "type": "cable-network",
+  "country": "GB",
+  "founded": "1996",
+  "defunct": "2010",
+  "parent_company": "ITV plc / Granada (One Media iP since 2012)",
+  "official_website": "http://menandmotors.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Men_%26_Motors",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British digital cable and satellite television channel broadcasting motoring and male-oriented content; ceased linear broadcasting in 2010 and later relaunched as a streaming brand.",
+  "duplicate_files": ["downloads/M/men-motors.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Men & Motors", "url": "https://en.wikipedia.org/wiki/Men_%26_Motors"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

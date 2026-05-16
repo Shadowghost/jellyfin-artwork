@@ -1,0 +1,25 @@
+{
+  "slug": "image-comics",
+  "sha256": "adb00d83d773ab29b57b9f10b6728244cd2c185e4fed047a5bdc74a217fdeef0",
+  "entity_name": "Image Comics",
+  "aka": ["Image"],
+  "type": "publisher",
+  "country": "US",
+  "founded": "1992",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://imagecomics.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Image_Comics",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American comic book publisher founded by seven Marvel Comics illustrators; publisher of The Walking Dead, Spawn, Invincible, and Saga.",
+  "duplicate_files": ["downloads/I/image-comics.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Image Comics", "url": "https://en.wikipedia.org/wiki/Image_Comics"},
+    {"title": "Image Comics official site", "url": "https://imagecomics.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

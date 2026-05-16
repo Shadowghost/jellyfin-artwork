@@ -1,0 +1,31 @@
+{
+  "slug": "pixar",
+  "sha256": "83bde80cfb076662680cdba2a13c4936d910ce68246462c41373b2baaec42680",
+  "entity_name": "Pixar Animation Studios",
+  "aka": ["Pixar"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1986",
+  "defunct": null,
+  "parent_company": "The Walt Disney Company",
+  "official_website": "https://www.pixar.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Pixar",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Pixar Blue", "hex": "#1A5790"},
+    {"name": "Black", "hex": "#000000"}
+  ],
+  "logo_usage": "Iconic 'Luxo Jr.' bouncing lamp animation accompanies the wordmark in film opening.",
+  "description": "American computer animation studio based in Emeryville, California; a subsidiary of The Walt Disney Company, known for the Toy Story franchise and many feature animations.",
+  "duplicate_files": [
+    "downloads/P/pixar-animation-studios.svg",
+    "downloads/P/pixar.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Pixar", "url": "https://en.wikipedia.org/wiki/Pixar"},
+    {"title": "Pixar official site", "url": "https://www.pixar.com"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

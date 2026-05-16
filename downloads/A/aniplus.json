@@ -1,0 +1,25 @@
+{
+  "slug": "aniplus",
+  "sha256": "376ad11c11865685e57922833c63549ecc4e33d26510b23d6c52e3311911d084",
+  "entity_name": "Aniplus",
+  "aka": ["Aniplus Asia", "애니플러스"],
+  "type": "cable-network",
+  "country": "KR",
+  "founded": "2007",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.aniplus-asia.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Aniplus",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "South Korean anime cable channel and streaming service that broadcasts simulcast Japanese anime in Korea and Southeast Asia.",
+  "duplicate_files": ["downloads/A/aniplus.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Aniplus", "url": "https://en.wikipedia.org/wiki/Aniplus"},
+    {"title": "Aniplus Asia official site", "url": "https://www.aniplus-asia.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

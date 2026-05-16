@@ -1,0 +1,25 @@
+{
+  "slug": "fuji-tv",
+  "sha256": "23de342984a2d8c76512494f6eb74c752878b09e9014cc2480614bd0fbe03b7e",
+  "entity_name": "Fuji Television Network, Inc.",
+  "aka": ["Fuji TV", "CX", "フジテレビ"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1959",
+  "defunct": null,
+  "parent_company": "Fuji Media Holdings",
+  "official_website": "https://www.fujitv.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Fuji_TV",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": "Famous '8' (mei-tama) eye-shaped logo used since 1986.",
+  "description": "Japanese television station based in Tokyo and the flagship station of the Fuji News Network and Fuji Network System.",
+  "duplicate_files": ["downloads/F/fuji-television-network.svg", "downloads/F/fuji-television.svg", "downloads/F/fuji-tv.svg"],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia - Fuji TV", "url": "https://en.wikipedia.org/wiki/Fuji_TV"},
+    {"title": "Fuji TV official site", "url": "https://www.fujitv.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

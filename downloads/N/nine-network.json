@@ -1,0 +1,25 @@
+{
+  "slug": "nine-network",
+  "sha256": "b695e30f1ffee61fd44da3b460dbf39d595819259396ca018d306a93ef195244",
+  "entity_name": "Nine Network",
+  "aka": ["Channel Nine", "Nine"],
+  "type": "broadcast-network",
+  "country": "AU",
+  "founded": "1956",
+  "defunct": null,
+  "parent_company": "Nine Entertainment",
+  "official_website": "https://www.9now.com.au",
+  "wikipedia": "https://en.wikipedia.org/wiki/Nine_Network",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Australian commercial free-to-air television network, owned by Nine Entertainment Co.",
+  "duplicate_files": ["downloads/N/nine-network-australia.svg", "downloads/N/nine-network.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Nine Network", "url": "https://en.wikipedia.org/wiki/Nine_Network"},
+    {"title": "9Now official site", "url": "https://www.9now.com.au/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

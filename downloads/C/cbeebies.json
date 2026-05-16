@@ -1,0 +1,25 @@
+{
+  "slug": "cbeebies",
+  "sha256": "181c87352e5e9cc4a21d587ed22fe011a36957e6041debe5b8df0cb9e96048cf",
+  "entity_name": "CBeebies",
+  "aka": ["BBC CBeebies"],
+  "type": "broadcast-network",
+  "country": "UK",
+  "founded": "2002",
+  "defunct": null,
+  "parent_company": "BBC",
+  "official_website": "https://www.bbc.co.uk/cbeebies",
+  "wikipedia": "https://en.wikipedia.org/wiki/CBeebies",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British free-to-air public broadcast television channel operated by the BBC, aimed at preschool children aged 6 and under.",
+  "duplicate_files": ["downloads/C/cbeebies.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – CBeebies", "url": "https://en.wikipedia.org/wiki/CBeebies"},
+    {"title": "CBeebies official site", "url": "https://www.bbc.co.uk/cbeebies"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

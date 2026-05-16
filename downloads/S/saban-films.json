@@ -1,0 +1,26 @@
+{
+  "slug": "saban-films",
+  "sha256": "b80392b4a1580a42cdc34a5b0d5fbf85c063793ba5af37f88d0362b29eaf4025",
+  "entity_name": "Saban Films",
+  "aka": ["Saban"],
+  "type": "distributor",
+  "country": "US",
+  "founded": "2014",
+  "defunct": null,
+  "parent_company": "Saban Capital Group",
+  "official_website": "https://sabanfilms.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Saban_Films",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American independent film distributor and acquirer of action and genre films.",
+  "duplicate_files": [
+    "downloads/S/saban-films.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Saban Films", "url": "https://en.wikipedia.org/wiki/Saban_Films"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

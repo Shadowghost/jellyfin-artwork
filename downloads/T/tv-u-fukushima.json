@@ -1,0 +1,24 @@
+{
+  "slug": "tv-u-fukushima",
+  "sha256": "aed5e730931dc5edc6dcb483fe917c49c846603b7cdcd1292296c3a035afe0a1",
+  "entity_name": "TV-U Fukushima",
+  "aka": ["TUF", "テレビユー福島"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1983",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.tuf.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9vision_Iwate_Broadcasting_Company",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial broadcaster based in Fukushima Prefecture, affiliated with the Japan News Network (JNN) and TBS.",
+  "duplicate_files": ["downloads/T/tv-u-fukushima.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "TUF official site", "url": "https://www.tuf.co.jp"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

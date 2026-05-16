@@ -1,0 +1,25 @@
+{
+  "slug": "corus-entertainment",
+  "sha256": "10d135bbbe94c0174c9707720f7c332d0aede95c9fdc6ed6ad4b620786a382cc",
+  "entity_name": "Corus Entertainment",
+  "aka": ["Corus"],
+  "type": "production-company",
+  "country": "CA",
+  "founded": "1999",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.corusent.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Corus_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Canadian mass media and broadcasting company headquartered in Toronto, operating specialty cable channels, radio stations, and children's content company Nelvana.",
+  "duplicate_files": ["downloads/C/corus-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Corus Entertainment", "url": "https://en.wikipedia.org/wiki/Corus_Entertainment"},
+    {"title": "Corus Entertainment official site", "url": "https://www.corusent.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

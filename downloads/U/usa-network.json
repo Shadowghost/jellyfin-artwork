@@ -1,0 +1,27 @@
+{
+  "slug": "usa-network",
+  "sha256": "778eaeca6653b2b9a0857c7959da9bc1592add9f5e903e5f740a1d300146982b",
+  "entity_name": "USA Network",
+  "aka": ["USA"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1971",
+  "defunct": null,
+  "parent_company": "NBCUniversal (Comcast)",
+  "official_website": "https://www.usanetwork.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/USA_Network",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "USA Blue", "hex": "#0E4194"}
+  ],
+  "logo_usage": null,
+  "description": "American basic cable television channel owned by NBCUniversal, airing scripted and unscripted entertainment.",
+  "duplicate_files": ["downloads/U/usa-network.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – USA Network", "url": "https://en.wikipedia.org/wiki/USA_Network"},
+    {"title": "USA Network official site", "url": "https://www.usanetwork.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

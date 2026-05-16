@@ -1,0 +1,25 @@
+{
+  "slug": "kumamoto-asahi-broadcasting",
+  "sha256": "f50eabe09a378da8c022b0680adc0fe48e061c162fd89e90970006715b6c54ef",
+  "entity_name": "Kumamoto Asahi Broadcasting",
+  "aka": ["KAB", "熊本朝日放送"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1989",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.kab.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Kumamoto_Asahi_Broadcasting",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial TV broadcaster in Kumamoto Prefecture, affiliated with All-Nippon News Network (ANN/TV Asahi).",
+  "duplicate_files": ["downloads/K/kumamoto-asahi-broadcasting.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Kumamoto Asahi Broadcasting", "url": "https://en.wikipedia.org/wiki/Kumamoto_Asahi_Broadcasting"},
+    {"title": "KAB official", "url": "https://www.kab.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

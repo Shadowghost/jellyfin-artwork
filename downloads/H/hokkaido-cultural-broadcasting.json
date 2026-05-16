@@ -1,0 +1,25 @@
+{
+  "slug": "hokkaido-cultural-broadcasting",
+  "sha256": "933bbbe7795e92d0b38c7b531e66d3924c85defcc2218efe02629a708f7b7821",
+  "entity_name": "Hokkaido Cultural Broadcasting Co., Ltd.",
+  "aka": ["UHB", "北海道文化放送"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1972",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://uhb.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Hokkaido_Cultural_Broadcasting",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial television station serving Hokkaido, affiliated with the Fuji News Network (FNN).",
+  "duplicate_files": ["downloads/H/hokkaido-cultural-broadcasting.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Hokkaido Cultural Broadcasting", "url": "https://en.wikipedia.org/wiki/Hokkaido_Cultural_Broadcasting"},
+    {"title": "UHB official site", "url": "https://uhb.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

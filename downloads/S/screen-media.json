@@ -1,0 +1,25 @@
+{
+  "slug": "screen-media",
+  "sha256": "31dd78af53dbf769bd79b09a5eb6e48ece4b105035f48f902dfc902d836198c1",
+  "entity_name": "Screen Media",
+  "aka": ["Screen Media Ventures", "Screen Media Films"],
+  "type": "distributor",
+  "country": "US",
+  "founded": "1999",
+  "defunct": null,
+  "parent_company": "Chicken Soup for the Soul Entertainment",
+  "official_website": "https://www.screenmedia.net/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Screen_Media",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film distribution company that licenses film and television content to streaming, broadcast, and home entertainment markets.",
+  "duplicate_files": ["downloads/S/screen-media-films.svg", "downloads/S/screen-media.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Screen Media", "url": "https://en.wikipedia.org/wiki/Screen_Media"},
+    {"title": "Screen Media official site", "url": "https://www.screenmedia.net/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

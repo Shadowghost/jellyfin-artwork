@@ -1,0 +1,24 @@
+{
+  "slug": "cablevisi-n",
+  "sha256": "699f064f323e88c272e8a0695a6b5f83d810f686191054d1e1806c04d2b5f00d",
+  "entity_name": "Cablevisión",
+  "aka": ["Cablevision Argentina"],
+  "type": "cable-network",
+  "country": "AR",
+  "founded": "1981",
+  "defunct": "2018",
+  "parent_company": "Grupo Clarín (later merged into Telecom Argentina)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Cablevisi%C3%B3n_(Argentina)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Argentine cable television provider owned by Grupo Clarín; merged with Telecom Argentina in 2018.",
+  "duplicate_files": ["downloads/C/cablevisi-n.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Cablevisión (Argentina)", "url": "https://en.wikipedia.org/wiki/Cablevisi%C3%B3n_(Argentina)"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

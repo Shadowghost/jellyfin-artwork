@@ -1,0 +1,24 @@
+{
+  "slug": "zdf-theaterkanal",
+  "sha256": "c13bb55f73a228470a580d473490361e5d44211fff29eb1512a324f916da662f",
+  "entity_name": "ZDF Theaterkanal",
+  "aka": [],
+  "type": "broadcast-network",
+  "country": "DE",
+  "founded": "1999",
+  "defunct": "2011",
+  "parent_company": "ZDF (Zweites Deutsches Fernsehen)",
+  "official_website": "https://www.zdf.de/",
+  "wikipedia": "https://de.wikipedia.org/wiki/ZDFtheaterkanal",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "German digital television channel operated by ZDF from 1999 to 2011, focused on theater, opera, ballet, and cultural performances; replaced by ZDFkultur.",
+  "duplicate_files": ["downloads/Z/zdf-theaterkanal.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia (DE) - ZDFtheaterkanal", "url": "https://de.wikipedia.org/wiki/ZDFtheaterkanal"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

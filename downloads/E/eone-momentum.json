@@ -1,0 +1,25 @@
+{
+  "slug": "eone-momentum",
+  "sha256": "9d9b9a7df195427f53232f9b32310cf5ed59e19c5a7e1116285dbd9137f26177",
+  "entity_name": "Entertainment One Momentum Pictures",
+  "aka": ["Momentum Pictures", "eOne Momentum", "eOne", "Entertainment One"],
+  "type": "distributor",
+  "country": "GB",
+  "founded": "1999",
+  "defunct": null,
+  "parent_company": "Lionsgate (Entertainment One)",
+  "official_website": "https://www.momentumpictures.co.uk/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Momentum_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British film distribution arm of Entertainment One (formerly independent, founded 1999), distributing theatrical and home-entertainment releases in the UK; now operated under Lionsgate after its 2023 acquisition of eOne.",
+  "duplicate_files": ["downloads/E/eone-momentum.svg", "downloads/M/momentum-pictures.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Momentum Pictures", "url": "https://en.wikipedia.org/wiki/Momentum_Pictures"},
+    {"title": "Wikipedia - Entertainment One", "url": "https://en.wikipedia.org/wiki/Entertainment_One"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "conde-nast-digital",
+  "sha256": "124f988b86d593fb03e0f577703cbf8d66a6090d72ba0ac5f0a63c3d8afaeee1",
+  "entity_name": "Condé Nast Digital",
+  "aka": ["Condé Nast Entertainment"],
+  "type": "publisher",
+  "country": "US",
+  "founded": "1909",
+  "defunct": null,
+  "parent_company": "Advance Publications",
+  "official_website": "https://www.condenast.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Cond%C3%A9_Nast",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Condé Nast Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "Digital division of Condé Nast, the American mass media company that publishes Vogue, The New Yorker, Vanity Fair, GQ, and Wired.",
+  "duplicate_files": ["downloads/C/conde-nast-digital.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Condé Nast", "url": "https://en.wikipedia.org/wiki/Cond%C3%A9_Nast"},
+    {"title": "Condé Nast official", "url": "https://www.condenast.com"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

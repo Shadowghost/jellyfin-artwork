@@ -1,0 +1,28 @@
+{
+  "slug": "unicredit-group",
+  "sha256": "18468f6f9198864b3f203f413a77bd79bd13589780c254f608349da3fea2f7d8",
+  "entity_name": "UniCredit Group",
+  "aka": ["UniCredit"],
+  "type": "other",
+  "country": "IT",
+  "founded": "1998",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.unicreditgroup.eu/",
+  "wikipedia": "https://en.wikipedia.org/wiki/UniCredit",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "UniCredit Red", "hex": "#E2001A"}
+  ],
+  "logo_usage": null,
+  "description": "Italian multinational banking and financial services company, sometimes credited as a sponsor or co-funder of European film productions.",
+  "duplicate_files": [
+    "downloads/U/unicredit-group.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – UniCredit", "url": "https://en.wikipedia.org/wiki/UniCredit"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

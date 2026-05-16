@@ -1,0 +1,29 @@
+{
+  "slug": "fox-searchlight",
+  "sha256": "ddc2c71357b8b2497b9bf9a4e3a1c2706f0e60bbec1bcee0049e2bc5986b1409",
+  "entity_name": "Searchlight Pictures",
+  "aka": ["Fox Searchlight Pictures", "Fox Searchlight"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1994",
+  "defunct": null,
+  "parent_company": "The Walt Disney Company (via Walt Disney Studios)",
+  "official_website": "https://www.searchlightpictures.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Searchlight_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": "Renamed from Fox Searchlight Pictures to Searchlight Pictures in January 2020 following Disney's acquisition of 21st Century Fox.",
+  "description": "American specialty film label of The Walt Disney Studios focusing on prestige indie and award-season films such as Nomadland, The Shape of Water, and Birdman.",
+  "duplicate_files": [
+    "downloads/F/fox-searchlight-pictures.svg",
+    "downloads/F/fox-searchlight.svg",
+    "downloads/S/searchlight-pictures.svg"
+  ],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia - Searchlight Pictures", "url": "https://en.wikipedia.org/wiki/Searchlight_Pictures"},
+    {"title": "Searchlight Pictures official site", "url": "https://www.searchlightpictures.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

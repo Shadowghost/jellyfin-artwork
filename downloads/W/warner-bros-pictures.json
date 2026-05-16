@@ -1,0 +1,28 @@
+{
+  "slug": "warner-bros-pictures",
+  "sha256": "3711f2269e4acca14304216f56df34f270398d08e17af6f92ec8fcda7b367cc0",
+  "entity_name": "Warner Bros. Pictures",
+  "aka": ["Warner Bros.", "Warner Bros. Productions", "WB"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1923",
+  "defunct": null,
+  "parent_company": "Warner Bros. Discovery",
+  "official_website": "https://www.warnerbros.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Warner_Bros._Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "WB Blue", "hex": "#004B91"},
+    {"name": "WB Gold", "hex": "#C28F38"}
+  ],
+  "logo_usage": null,
+  "description": "American film production and distribution company, division of Warner Bros. Discovery; one of the Big Five major American film studios.",
+  "duplicate_files": ["downloads/W/warner-bros-pictures.svg", "downloads/W/warner-bros-productions.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Warner Bros. Pictures", "url": "https://en.wikipedia.org/wiki/Warner_Bros._Pictures"},
+    {"title": "Warner Bros. official site", "url": "https://www.warnerbros.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "tokyo-channel-12",
+  "sha256": "d2dcdd54fdaf5ddf666f2345298bcd486b078f01a01c3f30dfa8fe2b57b8dc2f",
+  "entity_name": "Tokyo Channel 12",
+  "aka": ["TV Tokyo (former name)"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1964",
+  "defunct": "1981",
+  "parent_company": "TV Tokyo Holdings",
+  "official_website": "https://www.tv-tokyo.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/TV_Tokyo",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Historical name of Japan's TV Tokyo (originally Tokyo Channel 12), rebranded in 1981.",
+  "duplicate_files": [
+    "downloads/T/tokyo-channel-12.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – TV Tokyo", "url": "https://en.wikipedia.org/wiki/TV_Tokyo"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

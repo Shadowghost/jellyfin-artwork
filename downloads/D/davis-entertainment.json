@@ -1,0 +1,25 @@
+{
+  "slug": "davis-entertainment",
+  "sha256": "e529b18db9bc32ecc5ea4d5b45c037d406b423c0429b0d5904c6bb81d29dc337",
+  "entity_name": "Davis Entertainment",
+  "aka": ["Davis Entertainment Company"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1985",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://davisentertainment.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Davis_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film and television production company founded by John Davis in 1985, producing Predator sequels, Garfield, Dr. Dolittle and others.",
+  "duplicate_files": ["downloads/D/davis-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Davis Entertainment", "url": "https://en.wikipedia.org/wiki/Davis_Entertainment"},
+    {"title": "Davis Entertainment official site", "url": "https://davisentertainment.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

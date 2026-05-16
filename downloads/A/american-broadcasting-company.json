@@ -1,0 +1,28 @@
+{
+  "slug": "american-broadcasting-company",
+  "sha256": "5975025b82b18a50fdcb26df080dadab5935ea2d2de3c64899482505c102a3c0",
+  "entity_name": "American Broadcasting Company (ABC)",
+  "aka": ["ABC", "ABC Network", "ABC TV"],
+  "type": "broadcast-network",
+  "country": "US",
+  "founded": "1943",
+  "defunct": null,
+  "parent_company": "The Walt Disney Company (Disney Entertainment)",
+  "official_website": "https://abc.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/American_Broadcasting_Company",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "ABC Black", "hex": "#000000"},
+    {"name": "ABC White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": null,
+  "description": "American commercial broadcast television network and flagship property of Disney Entertainment, founded in 1943 from NBC's Blue Network.",
+  "duplicate_files": ["downloads/A/american-broadcasting-company-abc.svg", "downloads/A/american-broadcasting-company.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – American Broadcasting Company", "url": "https://en.wikipedia.org/wiki/American_Broadcasting_Company"},
+    {"title": "ABC official site", "url": "https://abc.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

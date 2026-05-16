@@ -1,0 +1,27 @@
+{
+  "slug": "screen-gems",
+  "sha256": "56d2c340a20dfade6ae699877aa9fa83b610a541a87532950653ecb56b829c6d",
+  "entity_name": "Screen Gems",
+  "aka": ["Screen Gems Television"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1940",
+  "defunct": null,
+  "parent_company": "Sony Pictures Entertainment",
+  "official_website": "https://www.sonypictures.com/corp/divisions.html",
+  "wikipedia": "https://en.wikipedia.org/wiki/Screen_Gems",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film production and distribution label of Sony Pictures, specializing in genre films, particularly horror and thrillers.",
+  "duplicate_files": [
+    "downloads/S/screen-gems-television.svg",
+    "downloads/S/screen-gems.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Screen Gems", "url": "https://en.wikipedia.org/wiki/Screen_Gems"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

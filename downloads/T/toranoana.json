@@ -1,0 +1,25 @@
+{
+  "slug": "toranoana",
+  "sha256": "950df3b9a418317e9d1126ed2867b79e126b56aa0a750a9a3f73c6bce0756f10",
+  "entity_name": "Toranoana",
+  "aka": ["とらのあな", "Comic Toranoana"],
+  "type": "distributor",
+  "country": "JP",
+  "founded": "1994",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.toranoana.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Toranoana",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese specialty retailer and distributor for doujinshi, manga and anime merchandise; also a production committee member for some anime.",
+  "duplicate_files": ["downloads/T/toranoana.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Toranoana", "url": "https://en.wikipedia.org/wiki/Toranoana"},
+    {"title": "Toranoana official", "url": "https://www.toranoana.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

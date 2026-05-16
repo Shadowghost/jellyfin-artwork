@@ -1,0 +1,28 @@
+{
+  "slug": "hulu",
+  "sha256": "63f6db50483b6736cdd425b39badb23d6455f5311e35d5cd06cd9ddbe7ef1944",
+  "entity_name": "Hulu",
+  "aka": [],
+  "type": "streaming-service",
+  "country": "US",
+  "founded": "2007",
+  "defunct": null,
+  "parent_company": "The Walt Disney Company",
+  "official_website": "https://www.hulu.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Hulu",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Hulu Green", "hex": "#1CE783"}
+  ],
+  "logo_usage": null,
+  "description": "American subscription streaming service majority-owned by The Walt Disney Company.",
+  "duplicate_files": [
+    "downloads/H/hulu.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Hulu", "url": "https://en.wikipedia.org/wiki/Hulu"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

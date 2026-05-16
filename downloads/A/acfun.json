@@ -1,0 +1,27 @@
+{
+  "slug": "acfun",
+  "sha256": "a722d5463b82e3c729a40cd8b7062ec85844e98ffdd40109b87289dc1904e710",
+  "entity_name": "AcFun",
+  "aka": ["A站", "AcFun弹幕视频网"],
+  "type": "streaming-service",
+  "country": "CN",
+  "founded": "2007",
+  "defunct": null,
+  "parent_company": "Kuaishou",
+  "official_website": "https://www.acfun.cn/",
+  "wikipedia": "https://en.wikipedia.org/wiki/AcFun",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "AcFun Orange", "hex": "#FD4C5C"}
+  ],
+  "logo_usage": null,
+  "description": "Chinese video sharing website that hosts anime, comedy and gaming content with bullet-comment (danmaku) functionality; acquired by Kuaishou in 2018.",
+  "duplicate_files": ["downloads/A/acfun.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - AcFun", "url": "https://en.wikipedia.org/wiki/AcFun"},
+    {"title": "AcFun official site", "url": "https://www.acfun.cn/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "televisi-n-espa-ola-tve",
+  "sha256": "864ec45900653a5dac42fbbe05c222a7bfb5fa596f10d88e95b343894fab5b2a",
+  "entity_name": "Televisión Española (TVE)",
+  "aka": ["TVE", "Televisión Española"],
+  "type": "broadcast-network",
+  "country": "ES",
+  "founded": "1956",
+  "defunct": null,
+  "parent_company": "RTVE (Corporación de Radio y Televisión Española)",
+  "official_website": "https://www.rtve.es/television/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Televisi%C3%B3n_Espa%C3%B1ola",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Spanish state-owned public-service television broadcaster, the principal television company in Spain, operated by RTVE.",
+  "duplicate_files": ["downloads/T/televisi-n-espa-ola-tve.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Televisión Española", "url": "https://en.wikipedia.org/wiki/Televisi%C3%B3n_Espa%C3%B1ola"},
+    {"title": "RTVE official site", "url": "https://www.rtve.es/television/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

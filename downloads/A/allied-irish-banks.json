@@ -1,0 +1,27 @@
+{
+  "slug": "allied-irish-banks",
+  "sha256": "d00da09e6014efaf35b790b628f22a0fb474910c000bd3d4f92eb092827704b4",
+  "entity_name": "Allied Irish Banks",
+  "aka": ["AIB", "Allied Irish Bank"],
+  "type": "other",
+  "country": "IE",
+  "founded": "1966",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://aib.ie/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Allied_Irish_Banks",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "AIB Green", "hex": "#0E7B3C"}
+  ],
+  "logo_usage": null,
+  "description": "Irish retail and commercial bank, one of the 'Big Four' commercial banks in Ireland, headquartered in Dublin.",
+  "duplicate_files": ["downloads/A/allied-irish-banks.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Allied Irish Banks", "url": "https://en.wikipedia.org/wiki/Allied_Irish_Banks"},
+    {"title": "AIB official site", "url": "https://aib.ie/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

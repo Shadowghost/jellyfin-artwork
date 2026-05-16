@@ -1,0 +1,24 @@
+{
+  "slug": "itv2",
+  "sha256": "fa84899a6214f80fc6123df5f5a83ba5814aae512e7b5d48f90eaa37d5655eed",
+  "entity_name": "ITV2",
+  "aka": [],
+  "type": "broadcast-network",
+  "country": "GB",
+  "founded": "1998",
+  "defunct": null,
+  "parent_company": "ITV plc",
+  "official_website": "https://www.itv.com/itv2",
+  "wikipedia": "https://en.wikipedia.org/wiki/ITV2",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British free-to-air television channel owned by ITV plc, targeted at younger audiences; known for Love Island and Celebrity Juice.",
+  "duplicate_files": ["downloads/I/itv2.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – ITV2", "url": "https://en.wikipedia.org/wiki/ITV2"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

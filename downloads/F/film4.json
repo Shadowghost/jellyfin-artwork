@@ -1,0 +1,25 @@
+{
+  "slug": "film4",
+  "sha256": "c66598669fd120b41c415edae0bfab37ba831fb97172588511d658f21093f51f",
+  "entity_name": "Film4",
+  "aka": ["FilmFour", "Film Four"],
+  "type": "broadcast-network",
+  "country": "GB",
+  "founded": "1998",
+  "defunct": null,
+  "parent_company": "Channel Four Television Corporation",
+  "official_website": "https://www.channel4.com/film",
+  "wikipedia": "https://en.wikipedia.org/wiki/Film4",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British free-to-air film-focused television channel and production label owned by Channel Four; also operates Film4 Productions, financier of films like Slumdog Millionaire and 12 Years a Slave.",
+  "duplicate_files": ["downloads/F/film4.svg", "downloads/F/filmfour.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Film4", "url": "https://en.wikipedia.org/wiki/Film4"},
+    {"title": "Film4 official site", "url": "https://www.channel4.com/film"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

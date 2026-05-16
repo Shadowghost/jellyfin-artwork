@@ -1,0 +1,28 @@
+{
+  "slug": "starbucks-entertainment",
+  "sha256": "733532b0d3adbd55056a4518789b5f724bb09f1932667bc2f1151c0e31792eda",
+  "entity_name": "Starbucks Entertainment",
+  "aka": ["Starbucks Hear Music"],
+  "type": "other",
+  "country": "US",
+  "founded": "2004",
+  "defunct": null,
+  "parent_company": "Starbucks Corporation",
+  "official_website": "https://about.starbucks.com",
+  "wikipedia": null,
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Starbucks Green", "hex": "#006241"}
+  ],
+  "logo_usage": null,
+  "description": "Entertainment-marketing arm of Starbucks Corporation, partnering on music, books, and films (e.g., Akeelah and the Bee, 2006).",
+  "duplicate_files": [
+    "downloads/S/starbucks-entertainment.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "NPR – Starbucks Enters Film Business", "url": "https://www.npr.org/2006/04/04/5321704/starbucks-enters-film-business"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

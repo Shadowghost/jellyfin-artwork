@@ -1,0 +1,25 @@
+{
+  "slug": "production-i-g",
+  "sha256": "26d1bd50ff5b04f4de8bf5493b2ee6cd93a6ae6142c902deb44d95070fb8a45c",
+  "entity_name": "Production I.G",
+  "aka": ["IG Tatsunoko", "G.T. Film Production (predecessor)", "Production I.G, LLC"],
+  "type": "production-company",
+  "country": "JP",
+  "founded": "1987",
+  "defunct": null,
+  "parent_company": "IG Port",
+  "official_website": "https://www.production-ig.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Production_I.G",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese anime and game studio founded by Mitsuhisa Ishikawa and Takayuki Goto in 1987 (originally as I.G Tatsunoko); known for Ghost in the Shell, Patlabor, Psycho-Pass, and Haikyu!!",
+  "duplicate_files": ["downloads/G/g-t-film-production.svg", "downloads/P/production-i-g.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Production I.G", "url": "https://en.wikipedia.org/wiki/Production_I.G"},
+    {"title": "Production I.G official site", "url": "https://www.production-ig.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

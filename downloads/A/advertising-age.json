@@ -1,0 +1,27 @@
+{
+  "slug": "advertising-age",
+  "sha256": "5255883d89f970348829922da6f62058d338786017ed02d120dd54e886d73a13",
+  "entity_name": "Advertising Age",
+  "aka": ["Ad Age"],
+  "type": "publisher",
+  "country": "US",
+  "founded": "1930",
+  "defunct": null,
+  "parent_company": "Crain Communications",
+  "official_website": "https://adage.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Ad_Age",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American global media brand publishing analysis, news, and data on marketing and media.",
+  "duplicate_files": [
+    "downloads/A/advertising-age.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Ad Age", "url": "https://en.wikipedia.org/wiki/Ad_Age"},
+    {"title": "Ad Age official site", "url": "https://adage.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

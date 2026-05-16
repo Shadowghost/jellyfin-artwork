@@ -1,0 +1,31 @@
+{
+  "slug": "constantin-films",
+  "sha256": "c6de6919f3eeae1b84395838a2e7572f7f3c61f0ca97fb549462fd9d8e5b808b",
+  "entity_name": "Constantin Film",
+  "aka": ["Constantin Film AG", "Constantin Film Produktion GmbH", "Constantin Films"],
+  "type": "studio",
+  "country": "DE",
+  "founded": "1950",
+  "defunct": null,
+  "parent_company": "Highlight Communications",
+  "official_website": "https://www.constantin-film.de",
+  "wikipedia": "https://en.wikipedia.org/wiki/Constantin_Film",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "German film production and distribution company, one of the largest in the German-speaking world.",
+  "duplicate_files": [
+    "downloads/C/constantin-film-international.svg",
+    "downloads/C/constantin-film-production.svg",
+    "downloads/C/constantin-film-produktion-gmbh.svg",
+    "downloads/C/constantin-film-produktion.svg",
+    "downloads/C/constantin-film-produktions.svg",
+    "downloads/C/constantin-films.svg"
+  ],
+  "duplicate_count": 6,
+  "sources": [
+    {"title": "Wikipedia – Constantin Film", "url": "https://en.wikipedia.org/wiki/Constantin_Film"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

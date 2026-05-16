@@ -1,0 +1,25 @@
+{
+  "slug": "arrow-films",
+  "sha256": "9ed6464b759ff5cc5e51e8c0d120b0dcc96398b60478a8ef5fb35757efd4c3a7",
+  "entity_name": "Arrow Films",
+  "aka": ["Arrow Video", "Arrow Academy"],
+  "type": "distributor",
+  "country": "GB",
+  "founded": "1991",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.arrowfilms.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Arrow_Films",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British independent film distribution company specializing in cult, world cinema, and restored classic films via Arrow Video label.",
+  "duplicate_files": ["downloads/A/arrow-films.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Arrow Films", "url": "https://en.wikipedia.org/wiki/Arrow_Films"},
+    {"title": "Arrow Films official site", "url": "https://www.arrowfilms.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

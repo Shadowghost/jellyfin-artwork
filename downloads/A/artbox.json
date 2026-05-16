@@ -1,0 +1,24 @@
+{
+  "slug": "artbox",
+  "sha256": "6446e843bb31328dcd88b840af8938a3f0130c305b7828750cb80c85477dfeb3",
+  "entity_name": "Artbox",
+  "aka": [],
+  "type": "production-company",
+  "country": "TH",
+  "founded": null,
+  "defunct": null,
+  "parent_company": null,
+  "official_website": null,
+  "wikipedia": null,
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Animation/production studio; identity uncertain from slug alone.",
+  "duplicate_files": ["downloads/A/artbox.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Search – Artbox studio", "url": "https://www.google.com/search?q=artbox+studio+animation"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "low"
+}

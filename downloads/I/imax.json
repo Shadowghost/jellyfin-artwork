@@ -1,0 +1,31 @@
+{
+  "slug": "imax",
+  "sha256": "b4f23419715e636568ec6503aa377c073cd59bedd2b209e67d5b401071dc396c",
+  "entity_name": "IMAX Corporation",
+  "aka": ["IMAX", "IMAX Filmed Entertainment", "IMAX Film Entertainment"],
+  "type": "distributor",
+  "country": "CA",
+  "founded": "1967",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.imax.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/IMAX",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "IMAX Blue", "hex": "#0058A3"}
+  ],
+  "logo_usage": null,
+  "description": "Canadian-American company specializing in motion picture technologies and large-format film production, exhibition, and post-production.",
+  "duplicate_files": [
+    "downloads/I/imax-film-entertainment.svg",
+    "downloads/I/imax-filmed-entertainment.svg",
+    "downloads/I/imax.svg"
+  ],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia – IMAX", "url": "https://en.wikipedia.org/wiki/IMAX"},
+    {"title": "IMAX official site", "url": "https://www.imax.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

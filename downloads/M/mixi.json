@@ -1,0 +1,24 @@
+{
+  "slug": "mixi",
+  "sha256": "f309f15725aa7144166f445db520c9662b8af9276cb288a33f2b939b8d11a342",
+  "entity_name": "Mixi",
+  "aka": ["MIXI, Inc."],
+  "type": "other",
+  "country": "JP",
+  "founded": "1997",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://mixi.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Mixi",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese social-networking and entertainment company, operator of mixi social network and developer of Monster Strike; sometimes credited on anime productions.",
+  "duplicate_files": ["downloads/M/mixi.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Mixi", "url": "https://en.wikipedia.org/wiki/Mixi"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

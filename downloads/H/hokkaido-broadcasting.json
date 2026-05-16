@@ -1,0 +1,26 @@
+{
+  "slug": "hokkaido-broadcasting",
+  "sha256": "fce19d5f14c9a4b4f1a72f69a001874f8f10ae0e1e83279179f4df2fdcae33ac",
+  "entity_name": "Hokkaido Broadcasting Co., Ltd.",
+  "aka": ["HBC", "Hokkaido Hoso"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1951",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.hbc.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Hokkaido_Broadcasting_Company",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial broadcaster based in Sapporo, Hokkaido, affiliated with JNN/TBS.",
+  "duplicate_files": [
+    "downloads/H/hokkaido-broadcasting.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Hokkaido Broadcasting Company", "url": "https://en.wikipedia.org/wiki/Hokkaido_Broadcasting_Company"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "tv-land",
+  "sha256": "eeeb6a2dbcabbfd9aac67172aa68539a77aa7faa57aa566bc3e0e1ce548664c9",
+  "entity_name": "TV Land",
+  "aka": ["TVLand"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1996",
+  "defunct": null,
+  "parent_company": "Paramount Global",
+  "official_website": "https://www.tvland.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/TV_Land",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American basic cable network owned by Paramount Global, originally focused on classic TV reruns and later on original sitcoms like Hot in Cleveland and Younger.",
+  "duplicate_files": ["downloads/T/tv-land.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – TV Land", "url": "https://en.wikipedia.org/wiki/TV_Land"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

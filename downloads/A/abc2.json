@@ -1,0 +1,26 @@
+{
+  "slug": "abc2",
+  "sha256": "7b5c32fad3bcad63ac7af8b075187dd01bcdc1a8abc7ed9e4622d22291dab874",
+  "entity_name": "ABC2",
+  "aka": ["ABC TV Plus", "ABC Comedy"],
+  "type": "broadcast-network",
+  "country": "AU",
+  "founded": "2005",
+  "defunct": null,
+  "parent_company": "Australian Broadcasting Corporation",
+  "official_website": "https://www.abc.net.au/tv/",
+  "wikipedia": "https://en.wikipedia.org/wiki/ABC_TV_Plus",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Australian free-to-air digital television channel operated by the ABC, later rebranded as ABC Comedy and then ABC TV Plus.",
+  "duplicate_files": [
+    "downloads/A/abc2.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – ABC TV Plus", "url": "https://en.wikipedia.org/wiki/ABC_TV_Plus"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

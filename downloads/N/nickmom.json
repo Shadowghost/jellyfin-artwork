@@ -1,0 +1,24 @@
+{
+  "slug": "nickmom",
+  "sha256": "8c8a7093465c4c2c600e5f438f91018c2c7662a476100a50624ed79cbf63beed",
+  "entity_name": "NickMom",
+  "aka": [],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "2012",
+  "defunct": "2015",
+  "parent_company": "Nickelodeon / Paramount Global",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/NickMom",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American programming block on Nick Jr. targeting mothers with adult-oriented humor; ran from 2012 to 2015.",
+  "duplicate_files": ["downloads/N/nickmom.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - NickMom", "url": "https://en.wikipedia.org/wiki/NickMom"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "clan-tve",
+  "sha256": "11d6df4f05e9371fec9cfc17195b8ecc79a16c7cfb6de874c38a6938a4bcd87b",
+  "entity_name": "Clan TVE",
+  "aka": ["Clan"],
+  "type": "broadcast-network",
+  "country": "ES",
+  "founded": "2005",
+  "defunct": null,
+  "parent_company": "Radiotelevisión Española (RTVE)",
+  "official_website": "https://www.rtve.es/infantil/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Clan_(TV_channel)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Spanish free-to-air children's television channel operated by RTVE.",
+  "duplicate_files": ["downloads/C/clan-tve.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Clan (TV channel)", "url": "https://en.wikipedia.org/wiki/Clan_(TV_channel)"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

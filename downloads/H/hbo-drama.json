@@ -1,0 +1,28 @@
+{
+  "slug": "hbo-drama",
+  "sha256": "bcdcde593a4972eac35e5b07f1fef66117124bb14d0e819ff52b9804e7fa067a",
+  "entity_name": "HBO Drama",
+  "aka": [],
+  "type": "cable-network",
+  "country": "US",
+  "founded": null,
+  "defunct": null,
+  "parent_company": "Warner Bros. Discovery (HBO)",
+  "official_website": "https://www.hbo.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/HBO",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "HBO Black", "hex": "#000000"},
+    {"name": "HBO White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": null,
+  "description": "Themed-genre branded version of HBO focusing on drama programming, operated by HBO.",
+  "duplicate_files": ["downloads/H/hbo-drama.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - HBO", "url": "https://en.wikipedia.org/wiki/HBO"},
+    {"title": "HBO official", "url": "https://www.hbo.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

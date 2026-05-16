@@ -1,0 +1,24 @@
+{
+  "slug": "turner-broadcasting-system",
+  "sha256": "a460f0af919f218a997a7b785c4522707e9de89e8225361c3a753f7e53ecf4e4",
+  "entity_name": "Turner Broadcasting System",
+  "aka": ["TBS Inc.", "Turner"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1965",
+  "defunct": "2019",
+  "parent_company": "WarnerMedia (merged into WarnerMedia Entertainment)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Turner_Broadcasting_System",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American media conglomerate founded by Ted Turner; its operations were folded into WarnerMedia in 2019.",
+  "duplicate_files": ["downloads/T/turner-broadcasting-system.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Turner Broadcasting System", "url": "https://en.wikipedia.org/wiki/Turner_Broadcasting_System"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

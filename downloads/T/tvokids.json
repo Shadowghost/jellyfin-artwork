@@ -1,0 +1,25 @@
+{
+  "slug": "tvokids",
+  "sha256": "d213f99fc5c191288eebc9271d743530b5f31d9cd8d9ac8e094af6b74035f419",
+  "entity_name": "TVOKids",
+  "aka": ["TVO Kids"],
+  "type": "broadcast-network",
+  "country": "CA",
+  "founded": "1994",
+  "defunct": null,
+  "parent_company": "TVO (Ontario Educational Communications Authority)",
+  "official_website": "https://www.tvokids.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/TVOKids",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Canadian children's programming block and brand of TVO, the Ontario public educational broadcaster.",
+  "duplicate_files": ["downloads/T/tvokids.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - TVOKids", "url": "https://en.wikipedia.org/wiki/TVOKids"},
+    {"title": "TVOKids official", "url": "https://www.tvokids.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "filmax",
+  "sha256": "79f4c55d6b806f5e9ee4434fd75c2b2c9405cda626744784d1bc3fb80c86b6a3",
+  "entity_name": "Filmax",
+  "aka": ["Filmax Entertainment"],
+  "type": "production-company",
+  "country": "ES",
+  "founded": "1953",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.filmax.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Filmax",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Spanish film production and distribution company based in Barcelona, known for the [REC] horror franchise.",
+  "duplicate_files": ["downloads/F/filmax.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Filmax", "url": "https://en.wikipedia.org/wiki/Filmax"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

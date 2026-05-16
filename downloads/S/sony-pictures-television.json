@@ -1,0 +1,25 @@
+{
+  "slug": "sony-pictures-television",
+  "sha256": "e9b667c5e258eae00d40ff17eb46ebe7075c5cd2b04ae83fbccc012d97aba71b",
+  "entity_name": "Sony Pictures Television",
+  "aka": ["SPT", "Sony Pictures TV"],
+  "type": "studio",
+  "country": "US",
+  "founded": "2002",
+  "defunct": null,
+  "parent_company": "Sony Pictures Entertainment (Sony Group Corporation)",
+  "official_website": "https://www.sonypicturestelevision.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sony_Pictures_Television",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American television production and distribution studio, the TV arm of Sony Pictures Entertainment producing series such as Breaking Bad and Jeopardy!",
+  "duplicate_files": ["downloads/S/sony-pictures-television.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Sony Pictures Television", "url": "https://en.wikipedia.org/wiki/Sony_Pictures_Television"},
+    {"title": "Sony Pictures Television official site", "url": "https://www.sonypicturestelevision.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

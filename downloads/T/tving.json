@@ -1,0 +1,28 @@
+{
+  "slug": "tving",
+  "sha256": "04e11688837c7d48dfadc37bcbec99be54bcacc078688f1a20a323e3b09578c0",
+  "entity_name": "TVING",
+  "aka": ["티빙"],
+  "type": "streaming-service",
+  "country": "KR",
+  "founded": "2010",
+  "defunct": null,
+  "parent_company": "CJ ENM",
+  "official_website": "https://www.tving.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Tving",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "TVING Red", "hex": "#FF153C"}
+  ],
+  "logo_usage": null,
+  "description": "South Korean over-the-top streaming service operated by CJ ENM, offering Korean TV shows, films, and live channels.",
+  "duplicate_files": [
+    "downloads/T/tving.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Tving", "url": "https://en.wikipedia.org/wiki/Tving"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

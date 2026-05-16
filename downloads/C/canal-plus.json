@@ -1,0 +1,28 @@
+{
+  "slug": "canal-plus",
+  "sha256": "a4ff38e1edd11432b1996e64fb6c177ffc797f7fb45d2e79cb597206c7008339",
+  "entity_name": "Canal+",
+  "aka": ["Canal Plus"],
+  "type": "cable-network",
+  "country": "FR",
+  "founded": "1984",
+  "defunct": null,
+  "parent_company": "Canal+ Group (Vivendi/Bolloré)",
+  "official_website": "https://www.canalplus.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Canal%2B",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Canal+ Black", "hex": "#000000"},
+    {"name": "Canal+ White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": null,
+  "description": "French premium television channel and pay-TV operator launched in 1984.",
+  "duplicate_files": ["downloads/C/canal-plus.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Canal+", "url": "https://en.wikipedia.org/wiki/Canal%2B"},
+    {"title": "Canal+ official", "url": "https://www.canalplus.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

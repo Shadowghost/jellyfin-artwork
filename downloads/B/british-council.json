@@ -1,0 +1,27 @@
+{
+  "slug": "british-council",
+  "sha256": "175f3be1294faff9f11ce0b90bc7ed842afe6941ed2dfab52be149d1c3bd28e2",
+  "entity_name": "British Council",
+  "aka": ["British Film Council"],
+  "type": "government-agency",
+  "country": "GB",
+  "founded": "1934",
+  "defunct": null,
+  "parent_company": "United Kingdom Government",
+  "official_website": "https://www.britishcouncil.org/",
+  "wikipedia": "https://en.wikipedia.org/wiki/British_Council",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "British Council Purple", "hex": "#691B45"}
+  ],
+  "logo_usage": null,
+  "description": "United Kingdom's international organisation for cultural relations and educational opportunities.",
+  "duplicate_files": ["downloads/B/british-council.svg", "downloads/B/british-film-council.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - British Council", "url": "https://en.wikipedia.org/wiki/British_Council"},
+    {"title": "British Council official", "url": "https://www.britishcouncil.org/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

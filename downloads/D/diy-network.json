@@ -1,0 +1,24 @@
+{
+  "slug": "diy-network",
+  "sha256": "4d931490500b3d61492a378edd0aa9b75cf29fb33ab5cdbe75e6e04a0cf3d78e",
+  "entity_name": "DIY Network",
+  "aka": ["Do It Yourself Network"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1999",
+  "defunct": "2020",
+  "parent_company": "Warner Bros. Discovery",
+  "official_website": "https://www.diynetwork.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/DIY_Network",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American cable channel focused on home improvement and do-it-yourself projects; replaced by Magnolia Network in 2022.",
+  "duplicate_files": ["downloads/D/diy-network.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – DIY Network", "url": "https://en.wikipedia.org/wiki/DIY_Network"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

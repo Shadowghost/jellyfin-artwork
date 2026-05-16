@@ -1,0 +1,25 @@
+{
+  "slug": "bushiroad",
+  "sha256": "516bd636654e90ae368b645699e46138fa41cc4f82249de2c71d2b9d958e4f15",
+  "entity_name": "Bushiroad",
+  "aka": ["Bushiroad Inc.", "Bushiroad Move"],
+  "type": "production-company",
+  "country": "JP",
+  "founded": "2007",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://bushiroad.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Bushiroad",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese entertainment company known for trading card games (Cardfight!! Vanguard, Weiss Schwarz), anime production (Bushiroad Move), and pro wrestling (NJPW, Stardom).",
+  "duplicate_files": ["downloads/B/bushiroad-move.svg", "downloads/B/bushiroad.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Bushiroad", "url": "https://en.wikipedia.org/wiki/Bushiroad"},
+    {"title": "Bushiroad official site", "url": "https://bushiroad.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "nbc",
+  "sha256": "9b630e4351f858898c051904f68aa60544ef34875d60737ead1b996b0f4c3609",
+  "entity_name": "NBC (National Broadcasting Company)",
+  "aka": ["NBC", "NBC Universal Television", "NBC Films"],
+  "type": "broadcast-network",
+  "country": "US",
+  "founded": "1926",
+  "defunct": null,
+  "parent_company": "NBCUniversal (Comcast)",
+  "official_website": "https://www.nbc.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/NBC",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "NBC Yellow", "hex": "#FCB711"},
+    {"name": "NBC Orange", "hex": "#F37021"},
+    {"name": "NBC Red", "hex": "#CC004C"},
+    {"name": "NBC Purple", "hex": "#6460AA"},
+    {"name": "NBC Blue", "hex": "#0089D0"},
+    {"name": "NBC Green", "hex": "#0DB14B"}
+  ],
+  "logo_usage": null,
+  "description": "American English-language commercial broadcast television and radio network owned by NBCUniversal (Comcast), known for its peacock logo.",
+  "duplicate_files": ["downloads/N/nbc-universal-television.svg", "downloads/N/nbc.svg", "downloads/N/nbcfilms.svg"],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia – NBC", "url": "https://en.wikipedia.org/wiki/NBC"},
+    {"title": "NBC official site", "url": "https://www.nbc.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

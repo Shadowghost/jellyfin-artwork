@@ -1,0 +1,24 @@
+{
+  "slug": "ora-tv",
+  "sha256": "bfa936097b6c06ade417686124899298757c50168ee1b4c7351329d8cf734655",
+  "entity_name": "Ora TV",
+  "aka": ["Ora.TV"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2012",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.ora.tv/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Ora_TV",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American on-demand digital television network co-founded by Larry King and Carlos Slim Helú.",
+  "duplicate_files": ["downloads/O/ora-tv.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Ora TV", "url": "https://en.wikipedia.org/wiki/Ora_TV"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

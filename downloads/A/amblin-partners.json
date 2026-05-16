@@ -1,0 +1,27 @@
+{
+  "slug": "amblin-partners",
+  "sha256": "ee5b38dd3337cb7d088533e19cf689180d19e39bb3866906fdfe2b5fc1d8eb60",
+  "entity_name": "Amblin Partners",
+  "aka": ["Amblin"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2015",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.amblin.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Amblin_Partners",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American entertainment company founded by Steven Spielberg, combining Amblin Entertainment, DreamWorks Pictures, and Participant.",
+  "duplicate_files": [
+    "downloads/A/amblin-partners.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Amblin Partners", "url": "https://en.wikipedia.org/wiki/Amblin_Partners"},
+    {"title": "Amblin official site", "url": "https://www.amblin.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

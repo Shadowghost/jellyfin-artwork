@@ -1,0 +1,25 @@
+{
+  "slug": "european-broadcasting-union",
+  "sha256": "ec05ee1199a1bfd82ffe3f538a68dae15a72b7841b29d8f0653fec0bd768160e",
+  "entity_name": "European Broadcasting Union",
+  "aka": ["EBU", "UER (Union Européenne de Radio-Télévision)"],
+  "type": "other",
+  "country": "CH",
+  "founded": "1950",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.ebu.ch",
+  "wikipedia": "https://en.wikipedia.org/wiki/European_Broadcasting_Union",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Alliance of public service media organisations across Europe and beyond, headquartered in Geneva; producer of the Eurovision and Euroradio networks and the Eurovision Song Contest.",
+  "duplicate_files": ["downloads/E/european-broadcasting-union.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – European Broadcasting Union", "url": "https://en.wikipedia.org/wiki/European_Broadcasting_Union"},
+    {"title": "EBU official site", "url": "https://www.ebu.ch/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "dc-comics",
+  "sha256": "cab313ecffbb2519e4bbe8b6935949d962a6c6a3c72521d608b655a694dc1527",
+  "entity_name": "DC Comics",
+  "aka": ["DC", "Detective Comics", "DC Entertainment"],
+  "type": "publisher",
+  "country": "US",
+  "founded": "1934",
+  "defunct": null,
+  "parent_company": "Warner Bros. Discovery (DC Studios)",
+  "official_website": "https://www.dc.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/DC_Comics",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "DC Blue", "hex": "#0078F0"},
+    {"name": "DC Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "American comic book publisher and one of the largest in the world, home to Superman, Batman, Wonder Woman, and the DC Universe.",
+  "duplicate_files": ["downloads/D/dc-comics.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - DC Comics", "url": "https://en.wikipedia.org/wiki/DC_Comics"},
+    {"title": "DC official site", "url": "https://www.dc.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

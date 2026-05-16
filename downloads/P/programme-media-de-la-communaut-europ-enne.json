@@ -1,0 +1,24 @@
+{
+  "slug": "programme-media-de-la-communaut-europ-enne",
+  "sha256": "bae33f160a7aba2b85d986133997521669fdd80b0def7c822a28542b639f655d",
+  "entity_name": "Programme MEDIA de la Communauté européenne",
+  "aka": ["MEDIA Programme", "European Community MEDIA Programme"],
+  "type": "government-agency",
+  "country": "EU",
+  "founded": "1991",
+  "defunct": null,
+  "parent_company": "European Commission",
+  "official_website": "https://culture.ec.europa.eu/creative-europe",
+  "wikipedia": "https://en.wikipedia.org/wiki/Creative_Europe",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "European Union funding programme supporting the development and distribution of European audiovisual works; predecessor to Creative Europe MEDIA.",
+  "duplicate_files": ["downloads/P/programme-media-de-la-communaut-europ-enne.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Creative Europe", "url": "https://en.wikipedia.org/wiki/Creative_Europe"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

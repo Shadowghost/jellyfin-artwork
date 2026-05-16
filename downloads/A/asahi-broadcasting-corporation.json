@@ -1,0 +1,24 @@
+{
+  "slug": "asahi-broadcasting-corporation",
+  "sha256": "544d6c648e8d9d0ef4b043f63de8e7e47c41f43b1f3146491de9778c403e1272",
+  "entity_name": "Asahi Broadcasting Corporation",
+  "aka": ["ABC", "ABC Japan", "Asahi Broadcasting Group Holdings"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1951",
+  "defunct": null,
+  "parent_company": "Asahi Broadcasting Group Holdings Corporation",
+  "official_website": "https://corp.asahi.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Asahi_Broadcasting_Corporation",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese broadcasting holding company headquartered in Osaka; its TV operations (ABC TV) are a Kansai region key station for TV Asahi's ANN network.",
+  "duplicate_files": ["downloads/A/asahi-broadcasting-corporation.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Asahi Broadcasting Corporation", "url": "https://en.wikipedia.org/wiki/Asahi_Broadcasting_Corporation"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

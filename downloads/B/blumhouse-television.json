@@ -1,0 +1,31 @@
+{
+  "slug": "blumhouse-television",
+  "sha256": "7e6bfc5cba45eb9be30453ea096f8a46074212d74ac3a7b2ade8efb3479a3a0a",
+  "entity_name": "Blumhouse Television",
+  "aka": ["Blumhouse Productions", "Blumhouse"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2000",
+  "defunct": null,
+  "parent_company": "Blumhouse Productions",
+  "official_website": "https://www.blumhouse.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Blumhouse_Productions",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Blumhouse Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "American film and television production company founded by Jason Blum, specializing in low-budget horror including Paranormal Activity, Get Out, The Purge, and Insidious.",
+  "duplicate_files": [
+    "downloads/B/blumhansonallen-films.svg",
+    "downloads/B/blumhouse-productions.svg",
+    "downloads/B/blumhouse-television.svg"
+  ],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia – Blumhouse Productions", "url": "https://en.wikipedia.org/wiki/Blumhouse_Productions"},
+    {"title": "Blumhouse official site", "url": "https://www.blumhouse.com"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

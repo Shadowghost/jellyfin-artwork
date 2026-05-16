@@ -1,0 +1,24 @@
+{
+  "slug": "wowow",
+  "sha256": "28712f44f53a9414521411f28d622f1b8127cfcbfd9b2a57d61a06fbcffff54b",
+  "entity_name": "WOWOW",
+  "aka": ["WOWOW Inc.", "Japan Satellite Broadcasting"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1984",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.wowow.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/WOWOW",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese premium satellite/pay TV broadcaster operating multiple channels (WOWOW Prime, Live, Cinema) showing films, sports, drama, and original productions.",
+  "duplicate_files": ["downloads/W/wowow-films.svg", "downloads/W/wowow-prime.svg", "downloads/W/wowow.svg"],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia - WOWOW", "url": "https://en.wikipedia.org/wiki/WOWOW"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

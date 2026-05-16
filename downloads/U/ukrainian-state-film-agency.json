@@ -1,0 +1,25 @@
+{
+  "slug": "ukrainian-state-film-agency",
+  "sha256": "0fdfb7977649eec9564eec4b6b9c1e23ea01c5d471821dfaff184c1ad8733963",
+  "entity_name": "Ukrainian State Film Agency",
+  "aka": ["Derzhkino", "Держкіно", "State Cinema of Ukraine"],
+  "type": "government-agency",
+  "country": "UA",
+  "founded": "2011",
+  "defunct": null,
+  "parent_company": "Ministry of Culture and Information Policy of Ukraine",
+  "official_website": "https://usfa.gov.ua",
+  "wikipedia": "https://en.wikipedia.org/wiki/Ukrainian_State_Film_Agency",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Central executive body of the Ukrainian government implementing state policy in cinematography, providing funding for film production in Ukraine.",
+  "duplicate_files": ["downloads/U/ukrainian-state-film-agency.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Ukrainian State Film Agency", "url": "https://en.wikipedia.org/wiki/Ukrainian_State_Film_Agency"},
+    {"title": "USFA official site", "url": "https://usfa.gov.ua"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

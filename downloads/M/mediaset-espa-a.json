@@ -1,0 +1,26 @@
+{
+  "slug": "mediaset-espa-a",
+  "sha256": "35a616e839536b3ac2d9af5f8935aab4e7d68f7846987f2f2fb149f6100e7fb9",
+  "entity_name": "Mediaset España",
+  "aka": ["Mediaset España Comunicación"],
+  "type": "broadcast-network",
+  "country": "ES",
+  "founded": "1989",
+  "defunct": null,
+  "parent_company": "MFE - MediaForEurope",
+  "official_website": "https://www.mediaset.es/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Mediaset_Espa%C3%B1a_Comunicaci%C3%B3n",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Spanish mass media company owning several Spanish television channels including Telecinco and Cuatro.",
+  "duplicate_files": [
+    "downloads/M/mediaset-espa-a.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Mediaset España", "url": "https://en.wikipedia.org/wiki/Mediaset_Espa%C3%B1a_Comunicaci%C3%B3n"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "chuck-lorre-productions",
+  "sha256": "1e2cfbb9ecf3961b14204329ff4584539fe27908703facf1d2232142cd7810ac",
+  "entity_name": "Chuck Lorre Productions",
+  "aka": ["CLP"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1997",
+  "defunct": null,
+  "parent_company": "Warner Bros. Television Studios",
+  "official_website": "https://www.chucklorre.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Chuck_Lorre_Productions",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": "Best known for its 'vanity cards' shown at the end of each episode.",
+  "description": "American television production company founded by Chuck Lorre, producer of sitcoms including The Big Bang Theory, Two and a Half Men, and Young Sheldon.",
+  "duplicate_files": ["downloads/C/chuck-lorre-productions.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Chuck Lorre Productions", "url": "https://en.wikipedia.org/wiki/Chuck_Lorre_Productions"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

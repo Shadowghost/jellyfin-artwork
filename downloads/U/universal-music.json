@@ -1,0 +1,24 @@
+{
+  "slug": "universal-music",
+  "sha256": "f151576a7992ff371187430ad1c978823cdbe9098a775808f8b6f0c6310ce89c",
+  "entity_name": "Universal Music Group",
+  "aka": ["UMG", "Universal Music"],
+  "type": "record-label",
+  "country": "NL",
+  "founded": "1934",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.universalmusic.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Universal_Music_Group",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Dutch-American multinational music corporation and the largest music company in the world; headquartered in Hilversum and operates a global network of labels.",
+  "duplicate_files": ["downloads/U/universal-music-group.svg", "downloads/U/universal-music-japan.svg", "downloads/U/universal-music.svg"],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia - Universal Music Group", "url": "https://en.wikipedia.org/wiki/Universal_Music_Group"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

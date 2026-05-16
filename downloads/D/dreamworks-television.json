@@ -1,0 +1,24 @@
+{
+  "slug": "dreamworks-television",
+  "sha256": "b875570a6ccb8017163d0370420873bc1bf12fd6d6dde0ef1034673af84af86a",
+  "entity_name": "DreamWorks Animation Television",
+  "aka": ["DreamWorks Television", "DreamWorks Animation TV"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2013",
+  "defunct": null,
+  "parent_company": "DreamWorks Animation / NBCUniversal / Comcast",
+  "official_website": "https://www.dreamworks.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/DreamWorks_Animation_Television",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Television production division of DreamWorks Animation, producing animated TV series for streaming and broadcast.",
+  "duplicate_files": ["downloads/D/dreamworks-television.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - DreamWorks Animation Television", "url": "https://en.wikipedia.org/wiki/DreamWorks_Animation_Television"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

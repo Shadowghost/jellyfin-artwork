@@ -1,0 +1,24 @@
+{
+  "slug": "fox-sports-net",
+  "sha256": "933ac91ae3e470ae554a65e50e51370d53dfa43fb785b9a26b071ab080c9cc9d",
+  "entity_name": "Fox Sports Net",
+  "aka": ["FSN", "Fox Sports Networks", "Bally Sports (successor)"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1996",
+  "defunct": "2021",
+  "parent_company": "Sinclair Broadcast Group / Diamond Sports Group (formerly News Corporation/21st Century Fox)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Fox_Sports_Networks",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American group of regional sports networks originally owned by Fox/News Corporation; sold to Sinclair/Diamond Sports in 2019 and rebranded as Bally Sports in 2021.",
+  "duplicate_files": ["downloads/F/fox-sports-net.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Fox Sports Networks", "url": "https://en.wikipedia.org/wiki/Fox_Sports_Networks"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

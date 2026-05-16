@@ -1,0 +1,27 @@
+{
+  "slug": "bandai-namco-games",
+  "sha256": "91db2cb20be512a467052363b3195456fffe619e773140fdad895e7e4966bfd5",
+  "entity_name": "Bandai Namco Entertainment",
+  "aka": ["Namco Bandai Games", "Bandai Namco Games", "BNEI"],
+  "type": "production-company",
+  "country": "JP",
+  "founded": "2006",
+  "defunct": null,
+  "parent_company": "Bandai Namco Holdings",
+  "official_website": "https://www.bandainamcoent.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Bandai Namco Red", "hex": "#E60012"}
+  ],
+  "logo_usage": null,
+  "description": "Japanese video game publisher and entertainment company, formed in 2006 from the merger of Namco and Bandai; renamed from Namco Bandai Games to Bandai Namco Entertainment in 2014.",
+  "duplicate_files": ["downloads/B/bandai-namco-games.svg", "downloads/N/namco-bandai-games.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Bandai Namco Entertainment", "url": "https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment"},
+    {"title": "Bandai Namco official site", "url": "https://www.bandainamcoent.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

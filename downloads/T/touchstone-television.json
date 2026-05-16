@@ -1,0 +1,24 @@
+{
+  "slug": "touchstone-television",
+  "sha256": "70fce8a7846116d3e600796e66ac2cdcf43f838366b8e83d41f8792746163a0f",
+  "entity_name": "Touchstone Television",
+  "aka": ["ABC Studios (later)", "20th Television (current)"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1985",
+  "defunct": "2007",
+  "parent_company": "The Walt Disney Company",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/ABC_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American television production company that was part of The Walt Disney Studios from 1985 until 2007, when it was rebranded as ABC Studios; produced Desperate Housewives, Lost, Grey's Anatomy and Scrubs.",
+  "duplicate_files": ["downloads/T/touchstone-television.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – ABC Studios (formerly Touchstone Television)", "url": "https://en.wikipedia.org/wiki/ABC_Studios"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

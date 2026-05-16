@@ -1,0 +1,28 @@
+{
+  "slug": "ea-international",
+  "sha256": "77a1f157803154a753b7f6f810546e1ba0fd4f678fc8a8fc8b609a4134438b1d",
+  "entity_name": "Electronic Arts",
+  "aka": ["EA", "EA International"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1982",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.ea.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Electronic_Arts",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "EA Red", "hex": "#FF4747"},
+    {"name": "EA Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "American video game company headquartered in Redwood City, California, one of the world's largest publishers.",
+  "duplicate_files": ["downloads/E/ea-international.svg", "downloads/E/electronic-arts-ea.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Electronic Arts", "url": "https://en.wikipedia.org/wiki/Electronic_Arts"},
+    {"title": "EA official site", "url": "https://www.ea.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

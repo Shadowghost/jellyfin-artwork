@@ -1,0 +1,25 @@
+{
+  "slug": "hr-fernsehen",
+  "sha256": "da5cd13dba6c31c493d5beb20baa1cd0a680481b6ba802dd4ff1ff5de7af8308",
+  "entity_name": "hr-fernsehen",
+  "aka": ["HR Fernsehen", "Hessen Fernsehen", "Hessischer Rundfunk Television"],
+  "type": "broadcast-network",
+  "country": "DE",
+  "founded": "1964",
+  "defunct": null,
+  "parent_company": "Hessischer Rundfunk (ARD)",
+  "official_website": "https://www.hr-fernsehen.de/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Hr-fernsehen",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Regional German public television channel operated by Hessischer Rundfunk for the state of Hesse; part of the ARD network and headquartered in Frankfurt.",
+  "duplicate_files": ["downloads/H/hr-fernsehen.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – hr-fernsehen", "url": "https://en.wikipedia.org/wiki/Hr-fernsehen"},
+    {"title": "Wikipedia – Hessischer Rundfunk", "url": "https://en.wikipedia.org/wiki/Hessischer_Rundfunk"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

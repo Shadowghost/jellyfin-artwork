@@ -1,0 +1,24 @@
+{
+  "slug": "heyday-films",
+  "sha256": "6051bd437acc3604413b95ac9d8e42d25b41b5d44924002b08e66ebdea9d99c2",
+  "entity_name": "Heyday Films",
+  "aka": ["Heyday"],
+  "type": "production-company",
+  "country": "GB",
+  "founded": "1997",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.heydayfilms.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Heyday_Films",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British film and television production company founded by David Heyman, producer of the Harry Potter and Fantastic Beasts film series.",
+  "duplicate_files": ["downloads/H/heyday-films.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Heyday Films", "url": "https://en.wikipedia.org/wiki/Heyday_Films"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

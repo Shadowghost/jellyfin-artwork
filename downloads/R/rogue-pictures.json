@@ -1,0 +1,24 @@
+{
+  "slug": "rogue-pictures",
+  "sha256": "bd60f9ed186d21cb2010814104015095020a807ba0abe9d2651af65cdd6170b9",
+  "entity_name": "Rogue Pictures",
+  "aka": ["Rogue"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1998",
+  "defunct": "2012",
+  "parent_company": "Relativity Media (formerly Universal Pictures/Focus Features)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Rogue_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film label originally a genre division of USA Films/Universal/Focus Features, later sold to Relativity Media; produced genre films such as Shaun of the Dead and Hot Fuzz.",
+  "duplicate_files": ["downloads/R/rogue-pictures.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Rogue Pictures", "url": "https://en.wikipedia.org/wiki/Rogue_Pictures"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

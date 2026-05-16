@@ -1,0 +1,26 @@
+{
+  "slug": "game-freak",
+  "sha256": "0d86c624fc788892f5dd46c78c6979ee61bb40a9238ebd882bde1eb215e41545",
+  "entity_name": "Game Freak",
+  "aka": ["Game Freak Inc."],
+  "type": "other",
+  "country": "JP",
+  "founded": "1989",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.gamefreak.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Game_Freak",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese video game developer best known for developing the Pokémon role-playing video game series.",
+  "duplicate_files": [
+    "downloads/G/game-freak.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Game Freak", "url": "https://en.wikipedia.org/wiki/Game_Freak"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

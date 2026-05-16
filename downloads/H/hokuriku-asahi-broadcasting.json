@@ -1,0 +1,25 @@
+{
+  "slug": "hokuriku-asahi-broadcasting",
+  "sha256": "cdb78d2d01fe6a730d6d5bbfe6153cb945ac5437254d6ee42ec3f42f0a48d30e",
+  "entity_name": "Hokuriku Asahi Broadcasting",
+  "aka": ["HAB", "Hokuriku Asahi Hoso"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1991",
+  "defunct": null,
+  "parent_company": "All-Nippon News Network (ANN)",
+  "official_website": "https://www.hab.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Hokuriku_Asahi_Broadcasting",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial television station based in Ishikawa Prefecture, affiliated with TV Asahi and All-Nippon News Network.",
+  "duplicate_files": ["downloads/H/hokuriku-asahi-broadcasting.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Hokuriku Asahi Broadcasting", "url": "https://en.wikipedia.org/wiki/Hokuriku_Asahi_Broadcasting"},
+    {"title": "HAB official site", "url": "https://www.hab.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

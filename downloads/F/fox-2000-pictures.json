@@ -1,0 +1,24 @@
+{
+  "slug": "fox-2000-pictures",
+  "sha256": "0d3360e1d39134c2c13bc71b34d3e840229812d01d290c1daf276ac257fbed24",
+  "entity_name": "Fox 2000 Pictures",
+  "aka": ["Fox 2000"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1994",
+  "defunct": "2020",
+  "parent_company": "20th Century Studios (The Walt Disney Company)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Fox_2000_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film production label of 20th Century Fox, shuttered after the Disney acquisition in 2020; known for Fight Club, Cast Away, and Hidden Figures.",
+  "duplicate_files": ["downloads/F/fox-2000-pictures.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Fox 2000 Pictures", "url": "https://en.wikipedia.org/wiki/Fox_2000_Pictures"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

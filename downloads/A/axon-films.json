@@ -1,0 +1,27 @@
+{
+  "slug": "axon-films",
+  "sha256": "99f739feec3f335e092337d070f706da3146e97926b2503f1f05d4ae28911585",
+  "entity_name": "Axon Films",
+  "aka": [],
+  "type": "production-company",
+  "country": "US",
+  "founded": null,
+  "defunct": null,
+  "parent_company": null,
+  "official_website": null,
+  "wikipedia": null,
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film production company, credited on releases including Appaloosa (2008).",
+  "duplicate_files": [
+    "downloads/A/axon-films.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "IMDb – Axon Films", "url": "https://www.imdb.com/company/co0246824/"},
+    {"title": "The Numbers – Axon Films", "url": "https://www.the-numbers.com/movies/production-company/Axon-Films"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "low"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "the-open-university",
+  "sha256": "9ffcbaf18cd99facb9becfd29dfd10ec260e3c4b43586689481ec7dadfc54e23",
+  "entity_name": "The Open University",
+  "aka": ["OU"],
+  "type": "other",
+  "country": "GB",
+  "founded": "1969",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.open.ac.uk/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Open_University",
+  "brand_guidelines_url": "https://www.open.ac.uk/about/main/strategy-and-policies/brand-and-identity",
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British public distance learning and research university; co-produces educational and documentary television programming with the BBC, often credited on-screen at the end of episodes.",
+  "duplicate_files": ["downloads/T/the-open-university.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Open University", "url": "https://en.wikipedia.org/wiki/Open_University"},
+    {"title": "The Open University official site", "url": "https://www.open.ac.uk/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

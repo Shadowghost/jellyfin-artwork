@@ -1,0 +1,25 @@
+{
+  "slug": "assemblage-entertainment",
+  "sha256": "94b788aa3447085ccd4bd1d0d261a39e3dc8579717431185a76b4f8182c30eed",
+  "entity_name": "Assemblage Entertainment",
+  "aka": [],
+  "type": "studio",
+  "country": "IN",
+  "founded": "2010",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.assemblage.tv",
+  "wikipedia": "https://en.wikipedia.org/wiki/Assemblage_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Indian animation studio based in Mumbai specializing in CGI animated feature films and series.",
+  "duplicate_files": ["downloads/A/assemblage-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Assemblage Entertainment", "url": "https://en.wikipedia.org/wiki/Assemblage_Entertainment"},
+    {"title": "Assemblage Entertainment site", "url": "https://www.assemblage.tv/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

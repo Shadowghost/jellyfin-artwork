@@ -1,0 +1,24 @@
+{
+  "slug": "ankama",
+  "sha256": "93dddd3b64999b8d5c0dc6355a2136a022060e9f11b0b402c2b05a260dec74ba",
+  "entity_name": "Ankama",
+  "aka": ["Ankama Group", "Ankama Animation"],
+  "type": "production-company",
+  "country": "FR",
+  "founded": "2001",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.ankama.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Ankama",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "French entertainment company headquartered in Roubaix; designs MMORPGs (Dofus, Wakfu) and runs animation, publishing and web divisions, best known for the Wakfu animated series.",
+  "duplicate_files": ["downloads/A/ankama.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Ankama", "url": "https://en.wikipedia.org/wiki/Ankama"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

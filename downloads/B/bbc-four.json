@@ -1,0 +1,28 @@
+{
+  "slug": "bbc-four",
+  "sha256": "37c0bafaedced43c0ad5b8b805610008826c8f669cac12959c721d5ee392c257",
+  "entity_name": "BBC Four",
+  "aka": ["BBC4"],
+  "type": "broadcast-network",
+  "country": "GB",
+  "founded": "2002",
+  "defunct": null,
+  "parent_company": "BBC",
+  "official_website": "https://www.bbc.co.uk/bbcfour",
+  "wikipedia": "https://en.wikipedia.org/wiki/BBC_Four",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "BBC Black", "hex": "#000000"},
+    {"name": "BBC White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": null,
+  "description": "British free-to-air television channel owned by the BBC, focused on cultural, documentary, music and current affairs.",
+  "duplicate_files": ["downloads/B/bbc-four.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - BBC Four", "url": "https://en.wikipedia.org/wiki/BBC_Four"},
+    {"title": "BBC Four official", "url": "https://www.bbc.co.uk/bbcfour"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

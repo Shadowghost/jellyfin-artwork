@@ -1,0 +1,28 @@
+{
+  "slug": "bet",
+  "sha256": "f62b216b27b85dda006667b69526894809d2c33da58e508da2ff4e1076b39039",
+  "entity_name": "BET (Black Entertainment Television)",
+  "aka": ["Black Entertainment Television", "BET Networks"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1980",
+  "defunct": null,
+  "parent_company": "Paramount Global",
+  "official_website": "https://www.bet.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/BET",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "BET Red", "hex": "#C8102E"},
+    {"name": "Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "American basic cable channel targeting Black American audiences, owned by Paramount Global.",
+  "duplicate_files": ["downloads/B/bet.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – BET", "url": "https://en.wikipedia.org/wiki/BET"},
+    {"title": "BET official site", "url": "https://www.bet.com"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

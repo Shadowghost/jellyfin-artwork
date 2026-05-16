@@ -1,0 +1,24 @@
+{
+  "slug": "summit-entertainment",
+  "sha256": "016471863fe239747634ac421116b27ef167e1ab1bcaf0b1fbc048357f03bb27",
+  "entity_name": "Summit Entertainment",
+  "aka": ["Summit"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1991",
+  "defunct": null,
+  "parent_company": "Lionsgate",
+  "official_website": "https://www.lionsgate.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Summit_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film production and distribution label of Lionsgate, best known for The Twilight Saga, John Wick, and Now You See Me franchises.",
+  "duplicate_files": ["downloads/S/summit-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Summit Entertainment", "url": "https://en.wikipedia.org/wiki/Summit_Entertainment"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

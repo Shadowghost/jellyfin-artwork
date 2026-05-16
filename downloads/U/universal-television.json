@@ -1,0 +1,28 @@
+{
+  "slug": "universal-television",
+  "sha256": "e2e8536960b4ac79d3057e0e4ac80af9f98f7b9bb5f7635fa29721c1e711d9d1",
+  "entity_name": "Universal Television",
+  "aka": ["Universal Media Studios", "Universal Television Entertainment", "UTV"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1950",
+  "defunct": null,
+  "parent_company": "NBCUniversal / Comcast",
+  "official_website": "https://www.nbcuniversal.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Universal_Television",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American television production company and division of NBCUniversal Studio Group, producing series including The Office, Brooklyn Nine-Nine, and Law & Order.",
+  "duplicate_files": [
+    "downloads/U/universal-media-studios.svg",
+    "downloads/U/universal-television-entertainment.svg",
+    "downloads/U/universal-television.svg"
+  ],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia - Universal Television", "url": "https://en.wikipedia.org/wiki/Universal_Television"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

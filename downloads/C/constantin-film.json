@@ -1,0 +1,25 @@
+{
+  "slug": "constantin-film",
+  "sha256": "379934a84c33f6a8a4e3f104cb052bbafd200181b8cc5e250e1865c2f06aa671",
+  "entity_name": "Constantin Film",
+  "aka": ["Constantin", "Constantin Film AG"],
+  "type": "production-company",
+  "country": "DE",
+  "founded": "1950",
+  "defunct": null,
+  "parent_company": "Highlight Communications",
+  "official_website": "https://www.constantin-film.de/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Constantin_Film",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "German film production and distribution company based in Munich, producer of the Resident Evil film series, Fantastic Four (2015), and Das Boot.",
+  "duplicate_files": ["downloads/C/constantin-entertainment.svg", "downloads/C/constantin-film.svg", "downloads/C/constantin-television.svg"],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia - Constantin Film", "url": "https://en.wikipedia.org/wiki/Constantin_Film"},
+    {"title": "Constantin Film official site", "url": "https://www.constantin-film.de/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

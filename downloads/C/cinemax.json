@@ -1,0 +1,28 @@
+{
+  "slug": "cinemax",
+  "sha256": "bdea0a7e7acc7490fa0ec15f5caa45c2699bc709185f82c621a6a9d2d95b3825",
+  "entity_name": "Cinemax",
+  "aka": ["MAX"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1980",
+  "defunct": null,
+  "parent_company": "Warner Bros. Discovery (Home Box Office, Inc.)",
+  "official_website": "https://www.cinemax.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Cinemax",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Cinemax Yellow", "hex": "#FFCC00"},
+    {"name": "Cinemax Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "American premium cable and satellite television network owned by Home Box Office, Inc., a subsidiary of Warner Bros. Discovery; launched in 1980 as a companion to HBO.",
+  "duplicate_files": ["downloads/C/cinemax.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Cinemax", "url": "https://en.wikipedia.org/wiki/Cinemax"},
+    {"title": "Cinemax official site", "url": "https://www.cinemax.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

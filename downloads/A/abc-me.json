@@ -1,0 +1,24 @@
+{
+  "slug": "abc-me",
+  "sha256": "e565b3ef72f56d21641d81c9e6b1c1f1f45ac1d650124af6c71310fe7d4bf599",
+  "entity_name": "ABC Me",
+  "aka": ["ABC3"],
+  "type": "broadcast-network",
+  "country": "AU",
+  "founded": "2009",
+  "defunct": "2024",
+  "parent_company": "Australian Broadcasting Corporation",
+  "official_website": "https://www.abc.net.au/abcme",
+  "wikipedia": "https://en.wikipedia.org/wiki/ABC_Me",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Australian free-to-air children's television channel operated by the ABC, targeting older children and tweens; closed in 2024.",
+  "duplicate_files": ["downloads/A/abc-me.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - ABC Me", "url": "https://en.wikipedia.org/wiki/ABC_Me"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "fuzzy-door-productions",
+  "sha256": "b6df1ed92db7d68441c284194b210e8b13c62ec8b867d3387f5d9509832246f0",
+  "entity_name": "Fuzzy Door Productions",
+  "aka": ["Fuzzy Door"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2007",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://fuzzydoor.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Fuzzy_Door_Productions",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Seth MacFarlane's American production company behind series such as Family Guy, American Dad!, The Orville and Cosmos: A Spacetime Odyssey.",
+  "duplicate_files": ["downloads/F/fuzzy-door-productions.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Fuzzy Door Productions", "url": "https://en.wikipedia.org/wiki/Fuzzy_Door_Productions"},
+    {"title": "Fuzzy Door official site", "url": "https://fuzzydoor.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

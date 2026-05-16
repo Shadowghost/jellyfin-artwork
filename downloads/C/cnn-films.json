@@ -1,0 +1,28 @@
+{
+  "slug": "cnn-films",
+  "sha256": "706892d1de37d74059cdf76d8a31d9aeeb06a5dc98f716878c17dcc11ae1626e",
+  "entity_name": "CNN Films",
+  "aka": [],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2012",
+  "defunct": null,
+  "parent_company": "Warner Bros. Discovery / CNN",
+  "official_website": "https://www.cnn.com/shows/cnn-films",
+  "wikipedia": "https://en.wikipedia.org/wiki/CNN_Films",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "CNN Red", "hex": "#CC0000"}
+  ],
+  "logo_usage": null,
+  "description": "Documentary film production unit of CNN, producing feature-length and short documentaries for theatrical and television release.",
+  "duplicate_files": [
+    "downloads/C/cnn-films.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – CNN Films", "url": "https://en.wikipedia.org/wiki/CNN_Films"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "amblin-entertainment",
+  "sha256": "857954da6770fff4235589569afefdb90155190ec66ddb7e92fea35a7e33a773",
+  "entity_name": "Amblin Entertainment",
+  "aka": ["Amblin", "Amblin Partners"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1981",
+  "defunct": null,
+  "parent_company": "Amblin Partners",
+  "official_website": "https://amblin.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Amblin_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": "Logo features the iconic silhouette of Elliott and E.T. flying past the moon on a bicycle, from E.T. the Extra-Terrestrial.",
+  "description": "American film and television production company founded by Steven Spielberg, Kathleen Kennedy and Frank Marshall.",
+  "duplicate_files": ["downloads/A/amblin-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Amblin Entertainment", "url": "https://en.wikipedia.org/wiki/Amblin_Entertainment"},
+    {"title": "Amblin official site", "url": "https://amblin.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

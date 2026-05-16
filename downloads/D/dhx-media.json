@@ -1,0 +1,25 @@
+{
+  "slug": "dhx-media",
+  "sha256": "dabee85824d88fed80f29d35f60cbff5a198930f746e411b3ea1c0a0f7e9df53",
+  "entity_name": "DHX Media",
+  "aka": ["WildBrain", "DHX Media Ltd."],
+  "type": "production-company",
+  "country": "CA",
+  "founded": "2006",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.wildbrain.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/WildBrain",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Canadian children's entertainment and media company (formerly DHX Media), rebranded WildBrain in 2019; produces and distributes Peanuts, Teletubbies, Inspector Gadget and others.",
+  "duplicate_files": ["downloads/D/dhx-media.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – WildBrain (DHX Media)", "url": "https://en.wikipedia.org/wiki/WildBrain"},
+    {"title": "WildBrain official site", "url": "https://www.wildbrain.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

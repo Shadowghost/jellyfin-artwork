@@ -1,0 +1,24 @@
+{
+  "slug": "mynetworktv",
+  "sha256": "90d687a36614ebd6ac30dca263e9fc2a8e5428f57ed74bfcd55278f1113713b4",
+  "entity_name": "MyNetworkTV",
+  "aka": ["MyNet", "MNTV"],
+  "type": "broadcast-network",
+  "country": "US",
+  "founded": "2006",
+  "defunct": null,
+  "parent_company": "Fox Corporation",
+  "official_website": "https://www.mynetworktv.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/MyNetworkTV",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American programming service operated by Fox Corporation's Fox Television Stations division; provides primetime programming to affiliate stations across the US.",
+  "duplicate_files": ["downloads/M/mynetworktv.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – MyNetworkTV", "url": "https://en.wikipedia.org/wiki/MyNetworkTV"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

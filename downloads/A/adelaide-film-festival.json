@@ -1,0 +1,24 @@
+{
+  "slug": "adelaide-film-festival",
+  "sha256": "de4c99586838f7a80697403ed85f69b9aa197d7e81bf4b0361580e0f455c8d91",
+  "entity_name": "Adelaide Film Festival",
+  "aka": ["AFF"],
+  "type": "film-festival",
+  "country": "AU",
+  "founded": "2003",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://adelaidefilmfestival.org",
+  "wikipedia": "https://en.wikipedia.org/wiki/Adelaide_Film_Festival",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Biennial international film festival held in Adelaide, South Australia.",
+  "duplicate_files": ["downloads/A/adelaide-film-festival.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Adelaide Film Festival", "url": "https://en.wikipedia.org/wiki/Adelaide_Film_Festival"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

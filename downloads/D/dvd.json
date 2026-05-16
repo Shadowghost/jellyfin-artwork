@@ -1,0 +1,25 @@
+{
+  "slug": "dvd",
+  "sha256": "28019417e83642ecc4f6b82c5795b27386708d5bff85af2e7872615cf34e576b",
+  "entity_name": "DVD",
+  "aka": ["Digital Versatile Disc", "Digital Video Disc"],
+  "type": "other",
+  "country": "JP",
+  "founded": "1995",
+  "defunct": null,
+  "parent_company": "DVD Forum",
+  "official_website": "https://www.dvdforum.org",
+  "wikipedia": "https://en.wikipedia.org/wiki/DVD",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Digital optical disc storage format developed and licensed by the DVD Forum, commonly used for video distribution.",
+  "duplicate_files": ["downloads/D/dvd.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – DVD", "url": "https://en.wikipedia.org/wiki/DVD"},
+    {"title": "DVD Forum official site", "url": "https://www.dvdforum.org"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

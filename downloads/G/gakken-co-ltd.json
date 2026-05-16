@@ -1,0 +1,25 @@
+{
+  "slug": "gakken-co-ltd",
+  "sha256": "7c6c87478da2066ad66cf9db3386dfaca5ccf8c49a7a2ba843a3e788e9d73d56",
+  "entity_name": "Gakken Co., Ltd.",
+  "aka": ["Gakken", "Gakken Holdings"],
+  "type": "publisher",
+  "country": "JP",
+  "founded": "1946",
+  "defunct": null,
+  "parent_company": "Gakken Holdings",
+  "official_website": "https://www.gakken.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Gakken",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese publishing and educational company known for educational books, magazines, and toys; has also financed anime and film productions.",
+  "duplicate_files": ["downloads/G/gakken-co-ltd.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Gakken", "url": "https://en.wikipedia.org/wiki/Gakken"},
+    {"title": "Gakken official", "url": "https://www.gakken.co.jp"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

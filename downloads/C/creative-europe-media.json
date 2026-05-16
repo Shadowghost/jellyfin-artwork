@@ -1,0 +1,28 @@
+{
+  "slug": "creative-europe-media",
+  "sha256": "0f9b2374bd9c78ef35408b52af10a8ce4f2d9cd9134f22c9a22f02a827e6b9ad",
+  "entity_name": "Creative Europe MEDIA",
+  "aka": ["MEDIA Programme", "Creative Europe Programme MEDIA Sub-programme"],
+  "type": "government-agency",
+  "country": "EU",
+  "founded": "1991",
+  "defunct": null,
+  "parent_company": "European Commission",
+  "official_website": "https://culture.ec.europa.eu/creative-europe",
+  "wikipedia": "https://en.wikipedia.org/wiki/Creative_Europe",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "European Union funding programme that supports the European audiovisual, cultural and creative sectors.",
+  "duplicate_files": [
+    "downloads/C/creative-europe-media.svg",
+    "downloads/M/media-programme-of-the-european-union.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Creative Europe", "url": "https://en.wikipedia.org/wiki/Creative_Europe"},
+    {"title": "Creative Europe official site", "url": "https://culture.ec.europa.eu/creative-europe"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

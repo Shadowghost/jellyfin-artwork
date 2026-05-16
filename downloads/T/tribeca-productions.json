@@ -1,0 +1,25 @@
+{
+  "slug": "tribeca-productions",
+  "sha256": "7111593811a60bcc28f7a5300aa21ac10d68093941e72335d28150a241feed8a",
+  "entity_name": "Tribeca Productions",
+  "aka": [],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1989",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://tribecafilm.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Tribeca_Productions",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film production company founded by Robert De Niro and Jane Rosenthal, behind A Bronx Tale, Wag the Dog, and the Tribeca Film Festival.",
+  "duplicate_files": ["downloads/T/tribeca-productions.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Tribeca Productions", "url": "https://en.wikipedia.org/wiki/Tribeca_Productions"},
+    {"title": "Tribeca official site", "url": "https://tribecafilm.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

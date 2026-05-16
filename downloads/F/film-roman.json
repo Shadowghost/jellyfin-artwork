@@ -1,0 +1,24 @@
+{
+  "slug": "film-roman",
+  "sha256": "54f3eff69e13853fdbf79e86f1e49b0e92d047795e212f7192a8fa35def45a1b",
+  "entity_name": "Film Roman",
+  "aka": ["Film Roman Productions", "Starz Animation"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1984",
+  "defunct": null,
+  "parent_company": "Starz Inc.",
+  "official_website": "https://www.filmroman.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Film_Roman",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American animation production company founded by Phil Roman, known for animating The Simpsons, King of the Hill, and Garfield and Friends.",
+  "duplicate_files": ["downloads/F/film-roman-productions.svg", "downloads/F/film-roman.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Film Roman", "url": "https://en.wikipedia.org/wiki/Film_Roman"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

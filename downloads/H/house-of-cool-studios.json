@@ -1,0 +1,24 @@
+{
+  "slug": "house-of-cool-studios",
+  "sha256": "21d41ec48a1ac58c7ac09ac22b2ced6a48ce65d8cb36168c01a42160ede45e06",
+  "entity_name": "House of Cool",
+  "aka": ["House of Cool Studios", "HOC"],
+  "type": "studio",
+  "country": "CA",
+  "founded": "2003",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://houseofcool.com/",
+  "wikipedia": null,
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Canadian animation studio based in Toronto specializing in storyboarding, visual development, and pre-production services for animated features and series.",
+  "duplicate_files": ["downloads/H/house-of-cool-studios.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "House of Cool official site", "url": "https://houseofcool.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

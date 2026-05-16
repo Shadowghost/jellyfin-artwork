@@ -1,0 +1,24 @@
+{
+  "slug": "schweizer-radio-und-fernsehen",
+  "sha256": "1372d28183e186e8c4277ed735b013a135fef84a54e40dedc0943a07105eba6c",
+  "entity_name": "Schweizer Radio und Fernsehen",
+  "aka": ["SRF"],
+  "type": "broadcast-network",
+  "country": "CH",
+  "founded": "2010",
+  "defunct": null,
+  "parent_company": "SRG SSR",
+  "official_website": "https://www.srf.ch",
+  "wikipedia": "https://en.wikipedia.org/wiki/Schweizer_Radio_und_Fernsehen",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "German-language public broadcaster of Switzerland, the largest enterprise of the Swiss Broadcasting Corporation SRG SSR.",
+  "duplicate_files": ["downloads/S/schweizer-radio-und-fernsehen.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Schweizer Radio und Fernsehen", "url": "https://en.wikipedia.org/wiki/Schweizer_Radio_und_Fernsehen"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "kcet",
+  "sha256": "66a0be25eed7ba05b6f1d66c1e707c1eb1a317aff407e2c74f05e680d7d9e3cc",
+  "entity_name": "KCET",
+  "aka": [],
+  "type": "broadcast-network",
+  "country": "US",
+  "founded": "1964",
+  "defunct": null,
+  "parent_company": "Public Media Group of Southern California",
+  "official_website": "https://www.kcet.org/",
+  "wikipedia": "https://en.wikipedia.org/wiki/KCET",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American independent public television station licensed to Los Angeles, California, operated by the Public Media Group of Southern California.",
+  "duplicate_files": ["downloads/K/kcet.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - KCET", "url": "https://en.wikipedia.org/wiki/KCET"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

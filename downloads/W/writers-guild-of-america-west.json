@@ -1,0 +1,25 @@
+{
+  "slug": "writers-guild-of-america-west",
+  "sha256": "4bfeef37de2277c746bbe9a647cb88157c126c607c0b44d46dc92042e1e9a41c",
+  "entity_name": "Writers Guild of America West",
+  "aka": ["WGAW", "WGA West"],
+  "type": "other",
+  "country": "US",
+  "founded": "1954",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.wga.org",
+  "wikipedia": "https://en.wikipedia.org/wiki/Writers_Guild_of_America_West",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American labor union representing film, television, radio, and new media writers in the western United States; presents the Writers Guild of America Awards with WGA East.",
+  "duplicate_files": ["downloads/W/writers-guild-of-america-west.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Writers Guild of America West", "url": "https://en.wikipedia.org/wiki/Writers_Guild_of_America_West"},
+    {"title": "WGA West official site", "url": "https://www.wga.org/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "das-erste",
+  "sha256": "b65c643d7374ac39d0da2db9f6de917cb830910c4454aa8621f350dce1c4d1eb",
+  "entity_name": "Das Erste",
+  "aka": ["ARD", "Erstes Deutsches Fernsehen"],
+  "type": "broadcast-network",
+  "country": "DE",
+  "founded": "1950",
+  "defunct": null,
+  "parent_company": "ARD (Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland)",
+  "official_website": "https://www.daserste.de",
+  "wikipedia": "https://en.wikipedia.org/wiki/Das_Erste",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Das Erste Blue", "hex": "#003C7D"}
+  ],
+  "logo_usage": null,
+  "description": "Flagship national public-service television channel of the German ARD broadcasting consortium.",
+  "duplicate_files": [
+    "downloads/D/das-erste.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Das Erste", "url": "https://en.wikipedia.org/wiki/Das_Erste"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "commerzbank",
+  "sha256": "0e225a058e1fc60f1b93c05c092878193f069d503366fd6bbb68ee3b29a96914",
+  "entity_name": "Commerzbank",
+  "aka": ["Commerzbank AG"],
+  "type": "other",
+  "country": "DE",
+  "founded": "1870",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.commerzbank.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Commerzbank",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Commerzbank Yellow", "hex": "#FFCC00"}
+  ],
+  "logo_usage": null,
+  "description": "Major German bank operating as a universal bank, headquartered in Frankfurt; sometimes appears as a film production financier.",
+  "duplicate_files": ["downloads/C/commerzbank.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Commerzbank", "url": "https://en.wikipedia.org/wiki/Commerzbank"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

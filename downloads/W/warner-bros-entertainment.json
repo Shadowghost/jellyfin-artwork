@@ -1,0 +1,32 @@
+{
+  "slug": "warner-bros-entertainment",
+  "sha256": "dded4eb536deed401b03039206d7218dd7927da589daa9c53e3e499a8755c07a",
+  "entity_name": "Warner Bros. Entertainment",
+  "aka": ["Warner Bros.", "WB"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1923",
+  "defunct": null,
+  "parent_company": "Warner Bros. Discovery",
+  "official_website": "https://www.warnerbros.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Warner_Bros.",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "WB Blue", "hex": "#004B96"},
+    {"name": "WB Gold", "hex": "#F2C200"}
+  ],
+  "logo_usage": "Uses the WB shield mark.",
+  "description": "American multinational entertainment company and one of the 'Big Five' Hollywood studios, encompassing film, television and home-entertainment divisions under Warner Bros. Discovery.",
+  "duplicate_files": [
+    "downloads/W/warner-bros-entertainment.svg",
+    "downloads/W/warner-bros-film-productions-germany.svg",
+    "downloads/W/warner-bros-home-entertainment-group.svg"
+  ],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia - Warner Bros.", "url": "https://en.wikipedia.org/wiki/Warner_Bros."},
+    {"title": "Warner Bros. official site", "url": "https://www.warnerbros.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

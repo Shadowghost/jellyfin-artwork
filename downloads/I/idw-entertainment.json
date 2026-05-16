@@ -1,0 +1,24 @@
+{
+  "slug": "idw-entertainment",
+  "sha256": "0ce9d456ff888f923acf61d9b652090b46238f5b742e2d2e03bac6705d5dd82f",
+  "entity_name": "IDW Entertainment",
+  "aka": [],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2013",
+  "defunct": null,
+  "parent_company": "IDW Media Holdings",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/IDW_Publishing",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Television and film production arm of IDW Media Holdings, adapting comics from IDW Publishing such as Wynonna Earp and Locke & Key.",
+  "duplicate_files": ["downloads/I/idw-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – IDW Publishing", "url": "https://en.wikipedia.org/wiki/IDW_Publishing"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

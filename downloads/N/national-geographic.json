@@ -1,0 +1,28 @@
+{
+  "slug": "national-geographic",
+  "sha256": "590766f42c1457e86f81dffc8cb22b24f3a863864ad971f3565ce918c53f143a",
+  "entity_name": "National Geographic",
+  "aka": ["Nat Geo", "National Geographic Channel"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1997",
+  "defunct": null,
+  "parent_company": "The Walt Disney Company (National Geographic Partners)",
+  "official_website": "https://www.nationalgeographic.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/National_Geographic_(American_TV_channel)",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Nat Geo Yellow", "hex": "#FFCC00"},
+    {"name": "Nat Geo Black", "hex": "#000000"}
+  ],
+  "logo_usage": "The iconic yellow rectangle border is a registered trademark and the central element of the National Geographic logo.",
+  "description": "American pay television network owned by National Geographic Partners (Disney), featuring documentaries on science, exploration, nature, and history.",
+  "duplicate_files": ["downloads/N/national-geographic-channel.svg", "downloads/N/national-geographic.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - National Geographic (American TV channel)", "url": "https://en.wikipedia.org/wiki/National_Geographic_(American_TV_channel)"},
+    {"title": "National Geographic official site", "url": "https://www.nationalgeographic.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

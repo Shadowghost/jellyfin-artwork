@@ -1,0 +1,28 @@
+{
+  "slug": "bilibili",
+  "sha256": "6105c5a85fe572f13f82b7864c6ec227e9a31b4f4f72388e452a86c6dc6f5495",
+  "entity_name": "Bilibili",
+  "aka": ["B站", "哔哩哔哩"],
+  "type": "streaming-service",
+  "country": "CN",
+  "founded": "2009",
+  "defunct": null,
+  "parent_company": "Bilibili Inc.",
+  "official_website": "https://www.bilibili.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Bilibili",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Bilibili Pink", "hex": "#FB7299"},
+    {"name": "Bilibili Blue", "hex": "#00A1D6"}
+  ],
+  "logo_usage": null,
+  "description": "Chinese online video sharing and streaming platform focused on anime, comics, games (ACG), and user-generated video content.",
+  "duplicate_files": ["downloads/B/bilibili.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Bilibili", "url": "https://en.wikipedia.org/wiki/Bilibili"},
+    {"title": "Bilibili official site", "url": "https://www.bilibili.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

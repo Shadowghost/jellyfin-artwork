@@ -1,0 +1,25 @@
+{
+  "slug": "geffen-records",
+  "sha256": "902fcd2f8921c687af50a330ff3c648ce102fc5862223741f22256cc0e9cecef",
+  "entity_name": "Geffen Records",
+  "aka": ["Geffen"],
+  "type": "record-label",
+  "country": "US",
+  "founded": "1980",
+  "defunct": null,
+  "parent_company": "Interscope Geffen A&M (Universal Music Group)",
+  "official_website": "https://www.geffen.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Geffen_Records",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American record label founded by David Geffen, now part of Universal Music Group's Interscope Geffen A&M, known for rock, pop and hip-hop releases.",
+  "duplicate_files": ["downloads/G/geffen-records.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Geffen Records", "url": "https://en.wikipedia.org/wiki/Geffen_Records"},
+    {"title": "Geffen Records official site", "url": "https://www.geffen.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

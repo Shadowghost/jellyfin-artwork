@@ -1,0 +1,25 @@
+{
+  "slug": "bron-studios",
+  "sha256": "ba3d2e11c38a8594a352bf15f7680ae8dd690268b552148312212b68101cf724",
+  "entity_name": "Bron Studios",
+  "aka": ["BRON Studios"],
+  "type": "production-company",
+  "country": "CA",
+  "founded": "2010",
+  "defunct": "2023",
+  "parent_company": null,
+  "official_website": "https://bronstudios.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Bron_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Canadian film and television production company that co-produced films including Joker, Bombshell, Greyhound, and Judas and the Black Messiah; filed for bankruptcy in 2023.",
+  "duplicate_files": ["downloads/B/bron-studios.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Bron Studios", "url": "https://en.wikipedia.org/wiki/Bron_Studios"},
+    {"title": "Bron Studios official site", "url": "https://bronstudios.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "fortune-star",
+  "sha256": "a168d0cfa1a08851ec6eb251bce0b9157d934d052c6b9f88c79d3c42ada4f496",
+  "entity_name": "Fortune Star Media",
+  "aka": ["Fortune Star", "Star China Media"],
+  "type": "distributor",
+  "country": "HK",
+  "founded": "2003",
+  "defunct": null,
+  "parent_company": "Newport Media Investments (formerly Fox Networks Group / 21st Century Fox)",
+  "official_website": "https://www.fortunestar.com.hk/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Fortune_Star_Media",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Hong Kong-based rights holder and distributor of one of the largest Chinese-language film libraries (Golden Harvest, Cinema City and others), formerly part of the Fox/Star China group.",
+  "duplicate_files": [
+    "downloads/F/fortune-star.svg",
+    "downloads/S/star-china-media.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Fortune Star Media", "url": "https://en.wikipedia.org/wiki/Fortune_Star_Media"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

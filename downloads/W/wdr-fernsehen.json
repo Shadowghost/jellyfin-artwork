@@ -1,0 +1,25 @@
+{
+  "slug": "wdr-fernsehen",
+  "sha256": "83c27d3c3732ee4dc1d07828ba5404f96b62f208f8f36f120c9db421f20cb231",
+  "entity_name": "WDR Fernsehen",
+  "aka": ["WDR", "West 3", "Westdeutscher Rundfunk Fernsehen"],
+  "type": "broadcast-network",
+  "country": "DE",
+  "founded": "1965",
+  "defunct": null,
+  "parent_company": "Westdeutscher Rundfunk (member of ARD)",
+  "official_website": "https://www1.wdr.de/fernsehen",
+  "wikipedia": "https://en.wikipedia.org/wiki/WDR_Fernsehen",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "German public regional television channel operated by Westdeutscher Rundfunk (WDR) for North Rhine-Westphalia, part of the ARD network.",
+  "duplicate_files": ["downloads/W/wdr-fernsehen.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – WDR Fernsehen", "url": "https://en.wikipedia.org/wiki/WDR_Fernsehen"},
+    {"title": "WDR Fernsehen official site", "url": "https://www1.wdr.de/fernsehen/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

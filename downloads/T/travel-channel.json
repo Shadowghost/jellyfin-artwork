@@ -1,0 +1,24 @@
+{
+  "slug": "travel-channel",
+  "sha256": "dcac242dbc3e910e45be6376194cc7815ab83df399f454a998ec6d25c85cd01a",
+  "entity_name": "Travel Channel",
+  "aka": [],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1987",
+  "defunct": null,
+  "parent_company": "Warner Bros. Discovery",
+  "official_website": "https://www.travelchannel.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Travel_Channel",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American basic cable television channel owned by Warner Bros. Discovery, focusing on travel-themed programming.",
+  "duplicate_files": ["downloads/T/travel-channel.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Travel Channel", "url": "https://en.wikipedia.org/wiki/Travel_Channel"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "polygon-entertainment",
+  "sha256": "d78d4aaae550b691f69109b8aac19c4ba8488bcaccb5c324d2b6df1325756ae5",
+  "entity_name": "Polygon Entertainment",
+  "aka": ["Polygon Pictures Entertainment"],
+  "type": "studio",
+  "country": "JP",
+  "founded": "1983",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.ppi.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Polygon_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese CGI animation studio founded by Shuzo Shiota and known for its work on Knights of Sidonia, Ajin, Transformers: War for Cybertron, and Star Wars Resistance.",
+  "duplicate_files": ["downloads/P/polygon-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Polygon Pictures", "url": "https://en.wikipedia.org/wiki/Polygon_Pictures"},
+    {"title": "Polygon Pictures official site", "url": "https://www.ppi.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

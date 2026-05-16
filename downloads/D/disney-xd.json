@@ -1,0 +1,26 @@
+{
+  "slug": "disney-xd",
+  "sha256": "78033bccd3baadb3d81591df7ca88443869bd75d597564be0b0ba27c2c75adc8",
+  "entity_name": "Disney XD",
+  "aka": ["Disney XD"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "2009",
+  "defunct": null,
+  "parent_company": "The Walt Disney Company / Disney Branded Television",
+  "official_website": "https://disneyxd.disney.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Disney_XD",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Disney XD Blue", "hex": "#1FB6E7"}
+  ],
+  "logo_usage": null,
+  "description": "American pay television channel owned by Disney, targeting boys ages 6-14 with action and comedy programming; rebranded from Toon Disney in 2009.",
+  "duplicate_files": ["downloads/D/disney-xd.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Disney XD", "url": "https://en.wikipedia.org/wiki/Disney_XD"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

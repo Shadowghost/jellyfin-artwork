@@ -1,0 +1,24 @@
+{
+  "slug": "mgm-home-entertainment",
+  "sha256": "4a11960f6b59f3aae5e1135f6aed17968288aaa137a1517bbca15421aff890f0",
+  "entity_name": "MGM Home Entertainment",
+  "aka": ["Metro-Goldwyn-Mayer Home Entertainment"],
+  "type": "distributor",
+  "country": "US",
+  "founded": "1982",
+  "defunct": null,
+  "parent_company": "Amazon MGM Studios",
+  "official_website": "https://www.mgm.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/MGM_Home_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Home video distribution arm of Metro-Goldwyn-Mayer; releases MGM films on DVD, Blu-ray and digital formats. Now part of Amazon MGM Studios.",
+  "duplicate_files": ["downloads/M/mgm-home-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – MGM Home Entertainment", "url": "https://en.wikipedia.org/wiki/MGM_Home_Entertainment"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

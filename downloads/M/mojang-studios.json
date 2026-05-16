@@ -1,0 +1,26 @@
+{
+  "slug": "mojang-studios",
+  "sha256": "834ea6d20d314ac8334a31240df43474367c7054e4dc09e0fb0780d7aab915bf",
+  "entity_name": "Mojang Studios",
+  "aka": ["Mojang", "Mojang AB"],
+  "type": "other",
+  "country": "SE",
+  "founded": "2009",
+  "defunct": null,
+  "parent_company": "Microsoft (Xbox Game Studios)",
+  "official_website": "https://www.minecraft.net/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Mojang_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Mojang Red", "hex": "#DA1F26"}
+  ],
+  "logo_usage": null,
+  "description": "Swedish video game developer based in Stockholm, owned by Microsoft as part of Xbox Game Studios; creator of Minecraft.",
+  "duplicate_files": ["downloads/M/mojang-studios.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Mojang Studios", "url": "https://en.wikipedia.org/wiki/Mojang_Studios"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

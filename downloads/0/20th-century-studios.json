@@ -1,0 +1,25 @@
+{
+  "slug": "20th-century-studios",
+  "sha256": "dfe4b29c8f5b851f26ce38275893e757906f7d28f8bade3056149b7127cf09cc",
+  "entity_name": "20th Century Studios",
+  "aka": ["20th Century Fox", "Twentieth Century Fox", "20th Century Fox Film Corporation", "20th Century Fox Animation"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1935",
+  "defunct": null,
+  "parent_company": "The Walt Disney Company (Walt Disney Studios)",
+  "official_website": "https://www.20thcenturystudios.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/20th_Century_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film studio founded in 1935 as Twentieth Century Fox; renamed 20th Century Studios in 2020 after Disney's acquisition of 21st Century Fox.",
+  "duplicate_files": ["downloads/0/20th-century-fox-animation.svg", "downloads/0/20th-century-studios.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – 20th Century Studios", "url": "https://en.wikipedia.org/wiki/20th_Century_Studios"},
+    {"title": "20th Century Studios official site", "url": "https://www.20thcenturystudios.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

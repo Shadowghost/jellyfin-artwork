@@ -1,0 +1,24 @@
+{
+  "slug": "roth-films",
+  "sha256": "7d6411e74dbe066345086f3ffa1a651a97bc8a60ad3cf10262e7fa46c1689f6e",
+  "entity_name": "Roth/Kirschenbaum Films",
+  "aka": ["Roth Films", "Joe Roth Films"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2007",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Joe_Roth",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film production company founded by Joe Roth, producer of Alice in Wonderland and Maleficent.",
+  "duplicate_files": ["downloads/R/roth-films.svg", "downloads/R/roth-kirschenbaum-films.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Joe Roth", "url": "https://en.wikipedia.org/wiki/Joe_Roth"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

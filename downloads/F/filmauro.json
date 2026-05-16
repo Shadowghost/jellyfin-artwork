@@ -1,0 +1,25 @@
+{
+  "slug": "filmauro",
+  "sha256": "33ba63eed59322c3d55ed777545d176ec6d262853f1fba93ac5689695488ee7b",
+  "entity_name": "Filmauro",
+  "aka": ["Filmauro S.r.l."],
+  "type": "distributor",
+  "country": "IT",
+  "founded": "1975",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.filmauro.it/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Filmauro",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Italian film production, distribution, exhibition and home video company founded in 1975 by Aurelio De Laurentiis and his father Luigi; behind the long-running Cinepanettone holiday comedy series.",
+  "duplicate_files": ["downloads/F/filmauro.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Filmauro", "url": "https://en.wikipedia.org/wiki/Filmauro"},
+    {"title": "Filmauro official site", "url": "https://www.filmauro.it/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

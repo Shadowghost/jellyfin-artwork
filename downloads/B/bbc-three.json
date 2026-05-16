@@ -1,0 +1,24 @@
+{
+  "slug": "bbc-three",
+  "sha256": "2c3dbe4f102592201a67a55b709d40d464b22fabaea310b6eaaccc97d514c593",
+  "entity_name": "BBC Three",
+  "aka": ["BBC3"],
+  "type": "broadcast-network",
+  "country": "GB",
+  "founded": "2003",
+  "defunct": null,
+  "parent_company": "BBC",
+  "official_website": "https://www.bbc.co.uk/bbcthree",
+  "wikipedia": "https://en.wikipedia.org/wiki/BBC_Three",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British free-to-air public broadcast television channel owned by the BBC, targeting 16-34 year olds; launched in 2003, was online-only from 2016 to 2022, then relaunched as a linear channel.",
+  "duplicate_files": ["downloads/B/bbc-three.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – BBC Three", "url": "https://en.wikipedia.org/wiki/BBC_Three"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

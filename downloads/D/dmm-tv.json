@@ -1,0 +1,29 @@
+{
+  "slug": "dmm-tv",
+  "sha256": "5d2a6943209b7778794a982d8e2d7a47472976085769dee52f71a43b485fbb3a",
+  "entity_name": "DMM.com",
+  "aka": ["DMM", "DMM TV", "DMM Games", "DMM Pictures"],
+  "type": "streaming-service",
+  "country": "JP",
+  "founded": "1999",
+  "defunct": null,
+  "parent_company": "DMM Group",
+  "official_website": "https://www.dmm.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/DMM.com",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese e-commerce and internet company operating various services including DMM TV streaming, DMM Games, and DMM Pictures.",
+  "duplicate_files": [
+    "downloads/D/dmm-com.svg",
+    "downloads/D/dmm-games.svg",
+    "downloads/D/dmm-pictures.svg",
+    "downloads/D/dmm-tv.svg"
+  ],
+  "duplicate_count": 4,
+  "sources": [
+    {"title": "Wikipedia – DMM.com", "url": "https://en.wikipedia.org/wiki/DMM.com"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

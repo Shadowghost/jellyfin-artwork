@@ -1,0 +1,25 @@
+{
+  "slug": "cygames",
+  "sha256": "72cdf36bf0b25b55ed6581c899fb8c1ddc4b0b1d2844e5b8a695b5a24b2ab093",
+  "entity_name": "Cygames",
+  "aka": ["株式会社Cygames", "CyberAgent Games"],
+  "type": "other",
+  "country": "JP",
+  "founded": "2011",
+  "defunct": null,
+  "parent_company": "CyberAgent",
+  "official_website": "https://www.cygames.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Cygames",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese mobile game developer and anime production sponsor known for Granblue Fantasy, Uma Musume and Princess Connect.",
+  "duplicate_files": ["downloads/C/ca-cygames-anime-fund.svg", "downloads/C/cygames.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Cygames", "url": "https://en.wikipedia.org/wiki/Cygames"},
+    {"title": "Cygames official", "url": "https://www.cygames.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

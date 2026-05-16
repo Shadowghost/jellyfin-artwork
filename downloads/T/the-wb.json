@@ -1,0 +1,24 @@
+{
+  "slug": "the-wb",
+  "sha256": "01bb98df4ecd10073cdd55d4e09932d0b5d82c4141642c26b6d1105d97f28acb",
+  "entity_name": "The WB",
+  "aka": ["The WB Television Network", "WB"],
+  "type": "broadcast-network",
+  "country": "US",
+  "founded": "1995",
+  "defunct": "2006",
+  "parent_company": "Warner Bros. (Warner Bros. Discovery)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/The_WB",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": "Featured the Michigan J. Frog mascot for years; later replaced by a stylized 'WB' shield logo.",
+  "description": "American broadcast television network that operated from 1995 to 2006, owned by Warner Bros.; merged with UPN to form The CW.",
+  "duplicate_files": ["downloads/T/the-wb.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - The WB", "url": "https://en.wikipedia.org/wiki/The_WB"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

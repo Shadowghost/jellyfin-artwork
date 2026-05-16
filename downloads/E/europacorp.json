@@ -1,0 +1,28 @@
+{
+  "slug": "europacorp",
+  "sha256": "993803002ef68307f51ccff432650a90516c3a5e7c8b672f737bccdf736d33b3",
+  "entity_name": "EuropaCorp",
+  "aka": ["Europa Corp", "EuropaCorp SA"],
+  "type": "production-company",
+  "country": "FR",
+  "founded": "1999",
+  "defunct": null,
+  "parent_company": "Vine Investment Advisors / Pathé (post-restructuring)",
+  "official_website": "https://www.europacorp.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/EuropaCorp",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "French film production and distribution company founded by Luc Besson, known for Taken, Lucy, and Valerian.",
+  "duplicate_files": [
+    "downloads/E/europa-corp.svg",
+    "downloads/E/europacorp.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - EuropaCorp", "url": "https://en.wikipedia.org/wiki/EuropaCorp"},
+    {"title": "EuropaCorp official site", "url": "https://www.europacorp.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "animal-logic",
+  "sha256": "97808a52d87a1b36e29bf0d16535976d758cb63e4f1bbcf85e21433953661652",
+  "entity_name": "Animal Logic",
+  "aka": [],
+  "type": "production-company",
+  "country": "AU",
+  "founded": "1991",
+  "defunct": null,
+  "parent_company": "Netflix Animation",
+  "official_website": "https://animallogic.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Animal_Logic",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Australian VFX and animation studio known for The Lego Movie, Happy Feet, and Legend of the Guardians; acquired by Netflix in 2022.",
+  "duplicate_files": ["downloads/A/animal-logic.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Animal Logic", "url": "https://en.wikipedia.org/wiki/Animal_Logic"},
+    {"title": "Animal Logic official site", "url": "https://animallogic.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

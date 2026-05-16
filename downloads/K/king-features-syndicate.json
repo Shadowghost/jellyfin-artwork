@@ -1,0 +1,25 @@
+{
+  "slug": "king-features-syndicate",
+  "sha256": "93d8056b4da38edf240604abfa600fddb8a617403367a1ef8beea5cbc44b5525",
+  "entity_name": "King Features Syndicate",
+  "aka": ["King Features"],
+  "type": "distributor",
+  "country": "US",
+  "founded": "1915",
+  "defunct": null,
+  "parent_company": "Hearst Communications",
+  "official_website": "https://kingfeatures.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/King_Features_Syndicate",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American print syndication company that distributes comic strips, columns, and editorial cartoons, owned by Hearst.",
+  "duplicate_files": ["downloads/K/king-features-syndicate.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – King Features Syndicate", "url": "https://en.wikipedia.org/wiki/King_Features_Syndicate"},
+    {"title": "King Features official site", "url": "https://kingfeatures.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

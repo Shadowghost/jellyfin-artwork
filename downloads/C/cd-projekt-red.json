@@ -1,0 +1,28 @@
+{
+  "slug": "cd-projekt-red",
+  "sha256": "ad18c7035f9dce48cd76bce5a0bbace0c7b5cb18c73a1b4589d20a748a521685",
+  "entity_name": "CD Projekt Red",
+  "aka": ["CDPR", "CD Projekt RED"],
+  "type": "production-company",
+  "country": "PL",
+  "founded": "2002",
+  "defunct": null,
+  "parent_company": "CD Projekt",
+  "official_website": "https://www.cdprojektred.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/CD_Projekt_Red",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "CDPR Red", "hex": "#E60000"},
+    {"name": "CDPR Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "Polish video game developer and studio division of CD Projekt, known for The Witcher series and Cyberpunk 2077.",
+  "duplicate_files": ["downloads/C/cd-projekt-red.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – CD Projekt Red", "url": "https://en.wikipedia.org/wiki/CD_Projekt_Red"},
+    {"title": "CD Projekt Red official site", "url": "https://www.cdprojektred.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

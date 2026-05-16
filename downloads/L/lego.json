@@ -1,0 +1,30 @@
+{
+  "slug": "lego",
+  "sha256": "68b0dc154c7923baa520327c894b6a54711615da285a1440239b21fb2e0e39b7",
+  "entity_name": "The Lego Group",
+  "aka": ["LEGO", "Lego", "LEGO Group", "Lego System A/S"],
+  "type": "other",
+  "country": "DK",
+  "founded": "1932",
+  "defunct": null,
+  "parent_company": "Kirkbi A/S (Kirk Kristiansen family)",
+  "official_website": "https://www.lego.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/The_Lego_Group",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "LEGO Red", "hex": "#E3000B"},
+    {"name": "LEGO Yellow", "hex": "#FFCF00"},
+    {"name": "LEGO Black", "hex": "#000000"},
+    {"name": "LEGO White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": "The LEGO logo is a strictly protected trademark; usage requires the LEGO Group's authorisation and must follow the official brand guidelines (red square with white wordmark and yellow/black outline).",
+  "description": "Danish toy manufacturing and entertainment company founded by Ole Kirk Christiansen in 1932; producer of LEGO plastic construction toys, video games, theme parks and films.",
+  "duplicate_files": ["downloads/L/lego.svg", "downloads/T/the-lego-group.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – The Lego Group", "url": "https://en.wikipedia.org/wiki/The_Lego_Group"},
+    {"title": "LEGO official site", "url": "https://www.lego.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

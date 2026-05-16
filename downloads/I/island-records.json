@@ -1,0 +1,26 @@
+{
+  "slug": "island-records",
+  "sha256": "2974b366b5aac657b609a49b4c53ea3b3b245cd2ed509d78e1afdb8a9a5aab55",
+  "entity_name": "Island Records",
+  "aka": [],
+  "type": "record-label",
+  "country": "GB",
+  "founded": "1959",
+  "defunct": null,
+  "parent_company": "Universal Music Group",
+  "official_website": "https://www.islandrecords.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Island_Records",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British-Jamaican record label founded by Chris Blackwell, known for artists including Bob Marley, U2, and Amy Winehouse.",
+  "duplicate_files": [
+    "downloads/I/island-records.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Island Records", "url": "https://en.wikipedia.org/wiki/Island_Records"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

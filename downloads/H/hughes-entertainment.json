@@ -1,0 +1,24 @@
+{
+  "slug": "hughes-entertainment",
+  "sha256": "26bbc220c97f6509f1471f1095b57c29f6adc98848804742b9213bb3de7e9c05",
+  "entity_name": "Hughes Entertainment",
+  "aka": [],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1985",
+  "defunct": "2009",
+  "parent_company": null,
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hughes_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film production company founded by John Hughes, known for Home Alone, Ferris Bueller's Day Off, and The Breakfast Club.",
+  "duplicate_files": ["downloads/H/hughes-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Hughes Entertainment", "url": "https://en.wikipedia.org/wiki/Hughes_Entertainment"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

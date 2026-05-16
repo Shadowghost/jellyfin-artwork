@@ -1,0 +1,25 @@
+{
+  "slug": "eitb",
+  "sha256": "7bef08a6477d01a2a1336a5b3fe21cd7c6f8517ea2b108085c4e68ca134d20ae",
+  "entity_name": "Euskal Irrati Telebista",
+  "aka": ["EITB", "Basque Radio and Television"],
+  "type": "broadcast-network",
+  "country": "ES",
+  "founded": "1982",
+  "defunct": null,
+  "parent_company": "Basque Government",
+  "official_website": "https://www.eitb.eus/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Euskal_Irrati_Telebista",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Public broadcaster of the Basque Country in Spain, operating Basque- and Spanish-language television and radio.",
+  "duplicate_files": ["downloads/E/eitb.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – EITB", "url": "https://en.wikipedia.org/wiki/Euskal_Irrati_Telebista"},
+    {"title": "EITB official", "url": "https://www.eitb.eus/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

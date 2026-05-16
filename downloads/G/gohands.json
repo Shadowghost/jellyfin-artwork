@@ -1,0 +1,26 @@
+{
+  "slug": "gohands",
+  "sha256": "ccb4118baff539a6b6d55b80c2913b00841b6158d12f65c8bd2f4cf63378b08d",
+  "entity_name": "GoHands",
+  "aka": ["GoHands Inc."],
+  "type": "production-company",
+  "country": "JP",
+  "founded": "2008",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://gohands.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/GoHands",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese animation studio known for series such as K and Mardock Scramble.",
+  "duplicate_files": [
+    "downloads/G/gohands.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – GoHands", "url": "https://en.wikipedia.org/wiki/GoHands"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

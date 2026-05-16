@@ -1,0 +1,25 @@
+{
+  "slug": "kakao-piccoma",
+  "sha256": "b123e5fc7be87eb7edfcc2210ff9824325626250474a5e3f441ad919cbe56b61",
+  "entity_name": "Kakao Piccoma",
+  "aka": ["Piccoma", "ピッコマ"],
+  "type": "publisher",
+  "country": "JP",
+  "founded": "2016",
+  "defunct": null,
+  "parent_company": "Kakao",
+  "official_website": "https://piccoma.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Piccoma",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese digital comic and webtoon platform operated by Kakao Piccoma Corp. (a subsidiary of South Korea's Kakao); one of the leading manga and webtoon apps in Japan.",
+  "duplicate_files": ["downloads/K/kakao-piccoma.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Piccoma", "url": "https://en.wikipedia.org/wiki/Piccoma"},
+    {"title": "Piccoma official site", "url": "https://piccoma.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

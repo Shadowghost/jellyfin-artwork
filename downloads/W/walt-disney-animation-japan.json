@@ -1,0 +1,29 @@
+{
+  "slug": "walt-disney-animation-japan",
+  "sha256": "46299b423274f89ad751b05ad87bf76c1fbb12ad652596058454c34921608541",
+  "entity_name": "Walt Disney Animation Japan",
+  "aka": ["Walt Disney Animation Australia", "Walt Disney Animation Canada", "Disney Animation satellite studios", "Walt Disney Television Animation Japan"],
+  "type": "studio",
+  "country": "JP",
+  "founded": "1989",
+  "defunct": "2004",
+  "parent_company": "The Walt Disney Company",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Walt_Disney_Animation_Japan",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Former Disney satellite animation studio in Tokyo (originally Walt Disney Animation Japan, also encompassing Disney's animation outposts in Australia and Canada); produced direct-to-video sequels until closure in 2004.",
+  "duplicate_files": [
+    "downloads/W/walt-disney-animation-australia.svg",
+    "downloads/W/walt-disney-animation-canada.svg",
+    "downloads/W/walt-disney-animation-japan.svg"
+  ],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia – Walt Disney Animation Japan", "url": "https://en.wikipedia.org/wiki/Walt_Disney_Animation_Japan"},
+    {"title": "Wikipedia – Walt Disney Animation Australia", "url": "https://en.wikipedia.org/wiki/Walt_Disney_Animation_Australia"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

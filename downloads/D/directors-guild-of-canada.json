@@ -1,0 +1,25 @@
+{
+  "slug": "directors-guild-of-canada",
+  "sha256": "d4f3f0fb9738d5d3ec2d213b570de7afe1e6412b3cb737eec50aec3e05a66df2",
+  "entity_name": "Directors Guild of Canada",
+  "aka": ["DGC"],
+  "type": "other",
+  "country": "CA",
+  "founded": "1962",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://dgc.ca/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Directors_Guild_of_Canada",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Canadian national labour organisation representing key creative and logistical personnel in the screen-based industry.",
+  "duplicate_files": ["downloads/D/directors-guild-of-canada.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Directors Guild of Canada", "url": "https://en.wikipedia.org/wiki/Directors_Guild_of_Canada"},
+    {"title": "DGC official", "url": "https://dgc.ca/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

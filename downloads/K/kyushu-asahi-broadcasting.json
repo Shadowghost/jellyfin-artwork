@@ -1,0 +1,25 @@
+{
+  "slug": "kyushu-asahi-broadcasting",
+  "sha256": "4ba495806647fd7487f338c1dd0be5b9af57cbd83d32c7a8eb1cb3ed037ddf3b",
+  "entity_name": "Kyushu Asahi Broadcasting",
+  "aka": ["KBC"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1953",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://kbc.co.jp/en/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Kyushu_Asahi_Broadcasting",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial radio and TV broadcaster (KBC) based in Fukuoka, affiliated with TV Asahi's ANN network on TV and National Radio Network on radio.",
+  "duplicate_files": ["downloads/K/kyushu-asahi-broadcasting.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Kyushu Asahi Broadcasting", "url": "https://en.wikipedia.org/wiki/Kyushu_Asahi_Broadcasting"},
+    {"title": "KBC official site", "url": "https://kbc.co.jp/en/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

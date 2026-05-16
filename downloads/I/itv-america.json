@@ -1,0 +1,29 @@
+{
+  "slug": "itv-america",
+  "sha256": "5535873cfe6f18c815e869d037028b6c7f98c7661fab6d51f63ddd71cc495482",
+  "entity_name": "ITV Studios",
+  "aka": ["ITV America", "ITV Entertainment", "ITV Studios America"],
+  "type": "production-company",
+  "country": "GB",
+  "founded": "2009",
+  "defunct": null,
+  "parent_company": "ITV plc",
+  "official_website": "https://www.itvstudios.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/ITV_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Global content business and production arm of ITV plc; ITV America is its US production unit, behind unscripted shows like Hell's Kitchen, Queer Eye and Pawn Stars.",
+  "duplicate_files": [
+    "downloads/I/itv-america.svg",
+    "downloads/I/itv-entertainment.svg",
+    "downloads/I/itv-studios.svg"
+  ],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia – ITV Studios", "url": "https://en.wikipedia.org/wiki/ITV_Studios"},
+    {"title": "ITV Studios official site", "url": "https://www.itvstudios.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

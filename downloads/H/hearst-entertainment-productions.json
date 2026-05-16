@@ -1,0 +1,24 @@
+{
+  "slug": "hearst-entertainment-productions",
+  "sha256": "dcb82dca76e9e28fe811882ad7e83e7287305a6f22c25579cf3cf5198c191726",
+  "entity_name": "Hearst Entertainment Productions",
+  "aka": ["Hearst Entertainment"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1981",
+  "defunct": null,
+  "parent_company": "Hearst Communications",
+  "official_website": "https://www.hearst.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Hearst_Communications",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Television production division of Hearst Communications, producing original programming and managing TV holdings including a stake in A+E Networks.",
+  "duplicate_files": ["downloads/H/hearst-entertainment-productions.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Hearst Communications", "url": "https://en.wikipedia.org/wiki/Hearst_Communications"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "paramount-network",
+  "sha256": "194b378cd6d0e7029b5e4c40e17eacae7ae5c4484cbc83a4fbda5d7101639fc1",
+  "entity_name": "Paramount Network",
+  "aka": ["Spike", "Spike TV", "TNN (The Nashville Network)"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "2018",
+  "defunct": null,
+  "parent_company": "Paramount Global",
+  "official_website": "https://www.paramountnetwork.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Paramount_Network",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American pay television channel owned by Paramount Global, launched in 2018 as a rebrand of Spike; home of Yellowstone and other Paramount-branded programming.",
+  "duplicate_files": ["downloads/P/paramount-network.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Paramount Network", "url": "https://en.wikipedia.org/wiki/Paramount_Network"},
+    {"title": "Paramount Network official site", "url": "https://www.paramountnetwork.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "aic-plus",
+  "sha256": "70a61409240a2b1cde89dcef678e129da0e132e0b57bde245f3693f28c7f0e03",
+  "entity_name": "Anime International Company (AIC)",
+  "aka": ["AIC", "AIC Plus+", "AIC A.S.T.A.", "AIC Build", "AIC Classic", "AIC Spirits"],
+  "type": "studio",
+  "country": "JP",
+  "founded": "1982",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.aicanime.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Anime_International_Company",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese animation studio founded by Toru Miura, known for OVA series and TV anime. Various branches include AIC Plus+, AIC A.S.T.A., AIC Build, AIC Classic, and AIC Spirits.",
+  "duplicate_files": [
+    "downloads/A/aic-a-s-t-a.svg",
+    "downloads/A/aic-build.svg",
+    "downloads/A/aic-classic.svg",
+    "downloads/A/aic-plus.svg",
+    "downloads/A/aic-spirits.svg",
+    "downloads/A/anime-international-company.svg"
+  ],
+  "duplicate_count": 6,
+  "sources": [
+    {"title": "Wikipedia – Anime International Company", "url": "https://en.wikipedia.org/wiki/Anime_International_Company"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

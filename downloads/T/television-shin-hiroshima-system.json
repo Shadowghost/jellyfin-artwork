@@ -1,0 +1,25 @@
+{
+  "slug": "television-shin-hiroshima-system",
+  "sha256": "9fcdda043c70715bac99041054c9a217a92e3e39305d9dd3efe56af61f9f3f00",
+  "entity_name": "Television Shin-Hiroshima System",
+  "aka": ["TSS", "テレビ新広島"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1975",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.tss-tv.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Television_Shin-Hiroshima_System",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial broadcaster based in Hiroshima; affiliate of the Fuji News Network.",
+  "duplicate_files": ["downloads/T/television-shin-hiroshima-system.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Television Shin-Hiroshima System", "url": "https://en.wikipedia.org/wiki/Television_Shin-Hiroshima_System"},
+    {"title": "TSS official site", "url": "https://www.tss-tv.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

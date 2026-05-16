@@ -1,0 +1,25 @@
+{
+  "slug": "thunderbird-entertainment",
+  "sha256": "a28256fea7c4ad9e8d6e0a854153a19edbd3afa0324027c6269cc66f68ddb571",
+  "entity_name": "Thunderbird Entertainment",
+  "aka": ["Thunderbird Entertainment Group"],
+  "type": "production-company",
+  "country": "CA",
+  "founded": "2003",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://thunderbird.tv/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Thunderbird_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Canadian multi-platform production, distribution and rights management company headquartered in Vancouver, owns Atomic Cartoons and Great Pacific Media.",
+  "duplicate_files": ["downloads/T/thunderbird-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Thunderbird Entertainment", "url": "https://en.wikipedia.org/wiki/Thunderbird_Entertainment"},
+    {"title": "Thunderbird Entertainment official site", "url": "https://thunderbird.tv/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

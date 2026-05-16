@@ -1,0 +1,24 @@
+{
+  "slug": "ryukyu-broadcasting",
+  "sha256": "d4b8966d4193a65a20c24358610ed290ae858b00ee7c8e77ad2cb42d53d898dc",
+  "entity_name": "Ryukyu Broadcasting Corporation",
+  "aka": ["RBC", "RBC Television"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1954",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.rbc.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Ryukyu_Broadcasting_Corporation",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial broadcaster (RBC) headquartered in Naha, Okinawa; operates RBC iRadio and RBC Television, the latter affiliated with the Japan News Network (JNN).",
+  "duplicate_files": ["downloads/R/ryukyu-broadcasting.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Ryukyu Broadcasting Corporation", "url": "https://en.wikipedia.org/wiki/Ryukyu_Broadcasting_Corporation"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

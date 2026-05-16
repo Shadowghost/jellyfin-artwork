@@ -1,0 +1,30 @@
+{
+  "slug": "apple-tv",
+  "sha256": "2981d2d33bd1cd161e0f54f4d577e9edc1a55c85d217c638a14e9ca77a96afc3",
+  "entity_name": "Apple TV",
+  "aka": ["Apple TV+", "Apple TV app"],
+  "type": "streaming-service",
+  "country": "US",
+  "founded": "2019",
+  "defunct": null,
+  "parent_company": "Apple Inc.",
+  "official_website": "https://tv.apple.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Apple_TV%2B",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Apple Black", "hex": "#000000"},
+    {"name": "Apple White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": null,
+  "description": "Apple's streaming television service and brand featuring original films and series.",
+  "duplicate_files": [
+    "downloads/A/apple-tv.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Apple TV+", "url": "https://en.wikipedia.org/wiki/Apple_TV%2B"},
+    {"title": "Apple TV", "url": "https://tv.apple.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

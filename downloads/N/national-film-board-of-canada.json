@@ -1,0 +1,29 @@
+{
+  "slug": "national-film-board-of-canada",
+  "sha256": "3ad7d20e610f92ef411c2a93a6cbf97223d19080929649d5df3395a8f4d00d8d",
+  "entity_name": "National Film Board of Canada",
+  "aka": ["NFB", "Office national du film du Canada", "ONF"],
+  "type": "government-agency",
+  "country": "CA",
+  "founded": "1939",
+  "defunct": null,
+  "parent_company": "Government of Canada (Department of Canadian Heritage)",
+  "official_website": "https://www.nfb.ca",
+  "wikipedia": "https://en.wikipedia.org/wiki/National_Film_Board_of_Canada",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Canadian public film and digital media producer and distributor, a federal Crown corporation creating documentary, animation, and interactive works.",
+  "duplicate_files": [
+    "downloads/N/national-film-board-of-canada-nfb.svg",
+    "downloads/N/national-film-board-of-canada.svg",
+    "downloads/T/the-national-film-board-of-canada.svg"
+  ],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia - National Film Board of Canada", "url": "https://en.wikipedia.org/wiki/National_Film_Board_of_Canada"},
+    {"title": "NFB official site", "url": "https://www.nfb.ca/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "revolution-studios",
+  "sha256": "9907a64415c15d5fd3071e1405cebabedc6f696031606bdec3dcfa3164363345",
+  "entity_name": "Revolution Studios",
+  "aka": ["Revolution Sun Studios"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2000",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://revolutionstudios.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Revolution_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American independent film studio founded in 2000 by Joe Roth; produced films such as Black Hawk Down, Hellboy, The Rookie, Anger Management and 13 Going on 30; later relaunched as a library/IP company.",
+  "duplicate_files": ["downloads/R/revolution-studios.svg", "downloads/R/revolution-sun-studios.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Revolution Studios", "url": "https://en.wikipedia.org/wiki/Revolution_Studios"},
+    {"title": "Revolution Studios official site", "url": "https://revolutionstudios.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

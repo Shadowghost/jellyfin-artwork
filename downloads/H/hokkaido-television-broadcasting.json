@@ -1,0 +1,25 @@
+{
+  "slug": "hokkaido-television-broadcasting",
+  "sha256": "3223295c7d353475aa2c6c0df228d41d0d5d965ff0a8ddaadfaa22e868aa46cb",
+  "entity_name": "Hokkaido Television Broadcasting",
+  "aka": ["HTB"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1968",
+  "defunct": null,
+  "parent_company": "TV Asahi Holdings",
+  "official_website": "https://www.htb.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Hokkaido_Television_Broadcasting",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial television station based in Sapporo, Hokkaido, affiliated with the All-Nippon News Network (ANN).",
+  "duplicate_files": ["downloads/H/hokkaido-television-broadcasting.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Hokkaido Television Broadcasting", "url": "https://en.wikipedia.org/wiki/Hokkaido_Television_Broadcasting"},
+    {"title": "HTB official", "url": "https://www.htb.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

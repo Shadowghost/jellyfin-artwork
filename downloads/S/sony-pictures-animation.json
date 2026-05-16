@@ -1,0 +1,26 @@
+{
+  "slug": "sony-pictures-animation",
+  "sha256": "c297c9c9ca64effb0a8a655745c4ee6d8bb56c9f1ce93e0644794de496eeefcc",
+  "entity_name": "Sony Pictures Animation",
+  "aka": ["SPA"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2002",
+  "defunct": null,
+  "parent_company": "Sony Pictures Entertainment (Sony Group Corporation)",
+  "official_website": "https://www.sonypicturesanimation.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sony_Pictures_Animation",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American animation studio owned by Sony Pictures Entertainment, known for Spider-Man: Into the Spider-Verse and Hotel Transylvania.",
+  "duplicate_files": [
+    "downloads/S/sony-pictures-animation.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Sony Pictures Animation", "url": "https://en.wikipedia.org/wiki/Sony_Pictures_Animation"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

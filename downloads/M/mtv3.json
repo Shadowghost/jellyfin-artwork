@@ -1,0 +1,25 @@
+{
+  "slug": "mtv3",
+  "sha256": "ab4bd13254201ae084a11d23ccbd6bacb87eb55cd07223e952614437276d2e36",
+  "entity_name": "MTV3",
+  "aka": ["MTV Kolmonen"],
+  "type": "broadcast-network",
+  "country": "FI",
+  "founded": "1957",
+  "defunct": null,
+  "parent_company": "MTV Oy (Bonnier Group)",
+  "official_website": "https://www.mtv.fi/",
+  "wikipedia": "https://en.wikipedia.org/wiki/MTV3",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Finnish commercial free-to-air television channel operated by MTV Oy, the oldest commercial broadcaster in Finland; not related to American MTV.",
+  "duplicate_files": ["downloads/M/mtv3.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – MTV3", "url": "https://en.wikipedia.org/wiki/MTV3"},
+    {"title": "MTV official site", "url": "https://www.mtv.fi/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

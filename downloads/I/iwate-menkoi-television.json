@@ -1,0 +1,24 @@
+{
+  "slug": "iwate-menkoi-television",
+  "sha256": "4df51566203ae672de77ba33502ae416fc2ea59399befffa52305f408a170bb7",
+  "entity_name": "Iwate Menkoi Television",
+  "aka": ["mit", "Iwate Menkoi TV"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1991",
+  "defunct": null,
+  "parent_company": "Fuji News Network affiliate",
+  "official_website": "https://www.mit-tv.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Iwate_Menkoi_Television",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial television broadcaster in Iwate Prefecture affiliated with the Fuji News Network.",
+  "duplicate_files": ["downloads/I/iwate-menkoi-television.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Iwate Menkoi Television", "url": "https://en.wikipedia.org/wiki/Iwate_Menkoi_Television"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

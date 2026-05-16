@@ -1,0 +1,24 @@
+{
+  "slug": "sogetel",
+  "sha256": "082d21bed2b045f3a950b5fd99b9e3e2d77780d88487f555ada9094086255d53",
+  "entity_name": "Sogetel",
+  "aka": [],
+  "type": "production-company",
+  "country": "ES",
+  "founded": "1990",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.sogetel.es/",
+  "wikipedia": null,
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Spanish independent film production company based in Madrid.",
+  "duplicate_files": ["downloads/S/sogetel.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Sogetel official", "url": "https://www.sogetel.es/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

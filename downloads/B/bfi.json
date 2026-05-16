@@ -1,0 +1,28 @@
+{
+  "slug": "bfi",
+  "sha256": "67b3104bc9a7c61cb50eb5c000f2784af27f47175a849023ce421ac71b1c7361",
+  "entity_name": "British Film Institute",
+  "aka": ["BFI"],
+  "type": "government-agency",
+  "country": "GB",
+  "founded": "1933",
+  "defunct": null,
+  "parent_company": "Department for Culture, Media and Sport (UK)",
+  "official_website": "https://www.bfi.org.uk",
+  "wikipedia": "https://en.wikipedia.org/wiki/British_Film_Institute",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "BFI Black", "hex": "#000000"},
+    {"name": "BFI White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": null,
+  "description": "British public film body that promotes and preserves filmmaking and television in the United Kingdom.",
+  "duplicate_files": ["downloads/B/bfi.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – British Film Institute", "url": "https://en.wikipedia.org/wiki/British_Film_Institute"},
+    {"title": "BFI official site", "url": "https://www.bfi.org.uk/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

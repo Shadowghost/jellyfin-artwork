@@ -1,0 +1,36 @@
+{
+  "slug": "lionsgate",
+  "sha256": "6b34a81032dab55b8232f2f6f15e14218f9ae43a66c527bb33866e1b407a604f",
+  "entity_name": "Lionsgate",
+  "aka": ["Lions Gate Entertainment", "Lions Gate Films", "Lionsgate Films", "Lionsgate Television"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1997",
+  "defunct": null,
+  "parent_company": "Lionsgate Studios Corp.",
+  "official_website": "https://www.lionsgate.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Lionsgate",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Lionsgate Black", "hex": "#000000"},
+    {"name": "Lionsgate Gold", "hex": "#C9A227"}
+  ],
+  "logo_usage": null,
+  "description": "American-Canadian entertainment company encompassing Lionsgate Films, Lionsgate Television and Starz, behind franchises such as The Hunger Games, John Wick and Saw.",
+  "duplicate_files": [
+    "downloads/L/lions-gate-entertainment-studio.svg",
+    "downloads/L/lions-gate-entertainment.svg",
+    "downloads/L/lions-gate-entertainments.svg",
+    "downloads/L/lions-gate-films.svg",
+    "downloads/L/lionsgate-films.svg",
+    "downloads/L/lionsgate-television.svg",
+    "downloads/L/lionsgate.svg"
+  ],
+  "duplicate_count": 7,
+  "sources": [
+    {"title": "Wikipedia - Lionsgate", "url": "https://en.wikipedia.org/wiki/Lionsgate"},
+    {"title": "Lionsgate official site", "url": "https://www.lionsgate.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

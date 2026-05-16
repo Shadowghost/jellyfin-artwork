@@ -1,0 +1,30 @@
+{
+  "slug": "babelsberg-film",
+  "sha256": "9584b5992558a34b25f91059ed73e3196481424f88986ac5c95b429d7ff6bc20",
+  "entity_name": "Studio Babelsberg",
+  "aka": ["Studio Babelsberg GmbH", "Filmpark Babelsberg", "Babelsberg Film Studio"],
+  "type": "studio",
+  "country": "DE",
+  "founded": "1912",
+  "defunct": null,
+  "parent_company": "TPG Real Estate Partners / Cinespace",
+  "official_website": "https://www.studiobabelsberg.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Studio_Babelsberg",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Historic German film studio located in Potsdam-Babelsberg, the world's oldest large-scale film studio, founded in 1912.",
+  "duplicate_files": [
+    "downloads/B/babelsberg-film.svg",
+    "downloads/F/filmpark-babelsberg.svg",
+    "downloads/S/studio-babelsberg-gmbh.svg",
+    "downloads/S/studio-babelsberg.svg"
+  ],
+  "duplicate_count": 4,
+  "sources": [
+    {"title": "Wikipedia - Studio Babelsberg", "url": "https://en.wikipedia.org/wiki/Studio_Babelsberg"},
+    {"title": "Studio Babelsberg official site", "url": "https://www.studiobabelsberg.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

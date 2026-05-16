@@ -1,0 +1,24 @@
+{
+  "slug": "c2c",
+  "sha256": "2f11d6d69eb0959b15136a6e5ee595e3077f147d1bded21fd160654ae1db833b",
+  "entity_name": "C2C (Czech television channel)",
+  "aka": ["C2C TV"],
+  "type": "cable-network",
+  "country": "CZ",
+  "founded": "2011",
+  "defunct": null,
+  "parent_company": "AMC Networks International",
+  "official_website": "https://www.amcnetworks.cz/",
+  "wikipedia": "https://en.wikipedia.org/wiki/C2C_(TV_channel)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Czech television channel focused on detective, crime and mystery programming, operated by AMC Networks International.",
+  "duplicate_files": ["downloads/C/c2c.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - C2C (TV channel)", "url": "https://en.wikipedia.org/wiki/C2C_(TV_channel)"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

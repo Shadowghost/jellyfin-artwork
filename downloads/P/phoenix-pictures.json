@@ -1,0 +1,25 @@
+{
+  "slug": "phoenix-pictures",
+  "sha256": "2d72a1b2317ddafcf035be508d461e3ecf8e7f4b0fb246a5b80c65fac34dfbd1",
+  "entity_name": "Phoenix Pictures",
+  "aka": [],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1995",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.phoenixpictures.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Phoenix_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American independent film production company founded by Mike Medavoy, known for Black Swan, Shutter Island, and The Thin Red Line.",
+  "duplicate_files": ["downloads/P/phoenix-pictures.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Phoenix Pictures", "url": "https://en.wikipedia.org/wiki/Phoenix_Pictures"},
+    {"title": "Phoenix Pictures official site", "url": "https://www.phoenixpictures.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "sundancetv",
+  "sha256": "c2f92c24960399112ca254b5f1ba2bbe676bffeea6c21c2075fc9485e5bc8c16",
+  "entity_name": "SundanceTV",
+  "aka": ["Sundance Channel"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1996",
+  "defunct": null,
+  "parent_company": "AMC Networks",
+  "official_website": "https://www.sundancetv.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/SundanceTV",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American cable television network owned by AMC Networks, originally founded by Robert Redford to showcase independent films.",
+  "duplicate_files": ["downloads/S/sundancetv.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - SundanceTV", "url": "https://en.wikipedia.org/wiki/SundanceTV"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

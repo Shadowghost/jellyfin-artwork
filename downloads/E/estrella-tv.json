@@ -1,0 +1,24 @@
+{
+  "slug": "estrella-tv",
+  "sha256": "417c3be5a18fabc8f031c4ebfe22cbbc516f7f90d9cbdf72ca8175adc3e01d0a",
+  "entity_name": "Estrella TV",
+  "aka": [],
+  "type": "broadcast-network",
+  "country": "US",
+  "founded": "2009",
+  "defunct": null,
+  "parent_company": "Estrella Media",
+  "official_website": "https://www.estrellatv.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Estrella_TV",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American Spanish-language broadcast television network owned by Estrella Media, targeting U.S. Hispanic audiences.",
+  "duplicate_files": ["downloads/E/estrella-tv.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Estrella TV", "url": "https://en.wikipedia.org/wiki/Estrella_TV"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "itc-entertainment",
+  "sha256": "f92b0efd62b7649c7f12f2b9c396c1c02c58588078a3a510fc753883bb1156df",
+  "entity_name": "ITC Entertainment",
+  "aka": ["Incorporated Television Company", "ITC Entertainment Group"],
+  "type": "production-company",
+  "country": "GB",
+  "founded": "1954",
+  "defunct": "1999",
+  "parent_company": "Universal Pictures (library rights)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/ITC_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British television and film production and distribution company founded by Lew Grade; library now owned by Universal/NBCUniversal via Polygram.",
+  "duplicate_files": [
+    "downloads/I/itc-entertainment-group.svg",
+    "downloads/I/itc-entertainment.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – ITC Entertainment", "url": "https://en.wikipedia.org/wiki/ITC_Entertainment"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

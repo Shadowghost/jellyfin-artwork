@@ -1,0 +1,27 @@
+{
+  "slug": "mitsubishi-motors-corporation",
+  "sha256": "f9876ad1709d6763c6b6ca036b800a4882c90723f30833531cdd873739d321f4",
+  "entity_name": "Mitsubishi Motors Corporation",
+  "aka": ["Mitsubishi Motors", "三菱自動車工業"],
+  "type": "other",
+  "country": "JP",
+  "founded": "1970",
+  "defunct": null,
+  "parent_company": "Renault–Nissan–Mitsubishi Alliance",
+  "official_website": "https://www.mitsubishi-motors.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Mitsubishi_Motors",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Mitsubishi Red", "hex": "#E60012"}
+  ],
+  "logo_usage": "Three-diamond mark trademarked by Mitsubishi.",
+  "description": "Japanese multinational automobile manufacturer, part of the Mitsubishi keiretsu; sometimes appears as a TV/film production sponsor.",
+  "duplicate_files": ["downloads/M/mitsubishi-motors-corporation.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Mitsubishi Motors", "url": "https://en.wikipedia.org/wiki/Mitsubishi_Motors"},
+    {"title": "Mitsubishi Motors", "url": "https://www.mitsubishi-motors.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

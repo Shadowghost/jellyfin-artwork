@@ -1,0 +1,24 @@
+{
+  "slug": "american-playhouse-theatrical-films",
+  "sha256": "69f8a79a2cc9e900f6dbdaff521cda1c97fa191ae638b956acd37325a96e5ff0",
+  "entity_name": "American Playhouse Theatrical Films",
+  "aka": ["American Playhouse"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1982",
+  "defunct": "2002",
+  "parent_company": "PBS",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/American_Playhouse",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Theatrical film division of American Playhouse, the PBS anthology series that produced independent films from 1982 to 2002.",
+  "duplicate_files": ["downloads/A/american-playhouse-theatrical-films.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - American Playhouse", "url": "https://en.wikipedia.org/wiki/American_Playhouse"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

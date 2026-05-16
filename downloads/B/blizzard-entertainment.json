@@ -1,0 +1,27 @@
+{
+  "slug": "blizzard-entertainment",
+  "sha256": "15ddcf67e9232c266a6344dead7f228dce4e3234d4674e28db24b3d632ca36ff",
+  "entity_name": "Blizzard Entertainment",
+  "aka": ["Blizzard"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1991",
+  "defunct": null,
+  "parent_company": "Microsoft Gaming (Activision Blizzard)",
+  "official_website": "https://www.blizzard.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Blizzard_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Blizzard Blue", "hex": "#00AEFF"}
+  ],
+  "logo_usage": null,
+  "description": "American video game developer and publisher founded in 1991, known for World of Warcraft, StarCraft, Diablo, Overwatch, and Hearthstone; a subsidiary of Activision Blizzard (acquired by Microsoft in 2023).",
+  "duplicate_files": ["downloads/B/blizzard-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Blizzard Entertainment", "url": "https://en.wikipedia.org/wiki/Blizzard_Entertainment"},
+    {"title": "Blizzard Entertainment official site", "url": "https://www.blizzard.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "disney-channel-youtube",
+  "sha256": "29b818920ac4423b8d16eb9d95e986245726587b6696d3b774490a0ae035bad0",
+  "entity_name": "Disney Channel (YouTube)",
+  "aka": ["Disney Channel YouTube", "Disney Channel"],
+  "type": "streaming-service",
+  "country": "US",
+  "founded": "2006",
+  "defunct": null,
+  "parent_company": "The Walt Disney Company",
+  "official_website": "https://www.youtube.com/@disneychannel",
+  "wikipedia": "https://en.wikipedia.org/wiki/Disney_Channel",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Official YouTube channel of Disney Channel, used to publish clips, music videos and full episodes from the Disney Channel cable television network.",
+  "duplicate_files": ["downloads/D/disney-channel-youtube.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Disney Channel", "url": "https://en.wikipedia.org/wiki/Disney_Channel"},
+    {"title": "Disney Channel on YouTube", "url": "https://www.youtube.com/@disneychannel"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

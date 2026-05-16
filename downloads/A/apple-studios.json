@@ -1,0 +1,28 @@
+{
+  "slug": "apple-studios",
+  "sha256": "2f405da3acaa99a93e8183a92225c392223be7ad46b7d23daeca6c365acda5ef",
+  "entity_name": "Apple Studios",
+  "aka": ["Apple Original Films", "Apple TV+ Studios"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2019",
+  "defunct": null,
+  "parent_company": "Apple Inc.",
+  "official_website": "https://tv.apple.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Apple_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Apple Black", "hex": "#000000"},
+    {"name": "Apple White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": "Uses the Apple Inc. wordmark/apple-silhouette with 'Studios' typography.",
+  "description": "American production company and division of Apple Inc. that produces films and television series for Apple TV+.",
+  "duplicate_files": ["downloads/A/apple-studios.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Apple Studios", "url": "https://en.wikipedia.org/wiki/Apple_Studios"},
+    {"title": "Apple TV+", "url": "https://tv.apple.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

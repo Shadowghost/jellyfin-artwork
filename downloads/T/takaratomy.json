@@ -1,0 +1,27 @@
+{
+  "slug": "takaratomy",
+  "sha256": "0ac02b5df15ab5a5b2447e1ccc8152ad710766b4d2fd77bd539d99cabc71b24c",
+  "entity_name": "Takara Tomy",
+  "aka": ["TakaraTomy", "Tomy"],
+  "type": "production-company",
+  "country": "JP",
+  "founded": "2006",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.takaratomy.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Takara_Tomy",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Takara Tomy Red", "hex": "#E60012"}
+  ],
+  "logo_usage": null,
+  "description": "Japanese toy company and entertainment producer formed from the 2006 merger of Takara and Tomy; co-owner of properties such as Transformers and Beyblade.",
+  "duplicate_files": ["downloads/T/takaratomy.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Takara Tomy", "url": "https://en.wikipedia.org/wiki/Takara_Tomy"},
+    {"title": "Takara Tomy official site", "url": "https://www.takaratomy.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

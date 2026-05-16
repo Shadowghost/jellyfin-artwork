@@ -1,0 +1,29 @@
+{
+  "slug": "rovio-animation",
+  "sha256": "5de37f5258c270623bb8108b27fc6407d8221de9002d5d5eec4e1c81d0f2e679",
+  "entity_name": "Rovio Entertainment",
+  "aka": ["Rovio", "Rovio Animation"],
+  "type": "production-company",
+  "country": "FI",
+  "founded": "2003",
+  "defunct": null,
+  "parent_company": "Sega Sammy Holdings",
+  "official_website": "https://www.rovio.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Rovio_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Rovio Red", "hex": "#E2231A"}
+  ],
+  "logo_usage": null,
+  "description": "Finnish video game developer, publisher, and entertainment company best known for the Angry Birds franchise.",
+  "duplicate_files": [
+    "downloads/R/rovio-animation.svg",
+    "downloads/R/rovio-entertainment.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Rovio Entertainment", "url": "https://en.wikipedia.org/wiki/Rovio_Entertainment"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

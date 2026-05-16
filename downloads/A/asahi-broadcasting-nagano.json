@@ -1,0 +1,24 @@
+{
+  "slug": "asahi-broadcasting-nagano",
+  "sha256": "7c81db195403d43337df55a5dff23ef875cb29cfebb87d375f3eb90bbe0360c9",
+  "entity_name": "Asahi Broadcasting Nagano",
+  "aka": ["abn", "Nagano Asahi Broadcasting"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1991",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.abn-tv.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Asahi_Broadcasting_Nagano",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese television station based in Nagano Prefecture, affiliated with the ANN (All-Nippon News Network).",
+  "duplicate_files": ["downloads/A/asahi-broadcasting-nagano.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Asahi Broadcasting Nagano", "url": "https://en.wikipedia.org/wiki/Asahi_Broadcasting_Nagano"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

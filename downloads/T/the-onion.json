@@ -1,0 +1,25 @@
+{
+  "slug": "the-onion",
+  "sha256": "6f934ec1042ea3db5e3b297d36f14a81d36ebe514765991fb9b9529404c907d6",
+  "entity_name": "The Onion",
+  "aka": ["Onion Inc."],
+  "type": "publisher",
+  "country": "US",
+  "founded": "1988",
+  "defunct": null,
+  "parent_company": "Global Tetrahedron LLC",
+  "official_website": "https://www.theonion.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/The_Onion",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American satirical digital media company publishing news satire and producing video content; produced shows such as Onion News Network.",
+  "duplicate_files": ["downloads/T/the-onion.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – The Onion", "url": "https://en.wikipedia.org/wiki/The_Onion"},
+    {"title": "The Onion", "url": "https://www.theonion.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

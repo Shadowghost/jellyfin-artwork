@@ -1,0 +1,28 @@
+{
+  "slug": "the-associated-press",
+  "sha256": "1d426a76ac4de1dc2fa905d14dcf0ea3bb51515a6f681a9894c701cbe3732169",
+  "entity_name": "The Associated Press",
+  "aka": ["AP", "Associated Press"],
+  "type": "news",
+  "country": "US",
+  "founded": "1846",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.ap.org/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Associated_Press",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "AP Red", "hex": "#FF322E"},
+    {"name": "AP Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "American not-for-profit news agency headquartered in New York City; one of the oldest and largest news organizations in the world.",
+  "duplicate_files": ["downloads/T/the-associated-press.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Associated Press", "url": "https://en.wikipedia.org/wiki/Associated_Press"},
+    {"title": "AP official site", "url": "https://www.ap.org/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

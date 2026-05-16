@@ -1,0 +1,24 @@
+{
+  "slug": "tr3s",
+  "sha256": "8734236cee9df385f68997d5a1a0bcb769d005d11d1aaa3a43d4ba60ba46230d",
+  "entity_name": "Tr3s",
+  "aka": ["MTV Tr3s", "Tr3s: MTV, Música y Más"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1998",
+  "defunct": "2018",
+  "parent_company": "Viacom / MTV Networks",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Tr3s",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American Spanish/English bilingual cable channel aimed at young Latinos, owned by MTV Networks; rebranded multiple times and shut down in 2018.",
+  "duplicate_files": ["downloads/T/tr3s.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Tr3s", "url": "https://en.wikipedia.org/wiki/Tr3s"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

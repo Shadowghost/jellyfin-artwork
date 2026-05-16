@@ -1,0 +1,25 @@
+{
+  "slug": "j-c-staff",
+  "sha256": "76d8a0ed4d4c4416659f903a68136be1a6d7eb5e00ec3708a76c2b06ab9402c3",
+  "entity_name": "J.C.Staff",
+  "aka": ["JCStaff", "Japan Creative Staff"],
+  "type": "production-company",
+  "country": "JP",
+  "founded": "1986",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.jcstaff.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/J.C.Staff",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese anime studio founded in 1986 by former Tatsunoko Production member Tomoyuki Miyata; known for Toradora!, A Certain Magical Index, Food Wars and many others.",
+  "duplicate_files": ["downloads/J/j-c-staff.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – J.C.Staff", "url": "https://en.wikipedia.org/wiki/J.C.Staff"},
+    {"title": "J.C.Staff official site", "url": "https://www.jcstaff.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

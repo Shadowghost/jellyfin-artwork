@@ -1,0 +1,26 @@
+{
+  "slug": "ndr-fernsehen",
+  "sha256": "c8ac9e532a1f5d117aaddc44a39e63b04b03f602da419e8e47b3bc8eee40951d",
+  "entity_name": "NDR Fernsehen",
+  "aka": ["Norddeutscher Rundfunk Fernsehen", "N3 (former)"],
+  "type": "broadcast-network",
+  "country": "DE",
+  "founded": "1965",
+  "defunct": null,
+  "parent_company": "Norddeutscher Rundfunk (NDR), ARD",
+  "official_website": "https://www.ndr.de",
+  "wikipedia": "https://en.wikipedia.org/wiki/NDR_Fernsehen",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "NDR Blue", "hex": "#0084C3"}
+  ],
+  "logo_usage": null,
+  "description": "German regional public broadcasting television channel operated by NDR for northern Germany.",
+  "duplicate_files": ["downloads/N/ndr-fernsehen.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - NDR Fernsehen", "url": "https://en.wikipedia.org/wiki/NDR_Fernsehen"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

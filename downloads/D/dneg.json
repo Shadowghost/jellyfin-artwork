@@ -1,0 +1,25 @@
+{
+  "slug": "dneg",
+  "sha256": "0f6b2a73bf42a55cbc324fd12b7b2291a9df50dda240ead46ab6fa357e92d478",
+  "entity_name": "DNEG",
+  "aka": ["Double Negative"],
+  "type": "production-company",
+  "country": "GB",
+  "founded": "1998",
+  "defunct": null,
+  "parent_company": "Prime Focus / Brahma Group",
+  "official_website": "https://www.dneg.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/DNEG",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British visual effects, animation and stereo conversion studio, with multiple Academy Award wins for VFX.",
+  "duplicate_files": ["downloads/D/dneg.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - DNEG", "url": "https://en.wikipedia.org/wiki/DNEG"},
+    {"title": "DNEG official", "url": "https://www.dneg.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

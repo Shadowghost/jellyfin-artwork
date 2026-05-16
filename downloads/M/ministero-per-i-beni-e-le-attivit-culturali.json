@@ -1,0 +1,25 @@
+{
+  "slug": "ministero-per-i-beni-e-le-attivit-culturali",
+  "sha256": "5c3168e01458018cc6dafd66395aa402f4447a6d3b79b0217b8f545bc9de137e",
+  "entity_name": "Ministero per i Beni e le Attività Culturali",
+  "aka": ["MiBAC", "MiBACT", "Ministry for Cultural Heritage and Activities", "Ministero della Cultura"],
+  "type": "government-agency",
+  "country": "IT",
+  "founded": "1998",
+  "defunct": null,
+  "parent_company": "Government of Italy",
+  "official_website": "https://cultura.gov.it/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Ministry_of_Culture_(Italy)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Italian government ministry responsible for cultural heritage, museums, and the funding/support of Italian cinema; renamed to Ministero della Cultura in 2021.",
+  "duplicate_files": ["downloads/M/ministero-per-i-beni-e-le-attivit-culturali.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Ministry of Culture (Italy)", "url": "https://en.wikipedia.org/wiki/Ministry_of_Culture_(Italy)"},
+    {"title": "Ministero della Cultura official", "url": "https://cultura.gov.it/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

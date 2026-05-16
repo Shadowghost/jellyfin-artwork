@@ -1,0 +1,25 @@
+{
+  "slug": "splash-entertainment",
+  "sha256": "fb69c360dc7c0a6baa232ef561a102867de8383d0be2f77914e81be73f6eb135",
+  "entity_name": "Splash Entertainment",
+  "aka": ["Mike Young Productions"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1990",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.splashentertainment.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Splash_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American animation studio (formerly Mike Young Productions) that produces and distributes children's animated television series including Strawberry Shortcake and Pet Alien.",
+  "duplicate_files": ["downloads/S/splash-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Splash Entertainment", "url": "https://en.wikipedia.org/wiki/Splash_Entertainment"},
+    {"title": "Splash Entertainment official site", "url": "https://www.splashentertainment.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

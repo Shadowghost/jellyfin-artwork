@@ -1,0 +1,24 @@
+{
+  "slug": "participant-media",
+  "sha256": "49127e6c9744dc9d866f9bd0f5b772055e40f503de61d9be5119449d22ef585b",
+  "entity_name": "Participant",
+  "aka": ["Participant Media", "Participant Productions"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2004",
+  "defunct": "2024",
+  "parent_company": null,
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Participant_(company)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film production company founded by Jeff Skoll focusing on socially relevant films and documentaries; ceased operations in 2024.",
+  "duplicate_files": ["downloads/P/participant-media.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Participant", "url": "https://en.wikipedia.org/wiki/Participant_(company)"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "business-insider",
+  "sha256": "dadc576bab9d8387e2d41042c7dd68cac4ad0517db213e5d9f572d2263443694",
+  "entity_name": "Business Insider",
+  "aka": ["Insider", "BI"],
+  "type": "news",
+  "country": "US",
+  "founded": "2007",
+  "defunct": null,
+  "parent_company": "Axel Springer SE",
+  "official_website": "https://www.businessinsider.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Business_Insider",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "BI Orange", "hex": "#EE3424"},
+    {"name": "Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "American financial and business news website founded by Henry Blodget and Kevin P. Ryan, owned by German publisher Axel Springer.",
+  "duplicate_files": ["downloads/B/business-insider.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Business Insider", "url": "https://en.wikipedia.org/wiki/Business_Insider"},
+    {"title": "Business Insider official site", "url": "https://www.businessinsider.com"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

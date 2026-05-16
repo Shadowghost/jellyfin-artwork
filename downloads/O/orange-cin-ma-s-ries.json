@@ -1,0 +1,25 @@
+{
+  "slug": "orange-cin-ma-s-ries",
+  "sha256": "c010fe54ea643ac7cffe5b29b25984d27df617fc208a18b7f64656e260d320df",
+  "entity_name": "Orange Cinéma Séries",
+  "aka": ["OCS"],
+  "type": "cable-network",
+  "country": "FR",
+  "founded": "2008",
+  "defunct": null,
+  "parent_company": "Canal+ Group (acquired 2024); previously Orange S.A.",
+  "official_website": "https://www.ocs.fr",
+  "wikipedia": "https://en.wikipedia.org/wiki/OCS_(France)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "French premium pay-television service offering cinema and series, originally launched by Orange S.A.",
+  "duplicate_files": ["downloads/O/orange-cin-ma-s-ries.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – OCS (France)", "url": "https://en.wikipedia.org/wiki/OCS_(France)"},
+    {"title": "OCS official site", "url": "https://www.ocs.fr/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

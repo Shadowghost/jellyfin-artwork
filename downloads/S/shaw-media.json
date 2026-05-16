@@ -1,0 +1,24 @@
+{
+  "slug": "shaw-media",
+  "sha256": "e55fbb9dfbfe4bc9a01f3054fcad7dd401bd5c77e43aee747eda36828661af65",
+  "entity_name": "Shaw Media",
+  "aka": ["Canwest Television"],
+  "type": "broadcast-network",
+  "country": "CA",
+  "founded": "2010",
+  "defunct": "2016",
+  "parent_company": "Shaw Communications (former); now Corus Entertainment",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Shaw_Media",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Canadian media company that operated Global Television Network and specialty channels; sold to Corus Entertainment in 2016.",
+  "duplicate_files": ["downloads/S/shaw-media.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Shaw Media", "url": "https://en.wikipedia.org/wiki/Shaw_Media"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

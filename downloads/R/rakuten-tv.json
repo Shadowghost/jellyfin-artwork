@@ -1,0 +1,27 @@
+{
+  "slug": "rakuten-tv",
+  "sha256": "824e29436f83c8c3a23d550351b224f3736236e410a27eceac4d4b2f334da58e",
+  "entity_name": "Rakuten TV",
+  "aka": ["Wuaki.tv"],
+  "type": "streaming-service",
+  "country": "ES",
+  "founded": "2010",
+  "defunct": null,
+  "parent_company": "Rakuten Group",
+  "official_website": "https://rakuten.tv",
+  "wikipedia": "https://en.wikipedia.org/wiki/Rakuten_TV",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Rakuten Red", "hex": "#BF0000"}
+  ],
+  "logo_usage": null,
+  "description": "European video-on-demand streaming and AVOD service operated by Rakuten Group, headquartered in Barcelona; offers TVOD, SVOD, and free ad-supported tiers.",
+  "duplicate_files": ["downloads/R/rakuten-tv.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Rakuten TV", "url": "https://en.wikipedia.org/wiki/Rakuten_TV"},
+    {"title": "Rakuten TV official site", "url": "https://rakuten.tv/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

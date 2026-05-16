@@ -1,0 +1,25 @@
+{
+  "slug": "topic-studios",
+  "sha256": "4b0e6eaf991fd5554c85b34482e3e382e9bf83b97f8bc92073b0b15da6d6ca89",
+  "entity_name": "Topic Studios",
+  "aka": [],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2017",
+  "defunct": null,
+  "parent_company": "First Look Media",
+  "official_website": "https://topic.com/studios",
+  "wikipedia": "https://en.wikipedia.org/wiki/Topic_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film, television, podcast, and documentary production division of First Look Media, founded by Pierre Omidyar.",
+  "duplicate_files": ["downloads/T/topic-studios.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Topic Studios", "url": "https://en.wikipedia.org/wiki/Topic_Studios"},
+    {"title": "Topic Studios official site", "url": "https://topic.com/studios"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

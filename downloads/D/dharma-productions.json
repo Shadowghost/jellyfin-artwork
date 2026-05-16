@@ -1,0 +1,25 @@
+{
+  "slug": "dharma-productions",
+  "sha256": "db5b4b72f812fc1d0bae7b3192fe2ccf34cd853dbed905208b20ab5747564eae",
+  "entity_name": "Dharma Productions",
+  "aka": ["Dharma"],
+  "type": "production-company",
+  "country": "IN",
+  "founded": "1979",
+  "defunct": null,
+  "parent_company": "Adar Poonawalla (majority owner since 2024)",
+  "official_website": "https://dharma-production.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Dharma_Productions",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Indian film production and distribution company based in Mumbai, founded by Yash Johar and now run by his son Karan Johar.",
+  "duplicate_files": ["downloads/D/dharma-productions.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Dharma Productions", "url": "https://en.wikipedia.org/wiki/Dharma_Productions"},
+    {"title": "Dharma Productions official site", "url": "https://dharma-production.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

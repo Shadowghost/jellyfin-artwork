@@ -1,0 +1,25 @@
+{
+  "slug": "343-industries",
+  "sha256": "5ffcfaaf167e72ff51432176f9411e64aaca40ee4a0086aa376c904371ff8437",
+  "entity_name": "343 Industries",
+  "aka": ["343i", "Halo Studios"],
+  "type": "studio",
+  "country": "US",
+  "founded": "2007",
+  "defunct": null,
+  "parent_company": "Xbox Game Studios (Microsoft)",
+  "official_website": "https://www.halowaypoint.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Halo_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American video game developer and managing studio of the Halo franchise, owned by Microsoft; rebranded to Halo Studios in 2024.",
+  "duplicate_files": ["downloads/0/343-industries.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Halo Studios (343 Industries)", "url": "https://en.wikipedia.org/wiki/Halo_Studios"},
+    {"title": "Halo Waypoint official site", "url": "https://www.halowaypoint.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

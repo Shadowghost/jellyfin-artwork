@@ -1,0 +1,24 @@
+{
+  "slug": "xbox-video",
+  "sha256": "1a16c63f4c607d43f919ba28e784110c1cf181627593ece91f949b4baa53c0d3",
+  "entity_name": "Xbox Video",
+  "aka": ["Zune Video (predecessor)", "Microsoft Movies & TV", "Films & TV"],
+  "type": "streaming-service",
+  "country": "US",
+  "founded": "2012",
+  "defunct": "2017",
+  "parent_company": "Microsoft Corporation",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Microsoft_Movies_%26_TV",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Microsoft's digital video distribution service launched in 2012 as Xbox Video (a successor to Zune Video), later rebranded as Movies & TV / Films & TV before Microsoft discontinued movie and TV sales in 2021.",
+  "duplicate_files": ["downloads/X/xbox-video.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Microsoft Movies & TV", "url": "https://en.wikipedia.org/wiki/Microsoft_Movies_%26_TV"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

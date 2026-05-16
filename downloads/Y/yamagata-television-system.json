@@ -1,0 +1,25 @@
+{
+  "slug": "yamagata-television-system",
+  "sha256": "403fd4ecd59165b5c91e39c4a6103b766a25a22ab2decc5ff25db646ee20e9e1",
+  "entity_name": "Yamagata Television System",
+  "aka": ["YTS", "山形テレビ"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1969",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.yts.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Yamagata_Television_System",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial broadcaster based in Yamagata; affiliate of the All-Nippon News Network (TV Asahi).",
+  "duplicate_files": ["downloads/Y/yamagata-television-system.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Yamagata Television System", "url": "https://en.wikipedia.org/wiki/Yamagata_Television_System"},
+    {"title": "YTS official site", "url": "https://www.yts.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

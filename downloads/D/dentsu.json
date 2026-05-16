@@ -1,0 +1,25 @@
+{
+  "slug": "dentsu",
+  "sha256": "4e4dad90c96aca391aaa66254f35e21ea8699f3d21b826acd1ca2d123b8b1229",
+  "entity_name": "Dentsu",
+  "aka": ["Dentsu Inc.", "Dentsu Group", "電通", "Dentsu Entertainment"],
+  "type": "other",
+  "country": "JP",
+  "founded": "1901",
+  "defunct": null,
+  "parent_company": "Dentsu Group Inc.",
+  "official_website": "https://www.dentsu.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Dentsu",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese international advertising and public relations company, the largest advertising agency in Japan and one of the largest agency networks in the world; also produces and finances anime and entertainment content.",
+  "duplicate_files": ["downloads/D/dentsu-entertainment.svg", "downloads/D/dentsu-inc.svg", "downloads/D/dentsu.svg"],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia - Dentsu", "url": "https://en.wikipedia.org/wiki/Dentsu"},
+    {"title": "Dentsu official site", "url": "https://www.dentsu.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

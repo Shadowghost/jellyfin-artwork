@@ -1,0 +1,25 @@
+{
+  "slug": "gaumont-international-television",
+  "sha256": "96410c04c38d204249eb81f2f0edc95a521170954885546d26de7301e033f8dd",
+  "entity_name": "Gaumont International Television",
+  "aka": ["GIT", "Gaumont USA"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2011",
+  "defunct": null,
+  "parent_company": "Gaumont",
+  "official_website": "https://www.gaumont.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Gaumont_Film_Company",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "US-based television production division of French film company Gaumont, producer of series such as Hannibal, Narcos, and F is for Family.",
+  "duplicate_files": ["downloads/G/gaumont-international-television.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Gaumont Film Company", "url": "https://en.wikipedia.org/wiki/Gaumont_Film_Company"},
+    {"title": "Gaumont official site", "url": "https://www.gaumont.com"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

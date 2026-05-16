@@ -1,0 +1,27 @@
+{
+  "slug": "platige-films",
+  "sha256": "e2774610426b55eba26cfbe921a2b070f7e0164a8026b7d773d512ff9a0d4907",
+  "entity_name": "Platige Image",
+  "aka": ["Platige Films"],
+  "type": "production-company",
+  "country": "PL",
+  "founded": "1997",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.platige.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Platige_Image",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Polish animation, VFX, and film production studio known for cinematic trailers for The Witcher games and Netflix's The Witcher series.",
+  "duplicate_files": [
+    "downloads/P/platige-films.svg",
+    "downloads/P/platige-image.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Platige Image", "url": "https://en.wikipedia.org/wiki/Platige_Image"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

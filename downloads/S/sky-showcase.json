@@ -1,0 +1,25 @@
+{
+  "slug": "sky-showcase",
+  "sha256": "0d635681f442a9984247aa82cfbf3659ecbb04871ce0d41b1126a2e282c3be5d",
+  "entity_name": "Sky Showcase",
+  "aka": ["Sky One (predecessor)"],
+  "type": "cable-network",
+  "country": "GB",
+  "founded": "2021",
+  "defunct": null,
+  "parent_company": "Sky Group (Comcast)",
+  "official_website": "https://www.sky.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sky_Showcase",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British pay-television flagship entertainment channel operated by Sky Group, replacing Sky One in 2021.",
+  "duplicate_files": ["downloads/S/sky-showcase.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Sky Showcase", "url": "https://en.wikipedia.org/wiki/Sky_Showcase"},
+    {"title": "Sky official site", "url": "https://www.sky.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

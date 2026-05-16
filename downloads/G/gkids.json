@@ -1,0 +1,24 @@
+{
+  "slug": "gkids",
+  "sha256": "090e9f4747d0b3369425b822c938add4dc2d517ed14b608cc5c1717f313a969b",
+  "entity_name": "GKIDS",
+  "aka": ["GKIDS Films", "Guerrilla Kids International Distribution Syndicate"],
+  "type": "distributor",
+  "country": "US",
+  "founded": "2008",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.gkids.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/GKIDS",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American distributor of animated feature films and other media, known for distributing Studio Ghibli films in the US and many international animated films.",
+  "duplicate_files": ["downloads/G/gkids-films.svg", "downloads/G/gkids.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - GKIDS", "url": "https://en.wikipedia.org/wiki/GKIDS"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

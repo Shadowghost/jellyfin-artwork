@@ -1,0 +1,26 @@
+{
+  "slug": "la-sexta",
+  "sha256": "7802a5cad09eb806c7ad6d2d556a81ea407a4e764ec7e885745d559a4739aef0",
+  "entity_name": "laSexta",
+  "aka": ["La Sexta"],
+  "type": "broadcast-network",
+  "country": "ES",
+  "founded": "2006",
+  "defunct": null,
+  "parent_company": "Atresmedia",
+  "official_website": "https://www.lasexta.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/LaSexta",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "laSexta Green", "hex": "#75BC00"}
+  ],
+  "logo_usage": null,
+  "description": "Spanish free-to-air television network operated by Atresmedia, known for news and entertainment programming.",
+  "duplicate_files": ["downloads/L/la-sexta.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – LaSexta", "url": "https://en.wikipedia.org/wiki/LaSexta"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

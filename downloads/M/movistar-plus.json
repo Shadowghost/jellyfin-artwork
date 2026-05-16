@@ -1,0 +1,27 @@
+{
+  "slug": "movistar-plus",
+  "sha256": "2d1a4ee0e451ecbf3e133a1f85c254b7ecc0fae6531c21a07c9fb4902214cb44",
+  "entity_name": "Movistar Plus+",
+  "aka": ["Movistar+", "Movistar Plus"],
+  "type": "streaming-service",
+  "country": "ES",
+  "founded": "2015",
+  "defunct": null,
+  "parent_company": "Telefónica",
+  "official_website": "https://www.movistarplus.es/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Movistar_Plus%2B",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Movistar Blue", "hex": "#019DF4"}
+  ],
+  "logo_usage": null,
+  "description": "Spanish pay TV and streaming platform operated by Telefónica, distributing premium TV channels, films, and original productions.",
+  "duplicate_files": ["downloads/M/movistar-plus.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Movistar Plus+", "url": "https://en.wikipedia.org/wiki/Movistar_Plus%2B"},
+    {"title": "Movistar Plus+ official site", "url": "https://www.movistarplus.es/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

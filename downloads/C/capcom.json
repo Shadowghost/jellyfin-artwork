@@ -1,0 +1,27 @@
+{
+  "slug": "capcom",
+  "sha256": "c8bbca2f7cc3064bb5547d5b2537ec7557592d701f77a55bb558d5f79daf613d",
+  "entity_name": "Capcom",
+  "aka": ["Capcom Co., Ltd.", "株式会社カプコン"],
+  "type": "other",
+  "country": "JP",
+  "founded": "1979",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.capcom.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Capcom",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Capcom Yellow", "hex": "#F7D417"}
+  ],
+  "logo_usage": null,
+  "description": "Japanese video game developer and publisher behind franchises like Street Fighter, Resident Evil, and Monster Hunter.",
+  "duplicate_files": ["downloads/C/capcom-company.svg", "downloads/C/capcom.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Capcom", "url": "https://en.wikipedia.org/wiki/Capcom"},
+    {"title": "Capcom official site", "url": "https://www.capcom.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

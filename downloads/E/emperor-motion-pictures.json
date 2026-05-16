@@ -1,0 +1,27 @@
+{
+  "slug": "emperor-motion-pictures",
+  "sha256": "9f4738de813c42f5f875ec5e9220b6aafafad610f5d0539f0f6ebca4cd2e6855",
+  "entity_name": "Emperor Motion Pictures",
+  "aka": ["EMP", "英皇電影"],
+  "type": "studio",
+  "country": "HK",
+  "founded": "2000",
+  "defunct": null,
+  "parent_company": "Emperor Group / Emperor Culture Group",
+  "official_website": "https://www.emp.hk",
+  "wikipedia": "https://en.wikipedia.org/wiki/Emperor_Group",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Hong Kong-based film production, sales, and distribution company, one of the largest producers of Hong Kong cinema.",
+  "duplicate_files": [
+    "downloads/E/emperor-motion-pictures.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Emperor Motion Pictures official site", "url": "https://www.emp.hk/en/about-us"},
+    {"title": "Wikipedia – Emperor Group", "url": "https://en.wikipedia.org/wiki/Emperor_Group"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

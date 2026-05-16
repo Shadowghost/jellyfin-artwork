@@ -1,0 +1,26 @@
+{
+  "slug": "cj-investment",
+  "sha256": "2ad6130e1335f42378a904590ebf54da4f005b7e866610e1e3d51a6de4ceae60",
+  "entity_name": "CJ Entertainment (CJ Investment)",
+  "aka": ["CJ ENM Films & Television", "CJ E&M", "CJ ENM"],
+  "type": "studio",
+  "country": "KR",
+  "founded": "1995",
+  "defunct": null,
+  "parent_company": "CJ Group",
+  "official_website": "https://www.cjenm.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/CJ_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "South Korean entertainment, film production/distribution and investment arm of CJ Group, distributor of Parasite and other Korean films.",
+  "duplicate_files": [
+    "downloads/C/cj-investment.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – CJ Entertainment", "url": "https://en.wikipedia.org/wiki/CJ_Entertainment"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

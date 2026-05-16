@@ -1,0 +1,24 @@
+{
+  "slug": "w-productions",
+  "sha256": "f04dc8855b4e24a8403533735fb55e1784dde59e23be141dd6c7aa4337762a78",
+  "entity_name": "Cruise/Wagner Productions",
+  "aka": ["C/W Productions", "Wagner Productions"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1993",
+  "defunct": "2008",
+  "parent_company": null,
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Cruise/Wagner_Productions",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film production company founded by Tom Cruise and Paula Wagner; produced Mission: Impossible series among others.",
+  "duplicate_files": ["downloads/C/cruise-wagner-productions.svg", "downloads/C/cruisewagner-productions.svg", "downloads/W/w-productions.svg", "downloads/W/wagner-productions.svg"],
+  "duplicate_count": 4,
+  "sources": [
+    {"title": "Wikipedia - Cruise/Wagner Productions", "url": "https://en.wikipedia.org/wiki/Cruise/Wagner_Productions"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

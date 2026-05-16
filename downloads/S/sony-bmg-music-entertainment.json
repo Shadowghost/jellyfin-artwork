@@ -1,0 +1,24 @@
+{
+  "slug": "sony-bmg-music-entertainment",
+  "sha256": "34643e7c405f3db16b395003d4178cc28e06cd89e4463c31ab5cc75365a459e6",
+  "entity_name": "Sony BMG Music Entertainment",
+  "aka": ["Sony BMG"],
+  "type": "record-label",
+  "country": "US",
+  "founded": "2004",
+  "defunct": "2008",
+  "parent_company": "Sony Corporation / Bertelsmann (joint venture)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Sony_BMG",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American multinational record music company that was a 50/50 joint venture between Sony Music Entertainment and Bertelsmann Music Group; merged into Sony Music Entertainment in 2008 after Sony bought out Bertelsmann's stake.",
+  "duplicate_files": ["downloads/S/sony-bmg-music-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Sony BMG", "url": "https://en.wikipedia.org/wiki/Sony_BMG"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

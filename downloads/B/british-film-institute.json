@@ -1,0 +1,28 @@
+{
+  "slug": "british-film-institute",
+  "sha256": "732e5fb699ab4862439bf408d7a64222d0d21faa77ddf7d6857f14d5bf4648eb",
+  "entity_name": "British Film Institute",
+  "aka": ["BFI"],
+  "type": "government-agency",
+  "country": "GB",
+  "founded": "1933",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.bfi.org.uk/",
+  "wikipedia": "https://en.wikipedia.org/wiki/British_Film_Institute",
+  "brand_guidelines_url": "https://www.bfi.org.uk/about-bfi/brand-guidelines",
+  "brand_colors": [
+    {"name": "BFI Black", "hex": "#000000"},
+    {"name": "BFI White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": null,
+  "description": "British charity that promotes and preserves UK filmmaking, founded in 1933, also a national film archive and funder.",
+  "duplicate_files": ["downloads/B/british-film-institute-bfi.svg", "downloads/B/british-film-institute.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – British Film Institute", "url": "https://en.wikipedia.org/wiki/British_Film_Institute"},
+    {"title": "BFI official site", "url": "https://www.bfi.org.uk/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

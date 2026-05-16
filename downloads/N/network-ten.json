@@ -1,0 +1,25 @@
+{
+  "slug": "network-ten",
+  "sha256": "db639b3f70b240e4d45c7dd1420d6a27f08da3c7836ecfbeb44ce5218026f90a",
+  "entity_name": "Network 10",
+  "aka": ["Network Ten", "Channel 10", "10"],
+  "type": "broadcast-network",
+  "country": "AU",
+  "founded": "1964",
+  "defunct": null,
+  "parent_company": "Paramount Global",
+  "official_website": "https://10play.com.au/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Network_10",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Australian commercial television network, owned by Paramount Global, one of Australia's free-to-air national networks.",
+  "duplicate_files": ["downloads/N/network-ten.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Network 10", "url": "https://en.wikipedia.org/wiki/Network_10"},
+    {"title": "10 Play official site", "url": "https://10play.com.au/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

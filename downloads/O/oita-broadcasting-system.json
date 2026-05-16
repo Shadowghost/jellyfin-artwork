@@ -1,0 +1,26 @@
+{
+  "slug": "oita-broadcasting-system",
+  "sha256": "35e0fe33f87404b2f3dbf919e939cb3696dab5801da3fe0cc641991eb39ec85c",
+  "entity_name": "Oita Broadcasting System",
+  "aka": ["OBS"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1953",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.e-obs.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Oita_Broadcasting_System",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial television and radio station based in Oita Prefecture, affiliated with the Japan News Network (TBS).",
+  "duplicate_files": [
+    "downloads/O/oita-broadcasting-system.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Oita Broadcasting System", "url": "https://en.wikipedia.org/wiki/Oita_Broadcasting_System"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

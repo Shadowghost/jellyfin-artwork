@@ -1,0 +1,25 @@
+{
+  "slug": "tempo-media",
+  "sha256": "4ef8ac32641cc52154227f25f20bd49735aaa42ffb613db357f887dea70abf2b",
+  "entity_name": "Tempo Media Group",
+  "aka": ["PT Tempo Inti Media Tbk", "Tempo"],
+  "type": "publisher",
+  "country": "ID",
+  "founded": "1971",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.tempo.co/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Tempo_(Indonesian_magazine)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Indonesian media and publishing group based in Jakarta, known for the Tempo investigative news magazine, and active in film/animation production through subsidiaries.",
+  "duplicate_files": ["downloads/T/tempo-media.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Tempo (Indonesian magazine)", "url": "https://en.wikipedia.org/wiki/Tempo_(Indonesian_magazine)"},
+    {"title": "Tempo official", "url": "https://www.tempo.co/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

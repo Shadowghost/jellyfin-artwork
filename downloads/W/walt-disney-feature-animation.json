@@ -1,0 +1,24 @@
+{
+  "slug": "walt-disney-feature-animation",
+  "sha256": "78de18d789ae26f809c344cd0a19189b096c3acb991dc5135c242e8e1c90ed39",
+  "entity_name": "Walt Disney Animation Studios",
+  "aka": ["Walt Disney Feature Animation", "WDAS", "Disney Animation"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1923",
+  "defunct": null,
+  "parent_company": "The Walt Disney Company (Walt Disney Studios)",
+  "official_website": "https://www.disneyanimation.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Walt_Disney_Animation_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American animation studio that creates animated feature films, short films, and television specials for The Walt Disney Company; founded by Walt and Roy O. Disney.",
+  "duplicate_files": ["downloads/W/walt-disney-feature-animation.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Walt Disney Animation Studios", "url": "https://en.wikipedia.org/wiki/Walt_Disney_Animation_Studios"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

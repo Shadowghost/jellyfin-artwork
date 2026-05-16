@@ -1,0 +1,25 @@
+{
+  "slug": "ibc-iwate-broadcasting",
+  "sha256": "c4b86bdf13f476ccd71b8cdf26c9da4cfacbc98995bb83637daaa003926fc0f6",
+  "entity_name": "IBC Iwate Broadcasting",
+  "aka": ["IBC", "アイビーシー岩手放送"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1953",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.ibc.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/IBC_Iwate_Broadcasting",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial broadcaster based in Morioka, Iwate Prefecture; affiliate of Japan News Network (TBS).",
+  "duplicate_files": ["downloads/I/ibc-iwate-broadcasting.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – IBC Iwate Broadcasting", "url": "https://en.wikipedia.org/wiki/IBC_Iwate_Broadcasting"},
+    {"title": "IBC official site", "url": "https://www.ibc.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

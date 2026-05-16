@@ -1,0 +1,28 @@
+{
+  "slug": "abc-studios",
+  "sha256": "9d2e870e08537c3e8ade296051738460f3c456dd1d96d21862e56f0697d32ed9",
+  "entity_name": "ABC Signature",
+  "aka": ["ABC Studios", "Touchstone Television", "ABC Signature Studios"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1985",
+  "defunct": null,
+  "parent_company": "Disney Television Studios (The Walt Disney Company)",
+  "official_website": "https://abc.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/ABC_Signature",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American television production company owned by The Walt Disney Company, originally known as Touchstone Television, then ABC Studios, and rebranded as ABC Signature in 2020.",
+  "duplicate_files": [
+    "downloads/A/abc-signature-studios.svg",
+    "downloads/A/abc-signature.svg",
+    "downloads/A/abc-studios.svg"
+  ],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia – ABC Signature", "url": "https://en.wikipedia.org/wiki/ABC_Signature"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

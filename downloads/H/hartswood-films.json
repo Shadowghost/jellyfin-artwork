@@ -1,0 +1,25 @@
+{
+  "slug": "hartswood-films",
+  "sha256": "7606f9d42c45b31bc4bed48517bedbb556e8392adbf9c2a17c6c9ccb1f258e7d",
+  "entity_name": "Hartswood Films",
+  "aka": [],
+  "type": "production-company",
+  "country": "UK",
+  "founded": "1979",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.hartswoodfilms.co.uk",
+  "wikipedia": "https://en.wikipedia.org/wiki/Hartswood_Films",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British independent television production company founded by Beryl Vertue, best known for producing Sherlock and Coupling.",
+  "duplicate_files": ["downloads/H/hartswood-films.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Hartswood Films", "url": "https://en.wikipedia.org/wiki/Hartswood_Films"},
+    {"title": "Hartswood Films official site", "url": "https://www.hartswoodfilms.co.uk"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

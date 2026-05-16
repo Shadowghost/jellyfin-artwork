@@ -1,0 +1,25 @@
+{
+  "slug": "mages",
+  "sha256": "1a7fd666ae9534a6389225ae56621cd99a9a44bb88119383b7ef5e8aa89b5807",
+  "entity_name": "MAGES.",
+  "aka": ["Mages", "5pb."],
+  "type": "production-company",
+  "country": "JP",
+  "founded": "2005",
+  "defunct": null,
+  "parent_company": "Chiyomaru Studio",
+  "official_website": "https://mages.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Mages_(company)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese video game and visual novel developer/publisher and anime production company, known for the Science Adventure series including Steins;Gate.",
+  "duplicate_files": ["downloads/M/mages.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Mages (company)", "url": "https://en.wikipedia.org/wiki/Mages_(company)"},
+    {"title": "MAGES. official site", "url": "https://mages.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

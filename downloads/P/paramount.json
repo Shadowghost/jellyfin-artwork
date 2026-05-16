@@ -1,0 +1,30 @@
+{
+  "slug": "paramount",
+  "sha256": "662d2dc984aab93f80141e7271f38145b18ef8c20e74a14f07943e4a8a3a9efa",
+  "entity_name": "Paramount Pictures",
+  "aka": ["Paramount", "Paramount Television Studios"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1912",
+  "defunct": null,
+  "parent_company": "Paramount Global",
+  "official_website": "https://www.paramount.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Paramount_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Paramount Blue", "hex": "#0064FF"}
+  ],
+  "logo_usage": "Iconic mountain peak surrounded by stars wordmark.",
+  "description": "Major American film and television studio, one of the 'Big Five' Hollywood studios and the second-oldest film studio in the United States.",
+  "duplicate_files": [
+    "downloads/P/paramount-television-studios.svg",
+    "downloads/P/paramount.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Paramount Pictures", "url": "https://en.wikipedia.org/wiki/Paramount_Pictures"},
+    {"title": "Paramount official site", "url": "https://www.paramount.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

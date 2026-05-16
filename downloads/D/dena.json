@@ -1,0 +1,25 @@
+{
+  "slug": "dena",
+  "sha256": "a3b42f0e16de593b5d2d0ac98631c056deb85add62b3cce4d57df27d8f0e1341",
+  "entity_name": "DeNA",
+  "aka": ["DeNA Co., Ltd.", "ディー・エヌ・エー"],
+  "type": "other",
+  "country": "JP",
+  "founded": "1999",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://dena.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/DeNA",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese mobile portal and e-commerce company active in gaming, entertainment, and sports.",
+  "duplicate_files": ["downloads/D/dena.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – DeNA", "url": "https://en.wikipedia.org/wiki/DeNA"},
+    {"title": "DeNA official", "url": "https://dena.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

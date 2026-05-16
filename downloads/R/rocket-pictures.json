@@ -1,0 +1,25 @@
+{
+  "slug": "rocket-pictures",
+  "sha256": "b834c788e71eae48fe56bc15b4570c0e88dc7eb21c78e3ccb53f911e1e0505ba",
+  "entity_name": "Rocket Pictures",
+  "aka": [],
+  "type": "production-company",
+  "country": "GB",
+  "founded": "1996",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://rocketpictures.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Rocket_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British film and television production company founded by Elton John and David Furnish, producing films such as Rocketman, Gnomeo & Juliet, and Sherlock Gnomes.",
+  "duplicate_files": ["downloads/R/rocket-pictures.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Rocket Pictures", "url": "https://en.wikipedia.org/wiki/Rocket_Pictures"},
+    {"title": "Rocket Pictures official site", "url": "https://rocketpictures.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "centre-national-de-la-cin-matographie",
+  "sha256": "32bc16ddca444bb61bc869038b1db0d02e6d82e795a2f6820c8a53510e5d24d6",
+  "entity_name": "Centre national du cinéma et de l'image animée",
+  "aka": ["CNC", "Centre national de la cinématographie"],
+  "type": "government-agency",
+  "country": "FR",
+  "founded": "1946",
+  "defunct": null,
+  "parent_company": "Ministry of Culture (France)",
+  "official_website": "https://www.cnc.fr/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Centre_national_du_cin%C3%A9ma_et_de_l%27image_anim%C3%A9e",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "French government agency under the Ministry of Culture responsible for regulating, funding and supporting the cinema and audiovisual industries.",
+  "duplicate_files": [
+    "downloads/C/centre-national-de-la-cin-matographie.svg",
+    "downloads/C/centre-national-du-cin-ma-et-de-l-image-anim-e-cnc.svg",
+    "downloads/C/centre-national-du-cin-ma-et-de-l-image-anim-e.svg",
+    "downloads/I/institut-pour-le-financement-du-cin-ma-et-des-industries-culturelles.svg"
+  ],
+  "duplicate_count": 4,
+  "sources": [
+    {"title": "Wikipedia – CNC", "url": "https://en.wikipedia.org/wiki/Centre_national_du_cin%C3%A9ma_et_de_l%27image_anim%C3%A9e"},
+    {"title": "CNC official site", "url": "https://www.cnc.fr/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

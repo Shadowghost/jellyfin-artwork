@@ -1,0 +1,25 @@
+{
+  "slug": "miramax",
+  "sha256": "fb67bc12dabdfbe54c47a9757014b271a569790b2b6d48ef7f840339ba55c6be",
+  "entity_name": "Miramax",
+  "aka": ["Miramax Films", "Miramax International", "Miramax Home Entertainment"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1979",
+  "defunct": null,
+  "parent_company": "beIN Media Group and Paramount Global (joint venture)",
+  "official_website": "https://www.miramax.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Miramax",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film and television production and distribution company founded by Bob and Harvey Weinstein, currently jointly owned by beIN Media Group and Paramount.",
+  "duplicate_files": ["downloads/M/miramax-films.svg", "downloads/M/miramax-home-entertainment.svg", "downloads/M/miramax-international.svg", "downloads/M/miramax.svg"],
+  "duplicate_count": 4,
+  "sources": [
+    {"title": "Wikipedia – Miramax", "url": "https://en.wikipedia.org/wiki/Miramax"},
+    {"title": "Miramax official site", "url": "https://www.miramax.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

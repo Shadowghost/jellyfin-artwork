@@ -1,0 +1,25 @@
+{
+  "slug": "sabesp",
+  "sha256": "8b54bc9bb5617996117b42d872ab803491b3d1f47722baa3136149c82252cbc9",
+  "entity_name": "Sabesp",
+  "aka": ["Companhia de Saneamento Básico do Estado de São Paulo"],
+  "type": "other",
+  "country": "BR",
+  "founded": "1973",
+  "defunct": null,
+  "parent_company": "Government of the State of São Paulo (until 2024 privatisation)",
+  "official_website": "https://www.sabesp.com.br",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sabesp",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Brazilian water and sewage utility serving the state of São Paulo; not a media company but logo appears in this set possibly as a sponsor or via metadata mismatch.",
+  "duplicate_files": ["downloads/S/sabesp.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Sabesp", "url": "https://en.wikipedia.org/wiki/Sabesp"},
+    {"title": "Sabesp official site", "url": "https://www.sabesp.com.br/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

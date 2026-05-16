@@ -1,0 +1,24 @@
+{
+  "slug": "s-dwestfunk",
+  "sha256": "a716e107791f15b208ba66f1ddd7efc3e2907db0d5f1177a0c0b1067699c6a11",
+  "entity_name": "Südwestfunk",
+  "aka": ["SWF"],
+  "type": "broadcast-network",
+  "country": "DE",
+  "founded": "1946",
+  "defunct": "1998",
+  "parent_company": "ARD",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/S%C3%BCdwestfunk",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Former German public broadcaster for southwest Germany (Rhineland-Palatinate and Baden), part of ARD; merged with Süddeutscher Rundfunk in 1998 to form SWR.",
+  "duplicate_files": ["downloads/S/s-dwestfunk.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Südwestfunk", "url": "https://en.wikipedia.org/wiki/S%C3%BCdwestfunk"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

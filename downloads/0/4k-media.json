@@ -1,0 +1,25 @@
+{
+  "slug": "4k-media",
+  "sha256": "d1b9d98b727a106a1dcc84e1bedac7742d6555da233829f5f3e01f7b0df71cb1",
+  "entity_name": "4K Media Inc.",
+  "aka": ["4K Media"],
+  "type": "distributor",
+  "country": "US",
+  "founded": "2012",
+  "defunct": null,
+  "parent_company": "Konami Cross Media NY (Konami Group)",
+  "official_website": "https://www.4kmedia.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Konami_Cross_Media_NY",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "New York-based subsidiary of Konami responsible for the international licensing of the Yu-Gi-Oh! franchise outside Asia.",
+  "duplicate_files": ["downloads/0/4k-media.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Konami Cross Media NY", "url": "https://en.wikipedia.org/wiki/Konami_Cross_Media_NY"},
+    {"title": "4K Media official site", "url": "https://www.4kmedia.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

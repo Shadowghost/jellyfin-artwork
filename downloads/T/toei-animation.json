@@ -1,0 +1,25 @@
+{
+  "slug": "toei-animation",
+  "sha256": "7a453cc46e50f77b1d4e0ecdfb59132ae2731662e5ae8a23d049cefc1042f164",
+  "entity_name": "Toei Animation",
+  "aka": ["Toei Doga"],
+  "type": "studio",
+  "country": "JP",
+  "founded": "1948",
+  "defunct": null,
+  "parent_company": "Toei Company",
+  "official_website": "https://www.toei-anim.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Toei_Animation",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese animation studio owned by Toei Company, producer of Dragon Ball, One Piece, Sailor Moon, and other major anime franchises.",
+  "duplicate_files": ["downloads/T/toei-animation.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Toei Animation", "url": "https://en.wikipedia.org/wiki/Toei_Animation"},
+    {"title": "Toei Animation official site", "url": "https://www.toei-anim.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

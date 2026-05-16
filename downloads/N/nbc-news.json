@@ -1,0 +1,26 @@
+{
+  "slug": "nbc-news",
+  "sha256": "ee1832a0891fe52eb9ac39fa8dc03c3c6d8f300d03fd91318cf2c8c69ab0d32f",
+  "entity_name": "NBC News",
+  "aka": [],
+  "type": "news",
+  "country": "US",
+  "founded": "1940",
+  "defunct": null,
+  "parent_company": "NBCUniversal (Comcast)",
+  "official_website": "https://www.nbcnews.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/NBC_News",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "News division of American broadcast network NBC, producing news programming for television, radio, and digital platforms.",
+  "duplicate_files": [
+    "downloads/N/nbc-news.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – NBC News", "url": "https://en.wikipedia.org/wiki/NBC_News"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

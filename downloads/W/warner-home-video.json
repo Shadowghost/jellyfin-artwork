@@ -1,0 +1,24 @@
+{
+  "slug": "warner-home-video",
+  "sha256": "cf0e7f8478b3a73f521b290cc9716d6aaac37055b7d26905e6bf3407cf09334e",
+  "entity_name": "Warner Bros. Home Entertainment",
+  "aka": ["Warner Home Video", "Warner Bros. Home Video", "WHV"],
+  "type": "distributor",
+  "country": "US",
+  "founded": "1978",
+  "defunct": null,
+  "parent_company": "Warner Bros. Discovery",
+  "official_website": "https://www.warnerbros.com/home-entertainment",
+  "wikipedia": "https://en.wikipedia.org/wiki/Warner_Bros._Home_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Home-video distribution arm of Warner Bros. (Warner Bros. Discovery), responsible for the studio's DVD, Blu-ray, 4K UHD, and digital home releases worldwide; founded as Warner Home Video in 1978.",
+  "duplicate_files": ["downloads/W/warner-bros-home-video.svg", "downloads/W/warner-home-video.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Warner Bros. Home Entertainment", "url": "https://en.wikipedia.org/wiki/Warner_Bros._Home_Entertainment"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "paramount-television",
+  "sha256": "a9f5d1badeede0e8059a4131f7d25ab622d5d518033d7f1bfcc4d548bf39d6a7",
+  "entity_name": "Paramount Television Studios",
+  "aka": ["Paramount Television"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2013",
+  "defunct": null,
+  "parent_company": "Paramount Global",
+  "official_website": "https://www.paramount.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Paramount_Television_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American television production company and division of Paramount Pictures, owned by Paramount Global.",
+  "duplicate_files": ["downloads/P/paramount-television.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Paramount Television Studios", "url": "https://en.wikipedia.org/wiki/Paramount_Television_Studios"},
+    {"title": "Paramount official site", "url": "https://www.paramount.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

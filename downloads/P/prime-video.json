@@ -1,0 +1,28 @@
+{
+  "slug": "prime-video",
+  "sha256": "abac4e1c5fcbe6f60579e1ae64acd232b7190dba46c7c505b55a13dbb9f679b8",
+  "entity_name": "Prime Video",
+  "aka": ["Amazon Prime Video", "Amazon Video"],
+  "type": "streaming-service",
+  "country": "US",
+  "founded": "2006",
+  "defunct": null,
+  "parent_company": "Amazon",
+  "official_website": "https://www.primevideo.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Prime_Video",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Prime Blue", "hex": "#00A8E1"},
+    {"name": "Black", "hex": "#000000"}
+  ],
+  "logo_usage": null,
+  "description": "American subscription video-on-demand streaming service operated by Amazon, included with Amazon Prime memberships globally.",
+  "duplicate_files": ["downloads/P/prime-video.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Prime Video", "url": "https://en.wikipedia.org/wiki/Prime_Video"},
+    {"title": "Prime Video official site", "url": "https://www.primevideo.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

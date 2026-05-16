@@ -1,0 +1,25 @@
+{
+  "slug": "savonia-ammattikorkeakoulu",
+  "sha256": "61de501c83d01c549c350ea3e1bc2b7c204356616d785c6b60daf2291d3d85cf",
+  "entity_name": "Savonia University of Applied Sciences",
+  "aka": ["Savonia Ammattikorkeakoulu", "Savonia UAS"],
+  "type": "other",
+  "country": "FI",
+  "founded": "1992",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.savonia.fi/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Savonia_University_of_Applied_Sciences",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Finnish polytechnic/university of applied sciences based in Kuopio and Iisalmi; appears in film credits for educational productions.",
+  "duplicate_files": ["downloads/S/savonia-ammattikorkeakoulu.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Savonia University of Applied Sciences", "url": "https://en.wikipedia.org/wiki/Savonia_University_of_Applied_Sciences"},
+    {"title": "Savonia official site", "url": "https://www.savonia.fi/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

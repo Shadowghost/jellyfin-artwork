@@ -1,0 +1,25 @@
+{
+  "slug": "mappa",
+  "sha256": "bc6b6e7fee9991e548935bd4f2a7f098759535426d38b3f7b94969c0965c9e2b",
+  "entity_name": "MAPPA",
+  "aka": ["Maruyama Animation Produce Project Association"],
+  "type": "studio",
+  "country": "JP",
+  "founded": "2011",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.mappa.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/MAPPA",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese animation studio known for series including Attack on Titan: The Final Season, Jujutsu Kaisen, and Chainsaw Man.",
+  "duplicate_files": ["downloads/M/mappa.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - MAPPA", "url": "https://en.wikipedia.org/wiki/MAPPA"},
+    {"title": "MAPPA official", "url": "https://www.mappa.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

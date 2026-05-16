@@ -1,0 +1,24 @@
+{
+  "slug": "tele-m-nchen",
+  "sha256": "b5a3528c5f2f668211a25ed4367bd20016ee4c19407f858c27c906c05c8a9175",
+  "entity_name": "Tele München Gruppe",
+  "aka": ["TMG", "Tele München", "Leonine Studios (successor)"],
+  "type": "production-company",
+  "country": "DE",
+  "founded": "1970",
+  "defunct": null,
+  "parent_company": "Leonine Studios (KKR)",
+  "official_website": "https://leoninestudios.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Tele_M%C3%BCnchen_Gruppe",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "German media company founded by Herbert Kloiber active in film and TV production, distribution, broadcasting and home entertainment; reorganized into Leonine Studios after acquisition by KKR in 2019.",
+  "duplicate_files": ["downloads/T/tele-m-nchen-gruppe.svg", "downloads/T/tele-m-nchen.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Tele München Gruppe", "url": "https://en.wikipedia.org/wiki/Tele_M%C3%BCnchen_Gruppe"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

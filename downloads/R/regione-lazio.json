@@ -1,0 +1,25 @@
+{
+  "slug": "regione-lazio",
+  "sha256": "3ae70c17b646803db6de4cfdd252af25674d43a8f47eae8f55f6e0c2ea60d36b",
+  "entity_name": "Regione Lazio",
+  "aka": ["Lazio Region"],
+  "type": "government-agency",
+  "country": "IT",
+  "founded": "1970",
+  "defunct": null,
+  "parent_company": "Italian Republic",
+  "official_website": "https://www.regione.lazio.it/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Lazio",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Regional government of Lazio, Italy, often listed as a film production funder in Italian cinema credits.",
+  "duplicate_files": ["downloads/R/regione-lazio.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Lazio", "url": "https://en.wikipedia.org/wiki/Lazio"},
+    {"title": "Regione Lazio official", "url": "https://www.regione.lazio.it/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

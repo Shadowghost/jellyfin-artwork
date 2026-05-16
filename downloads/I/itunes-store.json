@@ -1,0 +1,25 @@
+{
+  "slug": "itunes-store",
+  "sha256": "d571c353ac351ad1781ed2e9fd8275d05434ce442370321514916d3d0cf0e18c",
+  "entity_name": "iTunes Store",
+  "aka": ["Apple iTunes Store", "iTunes Music Store"],
+  "type": "distributor",
+  "country": "US",
+  "founded": "2003",
+  "defunct": null,
+  "parent_company": "Apple Inc.",
+  "official_website": "https://www.apple.com/itunes/",
+  "wikipedia": "https://en.wikipedia.org/wiki/ITunes_Store",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Digital media store operated by Apple Inc. that launched in 2003 as the iTunes Music Store and expanded to sell movies, TV shows, podcasts, and apps; gradually superseded by Apple Music, Apple TV, and other Apple services.",
+  "duplicate_files": ["downloads/I/itunes-store.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - iTunes Store", "url": "https://en.wikipedia.org/wiki/ITunes_Store"},
+    {"title": "Apple iTunes", "url": "https://www.apple.com/itunes/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

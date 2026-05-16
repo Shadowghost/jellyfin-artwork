@@ -1,0 +1,29 @@
+{
+  "slug": "belfius",
+  "sha256": "e735711cfa22fadf396eb835d2caf12644f1f240f708219e293ab9f0e43f8439",
+  "entity_name": "Belfius",
+  "aka": ["Belfius Bank", "Belfius Bank & Insurance"],
+  "type": "other",
+  "country": "BE",
+  "founded": "2011",
+  "defunct": null,
+  "parent_company": "Belgian Federal Government",
+  "official_website": "https://www.belfius.be",
+  "wikipedia": "https://en.wikipedia.org/wiki/Belfius",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Belfius Red", "hex": "#AE0F0A"}
+  ],
+  "logo_usage": null,
+  "description": "Belgian state-owned bank and insurance company, often credited as a financier of Belgian film productions.",
+  "duplicate_files": [
+    "downloads/B/belfius.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Belfius", "url": "https://en.wikipedia.org/wiki/Belfius"},
+    {"title": "Belfius official site", "url": "https://www.belfius.be/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

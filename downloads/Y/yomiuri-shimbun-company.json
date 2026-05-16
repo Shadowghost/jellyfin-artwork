@@ -1,0 +1,28 @@
+{
+  "slug": "yomiuri-shimbun-company",
+  "sha256": "1f2cb1d674e17df473ab83d4cb67c562f7e832614c92f950aa9ff1aeddea87f9",
+  "entity_name": "The Yomiuri Shimbun",
+  "aka": ["Yomiuri Shimbun", "読売新聞"],
+  "type": "news",
+  "country": "JP",
+  "founded": "1874",
+  "defunct": null,
+  "parent_company": "The Yomiuri Shimbun Holdings",
+  "official_website": "https://www.yomiuri.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Yomiuri_Shimbun",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese national daily newspaper, one of the largest circulation newspapers in the world; parent of media interests including Nippon TV. The grouping also covers regional papers such as The Fukushima Min'yu Shimbun.",
+  "duplicate_files": [
+    "downloads/T/the-fukushima-minyu-shimbun.svg",
+    "downloads/Y/yomiuri-shimbun-company.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Yomiuri Shimbun", "url": "https://en.wikipedia.org/wiki/Yomiuri_Shimbun"},
+    {"title": "Yomiuri Shimbun official site", "url": "https://www.yomiuri.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

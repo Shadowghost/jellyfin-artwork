@@ -1,0 +1,28 @@
+{
+  "slug": "mtv",
+  "sha256": "a62618215b908a5c8ced6902e04c52d8c2c339f619c6a8355fa3aec2fae03a0a",
+  "entity_name": "MTV",
+  "aka": ["Music Television"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1981",
+  "defunct": null,
+  "parent_company": "Paramount Global",
+  "official_website": "https://www.mtv.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/MTV",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "MTV Black", "hex": "#000000"},
+    {"name": "MTV Yellow", "hex": "#FFF200"}
+  ],
+  "logo_usage": null,
+  "description": "American cable channel originally focused on music videos, owned by Paramount Global.",
+  "duplicate_files": ["downloads/M/mtv-us.svg", "downloads/M/mtv.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - MTV", "url": "https://en.wikipedia.org/wiki/MTV"},
+    {"title": "MTV official", "url": "https://www.mtv.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

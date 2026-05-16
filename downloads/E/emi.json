@@ -1,0 +1,24 @@
+{
+  "slug": "emi",
+  "sha256": "813ac8a384a75d0bff98631f9b4ba411196d2e6cb6ccd8c7c4f497f75ccd50e1",
+  "entity_name": "EMI",
+  "aka": ["Electric and Musical Industries", "EMI Records", "EMI Group"],
+  "type": "record-label",
+  "country": "GB",
+  "founded": "1931",
+  "defunct": "2012",
+  "parent_company": "Universal Music Group / Sony Music (assets split)",
+  "official_website": "https://www.emimusic.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/EMI",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British transnational music recording and publishing company, founded in 1931 and dissolved in 2012 when most of its assets were acquired by Universal Music Group and Sony.",
+  "duplicate_files": ["downloads/E/emi.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - EMI", "url": "https://en.wikipedia.org/wiki/EMI"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "sapporo-television-broadcasting-company",
+  "sha256": "e8475995acf4378e1a5be655fc903d26cde72267bc6dd402352ea5087862023e",
+  "entity_name": "Sapporo Television Broadcasting Co., Ltd.",
+  "aka": ["STV", "札幌テレビ放送"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1958",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.stv.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sapporo_Television_Broadcasting",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial television and radio broadcaster based in Sapporo, Hokkaido, affiliated with the Nippon News Network (NNN).",
+  "duplicate_files": ["downloads/S/sapporo-television-broadcasting-company.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Sapporo Television Broadcasting", "url": "https://en.wikipedia.org/wiki/Sapporo_Television_Broadcasting"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

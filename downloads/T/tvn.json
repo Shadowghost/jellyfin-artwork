@@ -1,0 +1,24 @@
+{
+  "slug": "tvn",
+  "sha256": "5268d873aefc0b47801d900f247628910f7ca7e033b09333202f365c9eb29554",
+  "entity_name": "TVN (Poland)",
+  "aka": ["TVN", "TVN S.A."],
+  "type": "broadcast-network",
+  "country": "PL",
+  "founded": "1997",
+  "defunct": null,
+  "parent_company": "TVN Group (Warner Bros. Discovery)",
+  "official_website": "https://tvn.pl/",
+  "wikipedia": "https://en.wikipedia.org/wiki/TVN_(Polish_TV_channel)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Polish private free-to-air television channel and the flagship of TVN Group, owned by Warner Bros. Discovery; programs news, drama and entertainment.",
+  "duplicate_files": ["downloads/T/tvn.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - TVN (Polish TV channel)", "url": "https://en.wikipedia.org/wiki/TVN_(Polish_TV_channel)"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

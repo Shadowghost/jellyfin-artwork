@@ -1,0 +1,27 @@
+{
+  "slug": "valhalla-entertainment",
+  "sha256": "1de4a6dee1b0ebc20871d496296b7f50fc4864dc5b09c8f4358ce27dcb962b5f",
+  "entity_name": "Valhalla Entertainment",
+  "aka": ["Valhalla Motion Pictures"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1991",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.valhallaentertainment.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Valhalla_Motion_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film and television production company founded by Gale Anne Hurd, known for The Walking Dead and various action/sci-fi productions.",
+  "duplicate_files": [
+    "downloads/V/valhalla-entertainment.svg",
+    "downloads/V/valhalla-motion-pictures.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Valhalla Motion Pictures", "url": "https://en.wikipedia.org/wiki/Valhalla_Motion_Pictures"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

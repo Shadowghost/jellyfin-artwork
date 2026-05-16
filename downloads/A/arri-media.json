@@ -1,0 +1,25 @@
+{
+  "slug": "arri-media",
+  "sha256": "d03bd4d1db6e3c7c92d9e7ba9a8abe15c639b71a65491000b27094aa59fe4eff",
+  "entity_name": "ARRI",
+  "aka": ["Arnold & Richter Cine Technik", "ARRI Group", "ARRI Media"],
+  "type": "other",
+  "country": "DE",
+  "founded": "1917",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.arri.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Arri",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "German cinema equipment and services group founded by August Arnold and Robert Richter in Munich in 1917, known for ARRI cameras and lighting.",
+  "duplicate_files": ["downloads/A/arnold-richter-arri.svg", "downloads/A/arri-media.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Arri", "url": "https://en.wikipedia.org/wiki/Arri"},
+    {"title": "ARRI official site", "url": "https://www.arri.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

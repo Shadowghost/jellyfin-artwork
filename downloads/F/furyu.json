@@ -1,0 +1,25 @@
+{
+  "slug": "furyu",
+  "sha256": "f5c5cc6a72a0a81bad244597750cd4ec899ae07a0b978a29cf3a8a0d118f0b78",
+  "entity_name": "FuRyu Corporation",
+  "aka": ["FuRyu", "フリュー"],
+  "type": "studio",
+  "country": "JP",
+  "founded": "2007",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.furyu.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/FuRyu",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese entertainment company producing video games, photo booths (Print Club), and character merchandise.",
+  "duplicate_files": ["downloads/F/furyu.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – FuRyu", "url": "https://en.wikipedia.org/wiki/FuRyu"},
+    {"title": "FuRyu official site", "url": "https://www.furyu.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

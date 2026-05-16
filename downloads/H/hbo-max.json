@@ -1,0 +1,26 @@
+{
+  "slug": "hbo-max",
+  "sha256": "3b075aca8ed79ac084f294687ef6ab7900fc55d04885e4ffde23ea076e2cd84a",
+  "entity_name": "HBO Max",
+  "aka": ["Max", "HBOMax"],
+  "type": "streaming-service",
+  "country": "US",
+  "founded": "2020",
+  "defunct": null,
+  "parent_company": "Warner Bros. Discovery",
+  "official_website": "https://www.max.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Max_(streaming_service)",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "HBO Max Purple", "hex": "#9E1AFC"}
+  ],
+  "logo_usage": null,
+  "description": "American streaming service operated by Warner Bros. Discovery, rebranded from HBO Max to Max in 2023 and back to HBO Max in 2025.",
+  "duplicate_files": ["downloads/H/hbo-max.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Max (streaming service)", "url": "https://en.wikipedia.org/wiki/Max_(streaming_service)"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

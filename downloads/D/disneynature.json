@@ -1,0 +1,28 @@
+{
+  "slug": "disneynature",
+  "sha256": "ac29941ce938e33566a5b6e54f168cf231248616e6658181870934339946c50e",
+  "entity_name": "Disneynature",
+  "aka": ["Disney Nature"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2008",
+  "defunct": null,
+  "parent_company": "The Walt Disney Company",
+  "official_website": "https://nature.disney.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Disneynature",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Independent film label of The Walt Disney Studios that specializes in nature documentary films.",
+  "duplicate_files": [
+    "downloads/D/disney-nature.svg",
+    "downloads/D/disneynature.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Disneynature", "url": "https://en.wikipedia.org/wiki/Disneynature"},
+    {"title": "Disneynature official site", "url": "https://nature.disney.com"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

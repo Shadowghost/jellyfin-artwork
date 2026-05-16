@@ -1,0 +1,27 @@
+{
+  "slug": "sveriges-television-svt",
+  "sha256": "cda8b44ff432c6090fbfa165a45e63087b44df262134890ee770d709845e57d8",
+  "entity_name": "Sveriges Television (SVT)",
+  "aka": ["SVT", "Sveriges Television AB"],
+  "type": "broadcast-network",
+  "country": "SE",
+  "founded": "1956",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.svt.se/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sveriges_Television",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "SVT Blue", "hex": "#1E477A"}
+  ],
+  "logo_usage": null,
+  "description": "Swedish national public television broadcaster, funded by a public service tax, operating channels SVT1, SVT2, SVT Barn, SVT24, and Kunskapskanalen.",
+  "duplicate_files": ["downloads/S/sveriges-television-svt.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Sveriges Television", "url": "https://en.wikipedia.org/wiki/Sveriges_Television"},
+    {"title": "SVT official site", "url": "https://www.svt.se/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

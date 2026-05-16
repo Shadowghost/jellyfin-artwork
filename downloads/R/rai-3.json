@@ -1,0 +1,24 @@
+{
+  "slug": "rai-3",
+  "sha256": "c38786762ec13c9927590a4af7a5f38b7cdb582f1a792a4dadef0b63db711f6f",
+  "entity_name": "Rai 3",
+  "aka": ["RaiTre", "Rai Tre"],
+  "type": "broadcast-network",
+  "country": "IT",
+  "founded": "1979",
+  "defunct": null,
+  "parent_company": "RAI",
+  "official_website": "https://www.rai.it/rai3",
+  "wikipedia": "https://en.wikipedia.org/wiki/Rai_3",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Italian public-service television channel owned by RAI; known for current affairs programs and regional broadcasts.",
+  "duplicate_files": ["downloads/R/rai-3.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Rai 3", "url": "https://en.wikipedia.org/wiki/Rai_3"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

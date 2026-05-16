@@ -1,0 +1,24 @@
+{
+  "slug": "asahi-production",
+  "sha256": "25de2bb2ccea15109c52f41e9c2448b9ce7c21668ceef9705c3d2beb243cca56",
+  "entity_name": "Asahi Production",
+  "aka": ["Asahi Pro"],
+  "type": "production-company",
+  "country": "JP",
+  "founded": "1973",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.asahi-pro.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Asahi_Production",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese animation studio that has worked on numerous anime productions as a subcontractor and primary producer.",
+  "duplicate_files": ["downloads/A/asahi-production.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Asahi Production", "url": "https://en.wikipedia.org/wiki/Asahi_Production"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

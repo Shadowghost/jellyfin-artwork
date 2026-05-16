@@ -1,0 +1,26 @@
+{
+  "slug": "deutsches-fernsehen",
+  "sha256": "e56b7559b0a32e78cefed21c809c2ac3894b4ec70e364106c19b450cdb5c3f09",
+  "entity_name": "Deutsches Fernsehen",
+  "aka": ["Deutsches Fernsehen (ARD)", "Erstes Deutsches Fernsehen"],
+  "type": "broadcast-network",
+  "country": "DE",
+  "founded": "1954",
+  "defunct": null,
+  "parent_company": "ARD",
+  "official_website": "https://www.ard.de",
+  "wikipedia": "https://en.wikipedia.org/wiki/Das_Erste",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Historical name of the German public broadcasting service (Deutsches Fernsehen), now Das Erste under ARD.",
+  "duplicate_files": [
+    "downloads/D/deutsches-fernsehen.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Das Erste", "url": "https://en.wikipedia.org/wiki/Das_Erste"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

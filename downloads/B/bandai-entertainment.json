@@ -1,0 +1,25 @@
+{
+  "slug": "bandai-entertainment",
+  "sha256": "d9984096d2baa66bd79264f30aa95b79ee71ff4d4344fd26b2fdaf0620f1e775",
+  "entity_name": "Bandai Entertainment",
+  "aka": ["Bandai Namco Entertainment"],
+  "type": "distributor",
+  "country": "JP",
+  "founded": "1998",
+  "defunct": "2012",
+  "parent_company": "Bandai Namco Holdings",
+  "official_website": "https://www.bandainamcoent.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Bandai_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American anime licensing and distribution arm of Bandai (later Bandai Namco), which ceased new acquisitions in 2012; the global parent Bandai Namco Entertainment continues operations.",
+  "duplicate_files": ["downloads/B/bandai-entertainment.svg", "downloads/B/bandai-namco-entertainment.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Bandai Entertainment", "url": "https://en.wikipedia.org/wiki/Bandai_Entertainment"},
+    {"title": "Wikipedia – Bandai Namco Entertainment", "url": "https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

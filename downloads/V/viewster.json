@@ -1,0 +1,24 @@
+{
+  "slug": "viewster",
+  "sha256": "c089faa2fd45681efb49b3f36619891db2659a94ff4cdbd9d8508675ab6fdf1f",
+  "entity_name": "Viewster",
+  "aka": [],
+  "type": "streaming-service",
+  "country": "CH",
+  "founded": "2007",
+  "defunct": "2018",
+  "parent_company": "Viewster AG",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Viewster",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Swiss-based video-on-demand and ad-supported streaming platform that specialized in anime and indie content; ceased operations in 2018.",
+  "duplicate_files": ["downloads/V/viewster.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Viewster", "url": "https://en.wikipedia.org/wiki/Viewster"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

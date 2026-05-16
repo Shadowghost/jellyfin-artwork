@@ -1,0 +1,29 @@
+{
+  "slug": "svensk-filminstitutet",
+  "sha256": "bc2f848be15c1744c3b36c72a55d1c0a5e9a31ca080a2451e57e873a3b208f01",
+  "entity_name": "Svenska Filminstitutet (Swedish Film Institute)",
+  "aka": ["Swedish Film Institute", "SFI", "Svensk Filminstitutet"],
+  "type": "government-agency",
+  "country": "SE",
+  "founded": "1963",
+  "defunct": null,
+  "parent_company": "Government of Sweden (Ministry of Culture)",
+  "official_website": "https://www.filminstitutet.se",
+  "wikipedia": "https://en.wikipedia.org/wiki/Swedish_Film_Institute",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Swedish public agency that supports Swedish film production, distribution and education, founded in 1963.",
+  "duplicate_files": [
+    "downloads/S/svensk-filminstitutet.svg",
+    "downloads/S/svenska-filminstitutet.svg",
+    "downloads/S/swedish-film-institute.svg"
+  ],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia – Swedish Film Institute", "url": "https://en.wikipedia.org/wiki/Swedish_Film_Institute"},
+    {"title": "SFI official site", "url": "https://www.filminstitutet.se"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

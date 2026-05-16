@@ -1,0 +1,25 @@
+{
+  "slug": "comix-wave-films",
+  "sha256": "2339bbfe420d5d9f51c6fd0a33007accaaae6bfd3ea777be56acf20a3992680b",
+  "entity_name": "CoMix Wave Films",
+  "aka": ["CWF"],
+  "type": "studio",
+  "country": "JP",
+  "founded": "2007",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.cwfilms.jp/en/",
+  "wikipedia": "https://en.wikipedia.org/wiki/CoMix_Wave_Films",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese animation studio in Chiyoda, Tokyo, best known for producing and distributing the films of Makoto Shinkai including Your Name, Weathering With You and Suzume.",
+  "duplicate_files": ["downloads/C/comix-wave-films.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – CoMix Wave Films", "url": "https://en.wikipedia.org/wiki/CoMix_Wave_Films"},
+    {"title": "CoMix Wave Films official site", "url": "https://www.cwfilms.jp/en/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

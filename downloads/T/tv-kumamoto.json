@@ -1,0 +1,24 @@
+{
+  "slug": "tv-kumamoto",
+  "sha256": "c0a2c7be029d791abd9393678cbbff02dc10a76361ebbb373875b9341cf31a56",
+  "entity_name": "Television Kumamoto",
+  "aka": ["TKU", "TV Kumamoto"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1969",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.tku.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Television_Kumamoto",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese television station based in Kumamoto Prefecture, affiliated with the Fuji News Network and Fuji Network System.",
+  "duplicate_files": ["downloads/T/tv-kumamoto.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Television Kumamoto", "url": "https://en.wikipedia.org/wiki/Television_Kumamoto"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

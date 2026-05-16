@@ -1,0 +1,24 @@
+{
+  "slug": "tv-hokkaido",
+  "sha256": "69c09785686219fd63b67a80317977f5f3b4f711837b19ea51bc803f4035f5fe",
+  "entity_name": "Television Hokkaido",
+  "aka": ["TVh", "TV Hokkaido"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1989",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.tvh.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Television_Hokkaido",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial television station based in Sapporo, affiliated with the TV Tokyo-run TX Network; the last commercial broadcaster to launch on the island of Hokkaido (October 1989).",
+  "duplicate_files": ["downloads/T/tv-hokkaido.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Television Hokkaido", "url": "https://en.wikipedia.org/wiki/Television_Hokkaido"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

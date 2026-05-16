@@ -1,0 +1,29 @@
+{
+  "slug": "kddi",
+  "sha256": "d9acf85831a012c456b38c5659b1a8da0561c559c9994ded1882a00530973859",
+  "entity_name": "KDDI Corporation",
+  "aka": ["KDDI", "au by KDDI"],
+  "type": "other",
+  "country": "JP",
+  "founded": "2000",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.kddi.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/KDDI",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "KDDI Orange", "hex": "#EB5505"}
+  ],
+  "logo_usage": null,
+  "description": "Japanese telecommunications operator; often credited as a production-committee financier for anime and film.",
+  "duplicate_files": [
+    "downloads/K/kddi-corporation.svg",
+    "downloads/K/kddi.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – KDDI", "url": "https://en.wikipedia.org/wiki/KDDI"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

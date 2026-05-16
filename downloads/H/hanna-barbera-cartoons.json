@@ -1,0 +1,24 @@
+{
+  "slug": "hanna-barbera-cartoons",
+  "sha256": "d0998c24aa1b59bccefb3661f16b4b2415ac5cd21c59eff0dc837a1e1774f1d6",
+  "entity_name": "Hanna-Barbera",
+  "aka": ["Hanna-Barbera Productions", "Hanna-Barbera Cartoons", "H-B Production Company"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1957",
+  "defunct": "2001",
+  "parent_company": "Warner Bros. Discovery (via Warner Bros. Animation)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Hanna-Barbera",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": "Famous 'swirling star' logo used in TV cartoon openings.",
+  "description": "American animation studio founded by William Hanna and Joseph Barbera; creator of The Flintstones, Scooby-Doo, Yogi Bear, and The Jetsons. Absorbed into Warner Bros. Animation in 2001.",
+  "duplicate_files": ["downloads/H/hanna-barbera-cartoons.svg", "downloads/H/hanna-barbera-productions.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Hanna-Barbera", "url": "https://en.wikipedia.org/wiki/Hanna-Barbera"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

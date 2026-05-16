@@ -1,0 +1,31 @@
+{
+  "slug": "pok-mon-usa",
+  "sha256": "94d949cb7e41a3ba1ab2c45f866138c93f69f1bfe2606787bc94e3da9da2cba9",
+  "entity_name": "The Pokémon Company",
+  "aka": ["Pokémon USA", "The Pokémon Company International", "株式会社ポケモン"],
+  "type": "other",
+  "country": "JP",
+  "founded": "1998",
+  "defunct": null,
+  "parent_company": "Joint venture of Nintendo, Game Freak, Creatures Inc.",
+  "official_website": "https://www.pokemon.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/The_Pok%C3%A9mon_Company",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Pokémon Yellow", "hex": "#FFCB05"},
+    {"name": "Pokémon Blue", "hex": "#3D7DCA"}
+  ],
+  "logo_usage": "Pokémon trademark strictly controlled by The Pokémon Company.",
+  "description": "Japanese company managing the Pokémon franchise globally, with Pokémon USA / The Pokémon Company International handling licensing outside Asia.",
+  "duplicate_files": [
+    "downloads/P/pok-mon-usa.svg",
+    "downloads/T/the-pok-mon-company.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – The Pokémon Company", "url": "https://en.wikipedia.org/wiki/The_Pok%C3%A9mon_Company"},
+    {"title": "Pokémon official", "url": "https://www.pokemon.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

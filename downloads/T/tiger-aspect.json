@@ -1,0 +1,25 @@
+{
+  "slug": "tiger-aspect",
+  "sha256": "91dc2ecbee2560f6c1217a4f5e6e92ea0b49be23746fe1f59df11262c9739325",
+  "entity_name": "Tiger Aspect Productions",
+  "aka": ["Tiger Aspect"],
+  "type": "production-company",
+  "country": "GB",
+  "founded": "1988",
+  "defunct": null,
+  "parent_company": "Banijay UK",
+  "official_website": "https://www.tigeraspect.co.uk",
+  "wikipedia": "https://en.wikipedia.org/wiki/Tiger_Aspect_Productions",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British television production company, part of Banijay UK; producer of Peaky Blinders and Mr. Bean.",
+  "duplicate_files": ["downloads/T/tiger-aspect.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Tiger Aspect Productions", "url": "https://en.wikipedia.org/wiki/Tiger_Aspect_Productions"},
+    {"title": "Tiger Aspect official site", "url": "https://www.tigeraspect.co.uk/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

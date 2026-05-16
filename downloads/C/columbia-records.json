@@ -1,0 +1,25 @@
+{
+  "slug": "columbia-records",
+  "sha256": "57515a6011b9a7faf99e1980142166e56a5318ced651d9444a750b793651b017",
+  "entity_name": "Columbia Records",
+  "aka": ["Columbia"],
+  "type": "record-label",
+  "country": "US",
+  "founded": "1887",
+  "defunct": null,
+  "parent_company": "Sony Music Entertainment",
+  "official_website": "https://www.columbiarecords.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Columbia_Records",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American record label owned by Sony Music Entertainment, the oldest surviving brand in recorded sound, founded 1887.",
+  "duplicate_files": ["downloads/C/columbia-records.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Columbia Records", "url": "https://en.wikipedia.org/wiki/Columbia_Records"},
+    {"title": "Columbia Records official site", "url": "https://www.columbiarecords.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

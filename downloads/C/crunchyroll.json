@@ -1,0 +1,27 @@
+{
+  "slug": "crunchyroll",
+  "sha256": "e0d0f4894e5cdfe2135ec57d8b20cd4b0b7b3975c4ae49fb79a0557926d843aa",
+  "entity_name": "Crunchyroll",
+  "aka": ["Crunchyroll, LLC"],
+  "type": "streaming-service",
+  "country": "US",
+  "founded": "2006",
+  "defunct": null,
+  "parent_company": "Sony Pictures Entertainment / Aniplex",
+  "official_website": "https://www.crunchyroll.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Crunchyroll",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Crunchyroll Orange", "hex": "#F47521"}
+  ],
+  "logo_usage": "The wordmark is typically used in Crunchyroll Orange with a stylized 'C' icon.",
+  "description": "American subscription-based streaming service and distributor specializing in anime, manga and Japanese drama, owned by Sony Pictures via Aniplex.",
+  "duplicate_files": ["downloads/C/crunchyroll.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Crunchyroll", "url": "https://en.wikipedia.org/wiki/Crunchyroll"},
+    {"title": "Crunchyroll official site", "url": "https://www.crunchyroll.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

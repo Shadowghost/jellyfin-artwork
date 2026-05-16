@@ -1,0 +1,26 @@
+{
+  "slug": "famous-players",
+  "sha256": "3f219c9412d9517b2c9c2428705ae237a999bdfc92b57d2efe8d174dda4a3533",
+  "entity_name": "Famous Players",
+  "aka": ["Famous Players Film Company", "Famous Players Canadian Corporation"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1912",
+  "defunct": "2005",
+  "parent_company": "Paramount Pictures / Cineplex Entertainment",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Famous_Players",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Historic American film company founded by Adolph Zukor in 1912, which merged with Lasky to form Famous Players-Lasky, predecessor to Paramount Pictures. Also a Canadian theatre chain that operated until 2005.",
+  "duplicate_files": [
+    "downloads/F/famous-players.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Famous Players", "url": "https://en.wikipedia.org/wiki/Famous_Players"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

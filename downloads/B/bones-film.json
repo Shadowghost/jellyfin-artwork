@@ -1,0 +1,25 @@
+{
+  "slug": "bones-film",
+  "sha256": "242d5bb13b4697656bb0ef2098890f24dba7f33539e15be67cc4f292677bfd5f",
+  "entity_name": "Bones Inc.",
+  "aka": ["Bones", "Bones Film", "BONES"],
+  "type": "studio",
+  "country": "JP",
+  "founded": "1998",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.bones.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Bones_(studio)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese animation studio founded by former Sunrise members, known for Fullmetal Alchemist, My Hero Academia, and Mob Psycho 100.",
+  "duplicate_files": ["downloads/B/bones-film.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Bones (studio)", "url": "https://en.wikipedia.org/wiki/Bones_(studio)"},
+    {"title": "Bones official site", "url": "https://www.bones.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "ytv-jp",
+  "sha256": "a641fcf6f09b2ab60c7ab4f0d053733ba04291311eee2f6ae86288023f3133be",
+  "entity_name": "Yomiuri Telecasting Corporation",
+  "aka": ["YTV", "ytv", "Yomiuri TV"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1958",
+  "defunct": null,
+  "parent_company": "Yomiuri Chukyo FS Broadcasting Holdings",
+  "official_website": "https://www.ytv.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Yomiuri_Telecasting_Corporation",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial broadcaster headquartered in Osaka and serving as the Kansai region's flagship of the Nippon News Network/Nippon TV; producer of long-running anime series Detective Conan and Inuyasha.",
+  "duplicate_files": [
+    "downloads/Y/yomiuri-telecasting-corporation-ytv.svg",
+    "downloads/Y/yomiuri-telecasting-corporation.svg",
+    "downloads/Y/ytv-jp.svg"
+  ],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia – Yomiuri Telecasting Corporation", "url": "https://en.wikipedia.org/wiki/Yomiuri_Telecasting_Corporation"},
+    {"title": "ytv official site", "url": "https://www.ytv.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

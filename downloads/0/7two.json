@@ -1,0 +1,25 @@
+{
+  "slug": "7two",
+  "sha256": "38dd1040ad3de5e9f9c41a139ab142ee71d08149a37ae70e6627ebdd3b0a403c",
+  "entity_name": "7two",
+  "aka": ["Seven Two", "Channel 7Two"],
+  "type": "broadcast-network",
+  "country": "AU",
+  "founded": "2009",
+  "defunct": null,
+  "parent_company": "Seven Network (Seven West Media)",
+  "official_website": "https://7plus.com.au/",
+  "wikipedia": "https://en.wikipedia.org/wiki/7two",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Australian free-to-air digital television channel owned by the Seven Network, broadcasting lifestyle and classic programming.",
+  "duplicate_files": ["downloads/0/7two.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – 7two", "url": "https://en.wikipedia.org/wiki/7two"},
+    {"title": "Seven Network", "url": "https://7plus.com.au/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

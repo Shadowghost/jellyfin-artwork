@@ -1,0 +1,25 @@
+{
+  "slug": "black-bear-pictures",
+  "sha256": "810b56f97b098b26f5b03e98cd6b680cf66af4878e8a250987f83360c85f92e7",
+  "entity_name": "Black Bear Pictures",
+  "aka": ["Black Bear"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2011",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://blackbearpictures.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Black_Bear_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film production and finance company founded by Teddy Schwarzman, known for The Imitation Game and All the Money in the World.",
+  "duplicate_files": ["downloads/B/black-bear-pictures.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Black Bear Pictures", "url": "https://en.wikipedia.org/wiki/Black_Bear_Pictures"},
+    {"title": "Black Bear official site", "url": "https://blackbearpictures.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

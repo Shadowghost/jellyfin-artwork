@@ -1,0 +1,25 @@
+{
+  "slug": "bookwalker",
+  "sha256": "ab5f7dfb8ae9816701b5c06a39e827947a493d6c697ab439e08c57f8053541cd",
+  "entity_name": "BookWalker",
+  "aka": [],
+  "type": "distributor",
+  "country": "JP",
+  "founded": "2010",
+  "defunct": null,
+  "parent_company": "Kadokawa Corporation",
+  "official_website": "https://global.bookwalker.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/BookWalker",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese ebook and manga distribution service owned by Kadokawa, operating both domestic and global storefronts.",
+  "duplicate_files": ["downloads/B/bookwalker.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – BookWalker", "url": "https://en.wikipedia.org/wiki/BookWalker"},
+    {"title": "BookWalker Global", "url": "https://global.bookwalker.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

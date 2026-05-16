@@ -1,0 +1,24 @@
+{
+  "slug": "interscope-films",
+  "sha256": "4209af630d2cfcd668ae2a01e925fbcc8add900b66a83ea0e15952fd57061566",
+  "entity_name": "Interscope Communications",
+  "aka": ["Interscope Films", "Interscope Pictures"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1979",
+  "defunct": "2002",
+  "parent_company": "Universal Pictures (during later period)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Interscope_Communications",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film production company founded by Ted Field, known for producing films such as Three Men and a Baby, Cocktail, and Bring It On.",
+  "duplicate_files": ["downloads/I/interscope-films.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Interscope Communications", "url": "https://en.wikipedia.org/wiki/Interscope_Communications"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

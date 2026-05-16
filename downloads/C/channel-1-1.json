@@ -1,0 +1,24 @@
+{
+  "slug": "channel-1-1",
+  "sha256": "0aeabf9ffd15a55d86ae50bc8a63c9a0056410e6e9632411d7d477454b9e8652",
+  "entity_name": "Channel One Russia",
+  "aka": ["Channel One", "Pervyy Kanal", "ORT"],
+  "type": "broadcast-network",
+  "country": "RU",
+  "founded": "1995",
+  "defunct": null,
+  "parent_company": "Government of Russia (majority)",
+  "official_website": "https://www.1tv.ru/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Channel_One_(Russia)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Russia's principal state-owned television channel, headquartered at Ostankino Technical Center in Moscow; known as ORT from 1995 to 2002 and as Channel One since.",
+  "duplicate_files": ["downloads/C/channel-1-1.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Channel One (Russia)", "url": "https://en.wikipedia.org/wiki/Channel_One_(Russia)"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

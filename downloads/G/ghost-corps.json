@@ -1,0 +1,24 @@
+{
+  "slug": "ghost-corps",
+  "sha256": "5e89dd589b124389424b6d413e83a77318bbad856a1bb2d4ceb9c791ef47d7df",
+  "entity_name": "Ghost Corps",
+  "aka": [],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2015",
+  "defunct": null,
+  "parent_company": "Sony Pictures Entertainment",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Ghost_Corps",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film and television production company devoted to the Ghostbusters franchise, founded by Ivan Reitman and Dan Aykroyd.",
+  "duplicate_files": ["downloads/G/ghost-corps.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Ghost Corps", "url": "https://en.wikipedia.org/wiki/Ghost_Corps"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

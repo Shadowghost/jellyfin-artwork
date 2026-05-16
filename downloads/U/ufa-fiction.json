@@ -1,0 +1,26 @@
+{
+  "slug": "ufa-fiction",
+  "sha256": "982c570afd249a2bb1663d84f6120d22722993a34fc39a7442d64c5d40e6b704",
+  "entity_name": "UFA Fiction",
+  "aka": ["UFA"],
+  "type": "production-company",
+  "country": "DE",
+  "founded": "2013",
+  "defunct": null,
+  "parent_company": "UFA GmbH (Bertelsmann / RTL Group / Fremantle)",
+  "official_website": "https://www.ufa.de",
+  "wikipedia": "https://en.wikipedia.org/wiki/UFA_GmbH",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "German production company within UFA GmbH, specializing in fiction TV and film productions.",
+  "duplicate_files": [
+    "downloads/U/ufa-fiction.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – UFA GmbH", "url": "https://en.wikipedia.org/wiki/UFA_GmbH"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "paramount-pictures",
+  "sha256": "f9055bd9112c1b1e509bd90a25506e1b4c8debcd7ee9fe2ce808142a3e76e06e",
+  "entity_name": "Paramount Pictures",
+  "aka": ["Paramount", "Paramount Pictures Corporation", "Paramount British Pictures"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1912",
+  "defunct": null,
+  "parent_company": "Paramount Global",
+  "official_website": "https://www.paramount.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Paramount_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Paramount Blue", "hex": "#0064FF"}
+  ],
+  "logo_usage": "Iconic mountain logo with stars; Paramount British Pictures was the UK production arm in the 1930s.",
+  "description": "American film studio and one of the 'Big Five' studios; the second oldest film studio still in operation, founded in 1912.",
+  "duplicate_files": [
+    "downloads/P/paramount-british-pictures.svg",
+    "downloads/P/paramount-pictures.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Paramount Pictures", "url": "https://en.wikipedia.org/wiki/Paramount_Pictures"},
+    {"title": "Paramount official site", "url": "https://www.paramount.com"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

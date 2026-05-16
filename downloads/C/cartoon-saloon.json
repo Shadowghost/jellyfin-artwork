@@ -1,0 +1,25 @@
+{
+  "slug": "cartoon-saloon",
+  "sha256": "5eb67097692d1c8fc163d2a44c52de92acc94cab7727b4d5458b344c29041d6f",
+  "entity_name": "Cartoon Saloon",
+  "aka": [],
+  "type": "studio",
+  "country": "IE",
+  "founded": "1999",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.cartoonsaloon.ie/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Cartoon_Saloon",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Irish animation film, TV and short film studio based in Kilkenny, known for The Secret of Kells, Song of the Sea, and Wolfwalkers.",
+  "duplicate_files": ["downloads/C/cartoon-saloon.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Cartoon Saloon", "url": "https://en.wikipedia.org/wiki/Cartoon_Saloon"},
+    {"title": "Cartoon Saloon official site", "url": "https://www.cartoonsaloon.ie/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "lemino",
+  "sha256": "c1f6e405ba8b1f575a0d51102ce5324dbca41204e39a33016d8d6119b2b3fcbc",
+  "entity_name": "Lemino",
+  "aka": ["dTV (former name)"],
+  "type": "streaming-service",
+  "country": "JP",
+  "founded": "2023",
+  "defunct": null,
+  "parent_company": "NTT Docomo",
+  "official_website": "https://lemino.docomo.ne.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Lemino",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese video-on-demand streaming service operated by NTT Docomo, rebranded from dTV in April 2023.",
+  "duplicate_files": ["downloads/L/lemino.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Lemino", "url": "https://en.wikipedia.org/wiki/Lemino"},
+    {"title": "Lemino official site", "url": "https://lemino.docomo.ne.jp"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

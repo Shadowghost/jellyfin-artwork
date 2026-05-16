@@ -1,0 +1,25 @@
+{
+  "slug": "gimlet-media",
+  "sha256": "40469424ad1f9082597addb2061a85fb72f358d5dc8f79e24a38586dcf61f1a5",
+  "entity_name": "Gimlet Media",
+  "aka": [],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2014",
+  "defunct": "2023",
+  "parent_company": "Spotify",
+  "official_website": "https://gimletmedia.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Gimlet_Media",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American podcast network and production company founded by Alex Blumberg and Matthew Lieber; acquired by Spotify in 2019 and largely shuttered as a standalone brand in 2023.",
+  "duplicate_files": ["downloads/G/gimlet-media.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Gimlet Media", "url": "https://en.wikipedia.org/wiki/Gimlet_Media"},
+    {"title": "Gimlet Media official site", "url": "https://gimletmedia.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

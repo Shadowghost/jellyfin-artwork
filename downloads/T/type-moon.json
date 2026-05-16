@@ -1,0 +1,24 @@
+{
+  "slug": "type-moon",
+  "sha256": "91cd6e7d20ed953c354c56767b3dcc1c69abab2ee9c32eb798c9b53877e46e6f",
+  "entity_name": "Type-Moon",
+  "aka": ["TYPE-MOON", "Notes."],
+  "type": "production-company",
+  "country": "JP",
+  "founded": "2000",
+  "defunct": null,
+  "parent_company": "Notes Co., Ltd.",
+  "official_website": "https://www.typemoon.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Type-Moon",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese game studio and visual novel publisher, known for the Fate/stay night franchise, Tsukihime, and the Nasuverse media franchise.",
+  "duplicate_files": ["downloads/T/type-moon.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Type-Moon", "url": "https://en.wikipedia.org/wiki/Type-Moon"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "apatow-productions",
+  "sha256": "e731f674f9e0d0d83112b8c9a759b284ce324a5029b8c39f9116544336af14b5",
+  "entity_name": "Apatow Productions",
+  "aka": ["Apatow Co."],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1999",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://apatow.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Apatow_Productions",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film and television production company founded by Judd Apatow, known for comedies like Freaks and Geeks, Knocked Up, and Bridesmaids.",
+  "duplicate_files": ["downloads/A/apatow-productions.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Apatow Productions", "url": "https://en.wikipedia.org/wiki/Apatow_Productions"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

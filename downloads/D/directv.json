@@ -1,0 +1,27 @@
+{
+  "slug": "directv",
+  "sha256": "43ff34af548449741acf2438365950629d842a3d08b14d8073f9dfe9de9a70a2",
+  "entity_name": "DirecTV",
+  "aka": ["DIRECTV"],
+  "type": "broadcast-network",
+  "country": "US",
+  "founded": "1990",
+  "defunct": null,
+  "parent_company": "TPG Capital / AT&T",
+  "official_website": "https://www.directv.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/DirecTV",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "DirecTV Blue", "hex": "#00A8E1"}
+  ],
+  "logo_usage": null,
+  "description": "American direct broadcast satellite service provider and broadcaster, originally a unit of Hughes Electronics and now owned by TPG Capital and AT&T.",
+  "duplicate_files": ["downloads/D/directv.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – DirecTV", "url": "https://en.wikipedia.org/wiki/DirecTV"},
+    {"title": "DirecTV official site", "url": "https://www.directv.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

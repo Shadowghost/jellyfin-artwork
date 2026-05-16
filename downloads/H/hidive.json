@@ -1,0 +1,25 @@
+{
+  "slug": "hidive",
+  "sha256": "f1fdeda2482ab9d3cc0976fd44e444486f1beb135d88643b209fa2fb944a6257",
+  "entity_name": "HIDIVE",
+  "aka": [],
+  "type": "streaming-service",
+  "country": "US",
+  "founded": "2017",
+  "defunct": null,
+  "parent_company": "AMC Networks (via Sentai Holdings)",
+  "official_website": "https://www.hidive.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Hidive",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American anime streaming service operated by Sentai Holdings (an AMC Networks subsidiary), offering subbed and dubbed anime.",
+  "duplicate_files": ["downloads/H/hidive.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Hidive", "url": "https://en.wikipedia.org/wiki/Hidive"},
+    {"title": "HIDIVE official site", "url": "https://www.hidive.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

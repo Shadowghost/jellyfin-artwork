@@ -1,0 +1,24 @@
+{
+  "slug": "imagi-animation-studios",
+  "sha256": "02d5c05c5d051cdda861c5c152959827b8b53e83fdb3da2fc8c00abbf1443e20",
+  "entity_name": "Imagi Animation Studios",
+  "aka": ["Imagi International Holdings"],
+  "type": "studio",
+  "country": "HK",
+  "founded": "2000",
+  "defunct": null,
+  "parent_company": "Imagi International Holdings Limited",
+  "official_website": "https://www.imagi.com.hk",
+  "wikipedia": "https://en.wikipedia.org/wiki/Imagi_International",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Hong Kong-based computer animation studio known for TMNT (2007) and Astro Boy (2009).",
+  "duplicate_files": ["downloads/I/imagi-animation-studios.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Imagi International", "url": "https://en.wikipedia.org/wiki/Imagi_International"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

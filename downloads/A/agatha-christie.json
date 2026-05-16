@@ -1,0 +1,25 @@
+{
+  "slug": "agatha-christie",
+  "sha256": "7565e761ba4a46a4afebfa32f855bfae87055204f7d0763749202ea6ab0b95b2",
+  "entity_name": "Agatha Christie Limited",
+  "aka": ["Agatha Christie Ltd", "ACL"],
+  "type": "production-company",
+  "country": "UK",
+  "founded": "1955",
+  "defunct": null,
+  "parent_company": "RLJ Entertainment / AMC Networks",
+  "official_website": "https://www.agathachristie.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Agatha_Christie_Limited",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "British company that manages the literary and media rights to the works of crime novelist Agatha Christie.",
+  "duplicate_files": ["downloads/A/agatha-christie.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Agatha Christie Limited", "url": "https://en.wikipedia.org/wiki/Agatha_Christie_Limited"},
+    {"title": "Agatha Christie official site", "url": "https://www.agathachristie.com"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

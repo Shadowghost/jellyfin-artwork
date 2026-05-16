@@ -1,0 +1,27 @@
+{
+  "slug": "china-central-television-cctv",
+  "sha256": "e99508185281b509facb922b2998e552c6fc4942457ebe00868a60276c7d01c5",
+  "entity_name": "China Central Television",
+  "aka": ["CCTV", "Zhongguo Zhongyang Dianshitai"],
+  "type": "broadcast-network",
+  "country": "CN",
+  "founded": "1958",
+  "defunct": null,
+  "parent_company": "China Media Group / State Council of the People's Republic of China",
+  "official_website": "https://www.cctv.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/China_Central_Television",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "CCTV Red", "hex": "#E60012"}
+  ],
+  "logo_usage": null,
+  "description": "State-owned national television broadcaster of the People's Republic of China, operating dozens of channels under the China Media Group.",
+  "duplicate_files": ["downloads/C/china-central-television-cctv.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - China Central Television", "url": "https://en.wikipedia.org/wiki/China_Central_Television"},
+    {"title": "CCTV official site", "url": "https://www.cctv.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

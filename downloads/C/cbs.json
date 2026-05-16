@@ -1,0 +1,28 @@
+{
+  "slug": "cbs",
+  "sha256": "d56cf0adb9f201e0b0ca20d458e10c1c77b650c97c42e664e2d4c15650bbcb0d",
+  "entity_name": "CBS",
+  "aka": ["Columbia Broadcasting System", "CBS Television Network"],
+  "type": "broadcast-network",
+  "country": "US",
+  "founded": "1927",
+  "defunct": null,
+  "parent_company": "Paramount Global",
+  "official_website": "https://www.cbs.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/CBS",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "CBS Black", "hex": "#000000"},
+    {"name": "CBS White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": "The iconic CBS Eye logo was designed by William Golden in 1951.",
+  "description": "American commercial broadcast television and radio network owned by Paramount Global.",
+  "duplicate_files": ["downloads/C/cbs.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - CBS", "url": "https://en.wikipedia.org/wiki/CBS"},
+    {"title": "CBS official", "url": "https://www.cbs.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "stand-up-to-cancer",
+  "sha256": "a47db19feff84bef6ba4e1c2f2367a2f45a4ae1035424f4c49b49de614b930b8",
+  "entity_name": "Stand Up To Cancer",
+  "aka": ["SU2C"],
+  "type": "other",
+  "country": "US",
+  "founded": "2008",
+  "defunct": null,
+  "parent_company": "Entertainment Industry Foundation",
+  "official_website": "https://standuptocancer.org/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Stand_Up_to_Cancer",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Black", "hex": "#000000"},
+    {"name": "White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": null,
+  "description": "Charitable program of the Entertainment Industry Foundation that raises funds for cancer research through televised events on US broadcast and cable networks.",
+  "duplicate_files": ["downloads/S/stand-up-to-cancer.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Stand Up to Cancer", "url": "https://en.wikipedia.org/wiki/Stand_Up_to_Cancer"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

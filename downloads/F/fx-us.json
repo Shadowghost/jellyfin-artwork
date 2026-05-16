@@ -1,0 +1,28 @@
+{
+  "slug": "fx-us",
+  "sha256": "c5225f6820cc558ccea6f2559f4a7ed237f5009c2dc8860e72ac089f58c592e1",
+  "entity_name": "FX",
+  "aka": ["FX Channel", "FX Networks"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1994",
+  "defunct": null,
+  "parent_company": "The Walt Disney Company",
+  "official_website": "https://www.fxnetworks.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/FX_(TV_channel)",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "FX Black", "hex": "#000000"},
+    {"name": "FX White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": null,
+  "description": "American basic cable network owned by the Walt Disney Company, known for prestige series such as The Shield, Sons of Anarchy, and Atlanta.",
+  "duplicate_files": ["downloads/F/fx-channel.svg", "downloads/F/fx-us.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – FX (TV channel)", "url": "https://en.wikipedia.org/wiki/FX_(TV_channel)"},
+    {"title": "FX Networks", "url": "https://www.fxnetworks.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

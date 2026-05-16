@@ -1,0 +1,28 @@
+{
+  "slug": "fox-broadcasting-company",
+  "sha256": "f5a29755519fa4a2f473301044f7348434b18d782be5d367863a941c6a795b40",
+  "entity_name": "Fox Broadcasting Company",
+  "aka": ["FOX", "Fox Network"],
+  "type": "broadcast-network",
+  "country": "US",
+  "founded": "1986",
+  "defunct": null,
+  "parent_company": "Fox Corporation",
+  "official_website": "https://www.fox.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Fox_Broadcasting_Company",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "FOX Black", "hex": "#000000"},
+    {"name": "FOX White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": null,
+  "description": "American commercial broadcast television network owned by Fox Corporation, launched in 1986 by Rupert Murdoch as a fourth major US network alongside ABC, CBS, and NBC.",
+  "duplicate_files": ["downloads/F/fox-broadcasting-company.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Fox Broadcasting Company", "url": "https://en.wikipedia.org/wiki/Fox_Broadcasting_Company"},
+    {"title": "Fox official site", "url": "https://www.fox.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

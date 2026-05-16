@@ -1,0 +1,26 @@
+{
+  "slug": "atresmedia-cine",
+  "sha256": "d2d09d2868a7fee49e52984e5bf48a1cae90b989566e9349adf731ecbee0b7af",
+  "entity_name": "Atresmedia Cine",
+  "aka": [],
+  "type": "production-company",
+  "country": "ES",
+  "founded": "2000",
+  "defunct": null,
+  "parent_company": "Atresmedia",
+  "official_website": "https://www.atresmediacine.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Atresmedia",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Spanish film production and distribution company, the film arm of Spanish media group Atresmedia.",
+  "duplicate_files": [
+    "downloads/A/atresmedia-cine.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Atresmedia", "url": "https://en.wikipedia.org/wiki/Atresmedia"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

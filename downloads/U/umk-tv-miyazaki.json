@@ -1,0 +1,25 @@
+{
+  "slug": "umk-tv-miyazaki",
+  "sha256": "fec701d99fbc9ee9536fdbc2ebfe6371d227721edd6fa7ed910c3be4f9a2091b",
+  "entity_name": "Television Miyazaki",
+  "aka": ["UMK", "テレビ宮崎"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1969",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.umk.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Television_Miyazaki",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese commercial broadcaster based in Miyazaki, triple-affiliated with FNN, NNN, and ANN.",
+  "duplicate_files": ["downloads/U/umk-tv-miyazaki.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Television Miyazaki", "url": "https://en.wikipedia.org/wiki/Television_Miyazaki"},
+    {"title": "UMK official site", "url": "https://www.umk.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

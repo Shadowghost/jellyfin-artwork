@@ -1,0 +1,25 @@
+{
+  "slug": "australian-government",
+  "sha256": "7bc167b8e0d7e042ca25b7523cc4e6df15a83f7a32897562607cfbc0ac44acf3",
+  "entity_name": "Australian Government",
+  "aka": ["Government of Australia", "Commonwealth Government"],
+  "type": "government-agency",
+  "country": "AU",
+  "founded": "1901",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.australia.gov.au/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Government_of_Australia",
+  "brand_guidelines_url": "https://www.dpmc.gov.au/government/commonwealth-coat-arms",
+  "brand_colors": [],
+  "logo_usage": "Use of the Commonwealth Coat of Arms is restricted; permission required for non-government use.",
+  "description": "The federal government of the Commonwealth of Australia, represented by the Commonwealth Coat of Arms.",
+  "duplicate_files": ["downloads/A/australian-government.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Government of Australia", "url": "https://en.wikipedia.org/wiki/Government_of_Australia"},
+    {"title": "australia.gov.au", "url": "https://www.australia.gov.au/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

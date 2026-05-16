@@ -1,0 +1,26 @@
+{
+  "slug": "microsoft-studios",
+  "sha256": "5af1ee491bf67a556c53b8fee354ea391c34e3055ab78b279f2fe87c1fb00134",
+  "entity_name": "Microsoft Studios",
+  "aka": ["Xbox Game Studios", "Microsoft Game Studios"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2002",
+  "defunct": null,
+  "parent_company": "Microsoft Corporation",
+  "official_website": "https://www.xbox.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Xbox_Game_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Video game publishing division of Microsoft (renamed from Microsoft Studios to Xbox Game Studios in 2019).",
+  "duplicate_files": [
+    "downloads/M/microsoft-studios.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Xbox Game Studios", "url": "https://en.wikipedia.org/wiki/Xbox_Game_Studios"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

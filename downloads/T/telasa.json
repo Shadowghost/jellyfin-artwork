@@ -1,0 +1,25 @@
+{
+  "slug": "telasa",
+  "sha256": "6de88aea91fc3ed6b1213dfcf03e5dec8adce0437f27f4a4c074d2a8c95678b3",
+  "entity_name": "TELASA",
+  "aka": ["Telasa", "video pass (former)"],
+  "type": "streaming-service",
+  "country": "JP",
+  "founded": "2012",
+  "defunct": null,
+  "parent_company": "KDDI / TV Asahi",
+  "official_website": "https://www.telasa.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Telasa",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese video streaming service jointly operated by KDDI and TV Asahi, focused on Japanese drama, anime and TV Asahi content.",
+  "duplicate_files": ["downloads/T/telasa.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Telasa", "url": "https://en.wikipedia.org/wiki/Telasa"},
+    {"title": "Telasa official", "url": "https://www.telasa.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

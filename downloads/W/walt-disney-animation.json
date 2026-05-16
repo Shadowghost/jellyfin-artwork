@@ -1,0 +1,26 @@
+{
+  "slug": "walt-disney-animation",
+  "sha256": "262ef50cb351b7be9e3b1282dfc5e14c358b8d806055a53633b339009ccee02e",
+  "entity_name": "Walt Disney Animation Studios",
+  "aka": ["WDAS", "Disney Animation"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1923",
+  "defunct": null,
+  "parent_company": "The Walt Disney Company",
+  "official_website": "https://www.disneyanimation.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Walt_Disney_Animation_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Disney Blue", "hex": "#0E5181"}
+  ],
+  "logo_usage": null,
+  "description": "American animation studio, division of The Walt Disney Company; one of the oldest animation studios in the world, producer of Snow White, Frozen, Moana, and Zootopia.",
+  "duplicate_files": ["downloads/W/walt-disney-animation-studios.svg", "downloads/W/walt-disney-animation.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Walt Disney Animation Studios", "url": "https://en.wikipedia.org/wiki/Walt_Disney_Animation_Studios"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

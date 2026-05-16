@@ -1,0 +1,26 @@
+{
+  "slug": "maxim-magazine",
+  "sha256": "92d87ebfa48e113c16df9cc648033bacc03ea46e2e3214445cb48375baeec744",
+  "entity_name": "Maxim",
+  "aka": ["Maxim Magazine"],
+  "type": "publisher",
+  "country": "US",
+  "founded": "1995",
+  "defunct": null,
+  "parent_company": "Biglari Holdings",
+  "official_website": "https://www.maxim.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Maxim_(magazine)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "International men's magazine featuring articles on style, women, entertainment, and lifestyle.",
+  "duplicate_files": [
+    "downloads/M/maxim-magazine.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Maxim (magazine)", "url": "https://en.wikipedia.org/wiki/Maxim_(magazine)"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

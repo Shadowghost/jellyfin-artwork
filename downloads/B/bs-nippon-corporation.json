@@ -1,0 +1,24 @@
+{
+  "slug": "bs-nippon-corporation",
+  "sha256": "a89f7a70735d039d9a0959ba0a900307829caa1d54f4b37c50769a88c892da19",
+  "entity_name": "BS Nippon Corporation",
+  "aka": ["BS Nippon", "BS Nittele", "BS日テレ"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1999",
+  "defunct": null,
+  "parent_company": "Nippon Television Holdings",
+  "official_website": "https://www.bs4.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/BS_Nippon_Corporation",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese satellite broadcasting company, a subsidiary of Nippon Television Network, operating the BS Nittele channel.",
+  "duplicate_files": ["downloads/B/bs-nippon-corporation.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - BS Nippon Corporation", "url": "https://en.wikipedia.org/wiki/BS_Nippon_Corporation"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

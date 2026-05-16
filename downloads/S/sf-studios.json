@@ -1,0 +1,27 @@
+{
+  "slug": "sf-studios",
+  "sha256": "e44b1f947492891974d9ea7dbf8b42f5f9d0a06066ab8ff5b50333c3e4c9443f",
+  "entity_name": "SF Studios",
+  "aka": ["Svensk Filmindustri", "AB Svensk Filmindustri", "SF"],
+  "type": "studio",
+  "country": "SE",
+  "founded": "1919",
+  "defunct": null,
+  "parent_company": "Bonnier Group",
+  "official_website": "https://www.sfstudios.se",
+  "wikipedia": "https://en.wikipedia.org/wiki/SF_Studios",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Swedish film studio (formerly AB Svensk Filmindustri), one of the oldest active film companies in the world.",
+  "duplicate_files": [
+    "downloads/S/sf-studios.svg",
+    "downloads/S/svensk-filmindustri.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – SF Studios", "url": "https://en.wikipedia.org/wiki/SF_Studios"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

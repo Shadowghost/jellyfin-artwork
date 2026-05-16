@@ -1,0 +1,25 @@
+{
+  "slug": "nhk-g",
+  "sha256": "28da69860e62ac96155d0aaffbbf1440654c823f6eccbaff9f65fbfc0cbc6508",
+  "entity_name": "NHK General TV",
+  "aka": ["NHK G", "NHK Sōgō"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1953",
+  "defunct": null,
+  "parent_company": "NHK (Japan Broadcasting Corporation)",
+  "official_website": "https://www.nhk.or.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/NHK_General_TV",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Flagship general-interest television service of Japan's public broadcaster NHK.",
+  "duplicate_files": ["downloads/N/nhk-g.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – NHK General TV", "url": "https://en.wikipedia.org/wiki/NHK_General_TV"},
+    {"title": "NHK official site", "url": "https://www.nhk.or.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

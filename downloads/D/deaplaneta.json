@@ -1,0 +1,25 @@
+{
+  "slug": "deaplaneta",
+  "sha256": "181c72d24af1a4a5fd18c21645a69fb1ac68dcf861f2e50788c784ec328a2442",
+  "entity_name": "DeAPlaneta",
+  "aka": ["DeA Planeta"],
+  "type": "production-company",
+  "country": "ES",
+  "founded": "2000",
+  "defunct": null,
+  "parent_company": "Planeta Corporación / De Agostini",
+  "official_website": "https://www.deaplaneta.com/",
+  "wikipedia": "https://es.wikipedia.org/wiki/DeAPlaneta",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Spanish entertainment company involved in film distribution, production, and licensing, joint venture between De Agostini and Planeta.",
+  "duplicate_files": ["downloads/D/deaplaneta.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - DeAPlaneta (ES)", "url": "https://es.wikipedia.org/wiki/DeAPlaneta"},
+    {"title": "DeAPlaneta official", "url": "https://www.deaplaneta.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

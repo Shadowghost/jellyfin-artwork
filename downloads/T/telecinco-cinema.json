@@ -1,0 +1,24 @@
+{
+  "slug": "telecinco-cinema",
+  "sha256": "2afb03fe2ae2b237539668def8614bee62f23863bc38d213f3c0d58053222a60",
+  "entity_name": "Telecinco Cinema",
+  "aka": ["Estudios Picasso (former)"],
+  "type": "production-company",
+  "country": "ES",
+  "founded": "2002",
+  "defunct": null,
+  "parent_company": "Mediaset España",
+  "official_website": "https://sales.mediaset.es/en/productora/telecinco-cinema/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Telecinco_Cinema",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Spanish film production subsidiary of Mediaset España (originally Estudios Picasso, rebranded Telecinco Cinema in 2007); co-produced Guillermo del Toro's Pan's Labyrinth and J.A. Bayona's The Impossible.",
+  "duplicate_files": ["downloads/T/telecinco-cinema.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Telecinco Cinema", "url": "https://en.wikipedia.org/wiki/Telecinco_Cinema"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

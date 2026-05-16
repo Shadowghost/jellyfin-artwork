@@ -1,0 +1,25 @@
+{
+  "slug": "ard-degeto-film",
+  "sha256": "49dcca859c6bbf730d42a096c7fdc90763c432eb9fbb0cfafc8d0d23244d0a2f",
+  "entity_name": "ARD Degeto Film",
+  "aka": ["Degeto Film", "Degeto"],
+  "type": "production-company",
+  "country": "DE",
+  "founded": "1929",
+  "defunct": null,
+  "parent_company": "ARD (Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten)",
+  "official_website": "https://www.degeto.de",
+  "wikipedia": "https://de.wikipedia.org/wiki/Degeto_Film",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "German production and licensing company that is the central programming subsidiary of the ARD public broadcaster, financing and producing primetime films and series.",
+  "duplicate_files": ["downloads/A/ard-degeto-film.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia (DE) - Degeto Film", "url": "https://de.wikipedia.org/wiki/Degeto_Film"},
+    {"title": "Degeto Film official site", "url": "https://www.degeto.de/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

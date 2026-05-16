@@ -1,0 +1,27 @@
+{
+  "slug": "sony-pictures-releasing",
+  "sha256": "7ca9bcc45a35f4d340230e64ad9a610d1972447cf13b2ef289f8d80422a58289",
+  "entity_name": "Sony Pictures Releasing",
+  "aka": ["Sony Pictures Releasing International", "SPRI"],
+  "type": "distributor",
+  "country": "US",
+  "founded": "1994",
+  "defunct": null,
+  "parent_company": "Sony Pictures Entertainment",
+  "official_website": "https://www.sonypictures.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sony_Pictures_Releasing",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Theatrical film distribution arm of Sony Pictures Entertainment, distributing Sony's film output domestically and internationally.",
+  "duplicate_files": [
+    "downloads/S/sony-pictures-releasing-international.svg",
+    "downloads/S/sony-pictures-releasing.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Sony Pictures Releasing", "url": "https://en.wikipedia.org/wiki/Sony_Pictures_Releasing"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

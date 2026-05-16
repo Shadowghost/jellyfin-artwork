@@ -1,0 +1,27 @@
+{
+  "slug": "mattel",
+  "sha256": "7d8bea8e50d5fcb250d5aa83f7ec3f59b9da7a468ca4de79a65a650f15dff550",
+  "entity_name": "Mattel",
+  "aka": ["Mattel, Inc.", "Mattel Television", "Mattel Films"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1945",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.mattel.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Mattel",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Mattel Red", "hex": "#DA291C"}
+  ],
+  "logo_usage": null,
+  "description": "American multinational toy manufacturer (Barbie, Hot Wheels, Fisher-Price) with film and television production divisions producing entertainment based on its IP.",
+  "duplicate_files": ["downloads/M/mattel.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Mattel", "url": "https://en.wikipedia.org/wiki/Mattel"},
+    {"title": "Mattel official", "url": "https://www.mattel.com"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

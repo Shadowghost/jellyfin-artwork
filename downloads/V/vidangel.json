@@ -1,0 +1,25 @@
+{
+  "slug": "vidangel",
+  "sha256": "5bef080bdf8b459c5f910374c07b1a949553c5e79a2aae140148aaf8257901da",
+  "entity_name": "VidAngel",
+  "aka": ["Angel Studios (rebranded successor)"],
+  "type": "streaming-service",
+  "country": "US",
+  "founded": "2013",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.vidangel.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/VidAngel",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American video streaming service offering filtering of objectionable content and family-friendly originals; spawned Angel Studios which produces The Chosen and Sound of Freedom.",
+  "duplicate_files": ["downloads/V/vidangel.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - VidAngel", "url": "https://en.wikipedia.org/wiki/VidAngel"},
+    {"title": "VidAngel official site", "url": "https://www.vidangel.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

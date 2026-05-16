@@ -1,0 +1,28 @@
+{
+  "slug": "fremantlemedia",
+  "sha256": "d433d59d6b5af384a099fded3c2a227fa6cdee6d60c93c95bd1738f909e5ce9e",
+  "entity_name": "FremantleMedia",
+  "aka": ["Fremantle"],
+  "type": "production-company",
+  "country": "GB",
+  "founded": "2001",
+  "defunct": null,
+  "parent_company": "RTL Group / Bertelsmann",
+  "official_website": "https://fremantle.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Fremantle_(company)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "International television content production and distribution company (rebranded simply as Fremantle in 2018), producer of Idols, Got Talent, and The X Factor franchises.",
+  "duplicate_files": [
+    "downloads/F/fremantlemedia-north-america.svg",
+    "downloads/F/fremantlemedia.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Fremantle (company)", "url": "https://en.wikipedia.org/wiki/Fremantle_(company)"},
+    {"title": "Fremantle official", "url": "https://fremantle.com"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

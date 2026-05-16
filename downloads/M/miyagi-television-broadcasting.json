@@ -1,0 +1,24 @@
+{
+  "slug": "miyagi-television-broadcasting",
+  "sha256": "ab731360cc5c04657d5ddc5672433252bf582d3ff7b60e862d59ba69c4b2302a",
+  "entity_name": "Miyagi Television Broadcasting",
+  "aka": ["MMT", "宮城テレビ放送"],
+  "type": "broadcast-network",
+  "country": "JP",
+  "founded": "1969",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.mmt-tv.co.jp",
+  "wikipedia": "https://en.wikipedia.org/wiki/Miyagi_Television_Broadcasting",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese television station based in Sendai, Miyagi Prefecture, affiliated with the Nippon News Network (NNN/NNS).",
+  "duplicate_files": ["downloads/M/miyagi-television-broadcasting.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Miyagi Television Broadcasting", "url": "https://en.wikipedia.org/wiki/Miyagi_Television_Broadcasting"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

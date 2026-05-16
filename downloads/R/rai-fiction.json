@@ -1,0 +1,24 @@
+{
+  "slug": "rai-fiction",
+  "sha256": "8f09d35e79698a41866cd4c7c4a6504f1b9056b4569031c19739e8b9a2e79d67",
+  "entity_name": "Rai Fiction",
+  "aka": [],
+  "type": "production-company",
+  "country": "IT",
+  "founded": "2000",
+  "defunct": null,
+  "parent_company": "RAI (Radiotelevisione Italiana)",
+  "official_website": "https://www.rai.it/raifiction/",
+  "wikipedia": "https://it.wikipedia.org/wiki/Rai_Fiction",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Italian production company and subsidiary of RAI that produces and acquires drama series and TV movies for the RAI broadcast networks.",
+  "duplicate_files": ["downloads/R/rai-fiction.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia (IT) - Rai Fiction", "url": "https://it.wikipedia.org/wiki/Rai_Fiction"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "medium"
+}

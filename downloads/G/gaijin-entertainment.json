@@ -1,0 +1,25 @@
+{
+  "slug": "gaijin-entertainment",
+  "sha256": "a07195800ba5cd96eba71e19a63318531e1ca284598c3886e67685fb5bb7d06f",
+  "entity_name": "Gaijin Entertainment",
+  "aka": ["Gaijin"],
+  "type": "production-company",
+  "country": "HU",
+  "founded": "2002",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://gaijinent.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Gaijin_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Hungary-headquartered video game developer and publisher, originally founded in Russia in 2002; best known for War Thunder, Crossout, Star Conflict and Enlisted.",
+  "duplicate_files": ["downloads/G/gaijin-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Gaijin Entertainment", "url": "https://en.wikipedia.org/wiki/Gaijin_Entertainment"},
+    {"title": "Gaijin Entertainment official site", "url": "https://gaijinent.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

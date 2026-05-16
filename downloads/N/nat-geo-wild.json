@@ -1,0 +1,28 @@
+{
+  "slug": "nat-geo-wild",
+  "sha256": "3767b8f616f4309e365e8f1758fd9f1ca7cdfd06c6e44ebc7f37a8aa532072ed",
+  "entity_name": "Nat Geo Wild",
+  "aka": ["National Geographic Wild", "NGW", "Nat Geo WILD"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "2006",
+  "defunct": null,
+  "parent_company": "The Walt Disney Company (National Geographic Partners)",
+  "official_website": "https://www.nationalgeographic.com/tv/channels/nat-geo-wild",
+  "wikipedia": "https://en.wikipedia.org/wiki/Nat_Geo_Wild",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "National Geographic Yellow", "hex": "#FFCC00"}
+  ],
+  "logo_usage": null,
+  "description": "Pay television channel from National Geographic Partners focused on wildlife and nature programming.",
+  "duplicate_files": [
+    "downloads/N/nat-geo-wild.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Nat Geo Wild", "url": "https://en.wikipedia.org/wiki/Nat_Geo_Wild"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

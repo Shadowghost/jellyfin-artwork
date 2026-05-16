@@ -1,0 +1,24 @@
+{
+  "slug": "media-factory",
+  "sha256": "cefd01686ff3e4898c139aefa243d4f542d2e9a73ffaa16f7106f66f1ed8aa5f",
+  "entity_name": "Media Factory",
+  "aka": ["MF"],
+  "type": "production-company",
+  "country": "JP",
+  "founded": "1986",
+  "defunct": "2013",
+  "parent_company": "Kadokawa Corporation",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Media_Factory",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese publishing company and anime production committee member; merged into parent Kadokawa in 2013.",
+  "duplicate_files": ["downloads/M/media-factory.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Media Factory", "url": "https://en.wikipedia.org/wiki/Media_Factory"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

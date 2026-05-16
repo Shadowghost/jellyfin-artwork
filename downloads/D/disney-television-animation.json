@@ -1,0 +1,27 @@
+{
+  "slug": "disney-television-animation",
+  "sha256": "b301d4fc9d194ef9fc478b62025d7a5427b55f4793c05a4f4152ab000d210323",
+  "entity_name": "Disney Television Animation",
+  "aka": ["Walt Disney Television Animation", "DTVA"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1984",
+  "defunct": null,
+  "parent_company": "The Walt Disney Company",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Disney_Television_Animation",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American animation studio that creates animated television series, films, and specials for The Walt Disney Company.",
+  "duplicate_files": [
+    "downloads/D/disney-television-animation.svg",
+    "downloads/W/walt-disney-television-animation.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Disney Television Animation", "url": "https://en.wikipedia.org/wiki/Disney_Television_Animation"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

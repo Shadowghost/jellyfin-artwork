@@ -1,0 +1,28 @@
+{
+  "slug": "hbo-films",
+  "sha256": "d03383d5a5c207ebfaec24bf343e5344be00325a1d99a690e4aab4556f7f1e31",
+  "entity_name": "HBO Films",
+  "aka": ["HBO Pictures"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1983",
+  "defunct": null,
+  "parent_company": "Warner Bros. Discovery (HBO)",
+  "official_website": "https://www.hbo.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/HBO_Films",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "HBO Black", "hex": "#000000"},
+    {"name": "HBO White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": null,
+  "description": "Film production division of HBO, producing television movies and theatrical features.",
+  "duplicate_files": ["downloads/H/hbo-films.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – HBO Films", "url": "https://en.wikipedia.org/wiki/HBO_Films"},
+    {"title": "HBO official site", "url": "https://www.hbo.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

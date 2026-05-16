@@ -1,0 +1,25 @@
+{
+  "slug": "atm-grupa",
+  "sha256": "e2f9d9dc2ef517e733f9fc28be4516371b96b74a0b2962985b6367bfbd37eff6",
+  "entity_name": "ATM Grupa",
+  "aka": ["ATM Group", "ATM Grupa S.A."],
+  "type": "production-company",
+  "country": "PL",
+  "founded": "1992",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.atmgrupa.pl/",
+  "wikipedia": "https://en.wikipedia.org/wiki/ATM_Grupa",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Polish television and film production company based in Wrocław, one of the largest independent producers in Poland.",
+  "duplicate_files": ["downloads/A/atm-grupa.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - ATM Grupa", "url": "https://en.wikipedia.org/wiki/ATM_Grupa"},
+    {"title": "ATM Grupa official site", "url": "https://www.atmgrupa.pl/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

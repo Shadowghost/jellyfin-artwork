@@ -1,0 +1,26 @@
+{
+  "slug": "wizzer-productions",
+  "sha256": "0d53ed24f11185532ed0fe3f76682d05fc2adebeae57db8f6450bda93aab891b",
+  "entity_name": "The Walt Disney Company (regional - EMEA/France logo shared with Wizzer Productions)",
+  "aka": ["Wizzer Productions", "The Walt Disney Company EMEA", "The Walt Disney Company France"],
+  "type": "other",
+  "country": "US",
+  "founded": "1923",
+  "defunct": null,
+  "parent_company": "The Walt Disney Company",
+  "official_website": "https://thewaltdisneycompany.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/The_Walt_Disney_Company",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Disney Blue", "hex": "#0E5181"}
+  ],
+  "logo_usage": null,
+  "description": "Three files share this canonical SVG: Wizzer Productions (a small production credit on Disney/UK projects) plus The Walt Disney Company's EMEA and France regional logos. The shared file likely depicts the standard Walt Disney corporate logo.",
+  "duplicate_files": ["downloads/T/the-walt-disney-company-emea.svg", "downloads/T/the-walt-disney-company-france.svg", "downloads/W/wizzer-productions.svg"],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia - The Walt Disney Company", "url": "https://en.wikipedia.org/wiki/The_Walt_Disney_Company"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "low"
+}

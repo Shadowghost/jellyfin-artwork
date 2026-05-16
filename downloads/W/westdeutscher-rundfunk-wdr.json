@@ -1,0 +1,25 @@
+{
+  "slug": "westdeutscher-rundfunk-wdr",
+  "sha256": "1ebdfdf2343b7d42eb4b543420de23aaab09e623756f9b8d44ca3eedd6f3d031",
+  "entity_name": "Westdeutscher Rundfunk",
+  "aka": ["WDR"],
+  "type": "broadcast-network",
+  "country": "DE",
+  "founded": "1956",
+  "defunct": null,
+  "parent_company": "ARD",
+  "official_website": "https://www.wdr.de/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Westdeutscher_Rundfunk",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "German regional public-service broadcaster for North Rhine-Westphalia and one of the largest member institutions of the ARD network.",
+  "duplicate_files": ["downloads/W/westdeutscher-rundfunk-wdr.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Westdeutscher Rundfunk", "url": "https://en.wikipedia.org/wiki/Westdeutscher_Rundfunk"},
+    {"title": "WDR official site", "url": "https://www.wdr.de/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

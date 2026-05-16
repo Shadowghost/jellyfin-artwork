@@ -1,0 +1,29 @@
+{
+  "slug": "walt-disney-company",
+  "sha256": "dca23b97908605626383cc86172a3f184ccc2f501b234346eb268ff4587e8d61",
+  "entity_name": "The Walt Disney Company",
+  "aka": ["Disney", "Walt Disney Productions"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1923",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.thewaltdisneycompany.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/The_Walt_Disney_Company",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American multinational mass media and entertainment conglomerate founded by Walt and Roy O. Disney; parent of Walt Disney Studios, Pixar, Marvel, Lucasfilm, 20th Century, and Disney+.",
+  "duplicate_files": [
+    "downloads/T/the-walt-disney-company.svg",
+    "downloads/W/walt-disney-company.svg",
+    "downloads/W/walt-disney-productions.svg"
+  ],
+  "duplicate_count": 3,
+  "sources": [
+    {"title": "Wikipedia – The Walt Disney Company", "url": "https://en.wikipedia.org/wiki/The_Walt_Disney_Company"},
+    {"title": "Disney corporate site", "url": "https://www.thewaltdisneycompany.com"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

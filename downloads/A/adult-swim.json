@@ -1,0 +1,28 @@
+{
+  "slug": "adult-swim",
+  "sha256": "3af7f52b1549ef5e2df3b8731b539f7f6a05d13b180f2067e9da4d05cb9b8a19",
+  "entity_name": "Adult Swim",
+  "aka": ["[adult swim]", "AS"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "2001",
+  "defunct": null,
+  "parent_company": "Warner Bros. Discovery (via Cartoon Network Studios)",
+  "official_website": "https://www.adultswim.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Adult_Swim",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Black", "hex": "#000000"},
+    {"name": "White", "hex": "#FFFFFF"}
+  ],
+  "logo_usage": "Logo is typically lowercase '[adult swim]' in bracketed text, often black-on-white or white-on-black.",
+  "description": "American late-night programming block on Cartoon Network featuring adult-oriented animated and live-action shows.",
+  "duplicate_files": ["downloads/A/adult-swim.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Adult Swim", "url": "https://en.wikipedia.org/wiki/Adult_Swim"},
+    {"title": "Adult Swim official site", "url": "https://www.adultswim.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

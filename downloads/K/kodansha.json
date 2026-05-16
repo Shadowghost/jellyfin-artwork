@@ -1,0 +1,25 @@
+{
+  "slug": "kodansha",
+  "sha256": "7bece8e7f3ac2b035f726f5ee1222b919c06acf5e185dcfb6bff8634d98a9d20",
+  "entity_name": "Kodansha",
+  "aka": ["講談社", "Kodansha Ltd."],
+  "type": "publisher",
+  "country": "JP",
+  "founded": "1909",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.kodansha.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Kodansha",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Largest Japanese publishing company, known for manga magazines (Weekly Shonen Magazine, Morning) and many internationally distributed manga and light-novel series.",
+  "duplicate_files": ["downloads/K/kodansha.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Kodansha", "url": "https://en.wikipedia.org/wiki/Kodansha"},
+    {"title": "Kodansha official site", "url": "https://www.kodansha.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

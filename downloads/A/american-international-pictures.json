@@ -1,0 +1,24 @@
+{
+  "slug": "american-international-pictures",
+  "sha256": "1ddc848032b78f8e6bd20b0c3ee398dd6aaede4278028abea4239df92e905483",
+  "entity_name": "American International Pictures",
+  "aka": ["AIP"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1954",
+  "defunct": null,
+  "parent_company": "MGM (Amazon MGM Studios)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/American_International_Pictures",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American independent film production and distribution company known for low-budget genre films, revived as a label by MGM.",
+  "duplicate_files": ["downloads/A/american-international-pictures.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – American International Pictures", "url": "https://en.wikipedia.org/wiki/American_International_Pictures"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

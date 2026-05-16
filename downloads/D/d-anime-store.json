@@ -1,0 +1,25 @@
+{
+  "slug": "d-anime-store",
+  "sha256": "6f336619a8b7e0799c9218edc16bba5c464fd77e822007406f1303748bf1dd8b",
+  "entity_name": "dAnime Store",
+  "aka": ["d Anime Store", "Docomo Anime Store", "dアニメストア"],
+  "type": "streaming-service",
+  "country": "JP",
+  "founded": "2012",
+  "defunct": null,
+  "parent_company": "NTT Docomo",
+  "official_website": "https://anime.dmkt-sp.jp/",
+  "wikipedia": "https://ja.wikipedia.org/wiki/d%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%B9%E3%83%88%E3%82%A2",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese anime-focused subscription video-on-demand service operated by NTT Docomo, offering thousands of anime titles to subscribers.",
+  "duplicate_files": ["downloads/D/d-anime-store.svg", "downloads/D/docomo-anime-store.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "dAnime Store official site", "url": "https://anime.dmkt-sp.jp/"},
+    {"title": "Wikipedia (JA) - dアニメストア", "url": "https://ja.wikipedia.org/wiki/d%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%B9%E3%83%88%E3%82%A2"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

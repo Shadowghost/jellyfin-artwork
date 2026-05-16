@@ -1,0 +1,32 @@
+{
+  "slug": "netflix",
+  "sha256": "0c12d5374247e16fced565a207d010bf39f1eb55ee0394581ced67b2e6fa7b92",
+  "entity_name": "Netflix",
+  "aka": ["Netflix, Inc.", "Netflix International Pictures"],
+  "type": "streaming-service",
+  "country": "US",
+  "founded": "1997",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.netflix.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Netflix",
+  "brand_guidelines_url": "https://brand.netflix.com",
+  "brand_colors": [
+    {"name": "Netflix Red", "hex": "#E50914"},
+    {"name": "Black", "hex": "#221F1F"},
+    {"name": "White", "hex": "#F5F5F1"}
+  ],
+  "logo_usage": "Wordmark and 'N' icon. Strict brand guidelines apply through Netflix's brand portal.",
+  "description": "American subscription video-on-demand and production company, the largest global streaming service and a major producer of original films and TV.",
+  "duplicate_files": [
+    "downloads/N/netflix-international-pictures.svg",
+    "downloads/N/netflix.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Netflix", "url": "https://en.wikipedia.org/wiki/Netflix"},
+    {"title": "Netflix Brand Site", "url": "https://brand.netflix.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

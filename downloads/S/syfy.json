@@ -1,0 +1,25 @@
+{
+  "slug": "syfy",
+  "sha256": "fb260b68dfde58cb394efff6d2f8b8603a528b5f57dee97ea2215ad47a4de0e0",
+  "entity_name": "Syfy",
+  "aka": ["Sci-Fi Channel", "SCI FI Channel"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1992",
+  "defunct": null,
+  "parent_company": "NBCUniversal (Comcast)",
+  "official_website": "https://www.syfy.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Syfy",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American pay-TV channel owned by NBCUniversal, programming science fiction, fantasy, horror and supernatural series and films.",
+  "duplicate_files": ["downloads/S/syfy.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Syfy", "url": "https://en.wikipedia.org/wiki/Syfy"},
+    {"title": "Syfy official site", "url": "https://www.syfy.com/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

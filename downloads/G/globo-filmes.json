@@ -1,0 +1,24 @@
+{
+  "slug": "globo-filmes",
+  "sha256": "ff8c2857b422d4526aa894f93a6566060893afb77fe23fef4c5c899e06e78c9f",
+  "entity_name": "Globo Filmes",
+  "aka": ["Globo Films"],
+  "type": "production-company",
+  "country": "BR",
+  "founded": "1998",
+  "defunct": null,
+  "parent_company": "Grupo Globo",
+  "official_website": "https://globofilmes.globo.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Globo_Filmes",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Brazilian film production company, the film division of the Grupo Globo media conglomerate.",
+  "duplicate_files": ["downloads/G/globo-filmes.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Globo Filmes", "url": "https://en.wikipedia.org/wiki/Globo_Filmes"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

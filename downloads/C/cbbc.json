@@ -1,0 +1,25 @@
+{
+  "slug": "cbbc",
+  "sha256": "db7a514060d5e6471aa432fbbd2cae8e69ff70b376e9cdd1de49cbf418bc7a97",
+  "entity_name": "CBBC",
+  "aka": ["Children's BBC", "CBBC Channel"],
+  "type": "broadcast-network",
+  "country": "GB",
+  "founded": "1985",
+  "defunct": null,
+  "parent_company": "BBC",
+  "official_website": "https://www.bbc.co.uk/cbbc",
+  "wikipedia": "https://en.wikipedia.org/wiki/CBBC",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "BBC children's brand and free-to-air television channel for ages 6-12, originally launched as Children's BBC in 1985.",
+  "duplicate_files": ["downloads/C/cbbc.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – CBBC", "url": "https://en.wikipedia.org/wiki/CBBC"},
+    {"title": "CBBC official site", "url": "https://www.bbc.co.uk/cbbc"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

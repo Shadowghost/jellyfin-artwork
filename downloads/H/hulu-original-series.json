@@ -1,0 +1,27 @@
+{
+  "slug": "hulu-original-series",
+  "sha256": "da991379fb258eb9a5082e8bf532546bb026700b563e8d6b6b9fe2eae35b7972",
+  "entity_name": "Hulu Original Series",
+  "aka": ["Hulu Originals"],
+  "type": "streaming-service",
+  "country": "US",
+  "founded": "2011",
+  "defunct": null,
+  "parent_company": "The Walt Disney Company",
+  "official_website": "https://www.hulu.com/originals",
+  "wikipedia": "https://en.wikipedia.org/wiki/List_of_Hulu_original_programming",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Hulu Green", "hex": "#1CE783"}
+  ],
+  "logo_usage": null,
+  "description": "Branding for original scripted and unscripted programming produced for the Hulu streaming service.",
+  "duplicate_files": ["downloads/H/hulu-original-series.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Hulu", "url": "https://en.wikipedia.org/wiki/Hulu"},
+    {"title": "Hulu Originals", "url": "https://www.hulu.com/originals"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

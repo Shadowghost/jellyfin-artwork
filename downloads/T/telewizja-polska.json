@@ -1,0 +1,26 @@
+{
+  "slug": "telewizja-polska",
+  "sha256": "b62f4fb9339cd7b8f287aa681acfc37e02f07380b93f38a77c8be74c2d75b910",
+  "entity_name": "Telewizja Polska",
+  "aka": ["TVP", "Polish Television"],
+  "type": "broadcast-network",
+  "country": "PL",
+  "founded": "1952",
+  "defunct": null,
+  "parent_company": "Polish State (public broadcaster)",
+  "official_website": "https://www.tvp.pl/",
+  "wikipedia": "https://en.wikipedia.org/wiki/TVP",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Polish public service broadcaster operating national and regional television channels.",
+  "duplicate_files": [
+    "downloads/T/telewizja-polska.svg"
+  ],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – TVP", "url": "https://en.wikipedia.org/wiki/TVP"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

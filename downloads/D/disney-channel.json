@@ -1,0 +1,26 @@
+{
+  "slug": "disney-channel",
+  "sha256": "060ad104c50aba3c97d1e1aea87e861804a5b7deb22ec95b8312e0044b29e5ad",
+  "entity_name": "Disney Channel",
+  "aka": ["The Disney Channel"],
+  "type": "cable-network",
+  "country": "US",
+  "founded": "1983",
+  "defunct": null,
+  "parent_company": "The Walt Disney Company",
+  "official_website": "https://disneynow.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Disney_Channel",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "Disney Blue", "hex": "#006E9F"}
+  ],
+  "logo_usage": null,
+  "description": "American pay television channel owned by the Disney Branded Television unit of The Walt Disney Company, launched in 1983 as The Disney Channel.",
+  "duplicate_files": ["downloads/D/disney-channel.svg", "downloads/T/the-disney-channel.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia - Disney Channel", "url": "https://en.wikipedia.org/wiki/Disney_Channel"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

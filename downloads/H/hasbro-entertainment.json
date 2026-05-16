@@ -1,0 +1,24 @@
+{
+  "slug": "hasbro-entertainment",
+  "sha256": "b756804b80d649bfea0ec98b4338180139149338f5e11b29d1badb42d90419bb",
+  "entity_name": "Hasbro Entertainment",
+  "aka": ["Hasbro Studios", "Allspark"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "2009",
+  "defunct": null,
+  "parent_company": "Hasbro",
+  "official_website": "https://hasbro.com/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Hasbro_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Entertainment division of Hasbro producing film, television and digital content based on Hasbro's brands (Transformers, G.I. Joe, My Little Pony).",
+  "duplicate_files": ["downloads/H/hasbro-entertainment.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Hasbro Entertainment", "url": "https://en.wikipedia.org/wiki/Hasbro_Entertainment"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "ufa-cinema",
+  "sha256": "8837ad09df7d09ed22356abf25ef1d6d09b7e3b80c6b46e4331512a3cfdc5b7d",
+  "entity_name": "UFA (Universum Film AG)",
+  "aka": ["UFA", "Universum Film", "Universum Film AG", "UFA GmbH"],
+  "type": "production-company",
+  "country": "DE",
+  "founded": "1917",
+  "defunct": null,
+  "parent_company": "Bertelsmann (RTL Group / Fremantle)",
+  "official_website": "https://www.ufa.de/",
+  "wikipedia": "https://en.wikipedia.org/wiki/UFA_GmbH",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Historic German film and television production company founded in 1917; one of the most influential studios in German film history, now part of the Bertelsmann/RTL Group.",
+  "duplicate_files": ["downloads/U/ufa-cinema.svg", "downloads/U/ufa-fernsehproduktion.svg", "downloads/U/ufa-filmproduktion-gmbh.svg", "downloads/U/ufa-home-entertainment.svg", "downloads/U/united-international-pictures-gmbh.svg", "downloads/U/universum-film-ag.svg", "downloads/U/universum-film-gmbh.svg", "downloads/U/universum-film-ufa.svg", "downloads/U/universum-film.svg"],
+  "duplicate_count": 9,
+  "sources": [
+    {"title": "Wikipedia - UFA GmbH", "url": "https://en.wikipedia.org/wiki/UFA_GmbH"},
+    {"title": "Wikipedia - Universum Film AG", "url": "https://en.wikipedia.org/wiki/Universum_Film_AG"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

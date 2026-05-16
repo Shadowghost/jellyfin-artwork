@@ -1,0 +1,25 @@
+{
+  "slug": "kyoto-animation",
+  "sha256": "b615984f59e379489aa0a08473571fbbd2e2978286bd05f9893c858b7364eae1",
+  "entity_name": "Kyoto Animation",
+  "aka": ["KyoAni", "京都アニメーション"],
+  "type": "studio",
+  "country": "JP",
+  "founded": "1981",
+  "defunct": null,
+  "parent_company": null,
+  "official_website": "https://www.kyotoanimation.co.jp/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Kyoto_Animation",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "Japanese animation studio and light-novel publisher based in Uji, Kyoto; known for works such as K-On!, Clannad, Violet Evergarden, and A Silent Voice.",
+  "duplicate_files": ["downloads/K/kyoto-animation.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia - Kyoto Animation", "url": "https://en.wikipedia.org/wiki/Kyoto_Animation"},
+    {"title": "Kyoto Animation official site", "url": "https://www.kyotoanimation.co.jp/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

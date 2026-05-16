@@ -1,0 +1,27 @@
+{
+  "slug": "norddeutscher-rundfunk-ndr",
+  "sha256": "375fa89ba2e1cf6a96af708cbd66701190298ba06a87137e3277ab1a719fc6fe",
+  "entity_name": "Norddeutscher Rundfunk",
+  "aka": ["NDR"],
+  "type": "broadcast-network",
+  "country": "DE",
+  "founded": "1956",
+  "defunct": null,
+  "parent_company": "ARD",
+  "official_website": "https://www.ndr.de/",
+  "wikipedia": "https://en.wikipedia.org/wiki/Norddeutscher_Rundfunk",
+  "brand_guidelines_url": null,
+  "brand_colors": [
+    {"name": "NDR Blue", "hex": "#003C8C"}
+  ],
+  "logo_usage": null,
+  "description": "Public broadcasting service for the German states of Lower Saxony, Hamburg, Schleswig-Holstein, and Mecklenburg-Vorpommern; member of the ARD network.",
+  "duplicate_files": ["downloads/N/norddeutscher-rundfunk-ndr.svg"],
+  "duplicate_count": 1,
+  "sources": [
+    {"title": "Wikipedia – Norddeutscher Rundfunk", "url": "https://en.wikipedia.org/wiki/Norddeutscher_Rundfunk"},
+    {"title": "NDR official site", "url": "https://www.ndr.de/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

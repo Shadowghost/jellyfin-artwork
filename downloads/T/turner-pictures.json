@@ -1,0 +1,27 @@
+{
+  "slug": "turner-pictures",
+  "sha256": "9d5258dc86f5b7af5424c679162b4618065cf78e81b0756728dcac18886879fb",
+  "entity_name": "Turner Pictures",
+  "aka": ["Turner Entertainment", "Turner Pictures Worldwide"],
+  "type": "studio",
+  "country": "US",
+  "founded": "1986",
+  "defunct": "1996",
+  "parent_company": "Warner Bros. Discovery (library)",
+  "official_website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Turner_Entertainment",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American film and library company founded by Ted Turner; owns rights to the pre-1986 MGM library, Hanna-Barbera and RKO. Library now managed by Warner Bros. Discovery.",
+  "duplicate_files": [
+    "downloads/T/turner-entertainment.svg",
+    "downloads/T/turner-pictures.svg"
+  ],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Turner Entertainment", "url": "https://en.wikipedia.org/wiki/Turner_Entertainment"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}

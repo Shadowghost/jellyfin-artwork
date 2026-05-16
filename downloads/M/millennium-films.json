@@ -1,0 +1,25 @@
+{
+  "slug": "millennium-films",
+  "sha256": "eaf6de0601b6c7ccc2ead7175f610ec732ebd2cd7a16c47ccb04b54677900101",
+  "entity_name": "Millennium Media",
+  "aka": ["Millennium Films"],
+  "type": "production-company",
+  "country": "US",
+  "founded": "1992",
+  "defunct": null,
+  "parent_company": "Nu Image",
+  "official_website": "https://www.millennium-media.net",
+  "wikipedia": "https://en.wikipedia.org/wiki/Millennium_Media_(company)",
+  "brand_guidelines_url": null,
+  "brand_colors": [],
+  "logo_usage": null,
+  "description": "American independent film production and distribution company; producer of The Expendables franchise.",
+  "duplicate_files": ["downloads/M/millennium-films.svg", "downloads/M/millennium-media.svg"],
+  "duplicate_count": 2,
+  "sources": [
+    {"title": "Wikipedia – Millennium Media", "url": "https://en.wikipedia.org/wiki/Millennium_Media_(company)"},
+    {"title": "Millennium Media official site", "url": "https://www.millennium-media.net/"}
+  ],
+  "researched_at": "2026-05-17",
+  "confidence": "high"
+}
