@@ -40,10 +40,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "NBC (National Broadcasting Company)"
-    ]
+    ],
+    "template": true
   }
 ]

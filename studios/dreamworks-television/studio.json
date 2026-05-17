@@ -17,10 +17,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "DreamWorks Animation Television"
-    ]
+    ],
+    "template": true
   }
 ]

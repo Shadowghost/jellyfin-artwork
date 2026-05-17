@@ -9,10 +9,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "The Walt Disney Company (Japan / Home Entertainment)"
-    ]
+    ],
+    "template": true
   }
 ]

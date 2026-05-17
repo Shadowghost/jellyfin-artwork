@@ -17,13 +17,13 @@
       }
     ],
     "artwork": {
-      "logo": [
-        "svg",
-        "webp"
+      "thumb": [
+        "svg"
       ]
     },
     "aka": [
       "China Central Television"
-    ]
+    ],
+    "placeholder": true
   }
 ]

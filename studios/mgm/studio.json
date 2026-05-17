@@ -28,10 +28,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Metro-Goldwyn-Mayer"
-    ]
+    ],
+    "template": true
   }
 ]

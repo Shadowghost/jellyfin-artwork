@@ -17,10 +17,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "P.A. Works"
-    ]
+    ],
+    "template": true
   }
 ]

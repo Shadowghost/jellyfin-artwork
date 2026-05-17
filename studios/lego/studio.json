@@ -35,10 +35,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "The Lego Group"
-    ]
+    ],
+    "template": true
   }
 ]

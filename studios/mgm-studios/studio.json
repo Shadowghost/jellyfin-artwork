@@ -27,10 +27,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Amazon MGM Studios"
-    ]
+    ],
+    "template": true
   }
 ]

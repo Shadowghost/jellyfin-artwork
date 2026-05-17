@@ -14,10 +14,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Aardman Animations"
-    ]
+    ],
+    "template": true
   }
 ]

@@ -17,10 +17,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Studio Babelsberg"
-    ]
+    ],
+    "template": true
   }
 ]

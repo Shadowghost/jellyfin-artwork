@@ -15,7 +15,12 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
-    }
+    },
+    "template": true
   }
 ]

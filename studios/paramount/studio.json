@@ -24,11 +24,16 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Paramount Pictures",
       "Paramount"
-    ]
+    ],
+    "template": true
   }
 ]

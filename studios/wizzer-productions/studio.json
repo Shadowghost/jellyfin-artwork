@@ -15,10 +15,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "The Walt Disney Company (regional - EMEA/France logo shared with Wizzer Productions)"
-    ]
+    ],
+    "template": true
   }
 ]

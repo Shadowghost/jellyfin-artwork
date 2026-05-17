@@ -22,10 +22,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Scholastic Entertainment"
-    ]
+    ],
+    "template": true
   }
 ]

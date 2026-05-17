@@ -17,10 +17,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Russia-1"
-    ]
+    ],
+    "template": true
   }
 ]

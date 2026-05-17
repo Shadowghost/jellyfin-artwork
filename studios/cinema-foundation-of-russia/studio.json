@@ -9,10 +9,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Cinema Foundation of the Russian Federation"
-    ]
+    ],
+    "template": true
   }
 ]

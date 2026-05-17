@@ -1,0 +1,971 @@
+{
+  "_stats": {
+    "providers_migrated_to_array": 6809,
+    "tmdb_repicked": 314,
+    "homepage_lifted": 2424,
+    "headquarters_lifted": 2673,
+    "logo_uri_built": 2842,
+    "uk_to_gb": 0,
+    "country_overridden_by_tmdb": 13,
+    "country_filled_from_tmdb": 56,
+    "stripped_legacy_keys": 2821,
+    "files_changed": 6809
+  },
+  "changes": {
+    "10": [
+      "tmdb set: 188776 ('10/09', sim=0.571)"
+    ],
+    "2": [
+      "tmdb set: 195612 ('+2', sim=0.667)"
+    ],
+    "360": [
+      "tmdb set: 43426 ('360VM', sim=0.75)"
+    ],
+    "4-1": [
+      "tmdb set: 7843 ('4 1/2', sim=0.75)"
+    ],
+    "5": [
+      "tmdb set: 185606 ('MRF 5', sim=0.333)"
+    ],
+    "6th-idaho": [
+      "tmdb set: 101405 ('6th & Idaho Motion Picture Company', sim=0.489)"
+    ],
+    "a-i-e": [
+      "tmdb set: 265980 ('H.I.E.N.A.', sim=0.625)"
+    ],
+    "aardman": [
+      "tmdb set: 297 ('Aardman', sim=0.56)"
+    ],
+    "aardman-animations": [
+      "tmdb set: 297 ('Aardman', sim=0.56)"
+    ],
+    "abc-com": [
+      "tmdb set: 287949 ('al.com', sim=0.769)"
+    ],
+    "abc-family": [
+      "tmdb 89525 (sim=0.8) → 80382 (sim=0.857, name='Kabo Family', oc=)"
+    ],
+    "abc-us": [
+      "tmdb set: 176162 ('ABC', sim=0.158)"
+    ],
+    "abc1": [
+      "tmdb 105223 (sim=0.6) → 291648 (sim=0.857, name='ABC', oc=)"
+    ],
+    "abc2": [
+      "tmdb 105223 (sim=0.6) → 51240 (sim=1.0, name='ABC2', oc=)"
+    ],
+    "abc3": [
+      "tmdb 105223 (sim=0.6) → 159979 (sim=1.0, name='ABC3', oc=)"
+    ],
+    "acfun": [
+      "tmdb set: 73944 ('Acun Medya', sim=0.533)"
+    ],
+    "advertising-age": [
+      "tmdb set: 154213 ('Central Advertising Agency', sim=0.732)"
+    ],
+    "aeon-entertainment": [
+      "tmdb 1088 (sim=0.919) → 99252 (sim=1.0, name='Aeon Entertainment', oc=JP)",
+      "country 'US' → 'JP' (TMDB id 99252)"
+    ],
+    "affinity": [
+      "tmdb set: 198107 ('Affinity Cine', sim=0.762)"
+    ],
+    "alex-winitsky": [
+      "tmdb set: 56932 ('Alex Winitsky / Arlene Sellers Productions', sim=0.473)"
+    ],
+    "amazon": [
+      "tmdb set: 119504 ('Imazon', sim=0.833)"
+    ],
+    "amazon-prime-video": [
+      "tmdb set: 181905 ('Prime Video India', sim=0.629)"
+    ],
+    "american-broadcasting-company": [
+      "tmdb set: 176162 ('ABC', sim=0.158)"
+    ],
+    "american-event-productions": [
+      "tmdb set: 221222 ('African Events Productions (African Events)', sim=0.696)"
+    ],
+    "angel": [
+      "tmdb set: 285768 ('ANNEL', sim=0.8)"
+    ],
+    "aniplus": [
+      "tmdb set: 272364 ('A-Plus', sim=0.769)"
+    ],
+    "apipoulai": [
+      "tmdb set: 1076 ('Apipoulaï Prod', sim=0.783)"
+    ],
+    "ard": [
+      "tmdb 308 (sim=0) → 1251 (sim=1.0, name='ARD', oc=DE)"
+    ],
+    "ard-degeto": [
+      "tmdb 6187 (sim=0) → 986 (sim=1.0, name='ARD Degeto', oc=DE)"
+    ],
+    "ard-degeto-film-gmbh": [
+      "tmdb 6187 (sim=0) → 986 (sim=0.667, name='ARD Degeto', oc=DE)"
+    ],
+    "arlene-sellers-productions": [
+      "tmdb set: 56932 ('Alex Winitsky / Arlene Sellers Productions', sim=0.765)"
+    ],
+    "arrow-films": [
+      "tmdb 2040 (sim=0.818) → 133345 (sim=1.0, name='Arrow Films', oc=US)",
+      "country 'GB' → 'US' (TMDB id 133345)"
+    ],
+    "arte-france": [
+      "tmdb 94 (sim=0.759) → 292599 (sim=1.0, name='Arte France', oc=)"
+    ],
+    "at-x": [
+      "tmdb 173 (sim=0) → 17981 (sim=1.0, name='AT-X', oc=JP)"
+    ],
+    "avex": [
+      "tmdb set: 134289 ('AVS Group', sim=0.842)"
+    ],
+    "avnet": [
+      "tmdb set: 115155 ('Tisch/Avnet Television Inc.', sim=0.526)"
+    ],
+    "axn": [
+      "tmdb set: 47391 ('AX-ON', sim=0.75)"
+    ],
+    "baldwin": [
+      "tmdb set: 292945 ('Goldwin', sim=0.714)"
+    ],
+    "bandai": [
+      "tmdb set: 256908 ('Bandai Namco China', sim=0.588)"
+    ],
+    "bandai-entertainment": [
+      "tmdb 12502 (sim=0.87) → 120107 (sim=1.0, name='Bandai Entertainment', oc=US)",
+      "country 'JP' → 'US' (TMDB id 120107)"
+    ],
+    "bandai-namco-group": [
+      "tmdb set: 256908 ('Bandai Namco China', sim=0.821)"
+    ],
+    "bayerischer-rundfunk-br": [
+      "tmdb set: 162 ('BR', sim=0.182)"
+    ],
+    "bbc": [
+      "tmdb set: 3324 ('BBC', sim=0.146)"
+    ],
+    "benattar": [
+      "tmdb set: 89093 ('Benattar/Thomas Productions', sim=0.457)"
+    ],
+    "birnbaum": [
+      "tmdb set: 23731 ('Birnbaum/Barber', sim=0.696)"
+    ],
+    "block": [
+      "tmdb set: 125871 ('Bleck', sim=0.8)"
+    ],
+    "bobker": [
+      "tmdb set: 259969 ('Bonkers', sim=0.769)"
+    ],
+    "boies": [
+      "tmdb set: 2849 ('BONES', sim=0.8)"
+    ],
+    "bond": [
+      "tmdb set: 75357 ('BondIt', sim=0.8)"
+    ],
+    "bones-film": [
+      "tmdb 2849 (sim=0.667) → 189286 (sim=0.8, name='Cines Inc.', oc=)"
+    ],
+    "boot": [
+      "tmdb set: 297866 ('Boom', sim=0.667)"
+    ],
+    "bright": [
+      "tmdb set: 185713 ('BLight', sim=0.833)"
+    ],
+    "brown-company": [
+      "tmdb set: 1865 ('The Zanuck/Brown Company', sim=0.703)"
+    ],
+    "bs-nippon-tv": [
+      "tmdb set: 118502 ('BS11', sim=0.242)"
+    ],
+    "bsn": [
+      "tmdb set: 283614 ('bs', sim=0.8)"
+    ],
+    "burke": [
+      "tmdb set: 287335 ('JimBurkeVoices', sim=0.526)"
+    ],
+    "canada-media-fund": [
+      "tmdb set: 34515 ('Canada Media Fund | Fonds des médias du Canada', sim=0.54)"
+    ],
+    "carlyle-alpina": [
+      "tmdb set: 222275 ('Carlyle-Alpina, S.A.', sim=0.824)"
+    ],
+    "carter-bays": [
+      "tmdb set: 296278 ('Bays-Thomas Productions', sim=0.235)"
+    ],
+    "cartoon-network": [
+      "tmdb 274991 (sim=0.811) → 291480 (sim=0.833, name='Cartoon Network Japan', oc=JP)"
+    ],
+    "centre-national-de-la-cin-matographie": [
+      "tmdb set: 264476 ('Fonds Images de la Diversité - Agence Nationale de la Cohésion des territoires - Centre national du cinéma et de l’image animée', sim=0.52)"
+    ],
+    "chartoff-winkler-productions": [
+      "tmdb set: 8880 ('Winkler Films', sim=0.488)"
+    ],
+    "china-central-television-cctv": [
+      "tmdb 83696 (sim=0.787) → 231600 (sim=1.0, name='China Central Television', oc=)"
+    ],
+    "china-film-co": [
+      "tmdb set: 221665 ('China Film Creative', sim=0.727)"
+    ],
+    "china-film-co-production-cfcc": [
+      "tmdb set: 2269 ('China Film Co-Production', sim=0.75)"
+    ],
+    "china-film-co-production-corporation": [
+      "tmdb set: 2269 ('China Film Co-Production', sim=0.8)"
+    ],
+    "cin-mage-2": [
+      "tmdb set: 135745 ('The Walt Disney Company France', sim=0.36)",
+      "country 'US' → 'FR' (TMDB id 135745)"
+    ],
+    "cittadino": [
+      "tmdb set: 11131 ('Cittadino/Dugan Entertainment', sim=0.474)"
+    ],
+    "cohen-company": [
+      "tmdb set: 2721 ('Jinks/Cohen Company', sim=0.812)"
+    ],
+    "comedy-central": [
+      "tmdb 47 (sim=0) → 182800 (sim=1.0, name='Comedy Central', oc=PL)"
+    ],
+    "conquer": [
+      "tmdb set: 258444 ('Conquer Studios', sim=0.636)"
+    ],
+    "crime-investigation-network": [
+      "tmdb 191931 (sim=0.8) → 175964 (sim=0.95, name='CRIME+INVESTIGATION', oc=)"
+    ],
+    "cruise": [
+      "tmdb set: 165094 ('crisge', sim=0.833)"
+    ],
+    "cygamespictures": [
+      "tmdb set: 39181 ('CyPic', sim=0.5)"
+    ],
+    "daiichi-tv": [
+      "tmdb set: 11724 ('Shizuoka Daiichi Television', sim=0.486)"
+    ],
+    "danmarks-radio-dr": [
+      "tmdb set: 171115 ('Danmarks Radio (DR)', sim=0.789)"
+    ],
+    "das-erste": [
+      "tmdb 35944 (sim=0) → 1251 (sim=0.167, name='ARD', oc=DE)"
+    ],
+    "desanto": [
+      "tmdb set: 126232 ('Delante TV', sim=0.588)"
+    ],
+    "devon": [
+      "tmdb set: 194496 ('deton', sim=0.8)"
+    ],
+    "discovery-channel": [
+      "tmdb 6790 (sim=0.692) → 250355 (sim=1.0, name='Discovery Channel', oc=)"
+    ],
+    "disney-music-group": [
+      "tmdb set: 160956 ('Walt Disney Records', sim=0.432)"
+    ],
+    "divide": [
+      "tmdb set: 86722 ('DIVE', sim=0.8)"
+    ],
+    "dna-production": [
+      "tmdb 77317 (sim=0.867) → 89136 (sim=1.0, name='DNA Productions', oc=)"
+    ],
+    "don-simpson": [
+      "tmdb set: 10288 ('Don Simpson/Jerry Bruckheimer Films', sim=0.478)"
+    ],
+    "donner": [
+      "tmdb set: 92159 ('Dorer', sim=0.727)"
+    ],
+    "double-negative": [
+      "tmdb set: 31922 ('DNEG', sim=0.421)"
+    ],
+    "dvd": [
+      "tmdb 14346 (sim=0.667) → 162752 (sim=0.857, name='DVD)', oc=)"
+    ],
+    "e": [
+      "tmdb 76 (sim=0) → 25968 (sim=0.964, name='E! Entertainment Television', oc=)"
+    ],
+    "east-japan-marketing-communications": [
+      "tmdb set: 8157 ('jeki', sim=0.146)"
+    ],
+    "ehsugadee-productions": [
+      "tmdb set: 86616 ('Ehsugadee', sim=0.6)"
+    ],
+    "eitb": [
+      "tmdb set: 31123 ('EiTB', sim=0.296)"
+    ],
+    "embassy-productions": [
+      "tmdb 23601 (sim=0.667) → 15013 (sim=1.0, name='Embassy Productions', oc=)"
+    ],
+    "emmett": [
+      "tmdb set: 167806 ('Emme', sim=0.8)"
+    ],
+    "ezo-la": [
+      "tmdb set: 120816 ('Ezóla', sim=0.727)"
+    ],
+    "famous-players": [
+      "tmdb 276163 (sim=0.7) → 36555 (sim=1.0, name='Famous Players', oc=CA)",
+      "country 'US' → 'CA' (TMDB id 36555)"
+    ],
+    "fbc": [
+      "tmdb set: 178214 ('BC', sim=0.8)"
+    ],
+    "fbs": [
+      "tmdb set: 283614 ('bs', sim=0.8)"
+    ],
+    "fis-eireann": [
+      "tmdb set: 1898 ('Fís Éireann/Screen Ireland', sim=0.595)"
+    ],
+    "fonds-des-medias-du-canada": [
+      "tmdb set: 34515 ('Canada Media Fund | Fonds des médias du Canada', sim=0.722)"
+    ],
+    "fontana-company": [
+      "tmdb set: 60649 ('Fortuna Film Company', sim=0.743)"
+    ],
+    "fox": [
+      "tmdb 19699 (sim=0.667) → 264307 (sim=1.0, name='Fox', oc=)"
+    ],
+    "fox-news": [
+      "tmdb 144157 (sim=0.615) → 33754 (sim=1.0, name='Fox News', oc=)"
+    ],
+    "fr3": [
+      "tmdb set: 166010 ('France Régions 3 (FR3)', sim=0.773)"
+    ],
+    "france-2": [
+      "tmdb 361 (sim=0) → 254533 (sim=1.0, name='France 2', oc=)"
+    ],
+    "france-3": [
+      "tmdb 11244 (sim=0.875) → 152560 (sim=1.0, name='France 3', oc=)"
+    ],
+    "france-4": [
+      "tmdb 511 (sim=0) → 33928 (sim=1.0, name='France 4', oc=FR)"
+    ],
+    "france-tv": [
+      "tmdb 3856 (sim=0) → 64473 (sim=0.824, name='France Ô', oc=FR)"
+    ],
+    "france-tv-slash": [
+      "tmdb 2983 (sim=0) → 178575 (sim=0.933, name='France.tv Slash', oc=)"
+    ],
+    "franklin": [
+      "tmdb set: 236543 ('frankie', sim=0.8)"
+    ],
+    "freeform": [
+      "tmdb set: 124830 ('Freecom', sim=0.8)"
+    ],
+    "fukushima-tv": [
+      "tmdb set: 273214 ('TV-U Fukushima', sim=0.692)"
+    ],
+    "funimation": [
+      "tmdb 168856 (sim=0.769) → 262361 (sim=0.842, name='Animation', oc=RU)"
+    ],
+    "furia-de-titanes-ii": [
+      "tmdb set: 24176 ('Furia de Titanes II, A.I.E.', sim=0.826)"
+    ],
+    "fx": [
+      "tmdb set: 154615 ('Wētā FX', sim=0.444)"
+    ],
+    "fx-us": [
+      "tmdb set: 33715 ('fx3x', sim=0.667)",
+      "country 'US' → 'MK' (TMDB id 33715)"
+    ],
+    "gain": [
+      "tmdb set: 112920 ('Gaina', sim=0.8)"
+    ],
+    "game-show-network": [
+      "tmdb 63 (sim=0) → 62491 (sim=0.85, name='Game Show Network (GSN)', oc=)"
+    ],
+    "gary-sinise-productions": [
+      "tmdb set: 260720 ('Russ Smith/Gary Sinise Productions', sim=0.807)"
+    ],
+    "gbs": [
+      "tmdb set: 283614 ('bs', sim=0.8)"
+    ],
+    "geffen-company-the": [
+      "tmdb set: 360 ('Geffen Pictures', sim=0.485)"
+    ],
+    "gimlet-media": [
+      "tmdb 264267 (sim=0.833) → 88661 (sim=1.0, name='Gimlet Media', oc=)"
+    ],
+    "hanna-barbera-productions": [
+      "tmdb set: 1353 ('Hanna-Barbera Cartoons', sim=0.809)"
+    ],
+    "hazy-mills-productions": [
+      "tmdb set: 27091 ('Hazy Mills', sim=0.625)"
+    ],
+    "hbc": [
+      "tmdb set: 178214 ('BC', sim=0.8)"
+    ],
+    "hbo": [
+      "tmdb 49 (sim=0) → 3268 (sim=1.0, name='HBO', oc=US)"
+    ],
+    "hbo-canada": [
+      "tmdb set: 254517 ('NBA Canada', sim=0.8)"
+    ],
+    "hbo-drama": [
+      "tmdb set: 96883 ('CBS Drama', sim=0.778)"
+    ],
+    "hemdale-film": [
+      "tmdb set: 111627 ('Hombale Films', sim=0.8)"
+    ],
+    "henry-winkler": [
+      "tmdb set: 86029 ('Henry Winkler/John Rich Productions', sim=0.542)"
+    ],
+    "hgtv": [
+      "tmdb 101015 (sim=0.857) → 282156 (sim=1.0, name='HGTV', oc=)"
+    ],
+    "highlander-productions-limited": [
+      "tmdb set: 107461 ('Highlander Productions', sim=0.846)"
+    ],
+    "hofflund": [
+      "tmdb set: 1685 ('Hofflund/Polone', sim=0.696)"
+    ],
+    "horowitz": [
+      "tmdb set: 76781 ('Kitsis/Horowitz', sim=0.696)"
+    ],
+    "htb": [
+      "tmdb set: 101015 ('HTV', sim=0.667)"
+    ],
+    "hulu": [
+      "tmdb set: 292412 ('HA-LU', sim=0.667)"
+    ],
+    "ign": [
+      "tmdb set: 206998 ('IGNCA', sim=0.75)"
+    ],
+    "illumination-entertainment": [
+      "tmdb set: 6704 ('Illumination', sim=0.632)"
+    ],
+    "imax": [
+      "tmdb set: 3447 ('IMAX', sim=0.4)"
+    ],
+    "impact-pictures-re5": [
+      "tmdb set: 259879 ('Red Impala Pictures', sim=0.65)"
+    ],
+    "incaa": [
+      "tmdb set: 6458 ('INCAA', sim=0.151)"
+    ],
+    "ishikawa-tv": [
+      "tmdb set: 256949 ('Ishikawa Television Broadcasting', sim=0.512)"
+    ],
+    "island-records": [
+      "tmdb 18433 (sim=0.651) → 70224 (sim=1.0, name='Island Records', oc=US)",
+      "country 'GB' → 'US' (TMDB id 70224)"
+    ],
+    "italia-1": [
+      "tmdb set: 154577 ('Cine1italia', sim=0.632)"
+    ],
+    "ixtl-co": [
+      "tmdb set: 74052 ('ixtl Co., Ltd.', sim=0.727)"
+    ],
+    "jerry-sherlock-productions": [
+      "tmdb set: 264010 ('Mace Neufeld/Jerry Sherlock Productions', sim=0.8)"
+    ],
+    "jinks": [
+      "tmdb set: 50413 ('PINKS', sim=0.8)"
+    ],
+    "jnn": [
+      "tmdb set: 215103 ('FNN', sim=0.667)"
+    ],
+    "jrt": [
+      "tmdb set: 226874 ('rt', sim=0.8)"
+    ],
+    "julia": [
+      "tmdb set: 13697 ('Julia Film', sim=0.667)"
+    ],
+    "kalima-productions-gmbh-co-kg": [
+      "tmdb set: 7385 ('Kalima Productions', sim=0.72)"
+    ],
+    "kauffman": [
+      "tmdb set: 31810 ('Bright/Kauffman/Crane Productions', sim=0.39)"
+    ],
+    "kddi": [
+      "tmdb set: 11848 ('KDDI', sim=0.4)"
+    ],
+    "kddi-corporation": [
+      "tmdb set: 11848 ('KDDI', sim=0.4)"
+    ],
+    "kfb": [
+      "tmdb set: 160418 ('IFB', sim=0.667)"
+    ],
+    "khb": [
+      "tmdb set: 215220 ('KBB', sim=0.667)"
+    ],
+    "kiko-theater": [
+      "tmdb set: 211763 ('Kino&Teatr', sim=0.696)"
+    ],
+    "kinberg-genre": [
+      "tmdb set: 28788 ('Genre Films', sim=0.417)"
+    ],
+    "kitsis": [
+      "tmdb set: 23234 ('ISIS', sim=0.8)"
+    ],
+    "kry": [
+      "tmdb set: 294358 ('Kryla', sim=0.75)"
+    ],
+    "ksb": [
+      "tmdb set: 3560 ('KSS', sim=0.667)"
+    ],
+    "ktn": [
+      "tmdb set: 34812 ('KT', sim=0.8)"
+    ],
+    "kumamoto-asahi-broadcasting": [
+      "tmdb set: 218055 ('Kumamoto Asahi Broadcasting Co., Ltd.', sim=0.844)"
+    ],
+    "kurtzman": [
+      "tmdb set: 12536 ('Kurtzman/Orci', sim=0.762)"
+    ],
+    "kyt": [
+      "tmdb set: 34812 ('KT', sim=0.8)"
+    ],
+    "lee-caplin": [
+      "tmdb set: 26204 ('Lee Caplin / Picture Entertainment', sim=0.455)"
+    ],
+    "legendary-pictures": [
+      "tmdb 54629 (sim=0.651) → 185226 (sim=0.979, name='Legendary Entertainments', oc=IN)",
+      "country 'US' → 'IN' (TMDB id 185226)"
+    ],
+    "lemasters-productions": [
+      "tmdb set: 2507 ('Todman, Simon, LeMasters Productions', sim=0.737)"
+    ],
+    "licht": [
+      "tmdb set: 246380 ('light', sim=0.8)"
+    ],
+    "linear-pictures": [
+      "tmdb 54281 (sim=0.867) → 217542 (sim=0.897, name='Lunar pictures', oc=)"
+    ],
+    "lisberger": [
+      "tmdb set: 64709 ('Lisberger Studios', sim=0.692)"
+    ],
+    "loew-s": [
+      "tmdb set: 179595 ('Edgar Lewis Productions Inc.', sim=0.462)"
+    ],
+    "ltd": [
+      "tmdb set: 50999 ('Ram Ltd.', sim=0.667)"
+    ],
+    "lucasfilm": [
+      "tmdb 1 (sim=0.783) → 79079 (sim=0.842, name='Lucks Film', oc=)"
+    ],
+    "lucy-fisher": [
+      "tmdb set: 246486 ('Lucy Fisher/Douglas Wick Productions', sim=0.468)"
+    ],
+    "m6": [
+      "tmdb 712 (sim=0) → 157431 (sim=1.0, name='M6', oc=)"
+    ],
+    "mace-neufeld": [
+      "tmdb set: 2767 ('Mace Neufeld Productions', sim=0.667)"
+    ],
+    "mainichi-broadcasting-system": [
+      "tmdb set: 3363 ('MBS', sim=0.194)"
+    ],
+    "mann": [
+      "tmdb set: 114113 ('Main', sim=0.75)"
+    ],
+    "marshall-company": [
+      "tmdb set: 279651 ('Marshall Filming Company', sim=0.8)"
+    ],
+    "marv-films": [
+      "tmdb 109976 (sim=0.696) → 147996 (sim=0.947, name='Mar Films', oc=)"
+    ],
+    "media-rights-capital": [
+      "tmdb set: 2531 ('MRC', sim=0.261)"
+    ],
+    "mediastream-film-gmbh-co-productions-kg": [
+      "tmdb set: 26282 ('Mediastream Film', sim=0.552)"
+    ],
+    "medienfonds-gfp": [
+      "tmdb set: 1637 ('Zweite Medienfonds GFP', sim=0.811)"
+    ],
+    "middleton-project": [
+      "tmdb set: 72695 ('The Affleck/Middleton Project', sim=0.739)"
+    ],
+    "mikona-productions-gmbh-co-kg": [
+      "tmdb set: 24 ('Mikona Productions', sim=0.72)"
+    ],
+    "milplus": [
+      "tmdb set: 45736 ('Filmplus', sim=0.8)"
+    ],
+    "ministerio-de-cultura": [
+      "tmdb 29258 (sim=0.857) → 11408 (sim=1.0, name='Ministerio de Cultura', oc=)"
+    ],
+    "ministero-per-i-beni-e-le-attivit-culturali": [
+      "tmdb set: 14016 ('MiC', sim=0.128)"
+    ],
+    "montford": [
+      "tmdb set: 90892 ('Montford / Murphy Productions', sim=0.432)"
+    ],
+    "mostow": [
+      "tmdb set: 234713 ('Motor', sim=0.727)"
+    ],
+    "music": [
+      "tmdb set: 215571 ('MUSAC', sim=0.8)"
+    ],
+    "nagoya-tv": [
+      "tmdb set: 228522 ('Nagoya TV Next', sim=0.783)"
+    ],
+    "nb": [
+      "tmdb set: 288902 ('NBC', sim=0.8)"
+    ],
+    "nbc": [
+      "tmdb set: 1502 ('NBC', sim=0.158)"
+    ],
+    "nbc-sports": [
+      "tmdb 110640 (sim=0.8) → 204066 (sim=0.9, name='ABC Sports', oc=)"
+    ],
+    "ncc": [
+      "tmdb set: 1048 ('CC', sim=0.8)"
+    ],
+    "ndr-fernsehen": [
+      "tmdb set: 69405 ('SWR Fernsehen', sim=0.846)"
+    ],
+    "new-legacy": [
+      "tmdb set: 939 ('New Legacy Film', sim=0.8)"
+    ],
+    "newman": [
+      "tmdb set: 239402 ('Snowman', sim=0.769)"
+    ],
+    "nfb": [
+      "tmdb set: 12347 ('NFF', sim=0.667)"
+    ],
+    "nib": [
+      "tmdb set: 24050 ('nil', sim=0.667)"
+    ],
+    "nick-jr": [
+      "tmdb set: 139142 ('Nick Jr. Productions', sim=0.571)"
+    ],
+    "nickelodeon-studios": [
+      "tmdb 5371 (sim=0.762) → 272153 (sim=0.826, name='Nickelodeon Studios Florida', oc=)"
+    ],
+    "nicktoons": [
+      "tmdb set: 67245 ('Nicktoons Productions', sim=0.6)"
+    ],
+    "niconico": [
+      "tmdb set: 10814 ('Icónica', sim=0.4)"
+    ],
+    "nine": [
+      "tmdb set: 116599 ('LINE', sim=0.75)"
+    ],
+    "nine-network": [
+      "tmdb 40235 (sim=0.706) → 120108 (sim=0.923, name='Engine Network', oc=JP)",
+      "country 'AU' → 'JP' (TMDB id 120108)"
+    ],
+    "nkt": [
+      "tmdb set: 34812 ('KT', sim=0.8)"
+    ],
+    "norddeutscher-rundfunk-ndr": [
+      "tmdb set: 7201 ('NDR', sim=0.16)"
+    ],
+    "oab": [
+      "tmdb set: 197643 ('OA', sim=0.8)"
+    ],
+    "one-hd": [
+      "tmdb set: 235063 ('One 31', sim=0.667)"
+    ],
+    "onf": [
+      "tmdb set: 293226 ('On', sim=0.8)"
+    ],
+    "ora-tv": [
+      "tmdb 106177 (sim=0.769) → 77282 (sim=0.857, name='Korea tv', oc=)"
+    ],
+    "orange-cin-ma-s-ries": [
+      "tmdb set: 11620 ('OCS', sim=0.261)"
+    ],
+    "p-of-a-productions-limited": [
+      "tmdb set: 19092 ('P of A Productions', sim=0.818)"
+    ],
+    "paramount-network": [
+      "tmdb set: 161449 ('Paramount Network España', sim=0.829)"
+    ],
+    "pbs": [
+      "tmdb set: 124017 ('PBS', sim=0.167)"
+    ],
+    "peacock": [
+      "tmdb set: 274775 ('Peacock Jams', sim=0.737)"
+    ],
+    "persky-bright": [
+      "tmdb set: 29119 ('Devon/Persky-Bright', sim=0.812)"
+    ],
+    "pierce": [
+      "tmdb set: 41390 ('ERCE', sim=0.8)"
+    ],
+    "pixar": [
+      "tmdb set: 3 ('Pixar', sim=0.357)"
+    ],
+    "prime-video": [
+      "tmdb 188671 (sim=0.759) → 30679 (sim=0.909, name='Pride Video', oc=GB)",
+      "country 'US' → 'GB' (TMDB id 30679)"
+    ],
+    "programme-media-de-la-communaut-europ-enne": [
+      "tmdb set: 21972 ('Media Programme of the European Community', sim=0.524)",
+      "country 'EU' → 'BE' (TMDB id 21972)"
+    ],
+    "puhutv": [
+      "tmdb set: 112272 ('PSUtv', sim=0.727)"
+    ],
+    "push": [
+      "tmdb set: 146669 ('Pusher', sim=0.8)"
+    ],
+    "radiotelevisi-valenciana": [
+      "tmdb set: 121972 ('À Punt', sim=0.065)"
+    ],
+    "rai": [
+      "tmdb set: 1583 ('RAI', sim=0.176)"
+    ],
+    "rankin": [
+      "tmdb set: 236543 ('frankie', sim=0.769)"
+    ],
+    "rastar-pictures": [
+      "tmdb 226296 (sim=0.667) → 175222 (sim=1.0, name='RASTAR', oc=CN)",
+      "country 'US' → 'CN' (TMDB id 175222)"
+    ],
+    "rbc": [
+      "tmdb set: 178214 ('BC', sim=0.8)"
+    ],
+    "rcc": [
+      "tmdb set: 1048 ('CC', sim=0.8)"
+    ],
+    "rctv": [
+      "tmdb set: 93259 ('RCTV', sim=0.229)"
+    ],
+    "right": [
+      "tmdb set: 246380 ('light', sim=0.8)"
+    ],
+    "rkb": [
+      "tmdb set: 2067 ('RBB', sim=0.667)"
+    ],
+    "rkc": [
+      "tmdb set: 276943 ('RKP', sim=0.667)"
+    ],
+    "rkk": [
+      "tmdb set: 276943 ('RKP', sim=0.667)"
+    ],
+    "rnb": [
+      "tmdb set: 2067 ('RBB', sim=0.667)"
+    ],
+    "rnc": [
+      "tmdb set: 246922 ('NRC', sim=0.667)"
+    ],
+    "romanski": [
+      "tmdb set: 112445 ('Falconer/Romanski', sim=0.64)"
+    ],
+    "ronald-shusett": [
+      "tmdb set: 276267 ('Ronald Shusett Productions', sim=0.7)"
+    ],
+    "rose": [
+      "tmdb set: 43913 ('ROSG', sim=0.75)"
+    ],
+    "rosenzweig-films": [
+      "tmdb set: 77471 ('Gaeta / Rosenzweig Films', sim=0.8)"
+    ],
+    "rte": [
+      "tmdb set: 1923 ('RTÉ', sim=0.188)"
+    ],
+    "russ-smith": [
+      "tmdb set: 260720 ('Russ Smith/Gary Sinise Productions', sim=0.455)"
+    ],
+    "s-a": [
+      "tmdb set: 169927 ('ATP S.A.', sim=0.667)"
+    ],
+    "sabesp": [
+      "tmdb 131617 (sim=0.667) → 209184 (sim=0.8, name='SASP', oc=)"
+    ],
+    "saga-tv": [
+      "tmdb set: 186971 ('Sigma TV', sim=0.8)"
+    ],
+    "sbs-2": [
+      "tmdb set: 45531 ('SBS', sim=0.194)"
+    ],
+    "sbs-tv": [
+      "tmdb set: 126231 ('RBS TV', sim=0.833)"
+    ],
+    "schweizer-radio-und-fernsehen": [
+      "tmdb set: 42145 ('SRF', sim=0.188)"
+    ],
+    "screen-ireland": [
+      "tmdb set: 237977 ('Screen Skills Ireland', sim=0.8)"
+    ],
+    "screen-media": [
+      "tmdb 6353 (sim=0.8) → 7712 (sim=1.0, name='Screen Media', oc=HK)",
+      "country 'US' → 'HK' (TMDB id 7712)"
+    ],
+    "sesame-street": [
+      "tmdb set: 3673 ('Sesame Workshop', sim=0.571)"
+    ],
+    "shinchosha-publishing-co": [
+      "tmdb set: 12521 ('Shinchosha Company', sim=0.605)"
+    ],
+    "shochiku": [
+      "tmdb 104798 (sim=0.667) → 75227 (sim=0.878, name='Shochiku Eizo Co., Ltd.', oc=)"
+    ],
+    "simon": [
+      "tmdb set: 46953 ('Limon', sim=0.8)"
+    ],
+    "sky-one": [
+      "tmdb set: 81890 ('Skyline', sim=0.714)"
+    ],
+    "soisson": [
+      "tmdb set: 94579 ('Poison', sim=0.769)"
+    ],
+    "sonnenfeld": [
+      "tmdb set: 142384 ('Sonnenfeld Productions, Inc.', sim=0.526)"
+    ],
+    "sound-box": [
+      "tmdb set: 6990 ('Black Box Sound and Image', sim=0.353)"
+    ],
+    "spin-master-entertainment": [
+      "tmdb set: 71738 ('Spin Master', sim=0.611)"
+    ],
+    "starger": [
+      "tmdb set: 38735 ('Starr', sim=0.833)"
+    ],
+    "stuber": [
+      "tmdb set: 294727 ('STUBRU', sim=0.833)"
+    ],
+    "sullivan-bluth-studios": [
+      "tmdb set: 211615 ('Don Bluth Ireland', sim=0.462)"
+    ],
+    "sundancetv": [
+      "tmdb 181515 (sim=0.727) → 40473 (sim=1.0, name='SundanceTV', oc=)"
+    ],
+    "techno-sound": [
+      "tmdb set: 138329 ('Shengying Animation', sim=0.129)"
+    ],
+    "teletama": [
+      "tmdb set: 131227 ('TÉLÉRAMA', sim=0.625)"
+    ],
+    "televisi-n-de-galicia": [
+      "tmdb set: 267974 ('Televisión de Galicia (TVG) S.A.', sim=0.792)"
+    ],
+    "the-affleck": [
+      "tmdb set: 72695 ('The Affleck/Middleton Project', sim=0.55)"
+    ],
+    "the-department-of-trade": [
+      "tmdb set: 297938 ('The Department of Trade and Industry', sim=0.78)"
+    ],
+    "the-history-channel": [
+      "tmdb set: 234381 ('The History Channel (AU)', sim=0.755)"
+    ],
+    "the-kennedy": [
+      "tmdb set: 862 ('The Kennedy/Marshall Company', sim=0.564)"
+    ],
+    "the-levinson": [
+      "tmdb set: 56387 ('The Levinson/Fontana Company', sim=0.6)"
+    ],
+    "the-zanuck": [
+      "tmdb set: 80 ('The Zanuck Company', sim=0.714)"
+    ],
+    "timberman": [
+      "tmdb set: 23829 ('Timberman/Beverly Productions', sim=0.474)"
+    ],
+    "tnc": [
+      "tmdb set: 23393 ('TNF', sim=0.667)"
+    ],
+    "todman": [
+      "tmdb set: 173129 ('tomax', sim=0.727)"
+    ],
+    "toho-company-ltd": [
+      "tmdb set: 882 ('TOHO', sim=0.364)"
+    ],
+    "toho-pictures-inc": [
+      "tmdb set: 49301 ('Toho Pictures', sim=0.812)"
+    ],
+    "tohokushinsha-film": [
+      "tmdb set: 1780 ('TFC', sim=0.19)"
+    ],
+    "tohokushinsha-film-corporation": [
+      "tmdb set: 1780 ('TFC', sim=0.182)"
+    ],
+    "tokyo-broadcasting-system": [
+      "tmdb set: 1393 ('TBS', sim=0.154)"
+    ],
+    "tollin": [
+      "tmdb set: 139386 ('Rolling', sim=0.769)"
+    ],
+    "tom-desanto": [
+      "tmdb set: 38831 ('DeSanto/Murphy Productions', sim=0.378)"
+    ],
+    "tom-desanto-don-murphy-production": [
+      "tmdb set: 38831 ('DeSanto/Murphy Productions', sim=0.787)"
+    ],
+    "tomy": [
+      "tmdb set: 11644 ('Tomy', sim=0.364)"
+    ],
+    "toon-disney": [
+      "tmdb set: 5391 ('DisneyToon Studios', sim=0.414)"
+    ],
+    "tower-of-babble-entertainment": [
+      "tmdb set: 172892 ('Tower of Babble', sim=0.682)"
+    ],
+    "tsb": [
+      "tmdb set: 246443 ('TS', sim=0.8)"
+    ],
+    "tsc": [
+      "tmdb set: 246443 ('TS', sim=0.8)"
+    ],
+    "tsk": [
+      "tmdb set: 246443 ('TS', sim=0.8)"
+    ],
+    "tuf": [
+      "tmdb set: 23393 ('TNF', sim=0.667)"
+    ],
+    "tuy": [
+      "tmdb set: 267133 ('TUI', sim=0.667)"
+    ],
+    "tv-kumamoto": [
+      "tmdb set: 141954 ('Kumamoto Kenmin Televisions', sim=0.435)"
+    ],
+    "tv-land": [
+      "tmdb set: 138678 ('CM Land', sim=0.714)"
+    ],
+    "tvn": [
+      "tmdb set: 297317 ('Ten Pound Toons', sim=0.519)"
+    ],
+    "tvq": [
+      "tmdb set: 981 ('TVE', sim=0.667)"
+    ],
+    "tys": [
+      "tmdb set: 246443 ('TS', sim=0.8)"
+    ],
+    "ufa-cinema": [
+      "tmdb set: 12372 ('UFA', sim=0.231)"
+    ],
+    "universum-film-ufa": [
+      "tmdb set: 811 ('Universum Film', sim=0.824)"
+    ],
+    "univision": [
+      "tmdb 247878 (sim=0.692) → 296984 (sim=0.889, name='NIOVISION', oc=)"
+    ],
+    "upn": [
+      "tmdb set: 13082 ('UPN', sim=0.182)"
+    ],
+    "uty": [
+      "tmdb set: 82797 ('UTC', sim=0.667)"
+    ],
+    "virtual-films": [
+      "tmdb 212106 (sim=0.629) → 2366 (sim=1.0, name='Virtual Films', oc=)"
+    ],
+    "wade": [
+      "tmdb set: 186625 ('UADE', sim=0.75)"
+    ],
+    "warner-horizon-unscripted-alternative-television": [
+      "tmdb set: 115672 ('Warner Horizon Unscripted Television', sim=0.837)"
+    ],
+    "waterman-productions": [
+      "tmdb set: 58331 ('Franklin/Waterman Productions', sim=0.816)"
+    ],
+    "witt": [
+      "tmdb set: 188826 ('WITF', sim=0.75)"
+    ],
+    "woods": [
+      "tmdb set: 135712 ('GOODS', sim=0.8)"
+    ],
+    "xbox-video": [
+      "tmdb set: 176225 ('Fox Video', sim=0.842)"
+    ],
+    "ybs": [
+      "tmdb set: 196735 ('YB', sim=0.8)"
+    ],
+    "yle": [
+      "tmdb set: 5975 ('YLE', sim=0.316)"
+    ],
+    "zadan": [
+      "tmdb set: 111795 ('Z-Dan', sim=0.8)"
+    ],
+    "zweites-deutsches-fernsehen-zdf": [
+      "tmdb set: 4606 ('ZDF', sim=0.167)"
+    ]
+  }
+}

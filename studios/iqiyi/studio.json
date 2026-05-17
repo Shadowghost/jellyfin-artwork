@@ -23,10 +23,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "iQIYI"
-    ]
+    ],
+    "template": true
   }
 ]

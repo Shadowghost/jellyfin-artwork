@@ -9,10 +9,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Disney Channel (YouTube)"
-    ]
+    ],
+    "template": true
   }
 ]

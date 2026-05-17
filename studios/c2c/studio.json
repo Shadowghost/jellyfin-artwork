@@ -9,10 +9,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "C2C (Czech television channel)"
-    ]
+    ],
+    "template": true
   }
 ]

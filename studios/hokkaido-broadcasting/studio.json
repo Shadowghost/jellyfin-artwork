@@ -15,10 +15,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Hokkaido Broadcasting Co., Ltd."
-    ]
+    ],
+    "template": true
   }
 ]

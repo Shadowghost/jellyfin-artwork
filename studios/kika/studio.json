@@ -9,10 +9,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "KiKA (Der Kinderkanal von ARD und ZDF)"
-    ]
+    ],
+    "template": true
   }
 ]

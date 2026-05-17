@@ -14,10 +14,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Hengdian World Studios"
-    ]
+    ],
+    "template": true
   }
 ]

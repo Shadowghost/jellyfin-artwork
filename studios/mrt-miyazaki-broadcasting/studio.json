@@ -9,10 +9,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Miyazaki Broadcasting Company"
-    ]
+    ],
+    "template": true
   }
 ]

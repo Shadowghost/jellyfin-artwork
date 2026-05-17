@@ -16,10 +16,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "The Yomiuri Shimbun"
-    ]
+    ],
+    "template": true
   }
 ]

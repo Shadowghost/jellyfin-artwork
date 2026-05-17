@@ -17,10 +17,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "NZ On Air"
-    ]
+    ],
+    "template": true
   }
 ]

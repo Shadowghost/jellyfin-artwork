@@ -14,10 +14,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "NHK (Japan Broadcasting Corporation)"
-    ]
+    ],
+    "template": true
   }
 ]

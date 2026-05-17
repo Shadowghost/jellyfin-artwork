@@ -16,10 +16,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Television Shin-Hiroshima System"
-    ]
+    ],
+    "template": true
   }
 ]

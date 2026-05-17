@@ -9,10 +9,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Radio-télévision belge de la Communauté française"
-    ]
+    ],
+    "template": true
   }
 ]

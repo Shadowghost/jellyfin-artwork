@@ -16,10 +16,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "20th Television Animation"
-    ]
+    ],
+    "template": true
   }
 ]

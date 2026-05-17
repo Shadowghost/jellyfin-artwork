@@ -15,10 +15,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "DNA Productions"
-    ]
+    ],
+    "template": true
   }
 ]

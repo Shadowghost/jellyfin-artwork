@@ -24,10 +24,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "British Broadcasting Corporation (BBC)"
-    ]
+    ],
+    "template": true
   }
 ]

@@ -16,10 +16,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "MTV Entertainment Studios"
-    ]
+    ],
+    "template": true
   }
 ]

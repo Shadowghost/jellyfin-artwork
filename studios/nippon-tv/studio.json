@@ -17,11 +17,16 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Nippon Television Network Corporation",
       "NIPPON TV"
-    ]
+    ],
+    "template": true
   }
 ]

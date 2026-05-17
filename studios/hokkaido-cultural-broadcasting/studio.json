@@ -9,10 +9,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Hokkaido Cultural Broadcasting Co., Ltd."
-    ]
+    ],
+    "template": true
   }
 ]

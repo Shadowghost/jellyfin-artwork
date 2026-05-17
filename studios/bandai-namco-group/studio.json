@@ -20,10 +20,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Bandai Namco Holdings"
-    ]
+    ],
+    "template": true
   }
 ]

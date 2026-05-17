@@ -15,10 +15,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Interscope Communications"
-    ]
+    ],
+    "template": true
   }
 ]

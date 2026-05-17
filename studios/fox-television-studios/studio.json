@@ -16,10 +16,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Fox 21 Television Studios"
-    ]
+    ],
+    "template": true
   }
 ]

@@ -20,10 +20,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "PBS (Public Broadcasting Service)"
-    ]
+    ],
+    "template": true
   }
 ]

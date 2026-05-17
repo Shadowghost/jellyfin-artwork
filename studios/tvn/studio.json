@@ -14,11 +14,16 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "TVN (Poland)",
       "TVN"
-    ]
+    ],
+    "template": true
   }
 ]

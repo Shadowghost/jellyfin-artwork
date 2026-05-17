@@ -22,10 +22,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Bandai Namco Entertainment"
-    ]
+    ],
+    "template": true
   }
 ]

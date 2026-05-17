@@ -9,10 +9,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "SoftBank Ventures Asia"
-    ]
+    ],
+    "template": true
   }
 ]

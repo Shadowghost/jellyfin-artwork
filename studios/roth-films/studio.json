@@ -16,10 +16,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Roth/Kirschenbaum Films"
-    ]
+    ],
+    "template": true
   }
 ]

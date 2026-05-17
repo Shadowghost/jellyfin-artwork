@@ -17,10 +17,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Department of Trade, Industry and Competition (South Africa)"
-    ]
+    ],
+    "template": true
   }
 ]

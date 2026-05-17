@@ -17,10 +17,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Prince Albert II of Monaco Foundation"
-    ]
+    ],
+    "template": true
   }
 ]

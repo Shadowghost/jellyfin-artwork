@@ -16,10 +16,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "TV Setouchi Broadcasting"
-    ]
+    ],
+    "template": true
   }
 ]

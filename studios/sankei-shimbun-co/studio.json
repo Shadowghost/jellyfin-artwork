@@ -15,10 +15,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Sankei Shimbun Co., Ltd."
-    ]
+    ],
+    "template": true
   }
 ]

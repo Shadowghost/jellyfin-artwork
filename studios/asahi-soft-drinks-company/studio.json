@@ -15,10 +15,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Asahi Soft Drinks Co., Ltd."
-    ]
+    ],
+    "template": true
   }
 ]

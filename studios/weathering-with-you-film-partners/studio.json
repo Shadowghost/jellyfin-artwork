@@ -14,10 +14,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Weathering with You Film Partners"
-    ]
+    ],
+    "template": true
   }
 ]

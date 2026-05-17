@@ -16,10 +16,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Chukyo TV Broadcasting Company"
-    ]
+    ],
+    "template": true
   }
 ]

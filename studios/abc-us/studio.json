@@ -27,10 +27,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "ABC (American Broadcasting Company)"
-    ]
+    ],
+    "template": true
   }
 ]

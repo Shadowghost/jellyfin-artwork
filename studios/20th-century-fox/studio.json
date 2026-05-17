@@ -27,10 +27,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "20th Century Studios"
-    ]
+    ],
+    "template": true
   }
 ]

@@ -17,10 +17,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "RatPac Entertainment"
-    ]
+    ],
+    "template": true
   }
 ]

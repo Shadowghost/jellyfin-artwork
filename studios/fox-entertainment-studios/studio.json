@@ -15,10 +15,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Fox Entertainment Studios"
-    ]
+    ],
+    "template": true
   }
 ]

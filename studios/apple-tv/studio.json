@@ -19,10 +19,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Apple TV"
-    ]
+    ],
+    "template": true
   }
 ]

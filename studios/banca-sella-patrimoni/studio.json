@@ -9,10 +9,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Banca Patrimoni Sella & C."
-    ]
+    ],
+    "template": true
   }
 ]

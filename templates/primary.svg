@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Reference template — 1:1 primary (primary.svg, square logo card)
+  Canvas:    1024 x 1024 px
+  Safe area: 832 x 832 px (96px inset)
+  Background must hit WCAG AA contrast (>=4.5:1) against logo content.
+  See templates/README.md for alignment instructions.
+-->
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1024 1024"
+     width="1024" height="1024"
+     role="img" aria-label="Jellyfin artwork template (1024x1024 / 1:1)">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#2a2a2a" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+
+  <!-- Canvas -->
+  <rect width="1024" height="1024" fill="#1a1a1a"/>
+  <rect width="1024" height="1024" fill="url(#grid)"/>
+
+  <!-- Outer hairline border (canvas edge) -->
+  <rect x="0.5" y="0.5" width="1023" height="1023" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+
+  <!-- Safe area — 96px inset on every side -->
+  <rect x="96" y="96" width="832" height="832"
+        fill="none" stroke="#4cc4ff" stroke-width="2" stroke-dasharray="10 6"/>
+
+  <!-- Center crosshair -->
+  <line x1="512" y1="96"  x2="512" y2="928" stroke="#4cc4ff" stroke-width="1" stroke-dasharray="2 4" opacity="0.6"/>
+  <line x1="96"  y1="512" x2="928" y2="512" stroke="#4cc4ff" stroke-width="1" stroke-dasharray="2 4" opacity="0.6"/>
+  <circle cx="512" cy="512" r="6" fill="none" stroke="#4cc4ff" stroke-width="1.5"/>
+  <circle cx="512" cy="512" r="1.5" fill="#4cc4ff"/>
+
+  <!-- Rule-of-thirds markers -->
+  <g fill="#4cc4ff" opacity="0.55">
+    <circle cx="373.33" cy="373.33" r="2.5"/>
+    <circle cx="650.67" cy="373.33" r="2.5"/>
+    <circle cx="373.33" cy="650.67" r="2.5"/>
+    <circle cx="650.67" cy="650.67" r="2.5"/>
+  </g>
+
+  <!-- Labels -->
+  <g font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" fill="#e0e0e0">
+    <text x="16" y="32" font-size="16" font-weight="600">1024 × 1024 · 1:1</text>
+    <text x="1008" y="32" font-size="13" text-anchor="end" fill="#888">primary</text>
+    <text x="512" y="1000" font-size="13" text-anchor="middle" fill="#4cc4ff">
+      SAFE AREA · 832 × 832 · 96 px inset
+    </text>
+  </g>
+</svg>

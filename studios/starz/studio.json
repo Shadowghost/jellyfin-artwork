@@ -27,10 +27,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "STARZ"
-    ]
+    ],
+    "template": true
   }
 ]

@@ -24,10 +24,15 @@
       "logo": [
         "svg",
         "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
       ]
     },
     "aka": [
       "Pixar Animation Studios"
-    ]
+    ],
+    "template": true
   }
 ]
