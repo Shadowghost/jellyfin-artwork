@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FOD",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "206967"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

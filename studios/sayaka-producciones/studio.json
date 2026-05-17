@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Sayaka Producciones",
+    "country": "ES",
+    "homepage": "http://www.sayaka.es/",
+    "headquarters": "Bilbao, Biscay",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7344",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wSPFwK4I42Z63YWcuTzcq8e4dhw.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

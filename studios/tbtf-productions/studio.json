@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TBTF Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116102"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

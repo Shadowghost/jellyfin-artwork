@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Park Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74172"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

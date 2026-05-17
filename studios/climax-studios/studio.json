@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Climax Studios",
+    "country": "KR",
+    "homepage": "https://www.sll.co.kr/",
+    "headquarters": "Gangnam, Seoul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127541",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Aq35mXuZv7lhPm8a60YKRaB9Vek.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Teleclub",
+    "description": "Swiss pay-TV network owned by Swisscom; first pay-TV service in German-speaking Europe, rebranded under the 'blue' brand in 2020.",
+    "country": "CH",
+    "type": "cable-network",
+    "homepage": "https://www.teleclub.ch",
+    "headquarters": "Zürich, Switzerland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26027",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sHNTPJu0ePn5PqHRcA6nncNWN0L.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

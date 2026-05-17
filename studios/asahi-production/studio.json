@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Asahi Production",
+    "description": "Japanese animation studio that has worked on numerous anime productions as a subcontractor and primary producer.",
+    "country": "JP",
+    "type": "production-company",
+    "homepage": "http://www.asahi-pro.co.jp",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14969",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jwTtvhoCesywogszy79x84Y8Ihh.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "FJ Productions",
+    "country": "US",
+    "homepage": "http://www.fjproducoes.com",
+    "headquarters": "Los Angeles, California, USA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17090",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jBySWM1rnLX2oZ8bXImCGqAB4pr.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

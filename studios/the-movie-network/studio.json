@@ -1,0 +1,22 @@
+[
+  {
+    "name": "The Movie Network",
+    "description": "Canadian English-language premium discretionary television channel; rebranded as Crave in 2016.",
+    "country": "CA",
+    "type": "cable-network",
+    "homepage": "http://www.themovienetwork.ca/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "808",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4L1apH72jCx6Z5qyH7UOJUDlRoF.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

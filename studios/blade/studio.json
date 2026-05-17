@@ -1,0 +1,20 @@
+[
+  {
+    "name": "BLADE",
+    "country": "JP",
+    "homepage": "http://tap-blade.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "132732",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2EjSQXmUMKu697cIhWosbgo7lEA.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Kan",
+    "country": "IL",
+    "homepage": "https://www.kan.org.il",
+    "headquarters": "Jerusalem",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116016",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yrrmF7zlFFJAiCGOTdp8LDv8ZRH.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

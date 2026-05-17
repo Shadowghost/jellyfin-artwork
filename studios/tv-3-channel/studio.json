@@ -1,0 +1,21 @@
+[
+  {
+    "name": "TV-3 Channel",
+    "country": "RU",
+    "homepage": "https://tv3.ru/",
+    "headquarters": "Moscow, Russia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113708",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cZQdS8LJGgGQuimc0eqM9OazDzO.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

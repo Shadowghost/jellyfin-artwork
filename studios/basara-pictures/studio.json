@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Basara Pictures",
+    "country": "JP",
+    "homepage": "https://www.locationfilmingjapan.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17337"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

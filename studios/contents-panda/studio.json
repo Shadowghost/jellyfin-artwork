@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Contents Panda",
+    "country": "KR",
+    "homepage": "https://its-new.co.kr/contentspanda/",
+    "headquarters": "Gangnam, Seoul, South Korea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73918",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lnHDA1Fnpdjbg6fUF4gpneeAdf1.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "BCDF Pictures",
+    "country": "US",
+    "homepage": "http://bcdfpictures.com",
+    "headquarters": "Kerhonkson, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10290",
+        "logo_uri": "https://image.tmdb.org/t/p/original/imFSHWEIgpk3YjqIMxafZ6BYT9H.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

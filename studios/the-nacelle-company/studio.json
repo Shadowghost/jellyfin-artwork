@@ -1,0 +1,21 @@
+[
+  {
+    "name": "The Nacelle Company",
+    "country": "US",
+    "homepage": "https://www.nacellecompany.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125457",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uE98vkkN0GVgAAT9p58PXS5WjYy.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Automatik Entertainment",
+    "country": "US",
+    "headquarters": "Los Angeles",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7625",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kzq4ibnNeZrp00zpBWv3st1QCOh.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

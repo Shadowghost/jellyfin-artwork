@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Broadway Video",
+    "country": "US",
+    "homepage": "http://broadwayvideo.com/",
+    "headquarters": "New York City, New York, United States",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1756",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d7YyNzysIF0lSb4lJRf1ar6MHxi.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Tongal",
+    "country": "US",
+    "homepage": "https://tongal.com",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116054",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9FTZXrzoLneV96DwELwp4UWo0Aj.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

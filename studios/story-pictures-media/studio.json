@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Story & Pictures Media",
+    "country": "KR",
+    "headquarters": "Jongno, Seoul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115714"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Kingdom Story Company",
+    "country": "US",
+    "homepage": "https://www.kingdomstorycompany.com/",
+    "headquarters": "Nashville, Tennessee",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144002",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k1uzQeFSgzGuiyoxfjbPZF9ofAz.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

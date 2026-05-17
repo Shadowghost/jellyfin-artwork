@@ -1,0 +1,23 @@
+[
+  {
+    "name": "DeAPlaneta",
+    "description": "Spanish entertainment company involved in film distribution, production, and licensing, joint venture between De Agostini and Planeta.",
+    "country": "ES",
+    "type": "production-company",
+    "homepage": "https://www.deaplaneta.com",
+    "headquarters": "Barcelona",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123175",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sZLr9ow0nZa2cxzkzcj816JyCkD.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

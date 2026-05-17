@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Headgear",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7123"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

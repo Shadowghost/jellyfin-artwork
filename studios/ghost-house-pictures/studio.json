@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Ghost House Pictures",
+    "country": "US",
+    "homepage": "http://www.ghosthousepictures.com",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "768",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mh0PD5vYwRIL5FoN9vgF2ULokSV.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

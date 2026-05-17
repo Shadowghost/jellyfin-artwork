@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Microsoft Corporation",
+    "description": "American multinational technology corporation; in media context, parent of Xbox Game Studios and Microsoft Studios productions.",
+    "country": "US",
+    "type": "other",
+    "homepage": "https://www.microsoft.com",
+    "headquarters": "Redmond, Washington",
+    "colors": [
+      {
+        "name": "Red",
+        "hex": "#F25022"
+      },
+      {
+        "name": "Green",
+        "hex": "#7FBA00"
+      },
+      {
+        "name": "Blue",
+        "hex": "#00A4EF"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#FFB900"
+      },
+      {
+        "name": "Gray",
+        "hex": "#737373"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5133",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w1rPVDtglPKhYeyqXAHwtvpuS6q.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

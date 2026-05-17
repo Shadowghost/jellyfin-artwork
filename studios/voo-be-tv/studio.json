@@ -1,0 +1,19 @@
+[
+  {
+    "name": "VOO & Be tv",
+    "country": "BE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119267",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b9Gw1Oz0d7rdxmpbJPQC0zQpmxw.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

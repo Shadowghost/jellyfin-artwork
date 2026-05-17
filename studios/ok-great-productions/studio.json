@@ -1,0 +1,19 @@
+[
+  {
+    "name": "OK Great Productions",
+    "country": "AU",
+    "headquarters": "Preston, Melbourne, Victoria",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199249"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

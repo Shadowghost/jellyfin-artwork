@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Bitter Boy Productions",
+    "country": "CA",
+    "homepage": "http://www.bitterboyproductions.com/",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134397",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uDJVuEy1EB3uZCEZpcEb7YEMDC4.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

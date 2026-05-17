@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Frakas Productions",
+    "country": "BE",
+    "homepage": "https://www.frakas.be",
+    "headquarters": "Liège",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49473",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d0Cld16NzSAizrXfO6jrN3nH6az.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

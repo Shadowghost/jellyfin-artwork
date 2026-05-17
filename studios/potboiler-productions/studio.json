@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Potboiler Productions",
+    "country": "GB",
+    "homepage": "https://potboiler.co.uk",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "834",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zsmK0tDOgvWJiBxuxOHUyJL8W7J.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

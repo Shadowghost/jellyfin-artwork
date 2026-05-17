@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mandarin SAS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38586"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

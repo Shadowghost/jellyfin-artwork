@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Vertigo Productions",
+    "description": "American film production company founded by Roy Lee and Doug Davison, known for remakes of Asian horror films and titles such as The Lego Movie and It.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "829",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iJo9zP5QCKyBsmKSOcvXd6UDNih.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Vertigo Entertainment"
+    ]
+  }
+]

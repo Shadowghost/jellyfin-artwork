@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gaeta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181512"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

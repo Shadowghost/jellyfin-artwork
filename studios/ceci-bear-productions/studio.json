@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ceci Bear Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241861"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

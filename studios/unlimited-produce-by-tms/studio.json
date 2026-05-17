@@ -1,0 +1,19 @@
+[
+  {
+    "name": "UNLIMITED PRODUCE by TMS",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172244",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lz8CdepJJMQiZZ9Cf192IZkGNAG.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

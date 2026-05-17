@@ -1,0 +1,20 @@
+[
+  {
+    "name": "ABC Family",
+    "description": "American pay television channel owned by Disney; rebranded from ABC Family to Freeform in 2016.",
+    "country": "US",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80382"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

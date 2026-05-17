@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Flying Bark Productions",
+    "description": "Australian animation studio based in Sydney, founded by Yoram Gross, known for Blinky Bill, The Woodlies, and animation work for major studios.",
+    "country": "AU",
+    "type": "studio",
+    "homepage": "https://www.flyingbark.com.au",
+    "headquarters": "Alexandria, New South Wales",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20187",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bYdzRm9r74bIWlSRKIWZeZyDBFD.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

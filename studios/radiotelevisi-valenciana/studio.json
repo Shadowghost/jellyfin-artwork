@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Radiotelevisió Valenciana",
+    "description": "Public broadcaster of the Valencian Community in Spain, operating the Canal Nou TV channels and Ràdio Nou; shut down in November 2013 after financial crisis layoffs.",
+    "country": "ES",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121972"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

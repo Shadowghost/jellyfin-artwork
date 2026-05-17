@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Nick Jr.",
+    "description": "American preschool-focused cable channel and programming block operated by Paramount's Nickelodeon group, originating as a daytime block on Nickelodeon in 1988.",
+    "country": "US",
+    "type": "cable-network",
+    "colors": [
+      {
+        "name": "Nick Jr. Orange",
+        "hex": "#F8971D"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139142"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

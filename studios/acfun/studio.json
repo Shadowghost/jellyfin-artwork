@@ -1,0 +1,26 @@
+[
+  {
+    "name": "AcFun",
+    "description": "Chinese video sharing website that hosts anime, comedy and gaming content with bullet-comment (danmaku) functionality; acquired by Kuaishou in 2018.",
+    "country": "CN",
+    "type": "streaming-service",
+    "colors": [
+      {
+        "name": "AcFun Orange",
+        "hex": "#FD4C5C"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73944"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

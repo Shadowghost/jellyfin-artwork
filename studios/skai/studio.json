@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Skai",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255210"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

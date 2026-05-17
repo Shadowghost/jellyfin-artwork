@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Chimney Sweden",
+    "country": "SE",
+    "homepage": "https://www.chimneygroup.com",
+    "headquarters": "Stockholm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3555",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5vgxuOmB1UX3t6tPv6TChQCbyXf.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

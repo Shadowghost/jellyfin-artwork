@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Mandalay Sports Media",
+    "country": "US",
+    "homepage": "http://www.mandalaysportsmedia.com/",
+    "headquarters": "New York City, New York, United States",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52242",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fZK0w7ghcoqMlLa28LNCoZLCnj5.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

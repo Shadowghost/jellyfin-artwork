@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Screen Gems",
+    "description": "American film production and distribution label of Sony Pictures, specializing in genre films, particularly horror and thrillers.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://euescreengems.com",
+    "headquarters": "Culver City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3287",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bz6GbCQQXGNE56LTW9dwgksW0Iw.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

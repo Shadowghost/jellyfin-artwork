@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Filmation Associates",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1506",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kn81D1txpA73a90z7CWJPvlP6iP.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

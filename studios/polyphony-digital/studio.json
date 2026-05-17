@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Polyphony Digital",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225008"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

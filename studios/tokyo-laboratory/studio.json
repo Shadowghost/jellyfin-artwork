@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Tokyo Laboratory",
+    "country": "JP",
+    "homepage": "https://www.tokyolab.co.jp/",
+    "headquarters": "Chofu, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104646",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sDwSLDMrl3KnM3RbRb6dhhzYBO1.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

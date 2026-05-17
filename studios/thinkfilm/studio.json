@@ -1,0 +1,26 @@
+[
+  {
+    "name": "thinkfilm",
+    "description": "Canadian-American independent film distribution company that handled US distribution of Oscar-winning Born into Brothels and Taxi to the Dark Side before collapsing in 2008.",
+    "country": "US",
+    "type": "distributor",
+    "homepage": "http://thinkfilm-inc.com",
+    "headquarters": "Washington, D.C.",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "446",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d9EQKqrGy25s61Bsh10nO0BfzPF.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "ThinkFilm"
+    ]
+  }
+]

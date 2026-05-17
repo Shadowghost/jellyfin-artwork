@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Rec Apocalypse AIE",
+    "country": "ES",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185355"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

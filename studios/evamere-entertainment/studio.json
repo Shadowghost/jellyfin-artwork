@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Evamere Entertainment",
+    "country": "US",
+    "homepage": "https://www.evamere.com/",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1550",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x619rncOG5mHdxtdTkRKnxO1Ux8.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

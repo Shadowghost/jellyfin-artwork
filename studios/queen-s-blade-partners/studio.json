@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Queen's Blade Partners",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76133"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

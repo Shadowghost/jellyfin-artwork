@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Radical Entertainment",
+    "description": "Canadian video game developer based in Vancouver, known for Prototype and The Simpsons: Hit & Run; closed by Activision in 2012.",
+    "country": "CA",
+    "type": "other",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283434"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

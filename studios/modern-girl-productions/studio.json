@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Modern Girl Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12221"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

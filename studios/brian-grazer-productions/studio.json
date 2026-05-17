@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Brian Grazer Productions",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187063"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

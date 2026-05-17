@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Metro Communications",
+    "description": "Independent media/production company; limited public information available.",
+    "country": "IL",
+    "type": "production-company",
+    "homepage": "https://www.metrocom.co.il",
+    "headquarters": "Tel-Aviv",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6475",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mYl70mLGBYjx56NRJfGLaL1DgE3.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

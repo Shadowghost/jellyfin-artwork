@@ -1,0 +1,21 @@
+[
+  {
+    "name": "ONF | NFB",
+    "country": "CA",
+    "homepage": "https://www.nfb.ca",
+    "headquarters": "Montreal, Quebec",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10473",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lMUDQZVtg8On4PAW5XFQPaQy6UK.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

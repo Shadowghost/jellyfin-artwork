@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Asahi Broadcasting Aomori",
+    "description": "Japanese commercial television broadcaster in Aomori Prefecture, affiliated with the All-Nippon News Network (ANN/TV Asahi).",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.aba-net.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280026",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d9M51Aen7LOFhUZzoOjJk7pAVLN.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

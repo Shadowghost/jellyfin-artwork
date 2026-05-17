@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Lightstorm Entertainment",
+    "description": "American film production company founded by director James Cameron and producer Lawrence Kasanoff.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "574",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8wdmrfGcDx3TJxYiiDksLzAW4pB.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

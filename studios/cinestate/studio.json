@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinestate",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231592"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

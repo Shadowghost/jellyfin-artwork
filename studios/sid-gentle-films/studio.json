@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Sid Gentle Films",
+    "country": "GB",
+    "homepage": "https://sidgentle.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75154",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mzpy9oXgcqM7btb0otdBMmPBKos.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

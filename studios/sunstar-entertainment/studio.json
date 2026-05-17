@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Sunstar Entertainment",
+    "country": "AU",
+    "homepage": "https://sunstarentertainment.com.au/",
+    "headquarters": "Sydney, Australia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50501",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ySFGl5qxxurlkvvXBPGTD1uQ2Zy.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

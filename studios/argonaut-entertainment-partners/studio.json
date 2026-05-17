@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Argonaut Entertainment Partners",
+    "country": "US",
+    "homepage": "https://www.argonautep.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138698"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

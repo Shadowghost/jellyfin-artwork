@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Spin Master",
+    "country": "CA",
+    "homepage": "https://www.spinmaster.com",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71738",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9SiK63A0hOmn3FiLCEqydtE1ZQW.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

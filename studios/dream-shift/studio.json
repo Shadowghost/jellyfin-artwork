@@ -1,0 +1,19 @@
+[
+  {
+    "name": "DREAM SHIFT",
+    "country": "JP",
+    "homepage": "https://dreamshift.themedia.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173006"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

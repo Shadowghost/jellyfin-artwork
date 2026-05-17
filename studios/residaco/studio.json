@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Residaco",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41658"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

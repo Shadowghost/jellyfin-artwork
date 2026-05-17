@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Nakamura Production",
+    "country": "JP",
+    "homepage": "http://www.nakamura-pro.com/",
+    "headquarters": "Toshima, Japan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135472",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2YeUWSZ9tEz6WjzTEoGs1D3Upjp.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

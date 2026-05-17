@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Real Film Berlin",
+    "country": "DE",
+    "homepage": "https://www.realfilm-berlin.de/",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83859",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bPo858SHmLWObfdWxnxr5nZ9RoV.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "STV",
+    "country": "SK",
+    "homepage": "https://www.stvr.sk/",
+    "headquarters": "Bratislava",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "284900"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

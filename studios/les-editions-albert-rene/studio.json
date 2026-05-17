@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Les Éditions Albert René",
+    "country": "FR",
+    "homepage": "https://www.asterix.com",
+    "headquarters": "Immeuble Louis Hachette, 58 rue Jean Bleuzen, 92178 Vanves",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20409",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4zc3s2aIeZQfUVxrhr2JJ7TyzFn.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

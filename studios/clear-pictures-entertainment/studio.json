@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Clear Pictures Entertainment",
+    "country": "US",
+    "homepage": "http://www.clearpicturesent.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50494"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

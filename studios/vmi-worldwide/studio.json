@@ -1,0 +1,21 @@
+[
+  {
+    "name": "VMI WorldWide",
+    "country": "US",
+    "homepage": "http://www.vmiworldwide.com/",
+    "headquarters": "Los Angeles, CA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121205",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f1oMMN9etU1sT6owkPDtxFH2yMA.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

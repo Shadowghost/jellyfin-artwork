@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Platinum Vision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116771"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

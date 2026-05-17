@@ -1,0 +1,20 @@
+[
+  {
+    "name": "BS Fuji",
+    "country": "JP",
+    "homepage": "https://www.bsfuji.tv",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "59206",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oMtJVGvqLAyQZvYTvjDIcbVEzwD.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

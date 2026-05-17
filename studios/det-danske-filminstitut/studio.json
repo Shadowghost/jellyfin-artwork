@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Det Danske Filminstitut",
+    "description": "The Danish national agency responsible for supporting and encouraging film and cinema culture in Denmark.",
+    "country": "DK",
+    "type": "government-agency",
+    "homepage": "https://www.dfi.dk/en",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AiBorgNTCS1lT1FdFPYheax9jfF.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

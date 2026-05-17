@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Municipal Pictures",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169668",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iGEtQO0W5H2PAgqjL0yubcbSgr4.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

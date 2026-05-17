@@ -1,0 +1,21 @@
+[
+  {
+    "name": "EMT²",
+    "country": "JP",
+    "homepage": "http://emt2.co.jp",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72366",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9ShQYSsnlzdsAYYEvVyVYnqv9yG.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

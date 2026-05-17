@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Altitude Film Sales",
+    "country": "GB",
+    "homepage": "http://www.altitudefilment.com/sales",
+    "headquarters": "London",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85170",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iy4CaQI06wU1XjuC2sPtxr40VRt.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

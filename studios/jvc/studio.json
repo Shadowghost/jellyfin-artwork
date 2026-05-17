@@ -1,0 +1,21 @@
+[
+  {
+    "name": "JVC",
+    "country": "JP",
+    "homepage": "https://www.jvc.net/",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1BPbXmwi1DZS1Qp0koK7AuponY6.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

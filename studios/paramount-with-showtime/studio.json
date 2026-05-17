@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Paramount+ with Showtime",
+    "description": "Premium tier of the Paramount+ streaming service that integrates Showtime content, launched in June 2023.",
+    "country": "US",
+    "type": "streaming-service",
+    "colors": [
+      {
+        "name": "Paramount Blue",
+        "hex": "#0064FF"
+      }
+    ],
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

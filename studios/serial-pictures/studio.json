@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Serial Pictures",
+    "country": "US",
+    "homepage": "https://serialpictures.com/",
+    "headquarters": "Nova York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210399",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eIpOCle8489hI2dUrElaCUlQVr3.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

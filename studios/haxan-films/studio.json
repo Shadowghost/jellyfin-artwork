@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Haxan Films",
+    "country": "US",
+    "homepage": "http://www.haxan.com/",
+    "headquarters": "Orlando, Florida",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15160",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nksfViwBwYdv73nkdn3Dk3OEINr.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Luna Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15361"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

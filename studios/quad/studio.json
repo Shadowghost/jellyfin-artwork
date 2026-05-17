@@ -1,0 +1,20 @@
+[
+  {
+    "name": "QUAD",
+    "country": "JP",
+    "homepage": "https://www.quad-inc.co.jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8017",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jx7ZBQk0AJeICaiMpHuE7qgXwqh.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

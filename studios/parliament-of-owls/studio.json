@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Parliament of Owls",
+    "country": "US",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128226",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sSeq4xKffiM9WgxAX9ayxtRi8cf.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

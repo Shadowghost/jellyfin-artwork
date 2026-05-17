@@ -1,0 +1,22 @@
+[
+  {
+    "name": "New Regency Productions",
+    "country": "US",
+    "parent_company": "Regency Enterprises",
+    "homepage": "https://www.newregency.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "490",
+        "logo_uri": "https://image.tmdb.org/t/p/original/80tMio7Jn0Zd0kOrLG5CKfq4G5i.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

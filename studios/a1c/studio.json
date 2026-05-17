@@ -1,0 +1,19 @@
+[
+  {
+    "name": "A1C",
+    "country": "JP",
+    "homepage": "http://www.a1c.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "136317"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

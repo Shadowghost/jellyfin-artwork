@@ -1,0 +1,20 @@
+[
+  {
+    "name": "The Documentary Group",
+    "country": "US",
+    "homepage": "http://thedocumentarygroup.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14078",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tjUiJTnsLYKkjySjtEOfMW1iXOw.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

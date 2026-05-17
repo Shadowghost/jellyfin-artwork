@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Millennium Films",
+    "description": "American independent film production and distribution company; producer of The Expendables franchise.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://millennium-media.net",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1020",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kuUIHNwMec4dwOLghDhhZJzHZTd.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Millennium Media"
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Toei Video Company",
+    "country": "JP",
+    "homepage": "https://www.toei.co.jp/dvd/index.html",
+    "headquarters": "Chuou, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9221",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7hEAueutGnsQUyUGnp5zQ1YmCrO.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bellpond Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81166"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

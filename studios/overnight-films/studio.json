@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Overnight Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10808"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

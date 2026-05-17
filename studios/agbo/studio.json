@@ -1,0 +1,23 @@
+[
+  {
+    "name": "AGBO",
+    "description": "American independent film and television production company founded by Anthony and Joe Russo, known for The Gray Man and Extraction.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.agbo.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106544",
+        "logo_uri": "https://image.tmdb.org/t/p/original/psd84iF7PTGrKf4yFOStKj8JbAh.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

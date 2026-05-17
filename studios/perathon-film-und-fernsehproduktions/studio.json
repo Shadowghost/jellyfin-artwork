@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Perathon Film-und Fernsehproduktions",
+    "country": "DE",
+    "headquarters": "Munich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23417"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

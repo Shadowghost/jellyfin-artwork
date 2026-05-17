@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zadan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111795"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

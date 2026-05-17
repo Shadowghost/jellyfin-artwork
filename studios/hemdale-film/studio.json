@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hemdale Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111627"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Maze Pictures",
+    "country": "DE",
+    "homepage": "http://maze-pictures.com",
+    "headquarters": "Munich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112609",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9lpuWYlMInFARjrNUhVAzBW2YzT.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "EC1 Łódź",
+    "country": "PL",
+    "homepage": "https://ec1lodz.pl",
+    "headquarters": "Łódź",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129370",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c7OFocnzGIZ86DrcNAzosYNssKZ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

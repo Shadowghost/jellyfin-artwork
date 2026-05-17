@@ -1,0 +1,20 @@
+[
+  {
+    "name": "ABC3",
+    "description": "Australian free-to-air children's/tween television channel operated by the ABC, originally launched as ABC3 in 2009 and rebranded ABC Me in 2016.",
+    "country": "AU",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159979"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Les films du Worso",
+    "country": "FR",
+    "homepage": "https://www.worso.com",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7395",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cGOGYYfbJZ1uJHynRIf8yj4phRn.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

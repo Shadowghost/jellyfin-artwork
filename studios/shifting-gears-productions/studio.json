@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Shifting Gears Productions",
+    "description": "American television production company; small or single-purpose production banner.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121671"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

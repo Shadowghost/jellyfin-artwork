@@ -1,0 +1,21 @@
+[
+  {
+    "name": "ForeFilms",
+    "country": "UA",
+    "homepage": "https://forefilms.com/",
+    "headquarters": "Kyiv",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158723",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mPkg6qBkOMe2tX9Ie70l5mrbR9H.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

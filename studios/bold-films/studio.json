@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Bold Films",
+    "description": "American film production and finance company based in Los Angeles, known for films including Drive, Whiplash, and Nightcrawler.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://boldfilms.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2266",
+        "logo_uri": "https://image.tmdb.org/t/p/original/owzVs2mguyyJ3vIn7EbgowpUPnk.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

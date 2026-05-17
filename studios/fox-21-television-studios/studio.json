@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Fox 21 Television Studios",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86063",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9Juyx6JYvie3Kx24PGCDfNRYp9Y.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

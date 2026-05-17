@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Mainichi Broadcasting System",
+    "description": "Japanese radio and television broadcaster headquartered in Osaka, key station of the Japan News Network and Japan Radio Network.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.mbs.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3363",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sj3vD7n63bTCih7bcf6GnWvRf1Q.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

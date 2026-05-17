@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Teletoon",
+    "description": "Canadian animated TV channel that operated from 1997-2023; rebranded by Corus to Cartoon Network in 2023.",
+    "country": "CA",
+    "type": "cable-network",
+    "homepage": "https://www.teletoon.com/",
+    "headquarters": "Toronto, Ontario, Canada",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19413",
+        "logo_uri": "https://image.tmdb.org/t/p/original/78EacZlixJJnlTrIlujvqRx7Wws.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

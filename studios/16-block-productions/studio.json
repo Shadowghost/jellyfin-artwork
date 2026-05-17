@@ -1,0 +1,17 @@
+[
+  {
+    "name": "16 Block Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10886"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

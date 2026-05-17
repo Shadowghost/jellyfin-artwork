@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Camera-Filmproduktion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30322"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

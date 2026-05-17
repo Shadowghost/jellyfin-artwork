@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Facing East Entertainment",
+    "country": "CN",
+    "homepage": "https://www.facing-east.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210311"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

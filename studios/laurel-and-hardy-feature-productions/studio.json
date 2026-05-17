@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Laurel and Hardy Feature Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19339"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Red Entertainment Corporation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98691"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Artland",
+    "country": "JP",
+    "headquarters": "Tokyo, Japan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58268",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4k796tdBrk2SNYe4nQL4Da81tZo.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

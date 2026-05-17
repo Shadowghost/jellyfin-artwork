@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Svenska Filminstitutet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180851"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

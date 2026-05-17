@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Fingerprint Releasing",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149869",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rtZmZ43SIYCRAD3CHZbhGUTzx5b.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

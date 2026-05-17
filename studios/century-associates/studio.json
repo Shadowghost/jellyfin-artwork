@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Century Associates",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "683"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

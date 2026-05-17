@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Warner Bros. Discovery",
+    "country": "US",
+    "homepage": "https://wbd.com",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198699",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7tIDWe5RVywCOFwS6juEXHHDgHq.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

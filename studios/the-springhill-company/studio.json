@@ -1,0 +1,22 @@
+[
+  {
+    "name": "The SpringHill Company",
+    "description": "American media and entertainment company founded by LeBron James and Maverick Carter, producer of Space Jam: A New Legacy and The Shop.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.springhillcompany.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "232733",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hR6J6MfuPi0Dy1B9eSdfVWOArOj.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

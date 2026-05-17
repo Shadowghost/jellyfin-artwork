@@ -1,0 +1,24 @@
+[
+  {
+    "name": "tvN",
+    "description": "Polish private free-to-air television channel and the flagship of TVN Group, owned by Warner Bros. Discovery; programs news, drama and entertainment.",
+    "country": "PL",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "297317"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "TVN (Poland)",
+      "TVN"
+    ]
+  }
+]

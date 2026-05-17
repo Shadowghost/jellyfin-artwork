@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Frenesy Film",
+    "country": "IT",
+    "homepage": "http://frenesyfilm.com",
+    "headquarters": "Crema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46344",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qpSdIjnGHiz6UNIQWGIJkDnG79l.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

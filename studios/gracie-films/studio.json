@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Gracie Films",
+    "description": "American film and television production company founded by James L. Brooks, producer of The Simpsons.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://www.graciefilms.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uqhagSwM7NAkQWVCQhKTyoqF8XH.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

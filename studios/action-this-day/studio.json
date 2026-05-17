@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Action This Day!",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "251307"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

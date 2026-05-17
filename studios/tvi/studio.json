@@ -1,0 +1,19 @@
+[
+  {
+    "name": "TVI",
+    "country": "PT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210942",
+        "logo_uri": "https://image.tmdb.org/t/p/original/10bG3Wt4Z0p2W1c2JkK2NGtBk6s.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Human Rights Foundation",
+    "description": "American non-profit non-governmental organization promoting and protecting human rights globally, particularly focused on closed societies; founded by Thor Halvorssen.",
+    "country": "US",
+    "type": "other",
+    "homepage": "https://hrf.org",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149650",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yIpHbPSpJuHSH7zaOIFSFfns0TR.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

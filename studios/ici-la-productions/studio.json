@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Ici & Là Productions",
+    "country": "FR",
+    "homepage": "http://www.icietlaproductions.com/",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85373",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u3XFajHA7BE1gZgZUAuyu2CvyDq.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

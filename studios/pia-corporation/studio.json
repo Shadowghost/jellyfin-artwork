@@ -1,0 +1,21 @@
+[
+  {
+    "name": "PIA Corporation",
+    "country": "JP",
+    "homepage": "https://t.pia.jp",
+    "headquarters": "Shibuya, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14981",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fIi2iU63SyDSIx6u61vERxlmsET.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

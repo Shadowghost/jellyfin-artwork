@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Bert Marcus Film",
+    "homepage": "http://bertmarcusfilms.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121391",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5KgJecIQtV3C0enwkOKIxXrCWup.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

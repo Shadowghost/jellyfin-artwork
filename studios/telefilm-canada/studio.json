@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Téléfilm Canada",
+    "country": "CA",
+    "homepage": "https://telefilm.ca/en",
+    "headquarters": "Montréal, Québec",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "806",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kcNh09qqR2Pkw1JAzRW4CommrW4.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

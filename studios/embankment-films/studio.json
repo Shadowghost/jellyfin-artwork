@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Embankment Films",
+    "country": "GB",
+    "homepage": "https://www.embankmentfilms.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86902",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uTXXIOJMikSZteOB6V284SDQer4.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

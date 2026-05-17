@@ -1,0 +1,22 @@
+[
+  {
+    "name": "20th Television",
+    "description": "American television production company and a subsidiary of Disney Television Studios, formerly known as 20th Century Fox Television.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21659",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uJhjhEJEPDoCSSOci44tYoe5BjZ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

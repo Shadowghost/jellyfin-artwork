@@ -1,0 +1,22 @@
+[
+  {
+    "name": "NRK1",
+    "description": "Flagship public-service television channel of NRK, the Norwegian state broadcaster; broadcasts news, drama, entertainment and sports.",
+    "country": "NO",
+    "type": "broadcast-network",
+    "homepage": "https://nrk.no/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109843",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iwkwIEXWIPApzedElW5sY8LFZSx.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FortyFour Studios",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93408"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

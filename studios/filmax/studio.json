@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Filmax",
+    "description": "Spanish film production and distribution company based in Barcelona, known for the [REC] horror franchise.",
+    "country": "ES",
+    "type": "production-company",
+    "homepage": "https://www.filmax.com",
+    "headquarters": "Barcelona, Catalonia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3631",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ttrj8O0KF5PbUoHamU2mTOLB6d9.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

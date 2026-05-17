@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Roadside Attractions",
+    "country": "US",
+    "homepage": "http://roadsideattractions.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "911",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bWlWGUKejrUflSFV2aRG4o98p1D.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

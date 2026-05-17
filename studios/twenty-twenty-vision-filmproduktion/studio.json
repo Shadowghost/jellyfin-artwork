@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Twenty Twenty Vision Filmproduktion",
+    "country": "DE",
+    "homepage": "http://www.twentytwentyvision.eu/",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32545",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oivNQ1dScP0yynYm10xGAkyBLSf.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

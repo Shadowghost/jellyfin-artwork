@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Bandai Namco Entertainment",
+    "country": "JP",
+    "homepage": "https://www.bandainamcoent.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12502",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tlBbCuZditAuvzDdIDjjnGLJUpc.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Cross Creek Pictures",
+    "country": "US",
+    "homepage": "http://crosscreekpictures.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10246",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rREvQNWAxkDfY9CDn2c5YxEMPdP.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

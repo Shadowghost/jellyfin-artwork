@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Medienfonds GFP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1637"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "St.Signpost",
+    "description": "Japanese production/marketing company associated with anime and media projects; limited public information available.",
+    "country": "JP",
+    "type": "production-company",
+    "homepage": "https://st-signpost.co.jp",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131714",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l3Zb2nm02NT91WBCCMBTMRbJYUT.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "ST Signpost"
+    ]
+  }
+]

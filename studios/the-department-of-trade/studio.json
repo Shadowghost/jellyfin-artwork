@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Department of Trade",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "297938"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

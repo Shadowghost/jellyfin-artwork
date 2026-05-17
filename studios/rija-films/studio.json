@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Rija Films",
+    "country": "LV",
+    "homepage": "https://www.rijafilms.com",
+    "headquarters": "Riga",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63198",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8rUh3lVPfF2mdfJU0a9BoHvvBUW.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

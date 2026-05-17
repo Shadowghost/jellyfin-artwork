@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Weying Galaxy Entertainment",
+    "country": "HK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93466"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

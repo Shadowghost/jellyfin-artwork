@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Tokyo FM",
+    "description": "Japanese FM radio station based in Tokyo, the flagship station of the Japan FM Network (JFN).",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "http://www.tfm.co.jp",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "569",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hOurQBeeFI4OTTdAEtvGflbJgXU.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

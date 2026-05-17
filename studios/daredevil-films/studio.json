@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DareDevil Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42373"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

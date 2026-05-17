@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Frontwing",
+    "country": "JP",
+    "homepage": "http://frontwing.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174440",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oDb18TicKRTqAElWtMXVETsam55.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

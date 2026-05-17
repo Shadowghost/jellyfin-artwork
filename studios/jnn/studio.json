@@ -1,0 +1,17 @@
+[
+  {
+    "name": "JNN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215103"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

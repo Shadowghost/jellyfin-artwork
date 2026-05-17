@@ -1,0 +1,21 @@
+[
+  {
+    "name": "DAX Production",
+    "country": "JP",
+    "homepage": "http://www.dax-pro.co.jp",
+    "headquarters": "Chiyoda City, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92437",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oarjkRxQ0i0mzXkvBerbDaUaYbM.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Network Movie",
+    "country": "DE",
+    "homepage": "https://www.networkmovie.de/en/",
+    "headquarters": "Hamburg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1941",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6yvtjS2R9yJRItWbGYsCEMVZGON.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

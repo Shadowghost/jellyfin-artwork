@@ -1,0 +1,17 @@
+[
+  {
+    "name": "B MediaExport",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26594"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Box to Box Films",
+    "country": "GB",
+    "homepage": "https://www.boxtoboxfilms.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117088",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sxPRMQiwn7UdjPmlOgoCIeeVFrQ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

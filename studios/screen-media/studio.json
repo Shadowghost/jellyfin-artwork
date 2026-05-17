@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Screen Media",
+    "description": "American film distribution company that licenses film and television content to streaming, broadcast, and home entertainment markets.",
+    "country": "HK",
+    "type": "distributor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7712"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

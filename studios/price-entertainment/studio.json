@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Price Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23808"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Crafty Apes",
+    "homepage": "https://www.craftyapes.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163591",
+        "logo_uri": "https://image.tmdb.org/t/p/original/csly22R1Entfs2pfxmfWUJPMDXN.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

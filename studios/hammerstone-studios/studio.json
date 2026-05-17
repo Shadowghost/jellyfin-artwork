@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Hammerstone Studios",
+    "country": "US",
+    "homepage": "https://www.hammerstonestudios.com",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106754",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1H4YyGx74OTzPtPIcuF3iAEjzz6.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

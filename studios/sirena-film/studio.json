@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sirena Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "146397"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

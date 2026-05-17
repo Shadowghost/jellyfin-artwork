@@ -1,0 +1,20 @@
+[
+  {
+    "name": "KADOKAWA Daiei Studio",
+    "country": "JP",
+    "homepage": "https://www.kd-st.co.jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46774",
+        "logo_uri": "https://image.tmdb.org/t/p/original/muOQv2xpkJqfwNthZbTS6ur85ZA.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

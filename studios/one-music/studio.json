@@ -1,0 +1,19 @@
+[
+  {
+    "name": "ONE MUSIC",
+    "country": "JP",
+    "homepage": "https://one-music.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133733"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

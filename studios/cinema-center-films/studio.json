@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Cinema Center Films",
+    "description": "Theatrical film production arm of CBS that operated from 1967 to 1972, producing films such as With Six You Get Eggroll and Scrooge.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3070",
+        "logo_uri": "https://image.tmdb.org/t/p/original/HpLKMqrVxDIm3k6WE33aqN0H5M.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

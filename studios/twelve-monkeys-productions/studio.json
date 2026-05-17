@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Twelve Monkeys Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "207976"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

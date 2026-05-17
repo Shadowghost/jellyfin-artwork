@@ -1,0 +1,21 @@
+[
+  {
+    "name": "HR",
+    "country": "DE",
+    "homepage": "https://www.hr.de/index.html",
+    "headquarters": "Frankfurt",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9291",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g6GYZXQrjB86Z5ocVliUZF1i3Tz.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

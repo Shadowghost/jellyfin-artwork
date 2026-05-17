@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Littlestar",
+    "country": "GB",
+    "homepage": "http://www.littlestarservices.com",
+    "headquarters": "London, England, UK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34441"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

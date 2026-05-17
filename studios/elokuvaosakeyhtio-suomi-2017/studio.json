@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Elokuvaosakeyhtiö Suomi 2017",
+    "country": "FI",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77737"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

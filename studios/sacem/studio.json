@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sacem",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180646"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

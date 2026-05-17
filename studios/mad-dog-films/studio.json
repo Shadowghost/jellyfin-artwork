@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mad Dog Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198425"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "AB² Digital Pictures",
+    "country": "CA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "265714"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

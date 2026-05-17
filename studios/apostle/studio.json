@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Apostle",
+    "country": "US",
+    "homepage": "https://apostlenyc.com/",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6996"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

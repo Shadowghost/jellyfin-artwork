@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Kinema Citrus",
+    "country": "JP",
+    "homepage": "http://kinemacitrus.biz",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16738",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Lf0udeB7OwHoFJ0XIxVwfyGOqE.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

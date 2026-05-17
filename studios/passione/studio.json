@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Passione",
+    "country": "JP",
+    "homepage": "https://passione-anime.com",
+    "headquarters": "Asagaya, Suginami",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58035",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rtFGLtHkjVqq042Ky5gbOEnXFlN.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

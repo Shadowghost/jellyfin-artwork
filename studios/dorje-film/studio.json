@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Dorje Film",
+    "country": "IT",
+    "headquarters": "Rome",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1760"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

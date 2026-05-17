@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Don Bluth Ireland",
+    "country": "IE",
+    "headquarters": "Dublin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211615",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rxO73jR41tGlohvPGMC3sJeclcf.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "VIP Medienfonds 4",
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2116",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j7grgeyXof8VBmqbBBSNaqVoOCb.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

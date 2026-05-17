@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Brainfeeder Films",
+    "country": "US",
+    "homepage": "https://brainfeeder.net/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80201",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8BwibvQVox0VTce5v5C7xOKfrdY.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

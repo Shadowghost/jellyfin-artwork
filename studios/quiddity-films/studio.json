@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Quiddity Films",
+    "country": "GB",
+    "homepage": "http://www.quiddityfilms.com",
+    "headquarters": "London, England, UK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123638",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tC3rygELzfDDbqgg5lBYvrfkWFA.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

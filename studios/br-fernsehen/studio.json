@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BR Fernsehen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69405"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

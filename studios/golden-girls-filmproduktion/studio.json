@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Golden Girls Filmproduktion",
+    "country": "AT",
+    "homepage": "https://www.goldengirls.at/",
+    "headquarters": "Vienna",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "64330",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bX6prvUt6ZuO4rrdVUtHG6LqfSm.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

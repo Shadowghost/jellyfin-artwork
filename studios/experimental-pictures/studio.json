@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Experimental Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20631"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

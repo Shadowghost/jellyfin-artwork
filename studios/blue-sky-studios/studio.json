@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Blue Sky Studios",
+    "country": "US",
+    "headquarters": "Greenwich, Connecticut",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9383",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ppeMh4iZJQUMm1nAjRALeNhWDfU.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

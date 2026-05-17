@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wideangle Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "206784"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

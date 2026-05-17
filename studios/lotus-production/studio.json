@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lotus Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "207108"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

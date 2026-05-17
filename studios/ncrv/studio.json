@@ -1,0 +1,21 @@
+[
+  {
+    "name": "NCRV",
+    "description": "Dutch Protestant public broadcaster founded in 1924 as one of the earliest pillarised broadcasters; merged with KRO in 2014 to form KRO-NCRV.",
+    "country": "NL",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23946",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nMSb08CGf7EPLaY6SDlOknlS9ZP.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

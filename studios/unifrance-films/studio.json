@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Unifrance",
+    "description": "French organization charged with promoting French cinema and audiovisual works around the world, funded by the CNC and member professionals.",
+    "country": "FR",
+    "type": "other",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99416"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Zack Promotion",
+    "country": "JP",
+    "homepage": "http://zack-pro.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187238"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

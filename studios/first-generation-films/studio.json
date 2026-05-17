@@ -1,0 +1,21 @@
+[
+  {
+    "name": "First Generation Films",
+    "country": "CA",
+    "homepage": "https://www.fg-films.com",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4908",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7YkjYXsxCWGqSbm3NJH82KVTBSC.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

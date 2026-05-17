@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Cartoon Network Studios",
+    "description": "American animation studio owned by Warner Bros. Discovery, producer of original animated series for Cartoon Network.",
+    "country": "US",
+    "type": "studio",
+    "headquarters": "Burbank, California",
+    "colors": [
+      {
+        "name": "Cartoon Network Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Cartoon Network White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7899",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qnhd98hnBxCMMMod58FJqbCZ5O7.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

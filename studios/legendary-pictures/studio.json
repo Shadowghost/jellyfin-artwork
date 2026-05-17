@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Legendary Pictures",
+    "description": "American media company founded by Thomas Tull, producing the MonsterVerse (Godzilla, Kong), the Dune films, The Dark Knight trilogy, and other major productions.",
+    "country": "IN",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185226"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Legendary Entertainment"
+    ]
+  }
+]

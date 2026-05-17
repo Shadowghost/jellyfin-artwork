@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Disney Channels Worldwide",
+    "description": "Division of Disney Branded Television that oversees Disney Channel, Disney Junior, and Disney XD around the world.",
+    "country": "US",
+    "type": "cable-network",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241787",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7wRFRKnGTX8J4URYQA0jQbMBgGt.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

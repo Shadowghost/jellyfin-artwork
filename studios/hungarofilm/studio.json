@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Hungarofilm",
+    "country": "HU",
+    "headquarters": "Budapest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7014"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Jerry Bruckheimer Television",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40041",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oP8TmVSh9DCP1yhR2yvjnKfMgbg.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

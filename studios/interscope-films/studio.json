@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Interscope Films",
+    "description": "American film production company founded by Ted Field, known for producing films such as Three Men and a Baby, Cocktail, and Bring It On.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10201",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cgmwywVZ9NvAidd6Pn7p0CBYQkW.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Interscope Communications"
+    ]
+  }
+]

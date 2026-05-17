@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Item 7",
+    "country": "CA",
+    "homepage": "http://item7.ca/en/",
+    "headquarters": "Montréal, Québec",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7177",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9Ty5iOpym3q9uHc5iYODiPsc1K0.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "The Muppets Studio",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "54322",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uTwyCvUeIsVSAF0dyqLp92GYlW2.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

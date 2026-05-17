@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Big Picture Casting",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77485"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

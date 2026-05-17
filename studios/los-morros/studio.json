@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Los Morros",
+    "country": "BE",
+    "homepage": "https://www.losmorros.be/",
+    "headquarters": "Antwerp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163569",
+        "logo_uri": "https://image.tmdb.org/t/p/original/46Kb6KzsdaMFLVrs9apyDjTz34v.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "RNB",
+    "country": "DE",
+    "parent_company": "ARD",
+    "homepage": "https://www.rbb24.de",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2067",
+        "logo_uri": "https://image.tmdb.org/t/p/original/y5knLIUjYsKBIlM4W0dLruWwYaC.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

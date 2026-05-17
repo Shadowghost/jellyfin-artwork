@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Cinema Sunshine",
+    "country": "JP",
+    "homepage": "https://www.cinemasunshine.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18764",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zZ4eevGP7hU3vsbwoKTyv72G2sB.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Grand Electric",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156880",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jyHwJYa76aHLLS9Sg9c5LiOLcDQ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

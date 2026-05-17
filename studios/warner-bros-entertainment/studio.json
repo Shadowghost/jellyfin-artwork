@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Warner Bros. Entertainment",
+    "description": "American multinational entertainment company and one of the 'Big Five' Hollywood studios, encompassing film, television and home-entertainment divisions under Warner Bros. Discovery.",
+    "country": "US",
+    "type": "studio",
+    "parent_company": "Time Warner",
+    "headquarters": "Burbank, California",
+    "colors": [
+      {
+        "name": "WB Blue",
+        "hex": "#004B96"
+      },
+      {
+        "name": "WB Gold",
+        "hex": "#F2C200"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17",
+        "logo_uri": "https://image.tmdb.org/t/p/original/famoQxsF9T7bDspYcFAfEcv2o3z.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

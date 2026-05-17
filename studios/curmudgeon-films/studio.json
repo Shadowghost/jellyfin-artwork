@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Curmudgeon Films",
+    "country": "US",
+    "homepage": "https://curmudgeonfilms.com/",
+    "headquarters": "New Orleans, Louisiana",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12029",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8PAf5K4VVI6xO9SjB7bxLtpi4xH.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

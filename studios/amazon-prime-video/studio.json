@@ -1,15 +1,34 @@
 [
   {
     "name": "Amazon Prime Video",
-    "machine-name": "amazon-prime-video",
-    "providers": {
-	  "imdb": "co0476953",
-      "tvdb": "4226"
-    },
+    "providers": [
+      {
+        "provider_name": "imdb",
+        "id": "co0476953"
+      },
+      {
+        "provider_name": "tvdb",
+        "id": "4226"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "181905"
+      }
+    ],
     "artwork": {
-      "logo": ["svg", "webp"],
-      "primary": ["svg", "webp"],
-      "thumb": ["svg", "webp"]
-    }
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ],
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "amazon-prime-video"
   }
 ]

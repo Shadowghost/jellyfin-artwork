@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Andrew Stevens Entertainment",
+    "country": "US",
+    "headquarters": "Dallas, Texas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2100",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lPsU64VTQPWk6JhK7uDzCjocoFj.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "New Film Studio of Beijing Starlight International Media Co. Ltd.",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152357"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

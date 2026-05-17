@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Cube Vision",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2780",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hgdyY2exOpOXG3EkQR8WsUAUNBZ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Ryukyu Broadcasting",
+    "description": "Japanese commercial broadcaster (RBC) headquartered in Naha, Okinawa; operates RBC iRadio and RBC Television, the latter affiliated with the Japan News Network (JNN).",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.rbc.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274748",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4RBW5VGULXi8CV3TtryKCkrUepR.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Ryukyu Broadcasting Corporation"
+    ]
+  }
+]

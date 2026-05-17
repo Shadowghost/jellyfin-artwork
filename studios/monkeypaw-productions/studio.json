@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Monkeypaw Productions",
+    "country": "US",
+    "homepage": "https://monkeypawproductions.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88934",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5Be96V9WXa7jJInSDPqDOqMBA0o.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

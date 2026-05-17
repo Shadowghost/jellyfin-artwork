@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Zehnte Babelsberg Film",
+    "country": "DE",
+    "homepage": "https://www.studiobabelsberg.com/en/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6817"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

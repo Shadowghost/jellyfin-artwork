@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Medienboard Berlin-Brandenburg",
+    "description": "German regional film and media funding agency for Berlin and Brandenburg, co-financing feature films, TV productions and games.",
+    "country": "DE",
+    "type": "government-agency",
+    "homepage": "https://www.medienboard.de",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245215"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

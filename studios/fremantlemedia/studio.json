@@ -1,0 +1,23 @@
+[
+  {
+    "name": "FremantleMedia",
+    "description": "International television content production and distribution company (rebranded simply as Fremantle in 2018), producer of Idols, Got Talent, and The X Factor franchises.",
+    "country": "GB",
+    "type": "production-company",
+    "homepage": "http://www.fremantlemedia.com",
+    "headquarters": "London, United Kingdom",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26554",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8KCY7SFDapSTQhEVH6jQMaabCmV.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "La Parti Production",
+    "country": "BE",
+    "headquarters": "Brussels",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2565",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i7ecMuPlAvNJjg9Rp26gJWzeEmu.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

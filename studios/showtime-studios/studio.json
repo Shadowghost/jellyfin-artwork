@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Showtime Studios",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238897"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

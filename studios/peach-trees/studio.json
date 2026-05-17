@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Peach Trees",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46505"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

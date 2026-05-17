@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Atlas Entertainment",
+    "country": "US",
+    "homepage": "http://atlasentertainment.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "507",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aRmHe6GWxYMRCQljF75rn2B9Gv8.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

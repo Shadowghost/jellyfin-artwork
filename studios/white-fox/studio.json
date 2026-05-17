@@ -1,0 +1,22 @@
+[
+  {
+    "name": "White Fox",
+    "description": "Japanese animation studio known for series including Steins;Gate and Re:Zero - Starting Life in Another World.",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "http://w-fox.co.jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12569",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pROt6mT15AC5aTadf7NRBRiTVo3.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

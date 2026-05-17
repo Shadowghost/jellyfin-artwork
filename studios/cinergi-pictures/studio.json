@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Cinergi Pictures",
+    "country": "US",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1504",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yVAJJ4TgnV1FsDmLh6h5ZNJd0vf.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

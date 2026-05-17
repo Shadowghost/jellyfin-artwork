@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Ang Lee Productions",
+    "country": "TW",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5528"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

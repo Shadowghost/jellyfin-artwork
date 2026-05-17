@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Australian Government",
+    "description": "The federal government of the Commonwealth of Australia, represented by the Commonwealth Coat of Arms.",
+    "country": "AU",
+    "type": "government-agency",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144037"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

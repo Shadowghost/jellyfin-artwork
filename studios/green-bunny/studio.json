@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Green Bunny",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "232456"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

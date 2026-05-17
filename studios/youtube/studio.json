@@ -1,0 +1,37 @@
+[
+  {
+    "name": "YouTube",
+    "description": "American online video sharing and streaming platform owned by Google, founded in 2005; the world's largest video-sharing service and one of the most-visited websites globally.",
+    "country": "US",
+    "type": "streaming-service",
+    "homepage": "https://www.youtube.com",
+    "headquarters": "901 Cherry Avenue San Bruno, California, United States",
+    "colors": [
+      {
+        "name": "YouTube Red",
+        "hex": "#FF0000"
+      },
+      {
+        "name": "YouTube White",
+        "hex": "#FFFFFF"
+      },
+      {
+        "name": "YouTube Black",
+        "hex": "#282828"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114247",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bwcRttyGrH1lxP36JbmXxSe48J3.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Castel Film",
+    "country": "RO",
+    "homepage": "http://castelfilm.ro",
+    "headquarters": "Bucharest, Romania",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1370",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uch218gB4XWNz3JNhlc65A5Q207.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Final Cut for Real",
+    "country": "DK",
+    "homepage": "http://www.finalcutforreal.dk",
+    "headquarters": "Copenhagen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29062",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hwlA6f2HhaOJP1ZcrYL8f8g8UbJ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

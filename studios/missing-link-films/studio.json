@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Missing Link Films",
+    "country": "DE",
+    "homepage": "https://www.missing-link-films.de/",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127594",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lGKHDrVAtPKISodH2a0L0XAfxot.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

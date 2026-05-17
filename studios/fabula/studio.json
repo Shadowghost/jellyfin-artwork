@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Fabula",
+    "country": "MX",
+    "homepage": "https://fabula.cl",
+    "headquarters": "Mexico City",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212251",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rdDld4SP7OwjES9SDICNdnYeg4D.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

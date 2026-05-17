@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Niconico",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10814"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

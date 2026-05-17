@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Meta Film",
+    "country": "DK",
+    "homepage": "https://metafilm.dk/",
+    "headquarters": "Copenhagen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45461",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gKKOrXKD2FEemp9CkvjNy0dLWX6.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

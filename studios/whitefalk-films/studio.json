@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Whitefalk Films",
+    "country": "AU",
+    "homepage": "http://whitefalkfilms.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104146"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

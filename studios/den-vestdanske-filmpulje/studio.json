@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Den Vestdanske Filmpulje",
+    "country": "DK",
+    "homepage": "http://www.filmpuljen.dk/",
+    "headquarters": "Aarhus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26398",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4wqxgqiiQ3OSAlgc6LBzuuBe7Q3.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

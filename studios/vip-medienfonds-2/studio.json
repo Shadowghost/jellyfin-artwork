@@ -1,0 +1,17 @@
+[
+  {
+    "name": "VIP Medienfonds 2",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3801"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

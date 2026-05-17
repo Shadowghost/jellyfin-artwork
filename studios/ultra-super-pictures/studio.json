@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Ultra Super Pictures",
+    "country": "JP",
+    "homepage": "https://uspi.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50906",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b334NexgTgoJiKPaDxxoWPq0kd3.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

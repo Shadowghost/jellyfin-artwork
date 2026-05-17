@@ -1,0 +1,19 @@
+[
+  {
+    "name": "FIDECINE",
+    "country": "MX",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15878",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iUe12EMGBPSCXd9x2BwSawujZe.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

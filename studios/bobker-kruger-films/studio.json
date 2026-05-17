@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bobker / Kruger Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102958"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

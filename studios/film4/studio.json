@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Film4",
+    "description": "British free-to-air film-focused television channel and production label owned by Channel Four; also operates Film4 Productions, financier of films like Slumdog Millionaire and 12 Years a Slave.",
+    "country": "GB",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201049"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

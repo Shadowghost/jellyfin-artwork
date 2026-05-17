@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Seikaisha",
+    "country": "JP",
+    "homepage": "https://www.seikaisha.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152618"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

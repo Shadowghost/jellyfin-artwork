@@ -1,0 +1,22 @@
+[
+  {
+    "name": "ITC Entertainment",
+    "description": "British television and film production and distribution company founded by Lew Grade; library now owned by Universal/NBCUniversal via Polygram.",
+    "country": "GB",
+    "type": "production-company",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1155",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rKTzFu5woCo8k0u9ML7mWeLY541.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

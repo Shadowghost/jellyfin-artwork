@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Crime + Investigation",
+    "description": "Pay television channel focused on true crime and investigation content, operated by A+E Networks.",
+    "country": "GB",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175964"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

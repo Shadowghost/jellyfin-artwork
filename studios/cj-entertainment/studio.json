@@ -1,0 +1,20 @@
+[
+  {
+    "name": "CJ Entertainment",
+    "country": "KR",
+    "headquarters": "Mapo, Seoul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7036",
+        "logo_uri": "https://image.tmdb.org/t/p/original/javbyY0ZCvlFJtly3tpZqf2NwLX.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

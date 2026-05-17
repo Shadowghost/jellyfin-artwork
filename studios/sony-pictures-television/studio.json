@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Sony Pictures Television",
+    "description": "American television production and distribution studio, the TV arm of Sony Pictures Entertainment producing series such as Breaking Bad and Jeopardy!",
+    "country": "US",
+    "type": "studio",
+    "homepage": "http://www.sonypicturestelevision.com/",
+    "headquarters": "Culver City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11073",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wHs44fktdoj6c378ZbSWfzKsM2Z.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

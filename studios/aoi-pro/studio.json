@@ -1,0 +1,21 @@
+[
+  {
+    "name": "AOI Pro.",
+    "country": "JP",
+    "homepage": "https://www.aoi-pro.com/en/",
+    "headquarters": "Ginza, Chuo, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39804",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bT7wDgMpeT7EAewYfWIHs3gWNYE.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

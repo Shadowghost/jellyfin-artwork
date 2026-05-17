@@ -1,0 +1,20 @@
+[
+  {
+    "name": "SynergySP",
+    "country": "JP",
+    "homepage": "http://www.synergy-sp.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109486",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5sKwEOp3RdoAukp6qHwSE8MoTit.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

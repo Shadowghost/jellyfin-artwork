@@ -1,0 +1,20 @@
+[
+  {
+    "name": "The Safran Company",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11565",
+        "logo_uri": "https://image.tmdb.org/t/p/original/odU3l6csuBmXUrzFm6araUgEUHQ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

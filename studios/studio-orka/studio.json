@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio Orka",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "244557"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

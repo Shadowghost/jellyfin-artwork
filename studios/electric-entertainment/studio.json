@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Electric Entertainment",
+    "country": "US",
+    "homepage": "https://www.electricentertainment.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3241",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kRAMCgp7zAmd1UnCPBHiEiopSm9.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

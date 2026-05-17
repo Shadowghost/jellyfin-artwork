@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Marni Films",
+    "country": "GR",
+    "homepage": "http://marnifilms.gr",
+    "headquarters": "Athens",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63059",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pUCc5LP2dndmuhNO1FL84KZYdrR.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

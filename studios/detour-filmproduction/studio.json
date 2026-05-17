@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Detour Filmproduction",
+    "country": "US",
+    "homepage": "http://detourfilm.com",
+    "headquarters": "Austin, Texas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11510",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gg3gP2wHNNfOfLKdXGjYC9qJ9ok.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

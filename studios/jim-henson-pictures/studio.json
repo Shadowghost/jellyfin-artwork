@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Jim Henson Pictures",
+    "description": "Theatrical-film division of The Jim Henson Company, producing live-action and puppet features such as Muppets from Space and The Adventures of Elmo in Grouchland.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6255",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kEHqVVnhAa26OA8FtGbRCBHUgOA.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Trimark Pictures",
+    "description": "American independent film production and home video company active 1984-2000, distributing genre and indie titles; acquired by Lionsgate in 2000.",
+    "country": "US",
+    "type": "distributor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4063",
+        "logo_uri": "https://image.tmdb.org/t/p/original/psOuT9ReSYhcBEB5ptnw7D2FdsE.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

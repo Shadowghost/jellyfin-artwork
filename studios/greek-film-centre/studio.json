@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Greek Film Centre",
+    "country": "GR",
+    "homepage": "http://www.gfc.gr/en/",
+    "headquarters": "Athens",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7254",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hDJO96mUfqtB9ia7ef7mEvguPxl.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

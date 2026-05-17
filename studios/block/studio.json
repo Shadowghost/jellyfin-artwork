@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Block",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125871"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Icon Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262382"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

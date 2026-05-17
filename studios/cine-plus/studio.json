@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ciné+",
+    "description": "French film-oriented pay television channels package operated by Canal+ Group.",
+    "country": "FR",
+    "type": "cable-network",
+    "homepage": "https://www.mycanal.fr/chaines/cineplus",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10611",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zQ4fGaEnNkWfSzyygXRcUZwPmDG.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

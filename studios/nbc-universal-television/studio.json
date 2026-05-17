@@ -1,0 +1,20 @@
+[
+  {
+    "name": "NBC Universal Television",
+    "country": "US",
+    "homepage": "http://www.nbcuniversal.com/business/universal-television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26727",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jeTxdjXhzgKZyLr3l9MllkTn3fy.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

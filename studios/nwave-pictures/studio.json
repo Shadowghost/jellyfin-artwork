@@ -1,0 +1,23 @@
+[
+  {
+    "name": "nWave Pictures",
+    "description": "Belgian animation studio and distributor based in Brussels, specializing in CGI animated feature films and giant-screen films.",
+    "country": "BE",
+    "type": "studio",
+    "homepage": "https://www.nwave.com/",
+    "headquarters": "Brussels",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10159",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5JOsh2wI3joS6LyGwIJ7I4WopbZ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

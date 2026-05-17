@@ -1,0 +1,17 @@
+[
+  {
+    "name": "movic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "295028"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

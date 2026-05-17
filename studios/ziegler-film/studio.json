@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Ziegler Film",
+    "country": "DE",
+    "homepage": "https://www.ziegler-film.de",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13587",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e1xxYKGJ9WjnjvkAWDUwmwruuuG.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

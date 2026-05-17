@@ -1,0 +1,33 @@
+[
+  {
+    "name": "AMC Studios",
+    "description": "American television production company subsidiary of AMC Networks producing series such as The Walking Dead and Better Call Saul.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.amcnetworks.com/amc-studios",
+    "headquarters": "New York City, New York",
+    "colors": [
+      {
+        "name": "AMC Yellow",
+        "hex": "#CC9900"
+      },
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23242",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ucE6dN6pUPfZHH5JlXkq44TDUMS.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

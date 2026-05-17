@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Simon Fields Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21518"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Dor Film-West",
+    "country": "DE",
+    "homepage": "https://www.dor-film.com/",
+    "headquarters": "München",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14877"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

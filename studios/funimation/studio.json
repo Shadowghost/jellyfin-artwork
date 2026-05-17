@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Funimation",
+    "description": "American entertainment company specializing in dubbing, licensing and distributing East Asian media, particularly anime; merged into Crunchyroll in 2024.",
+    "country": "US",
+    "type": "distributor",
+    "colors": [
+      {
+        "name": "Funimation Purple",
+        "hex": "#5B0F8C"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262361"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

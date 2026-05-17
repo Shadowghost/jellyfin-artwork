@@ -1,0 +1,29 @@
+[
+  {
+    "name": "The Wall Street Journal",
+    "description": "American business-focused English-language international daily newspaper, owned by Dow Jones & Company / News Corp.",
+    "country": "US",
+    "type": "news",
+    "homepage": "https://www.wsj.com",
+    "headquarters": "New York City, New York",
+    "colors": [
+      {
+        "name": "WSJ Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76280",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xYrmGDagbIoqOeyjSznd2FTcAQm.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

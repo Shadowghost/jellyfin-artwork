@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Studio AKA",
+    "country": "GB",
+    "homepage": "https://studioaka.co.uk/",
+    "headquarters": "London",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12805",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3XNVHv1ZHH7jZCcigFW8CWKCG8F.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

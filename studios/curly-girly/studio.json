@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Curly Girly",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201891"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

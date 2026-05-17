@@ -1,0 +1,22 @@
+[
+  {
+    "name": "IM Global",
+    "description": "American film financing, production, and sales company founded by Stuart Ford; merged into Global Road Entertainment in 2017.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7437",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e5CcgFrdlxMUwlsS72si8q1yHBr.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

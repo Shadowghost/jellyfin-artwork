@@ -1,0 +1,28 @@
+[
+  {
+    "name": "ZDF Enterprises",
+    "description": "Commercial subsidiary of German public broadcaster ZDF, handling international program sales, co-productions, and merchandising; rebranded ZDF Studios in 2022.",
+    "country": "DE",
+    "type": "distributor",
+    "homepage": "https://zdf-enterprises.de",
+    "colors": [
+      {
+        "name": "ZDF Orange",
+        "hex": "#FA7D19"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84339",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xHTkcQihsN49kgVZNWEHT4omGym.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

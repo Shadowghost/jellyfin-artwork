@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Arrow Films",
+    "description": "British independent film distribution company specializing in cult, world cinema, and restored classic films via Arrow Video label.",
+    "country": "US",
+    "type": "distributor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133345"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

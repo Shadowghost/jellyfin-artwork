@@ -1,0 +1,21 @@
+[
+  {
+    "name": "HORNETS",
+    "country": "JP",
+    "homepage": "https://www.anime-hornets.jp/",
+    "headquarters": "Koganei",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127236",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ydZLsADcAmenTgsYQsB9UFYLhM1.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Venus Castina Productions",
+    "country": "US",
+    "headquarters": "Chicago, Illinois",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84764",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bFehzkqLxP4ImZY521vFH8lZf1W.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

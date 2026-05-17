@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Société Nouvelle de Cinématographie",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

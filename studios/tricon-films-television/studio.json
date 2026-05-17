@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Tricon Films & Television",
+    "country": "CA",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13848"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

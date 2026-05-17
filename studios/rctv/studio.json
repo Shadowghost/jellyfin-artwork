@@ -1,0 +1,20 @@
+[
+  {
+    "name": "RCTV (Radio Caracas Televisión)",
+    "description": "Venezuelan commercial television network founded in 1953; its broadcast license was not renewed in 2007 and it ceased operations in 2010.",
+    "country": "VE",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93259"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

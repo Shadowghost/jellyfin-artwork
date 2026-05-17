@@ -1,0 +1,22 @@
+[
+  {
+    "name": "TriStar Pictures",
+    "description": "American film production and distribution label of Sony Pictures Entertainment.",
+    "country": "US",
+    "type": "studio",
+    "headquarters": "Culver City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "559",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eC0bWHVjnjUducyA6YFoEFqnPMC.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

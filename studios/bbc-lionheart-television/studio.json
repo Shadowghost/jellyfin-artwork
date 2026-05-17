@@ -1,0 +1,19 @@
+[
+  {
+    "name": "BBC Lionheart Television",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107595",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ymeXCm60KbWNiKZW95LVWcCCWz3.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Starlight International Media",
+    "description": "Chinese-American film production and finance company founded by Peter Luo, known for co-producing US-China crossover films including The Meg.",
+    "country": "HK",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5233"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

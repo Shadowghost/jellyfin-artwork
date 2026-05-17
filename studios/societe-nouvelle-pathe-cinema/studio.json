@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Société Nouvelle Pathé Cinéma",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "643"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

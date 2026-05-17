@@ -1,0 +1,33 @@
+[
+  {
+    "name": "National Geographic",
+    "description": "American pay television network owned by National Geographic Partners (Disney), featuring documentaries on science, exploration, nature, and history.",
+    "country": "US",
+    "type": "cable-network",
+    "homepage": "https://www.nationalgeographic.com/",
+    "headquarters": "Manhattan, New York City, New York",
+    "colors": [
+      {
+        "name": "Nat Geo Yellow",
+        "hex": "#FFCC00"
+      },
+      {
+        "name": "Nat Geo Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7521",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fRqMjLjyAqThtEg9P9WKCXLmCpJ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

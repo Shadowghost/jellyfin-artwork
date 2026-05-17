@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Love & Death Productions",
+    "country": "US",
+    "homepage": "https://www.loveanddeathfilms.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105877"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

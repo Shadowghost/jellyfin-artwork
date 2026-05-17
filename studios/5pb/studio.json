@@ -1,0 +1,19 @@
+[
+  {
+    "name": "5pb.",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85403",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j9qQn2gcigFUjlb6zpGwU9J2d30.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

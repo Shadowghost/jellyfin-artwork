@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Svenska Filminstitutet (Swedish Film Institute)",
+    "description": "Swedish public agency that supports Swedish film production, distribution and education, founded in 1963.",
+    "country": "SE",
+    "type": "government-agency",
+    "homepage": "https://www.filminstitutet.se",
+    "headquarters": "Stockholm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2302",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rPXEdpqwFycAY9ZgrAJXv13qcWW.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

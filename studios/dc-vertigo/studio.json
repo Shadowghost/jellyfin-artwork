@@ -1,0 +1,22 @@
+[
+  {
+    "name": "DC Vertigo",
+    "description": "Adult-oriented imprint of DC Comics, known for mature-themed series like Sandman, Preacher, and Hellblazer. Discontinued in 2020.",
+    "country": "US",
+    "type": "publisher",
+    "homepage": "https://www.dccomics.com/imprint/dc-vertigo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165407",
+        "logo_uri": "https://image.tmdb.org/t/p/original/73fMdMsX7azqI6ZveqtlzTnKdtu.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

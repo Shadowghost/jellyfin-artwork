@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Last Man Standing Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272033"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

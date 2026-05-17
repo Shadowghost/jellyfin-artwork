@@ -1,0 +1,20 @@
+[
+  {
+    "name": "SWR Fernsehen",
+    "description": "German regional public broadcasting television channel for Baden-Württemberg and Rhineland-Palatinate, operated by SWR within the ARD network.",
+    "country": "DE",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69405"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

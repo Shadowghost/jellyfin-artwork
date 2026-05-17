@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Paranoid Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7371"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

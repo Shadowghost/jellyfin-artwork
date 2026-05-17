@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Triluna Film AG",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21274"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

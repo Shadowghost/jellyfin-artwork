@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Trio Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164978"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

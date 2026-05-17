@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Twin Engine",
+    "country": "JP",
+    "homepage": "https://twinengine.jp/",
+    "headquarters": "Shinjuku, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120469",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bm5DrqAdNW3dlHsCTUntcmGkLhV.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Proximus",
+    "description": "Belgian telecommunications company, also active as a media and TV distribution platform; often credited as co-producer/funder of Belgian films.",
+    "country": "BE",
+    "type": "other",
+    "homepage": "http://www.proximus.be",
+    "headquarters": "Brussels",
+    "colors": [
+      {
+        "name": "Proximus Purple",
+        "hex": "#660099"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92187",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yrAyYme1zlZtHuhlWS3DlFAj762.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

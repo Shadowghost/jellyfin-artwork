@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Associated British Picture Corporation",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1441",
+        "logo_uri": "https://image.tmdb.org/t/p/original/28DJnfE2ZaR5oNJVlZ38uvnLaCH.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

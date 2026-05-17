@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Gladden Entertainment",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1648",
+        "logo_uri": "https://image.tmdb.org/t/p/original/z57DIlsxnejkR3tp0Bs8BcLnKOi.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

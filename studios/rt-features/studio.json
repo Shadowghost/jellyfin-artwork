@@ -1,0 +1,20 @@
+[
+  {
+    "name": "RT Features",
+    "country": "BR",
+    "headquarters": "São Paulo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30666",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g8LmDZVFWDRJW72sj0nAj1gh8ac.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

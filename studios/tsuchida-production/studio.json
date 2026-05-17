@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tsuchida Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123409"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

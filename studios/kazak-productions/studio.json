@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Kazak Productions",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49934",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ns14fiims2htw1kiEI9xCJFFlWO.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

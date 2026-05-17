@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Studio Deen",
+    "description": "Japanese animation studio known for Ranma 1/2, Fate/stay night, and Konosuba.",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "http://www.deen.co.jp",
+    "headquarters": "Musashino, Tokyo Prefecture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6075",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vlfJrLVL1TeNrCeeLBAwJXNv65M.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

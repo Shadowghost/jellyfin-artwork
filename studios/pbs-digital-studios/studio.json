@@ -1,0 +1,21 @@
+[
+  {
+    "name": "PBS Digital Studios",
+    "description": "Digital production arm of the US Public Broadcasting Service that produces educational web series for YouTube and other platforms, including Crash Course, PBS Space Time, and PBS Eons.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91536",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ah3lNfMwcr1YOV9NZuCFEhwdrLf.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

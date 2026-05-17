@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Regency Enterprises",
+    "description": "American film, television and production company founded by Arnon Milchan, behind features such as Pretty Woman, Fight Club, The Revenant and Bohemian Rhapsody.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://www.newregency.com/",
+    "headquarters": "West Hollywood, California, USA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "508",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4sGWXoboEkWPphI6es6rTmqkCBh.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

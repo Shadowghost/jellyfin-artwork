@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Screenwest",
+    "description": "Western Australian state government screen funding agency that develops, supports and promotes the Western Australian screen industry.",
+    "country": "AU",
+    "type": "government-agency",
+    "homepage": "https://www.screenwest.com.au",
+    "headquarters": "East Perth, Western Australia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7888",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6HhOnizpDOvKjprTl47tPqvHLvZ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

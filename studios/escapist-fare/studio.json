@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Escapist Fare",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199542"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

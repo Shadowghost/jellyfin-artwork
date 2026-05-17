@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Fake Empire Productions",
+    "country": "US",
+    "homepage": "http://blog.fakeempire.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51718",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fS7xGI3Pm48AsvrjBMceyBoKr2c.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "J Cubed Film Finance",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138700"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

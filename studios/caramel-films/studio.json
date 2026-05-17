@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Caramel Films",
+    "country": "ES",
+    "homepage": "https://www.caramelfilms.es/",
+    "headquarters": "Madrid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "266752",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m0ooqbp2J8ZLabx4hATP89CXmCt.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

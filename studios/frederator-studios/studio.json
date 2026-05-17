@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Frederator Studios",
+    "description": "American animation studio founded by Fred Seibert in 1997 with offices in New York and Burbank; producer of Adventure Time, The Fairly OddParents and Castlevania.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "http://frederatorstudios.com",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34764",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bvon5U0QrVapPuHLopQLfK8O8rc.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

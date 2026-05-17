@@ -1,0 +1,18 @@
+[
+  {
+    "name": "IMF Internationale Medien und Film GmbH & Co. 3. Produktions KG",
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19116"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

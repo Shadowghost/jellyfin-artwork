@@ -1,0 +1,23 @@
+[
+  {
+    "name": "VicScreen",
+    "description": "Victoria's state film and screen agency in Australia, supporting screen production and infrastructure; rebranded from Film Victoria in 2022.",
+    "country": "AU",
+    "type": "government-agency",
+    "homepage": "https://vicscreen.vic.gov.au/",
+    "headquarters": "Melbourne",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204763",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aqWMgtLOf2ClBDnK0f4DvYNTZf6.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

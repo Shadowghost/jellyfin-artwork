@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Classified Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101834"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

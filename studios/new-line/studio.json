@@ -1,0 +1,22 @@
+[
+  {
+    "name": "New Line Cinema",
+    "description": "American film production studio and division of Warner Bros. Pictures Group, known for The Lord of the Rings trilogy, A Nightmare on Elm Street, and the Conjuring franchise.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2ycs64eqV5rqKYHyQK0GVoKGvfX.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

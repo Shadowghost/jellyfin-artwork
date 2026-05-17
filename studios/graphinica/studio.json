@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Graphinica",
+    "country": "JP",
+    "homepage": "http://www.graphinica.com",
+    "headquarters": "Shinjuku, Tokyo Prefecture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35971",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5q5P83YiDQa34FgGd2Wtw7aWBnr.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

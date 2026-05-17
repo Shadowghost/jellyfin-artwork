@@ -1,0 +1,21 @@
+[
+  {
+    "name": "De La Revolución",
+    "country": "US",
+    "homepage": "https://delarevolucion.com",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106836",
+        "logo_uri": "https://image.tmdb.org/t/p/original/enFQuqpOARgYejkQChQeWaznfkx.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

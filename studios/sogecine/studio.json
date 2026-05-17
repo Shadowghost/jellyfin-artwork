@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Sogecine",
+    "country": "ES",
+    "homepage": "http://www.sogepaq.es",
+    "headquarters": "Madrid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "692",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mKVxLKcaUmevZUfxsuKzfIoeSw.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

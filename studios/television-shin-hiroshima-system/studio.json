@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Television Shin Hiroshima System",
+    "description": "Japanese commercial broadcaster based in Hiroshima; affiliate of the Fuji News Network.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.tss-tv.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210199",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yEXKHunpx1r8N3QSpXBWoLo7Irz.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Television Shin-Hiroshima System"
+    ]
+  }
+]

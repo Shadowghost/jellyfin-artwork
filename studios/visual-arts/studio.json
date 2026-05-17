@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Visual Arts",
+    "country": "JP",
+    "homepage": "https://visual-arts.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79196",
+        "logo_uri": "https://image.tmdb.org/t/p/original/NYY3Hbo8AfoI0lTKnGlMp4ffAP.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

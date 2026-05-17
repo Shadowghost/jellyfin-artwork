@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KnightMarcher",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85668"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Aggregate Films",
+    "country": "SG",
+    "homepage": "https://www.aggregatefilms.co/",
+    "headquarters": "Coronation Rd W",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285070",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eKV0KkbOoiqqctUgU17MpbFJIDT.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

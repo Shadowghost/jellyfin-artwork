@@ -1,0 +1,33 @@
+[
+  {
+    "name": "HBO Films",
+    "description": "Film production division of HBO, producing television movies and theatrical features.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.hbo.com/movies",
+    "headquarters": "New York City",
+    "colors": [
+      {
+        "name": "HBO Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "HBO White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7429",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6in9uMqxXEHx5XgYgkeRBpZ4rPw.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

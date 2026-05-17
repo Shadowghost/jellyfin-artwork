@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Hokkaido Television Broadcasting",
+    "description": "Japanese commercial television station based in Sapporo, Hokkaido, affiliated with the All-Nippon News Network (ANN).",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.htb.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81414",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eJSYeF1YIyQbZdTRNxuvVKaZOIK.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

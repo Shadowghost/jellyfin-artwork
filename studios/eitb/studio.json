@@ -1,0 +1,23 @@
+[
+  {
+    "name": "EiTB",
+    "description": "Public broadcaster of the Basque Country in Spain, operating Basque- and Spanish-language television and radio.",
+    "country": "ES",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31123"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Euskal Irrati Telebista"
+    ]
+  }
+]

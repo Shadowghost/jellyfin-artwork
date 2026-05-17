@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Karol Film Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23310"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

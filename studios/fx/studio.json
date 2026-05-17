@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FX",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154615"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

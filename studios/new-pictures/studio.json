@@ -1,0 +1,21 @@
+[
+  {
+    "name": "New Pictures",
+    "country": "GB",
+    "homepage": "http://www.newpictures.co.uk",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8826",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cxW7pb2mG0VzqFCSk62ZnHvuBMn.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

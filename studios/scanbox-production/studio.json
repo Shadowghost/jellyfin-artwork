@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Scanbox Production",
+    "country": "DK",
+    "homepage": "https://www.scanbox.com/",
+    "headquarters": "Copenhagen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171066",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tjNpvJOTCwvPL2faaj3r2RR3dTs.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "UniMás",
+    "description": "American Spanish-language free-to-air television network owned by TelevisaUnivision.",
+    "country": "US",
+    "type": "broadcast-network",
+    "homepage": "http://www.univision.com/unimas",
+    "headquarters": "Florida",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "295721",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lj2N5w36OChSgAAbNN8b5Tsowrp.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Studio Comet",
+    "country": "JP",
+    "homepage": "http://st-comet.com/",
+    "headquarters": "Toyotamanaka, Nerima, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69265",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5wdB99cH5b8ZpffhKqAywRCpGKR.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

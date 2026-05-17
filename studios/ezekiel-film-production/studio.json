@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Ezekiel Film Production",
+    "country": "US",
+    "homepage": "https://ezekielfilmproduction.com",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179299",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sbzY2IIzGj8NqC8Ybba19iAOKwh.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "I Can & I Will Productions",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114726",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uuvdHAMJuwwTjyksmgabF2V7nfm.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

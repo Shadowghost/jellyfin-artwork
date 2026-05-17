@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Cinema Gypsy Productions",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5227",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oBThFkvaCDyBG8zXDm11vaOQ7HM.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

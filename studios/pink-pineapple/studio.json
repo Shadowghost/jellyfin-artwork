@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pink Pineapple",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "267239"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

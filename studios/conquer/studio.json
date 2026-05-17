@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Conquer",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258444"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

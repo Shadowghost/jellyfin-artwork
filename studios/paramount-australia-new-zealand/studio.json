@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Paramount Australia & New Zealand",
+    "country": "AU",
+    "homepage": "https://www.paramountanz.com.au",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202077",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h9sX93UnSvhIXB7IM0u8Hdk7X1b.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

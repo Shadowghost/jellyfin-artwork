@@ -1,0 +1,22 @@
+[
+  {
+    "name": "QED International",
+    "description": "American film production and finance company founded by Bill Block, known for films including District 9 and Fury.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11029",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qfpOdWtOiI28OGPlyNrTscT6I6J.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

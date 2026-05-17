@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Red Fish, Blue Fish Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212876"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

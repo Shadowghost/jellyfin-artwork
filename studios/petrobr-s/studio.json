@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Petrobras",
+    "description": "Brazilian multinational state-controlled petroleum corporation; appears as a sponsor/cultural funder for Brazilian film productions.",
+    "country": "BR",
+    "type": "other",
+    "homepage": "https://petrobras.com.br/sustentabilidade/cinema",
+    "headquarters": "State of Rio de Janeiro",
+    "colors": [
+      {
+        "name": "Petrobras Green",
+        "hex": "#008B47"
+      },
+      {
+        "name": "Petrobras Yellow",
+        "hex": "#FCC200"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2433",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fVqsWV3nnSBKbT9krbWrdcORWRu.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

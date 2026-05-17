@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lea Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "265849"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

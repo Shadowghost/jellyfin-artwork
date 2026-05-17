@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Sigma Films",
+    "country": "NL",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "322"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

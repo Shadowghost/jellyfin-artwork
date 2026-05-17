@@ -1,0 +1,20 @@
+[
+  {
+    "name": "HB Filmes",
+    "country": "BR",
+    "homepage": "http://www.hbfilmes.com.br/?lang=en",
+    "headquarters": "São Paulo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2434"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

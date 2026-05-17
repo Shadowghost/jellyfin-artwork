@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Happinet",
+    "country": "JP",
+    "homepage": "https://www.happinet.co.jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193549",
+        "logo_uri": "https://image.tmdb.org/t/p/original/HF2fFP8MH9juSCoN2VtQCFQYPD.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

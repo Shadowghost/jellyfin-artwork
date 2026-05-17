@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Titmouse",
+    "country": "US",
+    "homepage": "https://titmouse.net/",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4152",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v4eshD4MhQ1gBOBptaYTIuUzzaG.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

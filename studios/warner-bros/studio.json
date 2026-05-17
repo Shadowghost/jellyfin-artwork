@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Warner Bros.",
+    "description": "American major film studio and a subsidiary of Warner Bros. Discovery; one of the Big Five Hollywood studios.",
+    "country": "US",
+    "type": "studio",
+    "colors": [
+      {
+        "name": "WB Blue",
+        "hex": "#0033A0"
+      },
+      {
+        "name": "WB Gold",
+        "hex": "#C39B45"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "235376"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

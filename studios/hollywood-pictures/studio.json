@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Hollywood Pictures",
+    "description": "Defunct American film label of The Walt Disney Studios, active 1989–2001 and briefly revived 2006–2007; released films such as The Sixth Sense and Pretty Woman.",
+    "country": "US",
+    "type": "studio",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "915",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4neXXpjSJDZPBGBnfWtqysB5htV.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

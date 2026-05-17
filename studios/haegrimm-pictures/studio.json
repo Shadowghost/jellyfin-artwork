@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Haegrimm Pictures",
+    "country": "KR",
+    "headquarters": "Goyang, Gyeonggi, South Korea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125037"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "NDR",
+    "country": "DE",
+    "homepage": "https://www.ndr.de",
+    "headquarters": "Hamburg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7201",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ljV8ZT3CIYCEIEDlTyBliXJVCZr.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

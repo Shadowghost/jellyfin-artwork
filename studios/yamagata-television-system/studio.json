@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Yamagata Television System",
+    "description": "Japanese commercial broadcaster based in Yamagata; affiliate of the All-Nippon News Network (TV Asahi).",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.yts.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257269",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qmFepR4xq384nWXub4Cg3jUwYPS.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

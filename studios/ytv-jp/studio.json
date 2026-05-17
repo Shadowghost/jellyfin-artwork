@@ -1,0 +1,25 @@
+[
+  {
+    "name": "YTV (JP)",
+    "description": "Japanese commercial broadcaster headquartered in Osaka and serving as the Kansai region's flagship of the Nippon News Network/Nippon TV; producer of long-running anime series Detective Conan and Inuyasha.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.ytv.co.jp/info/english/index.html",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11727",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cIMyE9cw1W4kMFGxmC17HKTnVz9.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Yomiuri Telecasting Corporation"
+    ]
+  }
+]

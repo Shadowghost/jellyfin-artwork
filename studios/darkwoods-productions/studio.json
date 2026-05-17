@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Darkwoods Productions",
+    "country": "US",
+    "headquarters": "Pasadena, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3982",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bli7HkPOXOEWsDwDK0W7XXfeUU2.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Tillerman Films",
+    "country": "US",
+    "homepage": "https://tillermanfilms.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137994",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eR7xbAmqRqxo9bhDSvSgIo1iGZ3.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

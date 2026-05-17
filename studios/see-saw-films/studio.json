@@ -1,0 +1,21 @@
+[
+  {
+    "name": "See-Saw Films",
+    "country": "AU",
+    "homepage": "https://www.see-saw-films.com",
+    "headquarters": "Paddington, New South Wales",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215182",
+        "logo_uri": "https://image.tmdb.org/t/p/original/awZA3j5dH9o58rpkqquHdNVdlpf.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

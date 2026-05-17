@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Reveille Productions",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6383",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bQVIn5JphAADvT4hljIMuzgm3sz.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

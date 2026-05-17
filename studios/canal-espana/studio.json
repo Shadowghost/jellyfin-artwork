@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Canal+ España",
+    "country": "ES",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9335",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ldfniRgxCYegCbGEROEBKbmg4A5.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

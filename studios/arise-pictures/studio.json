@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Arise Pictures",
+    "country": "US",
+    "homepage": "http://arisepictures.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17916",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qRJqFWhkEUL5DgPGEcE4Ki3cjoa.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

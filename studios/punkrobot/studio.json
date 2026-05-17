@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Punkrobot",
+    "country": "CL",
+    "homepage": "http://www.punkrobot.cl/",
+    "headquarters": "Santiago",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "59576",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vLUadXW7RfYW55qTdc2c0qzNac1.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "name": "BBC Northern Ireland",
+    "description": "BBC's national broadcasting region for Northern Ireland, producing TV, radio and online content from its Belfast headquarters.",
+    "country": "XI",
+    "type": "broadcast-network",
+    "homepage": "https://www.bbc.com/northernireland",
+    "headquarters": "Belfast, Northern Ireland",
+    "colors": [
+      {
+        "name": "BBC Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "BBC White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20639",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qypOd6AlNrfHIXN9nArZmyMv6do.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

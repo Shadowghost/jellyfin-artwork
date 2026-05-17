@@ -1,0 +1,26 @@
+[
+  {
+    "name": "RAI Cinema",
+    "description": "Italian film production and distribution company, the cinema division of the Italian public broadcaster RAI.",
+    "country": "IT",
+    "type": "production-company",
+    "homepage": "https://www.rai.it/raicinema",
+    "headquarters": "Rome",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155990",
+        "logo_uri": "https://image.tmdb.org/t/p/original/py9VaywwK6KVi94YwrxSKVg1gkh.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Rai Cinema"
+    ]
+  }
+]

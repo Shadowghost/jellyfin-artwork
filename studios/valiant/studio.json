@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Valiant",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28926"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

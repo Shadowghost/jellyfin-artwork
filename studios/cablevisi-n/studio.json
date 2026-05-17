@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Cablevisión",
+    "description": "Argentine cable television provider owned by Grupo Clarín; merged with Telecom Argentina in 2018.",
+    "country": "AR",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125587"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

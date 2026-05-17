@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Echo Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234280"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

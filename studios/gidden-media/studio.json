@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Gidden Media",
+    "country": "US",
+    "homepage": "https://www.giddenmedia.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34886",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t5U3RqGBm8Hz1Le3g6TryKZ44Uy.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

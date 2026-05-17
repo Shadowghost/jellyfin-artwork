@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Turbine Studios",
+    "country": "GB",
+    "homepage": "https://turbinestudios.co.uk",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120114",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6EBl8T93rFzgFtKtEqG96V1NPjZ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

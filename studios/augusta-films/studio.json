@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Augusta Films",
+    "country": "US",
+    "homepage": "https://augustafilms.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152942"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

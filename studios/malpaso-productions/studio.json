@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Malpaso Productions",
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bqLWwuNCHcY3IjB5e4o29h7l80D.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

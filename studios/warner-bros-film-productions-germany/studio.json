@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Warner Bros. Film Productions Germany",
+    "country": "DE",
+    "homepage": "https://www.warnerbros.de/",
+    "headquarters": "Hamburg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96105",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yTIbkYK1VGE64FSFqPj5jGDvLG.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

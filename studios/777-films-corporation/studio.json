@@ -1,0 +1,17 @@
+[
+  {
+    "name": "777 Films Corporation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3383"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Krakowskie Biuro Festiwalowe",
+    "country": "PL",
+    "homepage": "https://kbf.krakow.pl/",
+    "headquarters": "Kraków",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30161",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h6dniliQm3tgLXBggnXz5u0KpF9.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

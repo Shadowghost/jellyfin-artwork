@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Shaw Media",
+    "description": "Canadian media company that operated Global Television Network and specialty channels; sold to Corus Entertainment in 2016.",
+    "country": "CA",
+    "type": "broadcast-network",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7224",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aEB2TV6TTolC7NSwonWIb25MKga.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

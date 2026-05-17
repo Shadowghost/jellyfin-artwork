@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Sabesp",
+    "description": "Brazilian water and sewage utility serving the state of São Paulo; not a media company but logo appears in this set possibly as a sponsor or via metadata mismatch.",
+    "country": "BR",
+    "type": "other",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209184"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

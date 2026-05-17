@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Senator Film",
+    "country": "DE",
+    "homepage": "https://www.senator.de/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5Cz9SVf733VhCvKpaivl1jlAXAK.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

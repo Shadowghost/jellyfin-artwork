@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Synchronicity Films",
+    "country": "GB",
+    "homepage": "https://www.synchronicityfilms.co.uk",
+    "headquarters": "Glasgow, Scotland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10443",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4JIo1KzzIb2X8oZX7jjsEEBlBub.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

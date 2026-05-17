@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Emotion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173937"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

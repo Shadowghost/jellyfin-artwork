@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Recorded Pictures Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "470"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

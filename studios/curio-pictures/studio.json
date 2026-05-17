@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Curio Pictures",
+    "country": "AU",
+    "homepage": "https://www.curiopictures.com.au/",
+    "headquarters": "Moore Park, New South Wales",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175505",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oByZ2LfD5kMnkb9upJRRCgUrWeX.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

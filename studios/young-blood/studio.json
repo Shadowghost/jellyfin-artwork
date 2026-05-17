@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Young Blood",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180179"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

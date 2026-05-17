@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Minderoo Pictures",
+    "country": "AU",
+    "homepage": "https://www.minderoo.org",
+    "headquarters": "Nedlands, Western Australia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233430"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

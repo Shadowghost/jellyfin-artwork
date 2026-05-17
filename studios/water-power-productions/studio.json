@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Water & Power Productions",
+    "country": "GB",
+    "homepage": "https://waterandpowerproductions.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "132532",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v7VIvRzjk5PZTqEjvBSs666hZKc.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

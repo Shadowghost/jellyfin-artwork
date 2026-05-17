@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Coop99 Filmproduktion",
+    "country": "AT",
+    "homepage": "http://www.coop99.at/",
+    "headquarters": "Vienna",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pbRxJ8oia1MypvLbukeamObtYr2.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

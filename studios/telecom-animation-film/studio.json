@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Telecom Animation Film",
+    "country": "JP",
+    "homepage": "https://www.telecom-anime.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20868",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jhJGtYghSVawQJygEnJymQAqAb2.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Max",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204690"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Mirror Image Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147009",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4uhmg1SycwVWhKymY5ZFGyozw6J.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

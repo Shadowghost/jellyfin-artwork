@@ -1,15 +1,31 @@
 [
   {
     "name": "HBO",
-    "machine-name": "hbo",
-    "providers": {
-      "tvdb": "328",
-      "tmdb": "49",
-      "imdb": "co0008693"
-    },
+    "country": "ES",
+    "providers": [
+      {
+        "provider_name": "tvdb",
+        "id": "328"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "3268"
+      },
+      {
+        "provider_name": "imdb",
+        "id": "co0008693"
+      }
+    ],
     "artwork": {
-      "primary": ["svg", "webp"],
-      "thumb": ["svg", "webp"]
-    }
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "hbo"
   }
 ]

@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Scholastic Productions",
+    "description": "American film and television production division of Scholastic Corporation, producer of The Magic School Bus, Goosebumps, and Clifford the Big Red Dog adaptations.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "New York City, New York",
+    "colors": [
+      {
+        "name": "Scholastic Red",
+        "hex": "#E81F2E"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30246",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zYY3tNfZuDVfmwv8hvm4ZdLMdIM.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Scholastic Entertainment"
+    ]
+  }
+]

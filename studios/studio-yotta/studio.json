@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Studio Yotta",
+    "country": "US",
+    "homepage": "https://studioyotta.com",
+    "headquarters": "Portland, Oregon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90789"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

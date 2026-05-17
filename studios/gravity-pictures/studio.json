@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Gravity Pictures",
+    "country": "CN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48778",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tto2UKph873Xh1ytxfNBgCxT8NO.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

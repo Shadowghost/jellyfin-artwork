@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Studio Filmowe Tor",
+    "country": "PL",
+    "homepage": "http://www.tor.com.pl",
+    "headquarters": "Warsaw",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oZyTaSTMP9LMB6BTzPDv3q4oyMj.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "26 Keys Productions",
+    "country": "US",
+    "headquarters": "Austin, Texas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20814"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

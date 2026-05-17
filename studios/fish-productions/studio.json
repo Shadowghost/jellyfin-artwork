@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fish Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231932"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

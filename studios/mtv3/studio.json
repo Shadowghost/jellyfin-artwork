@@ -1,0 +1,22 @@
+[
+  {
+    "name": "MTV3",
+    "description": "Finnish commercial free-to-air television channel operated by MTV Oy, the oldest commercial broadcaster in Finland; not related to American MTV.",
+    "country": "FI",
+    "type": "broadcast-network",
+    "homepage": "https://www.mtv.fi/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21809",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qanEJAF1YgsspE074aqUq20ktoY.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DEJ Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "186999"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

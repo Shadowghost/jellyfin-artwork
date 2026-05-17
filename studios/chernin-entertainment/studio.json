@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Chernin Entertainment",
+    "country": "US",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7076",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8BFxn9NUWSgp0ndih569Gm62xiC.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

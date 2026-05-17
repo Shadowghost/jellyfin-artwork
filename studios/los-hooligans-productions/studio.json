@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Los Hooligans Productions",
+    "country": "US",
+    "homepage": "https://www.troublemakerstudios.com/",
+    "headquarters": "Austin, Texas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11705"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

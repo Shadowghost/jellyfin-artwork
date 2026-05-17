@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Backup Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188377"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

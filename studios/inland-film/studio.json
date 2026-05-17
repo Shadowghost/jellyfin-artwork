@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Inland Film",
+    "country": "SE",
+    "homepage": "https://www.inlandfilm.se/",
+    "headquarters": "Stockholm, Sweden",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87357"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

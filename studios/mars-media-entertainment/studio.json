@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Mars Media Entertainment",
+    "country": "RU",
+    "homepage": "http://marsme.ru/en",
+    "headquarters": "Moscow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "54307",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c6zhUONn8UMP6vdDHXrxpGxuzh2.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

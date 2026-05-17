@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Epsilon Motion Pictures",
+    "country": "CH",
+    "headquarters": "Zurich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1171",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wp7NwsxxHT8sqPaek6SlxnXlkP4.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

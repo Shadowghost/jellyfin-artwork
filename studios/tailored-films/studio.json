@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Tailored Films",
+    "country": "IE",
+    "homepage": "https://tailoredfilms.ie",
+    "headquarters": "Dublin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23459",
+        "logo_uri": "https://image.tmdb.org/t/p/original/41KbJFe2xc1jQHyZCDFTyFbKInM.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

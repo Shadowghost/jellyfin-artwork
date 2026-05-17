@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Nikkatsu Corporation",
+    "description": "Oldest major Japanese film studio, founded in 1912; significant in classic and Roman Porno cinema.",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "https://intl.nikkatsu.com",
+    "headquarters": "Bunkyo, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "955",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5xnXD3PJI1HqOJceSAKZ3fDqO1V.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

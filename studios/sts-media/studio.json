@@ -1,0 +1,21 @@
+[
+  {
+    "name": "STS Media",
+    "country": "RU",
+    "homepage": "https://www.ctcmedia.ru/rus/",
+    "headquarters": "Moscow, Russia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27376",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rFKw0NgWTQuzmVqbyKvMYpd7e8V.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

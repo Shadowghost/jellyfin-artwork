@@ -1,0 +1,17 @@
+[
+  {
+    "name": "District 9",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20667"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

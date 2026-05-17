@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Bento Box Entertainment",
+    "country": "US",
+    "homepage": "https://www.bentoboxent.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30452",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zmU1ElCS02iL5N7E5MuY4fV7bCX.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

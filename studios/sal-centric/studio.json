@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sal Centric",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "247697"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

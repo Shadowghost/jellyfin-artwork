@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Two Cities Television",
+    "country": "GB",
+    "homepage": "http://www.twocitiestv.com",
+    "headquarters": "London, England, UK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92347",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vP0TkAR9YYpfxuJjG1FlyET2c6G.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "San Nicola Produzione Cinematografica",
+    "country": "IT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41819"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Cygames",
+    "description": "Japanese mobile game developer and anime production sponsor known for Granblue Fantasy, Uma Musume and Princess Connect.",
+    "country": "JP",
+    "type": "other",
+    "homepage": "https://www.cygames.co.jp/en/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181190",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6O8z7druYj7fXanaIE2f2OVRI9E.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

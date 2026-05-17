@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Levinson",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56387"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

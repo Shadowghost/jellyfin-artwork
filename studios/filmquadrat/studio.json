@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Filmquadrat",
+    "country": "DE",
+    "homepage": "https://www.filmquadrat.de",
+    "headquarters": "Munich, Bavaria, Germany",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80156",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rAuPpR9fGhmlpDNlnS73DOuZq9j.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

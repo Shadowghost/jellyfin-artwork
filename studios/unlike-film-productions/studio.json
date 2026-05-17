@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Unlike Film Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197243"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

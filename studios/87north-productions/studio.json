@@ -1,0 +1,23 @@
+[
+  {
+    "name": "87North Productions",
+    "description": "American film and television production company founded by David Leitch and Kelly McCormick, known for action films such as Bullet Train, Nobody, and Atomic Blonde.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://87north.com",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121470",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zvJFu1C6gB80A98n6IGXBvMtgVl.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

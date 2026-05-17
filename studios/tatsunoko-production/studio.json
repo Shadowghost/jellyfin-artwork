@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Tatsunoko Production",
+    "country": "JP",
+    "homepage": "http://tatsunoko.co.jp",
+    "headquarters": "Musashino, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13583",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3AcqA6uF49Auq43niCf9NQPGxsU.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

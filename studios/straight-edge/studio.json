@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Straight Edge",
+    "country": "JP",
+    "homepage": "http://straightedge.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162614",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xmP3OMWSfARsUB15rlZyv6yjhsE.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

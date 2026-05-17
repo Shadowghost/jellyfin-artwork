@@ -1,0 +1,20 @@
+[
+  {
+    "name": "MoviePass Films",
+    "description": "Short-lived film production and distribution division of subscription-based movie theatre service MoviePass.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109906"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

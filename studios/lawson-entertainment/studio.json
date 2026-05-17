@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Lawson Entertainment",
+    "country": "US",
+    "homepage": "https://lawson-entertainment.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100259"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Maoyan Entertainment",
+    "country": "CN",
+    "homepage": "http://www.maoyan.com",
+    "headquarters": "Beijing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96956",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nMaeUdQwAhN69omhooaPDKCpEFO.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

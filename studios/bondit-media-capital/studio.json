@@ -1,0 +1,21 @@
+[
+  {
+    "name": "BondIt Media Capital",
+    "country": "US",
+    "homepage": "https://bondit.us/",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121204",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vbtvY4IxgUZk713rkmoTO4MHIac.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

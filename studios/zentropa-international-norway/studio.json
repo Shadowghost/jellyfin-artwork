@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Zentropa International Norway",
+    "country": "NO",
+    "headquarters": "Oslo, Norway",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73895",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gQmHlYSKoxnJiwqBOCKui894uZZ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "CloverWorks",
+    "description": "Japanese animation studio based in Suginami, Tokyo, founded in 2018 as a spin-off of A-1 Pictures, known for Spy x Family, Bocchi the Rock!, and The Promised Neverland.",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "http://cloverworks.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121589",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kZvTniBgpTzAThHCa0OZ1FJtRjy.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

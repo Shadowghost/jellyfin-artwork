@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Buena Vista (Disney)",
+    "description": "Buena Vista was The Walt Disney Company's distribution arm (Buena Vista Pictures, Buena Vista International, Buena Vista Distribution); shared SVG also represents Cinémage. The Buena Vista brand was retired in 2007.",
+    "country": "FR",
+    "type": "distributor",
+    "homepage": "https://corporate.disney.fr/",
+    "headquarters": "Paris, Île-de-France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135745",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uVLvZaUx7lw1K5d2dfOjYrbcpKd.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

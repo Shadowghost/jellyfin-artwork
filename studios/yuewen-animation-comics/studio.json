@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Yuewen Animation & Comics",
+    "country": "CN",
+    "homepage": "https://www.yuewen.com/",
+    "headquarters": "Shanghai, China",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192216",
+        "logo_uri": "https://image.tmdb.org/t/p/original/MlRDxxA6DW1Jm7gfhpaI0LN1BW.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

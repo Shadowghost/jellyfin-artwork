@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Silver Peak Productions",
+    "country": "US",
+    "homepage": "https://silverpeakpro.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49924",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cRZINPqnTGgCpbXdoWrgaR5aqXo.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

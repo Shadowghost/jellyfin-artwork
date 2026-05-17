@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Jerry Bruckheimer Films",
+    "description": "American film and television production company founded by producer Jerry Bruckheimer.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://jbfilms.com/",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c9dVHPOL3cqCr2593Ahk0nEKTEM.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

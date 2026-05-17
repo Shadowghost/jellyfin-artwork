@@ -1,0 +1,21 @@
+[
+  {
+    "name": "France 3 Cinéma",
+    "country": "FR",
+    "homepage": "http://www.france3cinema.fr",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "591",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q5I5RDwMEiqoNmfaJgd2LraEOJY.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

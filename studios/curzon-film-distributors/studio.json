@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Curzon Film Distributors",
+    "description": "British film distributor specializing in arthouse and world cinema, part of Curzon cinema chain group.",
+    "country": "GB",
+    "type": "distributor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11494"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "RCA",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10629",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jv4QOFu3xvZZXQHSzJXXZeBf2Cl.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

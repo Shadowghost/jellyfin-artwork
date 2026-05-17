@@ -1,0 +1,20 @@
+[
+  {
+    "name": "EOS Entertainment",
+    "country": "DE",
+    "homepage": "http://www.eos-entertainment.com",
+    "headquarters": "Oberhaching",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2278"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

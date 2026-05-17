@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sparkler Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20012"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

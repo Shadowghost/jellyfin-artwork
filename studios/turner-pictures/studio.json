@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Turner Pictures",
+    "description": "American film and library company founded by Ted Turner; owns rights to the pre-1986 MGM library, Hanna-Barbera and RKO. Library now managed by Warner Bros. Discovery.",
+    "country": "US",
+    "type": "studio",
+    "headquarters": "Atlanta, Georgia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1765",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oqMb5Xwbvvle7riett66WbI06fQ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

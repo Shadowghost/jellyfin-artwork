@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ITVX",
+    "description": "British video streaming service from ITV plc, launched in December 2022, replacing the ITV Hub and BritBox UK.",
+    "country": "GB",
+    "type": "streaming-service",
+    "homepage": "http://www.itv.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3448",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dcA8JDfnnQPMaq8lv2CCiYrNe0S.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

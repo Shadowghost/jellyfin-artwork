@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Hasbro Studios",
+    "country": "US",
+    "homepage": "https://www.hasbrostudios.com/",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22826",
+        "logo_uri": "https://image.tmdb.org/t/p/original/37ZxE1qShQ44VdsRPkO1zOtnMKi.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

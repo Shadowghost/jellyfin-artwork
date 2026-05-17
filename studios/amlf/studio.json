@@ -1,0 +1,20 @@
+[
+  {
+    "name": "AMLF",
+    "country": "FR",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1869",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yzT8r8szh67ENcLOgCk1pp4rJg8.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

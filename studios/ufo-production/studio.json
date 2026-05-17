@@ -1,0 +1,21 @@
+[
+  {
+    "name": "UFO Production",
+    "country": "FR",
+    "homepage": "https://www.ufo-distribution.com/ufo-production/",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124484",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c8dyX9wes06MtZ73LwFhzh7HFGm.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

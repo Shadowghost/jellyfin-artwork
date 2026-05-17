@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Corona-General",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60831"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

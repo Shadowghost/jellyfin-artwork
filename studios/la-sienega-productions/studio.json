@@ -1,0 +1,19 @@
+[
+  {
+    "name": "La Sienega Productions",
+    "country": "US",
+    "headquarters": "Los Angeles, CA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31038"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

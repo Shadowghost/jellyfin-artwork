@@ -1,0 +1,21 @@
+[
+  {
+    "name": "The Weinstein Company",
+    "country": "US",
+    "homepage": "http://weinsteinco.com/",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "308",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e8F3mQM7DkJ5SfYYDp8FYzPBOGX.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

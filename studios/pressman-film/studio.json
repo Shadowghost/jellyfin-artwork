@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Pressman Film",
+    "country": "US",
+    "homepage": "http://pressman.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6455",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mc3rMk0tW5ajjbfqkB8xlp85Cdy.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

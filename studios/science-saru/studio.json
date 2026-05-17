@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Science SARU",
+    "country": "JP",
+    "homepage": "https://www.sciencesaru.com",
+    "headquarters": "Musashino, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99494",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fpUFQKvrWPWTA8lbLWtWX65miPS.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

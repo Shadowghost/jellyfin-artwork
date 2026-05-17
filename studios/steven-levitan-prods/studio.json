@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Steven Levitan Prods",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122932"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

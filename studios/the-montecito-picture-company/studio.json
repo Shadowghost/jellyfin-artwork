@@ -1,0 +1,20 @@
+[
+  {
+    "name": "The Montecito Picture Company",
+    "country": "US",
+    "headquarters": "Beverly Hills, California United States",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2364",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oZyR5maGM96jReVgW7oJ7mXN8ts.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

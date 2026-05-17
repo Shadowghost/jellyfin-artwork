@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Velvet Films",
+    "country": "BE",
+    "homepage": "https://www.velvetfilms.be/",
+    "headquarters": "Brussels",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15362",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aurALPPlHEmvVZHt6UnA3k408zn.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

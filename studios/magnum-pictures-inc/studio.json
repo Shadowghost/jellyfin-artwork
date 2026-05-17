@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Magnum Pictures Inc.",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143033"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

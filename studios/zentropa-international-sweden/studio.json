@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Zentropa International Sweden",
+    "country": "SE",
+    "homepage": "https://www.zentropasweden.com/",
+    "headquarters": "Gothenburg, Sweden",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8288",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5THcBZP0ad7hXPjtPTxld5sVJQp.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Slot Machine",
+    "country": "FR",
+    "homepage": "https://www.slotmachine.fr",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7777",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vd6oWpxQXyaeWGfm0A5SnJi8pyo.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

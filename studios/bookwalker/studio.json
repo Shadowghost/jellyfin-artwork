@@ -1,0 +1,22 @@
+[
+  {
+    "name": "BookWalker",
+    "description": "Japanese ebook and manga distribution service owned by Kadokawa, operating both domestic and global storefronts.",
+    "country": "JP",
+    "type": "distributor",
+    "homepage": "https://bookwalker.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157646",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4peB1UxyMS4nGAI3USf1XFoRBy0.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

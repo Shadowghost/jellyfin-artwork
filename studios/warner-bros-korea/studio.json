@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Warner Bros. Korea",
+    "country": "KR",
+    "headquarters": "Gangnam, Seoul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103747",
+        "logo_uri": "https://image.tmdb.org/t/p/original/famoQxsF9T7bDspYcFAfEcv2o3z.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

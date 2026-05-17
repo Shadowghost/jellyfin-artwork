@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Les Films en vrac",
+    "country": "FR",
+    "homepage": "http://www.les-films-en-vrac.com",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84633"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "STUDIO4℃",
+    "country": "JP",
+    "homepage": "https://www.studio4c.co.jp/english/",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10868",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9779IFPDaVxYmmWOHHfRyH17qnx.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

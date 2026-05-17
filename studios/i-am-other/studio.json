@@ -1,0 +1,21 @@
+[
+  {
+    "name": "i am OTHER",
+    "country": "US",
+    "homepage": "https://iamother.com/",
+    "headquarters": "New York, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123495",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dR7yKIL5pijeOA5doGRyTFRbij1.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

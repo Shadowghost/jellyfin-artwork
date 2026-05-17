@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Showtime Networks",
+    "description": "American premium television network subsidiary of Paramount Global, operating Showtime, The Movie Channel and Flix; producer of original series such as Dexter, Homeland and Yellowjackets.",
+    "country": "US",
+    "type": "cable-network",
+    "homepage": "https://www.paramountpluswithshowtime.com/",
+    "headquarters": "New York City, New York",
+    "colors": [
+      {
+        "name": "Showtime Red",
+        "hex": "#E40000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4343",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rXq1B1Hnkdnw6soz1zoGcslK3wb.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

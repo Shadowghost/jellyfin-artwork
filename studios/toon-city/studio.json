@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Toon City",
+    "description": "Philippine animation studio based in Manila, providing animation services for Disney, Warner Bros., and other major studios.",
+    "country": "PH",
+    "type": "studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133735"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Toon City Animation"
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Sunrise",
+    "aka": [
+      "SUNRISE"
+    ],
+    "country": "JP",
+    "homepage": "https://www.sunrise-inc.co.jp",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3153",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

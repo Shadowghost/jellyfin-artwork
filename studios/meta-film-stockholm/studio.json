@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Meta Film Stockholm",
+    "country": "SE",
+    "headquarters": "Stockholm, Stockholm County",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108004",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kvJMq7yPzXlbC6a6p3TELDfcTRD.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

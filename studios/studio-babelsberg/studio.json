@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Studio Babelsberg",
+    "country": "DE",
+    "homepage": "http://www.studiobabelsberg.com",
+    "headquarters": "Potsdam",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fA90qwUKgPhMONqtwY60GaHRyrW.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

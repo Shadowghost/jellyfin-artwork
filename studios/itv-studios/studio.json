@@ -1,0 +1,21 @@
+[
+  {
+    "name": "ITV Studios",
+    "country": "GB",
+    "homepage": "https://itvstudios.com/",
+    "headquarters": "London, England, UK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24546",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AffgIsVKcudKagSu3MV3phsV5Vw.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

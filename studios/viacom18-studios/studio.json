@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Viacom18 Studios",
+    "country": "IN",
+    "homepage": "https://www.viacom18studios.com",
+    "headquarters": "Mumbai, Maharashtra",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6808",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xa1Yz7B5eRC2F9oHA6mDn8NE6ci.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

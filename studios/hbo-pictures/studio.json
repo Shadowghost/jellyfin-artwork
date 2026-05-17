@@ -1,0 +1,29 @@
+[
+  {
+    "name": "HBO Pictures",
+    "description": "Television film production division of HBO, originally branded HBO Pictures (later folded into HBO Films); produced original made-for-cable movies starting in 1983.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://boopictures.com",
+    "headquarters": "Los Angeles, California",
+    "colors": [
+      {
+        "name": "HBO Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "54268",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Pvi7supNmOjgH2dqnKPTsmKsSL.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

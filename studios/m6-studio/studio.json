@@ -1,0 +1,20 @@
+[
+  {
+    "name": "M6 Studio",
+    "country": "FR",
+    "homepage": "https://www.groupem6.fr/",
+    "headquarters": "Neuilly-sur-Seine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4888"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "name": "IFC FIlms",
+    "description": "American film distribution company specializing in independent and foreign films, operating as a subsidiary of AMC Networks; releases titles under IFC Films, IFC Midnight (genre/horror), and Sundance Selects labels.",
+    "country": "US",
+    "type": "distributor",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "307",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gUi3pAUznQJpR296lw4mSVbB7zx.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "IFC Films"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Provogue Records",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83994"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

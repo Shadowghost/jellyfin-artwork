@@ -1,0 +1,21 @@
+[
+  {
+    "name": "West Japan Marketing Communications",
+    "country": "JP",
+    "homepage": "https://www.jcomm.co.jp/",
+    "headquarters": "Kita, Osaka",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249710",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u6WJ6p3BMNYZgshJCy4SAIAM8sD.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

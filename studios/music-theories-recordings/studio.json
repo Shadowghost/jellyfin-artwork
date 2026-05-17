@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Music Theories Recordings",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130712"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fontana Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60649"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

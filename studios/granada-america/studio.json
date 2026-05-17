@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Granada America",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10957",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1nPjD2lNjdj7fM3lUKSYXrhvNjN.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

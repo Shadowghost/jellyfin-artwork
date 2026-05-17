@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Section Eight",
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nmnWiA0Xf0uve4Hw3HKWdVE5tH1.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

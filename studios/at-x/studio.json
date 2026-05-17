@@ -1,15 +1,31 @@
 [
   {
     "name": "AT-X",
-    "machine-name": "at-x",
-    "providers": {
-      "tvdb": "433",
-      "tmdb": "173",
-      "imdb": "co0035005"
-    },
+    "country": "GR",
+    "providers": [
+      {
+        "provider_name": "tvdb",
+        "id": "433"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "17981"
+      },
+      {
+        "provider_name": "imdb",
+        "id": "co0035005"
+      }
+    ],
     "artwork": {
-      "primary": ["svg", "webp"],
-      "thumb": ["svg", "webp"]
-    }
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "at-x"
   }
 ]

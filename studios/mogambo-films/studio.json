@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Mogambo Films",
+    "country": "ES",
+    "homepage": "http://www.antfunds.com/mogambo/en/inicio-eng",
+    "headquarters": "Madrid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103476",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1Wj9FXynetoCaNxUoBRvKxcKDsB.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

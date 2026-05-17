@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Arthur Sarkissian Productions",
+    "country": "US",
+    "homepage": "http://www.sarkissianproductions.com",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139921"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

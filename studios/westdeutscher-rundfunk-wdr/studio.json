@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Westdeutscher Rundfunk",
+    "description": "German regional public-service broadcaster for North Rhine-Westphalia and one of the largest member institutions of the ARD network.",
+    "country": "DE",
+    "type": "broadcast-network",
+    "headquarters": "Hamburg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84113"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Diaphana Films",
+    "country": "FR",
+    "homepage": "http://diaphana.fr/",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "744",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uM3Vrs3TZJJJTyCAPy4zir9IQeC.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

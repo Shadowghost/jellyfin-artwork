@@ -1,0 +1,21 @@
+[
+  {
+    "name": "BUN-BUKU",
+    "country": "JP",
+    "homepage": "https://www.bunbukubun.com/",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75214",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uhbLKNEl2nSeYmaD5bpP7ARpc5E.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fiction FACTory Filmproduktion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20121"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

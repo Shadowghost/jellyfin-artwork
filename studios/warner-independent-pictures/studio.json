@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Warner Independent Pictures",
+    "description": "American independent film label of Warner Bros., active from 2003 to 2008; released films including Good Night, and Good Luck and A Scanner Darkly.",
+    "country": "US",
+    "type": "studio",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11509",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iL23YdqxvCCkGIOw7Q7ob21bDdB.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

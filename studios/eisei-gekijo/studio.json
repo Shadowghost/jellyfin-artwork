@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Eisei Gekijo",
+    "country": "JP",
+    "homepage": "https://www.eigeki.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9177",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4J38yaZJMtU8fI1bxIdE9PHnGb7.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

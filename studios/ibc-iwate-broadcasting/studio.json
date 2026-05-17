@@ -1,0 +1,22 @@
+[
+  {
+    "name": "IBC Iwate Broadcasting",
+    "description": "Japanese commercial broadcaster based in Morioka, Iwate Prefecture; affiliate of Japan News Network (TBS).",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.ibc.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "43896",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pHz7WlG7Umo0p23QInPx3QbYz9T.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

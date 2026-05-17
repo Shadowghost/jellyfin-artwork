@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Goldfinch Studios",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102290",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oAHohSArs894M7z0LwVLbd38bFA.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

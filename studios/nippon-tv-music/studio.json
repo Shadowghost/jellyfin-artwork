@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nippon TV Music",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162044"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

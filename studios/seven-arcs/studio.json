@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Seven Arcs",
+    "description": "Japanese anime studio based in Nakano, Tokyo, founded in 2002 and best known for Magical Girl Lyrical Nanoha; wholly owned by TBS Holdings since 2017.",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "http://www.7arcs.co.jp/english/",
+    "headquarters": "Nerima, Tokyo Prefecture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34767",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bwQwcvERESoieoPksEq1iZsRW0J.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

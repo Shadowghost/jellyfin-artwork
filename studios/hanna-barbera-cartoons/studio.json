@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Hanna-Barbera Cartoons",
+    "description": "American animation studio founded by William Hanna and Joseph Barbera; creator of The Flintstones, Scooby-Doo, Yogi Bear, and The Jetsons. Absorbed into Warner Bros. Animation in 2001.",
+    "country": "US",
+    "type": "studio",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1353",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yXhCcOFK5Fy3ZBQwhBYx8Zu9ZIw.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Hanna-Barbera"
+    ]
+  }
+]

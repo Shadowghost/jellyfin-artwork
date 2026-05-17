@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Cross City Films",
+    "country": "AU",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159766",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A6yBN3mIr9S0tOtahRCx8rJtwuY.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

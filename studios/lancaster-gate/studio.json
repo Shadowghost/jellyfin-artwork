@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lancaster Gate",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19464"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

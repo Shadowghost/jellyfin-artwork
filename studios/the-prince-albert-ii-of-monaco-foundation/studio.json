@@ -1,0 +1,26 @@
+[
+  {
+    "name": "The Prince Albert II of Monaco Foundation",
+    "description": "Global environmental non-profit foundation founded in 2006 by Prince Albert II of Monaco, focused on climate change, biodiversity and water; supports documentaries and media on environmental topics.",
+    "country": "MC",
+    "type": "other",
+    "homepage": "https://www.fpa2.org/en/index",
+    "headquarters": "Monaco",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234221",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dl4ezKOcB4rO5aWrOJxcAd8X7L8.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Prince Albert II of Monaco Foundation"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tooley Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90672"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

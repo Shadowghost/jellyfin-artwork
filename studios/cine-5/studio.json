@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ciné 5",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14498"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

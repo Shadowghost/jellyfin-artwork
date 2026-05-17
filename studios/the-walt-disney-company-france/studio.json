@@ -1,0 +1,21 @@
+[
+  {
+    "name": "The Walt Disney Company France",
+    "country": "FR",
+    "homepage": "https://corporate.disney.fr/",
+    "headquarters": "Paris, Île-de-France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135745",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uVLvZaUx7lw1K5d2dfOjYrbcpKd.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

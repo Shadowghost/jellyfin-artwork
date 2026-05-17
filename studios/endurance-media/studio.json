@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Endurance Media",
+    "country": "US",
+    "homepage": "http://www.endurance-media.com/",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89171",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c3ttVfx0itQzk2vOR0053qzzd3B.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

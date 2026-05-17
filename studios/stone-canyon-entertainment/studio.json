@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Stone Canyon Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "43569"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

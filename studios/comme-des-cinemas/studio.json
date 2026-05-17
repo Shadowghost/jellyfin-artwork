@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Comme des Cinémas",
+    "country": "FR",
+    "homepage": "https://www.commedescinemas.com",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7003",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Ar3mtT0DfdXng0Bg4OxarqukBIt.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

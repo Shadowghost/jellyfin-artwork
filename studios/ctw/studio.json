@@ -1,0 +1,20 @@
+[
+  {
+    "name": "CTW",
+    "country": "JP",
+    "homepage": "https://ctw.inc/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120333",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1c8CUTLT325LdamZQUq5dRSZTbU.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

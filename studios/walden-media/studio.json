@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Walden Media",
+    "description": "American family entertainment film production company owned by Philip Anschutz, known for The Chronicles of Narnia film series, Holes, and Bridge to Terabithia.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.walden.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10221",
+        "logo_uri": "https://image.tmdb.org/t/p/original/99VfWRgKasZoyK9UVB39gnYvFrZ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

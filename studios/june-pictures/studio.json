@@ -1,0 +1,21 @@
+[
+  {
+    "name": "June Pictures",
+    "country": "US",
+    "homepage": "http://junepictures.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76901",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l6LNuKdl51PmyO130Kzmc9FKosI.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

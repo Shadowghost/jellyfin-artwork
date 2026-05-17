@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Twilight Riders",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147956"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

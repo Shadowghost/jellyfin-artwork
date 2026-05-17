@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Swingin' Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13693"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

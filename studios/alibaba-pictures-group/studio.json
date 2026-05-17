@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Alibaba Pictures Group",
+    "country": "CN",
+    "homepage": "http://www.alibabapictures.com/simp/0-home.html",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69484",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2xtmvbEse87LM7OJXVksv7DToZx.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

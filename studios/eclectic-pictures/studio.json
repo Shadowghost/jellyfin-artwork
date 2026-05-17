@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Eclectic Pictures",
+    "country": "US",
+    "homepage": "https://www.eclecticpictures.com",
+    "headquarters": "West Hollywood, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71488",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nPp265iNWFO4T07mTNME91bBSKk.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

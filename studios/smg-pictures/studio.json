@@ -1,0 +1,19 @@
+[
+  {
+    "name": "SMG Pictures",
+    "country": "CN",
+    "homepage": "https://www.opg.cn/cn/index.html",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20495"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

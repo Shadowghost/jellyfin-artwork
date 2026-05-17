@@ -1,0 +1,22 @@
+[
+  {
+    "name": "RTL+",
+    "aka": [
+      "RTL"
+    ],
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191146",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r2CAVySg9xWdGMnLpwEE4gjsvw4.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

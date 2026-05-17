@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Kyoraku Industrial Holdings",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221091",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pu0DoV6xEqYOt5mFw2r3P2mlWSV.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

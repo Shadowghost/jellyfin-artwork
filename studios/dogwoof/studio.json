@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Dogwoof",
+    "country": "GB",
+    "homepage": "https://dogwoof.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8191",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bXYH4HA4GqN5mAIn2pRdlqnDRyI.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

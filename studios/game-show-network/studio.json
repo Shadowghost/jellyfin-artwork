@@ -1,15 +1,30 @@
 [
   {
     "name": "Game Show Network",
-    "machine-name": "game-show-network",
-    "providers": {
-      "tmdb": "63",
-      "tvdb": "116"
-    },
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62491"
+      },
+      {
+        "provider_name": "tvdb",
+        "id": "116"
+      }
+    ],
     "artwork": {
-      "logo": ["svg", "webp"],
-      "primary": ["svg", "webp"],
-      "thumb": ["svg", "webp"]
-    }
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ],
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "game-show-network"
   }
 ]

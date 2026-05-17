@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MZA Msuic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39197"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

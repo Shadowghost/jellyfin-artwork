@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Animal Planet",
+    "description": "American multinational pay television channel focused on animal- and nature-related programming.",
+    "country": "US",
+    "type": "cable-network",
+    "colors": [
+      {
+        "name": "Animal Planet Blue",
+        "hex": "#0072CE"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198837"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Toho Pictures",
+    "description": "Japanese film production subsidiary of Toho Co., Ltd., one of the major film studios in Japan; producer of Godzilla, Shin Godzilla, Your Name and many live-action features.",
+    "country": "JP",
+    "type": "production-company",
+    "homepage": "https://www.tohoeiga.jp/eng/index.html",
+    "headquarters": "Chiyoda, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49301",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vmLo0piReB0EI1boTiBZ8eDJ7vD.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

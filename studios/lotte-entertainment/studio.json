@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Lotte Entertainment",
+    "country": "KR",
+    "homepage": "http://lotteent.com/Main/Main.asp",
+    "headquarters": "Songpa, Seoul, South Korea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7819",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ghFZAt4edln0M7BzDExyYMzUGX1.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

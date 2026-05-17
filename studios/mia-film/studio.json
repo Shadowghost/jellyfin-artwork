@@ -1,0 +1,21 @@
+[
+  {
+    "name": "MIA Film",
+    "country": "IT",
+    "homepage": "https://www.miafilm.it/",
+    "headquarters": "Rome",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248152",
+        "logo_uri": "https://image.tmdb.org/t/p/original/opOxK51beu4Nhyhs6A9C1110Xyv.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

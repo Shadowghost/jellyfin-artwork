@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Objektív Film",
+    "country": "HU",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55540"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

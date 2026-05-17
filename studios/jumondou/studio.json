@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Jumondou",
+    "country": "JP",
+    "homepage": "http://jumondou.com",
+    "headquarters": "Nerima, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108805",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6H1Dk0Fd9EzuuKczelnPZZNMCyU.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

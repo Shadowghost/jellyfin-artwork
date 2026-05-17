@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Little Sam Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23784"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Orange Video House",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78947"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

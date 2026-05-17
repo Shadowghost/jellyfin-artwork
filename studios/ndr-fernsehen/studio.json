@@ -1,0 +1,26 @@
+[
+  {
+    "name": "NDR Fernsehen",
+    "description": "German regional public broadcasting television channel operated by NDR for northern Germany.",
+    "country": "DE",
+    "type": "broadcast-network",
+    "colors": [
+      {
+        "name": "NDR Blue",
+        "hex": "#0084C3"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69405"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

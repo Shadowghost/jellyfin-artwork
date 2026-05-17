@@ -1,0 +1,19 @@
+[
+  {
+    "name": "El Dorado Pictures",
+    "country": "US",
+    "headquarters": "Universal City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23034"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

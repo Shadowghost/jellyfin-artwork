@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Kagoshima Broadcasting",
+    "description": "Japanese commercial television station based in Kagoshima Prefecture, affiliated with TV Asahi and All-Nippon News Network.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "http://www.kkb.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252718",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nUiJtQELdZrZleVxRHjiUXVP43g.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

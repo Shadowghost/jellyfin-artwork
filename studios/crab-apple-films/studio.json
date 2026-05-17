@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Crab Apple Films",
+    "country": "GB",
+    "headquarters": "Glasgow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41517"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

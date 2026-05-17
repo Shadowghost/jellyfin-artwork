@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Catpics",
+    "country": "CH",
+    "homepage": "http://www.catpics.ch",
+    "headquarters": "Zürich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75365",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aEBa7j3l93Q9Wx150YGdp7obASM.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Birnbaum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23731"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

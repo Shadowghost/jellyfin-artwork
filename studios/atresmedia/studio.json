@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Atresmedia",
+    "description": "Spanish mass media conglomerate operating television (Antena 3, laSexta), radio (Onda Cero) and film production (Atresmedia Cine).",
+    "country": "ES",
+    "type": "broadcast-network",
+    "homepage": "https://www.atresmedia.com",
+    "headquarters": "San Sebastián de los Reyes, Madrid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29566",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wHbtRtUnXGNzX0riQIpq1fcgueq.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

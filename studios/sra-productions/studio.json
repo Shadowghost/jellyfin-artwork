@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SRA Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94135"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

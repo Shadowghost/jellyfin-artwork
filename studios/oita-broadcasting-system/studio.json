@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Oita Broadcasting System",
+    "description": "Japanese commercial television and radio station based in Oita Prefecture, affiliated with the Japan News Network (TBS).",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.akita-abs.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216021",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eVnOgCBJHEOuKyUmIXKhcIsjxOK.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

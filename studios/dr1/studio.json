@@ -1,15 +1,36 @@
 [
   {
     "name": "DR1",
-    "machine-name": "dr1",
-    "providers": {
-      "tvdb": "76",
-      "tmdb": "391",
-      "imdb": "co0503270"
-    },
+    "description": "Flagship Danish public-service television channel of DR (Danmarks Radio); Denmark's first TV channel, on air since 1951.",
+    "country": "DK",
+    "type": "broadcast-network",
+    "homepage": "https://www.dr.dk/",
+    "headquarters": "Copenhagen",
+    "providers": [
+      {
+        "provider_name": "tvdb",
+        "id": "76"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "119",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1di2gITGUZr730AMuMKiCrP90Vl.png"
+      },
+      {
+        "provider_name": "imdb",
+        "id": "co0503270"
+      }
+    ],
     "artwork": {
-      "primary": ["svg", "webp"],
-      "thumb": ["svg", "webp"]
-    }
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "dr1"
   }
 ]

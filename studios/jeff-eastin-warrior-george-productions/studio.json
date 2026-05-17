@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Jeff Eastin & Warrior George Productions",
+    "description": "Television production company of writer/producer Jeff Eastin (White Collar, Graceland).",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75008"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Jeff Eastin/Warrior George Productions"
+    ]
+  }
+]

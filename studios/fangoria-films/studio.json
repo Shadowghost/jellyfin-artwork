@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Fangoria Films",
+    "country": "US",
+    "homepage": "http://www.fangoria.com",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53472",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o8znB0tc9qvtdQLC0GauSZzUgXs.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

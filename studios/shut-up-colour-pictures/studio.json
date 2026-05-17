@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Shut Up & Colour Pictures",
+    "country": "CA",
+    "homepage": "http://www.shutupandcolour.com/",
+    "headquarters": "Halifax, Nova Scotia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99339",
+        "logo_uri": "https://image.tmdb.org/t/p/original/WdHQIr9l3cHjVR86XgFxcI0Wpm.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

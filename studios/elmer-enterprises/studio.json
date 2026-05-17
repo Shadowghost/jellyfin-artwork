@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Elmer Enterprises",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12282"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

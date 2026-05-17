@@ -1,0 +1,21 @@
+[
+  {
+    "name": "WETA",
+    "country": "US",
+    "homepage": "https://weta.org",
+    "headquarters": "Washington, D.C.",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10725",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rLfwt5kPoXfJweOsEDgJhhBnN7Q.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

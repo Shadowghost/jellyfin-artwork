@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Ryan Murphy Television",
+    "country": "US",
+    "homepage": "https://ryanmurphyproductions.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19328",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2AdkrU1av4fDGw0Zaf68XH4YcqC.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

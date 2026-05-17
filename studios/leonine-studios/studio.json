@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Leonine Studios",
+    "country": "DE",
+    "homepage": "https://www.leoninestudios.com/en/",
+    "headquarters": "Munich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129014",
+        "logo_uri": "https://image.tmdb.org/t/p/original/prEkjaZmlInntYbwTCJvgpAzd8E.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

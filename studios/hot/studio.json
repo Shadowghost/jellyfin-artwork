@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Hot",
+    "country": "IL",
+    "homepage": "https://hscc.co.il",
+    "headquarters": "Tel Aviv",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29725",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6PJrEn8WR7RQzbwv6vGoEvxg6Dh.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Unigram",
+    "country": "GB",
+    "homepage": "http://unigram.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60323",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6IzmhiRMaYUxORjiJ5vZm9gSagy.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

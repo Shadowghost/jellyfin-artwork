@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Ministero per i Beni e le Attività Culturali",
+    "description": "Italian government ministry responsible for cultural heritage, museums, and the funding/support of Italian cinema; renamed to Ministero della Cultura in 2021.",
+    "country": "IT",
+    "type": "government-agency",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14016"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

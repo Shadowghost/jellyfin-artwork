@@ -1,0 +1,29 @@
+[
+  {
+    "name": "DirecTV",
+    "description": "American direct broadcast satellite service provider and broadcaster, originally a unit of Hughes Electronics and now owned by TPG Capital and AT&T.",
+    "country": "US",
+    "type": "broadcast-network",
+    "homepage": "https://www.directv.com",
+    "headquarters": "El Segundo, California",
+    "colors": [
+      {
+        "name": "DirecTV Blue",
+        "hex": "#00A8E1"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34625",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ib6KkJ2zcTlKDAcyegY7UYJ7019.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

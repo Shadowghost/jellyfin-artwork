@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tencent",
+    "description": "Chinese multinational technology and entertainment conglomerate active in gaming, social media (WeChat), streaming (Tencent Video) and film/anime production.",
+    "country": "CN",
+    "type": "other",
+    "homepage": "https://www.tencent.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87079",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iYr0WDJcVZgRh1hSCFiI0SxwaxP.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

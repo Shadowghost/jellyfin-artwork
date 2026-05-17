@@ -1,0 +1,20 @@
+[
+  {
+    "name": "K2studio",
+    "country": "SK",
+    "homepage": "http://www.k2studio.sk/en/k2studio/kontakt",
+    "headquarters": "Bratislava, Slovakia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11174"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

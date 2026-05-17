@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Animal Logic",
+    "description": "Australian VFX and animation studio known for The Lego Movie, Happy Feet, and Legend of the Guardians; acquired by Netflix in 2022.",
+    "country": "AU",
+    "type": "production-company",
+    "homepage": "https://www.animallogic.com",
+    "headquarters": "Sydney, New South Whales",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8089",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kEUAzsG2hZcCV7rmSCozgLhGWaa.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

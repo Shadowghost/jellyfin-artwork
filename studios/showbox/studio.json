@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Showbox",
+    "country": "KR",
+    "parent_company": "Lotte Entertainment",
+    "homepage": "http://www.showbox.co.kr/english/",
+    "headquarters": "Gangnam, Seoul, South Korea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3491",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hXRKXi3M9qfP4Npi1kjAaH4eGnM.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dynamo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164992"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Man of Action Entertainment",
+    "country": "US",
+    "homepage": "https://manofaction.tv",
+    "headquarters": "Atlanta, Georgia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78253",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9TKvqez9Es23bsemwO8tARXAA1q.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

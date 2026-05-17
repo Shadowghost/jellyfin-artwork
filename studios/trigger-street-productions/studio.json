@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Trigger Street Productions",
+    "country": "US",
+    "homepage": "http://triggerstreet.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7626",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4839MGss4pPAalhqqYH1AD1CnEj.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

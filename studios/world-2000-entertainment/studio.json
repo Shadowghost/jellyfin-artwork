@@ -1,0 +1,20 @@
+[
+  {
+    "name": "World 2000 Entertainment",
+    "country": "IE",
+    "homepage": "http://world2000.ie",
+    "headquarters": "Bray",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7692"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

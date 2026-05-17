@@ -1,0 +1,19 @@
+[
+  {
+    "name": "W9",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34774",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cM28ZjokHs5Y9HKMUxkbE83LJNM.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

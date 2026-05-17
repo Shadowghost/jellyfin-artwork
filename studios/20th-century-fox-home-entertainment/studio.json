@@ -1,0 +1,22 @@
+[
+  {
+    "name": "20th Century Fox Home Entertainment",
+    "description": "Home-video distribution arm of 20th Century Studios, releasing the studio's films on DVD, Blu-ray, and digital formats.",
+    "country": "US",
+    "type": "distributor",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3635",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e4dCQJpJjwL46i1WuGpTIO3srL6.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

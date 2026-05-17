@@ -1,0 +1,20 @@
+[
+  {
+    "name": "VideoFilmes",
+    "country": "BR",
+    "headquarters": "Rio de Janeiro, Rio de Janeiro",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "346",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ymwuRMQkrQojx55MeMO861Rdecz.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

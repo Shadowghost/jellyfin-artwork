@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Toho Pictures, Inc.",
+    "country": "JP",
+    "homepage": "https://www.tohoeiga.jp/eng/index.html",
+    "headquarters": "Chiyoda, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49301",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vmLo0piReB0EI1boTiBZ8eDJ7vD.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

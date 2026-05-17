@@ -1,0 +1,22 @@
+[
+  {
+    "name": "RKK Kumamoto Broadcasting",
+    "description": "Japanese television and radio station based in Kumamoto Prefecture, affiliated with the Japan News Network (JNN) and TBS.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://rkk.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275657",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2KdfApDmEDn9cjPJf3oI0ZbatXJ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "SB Creative",
+    "country": "JP",
+    "homepage": "https://www.sbcr.jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142185",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1gWzgRKlpVVHLY8yYzTFesSZzR2.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

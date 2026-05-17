@@ -1,0 +1,21 @@
+[
+  {
+    "name": "IPR.VC",
+    "country": "FI",
+    "homepage": "https://ipr.vc",
+    "headquarters": "Helsinki",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142269",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ggrWFqk5mPMks0vE3aCy3l9e0dv.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

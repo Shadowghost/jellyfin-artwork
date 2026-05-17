@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Coloroffon",
+    "country": "PL",
+    "homepage": "https://coloroffon.pl/",
+    "headquarters": "Warszawa, Mazowieckie, Poland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138280"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

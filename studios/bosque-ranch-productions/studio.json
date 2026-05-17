@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Bosque Ranch Productions",
+    "country": "US",
+    "homepage": "https://bosqueranchproductions.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106789",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oEgUdRh5YWF6Il705WnpwauirIj.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

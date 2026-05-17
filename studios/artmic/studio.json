@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Artmic",
+    "aka": [
+      "ARTMIC"
+    ],
+    "country": "JP",
+    "headquarters": "Japan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12302",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lkxJXc0o9M2vVoQOyWeZfiNAsXl.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

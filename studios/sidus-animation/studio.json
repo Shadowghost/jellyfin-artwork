@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Sidus Animation",
+    "country": "KR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203205"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

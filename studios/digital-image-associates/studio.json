@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Digital Image Associates",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76068"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bayerischer Banken-Fonds",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8987"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Telefónica Studios",
+    "country": "ES",
+    "homepage": "https://telefonicastudios.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16742"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Weed Road Pictures",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "433",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iafkKMpcRfEXq9a4sQf0h6tg2E2.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

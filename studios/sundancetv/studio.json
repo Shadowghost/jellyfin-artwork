@@ -1,0 +1,20 @@
+[
+  {
+    "name": "SundanceTV",
+    "description": "American cable television network owned by AMC Networks, originally founded by Robert Redford to showcase independent films.",
+    "country": "US",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40473"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Benattar/Thomas Productions",
+    "country": "US",
+    "homepage": "http://www.btprods.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89093",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AeyR5Juomak9PkPqRLYfEk2srxj.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

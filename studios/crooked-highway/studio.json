@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Crooked Highway",
+    "country": "US",
+    "homepage": "https://crooked-highway.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162439",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h9hG1svKeylr9KqUOGmO4i3wRP0.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

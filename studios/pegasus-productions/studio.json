@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pegasus Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19242"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Discreet Arts Productions",
+    "country": "IN",
+    "homepage": "http://discreetarts.com",
+    "headquarters": "Hyderabad, Telangana",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105992",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p0P0hJr83MwERW6GkV0rvRaDiiU.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

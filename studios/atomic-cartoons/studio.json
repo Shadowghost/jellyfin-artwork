@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Atomic Cartoons",
+    "country": "CA",
+    "homepage": "https://atomiccartoons.com/",
+    "headquarters": "Vancouver, British Columbia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71739",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9VhJRP6kUOJWH5QvSTeqMQFWuql.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

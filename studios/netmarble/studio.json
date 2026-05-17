@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Netmarble",
+    "description": "South Korean mobile game developer and publisher headquartered in Seoul, known for games such as Marvel Future Fight and Lineage 2: Revolution.",
+    "country": "KR",
+    "type": "other",
+    "homepage": "http://www.netmarble.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163862"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

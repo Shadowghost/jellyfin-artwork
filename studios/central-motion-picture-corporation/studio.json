@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Central Motion Picture Corporation",
+    "country": "TW",
+    "homepage": "http://www.movie.com.tw/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25345",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pFRF57Hp5x8EKIqmWHv1t34dWVR.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

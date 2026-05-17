@@ -1,15 +1,31 @@
 [
   {
     "name": "FOX",
-    "machine-name": "fox",
-    "providers": {
-      "tvdb": "1305",
-      "tmdb": "19",
-      "imdb": "co0070925"
-    },
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tvdb",
+        "id": "1305"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "264307"
+      },
+      {
+        "provider_name": "imdb",
+        "id": "co0070925"
+      }
+    ],
     "artwork": {
-      "primary": ["svg", "webp"],
-      "thumb": ["svg", "webp"]
-    }
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "fox"
   }
 ]

@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Sveriges Television (SVT)",
+    "description": "Swedish national public television broadcaster, funded by a public service tax, operating channels SVT1, SVT2, SVT Barn, SVT24, and Kunskapskanalen.",
+    "country": "SE",
+    "type": "broadcast-network",
+    "headquarters": "Stockholm, Sverige",
+    "colors": [
+      {
+        "name": "SVT Blue",
+        "hex": "#1E477A"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280902",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6NetJ8kh8ySywHOW9hY4I4imyZ8.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

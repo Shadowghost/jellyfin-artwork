@@ -1,0 +1,20 @@
+[
+  {
+    "name": "G-Unit Film & Television",
+    "country": "US",
+    "homepage": "https://gunitfilmandtv.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45147",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sLv0CvsijmrzpzPCuiNigJp5YHF.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

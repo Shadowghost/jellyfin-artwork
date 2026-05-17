@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Media Farm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29311"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

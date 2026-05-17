@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Siz Entertainment",
+    "country": "KR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10925"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

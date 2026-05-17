@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Many Rivers Productions",
+    "country": "US",
+    "homepage": "http://www.manyriversproductions.com/test/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8854"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

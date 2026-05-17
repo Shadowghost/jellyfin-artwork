@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Camellia Entertainment",
+    "description": "Japanese anime and entertainment production company.",
+    "country": "JP",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10772"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

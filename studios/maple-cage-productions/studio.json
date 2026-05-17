@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Maple Cage Productions",
+    "country": "CA",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88944"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

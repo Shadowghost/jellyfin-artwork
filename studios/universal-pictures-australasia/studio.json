@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Universal Pictures (Australasia)",
+    "country": "AU",
+    "homepage": "http://www.universalpictures.com.au/",
+    "headquarters": "Sydney, New South Wales, Australia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103915",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zOJtxzbgWdCKDFLZRjVOcaa0YNF.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

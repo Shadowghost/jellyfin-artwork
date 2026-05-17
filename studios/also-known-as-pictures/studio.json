@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Also Known As Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12545"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

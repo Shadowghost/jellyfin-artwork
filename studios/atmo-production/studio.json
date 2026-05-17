@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Atmo Production",
+    "country": "SE",
+    "homepage": "https://atmo.se/",
+    "headquarters": "Stockholm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94864",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fYM7fVh7fh9sseW4k9OKlER46YW.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

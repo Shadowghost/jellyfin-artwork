@@ -1,0 +1,20 @@
+[
+  {
+    "name": "The Jackal Group",
+    "country": "US",
+    "homepage": "https://www.thejackalgroup.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75060",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iS6njjhHMBYIcwcBrjNfd53dyXQ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

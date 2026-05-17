@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Advertising Age",
+    "description": "American global media brand publishing analysis, news, and data on marketing and media.",
+    "country": "US",
+    "type": "publisher",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154213"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

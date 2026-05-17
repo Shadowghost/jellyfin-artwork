@@ -1,0 +1,17 @@
+[
+  {
+    "name": "UW3 Film Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7739"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

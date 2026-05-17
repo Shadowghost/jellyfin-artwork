@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Red Planet Pictures",
+    "country": "GB",
+    "homepage": "http://www.redplanetpictures.co.uk",
+    "headquarters": "London",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36740",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o8DuqYo6FSgxt4euhOntSByEMGh.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

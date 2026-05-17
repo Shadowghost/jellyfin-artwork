@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Mona Film Produktion",
+    "country": "AT",
+    "homepage": "https://monafilm.tv/",
+    "headquarters": "Vienna",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18955",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l75RRUtr7na0fmq9Vp091xFCIzT.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Takeshobo",
+    "country": "JP",
+    "homepage": "https://www.takeshobo.co.jp/index",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12452",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ydplIEAVaFoVrUVVGWHwHR1TWAG.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

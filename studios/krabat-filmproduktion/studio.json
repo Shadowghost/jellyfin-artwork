@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Krabat Filmproduktion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1705"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

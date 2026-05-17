@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Faith for Today",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26574"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

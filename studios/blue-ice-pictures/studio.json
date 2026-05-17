@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Blue Ice Pictures",
+    "country": "CA",
+    "homepage": "https://blueicepics.com",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82659",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3mZkZUZUaqXDcIoYnECLb98PSWC.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

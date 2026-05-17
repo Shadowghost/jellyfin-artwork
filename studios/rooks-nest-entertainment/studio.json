@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Rooks Nest Entertainment",
+    "country": "GB",
+    "homepage": "http://www.rooksnestentertainment.com",
+    "headquarters": "London",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34456",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8M1gePvKplgyHRD5WWfONbWOAuk.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

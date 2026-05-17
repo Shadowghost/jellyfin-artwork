@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Shirogumi",
+    "country": "JP",
+    "homepage": "http://shirogumi.com",
+    "headquarters": "Shibuya, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11327",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gJM4ZwaQEKz9zsus8MNGWbm4maV.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,15 +1,30 @@
 [
   {
     "name": "M6",
-    "machine-name": "m6",
-    "providers": {
-      "tvdb": "135",
-      "tmdb": "712",
-      "imdb": "co0037417"
-    },
+    "providers": [
+      {
+        "provider_name": "tvdb",
+        "id": "135"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "157431"
+      },
+      {
+        "provider_name": "imdb",
+        "id": "co0037417"
+      }
+    ],
     "artwork": {
-      "primary": ["svg", "webp"],
-      "thumb": ["svg", "webp"]
-    }
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "m6"
   }
 ]

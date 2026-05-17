@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Saville Productions",
+    "country": "US",
+    "homepage": "https://savilleproductions.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73620",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kQQbILUGiewlKlkK2WeYdLZ61Sm.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

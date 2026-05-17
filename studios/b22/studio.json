@@ -1,0 +1,17 @@
+[
+  {
+    "name": "B22",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22790"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

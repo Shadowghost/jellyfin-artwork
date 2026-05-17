@@ -1,0 +1,21 @@
+[
+  {
+    "name": "U-NEXT",
+    "country": "JP",
+    "homepage": "https://www.unext.co.jp",
+    "headquarters": "Shinagawa, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133695",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xhbd4zDn0iJ1vwj9TcSvtAFEc6w.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Nautilusfilm",
+    "country": "DE",
+    "homepage": "https://nautilusfilm.de/en/index-en.php",
+    "headquarters": "Dorfen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95582",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9PjjDGprhnleFFg7HSUK7Nfmfuk.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

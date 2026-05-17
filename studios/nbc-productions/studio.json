@@ -1,0 +1,19 @@
+[
+  {
+    "name": "NBC Productions",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5253",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cxgRBXMNcbcE0dIaeCc4tbDa4KI.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

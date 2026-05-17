@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Tedy Productions",
+    "country": "IL",
+    "homepage": "https://www.tedy.co.il/",
+    "headquarters": "Tel Aviv",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71633",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ytK94DVebmd9XusnU3Ng6NKJJUZ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

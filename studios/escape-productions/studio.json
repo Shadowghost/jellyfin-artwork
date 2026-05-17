@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Escape Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248569"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

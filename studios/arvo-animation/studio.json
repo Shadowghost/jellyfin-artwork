@@ -1,0 +1,25 @@
+[
+  {
+    "name": "ARVO ANIMATION",
+    "description": "Japanese anime studio founded by former Diomedea staff.",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "http://arvo-animation.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116766",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6P2DnCakufsQBNFRJQQKMPmcrb.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Arvo Animation"
+    ]
+  }
+]

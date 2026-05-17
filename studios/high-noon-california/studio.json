@@ -1,0 +1,17 @@
+[
+  {
+    "name": "High Noon California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114076"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

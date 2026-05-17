@@ -1,0 +1,21 @@
+[
+  {
+    "name": "AGC Studios",
+    "country": "US",
+    "homepage": "https://www.agcstudios.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110799",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eHjtiQJjrGQTooEsBmPSYoUnNB.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

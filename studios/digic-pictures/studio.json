@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Digic Pictures",
+    "description": "Hungarian CGI animation and VFX studio in Budapest, known for cinematic trailers for video games including Assassin's Creed, The Witcher, and Halo.",
+    "country": "HU",
+    "type": "studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75080"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

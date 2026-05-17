@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Toho Company, Ltd.",
+    "country": "JP",
+    "homepage": "https://www.toho.co.jp",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "882",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fRSWWjquvzcHjACbtF53utZFIll.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

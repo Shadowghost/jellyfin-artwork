@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Overture Films",
+    "description": "American independent film production and distribution company owned by Liberty Media's Starz Entertainment; released films such as Righteous Kill, The Crazies and Law Abiding Citizen before being shut down in 2010.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Beverly Hills, California, United States",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12807",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i1TyJLN5V53V6IKbugEzwM3tMvw.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "ExerciseTV",
+    "description": "American fitness-focused video on demand channel that operated from 2006 to 2011, ceased operations in 2011.",
+    "country": "US",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107041"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

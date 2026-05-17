@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Picnic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87876"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

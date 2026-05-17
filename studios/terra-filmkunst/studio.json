@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Terra-Filmkunst",
+    "country": "DE",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "619"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

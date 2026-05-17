@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Premiere Picture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121077"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

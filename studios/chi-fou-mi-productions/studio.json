@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Chi-Fou-Mi Productions",
+    "country": "FR",
+    "headquarters": "Paris, France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34780",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ahgzFRXKF2fkOV0WfB0RCxEmxki.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

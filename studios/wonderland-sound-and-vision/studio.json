@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Wonderland Sound and Vision",
+    "country": "US",
+    "homepage": "http://www.wonderlandsoundandvision.com",
+    "headquarters": "West Hollywood, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4022",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q6Xts6ztGkTHrY1WfHttlhL3Pfc.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

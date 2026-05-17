@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Nimar Studios",
+    "country": "BG",
+    "homepage": "http://www.nimarstudios.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7636",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e6uCvCNTf0nnery1iaQh6QSgpbn.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

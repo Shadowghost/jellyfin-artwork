@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Yes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216917"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

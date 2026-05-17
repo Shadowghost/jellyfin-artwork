@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Aniplus",
+    "description": "South Korean anime cable channel and streaming service that broadcasts simulcast Japanese anime in Korea and Southeast Asia.",
+    "country": "KR",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272364"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Sony Pictures",
+    "description": "American film and television production studio, a subsidiary of Sony Group Corporation.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "http://www.sonypictures.com/homevideo/",
+    "headquarters": "Culver City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5388",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i6tbNeVEi7s1uN97s2o0LhEMuF0.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Sony Pictures Entertainment"
+    ]
+  }
+]

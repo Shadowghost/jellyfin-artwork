@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Very Special Projects",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79436"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Latin World Entertainment",
+    "country": "US",
+    "homepage": "https://latinwe.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106800",
+        "logo_uri": "https://image.tmdb.org/t/p/original/coUbskxUod4obdo4WbQqEPynz9K.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

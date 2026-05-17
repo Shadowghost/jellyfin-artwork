@@ -1,0 +1,23 @@
+[
+  {
+    "name": "KBS Kyoto",
+    "description": "Independent Japanese broadcast television and radio station based in Kyoto.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.kbs-kyoto.co.jp/",
+    "headquarters": "Kyoto, Kyoto",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118501",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j12pSWPsDBxE1mmIpB7M8VRzk78.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Strawberry Meets Pictures",
+    "country": "JP",
+    "homepage": "https://strawberry-meets.com",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100726",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4wDQKvPyMzzmMDOORvwIRp36gxm.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "RAT Entertainment",
+    "description": "American film and television production company co-founded by Brett Ratner and James Packer; financed/co-produced many Warner Bros. films through 2018.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://www.ratpacentertainment.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41624",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wzKxIeQKlMP0y5CaAw25MD6EQmf.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "RatPac Entertainment"
+    ]
+  }
+]

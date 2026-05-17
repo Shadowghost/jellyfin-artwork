@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Burke/Samples/Foster Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23938"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

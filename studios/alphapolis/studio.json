@@ -1,0 +1,21 @@
+[
+  {
+    "name": "AlphaPolis",
+    "country": "JP",
+    "homepage": "https://www.alphapolis.co.jp/",
+    "headquarters": "Shibuya, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188515",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xU35MqcBQ9SqdV9k3YiZnQHwayR.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

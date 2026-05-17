@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Halas and Batchelor Cartoon Films",
+    "country": "GB",
+    "headquarters": "London",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3626"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

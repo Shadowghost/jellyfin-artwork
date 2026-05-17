@@ -1,0 +1,17 @@
+[
+  {
+    "name": "UGC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "259079"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

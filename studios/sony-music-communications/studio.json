@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Sony Music Communications",
+    "description": "Japanese subsidiary of Sony Music Entertainment Japan involved in television, anime, and music production.",
+    "country": "JP",
+    "type": "record-label",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87086",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eAjcgCH2cxuo0oEMqRwU3g0izTv.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

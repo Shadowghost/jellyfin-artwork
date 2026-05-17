@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Hulu Japan",
+    "description": "Japanese subscription video on-demand service originally launched as the Japanese branch of Hulu, sold to Nippon TV in 2014 and operated separately from the US service.",
+    "country": "JP",
+    "type": "streaming-service",
+    "homepage": "https://www.hulu.jp",
+    "headquarters": "Higashi-Shimbashi, Minato, Tokyo",
+    "colors": [
+      {
+        "name": "Hulu Green",
+        "hex": "#1CE783"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140361",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fibZ29NMQS46v7vXZ1Y3uXL7Q39.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

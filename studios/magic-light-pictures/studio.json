@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Magic Light Pictures",
+    "country": "FR",
+    "headquarters": "Boulogne-Billancourt",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109073"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Amercent Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5263"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

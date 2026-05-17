@@ -1,0 +1,20 @@
+[
+  {
+    "name": "AXsiZ",
+    "country": "JP",
+    "homepage": "http://www.axsiz.co.jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72189",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4DWbhCrceJMpg3cWpkDEDTnhcs7.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

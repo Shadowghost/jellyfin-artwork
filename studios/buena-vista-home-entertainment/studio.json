@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Buena Vista Home Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "282816"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

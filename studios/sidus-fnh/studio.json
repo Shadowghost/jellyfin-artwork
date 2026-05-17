@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Sidus FNH",
+    "description": "South Korean film production company, one of the leading producers of Korean cinema in the 2000s, known for Memories of Murder and Tazza: The High Rollers.",
+    "country": "KR",
+    "type": "production-company",
+    "homepage": "http://sidus.com/kor/",
+    "headquarters": "Gangnam, Seoul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3657",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2YXnZa6yPjxdHKzBLgmf57D8QpM.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

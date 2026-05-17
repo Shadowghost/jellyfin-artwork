@@ -1,0 +1,25 @@
+[
+  {
+    "name": "DC Films",
+    "description": "American film and television production company that produces media based on DC Comics characters; rebranded from DC Films in 2022.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184898",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iNTsbEgntSUwHmsZ9whiLhm60WB.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "DC Studios"
+    ]
+  }
+]

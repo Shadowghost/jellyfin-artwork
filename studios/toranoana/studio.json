@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Toranoana",
+    "description": "Japanese specialty retailer and distributor for doujinshi, manga and anime merchandise; also a production committee member for some anime.",
+    "country": "JP",
+    "type": "distributor",
+    "homepage": "https://tora-group.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165700",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vec1PZPimQg3U8n6I2TKo2uYoOd.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

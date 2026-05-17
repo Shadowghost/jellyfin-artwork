@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Extrafilm",
+    "country": "AT",
+    "homepage": "http://www.extrafilm.at",
+    "headquarters": "Vienna",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7959"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

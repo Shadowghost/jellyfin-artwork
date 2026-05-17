@@ -1,16 +1,35 @@
 [
   {
     "name": "ARD",
-    "machine-name": "ard",
-    "providers": {
-	  "imdb": "co0844218",
-      "tmdb": "308",
-      "tvdb": "5044"
-    },
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "imdb",
+        "id": "co0844218"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "1251"
+      },
+      {
+        "provider_name": "tvdb",
+        "id": "5044"
+      }
+    ],
     "artwork": {
-      "logo": ["svg", "webp"],
-      "primary": ["svg", "webp"],
-      "thumb": ["svg", "webp"]
-    }
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ],
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "ard"
   }
 ]

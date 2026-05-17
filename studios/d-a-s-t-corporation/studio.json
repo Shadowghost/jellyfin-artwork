@@ -1,0 +1,17 @@
+[
+  {
+    "name": "D.A.S.T Corporation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128564"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

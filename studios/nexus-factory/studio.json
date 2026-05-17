@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Nexus Factory",
+    "country": "BE",
+    "homepage": "http://www.nexus-factory.com",
+    "headquarters": "Liège",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7561",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yWTuzkQnp4NCS7fDVd5vzgLjoux.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

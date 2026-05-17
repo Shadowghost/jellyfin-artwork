@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Mythomagic",
+    "country": "US",
+    "homepage": "https://mythomagic.com",
+    "headquarters": "Boston, Massachusetts",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155243",
+        "logo_uri": "https://image.tmdb.org/t/p/original/30zNEnpIzxPzaRqaAML8bGBVsRq.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

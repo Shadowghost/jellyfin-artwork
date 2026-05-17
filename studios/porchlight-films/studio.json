@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Porchlight Films",
+    "country": "AU",
+    "homepage": "http://www.porchlightfilms.com.au",
+    "headquarters": "Sydney, New South Wales",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6237",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xfpb8Q8tVU0ZeQ6AUmi27jBRxra.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

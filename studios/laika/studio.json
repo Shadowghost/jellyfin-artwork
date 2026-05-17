@@ -1,0 +1,21 @@
+[
+  {
+    "name": "LAIKA",
+    "country": "US",
+    "homepage": "http://www.laika.com",
+    "headquarters": "Portland, Oregon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11537",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AgCkAk8EpUG9fTmK6mWcaJA2Zwh.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

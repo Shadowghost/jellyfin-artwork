@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Nemofilms",
+    "country": "US",
+    "headquarters": "California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "65105"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

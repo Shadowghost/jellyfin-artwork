@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Blind Spot Pictures",
+    "country": "FI",
+    "homepage": "http://www.blindspot.fi/",
+    "headquarters": "Helsinki, Finland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7330"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

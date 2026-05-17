@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Mandalay Pictures",
+    "description": "American film production company founded by Peter Guber; Mandalay Vision is its independent-film label.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.mandalay.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "551",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jSlzEZZ4Z1g7B2UExjZEIKsUvD9.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

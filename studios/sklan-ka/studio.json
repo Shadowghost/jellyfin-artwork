@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SKLAN & KA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219195"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

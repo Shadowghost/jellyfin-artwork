@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Chungeorahm Film",
+    "country": "KR",
+    "headquarters": "Yongsan, Seoul, South Korea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79498"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

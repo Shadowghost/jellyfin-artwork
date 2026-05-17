@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Crunchyroll SC Anime Fund",
+    "country": "JP",
+    "headquarters": "Shibuya, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166291"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Endemol Shine Studios",
+    "description": "Dutch-British media company formed from the merger of Endemol and Shine Group; acquired by Banijay in 2020 and merged into Banijay Group.",
+    "country": "NL",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "261361"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

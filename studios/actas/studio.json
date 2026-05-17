@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Actas",
+    "description": "Japanese animation studio based in Suginami, Tokyo, founded in 1998; best known for Girls und Panzer and Transformers franchise work; a subsidiary of Bandai Namco Filmworks since 2017.",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "https://actas-inc.co.jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30125",
+        "logo_uri": "https://image.tmdb.org/t/p/original/idI9yjIWXWgLLdWqUbBpWzmTW9t.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

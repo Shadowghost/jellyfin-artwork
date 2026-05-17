@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Starlings Entertainment",
+    "country": "US",
+    "homepage": "https://www.starlingsentertainment.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115012",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rMMWaTIfs7Yq0ZFIKaiNLpoJaqd.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

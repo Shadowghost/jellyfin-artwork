@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Arka Media Works",
+    "country": "IN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "57946",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oBMVxYVfjmirgN7tpz4CaSSTnNj.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Schweizer Radio und Fernsehen",
+    "description": "German-language public broadcaster of Switzerland, the largest enterprise of the Swiss Broadcasting Corporation SRG SSR.",
+    "country": "CH",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42145"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

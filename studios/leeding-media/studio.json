@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Leeding Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118603"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

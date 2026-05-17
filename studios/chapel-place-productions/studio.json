@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Chapel Place Productions",
+    "country": "IE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225329",
+        "logo_uri": "https://image.tmdb.org/t/p/original/haFdiPRSK9wRJ3xQZOqRNpk77jB.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

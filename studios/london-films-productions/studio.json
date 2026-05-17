@@ -1,0 +1,19 @@
+[
+  {
+    "name": "London Films Productions",
+    "country": "GB",
+    "headquarters": "London",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "659"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

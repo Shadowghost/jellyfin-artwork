@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Platige Films",
+    "description": "Polish animation, VFX, and film production studio known for cinematic trailers for The Witcher games and Netflix's The Witcher series.",
+    "country": "PL",
+    "type": "production-company",
+    "homepage": "https://www.platige.com",
+    "headquarters": "Warsaw",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36414"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Platige Image"
+    ]
+  }
+]

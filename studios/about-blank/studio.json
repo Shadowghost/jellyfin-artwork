@@ -1,0 +1,19 @@
+[
+  {
+    "name": "about:blank",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161357",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kQlxsHQKQsDOXmKPZVqEyL827NJ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

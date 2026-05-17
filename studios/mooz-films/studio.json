@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Mooz Films",
+    "country": "LB",
+    "headquarters": "Beirut",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103361"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "National Geographic Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114038",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hgVQE5KwqBhYPKLC9lZmE6zarco.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

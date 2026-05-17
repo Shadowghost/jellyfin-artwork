@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Engine Film Group",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70143"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

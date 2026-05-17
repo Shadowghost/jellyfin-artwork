@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Media Finance Capital",
+    "country": "GB",
+    "homepage": "http://www.mediafinancecapital.com/",
+    "headquarters": "London",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117747",
+        "logo_uri": "https://image.tmdb.org/t/p/original/brD72VA95qgjCtGx0hJEAVUeldW.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

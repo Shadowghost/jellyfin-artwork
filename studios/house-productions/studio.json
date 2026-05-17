@@ -1,0 +1,21 @@
+[
+  {
+    "name": "House Productions",
+    "country": "GB",
+    "homepage": "http://www.houseproductions.com",
+    "headquarters": "Manchester, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112783",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g95BBJvKyOawT3sGVXTdDG72Qad.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

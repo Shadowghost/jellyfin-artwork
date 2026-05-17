@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Pearl Street Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29313",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1whsMqm5kAPxKBhnTlKNcbXBQJK.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

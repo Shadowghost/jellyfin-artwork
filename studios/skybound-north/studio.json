@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Skybound North",
+    "country": "CA",
+    "headquarters": "Vancouver, British Columbia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151645"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

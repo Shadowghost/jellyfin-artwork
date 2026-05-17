@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Cinetic Media",
+    "country": "US",
+    "homepage": "https://cineticmedia.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88582",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zf2Akd6JvRZlnd1OacHYaN5dj0k.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

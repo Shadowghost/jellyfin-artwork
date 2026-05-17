@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Scion Films",
+    "country": "GB",
+    "homepage": "http://scionig.com/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7419",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xePgQxppZtgSMICGgnKAWlVobt7.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

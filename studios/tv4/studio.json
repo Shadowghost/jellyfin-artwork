@@ -1,0 +1,21 @@
+[
+  {
+    "name": "TV4",
+    "country": "SE",
+    "homepage": "https://www.tv4.se/",
+    "headquarters": "Stockholm, Sweden",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2802",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7L7VUXTBLiHruhUjYJebV46uw3c.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Mandate Pictures",
+    "country": "US",
+    "homepage": "http://www.mandatepictures.com",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "771",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fQpEeXgCVsXQkVVFMMjrrkOFja3.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

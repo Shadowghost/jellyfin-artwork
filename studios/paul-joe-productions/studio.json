@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Paul & Joe Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106801"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

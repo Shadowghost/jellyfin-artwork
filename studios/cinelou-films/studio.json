@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Cinelou Films",
+    "country": "US",
+    "homepage": "https://cinelou-films.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39644",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ls2IbZacuJSJL37SXu8uwDjKvdC.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

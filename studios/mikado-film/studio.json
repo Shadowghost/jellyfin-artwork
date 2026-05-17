@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Mikado Film",
+    "country": "IT",
+    "headquarters": "Roma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11912"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

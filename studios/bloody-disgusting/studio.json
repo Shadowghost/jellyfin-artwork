@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Bloody Disgusting",
+    "description": "American horror film website and entertainment brand covering horror news, reviews, and producing/distributing horror films through its Bloody Disgusting Selects label.",
+    "country": "US",
+    "type": "publisher",
+    "homepage": "https://bloody-disgusting.com",
+    "headquarters": "Beverly Hills, California",
+    "colors": [
+      {
+        "name": "Bloody Red",
+        "hex": "#C8102E"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15157",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yezzLb9RbKNtQUsyYySAqC9TQr7.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

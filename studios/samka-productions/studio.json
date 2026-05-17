@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Samka Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97094"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

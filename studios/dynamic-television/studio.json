@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Dynamic Television",
+    "country": "US",
+    "homepage": "https://www.dynamictelevision.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149891",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2VFTrLBlFqDEPKuJgcqKTIQD8Gx.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

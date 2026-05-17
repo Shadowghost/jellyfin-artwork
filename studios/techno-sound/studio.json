@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Techno Sound",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138329"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

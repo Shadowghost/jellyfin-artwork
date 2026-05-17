@@ -1,0 +1,23 @@
+[
+  {
+    "name": "King Features Syndicate",
+    "description": "American print syndication company that distributes comic strips, columns, and editorial cartoons, owned by Hearst.",
+    "country": "US",
+    "type": "distributor",
+    "homepage": "http://kingfeatures.com",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1488",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ds4vzeoDAcUk2izdf0pIkR19pbW.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

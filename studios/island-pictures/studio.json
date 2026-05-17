@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Island Pictures",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3492",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r8hXWahj8kPvEJO9nmN09ScILgk.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

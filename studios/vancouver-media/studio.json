@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Vancouver Media",
+    "country": "ES",
+    "homepage": "https://vancouvermedia.es",
+    "headquarters": "Madrid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100783",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zCbBliLd81vorYMSBT3vkv5sHYL.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

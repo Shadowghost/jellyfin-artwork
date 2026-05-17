@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Mercury Filmworks",
+    "country": "CA",
+    "homepage": "https://mercuryfilmworks.com",
+    "headquarters": "Ottawa, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79465",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6qOISqaMEeKhvYGB0ryEtlcRZaM.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

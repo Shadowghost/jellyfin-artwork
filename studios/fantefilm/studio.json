@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Fantefilm",
+    "country": "NO",
+    "homepage": "http://fantefilm.no/",
+    "headquarters": "Oslo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3079",
+        "logo_uri": "https://image.tmdb.org/t/p/original/12cb7xhHlYnW4uksoVR8hp48psC.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

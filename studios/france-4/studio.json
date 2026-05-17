@@ -1,15 +1,31 @@
 [
   {
     "name": "France 4",
-    "machine-name": "france-4",
-    "providers": {
-      "tvdb": "107",
-      "tmdb": "511",
-      "imdb": "co0148003"
-    },
+    "country": "MX",
+    "providers": [
+      {
+        "provider_name": "tvdb",
+        "id": "107"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "33928"
+      },
+      {
+        "provider_name": "imdb",
+        "id": "co0148003"
+      }
+    ],
     "artwork": {
-      "primary": ["svg", "webp"],
-      "thumb": ["svg", "webp"]
-    }
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "france-4"
   }
 ]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Rough Draft Korea",
+    "country": "KR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142198",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p01DTJ87SKywfMdvTqwmAp5Fmh7.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

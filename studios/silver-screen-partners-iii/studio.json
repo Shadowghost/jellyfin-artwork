@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Silver Screen Partners III",
+    "country": "US",
+    "headquarters": "New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "554",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mN5HU5xYq9xtEs1X0Hu25A9y8lW.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

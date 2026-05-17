@@ -1,0 +1,21 @@
+[
+  {
+    "name": "China Film International",
+    "country": "CN",
+    "homepage": "http://www.cfi-sh.com/",
+    "headquarters": "Shanghai",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90980",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bzBNfhpNwY19MyoFrqqWg3bo3OH.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

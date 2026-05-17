@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Enriched Media Group",
+    "country": "GB",
+    "homepage": "https://www.enriched.media",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "132439"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

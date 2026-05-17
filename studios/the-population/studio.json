@@ -1,0 +1,21 @@
+[
+  {
+    "name": "The Population",
+    "country": "US",
+    "homepage": "http://wethepopulation.com/",
+    "headquarters": "New York, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134724",
+        "logo_uri": "https://image.tmdb.org/t/p/original/15BXI6tF7udbkkkXXiGo8KpygpQ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

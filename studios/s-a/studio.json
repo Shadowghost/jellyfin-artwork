@@ -1,0 +1,17 @@
+[
+  {
+    "name": "S.A.",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169927"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

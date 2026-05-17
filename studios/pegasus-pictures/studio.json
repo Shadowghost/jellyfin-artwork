@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Pegasus Pictures",
+    "country": "IS",
+    "homepage": "http://pegasus.is",
+    "headquarters": "Reykjavík",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12496",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tk6stgFevcJ2iWyd0IaEfVStNqL.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

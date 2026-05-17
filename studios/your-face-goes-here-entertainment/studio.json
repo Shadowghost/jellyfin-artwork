@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Your Face Goes Here Entertainment",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25091",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o6gbtykEDlBTKXnBgo2iRI7yLXp.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

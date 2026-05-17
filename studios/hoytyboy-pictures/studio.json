@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hoytyboy Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58324"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

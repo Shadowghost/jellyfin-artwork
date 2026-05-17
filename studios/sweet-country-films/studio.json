@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sweet Country Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105990"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

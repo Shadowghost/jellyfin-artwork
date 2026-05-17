@@ -1,0 +1,18 @@
+[
+  {
+    "name": "MLG Productions 8",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213003"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

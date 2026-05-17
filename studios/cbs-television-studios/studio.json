@@ -1,0 +1,32 @@
+[
+  {
+    "name": "CBS Television Studios",
+    "description": "Television production arm of Paramount Global, formerly known as CBS Television Studios, producing scripted series for CBS, Paramount+ and other networks.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.viacomcbs.com/brand/cbs-studios",
+    "headquarters": "Los Angeles, California",
+    "colors": [
+      {
+        "name": "CBS Blue",
+        "hex": "#003D7A"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1081",
+        "logo_uri": "https://image.tmdb.org/t/p/original/19kn4jVvpc3sAL3YpZNb3elhSMl.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "CBS Studios"
+    ]
+  }
+]

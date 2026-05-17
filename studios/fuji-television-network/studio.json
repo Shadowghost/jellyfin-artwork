@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Fuji Television Network",
+    "country": "JP",
+    "homepage": "https://www.fujitv.co.jp/en/",
+    "headquarters": "Minato, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3341",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dTG5dXE1kU2mpmL9BNnraffckLU.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

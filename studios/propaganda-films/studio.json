@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Propaganda Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "278",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r3Aya3Sy7f24t6Waaug3mQn6ew7.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

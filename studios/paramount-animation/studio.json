@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Paramount Animation",
+    "description": "American animation studio that serves as the animated film production division of Paramount Pictures; producer of the SpongeBob and Sonic the Hedgehog films.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "https://animation.paramountpictures.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24955",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bX3cYCRWdddXTgIcDEfNiVa8U4j.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

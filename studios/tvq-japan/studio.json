@@ -1,0 +1,23 @@
+[
+  {
+    "name": "TVQ Kyushu Broadcasting",
+    "description": "Japanese commercial TV broadcaster in Fukuoka serving Kyushu, affiliated with TV Tokyo's TXN network.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.tvq.co.jp",
+    "headquarters": "Hakata-ku, Fukuoka, Fukuoka Prefecture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184044",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2y9QRHUaWPMpX5DCRwA61UG3BtV.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "CJ ENM Studios",
+    "country": "KR",
+    "homepage": "https://www.cjenmstudios-contest.co.kr/",
+    "headquarters": "Mapo, Seoul, South Korea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199265",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mv2yDqAgT1ea1eTXZMDr89zX95M.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Bliss Media",
+    "country": "CN",
+    "homepage": "https://blissmedialtd.com/",
+    "headquarters": "Shanghai, China",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8186",
+        "logo_uri": "https://image.tmdb.org/t/p/original/exdIeoM9Bk2Vn57WbEN6WOSrOjI.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

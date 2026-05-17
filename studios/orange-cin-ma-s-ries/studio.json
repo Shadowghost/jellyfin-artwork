@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Orange Cinéma Séries",
+    "description": "French premium pay-television service offering cinema and series, originally launched by Orange S.A.",
+    "country": "FR",
+    "type": "cable-network",
+    "homepage": "https://www.ocs.fr",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11620",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f3hRdCaK1w9qH1Qs8nLd2L2bae1.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

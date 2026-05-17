@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Hobby Base Yellow Submarine",
+    "country": "JP",
+    "homepage": "https://yellowsubmarine.co.jp",
+    "headquarters": "Saitama City, Saitama",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "254669"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

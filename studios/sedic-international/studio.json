@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Sedic International",
+    "country": "JP",
+    "homepage": "http://www.sedic.co.jp",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7912",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lHHcuWiDOB0Ouz43Stoc1UiD088.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

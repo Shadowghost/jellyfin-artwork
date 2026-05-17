@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Lemino",
+    "description": "Japanese video-on-demand streaming service operated by NTT Docomo, rebranded from dTV in April 2023.",
+    "country": "JP",
+    "type": "streaming-service",
+    "homepage": "https://lemino.docomo.ne.jp/",
+    "headquarters": "Tokyo, Japan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249255",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a5xR6zxByVVRa2PIAftDtLpFN9B.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

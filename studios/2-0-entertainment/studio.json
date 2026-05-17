@@ -1,0 +1,20 @@
+[
+  {
+    "name": "2.0 Entertainment",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84792",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7Rfr3Zu6QnHpXW2VdSEzUminAQd.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

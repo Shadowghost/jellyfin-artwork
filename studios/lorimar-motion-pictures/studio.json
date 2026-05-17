@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Lorimar Motion Pictures",
+    "description": "American independent television and film production company, known for Dallas and Knots Landing; absorbed into Warner Bros. in 1989 and dissolved in 1993.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1887"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

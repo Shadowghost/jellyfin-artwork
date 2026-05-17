@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Newmarket Capital Group",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "506",
+        "logo_uri": "https://image.tmdb.org/t/p/original/obIWjrmF9pWzxXcDCd3810YzJpk.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

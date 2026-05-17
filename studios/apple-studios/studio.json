@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Apple Studios",
+    "description": "American production company and division of Apple Inc. that produces films and television series for Apple TV+.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Culver City, California",
+    "colors": [
+      {
+        "name": "Apple Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Apple White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194232",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oE7H93u8sy5vvW5EH3fpCp68vvB.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

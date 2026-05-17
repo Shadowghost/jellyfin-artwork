@@ -1,0 +1,20 @@
+[
+  {
+    "name": "AMUSE",
+    "country": "JP",
+    "homepage": "https://www.amuse.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14602",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t9eqx5QCHtu8LxxgYzivqrJAosp.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

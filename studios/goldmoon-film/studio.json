@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Goldmoon Film",
+    "country": "KR",
+    "headquarters": "Gwangjin, Seoul, South Korea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128397",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wWFYPyArqOGiev5l7OufQTJXgQ8.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Campbell Grobman Films",
+    "country": "US",
+    "headquarters": "Beverly Hills, California, USA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48738"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "A&E IndieFilms",
+    "country": "US",
+    "homepage": "http://www.aetv.com/indiefilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7315",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pn1L5r75URMfY1XQB38NLKTlX3U.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Creative Wealth Media Finance",
+    "country": "CA",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53152",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dbzRlKx3HesH6CkTwZkhpJVRvIg.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

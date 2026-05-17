@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Ehime Broadcasting",
+    "description": "Japanese commercial broadcaster headquartered in Matsuyama, Ehime Prefecture, affiliated with the Japan News Network.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.ebc.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111399",
+        "logo_uri": "https://image.tmdb.org/t/p/original/or1QRrZ05cC9c2IareIMxhA0oLk.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

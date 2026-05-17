@@ -1,0 +1,21 @@
+[
+  {
+    "name": "GEKKOU Production",
+    "country": "JP",
+    "homepage": "http://gekkou-tokyo.com/",
+    "headquarters": "Shinjuku, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184412",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rMFZqMaUvjaD4ZTAJlHweBS6XcF.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

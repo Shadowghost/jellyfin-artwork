@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Aniplex",
+    "description": "Japanese anime production and music company, a subsidiary of Sony Music Entertainment Japan; produces and licenses anime such as Demon Slayer and Fate series.",
+    "country": "JP",
+    "type": "production-company",
+    "homepage": "https://www.aniplex.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2883",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rDYExnBV61jGQnkhVVrPN4Yl7O1.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

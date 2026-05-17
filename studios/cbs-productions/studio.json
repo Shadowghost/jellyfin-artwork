@@ -1,0 +1,27 @@
+[
+  {
+    "name": "CBS Productions",
+    "description": "Television production division of CBS, producing scripted television content primarily for the CBS broadcast network.",
+    "country": "US",
+    "type": "production-company",
+    "colors": [
+      {
+        "name": "CBS Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2161",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kaHPCUD2nQ1DGWDAH3zbYVCkTae.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

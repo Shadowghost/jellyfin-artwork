@@ -1,0 +1,19 @@
+[
+  {
+    "name": "EXIT TUNES",
+    "country": "JP",
+    "homepage": "https://exittunes.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196849"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

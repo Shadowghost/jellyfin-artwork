@@ -1,0 +1,21 @@
+[
+  {
+    "name": "France Télévisions",
+    "country": "FR",
+    "homepage": "https://www.francetelevisions.fr",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7131",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qpFsGoa96SytbWkhtkkpllu5Cch.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

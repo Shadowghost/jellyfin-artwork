@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Don Carmody Productions",
+    "country": "CA",
+    "homepage": "http://www.doncarmody.com",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4253",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qgFBsEmKTckDM0Fk6ZTB8RyW0Rc.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

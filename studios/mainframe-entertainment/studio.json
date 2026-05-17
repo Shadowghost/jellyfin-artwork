@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Mainframe Studios",
+    "description": "Canadian computer animation studio based in Vancouver, known for ReBoot, Beast Wars: Transformers, and Barbie franchises.",
+    "country": "CA",
+    "type": "studio",
+    "homepage": "https://www.mainframe.ca",
+    "headquarters": "Vancouver, British Columbia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151541",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sOz3vRS5B2KuysBcxTv7R1eelHX.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

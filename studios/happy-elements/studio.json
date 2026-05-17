@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Happy Elements",
+    "country": "CN",
+    "homepage": "https://www.happyelements.cn/",
+    "headquarters": "Room 101A, 7th Floor, Building 15, No. 6 Liaocang Road, Shijingshan District, Beijing, China",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196852",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kiR44SexVHbtcVzaCSrqYu4mVu8.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

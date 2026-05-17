@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Nimbus Film",
+    "country": "DK",
+    "homepage": "http://nimbusfilm.dk/",
+    "headquarters": "Frederiksberg, Denmark",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cDY49SOQwJixJSMun9Haerx8dAQ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ATO Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1962"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Polygon Entertainment",
+    "description": "Japanese CGI animation studio founded by Shuzo Shiota and known for its work on Knights of Sidonia, Ajin, Transformers: War for Cybertron, and Star Wars Resistance.",
+    "country": "JP",
+    "type": "studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5716"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

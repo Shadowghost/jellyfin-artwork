@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Mutante Cine",
+    "country": "UY",
+    "homepage": "http://mutantecine.com/",
+    "headquarters": "Montevideo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53766",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bxhF6lhto38us6TVa3dba79HtdW.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

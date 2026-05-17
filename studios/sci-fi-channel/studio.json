@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Sci-Fi Channel",
+    "description": "American cable television channel launched in 1992 as the Sci-Fi Channel; rebranded as Syfy in 2009. Owned by NBCUniversal.",
+    "country": "US",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5856",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gt83orZ6V0dYLB8gcyETXAvdlVQ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

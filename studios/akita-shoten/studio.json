@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Akita Shoten",
+    "description": "Japanese publishing company known for manga magazines including Shonen Champion.",
+    "country": "JP",
+    "type": "publisher",
+    "homepage": "https://www.akitashoten.co.jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4640",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9O6sT3CwMuTc43PQ6Km2KFkjgMT.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

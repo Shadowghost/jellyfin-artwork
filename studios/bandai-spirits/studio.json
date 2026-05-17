@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Bandai Spirits",
+    "description": "Japanese toy and hobby product manufacturer, subsidiary of Bandai Namco Holdings, known for Gunpla model kits and collectibles.",
+    "country": "JP",
+    "type": "production-company",
+    "homepage": "https://www.bandaispirits.co.jp/",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152836",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2Nw5F2Mv4at3Sm6ldwTKK3XYuLK.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

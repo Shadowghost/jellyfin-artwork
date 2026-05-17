@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Snoot Entertainment",
+    "country": "US",
+    "homepage": "http://www.snoot.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15159",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cGTfEb0nXk4qM3jOA6ESepgDwhZ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

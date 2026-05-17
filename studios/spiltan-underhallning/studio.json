@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Spiltan Underhållning",
+    "country": "SE",
+    "homepage": "https://www.spiltan.se/",
+    "headquarters": "Stockholm, Sweden",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33822"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

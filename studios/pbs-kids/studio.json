@@ -1,0 +1,23 @@
+[
+  {
+    "name": "PBS Kids",
+    "description": "American children's programming brand of Public Broadcasting Service (PBS), including a 24-hour TV channel and digital streaming platform.",
+    "country": "US",
+    "type": "broadcast-network",
+    "homepage": "https://pbskids.org/",
+    "headquarters": "Crystal City, Arlington, Virginia, United States",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73756",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wnGompVmHo8QOxx005Lsez5fTb9.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

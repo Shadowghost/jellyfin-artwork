@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Radar Pictures",
+    "country": "US",
+    "homepage": "https://www.radarpictures.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "350",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bW7Ew27756PFKI3ucLFDIKEkFc0.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

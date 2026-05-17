@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Sat.1",
+    "description": "German free-to-air television network, the first privately-owned television network in Germany.",
+    "country": "DE",
+    "type": "broadcast-network",
+    "homepage": "https://video.sat1.de/",
+    "headquarters": "Unterföhring",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1478",
+        "logo_uri": "https://image.tmdb.org/t/p/original/plHEkpGkULYqiLRpYsUak8uYmhU.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "A. Film Production",
+    "country": "DK",
+    "homepage": "http://www.afilm.com",
+    "headquarters": "Copenhagen, Denmark",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3922",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uXDOnG25HLnban0UfpRVjxASMWW.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

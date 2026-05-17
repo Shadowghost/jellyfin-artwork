@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MK International",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215160"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

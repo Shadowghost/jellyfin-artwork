@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Boxer vs. Raptor",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123120"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

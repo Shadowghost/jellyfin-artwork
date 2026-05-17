@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Infinitum Nihil",
+    "description": "American film production company founded by actor Johnny Depp and his sister Christi Dembrowski; the name translates from Latin to 'infinite nothing'.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.infinitum-nihil.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2691",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Uas6Nps2Y58s9eRyoTHXgfEuZj.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

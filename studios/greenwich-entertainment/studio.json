@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Greenwich Entertainment",
+    "country": "US",
+    "homepage": "https://greenwichentertainment.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149326",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hP9R5eLyaKOHbNNFjt4hnWrNDKA.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

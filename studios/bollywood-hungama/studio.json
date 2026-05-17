@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Bollywood Hungama",
+    "description": "Indian entertainment website covering Hindi film industry news, reviews, music releases and trade information.",
+    "country": "IN",
+    "type": "publisher",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91373"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

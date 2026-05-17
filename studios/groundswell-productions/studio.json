@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Groundswell Productions",
+    "country": "US",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4205",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mYLsgmMHRBzpt8x15QwNr3Vyqn4.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

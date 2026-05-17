@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Pan-Européenne",
+    "country": "FR",
+    "homepage": "http://www.pan-europeenne.com",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6750",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j3Ccn4vzMKwWZJWA6adGqDrL8OU.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Leone Film Group",
+    "country": "IT",
+    "homepage": "https://www.leonefilmgroup.com/",
+    "headquarters": "Rome",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176106",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pvIH3cW987c4UKcKWnmq8V3nK0v.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

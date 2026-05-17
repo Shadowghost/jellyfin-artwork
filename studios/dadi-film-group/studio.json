@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Dadi Film Group",
+    "country": "CN",
+    "homepage": "https://www.dadicinema.com/",
+    "headquarters": "Beijing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117435",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zwN9AT4scM8BBOYTLjlKnI08qws.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Versus Production",
+    "country": "BE",
+    "homepage": "http://www.versusproduction.be/en",
+    "headquarters": "City of Brussels",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3040",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aZww3B7RCFAMV1qrDZDrdeB8qcI.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

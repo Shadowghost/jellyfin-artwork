@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Bandai",
+    "description": "Japanese toy maker and a major subsidiary of Bandai Namco Holdings, with extensive involvement in anime production, merchandising, and licensing.",
+    "country": "JP",
+    "type": "other",
+    "colors": [
+      {
+        "name": "Bandai Red",
+        "hex": "#E60012"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256908"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Bandai Co., Ltd."
+    ]
+  }
+]

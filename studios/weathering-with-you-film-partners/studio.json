@@ -1,0 +1,23 @@
+[
+  {
+    "name": "\"Weathering With You\" Film Partners",
+    "description": "Japanese production committee formed for the 2019 anime film Weathering with You (Tenki no Ko), directed by Makoto Shinkai. Committee includes Toho, CoMix Wave Films, Kadokawa, and others.",
+    "country": "JP",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145448"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Weathering with You Film Partners"
+    ]
+  }
+]

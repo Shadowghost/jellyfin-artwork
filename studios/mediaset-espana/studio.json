@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Mediaset España",
+    "country": "ES",
+    "homepage": "https://www.mediaset.es",
+    "headquarters": "Madrid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21632",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gEto1Q487D4JPriz2qVfkkvyqjy.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Television 360",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12525"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

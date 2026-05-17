@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Oxymoron Films",
+    "country": "GR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6605",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6EFqFLbAefmWIwA2eCHjOjR4uR9.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

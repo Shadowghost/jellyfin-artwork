@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Barrow Group",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137813"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

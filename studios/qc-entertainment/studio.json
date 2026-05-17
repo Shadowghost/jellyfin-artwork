@@ -1,0 +1,21 @@
+[
+  {
+    "name": "QC Entertainment",
+    "country": "US",
+    "homepage": "http://www.qcfilmco.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72725",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gflhJ4lNROXuYMeN4giNrVQvtDw.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

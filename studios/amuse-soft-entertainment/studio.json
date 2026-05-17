@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Amuse Soft Entertainment",
+    "country": "JP",
+    "homepage": "https://www.amuse-s-e.co.jp/",
+    "headquarters": "Tokyo, Japan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3219",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aGapBauQIUYV6tiXGk0JGiTMnlv.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

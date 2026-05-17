@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gratitude International",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52943"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

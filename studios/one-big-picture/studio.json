@@ -1,0 +1,21 @@
+[
+  {
+    "name": "One Big Picture",
+    "country": "GB",
+    "homepage": "https://www.onebigpicture.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115160",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b5e9wBarqIoekgSLSkvpOXMc7IF.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

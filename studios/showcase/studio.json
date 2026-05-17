@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Showcase",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290490"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

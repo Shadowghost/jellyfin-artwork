@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Teng Yuan Film & TV Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167442"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

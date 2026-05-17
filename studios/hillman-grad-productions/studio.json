@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Hillman Grad Productions",
+    "country": "US",
+    "homepage": "https://www.hillmangrad.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101758",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xq0K8gTrOqeJ9RV365b43LWmaYS.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Cold Iron Pictures",
+    "country": "US",
+    "homepage": "https://www.coldironpictures.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3916",
+        "logo_uri": "https://image.tmdb.org/t/p/original/noNtRpiSEx5XUfhWbhr74MiXXn9.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

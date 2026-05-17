@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Wee Buns Films",
+    "country": "GB",
+    "homepage": "http://weebunsfilms.com",
+    "headquarters": "Belfast, Northern Ireland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94196",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1zcO8EP4GynujCDmqatPdye8tWZ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

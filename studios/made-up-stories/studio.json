@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Made Up Stories",
+    "country": "US",
+    "headquarters": "Culver City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100610",
+        "logo_uri": "https://image.tmdb.org/t/p/original/81WtvTYVr4WsWm2ZLfwR48TrDBT.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

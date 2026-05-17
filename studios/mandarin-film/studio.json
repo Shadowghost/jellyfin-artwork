@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mandarin Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7839"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Generation International",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18092"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

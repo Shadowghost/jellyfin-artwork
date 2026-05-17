@@ -1,0 +1,26 @@
+[
+  {
+    "name": "HGTV",
+    "description": "American cable channel owned by Warner Bros. Discovery, focused on home improvement and real estate programming.",
+    "country": "US",
+    "type": "cable-network",
+    "colors": [
+      {
+        "name": "HGTV Green",
+        "hex": "#74AC1F"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "282156"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

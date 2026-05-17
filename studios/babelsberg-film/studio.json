@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Babelsberg Film",
+    "description": "Historic German film studio located in Potsdam-Babelsberg, the world's oldest large-scale film studio, founded in 1912.",
+    "country": "DE",
+    "type": "studio",
+    "homepage": "http://www.studiobabelsberg.com",
+    "headquarters": "Potsdam",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fA90qwUKgPhMONqtwY60GaHRyrW.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Studio Babelsberg"
+    ]
+  }
+]

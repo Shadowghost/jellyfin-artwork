@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Feine Filme",
+    "country": "DE",
+    "homepage": "https://www.feinefilme.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "64150"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

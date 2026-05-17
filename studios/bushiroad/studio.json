@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Bushiroad",
+    "description": "Japanese entertainment company known for trading card games (Cardfight!! Vanguard, Weiss Schwarz), anime production (Bushiroad Move), and pro wrestling (NJPW, Stardom).",
+    "country": "JP",
+    "type": "production-company",
+    "homepage": "https://bushiroad.com/",
+    "headquarters": "Nakano, Tokyo, Japan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42196",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nQNmHvcmaT0zk1Rf0TYtLYO5MpI.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

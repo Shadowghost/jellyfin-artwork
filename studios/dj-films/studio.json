@@ -1,0 +1,21 @@
+[
+  {
+    "name": "DJ Films",
+    "country": "GB",
+    "homepage": "https://djfilms.co.uk/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5654",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b7vmFp8iNIY9Djmvie3yzSKeg5l.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

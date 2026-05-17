@@ -1,0 +1,29 @@
+[
+  {
+    "name": "ABEMA",
+    "description": "Japanese internet television service operated jointly by CyberAgent and TV Asahi.",
+    "country": "JP",
+    "type": "streaming-service",
+    "homepage": "http://abema.tv",
+    "headquarters": "Shibuya, Tokyo",
+    "colors": [
+      {
+        "name": "Abema Green",
+        "hex": "#11ECDA"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134892",
+        "logo_uri": "https://image.tmdb.org/t/p/original/euHs3v7wg48dr580eeilS1gZStQ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

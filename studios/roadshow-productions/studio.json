@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Village Roadshow Pictures",
+    "description": "Australian film production company that co-finances and co-produces films, historically with Warner Bros.",
+    "country": "AU",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205872"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

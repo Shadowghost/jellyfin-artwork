@@ -1,0 +1,21 @@
+[
+  {
+    "name": "The Stone Quarry",
+    "country": "US",
+    "homepage": "http://www.cruelfilms.com/",
+    "headquarters": "Pasadena, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114152",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xYfrnGFXxrEy5x5OVThunxHYScK.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

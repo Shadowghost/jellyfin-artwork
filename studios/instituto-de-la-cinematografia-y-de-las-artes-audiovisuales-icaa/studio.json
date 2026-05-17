@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Instituto de la Cinematografía y de las Artes Audiovisuales (ICAA)",
+    "country": "ES",
+    "homepage": "https://www.culturaydeporte.gob.es/cultura/areas/cine/inicio.html",
+    "headquarters": "Madrid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201633",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6Ox2aOmqNP6vEmlh02fqygwOkeE.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

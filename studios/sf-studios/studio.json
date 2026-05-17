@@ -1,0 +1,23 @@
+[
+  {
+    "name": "SF Studios",
+    "description": "Swedish film studio (formerly AB Svensk Filmindustri), one of the oldest active film companies in the world.",
+    "country": "SE",
+    "type": "studio",
+    "homepage": "http://www.sfstudios.se",
+    "headquarters": "Stockholm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6181",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gYyww91VI1jdH89xpZgFFc8zN3F.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

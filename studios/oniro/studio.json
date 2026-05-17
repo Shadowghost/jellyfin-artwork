@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ONIRO",
+    "description": "Production or media company named Oniro; specific identification ambiguous from slug alone.",
+    "country": "JP",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30652"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Oniro"
+    ]
+  }
+]

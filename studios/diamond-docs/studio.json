@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Diamond Docs",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4183",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bPOaJehJ43bEq1sip5jE1G53IEE.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

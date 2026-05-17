@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Dasepo Club",
+    "country": "KR",
+    "headquarters": "Mapo, Seoul, South Korea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11430"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

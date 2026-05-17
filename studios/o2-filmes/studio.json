@@ -1,0 +1,21 @@
+[
+  {
+    "name": "O2 Filmes",
+    "country": "BR",
+    "homepage": "http://www.o2filmes.com",
+    "headquarters": "São Paulo, São Paulo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "345",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hj2nqoG2F9COm16fqvM0YpY3jL4.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Participant",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128416"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

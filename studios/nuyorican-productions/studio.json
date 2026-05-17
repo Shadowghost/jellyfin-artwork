@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Nuyorican Productions",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1620",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yTI712cgl8hh6FNT5E6td0eHfNb.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

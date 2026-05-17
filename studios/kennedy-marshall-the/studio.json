@@ -1,0 +1,23 @@
+[
+  {
+    "name": "The Kennedy/Marshall Company",
+    "description": "American independent film production company founded by Kathleen Kennedy and Frank Marshall, producing the Jason Bourne series, The Sixth Sense, and many other films.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://kennedymarshall.com/",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "862",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vdK6ZhC2CSW36j0VPEavRxOpbEg.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

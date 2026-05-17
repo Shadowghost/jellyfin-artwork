@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Fox Kids",
+    "description": "American children's programming block on Fox television and an associated cable network that aired from 1990 to 2002; later replaced by 4Kids TV and Jetix internationally.",
+    "country": "US",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240148",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sGPYMSupfTyATHYCmu2z7BwRRJ8.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

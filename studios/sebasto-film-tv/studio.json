@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sebasto Film & TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "43554"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

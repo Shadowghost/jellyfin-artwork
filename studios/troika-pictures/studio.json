@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Troika Pictures",
+    "country": "US",
+    "homepage": "http://troikapictures.com",
+    "headquarters": "Los Angeles, CA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15462"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

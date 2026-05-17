@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Signature Entertainment",
+    "homepage": "https://www.signature-entertainment.co.uk/",
+    "headquarters": "London",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137479"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

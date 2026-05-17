@@ -1,0 +1,19 @@
+[
+  {
+    "name": "TinRes Entertainment",
+    "country": "BS",
+    "homepage": "http://tinres.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20658"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

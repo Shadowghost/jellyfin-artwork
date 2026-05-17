@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CD2 Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102302"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

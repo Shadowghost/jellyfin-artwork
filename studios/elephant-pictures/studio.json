@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Elephant Pictures",
+    "country": "US",
+    "homepage": "http://www.elephant-pics.com",
+    "headquarters": "Chicago, Illinois",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63377",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rnGmxRE4w9ZvxKg6SHLqUprqynK.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

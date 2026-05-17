@@ -1,0 +1,19 @@
+[
+  {
+    "name": "STX Entertainment",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270158",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kNKUIJ0Cf3W9J9au71G3Dx89fNx.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

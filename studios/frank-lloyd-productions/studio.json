@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Frank Lloyd Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10718"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

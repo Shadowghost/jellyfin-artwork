@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Microsoft Studios",
+    "description": "Video game publishing division of Microsoft (renamed from Microsoft Studios to Xbox Game Studios in 2019).",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "57426",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ytQmSui35wqc2QXgAYUBCC1mrv3.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

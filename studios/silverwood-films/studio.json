@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Silverwood Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "287083"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Rhino Films",
+    "description": "Independent American film production company originally established in 1986 by Rhino Records with New World Pictures; produced films including Fear and Loathing in Las Vegas (1998) and The Sessions (2012).",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1591",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ijgtPNnX17XNLw7eLpX9BJT90Fq.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

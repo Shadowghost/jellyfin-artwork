@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Image Comics",
+    "description": "American comic book publisher founded by seven Marvel Comics illustrators; publisher of The Walking Dead, Spawn, Invincible, and Saga.",
+    "country": "US",
+    "type": "publisher",
+    "homepage": "https://imagecomics.com/",
+    "headquarters": "Portland, Oregon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138907",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3RdLG2Kx1nGI6E0UhQfQ3NqmQxJ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Perfect World Pictures",
+    "description": "Chinese film and television production company, a subsidiary of Perfect World Co., Ltd.; previously held a co-financing deal with Universal Pictures.",
+    "country": "CN",
+    "type": "production-company",
+    "homepage": "http://www.pwpic.com",
+    "headquarters": "Beijing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10338",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a8HjeCqXlm96IKSHvwaBPTMmAIp.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

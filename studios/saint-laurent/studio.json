@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Saint Laurent",
+    "country": "FR",
+    "homepage": "https://www.ysl.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139680",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kfmKLkXqqrScA5l7aYcROQSqeTz.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

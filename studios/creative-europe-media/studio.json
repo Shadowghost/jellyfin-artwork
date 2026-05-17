@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Creative Europe Media",
+    "description": "European Union funding programme that supports the European audiovisual, cultural and creative sectors.",
+    "country": "BE",
+    "type": "government-agency",
+    "homepage": "https://eacea.ec.europa.eu/creative-europe/actions/media_en",
+    "headquarters": "Brussels",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100886",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zTgOHuAj3Kc9vM9DtIw9Qgcwves.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Creative Europe MEDIA"
+    ]
+  }
+]

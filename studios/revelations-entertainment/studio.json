@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Revelations Entertainment",
+    "country": "US",
+    "homepage": "https://revfilmtv.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "906",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3nTeqjFy3El5hHQvvyLn6HFz5M4.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

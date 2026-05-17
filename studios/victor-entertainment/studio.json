@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Victor Entertainment",
+    "country": "JP",
+    "homepage": "https://www.jvcmusic.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163675",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l8WPpTDRRxaWVX4DtPyLVTiOLsv.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

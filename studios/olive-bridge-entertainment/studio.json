@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Olive Bridge Entertainment",
+    "country": "US",
+    "homepage": "https://olivebridge.com",
+    "headquarters": "California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7291",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6zGTlhcxjcMoXp0PY7T2vXtTQSo.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

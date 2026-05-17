@@ -1,0 +1,22 @@
+[
+  {
+    "name": "The Geffen Company",
+    "description": "Defunct American film production company founded by David Geffen, distributed primarily through Warner Bros.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "360",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mFNYE6Lozy6oxYRxz4ByDVdIHbc.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "UFA Fernsehproduktion",
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18692",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nZNzWVy6Da5r7WCuV8Mocwj2Ebe.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

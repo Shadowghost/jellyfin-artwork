@@ -1,0 +1,18 @@
+[
+  {
+    "name": "CIPI Cinematografica S.A.",
+    "country": "ES",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8574"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

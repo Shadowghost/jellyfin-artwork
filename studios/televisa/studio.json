@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Televisa",
+    "description": "Mexican multimedia mass media company and the largest Spanish-language broadcaster in the world; producer of telenovelas and television networks across Mexico. Merged with Univision's content unit in 2022 to form TelevisaUnivision.",
+    "country": "MX",
+    "type": "other",
+    "homepage": "http://televisa.com/",
+    "headquarters": "Mexico City",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20911",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cpeCt1KrMkj2r27JPEx3SPgTCvJ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Perfect Storm Entertainment",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34530",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5gUhbUIVYd94aIhHJJFMfBxkD0.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

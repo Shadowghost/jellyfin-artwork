@@ -1,0 +1,26 @@
+[
+  {
+    "name": "MIXI",
+    "description": "Japanese social-networking and entertainment company, operator of mixi social network and developer of Monster Strike; sometimes credited on anime productions.",
+    "country": "JP",
+    "type": "other",
+    "homepage": "https://mixi.co.jp/",
+    "headquarters": "Shibuya, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198852",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sagXZLwGOKeJrLIxcSAIsLbySpK.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Mixi"
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Trinity Broadcasting Network",
+    "description": "American international Christian-based broadcast television network, one of the largest religious television networks in the world.",
+    "country": "US",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "61334"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

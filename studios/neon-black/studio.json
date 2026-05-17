@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Neon Black",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192887"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

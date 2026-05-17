@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Les Films Alain Sarde",
+    "country": "FR",
+    "headquarters": "Issy-les-Moulineaux, Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "635",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ikp5Hokscs88jMWSkM9dB98U3Ak.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

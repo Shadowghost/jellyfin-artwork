@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jane Hamsher Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "236623"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Brightlight Pictures",
+    "country": "CA",
+    "homepage": "http://www.brightlightpictures.com",
+    "headquarters": "Vancouver, British Columbia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1063",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fpVBhNnopOZwGuF0gg99oBHp1ht.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

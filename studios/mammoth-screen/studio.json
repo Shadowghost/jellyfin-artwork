@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Mammoth Screen",
+    "country": "GB",
+    "homepage": "http://www.mammothscreen.com/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5100",
+        "logo_uri": "https://image.tmdb.org/t/p/original/utZoiSvzfUPQMK3WmKgLTemHOOQ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

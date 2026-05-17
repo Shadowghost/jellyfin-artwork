@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Keep Your Head Productions",
+    "country": "US",
+    "headquarters": "Brooklyn, New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19671",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8g2hBphdYM8Fc5r4o0hfGXBnquv.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

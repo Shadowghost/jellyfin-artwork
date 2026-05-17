@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Why Not Productions",
+    "country": "FR",
+    "homepage": "https://www.whynotproductions.fr",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "729",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hNxGdbddbsDDnEWJ7RNLcGCRSLQ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

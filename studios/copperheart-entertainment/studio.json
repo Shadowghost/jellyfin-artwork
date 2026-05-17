@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Copperheart Entertainment",
+    "country": "CA",
+    "homepage": "http://www.copperheart.ca",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5106",
+        "logo_uri": "https://image.tmdb.org/t/p/original/UjER6i4eM9WuBCVxSSWFtMrsuT.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

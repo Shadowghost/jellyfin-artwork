@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Splinter Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77976"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Infinity Hill",
+    "country": "AR",
+    "homepage": "https://infinityhillfilms.com",
+    "headquarters": "Buenos Aires",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219469",
+        "logo_uri": "https://image.tmdb.org/t/p/original/16Z9JyKlyfQTdKxfGihK00oCLpQ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "DC Entertainment",
+    "country": "US",
+    "homepage": "https://www.dc.com",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9993",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2Tc1P3Ac8M479naPp1kYT3izLS5.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

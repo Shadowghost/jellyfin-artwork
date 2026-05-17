@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Foton Pictures",
+    "country": "US",
+    "homepage": "https://foton.pictures/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92472",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g3J6ulwpi9Ncmc6XCri96LHPVAL.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

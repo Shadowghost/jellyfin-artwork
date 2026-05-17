@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Fox Television Studios",
+    "description": "Defunct American television production company, originally Fox Television Studios; folded into 20th Television in 2020.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86063",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9Juyx6JYvie3Kx24PGCDfNRYp9Y.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Fox 21 Television Studios"
+    ]
+  }
+]

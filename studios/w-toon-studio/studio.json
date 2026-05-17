@@ -1,0 +1,19 @@
+[
+  {
+    "name": "W-Toon Studio",
+    "country": "JP",
+    "homepage": "https://w-toonstudio.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92406"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

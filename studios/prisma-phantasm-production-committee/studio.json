@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Prisma Phantasm Production Committee",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167802"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

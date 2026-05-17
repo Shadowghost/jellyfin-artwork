@@ -1,0 +1,19 @@
+[
+  {
+    "name": "BBC Worldwide",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3164",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h06QVxWESaOAfBwkgrWFdbkkccq.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

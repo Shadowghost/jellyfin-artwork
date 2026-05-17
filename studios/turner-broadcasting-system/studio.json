@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Turner Broadcasting System",
+    "description": "American media conglomerate founded by Ted Turner; its operations were folded into WarnerMedia in 2019.",
+    "country": "US",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118356",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zG4DmXVgiw8RnhgnB5VdrgvI0MK.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

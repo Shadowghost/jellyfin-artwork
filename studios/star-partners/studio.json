@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Star Partners",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67823"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

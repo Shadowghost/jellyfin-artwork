@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Fís Éireann / Screen Ireland",
+    "description": "Irish national development agency for the Irish film, television and animation industry; rebranded from Irish Film Board in 2018.",
+    "country": "IE",
+    "type": "government-agency",
+    "homepage": "https://www.screenireland.ie",
+    "headquarters": "Galway",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1898",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8ix6SGlJiyuUDxLBtY8E0PY2G7w.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

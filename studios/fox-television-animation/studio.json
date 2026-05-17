@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Fox Television Animation",
+    "description": "American animation studio that produces animated TV series, including The Simpsons, Family Guy, and Bob's Burgers; formerly Fox Television Animation.",
+    "country": "US",
+    "type": "studio",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154887",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wLFPu95hIMmyLR5hdtvYaMuK0tG.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "20th Television Animation"
+    ]
+  }
+]

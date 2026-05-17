@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Hal Roach Studios",
+    "country": "US",
+    "homepage": "http://www.hal-roach.com/",
+    "headquarters": "Culver City, California, US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2159"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

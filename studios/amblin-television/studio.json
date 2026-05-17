@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Amblin Television",
+    "country": "US",
+    "homepage": "https://amblin.com/tv",
+    "headquarters": "Universal City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7671",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r7KeUsNVv0iggZRh6XmNNq2OEw1.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Sumitomo Corporation",
+    "country": "JP",
+    "homepage": "https://www.sumitomocorp.com/en/jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10921",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mILVV3xSs3BOkXy85l1pXakLoKk.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

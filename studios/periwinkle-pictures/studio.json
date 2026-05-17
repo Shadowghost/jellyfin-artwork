@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Periwinkle Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157184"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Single Schred Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134984"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

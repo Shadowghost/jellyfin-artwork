@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Think Studio",
+    "country": "ES",
+    "homepage": "http://www.thinkstudio.es/",
+    "headquarters": "Lasarte-Oria, Gipuzkoa",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10128",
+        "logo_uri": "https://image.tmdb.org/t/p/original/apcQLKRuLLqhi9fD1gaSL3argeo.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

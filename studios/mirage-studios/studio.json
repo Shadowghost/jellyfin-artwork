@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Mirage Studios",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30900",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gyO0BxkreNepFOxc882GIdWHblX.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

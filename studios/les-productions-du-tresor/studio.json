@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Les Productions du Trésor",
+    "country": "FR",
+    "homepage": "https://tresorprod.com",
+    "headquarters": "Paris, France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2612",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3ulBLchjjnjVmvyLQSwO62MDKLE.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

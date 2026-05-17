@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Avnet",
+    "description": "American distributor of electronic components, possibly associated with Jon Avnet's film production work.",
+    "country": "US",
+    "type": "other",
+    "colors": [
+      {
+        "name": "Avnet Blue",
+        "hex": "#005DAA"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115155"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Avnet, Inc."
+    ]
+  }
+]

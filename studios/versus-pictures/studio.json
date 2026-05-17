@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Versus Pictures",
+    "country": "RU",
+    "homepage": "https://versuspictures.ru/",
+    "headquarters": "Moscow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73079",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t5ZQILjZ5facrT8MozEUYwirHFF.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

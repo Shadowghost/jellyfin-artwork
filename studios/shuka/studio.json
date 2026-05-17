@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Shuka",
+    "country": "JP",
+    "homepage": "http://shuka.co.jp/",
+    "headquarters": "Mitaka, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79044",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vzFrzxqDuMmPvNgrFRxxazRHwRZ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

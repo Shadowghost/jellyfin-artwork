@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Banter",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45726"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

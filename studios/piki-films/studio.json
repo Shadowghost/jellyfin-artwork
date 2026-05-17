@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Piki Films",
+    "country": "NZ",
+    "homepage": "https://www.pikifilms.com",
+    "headquarters": "Auckland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76342",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i53Cvs0mWLEhrRaPOpUXj4lJxDJ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

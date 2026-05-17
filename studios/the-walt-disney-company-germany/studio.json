@@ -1,0 +1,23 @@
+[
+  {
+    "name": "The Walt Disney Company Germany",
+    "description": "German subsidiary of The Walt Disney Company, responsible for distribution and marketing of Disney content in Germany, Austria, and Switzerland.",
+    "country": "DE",
+    "type": "distributor",
+    "homepage": "https://www.disney.de/",
+    "headquarters": "Munich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214202",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eAgWVdyCLhaawCGomhUd7qX1Hbo.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

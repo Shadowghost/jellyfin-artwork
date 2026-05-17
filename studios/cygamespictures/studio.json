@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CygamesPictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39181"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

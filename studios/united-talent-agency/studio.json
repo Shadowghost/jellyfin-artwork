@@ -1,0 +1,20 @@
+[
+  {
+    "name": "United Talent Agency",
+    "description": "Beverly Hills-based talent and literary agency, one of the major Hollywood agencies; represents artists, athletes, brands and digital creators across film, TV, music, books and sports.",
+    "country": "US",
+    "type": "other",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200063"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

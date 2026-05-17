@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Agnes B. Productions",
+    "description": "Film production arm of French fashion designer Agnès b., financing arthouse films and documentaries.",
+    "country": "FR",
+    "type": "production-company",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23680",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fYQ5pWLvFgVEdNIt2yZ3oQohVC3.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

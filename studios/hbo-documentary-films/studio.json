@@ -1,0 +1,32 @@
+[
+  {
+    "name": "HBO Documentary Films",
+    "description": "Documentary film and series production label of HBO, responsible for award-winning non-fiction features and series on the network.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.hbo.com/documentaries",
+    "colors": [
+      {
+        "name": "HBO Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "HBO White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14914",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1RZBWz53SpHUTLpRcM8BGv2plIP.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

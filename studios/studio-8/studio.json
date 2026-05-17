@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio 8",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "237082"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

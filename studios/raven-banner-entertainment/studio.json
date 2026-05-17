@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Raven Banner Entertainment",
+    "country": "CA",
+    "homepage": "http://ravenbannerentertainment.com",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25884"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

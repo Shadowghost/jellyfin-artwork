@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Szupermodern Stúdió",
+    "country": "HU",
+    "homepage": "http://szupermodern.hu/",
+    "headquarters": "Budapest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72054",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q1deT9iOLOz4sHz8vMso2ow3pFR.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

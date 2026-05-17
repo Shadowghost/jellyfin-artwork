@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Angel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285768"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

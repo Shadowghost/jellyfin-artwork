@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Pathé!",
+    "aka": [
+      "Pathe",
+      "Pathé"
+    ],
+    "country": "BE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209044"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lone Wolf",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250997"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

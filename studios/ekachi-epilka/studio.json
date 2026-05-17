@@ -1,0 +1,26 @@
+[
+  {
+    "name": "EKACHI EPILKA",
+    "description": "Japanese animation studio founded in 2011, primarily producing TV anime series and short animations.",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "http://ekachi-epilka.jp/en/",
+    "headquarters": "Hokkaido Prefecture, Japan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120294",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xlbWWzDkQG2hJ5KKUoqvh2OOY15.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Ekachi Epilka"
+    ]
+  }
+]

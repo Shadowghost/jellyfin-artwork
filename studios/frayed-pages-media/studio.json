@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Frayed Pages Media",
+    "country": "US",
+    "homepage": "https://frayedpagesmedia.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140519"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

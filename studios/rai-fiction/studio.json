@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Rai Fiction",
+    "description": "Italian production company and subsidiary of RAI that produces and acquires drama series and TV movies for the RAI broadcast networks.",
+    "country": "IT",
+    "type": "production-company",
+    "headquarters": "Rome",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154744",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qYIEHRctL3YFth36F1LwhEQvOl5.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

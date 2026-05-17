@@ -1,0 +1,22 @@
+[
+  {
+    "name": "New World Pictures",
+    "description": "American independent film production, distribution and television company founded by Roger Corman, later expanded into TV (Marvel Productions, etc.) before being absorbed by News Corp.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Atlanta, Georgia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1950",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eIoDtHIJKZaZ4hGbKgqC0PzlqJc.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

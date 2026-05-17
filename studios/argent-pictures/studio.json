@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Argent Pictures",
+    "country": "US",
+    "homepage": "https://www.argentpictures.com",
+    "headquarters": "Malibu, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92455",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yIY6pphobFpoaAoUYq4HAjX72Rn.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

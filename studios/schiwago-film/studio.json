@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Schiwago Film",
+    "country": "DE",
+    "homepage": "https://www.schiwagofilm.de",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1747",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9u2Nl4JSXb43M97wy4zqUu5vlS7.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

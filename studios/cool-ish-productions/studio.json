@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cool-ish Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272034"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

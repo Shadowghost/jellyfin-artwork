@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Platige Image",
+    "country": "PL",
+    "homepage": "https://www.platige.com",
+    "headquarters": "Warsaw",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36414"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

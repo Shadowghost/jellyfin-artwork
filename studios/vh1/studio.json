@@ -1,0 +1,21 @@
+[
+  {
+    "name": "VH1",
+    "description": "American basic cable channel owned by Paramount Global; originally a music video network (Video Hits One), later focused on reality TV; VH1 Films was its film production label.",
+    "country": "US",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10692",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qFS7NEIS3fiBW1wi6VMAcwAsFCX.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

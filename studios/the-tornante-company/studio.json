@@ -1,0 +1,21 @@
+[
+  {
+    "name": "The Tornante Company",
+    "country": "US",
+    "homepage": "https://www.tornante.com/",
+    "headquarters": "Beverly Hills, California, United States",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30740",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9iAR1jn9cMH1MDtt2bhykRL0tFA.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

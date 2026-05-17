@@ -1,0 +1,21 @@
+[
+  {
+    "name": "First Look Studios",
+    "description": "American independent film distribution and production company that operated as First Look Pictures and later First Look Studios; filed for bankruptcy in 2010.",
+    "country": "US",
+    "type": "distributor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "47190",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iZqmnqZxpjzbEBVLH3U3otUuX65.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

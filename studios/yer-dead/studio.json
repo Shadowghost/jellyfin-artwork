@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Yer Dead",
+    "country": "CA",
+    "homepage": "http://www.yerdead.com/",
+    "headquarters": "Halifax, Nova Scotia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6869"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

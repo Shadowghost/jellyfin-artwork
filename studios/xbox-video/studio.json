@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Xbox Video",
+    "description": "Microsoft's digital video distribution service launched in 2012 as Xbox Video (a successor to Zune Video), later rebranded as Movies & TV / Films & TV before Microsoft discontinued movie and TV sales in 2021.",
+    "country": "US",
+    "type": "streaming-service",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176225"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

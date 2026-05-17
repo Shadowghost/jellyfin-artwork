@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Estudios Churubusco Azteca",
+    "country": "MX",
+    "homepage": "https://www.estudioschurubusco.com",
+    "headquarters": "Mexico City",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5153",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d4BySWBlcGBBY58FG78DWMi9nrs.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

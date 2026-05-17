@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Vlaams Audiovisueel Fonds",
+    "country": "BE",
+    "homepage": "https://www.vaf.be",
+    "headquarters": "Brussels",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12344",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wv09Wlvk6Kjy8ijMpRTHLPXyCrf.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

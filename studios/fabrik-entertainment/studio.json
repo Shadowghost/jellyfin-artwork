@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Fabrik Entertainment",
+    "country": "US",
+    "homepage": "https://www.fabrikent.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48640"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

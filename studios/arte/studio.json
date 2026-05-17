@@ -1,15 +1,49 @@
 [
   {
     "name": "Arte",
-    "machine-name": "arte",
-    "providers": {
-      "tvdb": "378",
-      "tmdb": "1628",
-      "imdb": "co0014456"
-    },
+    "description": "Franco-German public service cultural television network broadcasting in French, German and other European languages.",
+    "country": "FR",
+    "type": "broadcast-network",
+    "homepage": "https://www.arte.tv/en",
+    "headquarters": "Paris ",
+    "colors": [
+      {
+        "name": "Arte Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Arte White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tvdb",
+        "id": "378"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "201",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6UIpEURdjnmcJPwgTDRzVRuwADr.png"
+      },
+      {
+        "provider_name": "imdb",
+        "id": "co0014456"
+      }
+    ],
     "artwork": {
-      "primary": ["svg", "webp"],
-      "thumb": ["svg", "webp"]
-    }
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "arte",
+    "aka": [
+      "ARTE"
+    ]
   }
 ]

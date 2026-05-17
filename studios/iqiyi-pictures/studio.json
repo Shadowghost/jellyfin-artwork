@@ -1,0 +1,17 @@
+[
+  {
+    "name": "iQIYI Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "267482"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

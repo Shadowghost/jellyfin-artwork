@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Double Nickel Entertainment",
+    "country": "US",
+    "homepage": "https://www.doublenickelentertainment.com",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10138",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r67HWrAbCShfwWREWo2MlXsSK3B.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

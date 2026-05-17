@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Disney Channel",
+    "description": "American pay television channel owned by the Disney Branded Television unit of The Walt Disney Company, launched in 1983 as The Disney Channel.",
+    "country": "US",
+    "type": "cable-network",
+    "homepage": "https://disneynow.com/all-shows/disney-channel",
+    "headquarters": "Burbank, California",
+    "colors": [
+      {
+        "name": "Disney Blue",
+        "hex": "#006E9F"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240533",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9AxUB1RdRnm0r5ki8Thb69Jo9Ma.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

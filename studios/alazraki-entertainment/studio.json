@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Alazraki Entertainment",
+    "country": "MX",
+    "homepage": "http://alazraki.com.mx/web/#!projects/info_entertainment.html",
+    "headquarters": "Anzures, Mexico City",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105749",
+        "logo_uri": "https://image.tmdb.org/t/p/original/upPrBpZQ0Lm4FVpG8UyHMZib7qV.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

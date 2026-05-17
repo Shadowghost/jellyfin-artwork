@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Mill Film",
+    "description": "British visual effects studio, an Academy Award-winning VFX house (Gladiator) and subsidiary of Technicolor.",
+    "country": "GB",
+    "type": "studio",
+    "homepage": "http://www.millfilm.com/millfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21904"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

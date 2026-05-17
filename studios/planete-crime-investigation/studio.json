@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Planète+ Crime Investigation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149437"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

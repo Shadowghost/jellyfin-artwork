@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Take Five",
+    "country": "BE",
+    "homepage": "https://take-five.be/",
+    "headquarters": "Bruxelles",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101516",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q7ynwvgbkht96N8qPFexUW3QFeR.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

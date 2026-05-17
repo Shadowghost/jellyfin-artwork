@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Pictures in Paradise",
+    "country": "AU",
+    "headquarters": "Brisbane, Queensland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3207"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

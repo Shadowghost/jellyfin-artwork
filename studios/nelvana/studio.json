@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Nelvana",
+    "description": "Canadian animation studio based in Toronto, known for Babar, Franklin, Care Bears, Rolie Polie Olie, and The Magic School Bus.",
+    "country": "CA",
+    "type": "studio",
+    "homepage": "https://www.nelvana.com",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1023",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dJLh6G11paw58YGYYpcRZiKvzGW.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

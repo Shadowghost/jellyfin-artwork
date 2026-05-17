@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film Investment Corporation of New Zealand",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106936"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "BoulderLight Pictures",
+    "country": "US",
+    "homepage": "http://www.boulderlightpictures.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18609",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pxtYCfl1DWzvizqZcYwE4NefOOF.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

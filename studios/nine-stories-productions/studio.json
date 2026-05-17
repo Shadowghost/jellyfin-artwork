@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Nine Stories Productions",
+    "country": "US",
+    "homepage": "https://www.ninestoriesproductions.com/",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89261",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pEIvnw8XMErTLclRxfKc6lyyv3c.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Studio Gokumi",
+    "country": "JP",
+    "homepage": "http://www.gokumi.co.jp/home",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25504",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sWnGpj6TF4BIo2tBrmF2NBI4IA9.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

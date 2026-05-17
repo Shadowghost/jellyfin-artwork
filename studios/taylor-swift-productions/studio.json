@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Taylor Swift Productions",
+    "country": "US",
+    "headquarters": "Knoxville, Tennessee",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69922",
+        "logo_uri": "https://image.tmdb.org/t/p/original/afnIZUPqGAmPh9rFncRGA2vEVwx.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

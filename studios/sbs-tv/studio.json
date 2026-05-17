@@ -1,0 +1,20 @@
+[
+  {
+    "name": "SBS TV",
+    "description": "South Korean free-to-air television channel operated by the Seoul Broadcasting System, the country's largest private broadcaster; launched 9 December 1991.",
+    "country": "KR",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126231"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

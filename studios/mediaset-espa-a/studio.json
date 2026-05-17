@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Mediaset España",
+    "description": "Spanish mass media company owning several Spanish television channels including Telecinco and Cuatro.",
+    "country": "ES",
+    "type": "broadcast-network",
+    "homepage": "https://www.mediaset.es",
+    "headquarters": "Madrid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21632",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gEto1Q487D4JPriz2qVfkkvyqjy.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

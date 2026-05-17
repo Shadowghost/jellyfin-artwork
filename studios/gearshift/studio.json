@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gearshift",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199775"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

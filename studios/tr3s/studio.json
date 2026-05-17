@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Tr3s",
+    "description": "American Spanish/English bilingual cable channel aimed at young Latinos, owned by MTV Networks; rebranded multiple times and shut down in 2018.",
+    "country": "US",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75755"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

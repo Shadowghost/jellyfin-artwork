@@ -1,0 +1,21 @@
+[
+  {
+    "name": "GulfStream Pictures",
+    "country": "US",
+    "homepage": "http://www.gulfstreampictures.com",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20788",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7hBlD2RPUo6LHgSDSSnyYuXdigU.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

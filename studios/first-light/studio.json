@@ -1,0 +1,17 @@
+[
+  {
+    "name": "First Light",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273051"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

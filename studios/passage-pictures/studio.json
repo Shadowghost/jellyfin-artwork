@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Passage Pictures",
+    "country": "US",
+    "homepage": "https://www.passagepictures.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90907",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x3WtHa1ZSkuZxsb8REakRGiCoN3.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

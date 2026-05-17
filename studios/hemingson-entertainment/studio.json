@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hemingson Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66394"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

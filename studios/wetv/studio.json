@@ -1,0 +1,21 @@
+[
+  {
+    "name": "WeTV",
+    "country": "CN",
+    "homepage": "https://wetv.vip/th",
+    "headquarters": "China",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174410",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6qod0vbLWfmlW3HHNh0o6wFYwag.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ici Là Productions",
+    "description": "French independent audiovisual/film production company; limited public information available.",
+    "country": "FR",
+    "type": "production-company",
+    "homepage": "http://www.icietlaproductions.com/",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85373",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u3XFajHA7BE1gZgZUAuyu2CvyDq.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

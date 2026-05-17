@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Tear Studio",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116943",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9SmE5wfadw1aaYHbNWSY4mJb55B.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

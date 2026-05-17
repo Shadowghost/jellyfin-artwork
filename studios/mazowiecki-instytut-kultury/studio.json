@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Mazowiecki Instytut Kultury",
+    "country": "PL",
+    "homepage": "https://www.mik.waw.pl",
+    "headquarters": "Warsaw",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125737",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v4YRjUXtET5EqW2XXYB05K3yUpd.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

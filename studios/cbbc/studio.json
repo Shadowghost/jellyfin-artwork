@@ -1,0 +1,21 @@
+[
+  {
+    "name": "CBBC",
+    "description": "BBC children's brand and free-to-air television channel for ages 6-12, originally launched as Children's BBC in 1985.",
+    "country": "GB",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18578",
+        "logo_uri": "https://image.tmdb.org/t/p/original/12roOdtGhLUriCtk1Qwu9eD5Nab.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

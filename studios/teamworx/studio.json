@@ -1,0 +1,19 @@
+[
+  {
+    "name": "teamWorx",
+    "country": "DE",
+    "headquarters": "Potsdam",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "425"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

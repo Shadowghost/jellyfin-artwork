@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Fortiche Production",
+    "country": "FR",
+    "homepage": "https://www.forticheprod.com/",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99496",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6WTCdsmIH6qR2zFVHlqjpIZhD5A.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

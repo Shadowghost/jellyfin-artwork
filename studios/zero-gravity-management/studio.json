@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Zero Gravity Management",
+    "country": "US",
+    "homepage": "https://www.zerogravitymanagement.com",
+    "headquarters": "Santa Monica, California, USA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5357",
+        "logo_uri": "https://image.tmdb.org/t/p/original/19A0Ilxeh1bWMlyMtMgGzcNBn07.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

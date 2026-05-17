@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+   height="552.444118"
+   width="1024" id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 408.9 220.6">
+  <defs>
+    <linearGradient id="Dégradé_sans_nom" data-name="Dégradé sans nom" x1="-320" y1="-168.74" x2="88.9" y2="-168.74" gradientTransform="translate(320 -94.12) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#01168b"/>
+      <stop offset=".1" stop-color="#001b9c"/>
+      <stop offset=".2" stop-color="#021d9e"/>
+      <stop offset=".3" stop-color="#06198f"/>
+      <stop offset=".4" stop-color="#31127a"/>
+      <stop offset=".5" stop-color="#500b64"/>
+      <stop offset=".6" stop-color="#77054d"/>
+      <stop offset=".7" stop-color="#960234"/>
+      <stop offset=".8" stop-color="#bb0221"/>
+      <stop offset=".9" stop-color="#b00005"/>
+      <stop offset="1" stop-color="#9a0003"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_2" data-name="Dégradé sans nom 2" x1="-320" y1="-141.14" x2="88.9" y2="-141.14" gradientTransform="translate(320 -94.12) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0f30b3" stop-opacity=".47"/>
+      <stop offset=".1" stop-color="#1c45cf" stop-opacity=".66"/>
+      <stop offset=".2" stop-color="#2b53d7"/>
+      <stop offset=".3" stop-color="#3757c6"/>
+      <stop offset=".4" stop-color="#665cb2"/>
+      <stop offset=".5" stop-color="#87539b"/>
+      <stop offset=".6" stop-color="#a44080"/>
+      <stop offset=".7" stop-color="#b4325e"/>
+      <stop offset=".8" stop-color="#c42038"/>
+      <stop offset=".9" stop-color="#bd1016"/>
+      <stop offset="1" stop-color="#99060c"/>
+    </linearGradient>
+  </defs>
+  <g id="svg2">
+    <g>
+      <g>
+        <path id="path2998" d="M0,149.25V0h408.9v149.25H0Z" style="fill: url(#Dégradé_sans_nom); fill-rule: evenodd; stroke-width: 0px;"/>
+        <path id="path3006" d="M0,94.05V0h408.9v42.12s-36.3-1.1-55.81-1.1C241.99,41.01,108.11,62.66,0,94.05Z" style="fill: url(#Dégradé_sans_nom_2); stroke-width: 0px;"/>
+        <path d="M101.41,127.17h-45.8V58.88h-23.72V22.9h93.23v35.98h-23.72v68.29ZM181.14,127.17V22.9h85.05v26.17h-39.25v18.81h28.21v26.17h-28.21v33.12h-45.8ZM320.17,127.17V35.57l47.43-13.49v105.09h-47.43Z" style="fill: #fff; stroke-width: 0px;"/>
+      </g>
+      <path d="M114.82,214.11v5.78h-17.31v-47.65h6.27v41.88h11.04ZM138.51,178.22v-5.99h-16.46v47.65h16.46v-5.78h-10.19v-16.86h8.35v-5.78h-8.35v-13.25h10.19ZM177.56,185.79v-1.23c0-4.44-.81-7.74-2.4-9.84-1.61-2.12-4.07-3.2-7.32-3.2-6.35,0-9.57,4.05-9.57,12.05v24.97c0,8,3.25,12.05,9.65,12.05s9.64-4.05,9.64-12.05v-16.15h-9.67v5.78h3.39v10.87c0,1.68-.29,3.09-.88,4.17-.56,1.03-1.4,1.54-2.56,1.54s-1.91-.52-2.45-1.6c-.56-1.13-.85-2.51-.85-4.11v-25.96c0-3.88,1.1-5.77,3.37-5.77,1.11,0,1.93.52,2.49,1.6.59,1.13.88,2.54.88,4.17v2.72h6.27ZM207.01,219.89h-6.59l-5.02-21.36h-2.85v21.36h-6.27v-47.65h9.5c6.26,0,9.43,4.08,9.43,12.12v1.7c0,4.98-1.48,8.6-4.41,10.74l6.2,23.1ZM192.56,192.75h2.81c2.41,0,3.59-1.89,3.59-5.78v-3.19c0-3.74-1.17-5.57-3.59-5.57h-2.81v14.53ZM232.52,183.58v24.97c0,8-3.2,12.05-9.5,12.05s-9.36-4.05-9.36-12.05v-24.97c0-8,3.17-12.05,9.43-12.05s9.43,4.05,9.43,12.05ZM219.93,209.04c0,3.84,1.01,5.71,3.09,5.71s3.23-1.86,3.23-5.71v-25.96c0-3.88-1.05-5.77-3.23-5.77s-3.09,1.89-3.09,5.77v25.96ZM253.84,172.23v36.88c0,1.59-.26,2.97-.79,4.08-.49,1.05-1.27,1.56-2.38,1.56-2.17,0-3.23-1.84-3.23-5.63v-36.88h-6.27v36.38c0,7.9,3.19,11.91,9.5,11.91s9.43-4.01,9.43-11.91v-36.38h-6.27ZM288.05,184.35v4.74c0,7.95-3.17,11.98-9.43,11.98h-2.95v18.82h-6.27v-47.65h9.22c6.26,0,9.43,4.08,9.43,12.12ZM275.67,195.29h2.67c2.31,0,3.44-1.89,3.44-5.77v-5.73c0-3.74-1.12-5.57-3.44-5.57h-2.67v17.07ZM313.16,178.22v-5.99h-16.46v47.65h16.46v-5.78h-10.19v-16.86h8.35v-5.78h-8.35v-13.25h10.19Z" style="fill: #000a64; stroke-width: 0px;"/>
+    </g>
+  </g>
+</svg>

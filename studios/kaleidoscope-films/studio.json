@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kaleidoscope Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29305"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

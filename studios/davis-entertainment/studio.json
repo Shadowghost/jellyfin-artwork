@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Davis Entertainment",
+    "description": "American film and television production company founded by John Davis in 1985, producing Predator sequels, Garfield, Dr. Dolittle and others.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1302",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zC3b70ixHh89qJIikLQPEvLqbPM.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

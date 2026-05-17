@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TVh",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82850"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

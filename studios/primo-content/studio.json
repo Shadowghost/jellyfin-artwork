@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Primo Content",
+    "country": "AR",
+    "homepage": "https://www.primocontent.com/",
+    "headquarters": "Buenos Aires",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134166",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tINT6vMiVhG0LuLbDYxXZlGMm6L.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

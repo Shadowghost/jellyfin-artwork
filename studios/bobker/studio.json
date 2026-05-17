@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bobker",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "259969"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

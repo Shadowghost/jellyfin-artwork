@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Robert Stigwood Organization",
+    "country": "GB",
+    "homepage": "http://www.rsoprod.com/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3978",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kk8VINipfjy7osPd5DgFTfyxUI.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

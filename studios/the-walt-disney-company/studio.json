@@ -1,0 +1,21 @@
+[
+  {
+    "name": "The Walt Disney Company",
+    "country": "US",
+    "homepage": "https://www.thewaltdisneycompany.com/",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20193",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oz1p4QkoNONJZ3JT6BF6Jj4Nw2l.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

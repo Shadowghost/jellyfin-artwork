@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Albert Kim Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221528"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

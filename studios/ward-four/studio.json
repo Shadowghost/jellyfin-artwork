@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Ward Four",
+    "country": "US",
+    "homepage": "https://www.wardfour.com",
+    "headquarters": "New-York, United States of America",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150225",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tmyl0caMfDI3yLmcajLJTgeh3MY.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

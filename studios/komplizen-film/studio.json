@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Komplizen Film",
+    "country": "DE",
+    "homepage": "http://www.komplizenfilm.de/",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1618",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dacmPYkpGE9Mbu2dqG2sFTXpsqr.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

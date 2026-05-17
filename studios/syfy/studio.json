@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Syfy",
+    "description": "American pay-TV channel owned by NBCUniversal, programming science fiction, fantasy, horror and supernatural series and films.",
+    "country": "US",
+    "type": "cable-network",
+    "homepage": "http://www.nbcuniversal.com/business/syfy",
+    "headquarters": "Universal City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6677",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iYfrkobwDhTOFJ4AXYPSLIEeaAT.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Chukyo TV",
+    "description": "Japanese commercial television station based in Nagoya, an affiliate of the Nippon News Network.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.ctv.co.jp/indexmenu.html",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33677",
+        "logo_uri": "https://image.tmdb.org/t/p/original/85U2onICiQV9fMHORxw8EWSQ6MZ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Chukyo TV Broadcasting Company"
+    ]
+  }
+]

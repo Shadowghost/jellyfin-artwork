@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Screen Ireland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "237977"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

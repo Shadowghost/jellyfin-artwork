@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Apartment Story",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197937"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

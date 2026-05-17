@@ -1,0 +1,21 @@
+[
+  {
+    "name": "OFI",
+    "country": "AT",
+    "homepage": "https://www.filminstitut.at",
+    "headquarters": "Vienna",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11389",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eKVLElq1XAbcCcwnVj89G9EXRGB.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

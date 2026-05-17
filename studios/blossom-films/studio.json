@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Blossom Films",
+    "country": "US",
+    "headquarters": "Culver City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32537",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7fUmRWUJgO4grf61sPMmc4kVYVR.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

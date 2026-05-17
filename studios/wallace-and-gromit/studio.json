@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Wallace and Gromit",
+    "description": "British clay-animation franchise created by Nick Park at Aardman Animations, featuring inventor Wallace and his dog Gromit; films include A Grand Day Out, The Wrong Trousers, A Close Shave, Curse of the Were-Rabbit and Vengeance Most Fowl.",
+    "country": "GB",
+    "type": "other",
+    "homepage": "http://wallaceandgromit.com",
+    "headquarters": "Bristol, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "276928"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Wallace & Gromit"
+    ]
+  }
+]

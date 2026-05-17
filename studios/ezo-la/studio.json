@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ezo'la",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120816"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

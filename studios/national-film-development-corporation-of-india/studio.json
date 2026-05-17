@@ -1,0 +1,21 @@
+[
+  {
+    "name": "National Film Development Corporation of India",
+    "country": "IN",
+    "homepage": "https://www.nfdcindia.com",
+    "headquarters": "Mumbai",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32413",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jXHqu6xyG8l5mKwK66u5ahzYdfD.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

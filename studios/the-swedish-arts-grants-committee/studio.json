@@ -1,0 +1,21 @@
+[
+  {
+    "name": "The Swedish Arts Grants Committee",
+    "country": "SE",
+    "homepage": "https://www.konstnarsnamnden.se",
+    "headquarters": "Stockholm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12478",
+        "logo_uri": "https://image.tmdb.org/t/p/original/67XF8a2ov3o04tzsPAROkWPkSYy.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

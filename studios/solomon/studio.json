@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Solomon",
+    "country": "FR",
+    "homepage": "https://www.salomon.com",
+    "headquarters": "Salomon, Epagny Metz-Tessy, France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198241",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5P0mZ2oyuGNxPWcRoTglf2IjUk0.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

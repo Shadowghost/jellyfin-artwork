@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Inforg-M&M Film",
+    "country": "HU",
+    "homepage": "https://inforg-mm-film.hu/",
+    "headquarters": "Budapest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11008",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ygmbJsCJjgzIIYrJSj9grhDCYFu.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

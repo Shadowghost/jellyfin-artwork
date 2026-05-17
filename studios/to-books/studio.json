@@ -1,0 +1,20 @@
+[
+  {
+    "name": "TO BOOKS",
+    "country": "JP",
+    "homepage": "http://www.tobooks.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196955",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w1X5OkrhSyjMXs6vprJa27DRFk6.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

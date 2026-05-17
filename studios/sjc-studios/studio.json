@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SJC Studios",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220798"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

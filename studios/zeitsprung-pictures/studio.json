@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Zeitsprung Pictures",
+    "country": "DE",
+    "homepage": "https://www.zeitsprung.de",
+    "headquarters": "Cologne",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35389",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nX4hlwsvFV7IhhpKKj0yf3PgkG7.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

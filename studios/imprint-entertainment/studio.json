@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Imprint Entertainment",
+    "country": "US",
+    "homepage": "http://imprintentertainment.co",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5218",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dhb42ugM9DzSpDctTWCtABPVOW4.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

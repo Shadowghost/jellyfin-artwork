@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Warner Bros. China",
+    "country": "CN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "261822",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iQBZufUDXvIszs3hvgmmujL4gxC.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

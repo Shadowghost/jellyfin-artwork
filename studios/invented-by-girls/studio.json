@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Invented by Girls",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66955"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

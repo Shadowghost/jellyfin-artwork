@@ -1,0 +1,22 @@
+[
+  {
+    "name": "ImageMovers",
+    "description": "American film production company founded by Robert Zemeckis, Jack Rapke, and Steve Starkey; known for motion-capture films such as The Polar Express, Beowulf and A Christmas Carol. ImageMovers Digital was its Disney-backed animation arm (closed 2011).",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Novato, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11395",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5vSBzUwnCcaF90ZTchG3LwRKQ2M.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

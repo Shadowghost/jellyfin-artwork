@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Einstein Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93732"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Constantin Film",
+    "description": "German film production and distribution company, one of the largest in the German-speaking world.",
+    "country": "DE",
+    "type": "studio",
+    "homepage": "https://constantin.film",
+    "headquarters": "Munich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "47",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

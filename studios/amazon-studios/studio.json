@@ -1,16 +1,38 @@
 [
   {
     "name": "Amazon Studios",
-    "machine-name": "amazon-studios",
-    "providers": {
-	  "imdb": "co0319272",
-      "tmdb": "20580",
-      "tvdb": "2050"
-    },
+    "country": "US",
+    "homepage": "https://studios.amazon.com/",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "imdb",
+        "id": "co0319272"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "20580",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oRR9EXVoKP9szDkVKlze5HVJS7g.png"
+      },
+      {
+        "provider_name": "tvdb",
+        "id": "2050"
+      }
+    ],
     "artwork": {
-      "logo": ["svg", "webp"],
-      "primary": ["svg", "webp"],
-      "thumb": ["svg", "webp"]
-    }
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ],
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "amazon-studios"
   }
 ]

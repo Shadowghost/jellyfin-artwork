@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Red Chillies Entertainment",
+    "country": "IN",
+    "homepage": "http://www.redchillies.com/",
+    "headquarters": "Mumbai, Maharashtra",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2343",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fkrlAFxgAtIHgYJGIQcDggeucKV.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

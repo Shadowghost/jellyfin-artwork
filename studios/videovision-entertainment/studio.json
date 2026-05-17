@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Videovision Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181237"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DD4C Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171983"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

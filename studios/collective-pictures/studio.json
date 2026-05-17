@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Collective Pictures",
+    "country": "CA",
+    "homepage": "https://collective.ca",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26742",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5tTlJzoH7UzzUoaWmOJBsRUiOX2.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

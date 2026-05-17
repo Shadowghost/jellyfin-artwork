@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Paloma Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101036"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

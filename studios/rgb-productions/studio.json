@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RGB Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52139"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

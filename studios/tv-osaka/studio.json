@@ -1,0 +1,22 @@
+[
+  {
+    "name": "TV Osaka",
+    "description": "Japanese television station based in Osaka, affiliated with the TX Network (TV Tokyo).",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.tv-osaka.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122616",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6foQmoPac7WCDnDuDbuCZklmDuA.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

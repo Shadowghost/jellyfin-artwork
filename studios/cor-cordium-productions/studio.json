@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Cor Cordium Productions",
+    "country": "US",
+    "headquarters": "New York, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114776"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

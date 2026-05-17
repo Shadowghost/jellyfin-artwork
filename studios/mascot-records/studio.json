@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mascot Records",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34141"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

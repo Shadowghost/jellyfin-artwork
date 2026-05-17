@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Italian International Film",
+    "country": "IT",
+    "homepage": "https://www.lucisanomediagroup.com/",
+    "headquarters": "Rome, Italy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1429",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n1GvY0KLgk3gcEPO07L7nXncB3i.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

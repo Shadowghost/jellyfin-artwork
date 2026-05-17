@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Zentropa International Hamburg",
+    "country": "DE",
+    "homepage": "http://www.zentropahamburg.com/",
+    "headquarters": "Hamburg, Germany",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118000"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

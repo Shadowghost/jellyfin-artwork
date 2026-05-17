@@ -1,0 +1,21 @@
+[
+  {
+    "name": "EndemolShine Australia",
+    "country": "AU",
+    "homepage": "http://www.endemolshine.com.au",
+    "headquarters": "McMahons Point, New South Wales",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24645",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9XMHkEXi5H6w5b1NOLEgo7tLK5F.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

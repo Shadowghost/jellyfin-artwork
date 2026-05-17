@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Göttinger-Film-Atelier",
+    "country": "DE",
+    "homepage": "http://www.filmatelier-goettingen.de/",
+    "headquarters": "Göttingen, Germany",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2145",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tpiJv4luub64I6MeURQD72jbqDo.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

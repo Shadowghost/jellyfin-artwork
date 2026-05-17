@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Kilter Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103490",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xnDEtomiDZ8aLOhokbeSqh8HI99.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

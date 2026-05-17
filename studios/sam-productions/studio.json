@@ -1,0 +1,26 @@
+[
+  {
+    "name": "\"Sam\" Productions",
+    "description": "Danish television and film production company founded by Søren Sveistrup and Adam Price, creators of Borgen and The Killing.",
+    "country": "DK",
+    "type": "production-company",
+    "homepage": "https://samproductions.dk/",
+    "headquarters": "Copenhagen, Denmark",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87754",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qoW4oiZk5rlL9RQjFgz2z6c35Et.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "SAM Productions"
+    ]
+  }
+]

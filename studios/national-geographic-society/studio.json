@@ -1,0 +1,33 @@
+[
+  {
+    "name": "National Geographic Society",
+    "description": "American non-profit scientific and educational organization founded in 1888, focused on geography, archaeology, natural science and exploration.",
+    "country": "US",
+    "type": "publisher",
+    "homepage": "https://www.nationalgeographic.org/society",
+    "headquarters": "Washington, DC",
+    "colors": [
+      {
+        "name": "Nat Geo Yellow",
+        "hex": "#FFCC00"
+      },
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234219",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tP5Rfh5b8AQcIIxeoTTzSNLBLG9.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

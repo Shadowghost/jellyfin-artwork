@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Ideosource Entertainment",
+    "country": "ID",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112910",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ogaXBUMLle7wBHKuaQ0DdZzVCN2.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

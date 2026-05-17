@@ -1,0 +1,17 @@
+[
+  {
+    "name": "10K",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134238"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

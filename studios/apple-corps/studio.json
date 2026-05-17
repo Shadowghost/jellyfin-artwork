@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Apple Corps",
+    "country": "GB",
+    "homepage": "http://www.applecorps.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3797",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pG2RaiOwELHvPJnjrPUbwzkTTxc.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

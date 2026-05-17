@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Beijing Culture 北京京西文化",
+    "aka": [
+      "Beijing Culture"
+    ],
+    "country": "CN",
+    "homepage": "http://www.bjwhmedia.com",
+    "headquarters": "Beijing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148024",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hwoojywsskxB91jw2QwgLeTwMr.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Blue Sky Africa",
+    "country": "KE",
+    "homepage": "https://www.blueskyafrica.com",
+    "headquarters": "Nairobi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14447",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9gXrTYvjue2k7ftKKBXM8Y6ufcB.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

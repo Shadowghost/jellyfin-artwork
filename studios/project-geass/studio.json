@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Project Geass",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51038"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

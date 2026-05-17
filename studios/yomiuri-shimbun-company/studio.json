@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Yomiuri Shimbun Company",
+    "description": "Japanese national daily newspaper, one of the largest circulation newspapers in the world; parent of media interests including Nippon TV. The grouping also covers regional papers such as The Fukushima Min'yu Shimbun.",
+    "country": "JP",
+    "type": "news",
+    "headquarters": "Otemachi, Chiyoda Ward, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274743",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qQBRqHTuJDruJQb3EaACuBsynXh.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "The Yomiuri Shimbun"
+    ]
+  }
+]

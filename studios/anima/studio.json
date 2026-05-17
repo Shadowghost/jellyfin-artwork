@@ -1,0 +1,20 @@
+[
+  {
+    "name": "ANIMA",
+    "country": "JP",
+    "homepage": "http://www.studioanima.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130336",
+        "logo_uri": "https://image.tmdb.org/t/p/original/353MNJkwyOE6FcBJJciVCZo2yD.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Little Monster Films",
+    "country": "US",
+    "homepage": "https://www.littlemonsterfilms.com",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116323",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2cjJeC2MQMPwT2INRpqRxH8Xuz1.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

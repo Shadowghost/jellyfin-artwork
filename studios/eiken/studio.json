@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Eiken",
+    "country": "JP",
+    "homepage": "https://www.eiken-anime.jp/index.html",
+    "headquarters": "Arakawa, Tokyo, Japan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82357"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "feng",
+    "country": "JP",
+    "homepage": "http://www.feng.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "246202"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "TOHO animation STUDIO",
+    "country": "JP",
+    "homepage": "https://www.ta-studio.co.jp/",
+    "headquarters": "Nakano, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193504",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lDBGXkGe4ZqWnyMfDWHx03KcWlx.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

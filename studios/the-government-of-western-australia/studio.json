@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Government of Western Australia",
+    "description": "Australian state government of Western Australia; provides film funding through Screenwest and credits in many WA-shot productions.",
+    "country": "AU",
+    "type": "government-agency",
+    "colors": [
+      {
+        "name": "WA Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "WA Gold",
+        "hex": "#FFD200"
+      }
+    ],
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

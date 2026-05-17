@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Mattel",
+    "description": "American multinational toy manufacturer (Barbie, Hot Wheels, Fisher-Price) with film and television production divisions producing entertainment based on its IP.",
+    "country": "US",
+    "type": "production-company",
+    "colors": [
+      {
+        "name": "Mattel Red",
+        "hex": "#DA291C"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6220",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cAj69EL1zSXmZH6STbMGZrunyMD.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

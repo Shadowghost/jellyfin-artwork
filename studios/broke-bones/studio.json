@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Broke & Bones",
+    "country": "GB",
+    "homepage": "https://brokeandbones.co.uk",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133905",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tEEIQIYHQgPyOBgvoAlqPXfpEPX.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

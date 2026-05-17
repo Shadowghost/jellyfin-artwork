@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Shizuoka Daiichi Television",
+    "description": "Japanese commercial broadcaster in Shizuoka Prefecture, affiliated with Nippon News Network (NNN/NNS).",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.tv-sdt.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11724",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tFePbc4dqJzcUaHeKAQkhRgT5zJ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

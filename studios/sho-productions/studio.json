@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sho Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250437"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

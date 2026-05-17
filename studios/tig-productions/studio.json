@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Tig Productions",
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "335",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bMYVrBCfGvDDc3tCSjHbnIWCtbX.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

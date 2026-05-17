@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Partizan Films",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249191",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rGxYK3422RKLRBWQoWKJxRdD2Jp.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Dream Factory Group",
+    "country": "CN",
+    "homepage": "http://www.dreamfactorycn.com/en",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89486",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oepaJeAi2k0nYeLf06AUxqGPSjR.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

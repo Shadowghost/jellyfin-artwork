@@ -1,0 +1,23 @@
+[
+  {
+    "name": "The Jim Henson Company",
+    "description": "American entertainment company founded by Jim Henson in 1958, known for the Muppets, Fraggle Rock, and other puppetry-based productions.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.henson.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6254",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dHfP8fUyykmTsMXbtXO0kSsYz5E.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

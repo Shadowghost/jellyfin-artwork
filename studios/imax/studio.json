@@ -1,0 +1,29 @@
+[
+  {
+    "name": "IMAX",
+    "description": "Canadian-American company specializing in motion picture technologies and large-format film production, exhibition, and post-production.",
+    "country": "CA",
+    "type": "distributor",
+    "colors": [
+      {
+        "name": "IMAX Blue",
+        "hex": "#0058A3"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3447"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "IMAX Corporation"
+    ]
+  }
+]

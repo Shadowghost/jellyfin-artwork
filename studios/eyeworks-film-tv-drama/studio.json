@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Eyeworks Film & TV Drama",
+    "country": "NL",
+    "homepage": "http://eyeworks.tv",
+    "headquarters": "Amsterdam, Noord-Holland, Netherlands",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8962",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dNe4iMWCGaQRA6RTIYzUfqMigYh.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Bazmark",
+    "country": "AU",
+    "homepage": "https://www.bazmark.com/",
+    "headquarters": "Gold Coast, Queensland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bIkHKCMjaI2AAsoadnA9QK7dtzZ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

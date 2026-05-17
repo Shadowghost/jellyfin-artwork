@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Toho",
+    "description": "Japanese film, theatre production and distribution company headquartered in Tokyo; producer of the Godzilla franchise, Studio Ghibli releases, and many of the country's top-grossing anime films.",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "https://www.toho.co.jp",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "882",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fRSWWjquvzcHjACbtF53utZFIll.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "TOHO"
+    ]
+  }
+]

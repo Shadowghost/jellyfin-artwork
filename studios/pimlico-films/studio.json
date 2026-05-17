@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pimlico Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10258"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

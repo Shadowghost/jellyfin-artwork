@@ -1,0 +1,21 @@
+[
+  {
+    "name": "A Plus Image",
+    "country": "FR",
+    "homepage": "http://www.aplusfinance-cinema.com",
+    "headquarters": "Paris, France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19959",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4hztZ0Ru3OCVDjcE8VGaHiwl4aA.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

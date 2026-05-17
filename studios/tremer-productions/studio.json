@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Tremer Productions",
+    "country": "CA",
+    "homepage": "http://tremer.ca/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113382"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

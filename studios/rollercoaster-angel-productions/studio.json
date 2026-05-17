@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Rollercoaster Angel Productions",
+    "country": "GB",
+    "homepage": "https://rollercoasterangelproductions.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122033",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hqqDS8Gam52Z0dv9O9VYOYHNIEQ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

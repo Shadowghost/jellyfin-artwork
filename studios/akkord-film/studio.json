@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Akkord Film",
+    "country": "DE",
+    "homepage": "https://akkord.film/",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3735"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

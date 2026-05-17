@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Gold Circle Films",
+    "description": "American independent film production and finance company, known for the My Big Fat Greek Wedding films and Pitch Perfect series.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12026",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l1Y8SRH3EaElU2niZQLT3I8tOFp.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Royal Ties Productions",
+    "country": "US",
+    "homepage": "http://royaltiesprods.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166406",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kZT3uhEGFYEPcxg5mk8K8A97haq.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

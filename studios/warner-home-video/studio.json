@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Warner Home Video",
+    "description": "Home-video distribution arm of Warner Bros. (Warner Bros. Discovery), responsible for the studio's DVD, Blu-ray, 4K UHD, and digital home releases worldwide; founded as Warner Home Video in 1978.",
+    "country": "US",
+    "type": "distributor",
+    "homepage": "https://www.warnerbros.com/company/divisions/home-entertainment",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14772",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uRjA81rM7O46H588ZeYunRfiZRn.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Warner Bros. Home Entertainment"
+    ]
+  }
+]

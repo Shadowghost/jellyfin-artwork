@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Studio Kafka",
+    "country": "JP",
+    "homepage": "http://studio-kafka.jp/",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150577",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vN9g5ueeV4c8NnCJIprQAldLFsN.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

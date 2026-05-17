@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Arclight Films",
+    "country": "US",
+    "homepage": "http://www.arclightfilms.com",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2520",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dAfMKKimOSxL147xNghoXM1Tuah.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

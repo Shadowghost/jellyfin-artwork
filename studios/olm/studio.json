@@ -1,0 +1,21 @@
+[
+  {
+    "name": "OLM",
+    "country": "JP",
+    "homepage": "http://olm.co.jp",
+    "headquarters": "Setagaya",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5372",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tPtJc2rCOTHEzJQPStT6m3dI0eK.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

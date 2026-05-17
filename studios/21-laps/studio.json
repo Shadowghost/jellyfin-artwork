@@ -1,0 +1,22 @@
+[
+  {
+    "name": "21 Laps Entertainment",
+    "description": "American film and television production company founded by Shawn Levy, known for Stranger Things, Night at the Museum, and Free Guy.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2575",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9YJrHYlcfHtwtulkFMAies3aFEl.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

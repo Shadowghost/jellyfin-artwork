@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Anton Capital Entertainment",
+    "country": "GB",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20664",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iRrZpxnYNDnVXJkr6HiLgSLlqRc.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

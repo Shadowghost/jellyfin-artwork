@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Simon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46953"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

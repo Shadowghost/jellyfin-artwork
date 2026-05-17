@@ -1,0 +1,21 @@
+[
+  {
+    "name": "StudioCanal UK",
+    "country": "GB",
+    "homepage": "https://www.studiocanal.co.uk",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113521",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fWQ9uEqIKuPukxrbZEUIrkPRrjs.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

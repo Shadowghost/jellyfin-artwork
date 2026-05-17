@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Codeblack Films",
+    "country": "US",
+    "homepage": "http://codeblackfilms.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112794",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j0fh3JuGAAQww9U0uF04HaAyuez.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

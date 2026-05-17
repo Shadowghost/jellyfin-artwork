@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Vega Film",
+    "country": "CH",
+    "homepage": "http://vegafilm.com",
+    "headquarters": "Zurich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8138",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4P6c8TiJZhL2z7b0LbPOUTZwP4z.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Skydance",
+    "description": "American diversified media company founded by David Ellison, producing films (Top Gun: Maverick, Mission: Impossible sequels), television, animation and games; merged with Paramount in 2025.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://skydance.com/film",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82819",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gXfFl9pRPaoaq14jybEn1pHeldr.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Skydance Media"
+    ]
+  }
+]

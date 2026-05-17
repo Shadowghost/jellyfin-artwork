@@ -1,0 +1,19 @@
+[
+  {
+    "name": "BBC Bristol Productions",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31272",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kJU4FbsNy58061t5313VKpfksh5.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

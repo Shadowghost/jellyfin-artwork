@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Bonne Pioche",
+    "country": "FR",
+    "homepage": "https://bonnepioche.fr/",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66331",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n2gAOEA4q6bUiaHwo2mKWHGA1wm.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

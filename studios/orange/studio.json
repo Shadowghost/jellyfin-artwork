@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Orange",
+    "country": "JP",
+    "homepage": "http://www.orange-cg.com",
+    "headquarters": "Musashino, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "61406",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u1sxXN7a01hlsD4H01kzz6gELOn.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

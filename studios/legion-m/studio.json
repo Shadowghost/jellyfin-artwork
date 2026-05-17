@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Legion M",
+    "country": "US",
+    "homepage": "https://legionm.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108869",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tfK09IBUnfAwp5htKDPAdzf2z01.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

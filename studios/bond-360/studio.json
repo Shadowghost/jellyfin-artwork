@@ -1,0 +1,20 @@
+[
+  {
+    "name": "BOND/360",
+    "country": "US",
+    "homepage": "http://www.bond360film.com",
+    "headquarters": "New York City, New York, USA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45750"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

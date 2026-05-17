@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Fizz and Ginger Films",
+    "country": "GB",
+    "homepage": "https://www.fizzandgingerfilms.co.uk",
+    "headquarters": "Frome, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97783",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tNSN2QQaSSovOb8tDSMQzaXhp2k.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

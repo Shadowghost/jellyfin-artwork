@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Crave",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187407"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

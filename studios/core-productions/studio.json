@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Core Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12213"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

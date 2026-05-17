@@ -1,0 +1,20 @@
+[
+  {
+    "name": "This is that",
+    "country": "US",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10059",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3Z2MZzMW9gUyZAhHKhFIUqF1hwx.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

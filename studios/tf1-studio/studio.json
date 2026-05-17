@@ -1,0 +1,26 @@
+[
+  {
+    "name": "TF1 Studio",
+    "description": "Audiovisual and film production/distribution arm of France's TF1 Group (formerly Newen Studios); produces drama including Versailles, Plus belle la vie and Braquo, and distributes films internationally.",
+    "country": "FR",
+    "type": "production-company",
+    "homepage": "https://www.studiotf1.com",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258421",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8cjbEkmCkvuflBZitvpppm0jXKG.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Studio TF1"
+    ]
+  }
+]

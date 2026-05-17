@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Japan Narration Actor Institute",
+    "country": "JP",
+    "homepage": "https://nichinare.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170527"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

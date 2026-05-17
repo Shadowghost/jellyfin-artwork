@@ -1,0 +1,26 @@
+[
+  {
+    "name": "UniCredit Group",
+    "description": "Italian multinational banking and financial services company, sometimes credited as a sponsor or co-funder of European film productions.",
+    "country": "IT",
+    "type": "other",
+    "colors": [
+      {
+        "name": "UniCredit Red",
+        "hex": "#E2001A"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38592"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

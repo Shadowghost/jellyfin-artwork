@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Canal+",
+    "country": "FR",
+    "homepage": "https://www.canalplus.fr",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9aotxauvc9685tq9pTcRJszuT06.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

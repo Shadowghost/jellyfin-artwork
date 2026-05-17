@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Arcadia Motion Pictures",
+    "country": "ES",
+    "homepage": "https://www.arcadiamotionpictures.com/en",
+    "headquarters": "Barcelona, Catalonia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7543",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iwpC48igJhzUS8U1jE1c3tpb9Eq.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

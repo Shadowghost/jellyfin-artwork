@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Australian Film Finance Corporation",
+    "description": "Australian government film financing body that operated from 1988 to 2008, merged into Screen Australia.",
+    "country": "AU",
+    "type": "government-agency",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1380",
+        "logo_uri": "https://image.tmdb.org/t/p/original/y4JH9ncZJAFJGYWK84k1dmXnsw0.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

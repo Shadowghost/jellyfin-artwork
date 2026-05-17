@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Audio Planning U",
+    "country": "JP",
+    "homepage": "http://www.apu.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104392"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

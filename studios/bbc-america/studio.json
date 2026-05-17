@@ -1,0 +1,21 @@
+[
+  {
+    "name": "BBC America",
+    "description": "American basic cable television channel jointly owned by AMC Networks and BBC Studios.",
+    "country": "US",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105182",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5sFjaa1lYQgcrfYHScn2GaezmN.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

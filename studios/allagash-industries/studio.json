@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Allagash Industries",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "207590"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

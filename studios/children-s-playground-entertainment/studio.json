@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Children's Playground Entertainment",
+    "country": "JP",
+    "homepage": "http://www.cspg.co/",
+    "headquarters": "Minato, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125443",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hR6Iy4LMbWgyaKvjNYydzTW3CFg.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

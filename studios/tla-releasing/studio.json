@@ -1,0 +1,20 @@
+[
+  {
+    "name": "TLA Releasing",
+    "description": "American film distribution company specializing in LGBT-themed independent and foreign films.",
+    "country": "US",
+    "type": "distributor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141138"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

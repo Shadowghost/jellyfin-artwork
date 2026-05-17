@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Beck/Woods",
+    "country": "US",
+    "homepage": "https://www.beckwoods.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133303",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nZzVZZIXkyjb9omN7uiIzOIxgGw.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

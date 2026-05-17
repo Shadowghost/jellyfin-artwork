@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Brainpool",
+    "country": "DE",
+    "homepage": "https://www.brainpool.de/",
+    "headquarters": "Cologne",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26925",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Zp3kNV9LYSslP6x1EcmEeYgCSL.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Cartoon Network",
+    "description": "American pay-television channel owned by Warner Bros. Discovery, dedicated primarily to animated programming.",
+    "country": "US",
+    "type": "cable-network",
+    "colors": [
+      {
+        "name": "Cartoon Network Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Cartoon Network White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "291480"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Media Asia Film Production",
+    "country": "HK",
+    "headquarters": "Hong Kong",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131586"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

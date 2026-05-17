@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Arsenal Film",
+    "country": "UA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289013"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

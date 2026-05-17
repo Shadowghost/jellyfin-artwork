@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Maniac Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272019"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

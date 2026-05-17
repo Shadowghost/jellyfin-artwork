@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Street Entertainment",
+    "country": "US",
+    "homepage": "https://www.streetentertainment.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114885",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fH2pwr5Ov65PuXW5Gv10moFO2Ib.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

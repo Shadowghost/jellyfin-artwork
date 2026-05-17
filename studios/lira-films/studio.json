@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lira Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "232180"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

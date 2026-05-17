@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Fortis Films",
+    "description": "American film production company founded by Sandra Bullock and her brother-in-law.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4258",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2AAcFwLxc1yble95qTSi6QfxKRa.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

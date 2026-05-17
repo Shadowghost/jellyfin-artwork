@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Startroop Pictures Inc.",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3483"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

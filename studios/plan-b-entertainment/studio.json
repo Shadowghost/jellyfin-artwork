@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Plan B Entertainment",
+    "description": "American film and television production company co-founded by Brad Pitt; producer of 12 Years a Slave and Moonlight.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

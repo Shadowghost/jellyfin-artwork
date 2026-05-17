@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Condé Nast Digital",
+    "description": "Digital division of Condé Nast, the American mass media company that publishes Vogue, The New Yorker, Vanity Fair, GQ, and Wired.",
+    "country": "US",
+    "type": "publisher",
+    "colors": [
+      {
+        "name": "Condé Nast Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

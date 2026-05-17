@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Lerche",
+    "country": "JP",
+    "homepage": "http://www.lerche.jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42811",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2ZPUk3aYOtKbZk1W4Kp6mfeays8.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

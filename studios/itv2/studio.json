@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ITV2",
+    "description": "British free-to-air television channel owned by ITV plc, targeted at younger audiences; known for Love Island and Celebrity Juice.",
+    "country": "GB",
+    "type": "broadcast-network",
+    "homepage": "http://www.itv.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3448",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dcA8JDfnnQPMaq8lv2CCiYrNe0S.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Avex Entertainment",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2788",
+        "logo_uri": "https://image.tmdb.org/t/p/original/16p9VkS5ddLMqb4JNMJ4f9omTKx.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

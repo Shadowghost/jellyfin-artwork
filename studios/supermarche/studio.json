@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Supermarché",
+    "country": "US",
+    "homepage": "http://www.supermarche.nyc",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71895"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

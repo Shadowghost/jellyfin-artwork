@@ -1,0 +1,22 @@
+[
+  {
+    "name": "MGM Home Entertainment",
+    "description": "Home video distribution arm of Metro-Goldwyn-Mayer; releases MGM films on DVD, Blu-ray and digital formats. Now part of Amazon MGM Studios.",
+    "country": "US",
+    "type": "distributor",
+    "headquarters": "Culver City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6434",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3opBXwWF0R7YfCLdvKwa0TVLJKp.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

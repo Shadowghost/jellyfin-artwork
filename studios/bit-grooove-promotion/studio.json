@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Bit grooove promotion",
+    "country": "JP",
+    "homepage": "https://www.bitgrooove.jp/",
+    "headquarters": "Shibuya, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156047",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bR1IGv2EUNaLGPIA3jRgbATUaX8.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

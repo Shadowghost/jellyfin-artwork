@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Universal Music Japan",
+    "country": "JP",
+    "homepage": "https://www.universal-music.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177226",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ei16ncQFSAUVeq2w3Enrqq1xiRY.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Forward Films",
+    "country": "BR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17748"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Central Partnership",
+    "country": "RU",
+    "homepage": "http://www.centpart.ru/en",
+    "headquarters": "Moscow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3419",
+        "logo_uri": "https://image.tmdb.org/t/p/original/byrxE2pJD9JLyBCIzyK0pYVanyG.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

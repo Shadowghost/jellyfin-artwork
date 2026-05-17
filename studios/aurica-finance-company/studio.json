@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Aurica Finance Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94147"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

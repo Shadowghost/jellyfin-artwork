@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BKN International",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125458"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

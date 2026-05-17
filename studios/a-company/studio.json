@@ -1,0 +1,20 @@
+[
+  {
+    "name": "A Company",
+    "country": "DE",
+    "homepage": "https://www.eeap.de",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11081",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3vG1qqebRnbk0hsut7vD1xXMtbo.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

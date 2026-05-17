@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Amblin Partners",
+    "description": "American entertainment company founded by Steven Spielberg, combining Amblin Entertainment, DreamWorks Pictures, and Participant.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://amblin.com",
+    "headquarters": "Universal City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121685",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bAO6cpKP9qoqHoDn4oUjWjZ5auq.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

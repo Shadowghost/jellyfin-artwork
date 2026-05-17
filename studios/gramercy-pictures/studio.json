@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Gramercy Pictures",
+    "description": "American film distribution label, originally a joint venture between Universal Pictures and PolyGram Filmed Entertainment, later relaunched as a genre film label under Focus Features.",
+    "country": "US",
+    "type": "distributor",
+    "headquarters": "Universal City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wniaiKc5UCnC8qZcNKZNYwdKnUv.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

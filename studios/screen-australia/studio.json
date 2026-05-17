@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Screen Australia",
+    "description": "Australian Federal Government statutory agency for development, production and promotion of Australian screen content, established in 2008.",
+    "country": "AU",
+    "type": "government-agency",
+    "homepage": "https://www.screenaustralia.gov.au/",
+    "headquarters": "Ultimo, New South Wales",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7584",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eGkfvvyf4fJTvBUR1xt1669IPA3.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

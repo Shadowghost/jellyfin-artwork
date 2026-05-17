@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Film i Väst",
+    "description": "Swedish regional film fund and co-producer based in Trollhättan, owned by Västra Götalandsregionen.",
+    "country": "SE",
+    "type": "production-company",
+    "homepage": "https://filmivast.com/",
+    "headquarters": "Trollhättan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2801",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bswb1PLLsKDUXMLgy42bZtCtIde.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

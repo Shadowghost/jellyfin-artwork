@@ -1,0 +1,21 @@
+[
+  {
+    "name": "The Fyzz",
+    "country": "GB",
+    "homepage": "https://www.thefyzz.com/projects",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36109",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wca0Jcidf2N1KAPicYMjGoKOmYu.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

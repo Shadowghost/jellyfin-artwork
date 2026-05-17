@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Affinity",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198107"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

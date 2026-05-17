@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Room 101, Inc.",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6302",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jHKHR8pz3crMHZuCjBbWTQY7ojk.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

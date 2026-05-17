@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Studio 3Hz",
+    "country": "JP",
+    "homepage": "http://www.3hz.co.jp",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77832",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4qKMYPaifBLGWQq7mQYQBw40W1.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

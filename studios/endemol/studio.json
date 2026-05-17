@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Endemol",
+    "description": "Dutch-based media company that produced unscripted, scripted and digital content; merged with Shine Group and later Banijay.",
+    "country": "NL",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66389",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ewSYWqmrOst8pEyFu1w2dG0EP9T.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

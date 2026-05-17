@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Universal Animation Studios",
+    "country": "US",
+    "headquarters": "Glendale, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5556",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qtdp2UWJNleyYy6ur7DDgPYUxqz.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

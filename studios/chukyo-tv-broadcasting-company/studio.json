@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Chukyo TV Broadcasting Company",
+    "country": "JP",
+    "homepage": "https://www.ctv.co.jp/indexmenu.html",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33677",
+        "logo_uri": "https://image.tmdb.org/t/p/original/85U2onICiQV9fMHORxw8EWSQ6MZ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

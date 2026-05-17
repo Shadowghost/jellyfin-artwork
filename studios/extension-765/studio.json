@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Extension 765",
+    "country": "US",
+    "homepage": "http://extension765.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8850",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o3nVHmmi077juQZcpSeO5Ha6UiE.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

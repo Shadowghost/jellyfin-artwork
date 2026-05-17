@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Mid Atlantic Films",
+    "country": "HU",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2735"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

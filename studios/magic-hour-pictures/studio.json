@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Magic Hour Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7903"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

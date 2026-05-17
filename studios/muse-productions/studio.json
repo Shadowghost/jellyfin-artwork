@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Muse Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "206942"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

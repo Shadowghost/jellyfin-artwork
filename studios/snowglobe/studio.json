@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Snowglobe",
+    "country": "DK",
+    "homepage": "https://www.snowglobefilm.com",
+    "headquarters": "Copenhagen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88231",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hVx90I5BEktosw4N9AneIFwmjeg.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

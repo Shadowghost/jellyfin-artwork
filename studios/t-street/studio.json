@@ -1,0 +1,21 @@
+[
+  {
+    "name": "T-Street",
+    "country": "US",
+    "homepage": "http://www.tstreet.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37871",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aUOo1S2AabqQnRrXK6XuObWPDyK.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

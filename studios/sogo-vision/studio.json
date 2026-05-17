@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Sogo Vision",
+    "country": "JP",
+    "homepage": "https://web.archive.org/web/20130119053221/http://www.sogovision.co.jp/",
+    "headquarters": "Minato-ku, Tokyo, Japan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83096"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "ATV",
+    "country": "SU",
+    "headquarters": "Moscow, RSFSR, USSR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148909"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

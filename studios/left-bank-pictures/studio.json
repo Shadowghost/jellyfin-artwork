@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Left Bank Pictures",
+    "country": "GB",
+    "homepage": "https://www.leftbankpictures.co.uk",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5340",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zHQ48Hg1In6SJB7WWCqVBfWsSwv.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Screen NSW",
+    "description": "New South Wales government agency that supports and promotes the screen industry in the Australian state.",
+    "country": "AU",
+    "type": "government-agency",
+    "homepage": "http://www.screen.nsw.gov.au/",
+    "headquarters": "Sydney, NSW",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10951",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jxfMNlkvI3GxnS41xCSOLD7goVb.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

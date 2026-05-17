@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Gébéka Films",
+    "country": "FR",
+    "homepage": "https://www.gebekafilms.com/",
+    "headquarters": "13 avenue Berthelot, 69007 Lyon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4621",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hEKBTnDXH49trohO1NtI2JT0e5g.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

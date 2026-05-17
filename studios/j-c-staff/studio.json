@@ -1,0 +1,25 @@
+[
+  {
+    "name": "J.C.Staff",
+    "description": "Japanese anime studio founded in 1986 by former Tatsunoko Production member Tomoyuki Miyata; known for Toradora!, A Certain Magical Index, Food Wars and many others.",
+    "country": "JP",
+    "type": "production-company",
+    "homepage": "http://www.jcstaff.co.jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11884",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "J.C.STAFF"
+    ]
+  }
+]

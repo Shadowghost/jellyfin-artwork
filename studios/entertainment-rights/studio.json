@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Entertainment Rights",
+    "description": "British children's entertainment rights and distribution company whose library (Postman Pat, Rupert Bear, Filmation properties, etc.) was acquired by Classic Media in 2009.",
+    "country": "GB",
+    "type": "distributor",
+    "headquarters": "London, England, United Kingdom",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94540",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8z5tOCvD7KpoRz7foHvxueM2sER.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

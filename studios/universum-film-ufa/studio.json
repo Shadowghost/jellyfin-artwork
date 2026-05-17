@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Universum Film (UFA)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "811"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

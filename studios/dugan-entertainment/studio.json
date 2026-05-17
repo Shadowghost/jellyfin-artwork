@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Dugan Entertainment",
+    "country": "MN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "246456"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

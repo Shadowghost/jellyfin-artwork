@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Williams Entertainment",
+    "description": "Brand of WMS Industries used to publish home-console video games (later folded into Midway Games); also pinball/arcade heritage. Likely the entity referenced here.",
+    "country": "US",
+    "type": "other",
+    "homepage": "https://www.williamlevyent.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "232556",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pWULPvrrdmUQ59R6uMw0VOfP52Z.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

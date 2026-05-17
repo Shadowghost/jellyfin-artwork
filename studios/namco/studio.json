@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Namco",
+    "description": "Japanese video game and amusement company, merged with Bandai in 2005 to form Bandai Namco; Namco's anime production arm became Bandai Namco Filmworks.",
+    "country": "JP",
+    "type": "other",
+    "colors": [
+      {
+        "name": "Namco Red",
+        "hex": "#ED1C24"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5882"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

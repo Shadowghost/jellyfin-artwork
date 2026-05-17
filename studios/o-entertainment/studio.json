@@ -1,0 +1,19 @@
+[
+  {
+    "name": "O Entertainment",
+    "homepage": "https://www.oedework.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5682",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r7Hqh8pdZ9XdjXuMdslT3cgphbG.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

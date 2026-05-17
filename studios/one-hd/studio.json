@@ -1,0 +1,20 @@
+[
+  {
+    "name": "One HD",
+    "description": "Australian digital television channel launched in 2009 as One HD by Network Ten; later rebranded as One and then 10 Boss/10 Bold. Note: duplicate hash also matches bbc-one.svg in this repo, likely a logo similarity coincidence.",
+    "country": "AU",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "235063"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

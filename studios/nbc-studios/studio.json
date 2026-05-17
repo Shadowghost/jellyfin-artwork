@@ -1,0 +1,19 @@
+[
+  {
+    "name": "NBC Studios",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7928",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tsa8zFtAIHlOJjL5G4fe75bBeCP.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

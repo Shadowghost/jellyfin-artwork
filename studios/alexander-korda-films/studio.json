@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Alexander Korda Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4167"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

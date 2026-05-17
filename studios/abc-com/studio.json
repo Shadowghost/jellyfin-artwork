@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ABC.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "287949"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "All3Media",
+    "description": "British television, film and digital production and distribution group with subsidiaries worldwide.",
+    "country": "GB",
+    "type": "production-company",
+    "homepage": "https://www.all3media.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18752",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rpAtcmIreSwRF7BajtAGM0KEkFh.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

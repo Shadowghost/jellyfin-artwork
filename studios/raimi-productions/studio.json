@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Raimi Productions",
+    "country": "US",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122323",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gWiaDcDxt0AkSE9hxsUn5naFGRT.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

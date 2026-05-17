@@ -1,0 +1,23 @@
+[
+  {
+    "name": "IFC (Independent Film Channel)",
+    "description": "American basic cable television channel owned by AMC Networks, focused on independent film and comedy.",
+    "country": "US",
+    "type": "cable-network",
+    "homepage": "https://www.ifc.com/",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4059",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r34G74XTeqkgd75VBULyG512fkn.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

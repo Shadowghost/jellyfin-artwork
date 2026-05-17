@@ -1,0 +1,18 @@
+[
+  {
+    "name": "KNB",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226297"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

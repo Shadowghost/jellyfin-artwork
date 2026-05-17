@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Happinet Phantom Studios",
+    "country": "JP",
+    "homepage": "https://happinet-phantom.com",
+    "headquarters": "Shibuya, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168206",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AmGd7pnZZ8VWTrOtlVZAm3siR4C.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "GFC Films",
+    "country": "NZ",
+    "homepage": "https://www.gfcfilms.com/",
+    "headquarters": "Eden Terrace, Auckland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19377",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qGnRCIiH9njlM5GRyAeUubZJJ9p.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

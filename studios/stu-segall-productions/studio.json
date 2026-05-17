@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Stu Segall Productions",
+    "country": "US",
+    "headquarters": "San Diego, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6718"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

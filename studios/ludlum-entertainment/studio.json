@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ludlum Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103153"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

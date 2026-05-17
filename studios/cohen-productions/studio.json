@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cohen Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248998"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

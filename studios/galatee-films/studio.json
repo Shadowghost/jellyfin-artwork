@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Galatée Films",
+    "country": "FR",
+    "homepage": "http://galateefilms.com",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "793",
+        "logo_uri": "https://image.tmdb.org/t/p/original/10DhIXAmAixQvBOsjZ1MOeSRyUC.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

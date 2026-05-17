@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Whitewater Films",
+    "country": "US",
+    "homepage": "http://whitewaterfilms.com/",
+    "headquarters": "Los Angeles, CA, USA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3095",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AgLxsYktHv5yKq8NCSyWBCvUFRp.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

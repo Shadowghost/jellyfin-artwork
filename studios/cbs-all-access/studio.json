@@ -1,0 +1,21 @@
+[
+  {
+    "name": "CBS All Access",
+    "description": "American subscription video on-demand streaming service launched as CBS All Access in 2014, rebranded as Paramount+ in March 2021.",
+    "country": "US",
+    "type": "streaming-service",
+    "colors": [
+      {
+        "name": "CBS Blue",
+        "hex": "#003C96"
+      }
+    ],
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

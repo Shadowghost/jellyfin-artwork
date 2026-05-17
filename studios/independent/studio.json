@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Independent",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189744"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

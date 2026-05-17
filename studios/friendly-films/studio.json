@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Friendly Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53637"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

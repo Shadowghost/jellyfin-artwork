@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio Box",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11340"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

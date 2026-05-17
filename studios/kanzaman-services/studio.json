@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KanZaman Services",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125334"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

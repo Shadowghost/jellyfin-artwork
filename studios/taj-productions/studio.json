@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TAJ Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34167"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

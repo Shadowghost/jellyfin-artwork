@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Orchid Pictures",
+    "country": "GB",
+    "homepage": "https://www.orchidpictures.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224717",
+        "logo_uri": "https://image.tmdb.org/t/p/original/delJ9jBFHRFqTJWlWyK4YTwIzXi.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

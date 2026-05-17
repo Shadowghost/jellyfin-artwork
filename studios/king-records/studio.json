@@ -1,0 +1,20 @@
+[
+  {
+    "name": "King Records",
+    "country": "JP",
+    "homepage": "https://www.kingrecords.co.jp/cs/default.aspx",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4673",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tXMheRYcKXCK1a90NRESqO1ibhQ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

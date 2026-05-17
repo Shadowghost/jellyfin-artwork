@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Mill House Motion Pictures",
+    "country": "US",
+    "homepage": "https://www.mhmp.tv",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111865",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4UtwPhdPtJX519TpPjJS6hmsHD6.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

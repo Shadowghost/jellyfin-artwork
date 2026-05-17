@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Double Secret Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85850"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

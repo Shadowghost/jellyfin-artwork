@@ -1,0 +1,24 @@
+[
+  {
+    "name": "FOX Entertainment Studios",
+    "description": "American content company, the entertainment division of Fox Corporation, formed in 2019 following Disney's acquisition of 21st Century Fox; produces and owns content for Fox network and other platforms.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187918",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1spIsLYLVuY6RxM3rIzjjFAa9re.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Fox Entertainment Studios"
+    ]
+  }
+]

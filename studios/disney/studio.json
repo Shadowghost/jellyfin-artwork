@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Disney+",
+    "description": "American multinational mass media and entertainment conglomerate founded in 1923 by Walt and Roy O. Disney, headquartered in Burbank, California.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "https://www.thewaltdisneycompany.com/",
+    "headquarters": "Burbank, California",
+    "colors": [
+      {
+        "name": "Disney Blue",
+        "hex": "#0063E5"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20193",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oz1p4QkoNONJZ3JT6BF6Jj4Nw2l.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "The Walt Disney Company"
+    ]
+  }
+]

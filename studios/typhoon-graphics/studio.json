@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Typhoon Graphics",
+    "country": "JP",
+    "homepage": "http://www.typhoon-g.com/",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142380",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ggavCD8Fpc4zIjjT4zZc56YzYQP.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

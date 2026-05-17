@@ -1,0 +1,21 @@
+[
+  {
+    "name": "CBeebies",
+    "description": "British free-to-air public broadcast television channel operated by the BBC, aimed at preschool children aged 6 and under.",
+    "country": "GB",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79173",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4hDXEoxuB8EJFq2LHshCzALaFhO.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

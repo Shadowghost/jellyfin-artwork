@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gran Babieka",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87239"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

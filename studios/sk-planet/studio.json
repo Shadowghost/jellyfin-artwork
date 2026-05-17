@@ -1,0 +1,20 @@
+[
+  {
+    "name": "SK Planet",
+    "description": "South Korean technology and internet platform company under SK Group; previously operated content services including the music platform MelOn and OK Cashbag.",
+    "country": "KR",
+    "type": "other",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22152"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

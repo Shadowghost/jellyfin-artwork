@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Strand Releasing",
+    "country": "US",
+    "homepage": "https://strandreleasing.com",
+    "headquarters": "Culver City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3923",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qFWM5g28knWRu4MRv0IptS7SCSP.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

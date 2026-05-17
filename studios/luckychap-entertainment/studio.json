@@ -1,0 +1,23 @@
+[
+  {
+    "name": "LuckyChap Entertainment",
+    "description": "Production company founded in 2014 by Margot Robbie, Tom Ackerley, Josey McNamara and Sophia Kerr; produced I, Tonya, Promising Young Woman, Saltburn and Barbie.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://luckychap.co.uk/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82968",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gRROMOG5bpF6TIDMbfaa5gnFFzl.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

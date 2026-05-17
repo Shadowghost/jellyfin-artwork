@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wade",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "186625"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

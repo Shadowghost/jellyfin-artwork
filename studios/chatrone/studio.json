@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Chatrone",
+    "country": "US",
+    "homepage": "https://www.chatrone.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177082"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

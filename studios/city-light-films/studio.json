@@ -1,0 +1,21 @@
+[
+  {
+    "name": "City Light Films",
+    "country": "US",
+    "homepage": "http://citylight.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "136",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fkWq46O9I1OY3ts1yVrbHuzRANB.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "South Park Studios",
+    "country": "US",
+    "homepage": "https://southpark.cc.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45850",
+        "logo_uri": "https://image.tmdb.org/t/p/original/73sPBDOuehu9IBVM9UpNCdjilJU.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

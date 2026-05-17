@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Hiroshima Home Television",
+    "description": "Japanese commercial television station based in Hiroshima Prefecture, an affiliate of the All-Nippon News Network (ANN/TV Asahi).",
+    "country": "JP",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203384",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lhn1dJk0b2ZRqyfxlPOsZ0LgagB.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

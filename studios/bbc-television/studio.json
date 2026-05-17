@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BBC Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76576"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "ProSieben",
+    "description": "German free-to-air commercial television channel, flagship of the ProSiebenSat.1 Media group, focusing on entertainment and US series.",
+    "country": "DE",
+    "type": "broadcast-network",
+    "colors": [
+      {
+        "name": "ProSieben Red",
+        "hex": "#E20613"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176221"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

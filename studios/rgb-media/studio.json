@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RGB Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31470"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

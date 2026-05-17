@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Orange Sky Golden Harvest",
+    "country": "HK",
+    "homepage": "https://www.goldenharvest.com/",
+    "headquarters": "Hong Kong",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2521",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e9lXexogBN1nOXA8axzASggea8B.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

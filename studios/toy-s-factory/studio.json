@@ -1,0 +1,20 @@
+[
+  {
+    "name": "TOY'S FACTORY",
+    "country": "JP",
+    "homepage": "https://www.toysfactory.co.jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139842",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uBixtDwl2hxsugqSOTzEP90kxa0.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

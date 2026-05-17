@@ -1,0 +1,19 @@
+[
+  {
+    "name": "AllyCat Entertainment",
+    "country": "US",
+    "homepage": "https://allycatentertainment.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72954"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

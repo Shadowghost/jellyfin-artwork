@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Lost Bandits",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248431"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Skydance Television",
+    "country": "US",
+    "homepage": "https://skydance.com/tv",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87731",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8PeKdSO13vYTod2HAJsV2m7mRr0.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

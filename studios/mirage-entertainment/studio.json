@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mirage Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

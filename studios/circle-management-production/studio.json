@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Circle Management + Production",
+    "country": "US",
+    "homepage": "https://www.circlemp.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238806",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8KZiHGZs20UUS0zmzDbU1nUsIcr.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

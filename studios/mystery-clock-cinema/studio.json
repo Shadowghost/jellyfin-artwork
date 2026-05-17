@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Mystery Clock Cinema",
+    "country": "AU",
+    "headquarters": "Camperdown, New South Wales",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "908"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

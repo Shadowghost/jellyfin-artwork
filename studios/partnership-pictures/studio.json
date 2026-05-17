@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Partnership Pictures",
+    "country": "CZ",
+    "homepage": "https://www.partnershippictures.com/",
+    "headquarters": "Stefanikova 1/65, 2nd floor, 150 00  Prague 5, Czech Republic, Europe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22883"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

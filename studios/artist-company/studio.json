@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Artist Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74292"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

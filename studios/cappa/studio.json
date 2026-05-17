@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Cappa",
+    "country": "FR",
+    "homepage": "https://www.capatv.com/en",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "47413",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tWgdrvRArGnERk9lmr4IkqoiMoZ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

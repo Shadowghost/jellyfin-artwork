@@ -1,0 +1,21 @@
+[
+  {
+    "name": "DLE",
+    "country": "JP",
+    "homepage": "https://www.dle.jp",
+    "headquarters": "Chiyoda, Tokyo Prefecture, Japan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71369",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gsHQTAMMRAlqYIWdN6rcSKSHRqT.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Tunche Films",
+    "country": "PE",
+    "homepage": "https://en.tunchefilms.com",
+    "headquarters": "Lima",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116034",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5hgcRnhPTpEiV3LnZDmDI4UmSmG.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Shogakukan-Shueisha Productions",
+    "country": "JP",
+    "homepage": "https://www.shopro.co.jp/english/",
+    "headquarters": "Chiyoda, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12655",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dfGqf2NoMVPrDywDL90D5HAhBlW.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

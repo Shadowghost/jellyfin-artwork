@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Zipper Bros Films",
+    "country": "US",
+    "homepage": "http://www.zipperbrothersfilms.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55571",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uGUxE09pqg0SRDv41hRAKw2jDLI.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

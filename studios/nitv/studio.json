@@ -1,0 +1,20 @@
+[
+  {
+    "name": "NITV",
+    "description": "Australian free-to-air television channel showcasing Indigenous Australian programming, run by SBS.",
+    "country": "AU",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76028"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

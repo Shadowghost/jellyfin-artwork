@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Walt Disney Animation Japan",
+    "description": "Former Disney satellite animation studio in Tokyo (originally Walt Disney Animation Japan, also encompassing Disney's animation outposts in Australia and Canada); produced direct-to-video sequels until closure in 2004.",
+    "country": "JP",
+    "type": "studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40148"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

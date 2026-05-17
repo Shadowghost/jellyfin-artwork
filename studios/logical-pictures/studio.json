@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Logical Pictures",
+    "country": "FR",
+    "homepage": "http://www.logicalpictures.com",
+    "headquarters": "Lyon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92840",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4LyDs7gsAMq5sg3fPjUa1P52emj.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

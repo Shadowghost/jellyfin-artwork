@@ -1,0 +1,20 @@
+[
+  {
+    "name": "TVP1",
+    "description": "Flagship general-content channel of Polish public broadcaster Telewizja Polska, the oldest television channel in Poland.",
+    "country": "PL",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "291372"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

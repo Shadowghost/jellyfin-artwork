@@ -1,0 +1,20 @@
+[
+  {
+    "name": "DMC Film",
+    "country": "GB",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58085",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tB2PI31EWSLuAHlYVLWTMEfU8FU.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

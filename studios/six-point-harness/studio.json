@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Six Point Harness",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130624"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

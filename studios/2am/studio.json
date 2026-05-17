@@ -1,0 +1,21 @@
+[
+  {
+    "name": "2AM",
+    "country": "US",
+    "homepage": "https://2am.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158407",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zUj7hFnsY8y1hVPfiZYnDtcGTHe.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

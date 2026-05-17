@@ -1,0 +1,21 @@
+[
+  {
+    "name": "BA Entertainment",
+    "country": "KR",
+    "homepage": "http://www.baent.co.kr",
+    "headquarters": "Seoul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84678",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8pjrX8L669kQUdCqCCpv3uWOSBC.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

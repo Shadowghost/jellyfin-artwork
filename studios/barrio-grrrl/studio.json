@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Barrio Grrrl!",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150842"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

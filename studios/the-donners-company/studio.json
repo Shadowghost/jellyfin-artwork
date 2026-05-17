@@ -1,0 +1,19 @@
+[
+  {
+    "name": "The Donners' Company",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "431",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6dcR1MbRqYgt3jUVYxkHe68GFnZ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

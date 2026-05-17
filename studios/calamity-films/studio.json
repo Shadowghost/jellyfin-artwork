@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Calamity Films",
+    "country": "GB",
+    "homepage": "http://www.calamityfilms.co.uk",
+    "headquarters": "London",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26369"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

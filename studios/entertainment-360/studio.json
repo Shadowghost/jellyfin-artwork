@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Entertainment 360",
+    "country": "US",
+    "homepage": "https://ent360.com/",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78984",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vJLYh9YHQaEryuzu7GNUa1zwKG1.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BSN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283614"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

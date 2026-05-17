@@ -1,0 +1,21 @@
+[
+  {
+    "name": "CinéGroupe",
+    "country": "CA",
+    "homepage": "http://effeska.com/",
+    "headquarters": "Westmount, Quebec, Canada",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4172",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vb2gE5Ao9wIfj3XlY8CwwwbnAlh.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

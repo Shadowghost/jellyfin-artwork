@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Pictanovo",
+    "country": "FR",
+    "homepage": "https://www.pictanovo.com",
+    "headquarters": "Tourcoing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75242",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hrZzmOGhzhv473sIInHtSNwQOhT.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

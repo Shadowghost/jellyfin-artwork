@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Michael De Luca Productions",
+    "country": "US",
+    "headquarters": "Culver City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11370"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

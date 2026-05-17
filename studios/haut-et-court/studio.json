@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Haut et Court",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274310"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Beverly Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5954"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

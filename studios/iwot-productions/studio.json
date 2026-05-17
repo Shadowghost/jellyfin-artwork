@@ -1,0 +1,19 @@
+[
+  {
+    "name": "IWOT Productions",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157279",
+        "logo_uri": "https://image.tmdb.org/t/p/original/miu08djkdz1KKN4LmTN0tSKVCdk.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

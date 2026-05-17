@@ -1,0 +1,25 @@
+[
+  {
+    "name": "HBO Nordic",
+    "description": "Nordic subscription video-on-demand service operated by HBO Europe in Sweden, Denmark, Norway, Finland; replaced by HBO Max in 2021 and now Max under Warner Bros. Discovery.",
+    "country": "SE",
+    "type": "streaming-service",
+    "colors": [
+      {
+        "name": "HBO Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "HBO White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

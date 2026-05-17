@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Tomy",
+    "description": "Japanese entertainment and toy company, famous for Tomica, Plarail, Beyblade, Zoids; co-produces anime and films tied to its toy franchises.",
+    "country": "JP",
+    "type": "other",
+    "colors": [
+      {
+        "name": "Tomy Red",
+        "hex": "#E60012"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11644"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Tomy Company, Ltd."
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "B.A. Filmproduktion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12427"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

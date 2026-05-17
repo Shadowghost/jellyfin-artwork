@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Eficine 226",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8685"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Forward Pass",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "675",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fy7laY9J4tbYz7yNxGEKmoMrXRt.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

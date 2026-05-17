@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Age Global Networks",
+    "country": "JP",
+    "homepage": "https://age-global.net/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62698",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rim4sNNO9ZDR5nUExAG4qC6g44y.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Kickstart Entertainment",
+    "country": "US",
+    "homepage": "https://www.kickstartent.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2526",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kzIW6QWhacDwzGoXEIWhac8rb70.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

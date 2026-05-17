@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Golden Harvest Productions",
+    "country": "HK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39985",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4K0Fjrh7l2gVNwlGuRH4rTEFxTC.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

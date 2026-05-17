@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Mythos Film",
+    "country": "DE",
+    "homepage": "https://constantin.film/en/companies/mythos-film/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66750"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

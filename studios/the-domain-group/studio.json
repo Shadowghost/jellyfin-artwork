@@ -1,0 +1,20 @@
+[
+  {
+    "name": "The Domain Group",
+    "description": "American production research and clearance services company supporting film and television productions; credited on series such as American Gods, BoJack Horseman, and Rick and Morty.",
+    "country": "US",
+    "type": "other",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120207"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Studio Lings",
+    "country": "JP",
+    "homepage": "http://studiolings.wixsite.com/lings",
+    "headquarters": "Nishitokyo, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175319",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nPOVXvGgxqTcbwkQgJQTn3YCZGD.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

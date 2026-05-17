@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Williams Street",
+    "country": "US",
+    "headquarters": "Atlanta, Georgia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6760",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h3syDHowNmk61FzlW2GPY0vJCFh.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

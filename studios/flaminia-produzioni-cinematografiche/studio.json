@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Flaminia Produzioni Cinematografiche",
+    "country": "IT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1526"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

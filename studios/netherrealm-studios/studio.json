@@ -1,0 +1,20 @@
+[
+  {
+    "name": "NetherRealm Studios",
+    "description": "American video game developer based in Chicago, owned by Warner Bros. Games and led by Ed Boon; developer of the Mortal Kombat and Injustice franchises.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13033"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

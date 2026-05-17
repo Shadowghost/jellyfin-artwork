@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Sedic Deux",
+    "country": "JP",
+    "homepage": "http://sedicdeux.co.jp/",
+    "headquarters": "Tokyo, Japan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69969"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

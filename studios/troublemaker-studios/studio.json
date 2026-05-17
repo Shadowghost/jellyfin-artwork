@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Troublemaker Studios",
+    "description": "American film and television production company founded by Robert Rodriguez and Elizabeth Avellán, based in Austin, Texas. Known for the Spy Kids and Sin City franchises.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "http://www.troublemakerstudios.com/",
+    "headquarters": "Austin, Texas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10807",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5MhGwwNnXXcTKjIXJ9oALnUas4t.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

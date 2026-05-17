@@ -1,0 +1,22 @@
+[
+  {
+    "name": "WOWOW",
+    "description": "Japanese premium satellite/pay TV broadcaster operating multiple channels (WOWOW Prime, Live, Cinema) showing films, sports, drama, and original productions.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.wowow.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157807",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tyrJOOVAUIxQEJzjP1PhP2H5zFi.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

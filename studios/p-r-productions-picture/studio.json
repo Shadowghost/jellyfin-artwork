@@ -1,0 +1,17 @@
+[
+  {
+    "name": "P-R Productions Picture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69791"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Fluidity Films",
+    "country": "GB",
+    "homepage": "https://www.fluidityfilms.co.uk",
+    "headquarters": "Somerset, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92963",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r9Y1hbQZN23ZMYDf2lNomAjuUqC.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Endeavor Content",
+    "country": "US",
+    "homepage": "http://www.endeavorco.com/",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100640",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5BR67T28TVm2UMH8GCRDftafsaJ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

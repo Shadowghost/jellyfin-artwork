@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Leverage Entertainment",
+    "description": "American talent management and film/television production company.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8536"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

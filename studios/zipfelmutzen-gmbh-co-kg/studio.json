@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zipfelmützen GmbH & Co. KG",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32785"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

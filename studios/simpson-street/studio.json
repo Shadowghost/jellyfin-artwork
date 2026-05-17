@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Simpson Street",
+    "country": "US",
+    "homepage": "https://simpsonst.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115026",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2yASkMT2hM6vjz0Bt1TP2gN2Ed2.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "13 Films",
+    "country": "US",
+    "homepage": "https://13films.net/",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130808",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lLn5aqdLbYiuN1hq8wGwImdRndG.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Niama Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22858"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Algonquin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8772"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

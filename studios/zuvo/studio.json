@@ -1,0 +1,21 @@
+[
+  {
+    "name": "zuvo.",
+    "country": "JP",
+    "homepage": "http://www.zuvo.tokyo/",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181712",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xPmTj4uAa9Di2OkfSbpZlvPofKy.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

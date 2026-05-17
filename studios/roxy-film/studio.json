@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Roxy Film",
+    "country": "DE",
+    "homepage": "http://www.roxyfilm.de",
+    "headquarters": "Munich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101",
+        "logo_uri": "https://image.tmdb.org/t/p/original/raOrnuBuBXLhQTnwmiEjyg5d4kQ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

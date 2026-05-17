@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lucent Pictures Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275088"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

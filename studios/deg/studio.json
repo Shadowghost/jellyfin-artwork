@@ -1,0 +1,20 @@
+[
+  {
+    "name": "DEG",
+    "country": "US",
+    "headquarters": "Wilmington, North Carolina",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "484",
+        "logo_uri": "https://image.tmdb.org/t/p/original/y3jYroFE9tjDTx5aSOgecXV732c.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

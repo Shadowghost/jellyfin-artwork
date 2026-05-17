@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Kumie",
+    "country": "JP",
+    "homepage": "http://www.kawasenaomi.com/kumie/en/",
+    "headquarters": "Nara",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18933",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u5OLlbkRkxK1b92SY8Iklezo5fj.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Nippon Columbia",
+    "country": "JP",
+    "homepage": "https://columbia.jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13066",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2fgqTGBeaKaGer4vDUXmYaUIR5o.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "SCOPE Pictures",
+    "country": "BE",
+    "homepage": "https://www.scopepictures.be",
+    "headquarters": "Brussels",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11199",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tWXanyy8XwpcOPannNJ33QUcXp5.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

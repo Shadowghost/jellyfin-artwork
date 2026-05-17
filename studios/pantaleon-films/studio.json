@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Pantaleon Films",
+    "country": "DE",
+    "homepage": "https://www.pantaflixgroup.com/en/companies/pantaleon-films/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78486",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oKG2ahqSVN8i5Rd0U9ZNbNY6jK7.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

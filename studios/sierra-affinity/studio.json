@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sierra/Affinity",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22107"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

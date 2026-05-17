@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Otto Preminger Films",
+    "country": "US",
+    "headquarters": "Hollywood, Los Angeles",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3266"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

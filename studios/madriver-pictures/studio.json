@@ -1,0 +1,21 @@
+[
+  {
+    "name": "MadRiver Pictures",
+    "country": "US",
+    "homepage": "https://madriverpictures.com",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73492",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bQzrYnomE5hIRJMxEy7e2SCYew3.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

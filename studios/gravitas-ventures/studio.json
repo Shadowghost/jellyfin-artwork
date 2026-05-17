@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Gravitas Ventures",
+    "country": "US",
+    "homepage": "http://gravitasventures.com",
+    "headquarters": "El Segundo, Cailfornia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "44632",
+        "logo_uri": "https://image.tmdb.org/t/p/original/neCKH4sJCBhZ1B4QocTM4VXCQOR.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

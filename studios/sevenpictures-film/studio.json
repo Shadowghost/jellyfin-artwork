@@ -1,0 +1,20 @@
+[
+  {
+    "name": "SevenPictures Film",
+    "country": "DE",
+    "headquarters": "Unterföhring",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "331",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fzP3jKd8Crzkxq0YDUQEviu4p9J.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

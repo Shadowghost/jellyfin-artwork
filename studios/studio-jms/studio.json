@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio JMS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48681"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

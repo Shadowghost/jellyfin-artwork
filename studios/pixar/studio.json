@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Pixar",
+    "description": "American computer animation studio based in Emeryville, California; a subsidiary of The Walt Disney Company, known for the Toy Story franchise and many feature animations.",
+    "country": "US",
+    "type": "studio",
+    "colors": [
+      {
+        "name": "Pixar Blue",
+        "hex": "#1A5790"
+      },
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Pixar Animation Studios"
+    ]
+  }
+]

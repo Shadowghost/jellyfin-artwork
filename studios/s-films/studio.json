@@ -1,0 +1,17 @@
+[
+  {
+    "name": "S Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39829"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

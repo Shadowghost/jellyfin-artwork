@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Caravan Pictures",
+    "description": "American film production company founded by Joe Roth and Roger Birnbaum in 1992 with an output deal with Disney; produced films like Angels in the Outfield, Rush Hour, and Inspector Gadget.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Aruhqf13whJ0bNSgtv1gt3xclT6.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

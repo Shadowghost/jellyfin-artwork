@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Starry Cube",
+    "country": "JP",
+    "homepage": "https://www.starrycube.com/english/",
+    "headquarters": "Taito, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209103",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rOpRaL0DtALzpESSpxwvLMsZLdd.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

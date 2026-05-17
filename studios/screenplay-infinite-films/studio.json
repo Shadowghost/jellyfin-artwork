@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Screenplay Infinite Films",
+    "country": "ID",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87477",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yQPjg7McxQZTrQo87uYOvq5csMN.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

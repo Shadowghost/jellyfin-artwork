@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Monopol Film Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109942"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

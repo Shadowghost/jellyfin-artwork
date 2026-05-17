@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Starz",
+    "description": "American premium cable and streaming television network, known for original series like Outlander, Power, and Spartacus.",
+    "country": "US",
+    "type": "cable-network",
+    "homepage": "https://www.starz.com/us/en/",
+    "headquarters": "Santa Monica, California",
+    "colors": [
+      {
+        "name": "Starz Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8034",
+        "logo_uri": "https://image.tmdb.org/t/p/original/GMDGZk9iDG4WDijY3VgUgJeyus.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "STARZ"
+    ]
+  }
+]

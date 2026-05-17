@@ -1,0 +1,21 @@
+[
+  {
+    "name": "National Media Group",
+    "country": "RU",
+    "homepage": "https://nm-g.ru/holding/",
+    "headquarters": "Moscow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134116",
+        "logo_uri": "https://image.tmdb.org/t/p/original/s3JTlXPJgR9fdJ7u0GoPePGr8jz.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

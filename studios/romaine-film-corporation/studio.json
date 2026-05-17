@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Romaine Film Corporation",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226986"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

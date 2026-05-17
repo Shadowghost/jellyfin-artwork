@@ -1,0 +1,21 @@
+[
+  {
+    "name": "STUDIO MASSKET",
+    "country": "JP",
+    "homepage": "https://st-massket.com/",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208618",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wK9l1Ft3dIxayCc10tk7M4OtGfA.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,15 +1,31 @@
 [
   {
     "name": "Comedy Central",
-    "machine-name": "coedy-central",
-    "providers": {
-      "tvdb": "1300",
-      "tmdb": "47",
-      "imdb": "co0029768"
-    },
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "tvdb",
+        "id": "1300"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "182800"
+      },
+      {
+        "provider_name": "imdb",
+        "id": "co0029768"
+      }
+    ],
     "artwork": {
-      "primary": ["svg", "webp"],
-      "thumb": ["svg", "webp"]
-    }
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "coedy-central"
   }
 ]

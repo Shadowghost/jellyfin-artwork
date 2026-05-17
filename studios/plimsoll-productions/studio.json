@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Plimsoll Productions",
+    "country": "GB",
+    "homepage": "http://www.plimsollproductions.com",
+    "headquarters": "Bristol, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103619",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Nz3InTx0kRU5AGVEu2x2xYb4ua.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

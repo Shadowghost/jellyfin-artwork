@@ -1,0 +1,20 @@
+[
+  {
+    "name": "GEMBA",
+    "country": "JP",
+    "homepage": "http://www.gemba.co.jp",
+    "headquarters": "Shibuya, Tokyo Prefecture, Japan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109639"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

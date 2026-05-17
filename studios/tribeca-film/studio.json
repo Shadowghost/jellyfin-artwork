@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tribeca Film",
+    "description": "American film distribution label of Tribeca Enterprises, founded by Robert De Niro and Jane Rosenthal.",
+    "country": "US",
+    "type": "distributor",
+    "homepage": "https://tribecafilm.com/",
+    "headquarters": "Tribeca, New York City",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20670"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

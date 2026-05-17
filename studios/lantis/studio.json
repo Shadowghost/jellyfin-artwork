@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lantis",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "282575"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

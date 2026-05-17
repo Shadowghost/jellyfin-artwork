@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Talkback",
+    "country": "GB",
+    "homepage": "https://talkbackproductions.tv",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13157",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jr4fJUF5avpcT3V0HwrIZ4t8uMn.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

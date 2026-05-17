@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Státní fond ČR pro podporu a rozvoj české kinematografie",
+    "country": "CZ",
+    "homepage": "https://fondkinematografie.cz/english/",
+    "headquarters": "Prague, Czech Republic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6062"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "GK Films",
+    "description": "American-British film and television production company founded by Graham King in 2007, based in Santa Monica; produced The Departed, The Tourist, Hugo, Argo and Bohemian Rhapsody.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3281",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8tMybAieh64uzvm8knSjXOFX8Qc.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

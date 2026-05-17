@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Viacom Canada",
+    "description": "Canadian division of Viacom, the American media conglomerate, involved in production and distribution of programming in Canada.",
+    "country": "CA",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22211"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

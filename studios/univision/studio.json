@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Univision",
+    "description": "American Spanish-language free-to-air television network owned by TelevisaUnivision, the largest provider of Spanish-language content in the U.S.",
+    "country": "US",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "296984"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

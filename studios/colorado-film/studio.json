@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Colorado Film",
+    "country": "IT",
+    "homepage": "http://www.coloradofilm.it",
+    "headquarters": "Roma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2534",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6aizJC0RRO5oprJMYf2PBAB7lyZ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

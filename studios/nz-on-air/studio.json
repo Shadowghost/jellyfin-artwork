@@ -1,0 +1,26 @@
+[
+  {
+    "name": "NZ on Air",
+    "description": "New Zealand Crown entity that funds public-interest broadcasting, including local television, music, radio, and online media content.",
+    "country": "NZ",
+    "type": "government-agency",
+    "homepage": "https://www.nzonair.govt.nz",
+    "headquarters": "Wellington",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "295",
+        "logo_uri": "https://image.tmdb.org/t/p/original/24lAsHZaGi4GzNrWzlkK60HLMBx.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "NZ On Air"
+    ]
+  }
+]

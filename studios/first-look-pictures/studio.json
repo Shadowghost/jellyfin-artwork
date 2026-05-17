@@ -1,0 +1,19 @@
+[
+  {
+    "name": "First Look Pictures",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13534",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vAbdXfuYEakiBnrCDJf3ez50geK.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

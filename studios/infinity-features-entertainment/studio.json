@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Infinity Features Entertainment",
+    "description": "Canadian film production company based in Vancouver, co-founded by Cameron Lamb and Shawn Williamson; produced films such as Capote and The Time Traveler's Wife.",
+    "country": "CA",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

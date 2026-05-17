@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Quad Productions",
+    "country": "FR",
+    "homepage": "https://prod.quad.fr",
+    "headquarters": "Clichy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7038",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9YDo78sKAy6xxqBwVBT2Vi9FSZl.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

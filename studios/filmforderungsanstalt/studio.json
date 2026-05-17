@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmförderungsanstalt",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234642"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

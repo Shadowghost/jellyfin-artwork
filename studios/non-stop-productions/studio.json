@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Non-Stop Productions",
+    "country": "RU",
+    "homepage": "http://en.nonstopkino.ru",
+    "headquarters": "Moscow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5630",
+        "logo_uri": "https://image.tmdb.org/t/p/original/s0mHCw53fp6EAapR7g0dwYbz0l5.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

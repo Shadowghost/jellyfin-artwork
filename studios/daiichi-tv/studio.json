@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Daiichi-TV",
+    "country": "JP",
+    "homepage": "https://www.tv-sdt.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11724",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tFePbc4dqJzcUaHeKAQkhRgT5zJ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Studio Puyukai",
+    "country": "JP",
+    "homepage": "http://puyukai.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100244",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jpLi57YEvCe2uWYLknqzWsNxXFr.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

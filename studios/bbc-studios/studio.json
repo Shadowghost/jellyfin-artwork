@@ -1,0 +1,21 @@
+[
+  {
+    "name": "BBC Studios",
+    "country": "GB",
+    "homepage": "https://www.bbcstudios.com/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80893",
+        "logo_uri": "https://image.tmdb.org/t/p/original/enAjeGPTtVw8pt7HSzZYBXPfbOY.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

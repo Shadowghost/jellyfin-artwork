@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sequence Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2739"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

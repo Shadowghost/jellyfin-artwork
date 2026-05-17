@@ -1,0 +1,20 @@
+[
+  {
+    "name": "YTE",
+    "country": "JP",
+    "homepage": "https://www.yte.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138773",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nw7p1jXBwuMk6WUQ2QKRENcm5Wv.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Smokehouse Pictures",
+    "description": "American film production company founded by George Clooney and Grant Heslov.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://smokehouse-pictures.com",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1782",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nv4AZ5WtnXMgku68e3l5Wc5zWqZ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

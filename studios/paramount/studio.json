@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Paramount+",
+    "description": "Major American film and television studio, one of the 'Big Five' Hollywood studios and the second-oldest film studio in the United States.",
+    "country": "US",
+    "type": "studio",
+    "parent_company": "Viacom International",
+    "homepage": "https://www.paramountpictures.com/movies",
+    "headquarters": "Hollywood, California",
+    "colors": [
+      {
+        "name": "Paramount Blue",
+        "hex": "#0064FF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Paramount Pictures",
+      "Paramount"
+    ]
+  }
+]

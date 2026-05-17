@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Charades",
+    "country": "FR",
+    "homepage": "https://www.charades.eu/",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102874",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3oHMY8bVdqo8c9KSQw1ehMc0o3V.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

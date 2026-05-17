@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Sogetel",
+    "description": "Spanish independent film production company based in Madrid.",
+    "country": "ES",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15469",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g5vcTT1IgeRyhcpqPvThutjBtOa.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Anime International Company",
+    "country": "JP",
+    "homepage": "http://www.anime-int.com",
+    "headquarters": "Nerima, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4690",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bQXkraSwoBDVd8xEAOkxGQLBB1S.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

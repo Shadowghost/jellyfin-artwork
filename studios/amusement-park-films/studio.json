@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Amusement Park Films",
+    "country": "DE",
+    "homepage": "https://www.amusementparkfilm.com/",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36616",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ujmuIln4o5ZK08NvI7GmSuV0jj6.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

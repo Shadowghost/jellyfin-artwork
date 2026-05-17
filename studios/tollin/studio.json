@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tollin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139386"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

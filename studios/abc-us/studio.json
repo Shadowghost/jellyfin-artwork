@@ -1,0 +1,36 @@
+[
+  {
+    "name": "ABC (US)",
+    "description": "American commercial broadcast television network owned by The Walt Disney Company, headquartered in Burbank, California.",
+    "country": "US",
+    "type": "broadcast-network",
+    "homepage": "https://abc.com",
+    "headquarters": "Burbank, California",
+    "colors": [
+      {
+        "name": "ABC Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "ABC White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176162",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6p5mbxa1dzikbnVlLc11uroG9GU.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "ABC (American Broadcasting Company)"
+    ]
+  }
+]

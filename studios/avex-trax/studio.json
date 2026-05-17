@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Avex Trax",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130799",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c0ZNxPAnQoVDOUKXLmwiXhwpPCD.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

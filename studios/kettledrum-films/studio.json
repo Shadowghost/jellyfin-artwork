@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kettledrum Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12978"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

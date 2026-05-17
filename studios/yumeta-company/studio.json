@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Yumeta Company",
+    "country": "JP",
+    "homepage": "http://www.yumeta.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10804",
+        "logo_uri": "https://image.tmdb.org/t/p/original/snhhKxVv462u3hDQC2j4C2cLfcB.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Studio La Cachette",
+    "country": "FR",
+    "homepage": "http://www.studiolacachette.com/",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118415",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4ZsJEnEzoZKSviVmNGOvyN3UgqI.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "RTÉ",
+    "description": "Ireland's national public service broadcaster, providing television, radio, and online services.",
+    "country": "IE",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1923"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "RTÉ (Raidió Teilifís Éireann)"
+    ]
+  }
+]

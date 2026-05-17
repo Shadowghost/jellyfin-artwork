@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Hyæne Film",
+    "country": "DK",
+    "homepage": "http://hyaenefilm.dk",
+    "headquarters": "Copenhague",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119770",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v6WgNpXooYFG8tS0Xau6UGMR7Ww.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

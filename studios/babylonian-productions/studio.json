@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Babylonian Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2181"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

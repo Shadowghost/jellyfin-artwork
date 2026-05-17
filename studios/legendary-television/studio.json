@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Legendary Television",
+    "country": "US",
+    "homepage": "https://www.legendary.com/television",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "54629",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nygX645auQxOiiAH1mrPxIuQRj0.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

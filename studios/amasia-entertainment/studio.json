@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Amasia Entertainment",
+    "country": "US",
+    "homepage": "http://www.amasiaentertainment.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15465",
+        "logo_uri": "https://image.tmdb.org/t/p/original/391VF4wQ568eSBChoPbgWBVByfl.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

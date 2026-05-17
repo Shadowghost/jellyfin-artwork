@@ -1,0 +1,22 @@
+[
+  {
+    "name": "CBS Films",
+    "description": "Defunct American theatrical film production division of CBS Corporation, absorbed into CBS Entertainment Group in 2019.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5490",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xuJSR4dWsvkE194aemIJwflyNF2.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

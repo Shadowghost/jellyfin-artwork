@@ -1,0 +1,21 @@
+[
+  {
+    "name": "SVT Drama",
+    "country": "SE",
+    "homepage": "https://www.svtplay.se/kategori/drama",
+    "headquarters": "Stockholm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157",
+        "logo_uri": "https://image.tmdb.org/t/p/original/s537keIoi6wUOU8E9ztWaV2DY1H.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

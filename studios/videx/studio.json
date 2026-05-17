@@ -1,0 +1,23 @@
+[
+  {
+    "name": "VIDEX",
+    "description": "Japanese digital media distribution company offering video streaming of films, dramas and anime as well as electronic distribution of comics and photo books.",
+    "country": "GB",
+    "type": "streaming-service",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "178954"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Videx"
+    ]
+  }
+]

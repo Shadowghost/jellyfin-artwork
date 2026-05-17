@@ -1,0 +1,20 @@
+[
+  {
+    "name": "KTK",
+    "country": "KZ",
+    "headquarters": "Kazakhstan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20733",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kyeXAnuURhLuU2yx2mLky24FwEn.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

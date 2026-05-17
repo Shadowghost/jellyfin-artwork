@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Fox Star Studios",
+    "country": "IN",
+    "headquarters": "Mumbai, Maharashtra",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12154",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dBjJavlqNxrYlqcbobDYYq9NuOq.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

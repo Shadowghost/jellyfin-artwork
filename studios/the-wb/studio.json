@@ -1,0 +1,23 @@
+[
+  {
+    "name": "The WB",
+    "description": "American broadcast television network that operated from 1995 to 2006, owned by Warner Bros.; merged with UPN to form The CW.",
+    "country": "US",
+    "type": "broadcast-network",
+    "homepage": "https://www.cwtv.com",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218482",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hEpcdJ4O6eitG9ADSnDXNUrlovS.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

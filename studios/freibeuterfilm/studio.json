@@ -1,0 +1,21 @@
+[
+  {
+    "name": "FreibeuterFilm",
+    "country": "AT",
+    "homepage": "https://www.freibeuterfilm.com",
+    "headquarters": "Vienna",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81956",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j1gYelmPIye4HKBR47CiQ87TaqB.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

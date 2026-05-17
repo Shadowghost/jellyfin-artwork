@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Yellow Cab Studios",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "254344"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

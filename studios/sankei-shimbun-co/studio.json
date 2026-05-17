@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Sankei Shimbun co.",
+    "description": "Japanese national daily newspaper published by The Sankei Shimbun Co., part of the Fujisankei Communications Group.",
+    "country": "JP",
+    "type": "publisher",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250901",
+        "logo_uri": "https://image.tmdb.org/t/p/original/shj1ZLBFReCPz5IMl7bIlcOSbr8.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Sankei Shimbun Co., Ltd."
+    ]
+  }
+]

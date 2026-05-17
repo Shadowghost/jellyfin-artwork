@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Elm Street Venture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176294"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

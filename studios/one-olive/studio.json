@@ -1,0 +1,17 @@
+[
+  {
+    "name": "One Olive",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216146"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

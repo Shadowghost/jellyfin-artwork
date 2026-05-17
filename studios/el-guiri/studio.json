@@ -1,0 +1,21 @@
+[
+  {
+    "name": "El Guiri",
+    "country": "ES",
+    "homepage": "https://www.elguiristudios.com/",
+    "headquarters": "Madrid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192461",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qettGarkkIn2pLW016v5sC4iY04.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

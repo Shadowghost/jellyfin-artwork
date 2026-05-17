@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Savage Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "287733"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

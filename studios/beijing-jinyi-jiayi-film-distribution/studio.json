@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Beijing Jinyi Jiayi Film Distribution",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135037"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

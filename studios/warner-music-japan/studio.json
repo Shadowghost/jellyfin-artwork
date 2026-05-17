@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Warner Music Japan",
+    "country": "JP",
+    "homepage": "https://wmg.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104252",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xnfyXdclUa1AlWjpoe8WhqspR5J.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

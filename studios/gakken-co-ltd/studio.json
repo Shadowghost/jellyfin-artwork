@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Gakken Co. Ltd.",
+    "description": "Japanese publishing and educational company known for educational books, magazines, and toys; has also financed anime and film productions.",
+    "country": "JP",
+    "type": "publisher",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84888"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Gakken Co., Ltd."
+    ]
+  }
+]

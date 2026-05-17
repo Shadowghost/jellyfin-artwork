@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Lemming Film",
+    "country": "NL",
+    "homepage": "http://www.lemmingfilm.com",
+    "headquarters": "Amsterdam",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2345",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nozBgqHmM9A22IHkghTnLiUrM7Q.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

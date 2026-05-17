@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Shelter Prod",
+    "country": "BE",
+    "homepage": "http://www.taxshelter.be",
+    "headquarters": "Evere",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95061",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gAt0ztKNX5gKyzNmIdaVxI5aoHv.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

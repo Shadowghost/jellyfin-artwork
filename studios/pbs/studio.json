@@ -1,0 +1,29 @@
+[
+  {
+    "name": "PBS",
+    "description": "American public broadcaster and non-commercial, free-to-air television network with 350+ member stations across the United States.",
+    "country": "US",
+    "type": "broadcast-network",
+    "colors": [
+      {
+        "name": "PBS Blue",
+        "hex": "#2638C4"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124017"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "PBS (Public Broadcasting Service)"
+    ]
+  }
+]

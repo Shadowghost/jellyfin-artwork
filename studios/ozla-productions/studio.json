@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ozla Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4777"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

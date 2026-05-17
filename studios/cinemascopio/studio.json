@@ -1,0 +1,21 @@
+[
+  {
+    "name": "CinemaScópio",
+    "country": "BR",
+    "homepage": "https://www.cinemascopio.com/",
+    "headquarters": "Recife, Pernambuco",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9171",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5EGVvPhTETMM9oJYY6TqkZ49MZV.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

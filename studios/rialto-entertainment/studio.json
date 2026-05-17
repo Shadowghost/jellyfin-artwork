@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Rialto Entertainment",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242178",
+        "logo_uri": "https://image.tmdb.org/t/p/original/69AoGv61LDQ6NY8Xgb85B29Wfaj.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Picturemaker Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19364"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

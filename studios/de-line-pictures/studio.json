@@ -1,0 +1,19 @@
+[
+  {
+    "name": "De Line Pictures",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2609",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ocmrEBfmecJvrbIM4C50vjYWtlq.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

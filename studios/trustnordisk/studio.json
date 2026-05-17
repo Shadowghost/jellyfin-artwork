@@ -1,0 +1,21 @@
+[
+  {
+    "name": "TrustNordisk",
+    "country": "DK",
+    "homepage": "https://trustnordisk.com/",
+    "headquarters": "Hvidovre, Denmark",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105392",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hgmt6qtFTWqnSfbpuBWdphNKfUu.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Margin of Error",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122253"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "History (The History Channel)",
+    "description": "American pay-television channel operated by A&E Networks, broadcasting documentaries, reality shows, and dramatic programming about historical topics.",
+    "country": "US",
+    "type": "cable-network",
+    "colors": [
+      {
+        "name": "History Yellow",
+        "hex": "#FFCC00"
+      },
+      {
+        "name": "History Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234381"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

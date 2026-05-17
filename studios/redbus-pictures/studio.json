@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Redbus Pictures",
+    "country": "GB",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20451",
+        "logo_uri": "https://image.tmdb.org/t/p/original/CFvjMrDoXK0ADC5kfgmr04BxZn.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Blue Falcon Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77486"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

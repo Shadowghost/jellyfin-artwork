@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Bridge",
+    "country": "JP",
+    "homepage": "http://www.bridge-inc.co.jp/",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "43693",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aO5hWIoTnGjMnVQF7JrlnJgIEvD.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "THE NISHINIPPON SHIMBUN",
+    "country": "JP",
+    "homepage": "https://c.nishinippon.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256937",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kzbVoiPBWgtJO5VyBROQtvvX48J.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

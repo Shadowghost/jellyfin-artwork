@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Universal Music",
+    "description": "Dutch-American multinational music corporation and the largest music company in the world; headquartered in Hilversum and operates a global network of labels.",
+    "country": "US",
+    "type": "record-label",
+    "homepage": "https://www.universalmusic.com/",
+    "headquarters": "Santa Monica, California, US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9339",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hwEpOrIYH7G4Rolt7s2thYquJnD.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Universal Music Group"
+    ]
+  }
+]

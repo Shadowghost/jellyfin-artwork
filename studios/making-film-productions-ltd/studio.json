@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Making Film Productions Ltd",
+    "country": "HK",
+    "homepage": "https://www.makingfilm.com/",
+    "headquarters": "Hong Kong SAR, China",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41100",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cEH5vM3TKB9Mzo5BaTA1lUwobFc.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

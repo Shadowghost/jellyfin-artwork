@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SPE Visual Works",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264053"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

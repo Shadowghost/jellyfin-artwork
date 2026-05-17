@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Focus Features",
+    "description": "American film production and distribution company, a subsidiary of Universal Pictures focused on art house and independent films.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.focusfeatures.com",
+    "headquarters": "Universal City, California",
+    "colors": [
+      {
+        "name": "Focus Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10146",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xnFIOeq5cKw09kCWqV7foWDe4AA.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

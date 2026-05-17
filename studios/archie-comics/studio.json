@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Archie Comics",
+    "country": "US",
+    "homepage": "https://archiecomics.com",
+    "headquarters": "Pelham, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160140",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2rkg3AkLxRlreg7yecfFBDHfqxv.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

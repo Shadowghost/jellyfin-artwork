@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Parkes+MacDonald Image Nation",
+    "country": "US",
+    "homepage": "https://parkesmacdonaldproduction.com/",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49325",
+        "logo_uri": "https://image.tmdb.org/t/p/original/R05WCoCJcPWGSDaKaYgx3AeVuR.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Adline Entertainment",
+    "country": "GB",
+    "homepage": "https://adlinegroup.tv/adline",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191739"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

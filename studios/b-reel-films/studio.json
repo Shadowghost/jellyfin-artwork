@@ -1,0 +1,21 @@
+[
+  {
+    "name": "B-Reel Films",
+    "country": "SE",
+    "homepage": "https://brf.co/",
+    "headquarters": "Stockholm, Sweden",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39407",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1ht2ayBUdGgKuLRCkTjyGVEY5VL.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

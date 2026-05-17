@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Nordisk Film Denmark",
+    "country": "DK",
+    "homepage": "https://www.nordiskfilm.com",
+    "headquarters": "Copenhagen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "235",
+        "logo_uri": "https://image.tmdb.org/t/p/original/obOynoztBEhDNfHsDXBqOuQLAZk.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

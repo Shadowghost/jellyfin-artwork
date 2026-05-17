@@ -1,0 +1,17 @@
+[
+  {
+    "name": "XM3 Service",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79030"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

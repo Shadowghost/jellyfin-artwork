@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Rubicon TV AS",
+    "country": "NO",
+    "homepage": "https://rubicon.no/",
+    "headquarters": "Oslo, Norway",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67216",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e3AOYXCR50ov2R8faMlrD7zkpeb.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GG Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1599"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

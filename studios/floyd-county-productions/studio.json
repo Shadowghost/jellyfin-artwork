@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Floyd County Productions",
+    "description": "American animation studio based in Atlanta, Georgia, founded by the creators of Archer; produces the FX animated series Archer.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.floydcountyproductions.tv/",
+    "headquarters": "Atlanta, Georgia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40055"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

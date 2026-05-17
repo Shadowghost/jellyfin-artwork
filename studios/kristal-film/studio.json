@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kristal Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5052"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

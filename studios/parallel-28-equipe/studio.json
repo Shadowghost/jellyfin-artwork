@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Parallel 28 Equipe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188897"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

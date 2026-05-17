@@ -1,0 +1,21 @@
+[
+  {
+    "name": "DEFA-Studio für Spielfilme",
+    "country": "XG",
+    "homepage": "https://www.defa-stiftung.de/defa/geschichte/daten-und-fakten/filmwesen-der-ddr/2-produktion/210-spielfilm/213-veb-defa-studio-fuer-spielfilme/",
+    "headquarters": "Potsdam-Babelsberg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "602",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pVsXRFbYVDe5BhsATCAh1rt5F0k.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

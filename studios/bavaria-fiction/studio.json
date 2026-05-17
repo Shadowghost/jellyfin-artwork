@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Bavaria Fiction",
+    "country": "DE",
+    "homepage": "https://www.bavaria-film.de/content/tochtergesellschaften/bavaria-fiction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99996",
+        "logo_uri": "https://image.tmdb.org/t/p/original/liznTlaTMPe5rcFO5wSTSJAzyKj.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

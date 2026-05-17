@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Ashi Productions",
+    "country": "JP",
+    "homepage": "http://ashipro.jp/index-e.html",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50437",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8jq5FaCCOGeayLOuyCS5HX6PkcL.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

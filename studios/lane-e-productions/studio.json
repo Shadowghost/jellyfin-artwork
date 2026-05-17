@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Lane E Productions",
+    "country": "US",
+    "headquarters": "New Orleans, Louisiana",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126513"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

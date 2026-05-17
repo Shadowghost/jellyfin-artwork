@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Bandai Namco Group",
+    "description": "Japanese multinational entertainment holding company formed in 2005 from the merger of Bandai and Namco; encompasses toys, games, anime, arcades and amusement parks.",
+    "country": "JP",
+    "type": "other",
+    "colors": [
+      {
+        "name": "Bandai Namco Red",
+        "hex": "#EE1D23"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256908"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Bandai Namco Holdings"
+    ]
+  }
+]

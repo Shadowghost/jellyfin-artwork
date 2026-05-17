@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Bom Film Productions",
+    "country": "KR",
+    "headquarters": "Yongsan, Seoul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3616",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n2zWvjSN93cpQIsSNvYxNcpLPgx.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

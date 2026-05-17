@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Go Hands",
+    "description": "Japanese animation studio based in Tokyo, known for the K anime series and Princess Principal.",
+    "country": "JP",
+    "type": "studio",
+    "headquarters": "Osaka",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7759",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jZ6PgJimkzmKkqpunlaBgEkLPjv.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

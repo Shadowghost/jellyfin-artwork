@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Orci",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82222"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

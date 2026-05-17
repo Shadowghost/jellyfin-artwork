@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Creatures",
+    "country": "JP",
+    "homepage": "https://www.creatures.co.jp",
+    "headquarters": "Kudanminami, Chiyoda, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12307"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

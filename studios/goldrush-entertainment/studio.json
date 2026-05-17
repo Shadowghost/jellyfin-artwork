@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Goldrush Entertainment",
+    "country": "CA",
+    "homepage": "http://www.goldrushentertainment.com",
+    "headquarters": "Montreal, Québec",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53169"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Chapter 2",
+    "country": "FR",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20339",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zPj4RPXztwznZcKDef583wqKERy.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

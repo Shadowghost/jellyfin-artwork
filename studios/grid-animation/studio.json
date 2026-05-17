@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Grid Animation",
+    "country": "BE",
+    "homepage": "https://www.grid-studio.com/",
+    "headquarters": "Gent, Belgium",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60440",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4NMTXoDWxYd8TUwkQCItUjcHHMu.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

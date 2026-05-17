@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio Boomerang",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170509"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

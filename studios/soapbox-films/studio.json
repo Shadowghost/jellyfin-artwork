@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Soapbox Films",
+    "country": "US",
+    "homepage": "http://soapboxfilms.com/",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76708",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5dJzekD4789nVJbJHo0gltCNkyj.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Asmik Ace Entertainment",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194517",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nZaVIrCY0pIopTLScuRr9XAUj4G.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

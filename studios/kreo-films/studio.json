@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Kreo Films",
+    "country": "GB",
+    "homepage": "https://www.kreofilms.com",
+    "headquarters": "Aberdeen, Scotland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50079",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hqfJCkivo3juHdqKjMq4pZI4hih.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

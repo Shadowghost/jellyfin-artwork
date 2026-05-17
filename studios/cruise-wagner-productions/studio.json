@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Cruise/Wagner Productions",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "44",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6Hs6K20Hz1W9W1Tiam5QN2Kpx8V.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

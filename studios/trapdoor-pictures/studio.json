@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Trapdoor Pictures",
+    "country": "US",
+    "homepage": "http://www.trapdoorpictures.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "59003"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

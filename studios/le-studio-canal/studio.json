@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Le Studio Canal+",
+    "country": "FR",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eadyph99FClrWlnE0jPniwOcvvw.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

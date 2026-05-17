@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dorchester",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67993"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

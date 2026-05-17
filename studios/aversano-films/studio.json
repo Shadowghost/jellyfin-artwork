@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Aversano Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60020"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

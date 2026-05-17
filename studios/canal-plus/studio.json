@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Canal+",
+    "description": "French premium television channel and pay-TV operator launched in 1984.",
+    "country": "FR",
+    "type": "cable-network",
+    "homepage": "https://www.canalplus.fr",
+    "headquarters": "Paris",
+    "colors": [
+      {
+        "name": "Canal+ Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Canal+ White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9aotxauvc9685tq9pTcRJszuT06.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

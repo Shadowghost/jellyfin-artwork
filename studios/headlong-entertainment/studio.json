@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Headlong Entertainment",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94491",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mOIcf7BvoNQaREioxNhRuvqcMRe.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

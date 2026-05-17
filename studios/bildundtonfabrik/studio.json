@@ -1,0 +1,21 @@
+[
+  {
+    "name": "bildundtonfabrik",
+    "country": "DE",
+    "homepage": "https://btf.de/en/",
+    "headquarters": "Cologne",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14265",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v1WpUx7HbExqOplFJ0BJnigWb2S.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

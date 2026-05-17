@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Peppermint & Company",
+    "country": "KR",
+    "headquarters": "Gangnam, Seoul, South Korea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10924",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1zHPlgqjPzxyDc3ov3hIhnUpQJK.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

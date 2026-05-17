@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Gloria Sanchez Productions",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77152",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uFQRkYWX3xBON0BZ8DxKUDqLrmn.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Fuji TV",
+    "description": "Japanese television station based in Tokyo and the flagship station of the Fuji News Network and Fuji Network System.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.fujitv.co.jp/en/",
+    "headquarters": "Minato, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3341",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dTG5dXE1kU2mpmL9BNnraffckLU.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Fuji Television Network, Inc."
+    ]
+  }
+]

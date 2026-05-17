@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Luminant Media",
+    "country": "US",
+    "homepage": "http://luminantmedia.com",
+    "headquarters": "Los Angeles, Calfornia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17444"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

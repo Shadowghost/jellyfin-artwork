@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ubisoft Film & Television",
+    "description": "Film and television production subsidiary of French video game publisher Ubisoft, dedicated to adapting Ubisoft properties to film and TV (Assassin's Creed, Tom Clancy properties).",
+    "country": "FR",
+    "type": "production-company",
+    "homepage": "https://www.ubisoft.com/en-us/entertainment/film-tv",
+    "headquarters": "Montreuil",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83857",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8bWIe866WwroX2I7MJP77BTPG5y.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

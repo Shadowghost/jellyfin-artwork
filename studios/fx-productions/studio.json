@@ -1,0 +1,28 @@
+[
+  {
+    "name": "FX Productions",
+    "description": "American television production company and division of FX Networks, owned by The Walt Disney Company.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Burbank, California",
+    "colors": [
+      {
+        "name": "FX Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15990",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5cT4zwHA66uNAr2p3CcBDLddXu2.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

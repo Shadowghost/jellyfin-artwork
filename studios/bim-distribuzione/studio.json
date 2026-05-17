@@ -1,0 +1,21 @@
+[
+  {
+    "name": "BiM Distribuzione",
+    "country": "IT",
+    "homepage": "http://www.bimfilm.com/",
+    "headquarters": "Rome",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oTRPUgdpWotA7Hi5gpioQO0MEyk.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "The Space Program",
+    "country": "US",
+    "headquarters": "New York, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103292",
+        "logo_uri": "https://image.tmdb.org/t/p/original/snusHoE7JVuo2yat7iX49eT11Jb.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

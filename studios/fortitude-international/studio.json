@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Fortitude International",
+    "country": "US",
+    "homepage": "https://www.fortitudeint.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "68421",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oAuxCwdQ9pBMPKjsrw13D3ApXBg.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

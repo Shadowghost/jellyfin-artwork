@@ -1,0 +1,21 @@
+[
+  {
+    "name": "YTV",
+    "country": "CA",
+    "homepage": "https://www.ytv.com/",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197472",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1vBZP6weH5iSbSVHkJWi3pDpIpJ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

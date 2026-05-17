@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Monolith Films",
+    "country": "PL",
+    "homepage": "https://www.monolith.pl/",
+    "headquarters": "Warsaw",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18392"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

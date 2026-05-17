@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Animax",
+    "description": "Japanese anime satellite television network owned by Sony Pictures Entertainment Japan, distributed across Asia, Europe, and Latin America.",
+    "country": "JP",
+    "type": "cable-network",
+    "homepage": "http://www.studioanima.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130336",
+        "logo_uri": "https://image.tmdb.org/t/p/original/353MNJkwyOE6FcBJJciVCZo2yD.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "ANIMAX"
+    ]
+  }
+]

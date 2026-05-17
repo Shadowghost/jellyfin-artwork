@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Sony BMG Music Entertainment",
+    "description": "American multinational record music company that was a 50/50 joint venture between Sony Music Entertainment and Bertelsmann Music Group; merged into Sony Music Entertainment in 2008 after Sony bought out Bertelsmann's stake.",
+    "country": "US",
+    "type": "record-label",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5458",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rz6dc1VDwCM1KvlJj4L9gTytoiq.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

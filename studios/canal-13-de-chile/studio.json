@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Canal 13 (Chile)",
+    "description": "Chilean free-to-air television network, the second-oldest in the country; originally owned by the Catholic University of Chile and now majority-owned by the Luksic group.",
+    "country": "CL",
+    "type": "broadcast-network",
+    "homepage": "https://www.13.cl",
+    "headquarters": "Providencia, Santiago",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99317",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4CcGDD59ApqUwbN6mT6US30aJTr.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

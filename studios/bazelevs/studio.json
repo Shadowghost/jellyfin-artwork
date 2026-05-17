@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Bazelevs",
+    "country": "RU",
+    "homepage": "https://bazelevs.ru",
+    "headquarters": "Moscow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1038",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o62j8ZNXmRTrq6ThviFWiL9zb8J.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

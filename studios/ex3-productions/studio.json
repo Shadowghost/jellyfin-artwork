@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ex3 Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28384"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

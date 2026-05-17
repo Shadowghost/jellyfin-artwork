@@ -1,0 +1,24 @@
+[
+  {
+    "name": "IMAGICA",
+    "description": "Japanese post-production and media services group founded in 1935, providing film/video processing, dubbing, and digital media services.",
+    "country": "JP",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257066",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3yOTpnJAfyFgBgMJYYq6bRUPlh1.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Imagica Group"
+    ]
+  }
+]

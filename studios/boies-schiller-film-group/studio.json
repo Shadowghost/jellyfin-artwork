@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Boies/Schiller Film Group",
+    "country": "US",
+    "homepage": "http://bsfgllp.com",
+    "headquarters": "Boca Raton, Florida, USA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17866",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b6UEnuBOYgnsrq6VulNLlP5v5rz.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

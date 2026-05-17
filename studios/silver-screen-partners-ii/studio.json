@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Silver Screen Partners II",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10531"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

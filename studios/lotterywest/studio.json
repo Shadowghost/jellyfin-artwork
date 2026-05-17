@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Lotterywest",
+    "description": "Government-owned lottery and grants body of Western Australia, funds community and cultural projects including film.",
+    "country": "AU",
+    "type": "government-agency",
+    "homepage": "https://www.lotterywest.wa.gov.au",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29051",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A1XlmlkNkrMe4AAeFpSHCjW68BJ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Saints LA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19719"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "version Digital",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66406"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

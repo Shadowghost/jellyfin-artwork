@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Mr. Miyagi",
+    "country": "ES",
+    "homepage": "http://mistermiyagi.es",
+    "headquarters": "Barcelona, Catalonia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130875",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kGs7fwMxgxpYkFDxCGG6kKqPdnw.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

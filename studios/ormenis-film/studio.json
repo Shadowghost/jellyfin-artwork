@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ormenis Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16842"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

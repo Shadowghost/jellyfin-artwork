@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Five Arts Films",
+    "country": "US",
+    "homepage": "https://fiveartsfilms.com/",
+    "headquarters": "West Hollywood, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198416",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pVoUOmsBYUh5YF51pe2z2EMyUZY.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

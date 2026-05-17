@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Bagdasarian Productions",
+    "description": "American production company founded by Ross Bagdasarian Sr., owner of the Alvin and the Chipmunks franchise.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10930",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gTl5zq214ifd2qW7sp7to0aHS6C.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

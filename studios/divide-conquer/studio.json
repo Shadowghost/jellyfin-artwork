@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Divide / Conquer",
+    "country": "US",
+    "homepage": "http://www.divideconquer.us/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89115",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zQwTHJVIruUlGsa7zIdfXuSm9GG.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

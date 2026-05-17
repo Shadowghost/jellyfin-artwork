@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Hallmark Channel",
+    "description": "American pay television network owned by Hallmark Media, programming family-friendly entertainment, romance films and Christmas movies.",
+    "country": "US",
+    "type": "cable-network",
+    "colors": [
+      {
+        "name": "Hallmark Purple",
+        "hex": "#582C83"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53015",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tWxubAjwO1QtLLWdnUR1bjS1vvf.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

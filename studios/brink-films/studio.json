@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Brink Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18811"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

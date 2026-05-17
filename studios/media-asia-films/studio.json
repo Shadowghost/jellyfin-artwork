@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Media Asia Films",
+    "description": "Hong Kong-based film production and distribution company, known for Infernal Affairs and other major Hong Kong cinema productions.",
+    "country": "HK",
+    "type": "production-company",
+    "homepage": "http://www.mediaasia.com/",
+    "headquarters": "Tsuen Wan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5552",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kZB9yp7OoveJ8wdynDcZEDtTbB2.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

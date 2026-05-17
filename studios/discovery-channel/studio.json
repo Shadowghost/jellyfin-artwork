@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Discovery Channel",
+    "description": "American pay television network featuring documentary and reality programming, owned by Warner Bros. Discovery.",
+    "country": "US",
+    "type": "cable-network",
+    "colors": [
+      {
+        "name": "Discovery Blue",
+        "hex": "#004B87"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250355"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

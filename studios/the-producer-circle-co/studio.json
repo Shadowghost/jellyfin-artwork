@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Producer Circle Co.",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210116"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

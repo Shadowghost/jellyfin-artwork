@@ -1,0 +1,22 @@
+[
+  {
+    "name": "TV Shinshu",
+    "description": "Japanese commercial TV station based in Nagano Prefecture, affiliated with ANN/TV Asahi.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.tsep.jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "267514",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6eLW8XMcUEMLcaVnqSisHiRW2Sj.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

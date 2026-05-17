@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Jersey Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iKPzC6YxqNAk6fMoTtFhIF5p6yw.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

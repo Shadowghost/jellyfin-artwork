@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Stereo D",
+    "country": "US",
+    "homepage": "http://www.stereodllc.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86561"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

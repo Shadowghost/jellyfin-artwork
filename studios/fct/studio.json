@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FCT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233727"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

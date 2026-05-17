@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Arte France",
+    "description": "French member organization of Arte, the Franco-German public service cultural television network.",
+    "country": "FR",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "292599"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

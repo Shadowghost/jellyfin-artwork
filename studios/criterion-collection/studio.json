@@ -1,0 +1,28 @@
+[
+  {
+    "name": "The Criterion Collection",
+    "description": "American home video distribution company specializing in licensing and distributing classic and contemporary art-house films on DVD, Blu-ray, and streaming.",
+    "country": "US",
+    "type": "distributor",
+    "homepage": "https://www.criterion.com",
+    "colors": [
+      {
+        "name": "Criterion Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204170",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kaKA5gYb9f1w5WOn4TJMvsBC83d.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

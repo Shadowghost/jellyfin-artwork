@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Industrial Light & Magic",
+    "description": "American visual effects, computer animation and motion-capture company founded by George Lucas in 1975 to produce effects for Star Wars; a division of Lucasfilm, owned by Disney since 2012.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "https://www.ilm.com",
+    "headquarters": "San Francisco, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8805",
+        "logo_uri": "https://image.tmdb.org/t/p/original/77RCtjFOnX2cbQ24z4q7IDzqZV4.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "KanZaman Productions",
+    "country": "ES",
+    "homepage": "https://www.kanzaman.com/",
+    "headquarters": "Madrid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4169"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

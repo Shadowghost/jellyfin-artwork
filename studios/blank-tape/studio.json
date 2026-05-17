@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Blank Tape",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258071"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Argonauts Productions",
+    "country": "GR",
+    "homepage": "https://www.argonautsproductions.gr/",
+    "headquarters": "Athens",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13375",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xLKYGQ2sRKrFObm7tNWdqHdPzMz.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

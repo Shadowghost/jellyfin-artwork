@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Blacklab Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15392"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Pristine Seas",
+    "country": "US",
+    "homepage": "https://www.nationalgeographic.org/society/our-programs/pristine-seas",
+    "headquarters": "Washington, D.C.",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "261691"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

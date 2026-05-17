@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Diagonal TV",
+    "country": "ES",
+    "homepage": "https://diagonaltv.es/en/",
+    "headquarters": "Barcelona",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49470",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fXnMvFd7nc3ImZ2Pb2PzqiXziHi.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

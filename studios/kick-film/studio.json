@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Kick Film",
+    "country": "DE",
+    "homepage": "http://www.kickfilm.com/",
+    "headquarters": "Munich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74607"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

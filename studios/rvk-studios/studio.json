@@ -1,0 +1,21 @@
+[
+  {
+    "name": "RVK Studios",
+    "country": "IS",
+    "homepage": "https://rvkstudios.is",
+    "headquarters": "Reykjavík",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62693",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i8mR4YqKiyDvxwmpSqzly9tQ31f.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

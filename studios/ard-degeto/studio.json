@@ -1,16 +1,38 @@
 [
   {
     "name": "ARD Degeto",
-    "machine-name": "ard-degeto",
-    "providers": {
-	  "imdb": "co0061958",
-      "tmdb": "6187",
-      "tvdb": "5045"
-    },
+    "country": "DE",
+    "homepage": "https://www.degeto.de",
+    "headquarters": "Frankfurt am Main",
+    "providers": [
+      {
+        "provider_name": "imdb",
+        "id": "co0061958"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "986",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qDV8nLH9pjElZSnPmg29mzzNlTo.png"
+      },
+      {
+        "provider_name": "tvdb",
+        "id": "5045"
+      }
+    ],
     "artwork": {
-      "logo": ["svg", "webp"],
-      "primary": ["svg", "webp"],
-      "thumb": ["svg", "webp"]
-    }
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ],
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "ard-degeto"
   }
 ]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "TELASA",
+    "description": "Japanese video streaming service jointly operated by KDDI and TV Asahi, focused on Japanese drama, anime and TV Asahi content.",
+    "country": "JP",
+    "type": "streaming-service",
+    "homepage": "https://navi.telasa.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185204"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

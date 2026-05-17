@@ -1,0 +1,22 @@
+[
+  {
+    "name": "The Yomiuri Shimbun",
+    "description": "Japanese national newspaper with one of the largest circulations in the world; major sponsor of media productions.",
+    "country": "JP",
+    "type": "publisher",
+    "headquarters": "Otemachi, Chiyoda Ward, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274743",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qQBRqHTuJDruJQb3EaACuBsynXh.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

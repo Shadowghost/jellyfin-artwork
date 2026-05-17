@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Leonard Freeman Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "57123"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Three Six Zero",
+    "country": "US",
+    "homepage": "http://www.threesixzero.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108497"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Akil Productions",
+    "country": "US",
+    "homepage": "https://akilproductions.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11466"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

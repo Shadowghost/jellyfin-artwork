@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Benaroya Pictures",
+    "country": "US",
+    "homepage": "http://www.benaroyapictures.com",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6692",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2Wd2CodKtgB4XyAQH4ez8qnZuqg.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

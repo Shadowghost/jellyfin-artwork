@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Reteitalia",
+    "country": "IT",
+    "headquarters": "Milan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1242",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qOvcm1WCLlAdNoQ1kCkk2J7bhWk.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

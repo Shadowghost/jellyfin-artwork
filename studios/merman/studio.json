@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Merman",
+    "country": "US",
+    "homepage": "https://hellomerman.com/tv-film/us",
+    "headquarters": "El Segundo, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "207299",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pe0id4tmy9Q1Mt5wWf6FXc46XW0.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

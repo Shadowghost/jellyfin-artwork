@@ -1,0 +1,21 @@
+[
+  {
+    "name": "ACE Pictures Entertainment",
+    "country": "US",
+    "homepage": "http://acepictures.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112399",
+        "logo_uri": "https://image.tmdb.org/t/p/original/plWc00ADe9sk3srODk9EhER2WcY.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

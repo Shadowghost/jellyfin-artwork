@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Torridon Films",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79529",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gVN3k8emmKy4iV4KREWcCtxusZK.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

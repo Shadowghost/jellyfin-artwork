@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Laurel Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10697"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

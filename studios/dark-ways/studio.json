@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Dark Ways",
+    "country": "DE",
+    "homepage": "https://dark-ways.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181300",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gTvqcnjV4g53GJ0Txyq7AqwJy3E.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

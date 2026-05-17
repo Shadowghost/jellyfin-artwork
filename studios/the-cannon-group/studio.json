@@ -1,0 +1,19 @@
+[
+  {
+    "name": "The Cannon Group",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1444",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1848gsFuV3EGewKg8xWADAyJUVy.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Louverture Films",
+    "country": "US",
+    "homepage": "https://www.louverturefilms.com",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8469",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gSSXLuayChi5h9KEuzfwd2UjWjm.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

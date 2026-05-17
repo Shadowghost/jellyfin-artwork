@@ -1,0 +1,21 @@
+[
+  {
+    "name": "M.Y.R.A. Entertainment",
+    "country": "US",
+    "homepage": "http://www.myraentertainment.com",
+    "headquarters": "New York, New York City",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88565",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AmSa26x5bHWfY1FPwx9eDve7KAk.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

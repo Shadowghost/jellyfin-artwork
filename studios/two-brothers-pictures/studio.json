@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Two Brothers Pictures",
+    "country": "GB",
+    "homepage": "http://www.twobrotherspictures.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36609",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n2Ja3OamKkBnGCF4RIWUx2TagcH.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

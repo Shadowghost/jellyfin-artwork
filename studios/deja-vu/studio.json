@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Deja Vu",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "294490"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

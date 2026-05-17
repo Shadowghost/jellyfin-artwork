@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Vaca Films",
+    "country": "ES",
+    "homepage": "https://www.vacafilms.com/en",
+    "headquarters": "A Coruña",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7345",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gB3XmmLmm3W4vpXyziCHHLtYpWN.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

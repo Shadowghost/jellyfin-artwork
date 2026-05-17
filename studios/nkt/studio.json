@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NKT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34812"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Guy Grand Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "251611"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

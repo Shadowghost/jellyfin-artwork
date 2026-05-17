@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Nebulastar",
+    "country": "GB",
+    "homepage": "http://www.nebulastar.co.uk",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125282",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9D4A6Lc6m2RBlDkeGF6jpJljAgm.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

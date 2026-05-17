@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ITV1",
+    "description": "British free-to-air public broadcast television network, the flagship channel of ITV plc and the oldest commercial network in the UK.",
+    "country": "GB",
+    "type": "broadcast-network",
+    "homepage": "http://www.itv.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3448",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dcA8JDfnnQPMaq8lv2CCiYrNe0S.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

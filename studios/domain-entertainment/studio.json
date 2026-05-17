@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Domain Entertainment",
+    "country": "US",
+    "homepage": "https://domaincapitalgroup.com/investments/media-entertainment-technology/",
+    "headquarters": "Atlanta, Georgia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216687",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

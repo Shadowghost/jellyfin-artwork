@@ -1,0 +1,17 @@
+[
+  {
+    "name": "G.W. Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1555"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

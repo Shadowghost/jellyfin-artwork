@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Intaglio Films",
+    "country": "DE",
+    "homepage": "https://www.zdf-studios.com/en/company/affiliates/intaglio-films-gmbh",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191376",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mFLnfvMBFqSov1jJ8xGKhYCvEor.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

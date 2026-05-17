@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Edko Films",
+    "country": "HK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10284",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u0FCdiR026xbEbuY4yqaKj9Lf2O.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Outlaw Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249534"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Hokuriku Asahi Broadcasting",
+    "description": "Japanese commercial television station based in Ishikawa Prefecture, affiliated with TV Asahi and All-Nippon News Network.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.hab.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114615",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u6a9BDJnTqdK1oRVKBz7BK75qq2.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

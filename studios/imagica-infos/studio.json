@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Imagica Infos",
+    "country": "JP",
+    "homepage": "https://www.infos.inc/",
+    "headquarters": "Chiyoda, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211680",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ydN85bcGpnR2ksgqJQw91683d24.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

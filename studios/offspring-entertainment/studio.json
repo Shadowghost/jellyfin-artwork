@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Offspring Entertainment",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2378",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5xDJwLbyyt8IXuRAsR7kVibLDYF.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

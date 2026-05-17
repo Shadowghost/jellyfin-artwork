@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Freeform",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124830"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

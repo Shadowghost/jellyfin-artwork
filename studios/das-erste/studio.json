@@ -1,16 +1,43 @@
 [
   {
     "name": "Das Erste",
-    "machine-name": "das-erste",
-    "providers": {
-	  "imdb": "co0799614",
-      "tmdb": "35944",
-      "tvdb": "77"
-    },
+    "description": "Flagship national public-service television channel of the German ARD broadcasting consortium.",
+    "country": "DE",
+    "type": "broadcast-network",
+    "colors": [
+      {
+        "name": "Das Erste Blue",
+        "hex": "#003C7D"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "imdb",
+        "id": "co0799614"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "1251"
+      },
+      {
+        "provider_name": "tvdb",
+        "id": "77"
+      }
+    ],
     "artwork": {
-      "logo": ["svg", "webp"],
-      "primary": ["svg", "webp"],
-      "thumb": ["svg", "webp"]
-    }
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ],
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "das-erste"
   }
 ]

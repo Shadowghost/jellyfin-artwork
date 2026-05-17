@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Sanzigen",
+    "country": "JP",
+    "homepage": "https://www.sanzigen.co.jp/",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "43363",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ua3hvrsryhmCGFFWJu9sEBXj92b.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

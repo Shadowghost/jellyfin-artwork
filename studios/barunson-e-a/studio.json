@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Barunson E&A",
+    "country": "KR",
+    "homepage": "http://www.barunsonena.com",
+    "headquarters": "Gangnam, Seoul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4399",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rk3kE5QX2dQtH0pPwCHV12qfebg.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

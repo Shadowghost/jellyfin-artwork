@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Sony Music Entertainment (Japan)",
+    "country": "JP",
+    "homepage": "http://www.sonymusic.co.jp",
+    "headquarters": "Rokubanchō, Chiyoda, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "648",
+        "logo_uri": "https://image.tmdb.org/t/p/original/s811As3dkcqSgl4nEWEVYfJVVxh.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

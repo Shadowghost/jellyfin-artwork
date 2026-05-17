@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM Grupa",
+    "description": "Polish television and film production company based in Wrocław, one of the largest independent producers in Poland.",
+    "country": "PL",
+    "type": "production-company",
+    "homepage": "http://www.atmgrupa.pl",
+    "headquarters": "Warsaw",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17377",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iLn5jpZDdsp3PGK74mMV8xRpLcM.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

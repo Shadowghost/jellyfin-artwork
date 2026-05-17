@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Warner Bros. Entertainment España",
+    "country": "ES",
+    "homepage": "https://www.warnerbros.es",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11652",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9iTs9iHSgQUAVGnC8Iai59qugho.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

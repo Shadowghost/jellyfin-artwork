@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Imperial Entertainment",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21437",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4JzGnT8XGMrdGHHOfVaMNNKLZAp.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

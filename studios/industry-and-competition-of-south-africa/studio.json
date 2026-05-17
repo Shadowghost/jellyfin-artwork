@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Industry and Competition of South Africa",
+    "description": "South African government department responsible for trade, industry and competition policy; oversees film and TV production incentive programs that often appear in credits.",
+    "country": "ZA",
+    "type": "government-agency",
+    "homepage": "http://www.thedtic.gov.za/",
+    "headquarters": "Pretoria, Gauteng",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182847",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v22brDWuFgoyWAblcHorCc3R4ey.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Department of Trade, Industry and Competition (South Africa)"
+    ]
+  }
+]

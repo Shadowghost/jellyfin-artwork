@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Mario e Vittorio Cecchi Gori - C.E.I.A.D.",
+    "country": "IT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22117",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dF264wYYLmCwqawuTXor5xsEcCc.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

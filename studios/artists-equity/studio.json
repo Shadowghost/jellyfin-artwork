@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Artists Equity",
+    "description": "American film and television production company founded by Ben Affleck and Matt Damon, structured on a profit-sharing model with creatives.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://artistsequity.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187968",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xdVAEg1biNrQw5nnMXKswPCRpkq.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

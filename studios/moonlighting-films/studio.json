@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Moonlighting Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202749"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

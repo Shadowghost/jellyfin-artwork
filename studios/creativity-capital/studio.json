@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Creativity Capital",
+    "country": "GB",
+    "homepage": "http://creativitycapital.co.uk",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31787",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dWkJVibgXMBhPathe3rn7raMcta.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

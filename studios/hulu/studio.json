@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Hulu",
+    "description": "American subscription streaming service majority-owned by The Walt Disney Company.",
+    "country": "US",
+    "type": "streaming-service",
+    "colors": [
+      {
+        "name": "Hulu Green",
+        "hex": "#1CE783"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "292412"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

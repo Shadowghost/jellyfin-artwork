@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Rough House Pictures",
+    "country": "US",
+    "homepage": "https://www.roughhousepictures.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20848",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xfQxrdf3WumiLoaMS2F3xWO6nKF.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

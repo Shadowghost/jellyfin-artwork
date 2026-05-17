@@ -1,0 +1,24 @@
+[
+  {
+    "name": "GAME FREAK",
+    "description": "Japanese video game developer best known for developing the Pokémon role-playing video game series.",
+    "country": "JP",
+    "type": "other",
+    "homepage": "https://www.gamefreak.co.jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5399"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Game Freak"
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "name": "BFI",
+    "description": "British public film body that promotes and preserves filmmaking and television in the United Kingdom.",
+    "country": "GB",
+    "type": "government-agency",
+    "colors": [
+      {
+        "name": "BFI Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "BFI White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28323"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "British Film Institute"
+    ]
+  }
+]

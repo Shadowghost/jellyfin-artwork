@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Pony Canyon",
+    "description": "Japanese publisher, distributor, and producer of various entertainment products including music, anime, films, and video games; subsidiary of Fujisankei Communications Group.",
+    "country": "JP",
+    "type": "record-label",
+    "homepage": "http://www.ponycanyon.co.jp",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9148",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rtW3NadfF4kR5mTW00ahiFxw6k7.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "GKIDS",
+    "description": "American distributor of animated feature films and other media, known for distributing Studio Ghibli films in the US and many international animated films.",
+    "country": "US",
+    "type": "distributor",
+    "homepage": "https://gkids.com",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32853",
+        "logo_uri": "https://image.tmdb.org/t/p/original/y1CUzdA8WOdKzikxTYL4xqCDlqF.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

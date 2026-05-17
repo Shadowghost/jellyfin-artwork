@@ -1,0 +1,17 @@
+[
+  {
+    "name": "OHK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229305"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Turner Entertainment",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8922",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yZWehAyjfKi4KvKeg1bkJ1bm5H8.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

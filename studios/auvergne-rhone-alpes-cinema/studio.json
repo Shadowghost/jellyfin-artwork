@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Auvergne-Rhône-Alpes Cinéma",
+    "country": "FR",
+    "homepage": "https://www.rhone-alpes-cinema.fr",
+    "headquarters": "Villeurbanne",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109756",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sudlIoNIIrKmVWaYD2ZVo9HGogW.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

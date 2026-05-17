@@ -1,0 +1,19 @@
+[
+  {
+    "name": "BBC Worldwide France",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56580",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vdE4t1X1oCRfE36kjOvIvR4mWA9.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

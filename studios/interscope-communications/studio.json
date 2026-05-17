@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Interscope Communications",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10201",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cgmwywVZ9NvAidd6Pn7p0CBYQkW.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

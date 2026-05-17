@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Neue Visionen",
+    "country": "DE",
+    "homepage": "https://www.neuevisionen.de/",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1235",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lrS9d6tT20guiyUb279dLkmNwm0.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

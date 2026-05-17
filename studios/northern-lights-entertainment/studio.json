@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Northern Lights Entertainment",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8816",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r5Kmkdz8rp2EXdP5bcyxmW1X3tE.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

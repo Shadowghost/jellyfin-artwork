@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pink Machine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21845"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

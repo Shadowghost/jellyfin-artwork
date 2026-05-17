@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Double Negative",
+    "country": "GB",
+    "homepage": "https://www.dneg.com/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31922",
+        "logo_uri": "https://image.tmdb.org/t/p/original/omWPoru2LNayUOBqjMBLP9KrFrP.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

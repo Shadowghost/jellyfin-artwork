@@ -1,0 +1,21 @@
+[
+  {
+    "name": "A Contracorriente Films",
+    "country": "ES",
+    "homepage": "http://www.acontracorrientefilms.com",
+    "headquarters": "Barcelona",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33916",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xeBwba4AfwmDaBGG0ok1MzLJZrn.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

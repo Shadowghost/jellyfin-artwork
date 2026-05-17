@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vision PDG",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4109"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Belgacom",
+    "country": "BE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8009",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jMXTbZ35gAiHCjIfdDq1B7On9fv.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Independent Film Fund",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23774"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

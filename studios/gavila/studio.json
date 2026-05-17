@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Gavila",
+    "country": "IT",
+    "homepage": "http://www.gavila.it/",
+    "headquarters": "Roma, Italy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118403"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

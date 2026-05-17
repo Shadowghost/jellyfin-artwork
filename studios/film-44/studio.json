@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Film 44",
+    "country": "US",
+    "homepage": "https://film44.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20153",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ixRHWYw7SRWHGs0TtnSxj2eVSuV.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

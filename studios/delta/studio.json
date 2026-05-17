@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Delta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12063"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

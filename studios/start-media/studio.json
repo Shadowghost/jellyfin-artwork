@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Start Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165330"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

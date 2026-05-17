@@ -1,0 +1,23 @@
+[
+  {
+    "name": "di Bonaventura Pictures",
+    "aka": [
+      "Di Bonaventura Pictures"
+    ],
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "435",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

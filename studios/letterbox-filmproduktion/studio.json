@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Letterbox Filmproduktion",
+    "country": "DE",
+    "homepage": "https://letterbox-filmproduktion.de",
+    "headquarters": "Hamburg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2538",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yWB5nl8uOhLTwKOqMpkGjfv0FIW.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

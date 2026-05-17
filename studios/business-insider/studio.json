@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Business Insider",
+    "description": "American financial and business news website founded by Henry Blodget and Kevin P. Ryan, owned by German publisher Axel Springer.",
+    "country": "US",
+    "type": "news",
+    "homepage": "https://www.businessinsider.com",
+    "headquarters": "New York City, New York",
+    "colors": [
+      {
+        "name": "BI Orange",
+        "hex": "#EE3424"
+      },
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220358",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vDDPjIASbeNhr3Cm3IcLdTgRnPY.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

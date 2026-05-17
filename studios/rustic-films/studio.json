@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Rustic Films",
+    "country": "US",
+    "homepage": "https://www.rustic.film/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105878",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1hRvAmvhGy7XrDp7xVa9d1eu8lL.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,15 +1,34 @@
 [
   {
-    "name": "France 3",
-    "machine-name": "france-3",
-    "providers": {
-      "tvdb": "106",
-      "tmdb": "249",
-      "imdb": "co0061460"
-    },
+    "name": "France•3",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tvdb",
+        "id": "106"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "152560"
+      },
+      {
+        "provider_name": "imdb",
+        "id": "co0061460"
+      }
+    ],
     "artwork": {
-      "primary": ["svg", "webp"],
-      "thumb": ["svg", "webp"]
-    }
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "france-3",
+    "aka": [
+      "France 3"
+    ]
   }
 ]

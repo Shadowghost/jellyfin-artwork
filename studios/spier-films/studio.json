@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Spier Films",
+    "country": "ZA",
+    "homepage": "https://spierfilms.com",
+    "headquarters": "Cape Town",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8275",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sFEzEe5Rk5jjAEuiuPyXHvCGD9f.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

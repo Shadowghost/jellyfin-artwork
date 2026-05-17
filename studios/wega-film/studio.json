@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Wega Film",
+    "country": "AT",
+    "homepage": "http://www.wega-film.at/index.php?lang=en",
+    "headquarters": "Vienna",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fCv129CE3olInpdEiOWcC5s2YbQ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

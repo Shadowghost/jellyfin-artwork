@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Picturestart",
+    "country": "US",
+    "homepage": "https://www.picturestart.com",
+    "headquarters": "West Hollywood, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123244",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7eH1Y4RIuontJJXVmmSRrNUMZhU.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

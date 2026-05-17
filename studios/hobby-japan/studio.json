@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Hobby Japan",
+    "country": "JP",
+    "homepage": "https://hobbyjapan.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210353",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sG6AWiwUB3J7IU6iXzTI7ezXKu9.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

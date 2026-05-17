@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Omnibus Japan",
+    "country": "JP",
+    "homepage": "http://www.omnibusjp.com/",
+    "headquarters": "Minato, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5808",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iDa6LUHRM2e6ANmDXda9jsd1dWQ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Grand Hustle Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "186575"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

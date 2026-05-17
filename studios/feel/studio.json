@@ -1,0 +1,21 @@
+[
+  {
+    "name": "feel.",
+    "country": "JP",
+    "homepage": "http://www.feel-ing.com",
+    "headquarters": "Koganei, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17315",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w8YlPWsdAhQsbIrX0w9H1HRD9rG.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

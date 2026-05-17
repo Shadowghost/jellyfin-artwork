@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Norsk Filminstitutt",
+    "description": "Norwegian government agency supporting and promoting Norwegian film through funding, archives and international promotion.",
+    "country": "NO",
+    "type": "government-agency",
+    "homepage": "https://www.nfi.no/eng",
+    "headquarters": "Oslo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16551",
+        "logo_uri": "https://image.tmdb.org/t/p/original/itTk5EYYzWPXrynrwTBhvREq4iC.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Norwegian Film Institute"
+    ]
+  }
+]

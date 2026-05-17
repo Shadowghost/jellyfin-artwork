@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Look to the Sky Films",
+    "country": "CA",
+    "homepage": "http://www.lttsfilms.com",
+    "headquarters": "Vancouver, British Columbia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89122"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

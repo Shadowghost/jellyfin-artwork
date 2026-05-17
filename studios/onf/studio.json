@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ONF",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "293226"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

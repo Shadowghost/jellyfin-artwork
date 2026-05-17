@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Hasbro",
+    "description": "American multinational toy and entertainment company; owner of franchises including Transformers, G.I. Joe, and My Little Pony.",
+    "country": "US",
+    "type": "other",
+    "homepage": "https://corporate.hasbro.com",
+    "headquarters": "Pawtucket, Rhode Island",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2598",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i42C5gRq7XqlG4S9vkchuJZfrBn.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

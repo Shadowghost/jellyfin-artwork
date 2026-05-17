@@ -1,0 +1,23 @@
+[
+  {
+    "name": "South Australian Film Corporation",
+    "description": "State government agency in South Australia supporting and funding screen production in the state.",
+    "country": "AU",
+    "type": "government-agency",
+    "homepage": "http://www.safilm.com.au",
+    "headquarters": "Glenside, South Australia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2806",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vxOhCbpsRBh10m6LZ3HyImTYpPY.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

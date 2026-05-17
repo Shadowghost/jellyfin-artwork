@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Roth Films",
+    "description": "American film production company founded by Joe Roth, producer of Alice in Wonderland and Maleficent.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105052",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v0s09QaxgCrrXrbz2LctvSfRKRi.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Roth/Kirschenbaum Films"
+    ]
+  }
+]

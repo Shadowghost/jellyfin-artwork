@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Studio A-CAT",
+    "country": "JP",
+    "homepage": "http://a-cat.co.jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95861",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zgASi8usQpL3nsYjGOywho0VSmM.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

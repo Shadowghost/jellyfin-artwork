@@ -1,0 +1,19 @@
+[
+  {
+    "name": "BeSTACK",
+    "country": "JP",
+    "homepage": "http://www.bestack.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110472"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Toei Studios Kyoto",
+    "country": "JP",
+    "homepage": "http://studios.toei-kyoto.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134391",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ojIe99UBqomnOu1EPT8QhRUxexP.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

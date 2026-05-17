@@ -1,0 +1,20 @@
+[
+  {
+    "name": "BB Film Productions",
+    "country": "US",
+    "homepage": "https://www.passagepictures.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41602"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

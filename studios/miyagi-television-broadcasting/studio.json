@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Miyagi Television Broadcasting",
+    "description": "Japanese television station based in Sendai, Miyagi Prefecture, affiliated with the Nippon News Network (NNN/NNS).",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.mmt-tv.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11723",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2pAs8G6yRArSEcZ3VA6bRyVl0uJ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

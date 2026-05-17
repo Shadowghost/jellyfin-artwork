@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pierce",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41390"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

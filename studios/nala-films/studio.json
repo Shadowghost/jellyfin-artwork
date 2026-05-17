@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NALA Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156545"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Starz Animation",
+    "country": "CA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2885",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9VYog24k93pfjB5X5YqJcg4Ane1.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

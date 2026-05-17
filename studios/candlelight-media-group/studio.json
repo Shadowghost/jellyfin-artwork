@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Candlelight Media Group",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285460"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

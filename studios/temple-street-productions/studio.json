@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Temple Street Productions",
+    "country": "CA",
+    "homepage": "http://templestreet.com",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24783",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ebRX8tI9Ij9227PXCNTmg4wel2j.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

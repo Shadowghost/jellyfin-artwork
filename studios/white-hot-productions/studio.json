@@ -1,0 +1,21 @@
+[
+  {
+    "name": "White Hot Productions",
+    "country": "AU",
+    "homepage": "https://whitehotproductions.com/",
+    "headquarters": "Melbourne",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78549",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qGwTskx4tmi5oyR8ilfyfAERBwA.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

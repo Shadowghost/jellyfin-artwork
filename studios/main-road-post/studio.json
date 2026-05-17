@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Main Road Post",
+    "country": "RU",
+    "homepage": "https://www.mrpost.ru/",
+    "headquarters": "Moscow, Russia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103166"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

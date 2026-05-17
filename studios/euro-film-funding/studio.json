@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Euro Film Funding",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216578"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sai Enterprise",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3481"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

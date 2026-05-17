@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Fox Animation Studios",
+    "description": "Defunct American animation studio in Phoenix, Arizona, founded by Don Bluth and Gary Goldman; produced Anastasia and Titan A.E.",
+    "country": "US",
+    "type": "studio",
+    "headquarters": "Phoenix, Arizona",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11231",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gFIZF17T7M5OLJghntozPql6Az6.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

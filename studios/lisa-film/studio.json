@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Lisa Film",
+    "country": "AT",
+    "homepage": "https://www.lisafilm.at",
+    "headquarters": "Velden",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1018"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

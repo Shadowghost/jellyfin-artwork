@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Alphaville Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11462",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7ZymELJwuWR4k5p0oeZ3d3WAhO3.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

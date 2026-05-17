@@ -1,0 +1,20 @@
+[
+  {
+    "name": "France Télévisions Distribution",
+    "country": "FR",
+    "homepage": "https://francetvdistribution.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20919",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aChpC4UVcQXG957aS9RfIe2BBF3.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

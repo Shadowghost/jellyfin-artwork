@@ -1,0 +1,22 @@
+[
+  {
+    "name": "i-Television",
+    "description": "Television network with the name 'i'; specific identity is ambiguous from slug alone — could refer to multiple international 'i' channels.",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55045"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "i Television"
+    ]
+  }
+]

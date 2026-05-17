@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tetragram",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55994"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

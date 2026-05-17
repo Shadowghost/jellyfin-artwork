@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Bedlam Productions",
+    "country": "GB",
+    "homepage": "http://www.bedlamproductions.co.uk",
+    "headquarters": "London, England, UK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5005",
+        "logo_uri": "https://image.tmdb.org/t/p/original/letEuggPWBjO3HVu1QKAy5DoJZU.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Happy Duck Films",
+    "country": "BE",
+    "homepage": "https://happyduckfilms.com",
+    "headquarters": "Mechelen, Antwerp Province, Flanders",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233517",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sAnD4q16Og15xoruoHGEdjodePm.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

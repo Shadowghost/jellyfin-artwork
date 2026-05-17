@@ -1,0 +1,21 @@
+[
+  {
+    "name": "81 Produce",
+    "country": "JP",
+    "homepage": "https://www.81produce.co.jp/",
+    "headquarters": "Shibuya, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104444",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oMPR1Xy6FE9Vlr1yWfbeRD1fAfP.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

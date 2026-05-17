@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Black Flag",
+    "description": "Production label named Black Flag; identity unclear without further context.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9968"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

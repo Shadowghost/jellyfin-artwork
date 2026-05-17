@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Shanghai Foch Film Culture Investment",
+    "country": "CN",
+    "homepage": "http://www.fochot.com/",
+    "headquarters": "Shanghai",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120351",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kKOogwEg5lJFPLqy9gkVN0qwB3R.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

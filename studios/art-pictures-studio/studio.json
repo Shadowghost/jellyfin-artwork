@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Art Pictures Studio",
+    "country": "RU",
+    "homepage": "http://www.art-pictures.ru/en/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3451",
+        "logo_uri": "https://image.tmdb.org/t/p/original/53lT8VOQ9JDiPGYLvjgO42Av58I.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

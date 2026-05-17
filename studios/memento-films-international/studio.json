@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Memento Films International",
+    "country": "FR",
+    "homepage": "http://international.memento-films.com",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10949",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2JOR75Gaz14Vzim0XSTSCmGFYsD.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

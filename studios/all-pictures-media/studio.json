@@ -1,0 +1,18 @@
+[
+  {
+    "name": "All Pictures Media",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23614"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

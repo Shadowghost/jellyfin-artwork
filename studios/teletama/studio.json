@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Teletama",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131227"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

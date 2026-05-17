@@ -1,0 +1,33 @@
+[
+  {
+    "name": "A24",
+    "description": "American independent entertainment company specializing in film and television production and distribution, known for arthouse and prestige films.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "https://a24films.com",
+    "headquarters": "New York City, New York",
+    "colors": [
+      {
+        "name": "A24 Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "A24 White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41077",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

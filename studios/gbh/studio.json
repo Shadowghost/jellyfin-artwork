@@ -1,0 +1,21 @@
+[
+  {
+    "name": "GBH",
+    "country": "US",
+    "homepage": "http://www.wgbh.org",
+    "headquarters": "Boston, Massachusetts",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10197",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lRah8iyzBZJ90ZgsKUIWUU9XnRu.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

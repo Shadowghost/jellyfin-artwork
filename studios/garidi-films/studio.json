@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Garidi Films",
+    "country": "CH",
+    "homepage": "http://www.garidifilms.ch",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26608"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

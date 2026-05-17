@@ -1,0 +1,21 @@
+[
+  {
+    "name": "8bit",
+    "country": "JP",
+    "homepage": "http://8bit-studio.co.jp",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30294",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k2aOFwsa0NL0MuHA3Oh0kpoQm8D.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

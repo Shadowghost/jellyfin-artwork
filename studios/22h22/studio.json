@@ -1,0 +1,21 @@
+[
+  {
+    "name": "22h22",
+    "country": "FR",
+    "homepage": "https://www.22h22.net",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17653",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ajdJNUuVI12xIgVzDMO6HY8NZzR.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

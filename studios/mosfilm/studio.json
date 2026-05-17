@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mosfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271394"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

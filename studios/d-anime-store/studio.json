@@ -1,0 +1,25 @@
+[
+  {
+    "name": "d Anime Store",
+    "description": "Japanese anime-focused subscription video-on-demand service operated by NTT Docomo, offering thousands of anime titles to subscribers.",
+    "country": "JP",
+    "type": "streaming-service",
+    "homepage": "https://docomo-animestore.co.jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60195",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wR7YDBvNzdJRkmxOTgJobOpUG8X.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "dAnime Store"
+    ]
+  }
+]

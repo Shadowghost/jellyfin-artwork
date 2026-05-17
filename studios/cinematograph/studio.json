@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Cinematograph",
+    "country": "AT",
+    "headquarters": "Innsbruck",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147726"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

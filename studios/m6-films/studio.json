@@ -1,0 +1,22 @@
+[
+  {
+    "name": "M6 Films",
+    "description": "French film production company, the cinema-financing arm of Groupe M6 television network.",
+    "country": "FR",
+    "type": "production-company",
+    "headquarters": "Paris, France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1115",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ntH7T5gsN6wtyrfHGHJDTuneQ7o.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "QVF",
+    "country": "CA",
+    "homepage": "http://www.qvfinc.com/",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55256"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

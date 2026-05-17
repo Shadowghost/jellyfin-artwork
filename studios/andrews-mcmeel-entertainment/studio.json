@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Andrews McMeel Entertainment",
+    "country": "US",
+    "homepage": "https://www.andrewsmcmeel.com/entertainment/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229807",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p8IO8N3bIaWaebafj52xvVB1On6.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

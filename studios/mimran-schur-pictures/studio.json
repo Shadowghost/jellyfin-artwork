@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Mimran Schur Pictures",
+    "country": "US",
+    "homepage": "http://mimranschurpictures.com/",
+    "headquarters": "New York City, New York, United States",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6573"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

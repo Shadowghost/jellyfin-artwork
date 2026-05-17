@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Kakao piccoma",
+    "description": "Japanese digital comic and webtoon platform operated by Kakao Piccoma Corp. (a subsidiary of South Korea's Kakao); one of the leading manga and webtoon apps in Japan.",
+    "country": "JP",
+    "type": "publisher",
+    "homepage": "https://www.kakaopiccoma.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210441",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kRGq6Eo3OgwnuLxijYYUIRpeCj9.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Kakao Piccoma"
+    ]
+  }
+]

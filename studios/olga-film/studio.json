@@ -1,0 +1,21 @@
+[
+  {
+    "name": "OLGA FILM",
+    "country": "DE",
+    "homepage": "https://olgafilm.de/",
+    "headquarters": "Munich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99",
+        "logo_uri": "https://image.tmdb.org/t/p/original/62PhpTy0SrplwjcVgZsZHv0hJS4.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

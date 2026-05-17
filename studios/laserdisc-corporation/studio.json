@@ -1,0 +1,19 @@
+[
+  {
+    "name": "LaserDisc Corporation",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20750",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uk3CvZgyVxyjjqpHVQFvCp3ByXg.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Carlton Film GmbH (München)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72438"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

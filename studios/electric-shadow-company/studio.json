@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Electric Shadow Company",
+    "country": "GB",
+    "homepage": "https://www.electricshadowcompany.com/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67260",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oV2FZfhRcEc1HReC66e1L4t2qPV.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Alpha Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252810"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

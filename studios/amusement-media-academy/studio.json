@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Amusement Media Academy",
+    "country": "JP",
+    "homepage": "https://www.amgakuin.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21352",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j7NdMB5QPABBy2zsvBXgggtfoNZ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

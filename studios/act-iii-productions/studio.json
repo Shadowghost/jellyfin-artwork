@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Act III Productions",
+    "country": "US",
+    "homepage": "https://www.actiiiproductions.com/",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56485",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t0M92JDUfcICcOB46NHxEOhK1FS.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

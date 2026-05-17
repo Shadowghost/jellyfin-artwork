@@ -1,0 +1,17 @@
+[
+  {
+    "name": "New Picture Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49512"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

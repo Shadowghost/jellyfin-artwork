@@ -1,0 +1,19 @@
+[
+  {
+    "name": "TV 1000 Sverige",
+    "country": "SE",
+    "headquarters": "Stockholm, Sweden",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "447"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

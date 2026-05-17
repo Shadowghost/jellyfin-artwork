@@ -1,15 +1,40 @@
 [
   {
     "name": "USA Network",
-    "machine-name": "usa-network",
-    "providers": {
-      "tvdb": "301",
-      "tmdb": "30",
-      "imdb": "co0014957"
-    },
+    "description": "American basic cable television channel owned by NBCUniversal, airing scripted and unscripted entertainment.",
+    "country": "US",
+    "type": "cable-network",
+    "colors": [
+      {
+        "name": "USA Blue",
+        "hex": "#0E4194"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tvdb",
+        "id": "301"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "16642",
+        "logo_uri": "https://image.tmdb.org/t/p/original/26SNPq1jCkHIK51V8Lu88S52IpX.png"
+      },
+      {
+        "provider_name": "imdb",
+        "id": "co0014957"
+      }
+    ],
     "artwork": {
-      "primary": ["svg", "webp"],
-      "thumb": ["svg", "webp"]
-    }
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "usa-network"
   }
 ]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Seville International",
+    "description": "Canadian film distribution company, the international sales arm of Entertainment One; distributor of independent and arthouse films.",
+    "country": "CA",
+    "type": "distributor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199407"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

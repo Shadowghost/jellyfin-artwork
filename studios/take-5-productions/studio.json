@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Take 5 Productions",
+    "country": "CA",
+    "homepage": "http://www.take5productions.ca",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39520",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h5qMfjH9jaJ5835UGdq2PZQ1a33.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

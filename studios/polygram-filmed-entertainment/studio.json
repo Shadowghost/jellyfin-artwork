@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PolyGram Filmed Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258233"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

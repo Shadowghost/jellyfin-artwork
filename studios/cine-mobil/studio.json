@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cine Mobil",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "64894"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

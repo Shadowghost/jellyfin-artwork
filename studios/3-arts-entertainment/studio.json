@@ -1,0 +1,21 @@
+[
+  {
+    "name": "3 Arts Entertainment",
+    "country": "US",
+    "homepage": "http://www.3arts.com",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "787",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cCefBs1t7jxtiz3eCxBp9yxrxGx.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

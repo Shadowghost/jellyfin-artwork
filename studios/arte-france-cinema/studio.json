@@ -1,0 +1,21 @@
+[
+  {
+    "name": "ARTE France Cinéma",
+    "country": "FR",
+    "homepage": "https://www.arte.tv/en",
+    "headquarters": "Issy-les-Moulineaux",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94",
+        "logo_uri": "https://image.tmdb.org/t/p/original/huC7HqorvUThGIrENrbcHmQVUA0.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

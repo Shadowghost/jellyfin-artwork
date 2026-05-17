@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Flanders Image",
+    "country": "BE",
+    "homepage": "https://www.flandersimage.com/",
+    "headquarters": "City of Brussels",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191627",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cs7ElpngXdpy2EFKHkCQ0nswA46.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

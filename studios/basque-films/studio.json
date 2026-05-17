@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Basque Films",
+    "country": "ES",
+    "homepage": "http://www.basquefilms.com",
+    "headquarters": "Bilbao, Basque Country",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52270",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cmHyuZRHMn2yD5yoLZo02dfIVCE.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

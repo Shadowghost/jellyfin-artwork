@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AC Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "276427"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

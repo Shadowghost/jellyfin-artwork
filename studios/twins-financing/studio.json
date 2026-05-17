@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Twins Financing",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20899"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

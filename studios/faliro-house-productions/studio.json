@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Faliro House Productions",
+    "country": "GR",
+    "homepage": "http://www.falirohouse.com",
+    "headquarters": "Athens",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19246",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4zrEZfTf94tyG4wRB599gRS0reU.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

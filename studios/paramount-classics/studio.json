@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Paramount Classics",
+    "description": "Specialty-film division of Paramount Pictures, focused on independent and art-house films; succeeded by Paramount Vantage.",
+    "country": "US",
+    "type": "distributor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220287",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kSOgeDwqKdNNRQx5gk2yX2brLOx.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

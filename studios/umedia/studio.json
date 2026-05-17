@@ -1,0 +1,23 @@
+[
+  {
+    "name": "uMedia",
+    "description": "Belgian film financing and production company, co-producing international features through its uFilm financing arm.",
+    "country": "BE",
+    "type": "production-company",
+    "homepage": "https://www.umedia.eu/en",
+    "headquarters": "Brussels",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19037",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tceh2aAORA5JxIZSLQ1GkzTBZDL.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

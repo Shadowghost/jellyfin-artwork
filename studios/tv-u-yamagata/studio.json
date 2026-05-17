@@ -1,0 +1,22 @@
+[
+  {
+    "name": "TV-U Yamagata",
+    "description": "Japanese commercial television broadcaster based in Yamagata Prefecture, affiliated with the Japan News Network (TBS).",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.tuy.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135681",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aqcyfxbNuWPlhyU3XlXX5bBq6gl.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

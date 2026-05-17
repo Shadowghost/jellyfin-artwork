@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Disney Television Animation",
+    "description": "American animation studio that creates animated television series, films, and specials for The Walt Disney Company.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Glendale, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3475",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

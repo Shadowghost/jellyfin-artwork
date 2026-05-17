@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Tom DeSanto",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38831"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

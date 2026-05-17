@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Langfilm",
+    "country": "CH",
+    "homepage": "https://www.langfilm.ch/",
+    "headquarters": "Freienstein",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4225",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8A0FNCn3KX6sVdvQzF1Ncbby3gj.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

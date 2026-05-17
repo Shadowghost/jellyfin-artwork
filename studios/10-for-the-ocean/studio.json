@@ -1,0 +1,19 @@
+[
+  {
+    "name": "10% for the Ocean",
+    "country": "GB",
+    "homepage": "https://www.10percentfortheocean.org",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "261690"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

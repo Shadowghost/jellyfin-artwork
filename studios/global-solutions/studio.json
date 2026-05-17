@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Global Solutions",
+    "country": "JP",
+    "homepage": "https://global-solutions.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165054"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

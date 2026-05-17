@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NFB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12347"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

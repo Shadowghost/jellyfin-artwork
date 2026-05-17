@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Safehouse Pictures",
+    "country": "US",
+    "homepage": "http://www.safehousepictures.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25577",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2trboP7Exx3LEQqSHoo1sAmsC1i.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Elkins Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3276"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

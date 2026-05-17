@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Reel World Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169969"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

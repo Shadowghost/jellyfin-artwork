@@ -1,0 +1,23 @@
+[
+  {
+    "name": "NBCUniversal",
+    "description": "American multinational mass media and entertainment conglomerate owned by Comcast, parent of NBC, Universal Pictures, and Universal Studios.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "http://www.nbcuniversal.com/",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26559",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n4WUzEMiLm9TiE3Lzi7D08vQtqj.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

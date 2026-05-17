@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Vinyl Films",
+    "country": "US",
+    "homepage": "http://www.theuncool.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "485",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tVOP0mIeoYLua4Rw66OYNzitrrI.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

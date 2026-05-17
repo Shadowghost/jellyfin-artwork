@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Tokyo Channel 12",
+    "description": "Historical name of Japan's TV Tokyo (originally Tokyo Channel 12), rebranded in 1981.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73203"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "VVS Films",
+    "description": "Canadian film and home video distributor based in Montreal, releasing French- and English-language theatrical and home entertainment titles in Canada.",
+    "country": "CA",
+    "type": "distributor",
+    "homepage": "http://vvs.ca/",
+    "headquarters": "407 McGill St Montreal, Quebec, Canada",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112429",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hQf6EO8akiWSfbLMmr1A7ZXO0sa.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

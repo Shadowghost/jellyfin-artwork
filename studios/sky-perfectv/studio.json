@@ -1,0 +1,20 @@
+[
+  {
+    "name": "SKY PerfecTV!",
+    "country": "JP",
+    "homepage": "http://www.skyperfectv.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3342",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i4BmymlCPOOH4DvuOlTddQfzUSg.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

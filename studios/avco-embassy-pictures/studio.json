@@ -1,0 +1,19 @@
+[
+  {
+    "name": "AVCO Embassy Pictures",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "494",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ioc65azmsAeL1XQN4dFnrpdJoMO.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

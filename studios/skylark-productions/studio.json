@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Skylark Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8253"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

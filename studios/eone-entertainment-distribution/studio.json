@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Entertainment One",
+    "description": "Canadian-British multinational entertainment company producing and distributing film and television; acquired by Lionsgate from Hasbro in 2023.",
+    "country": "CA",
+    "type": "distributor",
+    "homepage": "https://www.entertainmentone.com",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8147",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q6HOAdSNgCbeOqwoMVRc6REgbXF.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "MICRO MAGAZINE",
+    "country": "JP",
+    "homepage": "https://micromagazine.co.jp/",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188143",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cyCV6C5EBG45hsVTQVjzwLVwkg1.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

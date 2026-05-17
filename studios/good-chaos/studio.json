@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Good Chaos",
+    "country": "GB",
+    "homepage": "https://goodchaos.co.uk/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182028",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mTsDayzbpU8eXyO99NfBOXP6C2U.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

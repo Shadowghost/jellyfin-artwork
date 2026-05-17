@@ -1,0 +1,17 @@
+[
+  {
+    "name": "New Star Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1340"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

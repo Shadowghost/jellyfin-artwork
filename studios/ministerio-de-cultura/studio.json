@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Ministerio de Cultura",
+    "description": "Government ministry of culture (most commonly Spain's Ministerio de Cultura, but the same name is used by several Spanish-speaking countries); frequently credited as a public film funder.",
+    "country": "ES",
+    "type": "government-agency",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11408"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

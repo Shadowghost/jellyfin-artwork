@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Entertainment Tonight",
+    "description": "American first-run entertainment news syndicated television show.",
+    "country": "US",
+    "type": "news",
+    "homepage": "https://www.etonline.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "265242"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

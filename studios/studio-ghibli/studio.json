@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Studio Ghibli",
+    "description": "Japanese animation studio co-founded by Hayao Miyazaki, Isao Takahata and Toshio Suzuki, known for films such as My Neighbor Totoro, Spirited Away and Princess Mononoke.",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "http://Ghibli.jp",
+    "headquarters": "Koganei, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10342",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uFuxPEZRUcBTEiYIxjHJq62Vr77.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "John Cohen Productions",
+    "country": "US",
+    "headquarters": "Sherman Oaks, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "178792"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

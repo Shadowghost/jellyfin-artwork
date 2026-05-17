@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Nickelodeon Movies",
+    "description": "American film production company, the theatrical film label of Nickelodeon, behind films based on Nick TV properties and original family films.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Los Angeles, California",
+    "colors": [
+      {
+        "name": "Nickelodeon Orange",
+        "hex": "#F57D0D"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2348",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m31fQvZJuUvAgxoqTiCGYFBfZYe.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Well Red",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198490"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Emmett/Furla Films",
+    "country": "US",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214742",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7rlv0Vg2bIdI0EPlUO1z5VpxsKP.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

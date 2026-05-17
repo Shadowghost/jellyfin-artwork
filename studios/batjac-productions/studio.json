@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Batjac Productions",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2532",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qxGytGpK9htSl6xxv9qP1dG656e.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

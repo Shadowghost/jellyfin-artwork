@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fortress Features",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5176"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

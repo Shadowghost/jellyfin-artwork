@@ -1,0 +1,21 @@
+[
+  {
+    "name": "SATELIGHT",
+    "country": "JP",
+    "homepage": "https://www.satelight.co.jp",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30293",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uXK0FJB6rlX6kegyZl8uGOeiwHd.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

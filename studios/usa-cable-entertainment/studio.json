@@ -1,0 +1,19 @@
+[
+  {
+    "name": "USA Cable Entertainment",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11282",
+        "logo_uri": "https://image.tmdb.org/t/p/original/31kQdVc0G6w7BrA5KW4N9waz9Bi.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

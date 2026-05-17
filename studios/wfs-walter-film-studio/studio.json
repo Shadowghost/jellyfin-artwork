@@ -1,0 +1,21 @@
+[
+  {
+    "name": "WFS - Walter Film Studio",
+    "country": "PL",
+    "homepage": "https://wfs.com.pl/",
+    "headquarters": "Warsaw",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121046",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8O4YdaafPc9iushuMSsolPPfyls.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

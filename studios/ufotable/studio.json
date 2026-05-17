@@ -1,0 +1,26 @@
+[
+  {
+    "name": "ufotable",
+    "description": "Japanese animation studio founded by Hikaru Kondo, renowned for Demon Slayer: Kimetsu no Yaiba and the Fate franchise (Fate/stay night, Fate/Zero).",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "http://www.ufotable.com",
+    "headquarters": "Suginami. Tokyo Prefecture, Japan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5887",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m6FEqz8rQECnmfjEwjNhNAlmhCJ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Ufotable"
+    ]
+  }
+]

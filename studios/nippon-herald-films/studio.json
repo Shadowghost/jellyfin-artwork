@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nippon Herald Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147071"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

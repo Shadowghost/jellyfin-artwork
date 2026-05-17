@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Limelight",
+    "country": "US",
+    "homepage": "https://www.limelightmp.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128360",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a9YkOw7I1CCBOc9Cy1FDGYfFrJm.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

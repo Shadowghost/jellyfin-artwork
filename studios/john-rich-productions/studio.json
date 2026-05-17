@@ -1,0 +1,17 @@
+[
+  {
+    "name": "John Rich Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56956"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

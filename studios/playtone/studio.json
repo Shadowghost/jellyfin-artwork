@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Playtone",
+    "description": "American film and television production company founded by Tom Hanks and Gary Goetzman, named after the fictional record label in That Thing You Do!",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://www.playtone.com",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4171",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cdwjRVcXP9zws9gkiim0KkBNs9N.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

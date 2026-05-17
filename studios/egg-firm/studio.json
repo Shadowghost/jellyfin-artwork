@@ -1,0 +1,20 @@
+[
+  {
+    "name": "EGG FIRM",
+    "country": "JP",
+    "homepage": "http://www.eggfirm.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95809",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5ac8LhghlxYKbPSwbXJkgrNfjGF.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

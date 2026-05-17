@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Nibariki",
+    "country": "JP",
+    "headquarters": "Koganei, Tokyo Prefecture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12516"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Rai 3",
+    "description": "Italian public-service television channel owned by RAI; known for current affairs programs and regional broadcasts.",
+    "country": "IT",
+    "type": "broadcast-network",
+    "homepage": "https://www.rai.it/rai3/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155418",
+        "logo_uri": "https://image.tmdb.org/t/p/original/heXoK24E57zJiXZvp76Ous4C5cR.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

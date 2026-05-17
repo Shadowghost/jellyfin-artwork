@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Kinology",
+    "country": "FR",
+    "homepage": "https://www.kinology.eu/",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18626",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gb0xmYIKvNy2LnUOfLVglww7U0g.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

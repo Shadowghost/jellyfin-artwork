@@ -1,0 +1,20 @@
+[
+  {
+    "name": "CREST",
+    "country": "JP",
+    "homepage": "https://www.crest-inc.net/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193340",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5eAEsqZzPQpXMYgusGSqeHoVYZz.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

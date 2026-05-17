@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Subotica",
+    "country": "IE",
+    "homepage": "https://www.subotica.ie/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39004",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oIki78o91tifO6F1R0Uy4Ff3hhq.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

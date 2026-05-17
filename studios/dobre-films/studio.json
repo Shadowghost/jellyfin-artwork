@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Dobre Films",
+    "country": "US",
+    "homepage": "https://www.dobrefilms.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22704"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

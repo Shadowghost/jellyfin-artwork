@@ -1,0 +1,20 @@
+[
+  {
+    "name": "D&C Media",
+    "country": "KR",
+    "homepage": "https://dncmedia.co.kr",
+    "headquarters": "Guro District, Seoul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217720"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

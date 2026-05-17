@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ciné+",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214166"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

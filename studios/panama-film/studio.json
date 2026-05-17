@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Panama Film",
+    "country": "AT",
+    "homepage": "http://www.panama-film.com",
+    "headquarters": "Vienna",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123408",
+        "logo_uri": "https://image.tmdb.org/t/p/original/s13diWaEtNwE5oXUSmB9VaMoEWF.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

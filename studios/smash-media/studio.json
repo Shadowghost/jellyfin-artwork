@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Smash Media",
+    "country": "US",
+    "homepage": "http://www.smashmedia.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48186"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

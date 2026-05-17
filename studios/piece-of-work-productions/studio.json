@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Piece of Work Productions",
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176198",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7KUFE7Ze5u4vfllNGCeowNytwBR.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

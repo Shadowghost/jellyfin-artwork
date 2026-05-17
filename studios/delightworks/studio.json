@@ -1,0 +1,20 @@
+[
+  {
+    "name": "DELiGHTWORKS",
+    "country": "JP",
+    "homepage": "https://www.delightworks.co.jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167939",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5jx0v3wncLujpflY6TcF4GFccy7.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

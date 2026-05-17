@@ -1,15 +1,30 @@
 [
   {
     "name": "France 2",
-    "machine-name": "france-2",
-    "providers": {
-      "tvdb": "105",
-      "tmdb": "361",
-      "imdb": "co0011107"
-    },
+    "providers": [
+      {
+        "provider_name": "tvdb",
+        "id": "105"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "254533"
+      },
+      {
+        "provider_name": "imdb",
+        "id": "co0011107"
+      }
+    ],
     "artwork": {
-      "primary": ["svg", "webp"],
-      "thumb": ["svg", "webp"]
-    }
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "france-2"
   }
 ]

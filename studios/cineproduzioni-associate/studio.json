@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Cineproduzioni Associate",
+    "country": "IT",
+    "headquarters": "Rome",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89390"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

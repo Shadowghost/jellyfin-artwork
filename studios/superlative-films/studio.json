@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Superlative Films",
+    "country": "US",
+    "homepage": "https://www.superlativefilms.com",
+    "headquarters": "Boulder, Colorado",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89212",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zFEXjYOgGRne5IbRlGEDsFjNdOE.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

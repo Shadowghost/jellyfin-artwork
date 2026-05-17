@@ -1,0 +1,17 @@
+[
+  {
+    "name": "H2F Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20851"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

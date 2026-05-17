@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Anton",
+    "country": "GB",
+    "homepage": "https://antoncorp.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138743",
+        "logo_uri": "https://image.tmdb.org/t/p/original/abFJGmtPFs6Bq5cBavmrnXDcpf8.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

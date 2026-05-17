@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Allspark Pictures",
+    "description": "The live-action production division of Hasbro Studios, launched in 2015 and folded into Entertainment One in October 2020; named after the Transformers franchise's fictional Allspark.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "57031",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1ai3zndjxL3BonlOJVS75GjTOuW.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

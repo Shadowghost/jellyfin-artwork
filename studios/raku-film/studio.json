@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Raku Film",
+    "country": "JP",
+    "homepage": "https://rakufilm.com",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9108"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

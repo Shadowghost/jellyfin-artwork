@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Telefe",
+    "description": "Argentine free-to-air television network owned by Paramount Global, one of the major TV channels in Argentina.",
+    "country": "AR",
+    "type": "broadcast-network",
+    "homepage": "https://telefe.com",
+    "headquarters": "Buenos Aires",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8046",
+        "logo_uri": "https://image.tmdb.org/t/p/original/67wZ6aHgQcU5K7qbRCRICiKHeN1.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

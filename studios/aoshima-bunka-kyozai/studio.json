@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Aoshima Bunka Kyozai",
+    "country": "JP",
+    "homepage": "https://www.aoshima-bk.co.jp/",
+    "headquarters": "Shizuoka",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211241",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6q07imyZMfz7ouxpgX3AEphWJ9U.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

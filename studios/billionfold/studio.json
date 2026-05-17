@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Billionfold",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67200",
+        "logo_uri": "https://image.tmdb.org/t/p/original/55PebHAetX8DhJgEBoQqm0iYFZq.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

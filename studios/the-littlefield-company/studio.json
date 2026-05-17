@@ -1,0 +1,21 @@
+[
+  {
+    "name": "The Littlefield Company",
+    "description": "Television production company founded by former NBC Entertainment executive Warren Littlefield, known for series such as Fargo, The Handmaid's Tale and The Old Man.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20815"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

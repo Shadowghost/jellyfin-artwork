@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Management 360",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4220",
+        "logo_uri": "https://image.tmdb.org/t/p/original/45hMv0LGPwWRTwWXcGXGbShCrgw.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

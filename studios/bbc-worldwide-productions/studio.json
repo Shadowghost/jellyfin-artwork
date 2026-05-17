@@ -1,0 +1,20 @@
+[
+  {
+    "name": "BBC Worldwide Productions",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128577",
+        "logo_uri": "https://image.tmdb.org/t/p/original/32kFiUBS3Kdcd6m5Rcrr8zmDpIK.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

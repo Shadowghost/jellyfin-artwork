@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Compelling Pictures",
+    "country": "US",
+    "homepage": "https://compellingpics.com",
+    "headquarters": "Quincy, Massachusetts",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175627"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Gaiam",
+    "description": "American producer and seller of yoga, fitness, and wellness products and digital media; also operates Gaia, a streaming video service focused on yoga and spiritual content.",
+    "country": "US",
+    "type": "other",
+    "homepage": "https://www.gaia.com",
+    "headquarters": "Louisville, Colorado , USA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103212",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7Y6Jc8LxpCJVW3EvPelL8QKM7tk.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "G-BASE",
+    "country": "US",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103331",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nxkmGpo1Ym74DkBzNtoMz5cl6DJ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

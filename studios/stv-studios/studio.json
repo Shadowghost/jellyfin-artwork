@@ -1,0 +1,23 @@
+[
+  {
+    "name": "STV Studios",
+    "description": "Scottish television production company owned by STV Group, producing scripted and unscripted content for UK and international broadcasters; produced shows like Catchphrase, Antiques Road Trip and Blood.",
+    "country": "GB",
+    "type": "production-company",
+    "homepage": "https://www.stvstudios.com",
+    "headquarters": "Glasgow, Scotland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75600",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qvDku9orSiMgA1vIragz227hul8.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Blue-Tongue Films",
+    "country": "AU",
+    "homepage": "http://bluetonguefilms.com",
+    "headquarters": "Darlinghurst, New South Wales",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32299",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yNphx07jCXygH1Zh73tSPHnNi82.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

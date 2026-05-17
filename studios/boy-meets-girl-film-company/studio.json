@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Boy Meets Girl Film Company",
+    "country": "CA",
+    "headquarters": "Vancouver, British Columbia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22648"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

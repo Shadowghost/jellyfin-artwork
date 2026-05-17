@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Sponge",
+    "country": "KR",
+    "headquarters": "Gangnam, Seoul, South Korea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2467",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xL4wmWQIOunKxEb89vtFrOlb0DD.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Ajiado",
+    "country": "JP",
+    "homepage": "http://www.ajiado.co.jp",
+    "headquarters": "Saitama",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "43368",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cDPK8iNO14z2oxbl57Dcd8m23RZ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

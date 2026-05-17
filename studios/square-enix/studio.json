@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Square Enix",
+    "description": "Japanese video game and entertainment holding company formed by the 2003 merger of Square and Enix; Square Pictures was its film subsidiary that produced Final Fantasy: The Spirits Within.",
+    "country": "JP",
+    "type": "production-company",
+    "homepage": "https://www.hd.square-enix.com",
+    "headquarters": "Shinjuku, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10038",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nCueXKwYIEXrZ5ofqSJBO1YcmRr.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

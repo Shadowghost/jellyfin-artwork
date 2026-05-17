@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Tiger Aspect",
+    "description": "British television production company, part of Banijay UK; producer of Peaky Blinders and Mr. Bean.",
+    "country": "GB",
+    "type": "production-company",
+    "homepage": "https://www.tigeraspect.co.uk",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "686",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jO409wwJV76vCdR747BixkfaFbR.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Tiger Aspect Productions"
+    ]
+  }
+]

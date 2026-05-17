@@ -1,0 +1,21 @@
+[
+  {
+    "name": "A. Smith & Co. Productions",
+    "country": "US",
+    "homepage": "http://www.asmithco.com",
+    "headquarters": "Toluca Lake, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37066",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wtPFP4KetoytbR9zU4mfi851DGc.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

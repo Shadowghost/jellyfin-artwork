@@ -1,0 +1,36 @@
+[
+  {
+    "name": "MGM+ Studios",
+    "description": "American film and television production company, founded as Metro-Goldwyn-Mayer in 1924; acquired by Amazon in 2022 and rebranded as Amazon MGM Studios.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "https://mgm.com",
+    "headquarters": "Culver City, California",
+    "colors": [
+      {
+        "name": "MGM Gold",
+        "hex": "#C99A3B"
+      },
+      {
+        "name": "MGM Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210099",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Amazon MGM Studios"
+    ]
+  }
+]

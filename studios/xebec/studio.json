@@ -1,0 +1,21 @@
+[
+  {
+    "name": "XEBEC",
+    "country": "JP",
+    "homepage": "http://www.xebec-inc.co.jp",
+    "headquarters": "Nishitokyo, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5937",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yelUQVWP72Nw5DirciMc9dqdk60.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Inferno Pictures",
+    "country": "CA",
+    "homepage": "https://www.infernopictures.com",
+    "headquarters": "Winnipeg, Manitoba",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83549",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6AQrYukoi0OGD1Yal9vYjFREXxJ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

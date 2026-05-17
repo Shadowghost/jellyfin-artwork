@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Carolco Pictures",
+    "description": "American independent film studio founded by Mario Kassar and Andrew G. Vajna; known for blockbusters like Rambo, Total Recall, Terminator 2: Judgment Day and Basic Instinct before going bankrupt in 1995.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Boca Raton, Florida",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oLnOYtAjF0z9CrqJqWptFkhHOQG.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

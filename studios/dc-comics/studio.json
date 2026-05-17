@@ -1,0 +1,30 @@
+[
+  {
+    "name": "DC Comics",
+    "description": "American comic book publisher and one of the largest in the world, home to Superman, Batman, Wonder Woman, and the DC Universe.",
+    "country": "US",
+    "type": "publisher",
+    "colors": [
+      {
+        "name": "DC Blue",
+        "hex": "#0078F0"
+      },
+      {
+        "name": "DC Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90106"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

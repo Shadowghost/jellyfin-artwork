@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Wild West Picture Show Productions",
+    "country": "US",
+    "homepage": "http://www.wwpsp.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2796"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

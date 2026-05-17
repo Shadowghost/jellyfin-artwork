@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Toon Disney",
+    "description": "Former American cable television channel owned by Disney that aired animated programming; replaced by Disney XD in 2009.",
+    "country": "US",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5391",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o5AcK10ViutenSa4XTD18ClCEWe.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

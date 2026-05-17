@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Beijing Gallop Horse Film & TV Production",
+    "country": "CN",
+    "homepage": "http://www.xmbt.com.cn",
+    "headquarters": "Beijing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15866"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

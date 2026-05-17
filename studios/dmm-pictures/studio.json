@@ -1,0 +1,20 @@
+[
+  {
+    "name": "DMM pictures",
+    "country": "JP",
+    "homepage": "https://pictures.dmm.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156999",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yOPNMsW68we3cA9XNPsZsmZtVOj.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

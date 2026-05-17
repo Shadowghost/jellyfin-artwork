@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Beauftragte der Bundesregierung für Kultur und Medien (BKM)",
+    "country": "DE",
+    "homepage": "https://www.kulturstaatsministerin.de/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239699"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

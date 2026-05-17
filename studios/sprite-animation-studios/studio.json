@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Sprite Animation Studios",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82077",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hi0p12Ca9Kvdme4H9C5zI5J6C9S.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

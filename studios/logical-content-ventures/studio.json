@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Logical Content Ventures",
+    "country": "FR",
+    "homepage": "https://www.logicalcontentventures.com/",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209127",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6kby8aYYQX7RqPGs0DPIGMtG2Sg.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

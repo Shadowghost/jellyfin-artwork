@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tele München Gruppe",
+    "description": "German media company founded by Herbert Kloiber active in film and TV production, distribution, broadcasting and home entertainment; reorganized into Leonine Studios after acquisition by KKR in 2019.",
+    "country": "DE",
+    "type": "production-company",
+    "headquarters": "Munich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1469",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AwbErjR0AMpVnN9PbdHiBB3g3q0.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Silent House Productions",
+    "country": "US",
+    "homepage": "https://www.silent-house.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154630",
+        "logo_uri": "https://image.tmdb.org/t/p/original/edV49cPtxk0z7sKczI5kHXhCi4m.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

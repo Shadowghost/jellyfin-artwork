@@ -1,0 +1,21 @@
+[
+  {
+    "name": "East Fish Studio",
+    "country": "JP",
+    "homepage": "https://eastfish.co.jp",
+    "headquarters": "Shibuya, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162598",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rxfZnsRirXAYA3P52gyaKXv9N5u.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Ishikawa TV",
+    "description": "Japanese commercial broadcaster based in Kanazawa, Ishikawa Prefecture; affiliate of the Fuji News Network.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256949"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

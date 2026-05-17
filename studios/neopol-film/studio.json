@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Neopol Film",
+    "country": "DE",
+    "homepage": "https://www.neopol-film.de/",
+    "headquarters": "Frankfurt am Main",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127819",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r9jLblztdKO9A1xWNjVNb6ZT0HY.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

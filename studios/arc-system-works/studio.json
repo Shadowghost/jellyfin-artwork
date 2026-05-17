@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Arc System Works",
+    "country": "JP",
+    "homepage": "https://www.arcsystemworks.jp/",
+    "headquarters": "Yokohama, Japan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152736"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

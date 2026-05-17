@@ -1,0 +1,21 @@
+[
+  {
+    "name": "DR",
+    "country": "DK",
+    "homepage": "https://www.dr.dk/",
+    "headquarters": "Copenhagen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1di2gITGUZr730AMuMKiCrP90Vl.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

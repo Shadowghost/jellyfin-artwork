@@ -1,0 +1,19 @@
+[
+  {
+    "name": "House of Tomorrow",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76757",
+        "logo_uri": "https://image.tmdb.org/t/p/original/TUzHXCcbax9pQYWtIkLJNpRFnJ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

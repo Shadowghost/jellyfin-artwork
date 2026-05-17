@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Okuruto Noboru",
+    "country": "JP",
+    "homepage": "https://okurutonoboru.co.jp",
+    "headquarters": "Toshima, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133501",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sLuyHvpLctHcBytC23M7a3TK6Ar.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "MontBlanc Pictures",
+    "country": "JP",
+    "homepage": "https://mtblanc.jp/",
+    "headquarters": "Fukuoka",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40383",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nF70CPayRdujEptcdvAJnjLXeoy.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Hearst Entertainment Productions",
+    "description": "Television production division of Hearst Communications, producing original programming and managing TV holdings including a stake in A+E Networks.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7483"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

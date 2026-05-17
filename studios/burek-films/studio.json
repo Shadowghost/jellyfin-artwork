@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Burek Films",
+    "country": "GB",
+    "headquarters": "Wokingham, Berkshire, United Kingdom",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133831"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

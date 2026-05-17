@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Global Entertainment Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "65895"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Wang Film Productions",
+    "country": "TW",
+    "homepage": "https://www.brilliant-pictures.com",
+    "headquarters": "Taipei",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10859",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5Mw5XzCTSKYjMqi54kPf3BpiQFr.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

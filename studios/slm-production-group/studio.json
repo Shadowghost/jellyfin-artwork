@@ -1,0 +1,19 @@
+[
+  {
+    "name": "SLM Production Group",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "396",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5iNXO7nAiSsms7ur1Qy2UwuwcDP.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

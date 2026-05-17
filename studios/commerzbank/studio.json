@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Commerzbank",
+    "description": "Major German bank operating as a universal bank, headquartered in Frankfurt; sometimes appears as a film production financier.",
+    "country": "DE",
+    "type": "other",
+    "colors": [
+      {
+        "name": "Commerzbank Yellow",
+        "hex": "#FFCC00"
+      }
+    ],
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "THE KLOCKWORX",
+    "country": "JP",
+    "homepage": "https://klockworx.com",
+    "headquarters": "Meguro, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6681",
+        "logo_uri": "https://image.tmdb.org/t/p/original/s4RElEnQyM2VrHZCQ3jYemPdxML.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "uFund",
+    "country": "BE",
+    "homepage": "http://www.ufund.be",
+    "headquarters": "Brussels, Belgium",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22127",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lgkXXc4hyHH6WqVMJVUFrhFIjm5.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

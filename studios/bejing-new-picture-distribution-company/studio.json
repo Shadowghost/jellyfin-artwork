@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bejing New Picture Distribution Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93115"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

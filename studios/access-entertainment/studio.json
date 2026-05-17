@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Access Entertainment",
+    "description": "Entertainment investment arm of Len Blavatnik's Access Industries, focused on financing and producing film, TV, and theatre.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.accessindustries.com/entertainment",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103376",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zAyfGEx1LJOkwNTrHugnWHzLRE.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

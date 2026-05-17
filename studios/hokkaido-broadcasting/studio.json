@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Hokkaido Broadcasting",
+    "description": "Japanese commercial broadcaster based in Sapporo, Hokkaido, affiliated with JNN/TBS.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283898",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uyooftnDWsIgkmwkQInAepnOALi.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Hokkaido Broadcasting Co., Ltd."
+    ]
+  }
+]

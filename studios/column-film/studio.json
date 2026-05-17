@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Column Film",
+    "country": "NL",
+    "homepage": "https://www.columnfilm.com/",
+    "headquarters": "Amsterdam",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28103",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5HcHQuFqmdAgTo7K4t2qnThVBhT.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

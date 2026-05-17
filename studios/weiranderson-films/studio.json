@@ -1,0 +1,21 @@
+[
+  {
+    "name": "WeirAnderson Films",
+    "country": "AU",
+    "homepage": "https://www.weiranderson.com/weirandersonfilms",
+    "headquarters": "Sydney, New South Wales",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139867",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f0zxvTbd1yWH22BYAfInRZ7M4UA.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

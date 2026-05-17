@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Cinepocalypse",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179565",
+        "logo_uri": "https://image.tmdb.org/t/p/original/burAbTx0L7cECMVqAEerWNPGYdI.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

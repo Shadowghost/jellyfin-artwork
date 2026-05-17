@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Chunichi Shimbun",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "61356",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eUAC8FX2OgvCUtLgASijjMohmFV.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

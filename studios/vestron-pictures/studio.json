@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Vestron Pictures",
+    "description": "Defunct American film studio and home video company best known for releasing Dirty Dancing; library now owned by Lionsgate.",
+    "country": "US",
+    "type": "studio",
+    "headquarters": "Chicago, Illinois",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12360",
+        "logo_uri": "https://image.tmdb.org/t/p/original/EugVVMfcbv9zxCr0C60VhD0vGY.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

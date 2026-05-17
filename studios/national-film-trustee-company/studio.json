@@ -1,0 +1,19 @@
+[
+  {
+    "name": "National Film Trustee Company",
+    "country": "GB",
+    "headquarters": "London",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "464"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

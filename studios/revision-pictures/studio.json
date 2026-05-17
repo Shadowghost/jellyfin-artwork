@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ReVision Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73538"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Sarah Radclyffe Productions",
+    "country": "GB",
+    "headquarters": "Salisbury, Wiltshire, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25692"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

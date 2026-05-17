@@ -1,0 +1,21 @@
+[
+  {
+    "name": "FremantleMedia North America",
+    "country": "US",
+    "homepage": "http://www.fremantlemedia.com",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11226",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nGvh7WJCDYmXZjOAOJ7VoC4vEw0.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

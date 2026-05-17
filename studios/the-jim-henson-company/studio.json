@@ -1,0 +1,21 @@
+[
+  {
+    "name": "The Jim Henson Company",
+    "country": "US",
+    "homepage": "https://www.henson.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6254",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dHfP8fUyykmTsMXbtXO0kSsYz5E.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Alien Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62631"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

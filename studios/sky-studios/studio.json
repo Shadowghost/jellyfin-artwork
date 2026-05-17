@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Sky Studios",
+    "country": "GB",
+    "homepage": "https://www.skygroup.sky/skystudios",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135346",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hIwjhVdOOQ1fpdebwOuDQD7bnw0.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

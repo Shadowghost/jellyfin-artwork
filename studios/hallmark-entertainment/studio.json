@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Hallmark Entertainment",
+    "description": "American producer of television miniseries and TV movies, subsidiary of Hallmark Cards; renamed RHI Entertainment in 2006.",
+    "country": "US",
+    "type": "production-company",
+    "colors": [
+      {
+        "name": "Hallmark Purple",
+        "hex": "#6E2C8C"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4056",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dnz7zZ2e11usyjPG3mTYvJfyciD.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

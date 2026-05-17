@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Red Bull Media House",
+    "description": "Austrian multi-platform media company owned by Red Bull GmbH, producing sports, music and entertainment content.",
+    "country": "AT",
+    "type": "production-company",
+    "homepage": "https://www.redbullmediahouse.com",
+    "headquarters": "Wals-Siezenheim, Austria",
+    "colors": [
+      {
+        "name": "Red Bull Red",
+        "hex": "#DB0A40"
+      },
+      {
+        "name": "Red Bull Blue",
+        "hex": "#001489"
+      },
+      {
+        "name": "Red Bull Yellow",
+        "hex": "#FFC906"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7724",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6QV240fIM04sZXpyLUoqhKGhf7r.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

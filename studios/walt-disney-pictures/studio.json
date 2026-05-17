@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Walt Disney Pictures",
+    "description": "Flagship film production label of The Walt Disney Studios, producing live-action and animated theatrical features.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "https://movies.disney.com",
+    "headquarters": "Burbank, California",
+    "colors": [
+      {
+        "name": "Disney Blue",
+        "hex": "#006E99"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wdrCwmRnLFJhEoH8GSfymY85KHT.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

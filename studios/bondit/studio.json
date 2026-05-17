@@ -1,0 +1,21 @@
+[
+  {
+    "name": "BondIt",
+    "country": "US",
+    "homepage": "https://bondit.us",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75357",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zXT1JFP82YL245wlLpauAJDZA25.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

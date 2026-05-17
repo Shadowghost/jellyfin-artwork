@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Walking Tacos",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144481"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "CoLours TV",
+    "description": "Indian Hindi-language general-entertainment pay-TV channel owned by Viacom18, launched in 2008 and known for reality and drama programming.",
+    "country": "IN",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181614"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Colors TV"
+    ]
+  }
+]

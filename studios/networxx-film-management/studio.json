@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Networxx - Film Management",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26107"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

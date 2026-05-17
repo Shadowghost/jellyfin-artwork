@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Elephant House",
+    "country": "JP",
+    "homepage": "https://zounoie.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88224",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uNtkgY8xtAvVwzqkgKF8AJAPyYh.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

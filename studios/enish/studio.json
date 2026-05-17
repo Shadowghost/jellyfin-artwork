@@ -1,0 +1,21 @@
+[
+  {
+    "name": "enish",
+    "country": "JP",
+    "homepage": "https://www.enish.jp",
+    "headquarters": "Roppongi, Minato, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225886",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lYkGMlqjs253GrHukwq7xXYpa4Y.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Entertainment One",
+    "description": "Canadian-American multinational entertainment company producing and distributing film, television, and music. Known for Peppa Pig and various film/TV productions.",
+    "country": "CA",
+    "type": "production-company",
+    "homepage": "https://www.entertainmentone.com",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8147",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q6HOAdSNgCbeOqwoMVRc6REgbXF.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

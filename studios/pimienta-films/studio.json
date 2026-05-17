@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Pimienta Films",
+    "country": "MX",
+    "homepage": "https://www.pimientafilms.com",
+    "headquarters": "Mexico City",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79192",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8FKSkq3bLvD0BxsNWFszCxk5Uzm.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

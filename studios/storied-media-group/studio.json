@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Storied Media Group",
+    "country": "US",
+    "homepage": "http://storiedmediagroup.com",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98690"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

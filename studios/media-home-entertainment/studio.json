@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Media Home Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18329",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6WnB9RtZxmnUYIbBwWjnuORIcGg.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

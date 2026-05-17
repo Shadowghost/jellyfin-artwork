@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Pellikola",
+    "country": "MT",
+    "homepage": "http://www.pellikola.com",
+    "headquarters": "Gwardamanġa, Pietà",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73249",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yKIyvssuU6Y9EJLkToUDNI7pBAo.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

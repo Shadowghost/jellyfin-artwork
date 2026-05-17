@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Abundantia Entertainment",
+    "country": "IN",
+    "homepage": "http://www.abundantiaentertainment.com/",
+    "headquarters": "Mumbai, Maharashtra, India",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86581",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k6YH6rQLtNAgI5dQ7LIzBBvIgtx.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

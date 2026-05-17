@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Kakao Entertainment",
+    "description": "South Korean entertainment conglomerate spanning music, webtoons, drama production and artist management; subsidiary of Kakao.",
+    "country": "KR",
+    "type": "production-company",
+    "homepage": "https://kakaoent.com/",
+    "headquarters": "Gangnam, Seoul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139214",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1aHsO2tVEdJfIBYCy0G4VpWYDY8.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

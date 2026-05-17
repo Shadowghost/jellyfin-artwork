@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Productions et Éditions Cinématographiques Françaises",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1650"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

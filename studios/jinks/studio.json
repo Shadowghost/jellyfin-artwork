@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jinks",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50413"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Warner Bros. Home Entertainment Group",
+    "country": "US",
+    "homepage": "https://www.warnerbros.com/company/divisions/home-entertainment",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14772",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uRjA81rM7O46H588ZeYunRfiZRn.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

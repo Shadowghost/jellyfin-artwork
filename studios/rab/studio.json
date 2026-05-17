@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RAB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "282598"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

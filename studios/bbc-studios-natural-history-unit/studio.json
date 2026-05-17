@@ -1,0 +1,20 @@
+[
+  {
+    "name": "BBC Studios Natural History Unit",
+    "country": "GB",
+    "homepage": "https://productions.bbcstudios.com/our-production-brands/the-natural-history-unit",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9050",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dEUWxME2lFFfzsSunN3lSZyRcY.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

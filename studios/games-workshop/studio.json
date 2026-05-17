@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Games Workshop",
+    "description": "British manufacturer of tabletop miniature wargames, best known for Warhammer 40,000 and Warhammer Age of Sigmar; licensor of many film/TV adaptations.",
+    "country": "GB",
+    "type": "other",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203770",
+        "logo_uri": "https://image.tmdb.org/t/p/original/la7okt2H9jqsqqKG2CfnnMY1z4X.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

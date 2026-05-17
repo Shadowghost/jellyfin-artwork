@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Capital Arts Entertainment",
+    "country": "US",
+    "headquarters": "Los Angeles, CA, USA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2365"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

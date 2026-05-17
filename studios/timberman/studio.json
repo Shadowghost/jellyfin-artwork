@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Timberman",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23829"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

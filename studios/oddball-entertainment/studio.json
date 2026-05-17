@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Oddball Entertainment",
+    "country": "US",
+    "homepage": "http://www.oddballent.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133024"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

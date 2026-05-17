@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Roenbergfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14756"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

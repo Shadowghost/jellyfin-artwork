@@ -1,0 +1,17 @@
+[
+  {
+    "name": "8 Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "136681"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

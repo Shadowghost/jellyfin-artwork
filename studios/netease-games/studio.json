@@ -1,0 +1,26 @@
+[
+  {
+    "name": "NetEase Games",
+    "description": "Chinese video game development division of NetEase, headquartered in Guangzhou; publisher and developer of online and mobile games.",
+    "country": "CN",
+    "type": "other",
+    "colors": [
+      {
+        "name": "NetEase Red",
+        "hex": "#C8161D"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248404"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

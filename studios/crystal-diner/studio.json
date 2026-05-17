@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Crystal Diner",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241151"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

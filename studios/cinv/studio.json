@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CINV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270631"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

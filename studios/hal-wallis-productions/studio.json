@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Hal Wallis Productions",
+    "country": "US",
+    "headquarters": "Los Angeles",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3468"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

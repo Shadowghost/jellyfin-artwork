@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Eighty Two Films",
+    "country": "US",
+    "headquarters": "Culver City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123230"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

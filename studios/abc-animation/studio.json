@@ -1,0 +1,20 @@
+[
+  {
+    "name": "ABC Animation",
+    "country": "JP",
+    "homepage": "https://www.abc-anime.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86839",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cnOJAkVVmKZLIzmgw4fRRZ2dctT.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Square Peg",
+    "country": "US",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123620",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

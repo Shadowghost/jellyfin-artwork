@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Paperclip",
+    "country": "US",
+    "homepage": "http://pclipltd.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111866",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ndiNWuj6RvZ5XYLWrcv2y4iYuJP.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

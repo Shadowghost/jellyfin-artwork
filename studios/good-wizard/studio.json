@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Good Wizard",
+    "country": "US",
+    "homepage": "https://goodwizard.net/",
+    "headquarters": "Columbia, Missouri",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123740",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5CZ3UZOwG022fzT98SFpM1Xdjr2.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

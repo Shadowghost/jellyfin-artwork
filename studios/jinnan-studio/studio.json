@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Jinnan Studio",
+    "country": "JP",
+    "homepage": "http://www.jinnan-st.tv/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163691",
+        "logo_uri": "https://image.tmdb.org/t/p/original/24qBOdAWHBTz9YjDoQwPrL1uyMw.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

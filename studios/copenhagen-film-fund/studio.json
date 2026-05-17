@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Copenhagen Film Fund",
+    "country": "DK",
+    "homepage": "http://cphfilmfund.com/en/",
+    "headquarters": "Copenhagen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73539",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fhLGxCgpAz7zWOoDz5g4FZMkFSs.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

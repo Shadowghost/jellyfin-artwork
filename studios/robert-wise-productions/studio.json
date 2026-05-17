@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Robert Wise Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6304"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "ICEC",
+    "country": "ES",
+    "homepage": "https://icec.gencat.cat/ca/inici",
+    "headquarters": "Barcelona, Catalonia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35559",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xLqNfq5xXETBKjq3jSSiNqqPiN7.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

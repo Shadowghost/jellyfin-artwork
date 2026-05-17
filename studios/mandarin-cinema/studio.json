@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Mandarin Cinéma",
+    "country": "FR",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "57294",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aBPcCUBeSULcYMjxHAKR5286qyh.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

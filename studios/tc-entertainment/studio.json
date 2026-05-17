@@ -1,0 +1,20 @@
+[
+  {
+    "name": "TC Entertainment",
+    "country": "JP",
+    "homepage": "https://www.tc-ent.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127264",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8K9U5yxdQqWa79z85DXxZ2TgDmb.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

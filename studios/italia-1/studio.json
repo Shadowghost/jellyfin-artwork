@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Italia 1",
+    "description": "Italian free-to-air television channel owned by Mediaset, targeting younger audiences with entertainment, sports, and anime programming.",
+    "country": "IT",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154577"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

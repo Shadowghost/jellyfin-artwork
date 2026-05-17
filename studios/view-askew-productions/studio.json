@@ -1,0 +1,21 @@
+[
+  {
+    "name": "View Askew Productions",
+    "country": "US",
+    "homepage": "http://viewaskew.com/",
+    "headquarters": "Red Bank, New Jersey",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16934",
+        "logo_uri": "https://image.tmdb.org/t/p/original/avyTgdxs372vSnOAPt7isdnzIWQ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

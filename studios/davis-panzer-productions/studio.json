@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Davis-Panzer Productions",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2737",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8wBm9nVbWi5hReKtjuiM8CD6Dca.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

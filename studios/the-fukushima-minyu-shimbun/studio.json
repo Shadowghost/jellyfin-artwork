@@ -1,0 +1,19 @@
+[
+  {
+    "name": "The Fukushima Minyu Shimbun",
+    "country": "JP",
+    "homepage": "https://www.minyu-net.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257068"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

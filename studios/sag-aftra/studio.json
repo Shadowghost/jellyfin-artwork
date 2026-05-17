@@ -1,0 +1,20 @@
+[
+  {
+    "name": "SAG-AFTRA",
+    "description": "American labor union representing approximately 160,000 film and television actors, broadcast journalists, recording artists and other media professionals; formed in 2012 by the merger of SAG and AFTRA.",
+    "country": "US",
+    "type": "other",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213640"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

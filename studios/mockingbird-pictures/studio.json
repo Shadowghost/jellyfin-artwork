@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Mockingbird Pictures",
+    "country": "US",
+    "homepage": "http://www.mockingbirdpictures.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1092",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dU2S6qBrsMkBFFkAbcUnJ7p3Izh.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

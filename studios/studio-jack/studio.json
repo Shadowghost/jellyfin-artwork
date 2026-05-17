@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Studio Jack",
+    "country": "JP",
+    "homepage": "http://www.studiojack.com",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108661"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

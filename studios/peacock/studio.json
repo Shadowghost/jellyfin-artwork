@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Peacock",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274775"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

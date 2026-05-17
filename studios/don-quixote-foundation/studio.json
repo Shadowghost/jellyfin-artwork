@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Don Quixote Foundation",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "261695"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

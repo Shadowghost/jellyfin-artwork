@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Bombero International",
+    "country": "DE",
+    "headquarters": "Hamburg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "54306",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mFVzFYDOshvXcKvhqQ0nCjsoegf.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

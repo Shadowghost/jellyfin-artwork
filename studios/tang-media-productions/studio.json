@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tang Media Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96082"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Kinowelt",
+    "country": "DE",
+    "headquarters": "Leipzig",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2051",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3RKFvKecXHIi3ngHhK7a6pIBX9R.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

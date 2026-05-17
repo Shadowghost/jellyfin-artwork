@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Studio Xilam",
+    "description": "French animation studio founded by Marc du Pontavice, known for Oggy and the Cockroaches, Zig & Sharko, and The Daltons.",
+    "country": "FR",
+    "type": "studio",
+    "homepage": "https://www.miam-animation.com/index.html",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145974",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vm5VubhXqnWjGgGCCRLqSBdfHf8.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Xilam Animation"
+    ]
+  }
+]

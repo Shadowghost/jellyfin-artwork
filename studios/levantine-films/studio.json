@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Levantine Films",
+    "country": "US",
+    "homepage": "https://www.levantine-films.com/",
+    "headquarters": "New York, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83024",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rW2LeKnt5DzczmZfq1MAmIDuaSa.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Lionsgate Television",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224800",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zzULw9w7d50BHR8fE30PZT3zJ1D.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

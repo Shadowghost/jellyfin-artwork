@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Anime Houdai",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "206965"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "NBCUniversal Television",
+    "description": "Television production and distribution division of NBCUniversal, encompassing broadcast, cable and streaming operations.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "279392",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oGteYM4lIwNawDJvnv07pFwZsPR.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

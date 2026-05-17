@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Paramount Television Studios",
+    "country": "US",
+    "homepage": "https://www.paramountpictures.com/television",
+    "headquarters": "Hollywood, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "228633",
+        "logo_uri": "https://image.tmdb.org/t/p/original/of4mmVt6egYaO9oERJbuUxMOTkj.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Tamakoshi",
+    "country": "JP",
+    "homepage": "https://www.tamakoshi.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209106",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zkygbxUhAdlPcuXpclQCZbmy9tF.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

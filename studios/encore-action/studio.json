@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Encore Action",
+    "description": "American premium cable channel under the Encore brand showing action films; rebranded Starz Encore Action and later discontinued.",
+    "country": "US",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179922"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

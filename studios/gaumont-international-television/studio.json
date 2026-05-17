@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Gaumont International Television",
+    "description": "US-based television production division of French film company Gaumont, producer of series such as Hannibal, Narcos, and F is for Family.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://www.gaumonttelevision.com/",
+    "headquarters": "West Hollywood, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36812",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t0cibwMPVH7RD7UsQNqmugDMnw7.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

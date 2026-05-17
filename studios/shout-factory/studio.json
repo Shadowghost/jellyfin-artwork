@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Shout! Factory",
+    "description": "American multi-platform media company specializing in home video, releasing TV series, films, anime (via Shout! Factory and GKids partnerships) and music.",
+    "country": "US",
+    "type": "distributor",
+    "homepage": "https://www.shoutfactory.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12852",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a2yqtzhDsTCsgccaed7tVCWjkhD.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

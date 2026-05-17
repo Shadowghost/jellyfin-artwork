@@ -1,0 +1,19 @@
+[
+  {
+    "name": "MMT",
+    "country": "JP",
+    "homepage": "https://www.moment-movie.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200656"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Kyushu Asahi Broadcasting",
+    "description": "Japanese commercial radio and TV broadcaster (KBC) based in Fukuoka, affiliated with TV Asahi's ANN network on TV and National Radio Network on radio.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://kbc.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35119",
+        "logo_uri": "https://image.tmdb.org/t/p/original/73mdRjWDMFQr3n4ba4JcAsFZbuN.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Mandalay Pictures",
+    "country": "US",
+    "homepage": "https://www.mandalay.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "551",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jSlzEZZ4Z1g7B2UExjZEIKsUvD9.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

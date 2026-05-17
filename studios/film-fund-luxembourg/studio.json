@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Film Fund Luxembourg",
+    "country": "LU",
+    "homepage": "http://www.filmfund.lu/",
+    "headquarters": "5 rue Plaetis,L-2338 Luxembourg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11776",
+        "logo_uri": "https://image.tmdb.org/t/p/original/33JMuTtwY5UhPwkmCEyH1YaCD23.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

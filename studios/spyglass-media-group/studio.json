@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Spyglass Media Group",
+    "description": "Los Angeles-based independent film and television production and finance company led by Gary Barber; originally founded as Spyglass Entertainment in 1998 and revived as Spyglass Media Group in 2019.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://spyglassmediagroup.com",
+    "headquarters": "Century City, Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143790",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wo1smiXdiwwxai2dwJlRiGwE7rS.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Dexter Pictures",
+    "country": "KR",
+    "headquarters": "Mapo, Seoul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126469",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bGyjmuB0UsD3ywGVbGUPb0xy8sn.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

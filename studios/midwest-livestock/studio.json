@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Midwest Livestock",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184690"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

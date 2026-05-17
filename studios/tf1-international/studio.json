@@ -1,0 +1,20 @@
+[
+  {
+    "name": "TF1 International",
+    "description": "Film and audiovisual rights division of France's TF1 Group, encompassing TF1 Films Production (theatrical co-production), TF1 International / TF1 Droits Audiovisuels (international sales) and related labels.",
+    "country": "FR",
+    "type": "distributor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7799"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "DAZN",
+    "description": "British over-the-top sports subscription streaming service owned by DAZN Group.",
+    "country": "GB",
+    "type": "streaming-service",
+    "homepage": "https://www.dazn.com/",
+    "colors": [
+      {
+        "name": "DAZN Yellow",
+        "hex": "#F8FF13"
+      },
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135210",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uVtnYQgOoNZePh5Jm4f7mXNG1uH.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

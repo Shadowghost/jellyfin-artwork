@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Fosun Pictures",
+    "description": "Chinese film production and investment company, subsidiary of Fosun International.",
+    "country": "CN",
+    "type": "production-company",
+    "headquarters": "Beljing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102774",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9novy7zPpam3XVmfE3jXG4MexAr.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

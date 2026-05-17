@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Anyway Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40240"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Région Wallone",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11920"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

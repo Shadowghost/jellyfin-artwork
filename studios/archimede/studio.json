@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Archimede",
+    "country": "IT",
+    "homepage": "http://www.matteogarrone.eu",
+    "headquarters": "Rome",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53334",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nuY4cvsxmTTHrGATRil6uLLHry5.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "La Trini",
+    "country": "ES",
+    "homepage": "http://www.latrini.net/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53490",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vxp5kGnG7XIixTsYWtonNzarBUB.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

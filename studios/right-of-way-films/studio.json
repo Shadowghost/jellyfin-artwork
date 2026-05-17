@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Right of Way Films",
+    "country": "US",
+    "homepage": "http://rightofwayfilms.net",
+    "headquarters": "West Hollywood, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32157",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4hOCk25Ce8s242NItnwtV7aKRWY.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

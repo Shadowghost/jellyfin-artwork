@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Bloom",
+    "country": "US",
+    "homepage": "http://www.bloom-media.com",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32554"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

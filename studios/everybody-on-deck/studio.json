@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Everybody on Deck",
+    "country": "FR",
+    "homepage": "https://www.everybodyondeck-prod.com/",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33963",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ly8PKNjEeAypDKJHbyS4OUNuxKI.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

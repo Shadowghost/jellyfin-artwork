@@ -1,0 +1,21 @@
+[
+  {
+    "name": "BNP Paribas Fortis",
+    "country": "BE",
+    "homepage": "https://www.bnpparibasfortis.com",
+    "headquarters": "Brussels",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11997",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jh15xr7Y10ZrgY1BwE3LGwcseu7.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

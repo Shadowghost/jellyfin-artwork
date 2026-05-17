@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Splash Entertainment",
+    "description": "American animation studio (formerly Mike Young Productions) that produces and distributes children's animated television series including Strawberry Shortcake and Pet Alien.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://splashentertainment.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67327",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xm66FBzan9XpWv4LGaIaPGVCqGv.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

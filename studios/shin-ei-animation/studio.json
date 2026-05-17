@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Shin-Ei Animation",
+    "country": "JP",
+    "homepage": "http://www.shin-ei-animation.jp",
+    "headquarters": "Nishitokyo, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5141",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fK2QKfHdSdw42Xx4MiD7KhDufBV.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

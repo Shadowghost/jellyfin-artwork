@@ -1,0 +1,21 @@
+[
+  {
+    "name": "RocketScience",
+    "country": "GB",
+    "homepage": "https://www.rocket-science.net",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52059",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rajoRd4i5xJKHAqFyeflFBMUBZM.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

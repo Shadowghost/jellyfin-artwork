@@ -1,0 +1,21 @@
+[
+  {
+    "name": "SunnyMarch",
+    "country": "GB",
+    "homepage": "http://www.sunnymarch.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92346",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qyqhyTbYHRmU2QcRomm4AeGiN0g.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

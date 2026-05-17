@@ -1,0 +1,21 @@
+[
+  {
+    "name": "FilmColony",
+    "country": "US",
+    "homepage": "http://filmcolony.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1811",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3yDJuCucOl41d9z3712l5gER0Md.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "27KM'B Pictures",
+    "country": "DE",
+    "homepage": "https://www.27kmb.com",
+    "headquarters": "Hambug",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "278055",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ksGFwcuwcnj1McS5YAxaUo75h9P.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

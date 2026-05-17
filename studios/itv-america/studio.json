@@ -1,0 +1,26 @@
+[
+  {
+    "name": "ITV America",
+    "description": "Global content business and production arm of ITV plc; ITV America is its US production unit, behind unscripted shows like Hell's Kitchen, Queer Eye and Pawn Stars.",
+    "country": "GB",
+    "type": "production-company",
+    "homepage": "https://itvstudios.com/",
+    "headquarters": "London, England, UK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24546",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AffgIsVKcudKagSu3MV3phsV5Vw.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "ITV Studios"
+    ]
+  }
+]

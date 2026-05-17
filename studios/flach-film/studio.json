@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Flach Film",
+    "country": "FR",
+    "homepage": "https://www.flachfilm.com",
+    "headquarters": "Boulogne-Billancourt",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "324"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

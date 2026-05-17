@@ -1,0 +1,20 @@
+[
+  {
+    "name": "SANKYO",
+    "country": "JP",
+    "homepage": "https://www.sankyo-fever.co.jp/en/corporate/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "43682",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3OTFn2ZFNtfPdPCamfmdyrUy1fI.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

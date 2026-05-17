@@ -1,0 +1,20 @@
+[
+  {
+    "name": "ABC1",
+    "description": "Primary television channel of the Australian Broadcasting Corporation, known as ABC1 from 2008-2014.",
+    "country": "AU",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "291648"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

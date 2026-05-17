@@ -1,0 +1,21 @@
+[
+  {
+    "name": "4 1/2",
+    "country": "NO",
+    "homepage": "http://fireogenhalv.no",
+    "headquarters": "Oslo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7843",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t0GdV2JfyWFlAKSYYXe0j2Co368.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

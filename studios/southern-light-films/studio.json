@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Southern Light Films",
+    "country": "AU",
+    "homepage": "http://www.southernlightfilms.com",
+    "headquarters": "Sydney, New South Wales",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55251"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dahlstar",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157697"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

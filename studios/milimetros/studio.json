@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Milimetros",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7960"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

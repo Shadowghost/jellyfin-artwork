@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Amazon Freevee",
+    "description": "Free ad-supported streaming television service owned by Amazon, formerly known as IMDb TV; shut down in 2024 and merged into Prime Video.",
+    "country": "US",
+    "type": "streaming-service",
+    "colors": [
+      {
+        "name": "Amazon Orange",
+        "hex": "#FF9900"
+      }
+    ],
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

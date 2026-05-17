@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Westside Filmproduktion",
+    "country": "DE",
+    "homepage": "http://westside-film.de",
+    "headquarters": "Krefeld",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5753",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bYvLZdxa42nZ9aQaCHgTqY5QnNp.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

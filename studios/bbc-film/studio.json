@@ -1,0 +1,21 @@
+[
+  {
+    "name": "BBC Film",
+    "country": "GB",
+    "homepage": "https://www.bbc.co.uk/bbcfilm",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "288",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aW0IpM9d4Zjj978EqgDVSxXXhTj.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "A-1 Pictures",
+    "description": "Japanese animation studio founded in 2005 by Aniplex, known for series such as Sword Art Online, Fairy Tail, and Kaguya-sama: Love is War.",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "http://a1p.jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13113",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

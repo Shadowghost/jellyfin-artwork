@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Walt Disney Productions",
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3166",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jmPS1qPfKnISciDF7RnUbh48jvK.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

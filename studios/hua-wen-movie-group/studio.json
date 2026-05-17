@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hua Wen Movie Group",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109383"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

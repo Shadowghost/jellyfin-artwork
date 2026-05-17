@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Saban Films",
+    "description": "American independent film distributor and acquirer of action and genre films.",
+    "country": "US",
+    "type": "distributor",
+    "homepage": "http://www.sabanfilms.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76992",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mw3j3P8SUQJKLSJQrLKuSDO9Xr6.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

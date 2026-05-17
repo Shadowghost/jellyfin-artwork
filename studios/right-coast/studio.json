@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Right Coast",
+    "country": "US",
+    "headquarters": "East Hampton, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8909"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

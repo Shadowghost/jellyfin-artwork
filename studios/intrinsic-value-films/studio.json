@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Intrinsic Value Films",
+    "country": "US",
+    "homepage": "https://intrinsicvaluefilms.com",
+    "headquarters": "New York, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2828",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lIsBprOFBD4VNs2DnDWO81EcsL9.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

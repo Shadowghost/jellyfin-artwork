@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Yong Film",
+    "country": "KR",
+    "headquarters": "Seongdong, Seoul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49096",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dj9VQ8Tqw4OTP8h5JkSOQGpEeMR.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "MMC Studios",
+    "country": "DE",
+    "headquarters": "Köln, Germany",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30299",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f8m7xOHS13J8il2j8kaVDQNaslO.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

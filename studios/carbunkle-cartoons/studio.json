@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Carbunkle Cartoons",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17553"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

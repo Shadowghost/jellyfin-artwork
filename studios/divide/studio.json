@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Divide",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86722"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Instituto Nacional de Cine y Artes Audiovisuales",
+    "description": "Argentine government agency responsible for fostering and regulating film and audiovisual arts.",
+    "country": "AR",
+    "type": "government-agency",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6458"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

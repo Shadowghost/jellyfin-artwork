@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nagoya TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "228522"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

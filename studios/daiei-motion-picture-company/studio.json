@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Daiei Film",
+    "description": "Major Japanese film studio founded in 1942, known for producing Kurosawa's Rashomon and the Gamera franchise; bankrupted in 1971, revived, and merged into Kadokawa Pictures in 2002.",
+    "country": "JP",
+    "type": "studio",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "880",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vwhPRAZ4lhUtSuaifk4Au2MIm92.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

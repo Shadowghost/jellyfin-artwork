@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Serendipity Point Films",
+    "country": "CA",
+    "homepage": "https://www.serendipitypoint.com",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "805",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A83WG8qZA4JdaudhJl0G3iG6W4M.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

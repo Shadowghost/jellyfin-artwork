@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Cosmote TV",
+    "country": "GR",
+    "homepage": "https://www.cosmote.gr/",
+    "headquarters": "Marousi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115308",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5FP51Vqper685TpfOurr9plMRwb.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

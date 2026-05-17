@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Anitus Kōbe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120834"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

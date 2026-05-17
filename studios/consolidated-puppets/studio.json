@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Consolidated Puppets",
+    "country": "US",
+    "headquarters": "Eden Prairie, Minnesota",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1310"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

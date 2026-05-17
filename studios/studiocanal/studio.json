@@ -1,0 +1,23 @@
+[
+  {
+    "name": "StudioCanal",
+    "description": "French film studio and distributor owned by Canal+ Group, one of the largest film libraries in Europe with operations in France, UK, Germany and beyond.",
+    "country": "FR",
+    "type": "studio",
+    "homepage": "http://www.studiocanal.fr",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "694",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5LEHONGkZBIoWvp1ygHOF8iyi1M.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

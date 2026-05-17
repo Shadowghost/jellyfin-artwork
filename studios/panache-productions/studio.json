@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Panache Productions",
+    "country": "BE",
+    "homepage": "https://www.panacheproductions.be/en",
+    "headquarters": "Lasne",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12407",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g11ZDtSicimXi5MmwUznAsEomXZ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

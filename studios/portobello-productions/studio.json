@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Portobello Productions",
+    "country": "GB",
+    "homepage": "http://www.portobelloproductions.com",
+    "headquarters": "London",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122619"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

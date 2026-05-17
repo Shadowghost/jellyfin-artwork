@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Ealing Studios",
+    "country": "GB",
+    "homepage": "http://www.ealingstudios.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2650",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sDWe94w5fuyfgfRKc3N27CSJvsD.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

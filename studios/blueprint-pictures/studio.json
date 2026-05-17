@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Blueprint Pictures",
+    "country": "GB",
+    "homepage": "https://www.blueprintpictures.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2376",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yeNoWmSHZfvKsBYuL8uTRE4LPdQ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

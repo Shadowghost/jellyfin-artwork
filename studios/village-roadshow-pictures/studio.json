@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Village Roadshow Pictures",
+    "country": "US",
+    "homepage": "https://vreg.com/film/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79",
+        "logo_uri": "https://image.tmdb.org/t/p/original/at4uYdwAAgNRKhZuuFX8ShKSybw.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

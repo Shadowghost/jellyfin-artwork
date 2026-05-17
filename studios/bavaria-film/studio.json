@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Bavaria Film",
+    "description": "One of Europe's largest film and television production companies, based at Bavaria Film Studios in Munich, Germany.",
+    "country": "DE",
+    "type": "production-company",
+    "homepage": "https://www.bavaria-film.de",
+    "headquarters": "Munich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1704",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sb3PuMTgJgpPUY7x634etBAhodu.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

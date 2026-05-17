@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nord Art AB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41269"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Rooster Teeth",
+    "description": "American digital media and production company best known for Red vs. Blue and RWBY; shut down by Warner Bros. Discovery in May 2024.",
+    "country": "US",
+    "type": "production-company",
+    "colors": [
+      {
+        "name": "Rooster Teeth Orange",
+        "hex": "#F1671E"
+      },
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17412",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mWttB7AboQmh1ij0e9yo0dFdz3c.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

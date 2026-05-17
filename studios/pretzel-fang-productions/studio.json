@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pretzel Fang Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101889"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

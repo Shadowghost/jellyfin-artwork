@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Orka",
+    "country": "PL",
+    "homepage": "https://orkafilm.pl/",
+    "headquarters": "Warsaw",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "68045",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nBxkA3fLDpLhngvt8l5lun7fJxk.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

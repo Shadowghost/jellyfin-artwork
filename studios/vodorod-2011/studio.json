@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vodorod 2011",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89458"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

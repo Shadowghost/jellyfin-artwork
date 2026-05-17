@@ -1,0 +1,19 @@
+[
+  {
+    "name": "5000 Broadway Productions",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122645",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ujqjqvWtJxP24nAwmRvksaPTDoo.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

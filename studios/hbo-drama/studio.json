@@ -1,0 +1,30 @@
+[
+  {
+    "name": "HBO Drama",
+    "description": "Themed-genre branded version of HBO focusing on drama programming, operated by HBO.",
+    "country": "US",
+    "type": "cable-network",
+    "colors": [
+      {
+        "name": "HBO Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "HBO White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96883"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

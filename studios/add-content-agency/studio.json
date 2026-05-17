@@ -1,0 +1,21 @@
+[
+  {
+    "name": "ADD Content Agency",
+    "country": "IL",
+    "homepage": "https://add-ca.com",
+    "headquarters": "Ramat Hasharon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129265",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lt6wY0iZQf0YwvDc5Dc2wpJYrT1.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

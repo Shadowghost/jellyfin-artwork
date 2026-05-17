@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Shueisha",
+    "description": "Major Japanese publishing company best known for Weekly Shōnen Jump, publisher of manga franchises including One Piece, Naruto, Dragon Ball, and Demon Slayer.",
+    "country": "JP",
+    "type": "publisher",
+    "homepage": "https://www.shueisha.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2918",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gyEWUBWwqrm3H5T2hkERD9LxpOq.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

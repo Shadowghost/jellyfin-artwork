@@ -1,0 +1,26 @@
+[
+  {
+    "name": "HBO Canada",
+    "description": "Former Canadian premium television service launched in 2008 as a joint co-branded service by HBO and Canadian broadcasters; discontinued in 2019.",
+    "country": "CA",
+    "type": "cable-network",
+    "colors": [
+      {
+        "name": "HBO Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "254517"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

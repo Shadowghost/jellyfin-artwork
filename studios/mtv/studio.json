@@ -1,0 +1,33 @@
+[
+  {
+    "name": "MTV",
+    "description": "American cable channel originally focused on music videos, owned by Paramount Global.",
+    "country": "US",
+    "type": "cable-network",
+    "homepage": "https://www.mtv.com/",
+    "headquarters": "San Diego, California",
+    "colors": [
+      {
+        "name": "MTV Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "MTV Yellow",
+        "hex": "#FFF200"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8136",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zHS0wY1haJ3GOvkHFOf8Dfjkyt3.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

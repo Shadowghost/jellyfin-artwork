@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Moho Film",
+    "country": "KR",
+    "headquarters": "Goyang, Gyeonggi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34725",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cRqXC6Dy6AvTGS2wiMt26yGJgZA.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

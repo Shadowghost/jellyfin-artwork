@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Nadcon Film",
+    "country": "DE",
+    "homepage": "https://www.nadcon-film.de/",
+    "headquarters": "Cologne",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114640",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cuRdmReiXVPxFREh8pYhrBCigsd.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

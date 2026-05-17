@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Summit",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7509"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

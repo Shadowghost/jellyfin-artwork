@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Mitsui & Co.",
+    "description": "One of Japan's largest sogo shosha (general trading companies), based in Tokyo; occasionally co-finances film and media productions.",
+    "country": "JP",
+    "type": "other",
+    "headquarters": "Chiyoda, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11738",
+        "logo_uri": "https://image.tmdb.org/t/p/original/TlCH4GqCSlYEC3WN1y5Yk6IiOv.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

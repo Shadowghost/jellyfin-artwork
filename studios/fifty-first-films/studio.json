@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fifty First Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52619"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

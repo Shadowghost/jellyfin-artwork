@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Treehouse Pictures",
+    "country": "US",
+    "homepage": "http://treehouse.pictures/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14580",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2D5VOYRTCnZXIcHVYsHXSWTuH6T.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

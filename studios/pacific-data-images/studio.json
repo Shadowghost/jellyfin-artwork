@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Pacific Data Images",
+    "description": "American computer animation production company, eventually owned by DreamWorks Animation; co-produced Antz, Shrek, and Madagascar before being shut down in 2015.",
+    "country": "US",
+    "type": "studio",
+    "headquarters": "Redwood City, California, USA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "520",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pU7YTI9FfrICurXpl5V9TfCO0oJ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Les Films du Losange",
+    "country": "FR",
+    "homepage": "http://www.filmsdulosange.fr/en/",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pdthRbCuXNlrGNwnmLFRxv5Zy3t.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

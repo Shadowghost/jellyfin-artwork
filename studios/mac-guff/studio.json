@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Mac Guff",
+    "description": "French animation and visual effects studio in Paris; its feature animation division was spun off in 2011 to become Illumination Mac Guff, the production unit of Illumination Entertainment.",
+    "country": "FR",
+    "type": "studio",
+    "homepage": "http://www.macguff.fr",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19890",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pnStF74qoRvrhJuktGJZCUCGX9W.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

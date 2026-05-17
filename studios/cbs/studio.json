@@ -1,0 +1,31 @@
+[
+  {
+    "name": "CBS",
+    "description": "American commercial broadcast television and radio network owned by Paramount Global.",
+    "country": "US",
+    "type": "broadcast-network",
+    "colors": [
+      {
+        "name": "CBS Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "CBS White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4898",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nm8d7P7MJNiBLdgIzUK0gkuEA4r.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

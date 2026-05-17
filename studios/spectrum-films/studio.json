@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Spectrum Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197842"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

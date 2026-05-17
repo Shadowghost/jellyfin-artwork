@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MoveMe I",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248731"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

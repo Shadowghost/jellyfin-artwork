@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Aperture Entertainment",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33832",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xql8tFVgctv4JaAvQ886hC7S6iy.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

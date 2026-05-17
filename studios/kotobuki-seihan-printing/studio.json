@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Kotobuki Seihan Printing",
+    "country": "JP",
+    "homepage": "https://www.rex.co.jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201821"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

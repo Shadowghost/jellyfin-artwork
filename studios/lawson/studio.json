@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Lawson",
+    "country": "JP",
+    "homepage": "https://www.lawson.co.jp/",
+    "headquarters": "Shinagawa, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11849",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ssKAToULWqC6LJXOJWtd0O3VdV0.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

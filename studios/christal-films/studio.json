@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Christal Films",
+    "country": "CA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "749",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vdl6tOwJ4O75gFEC5gDk17Fop88.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

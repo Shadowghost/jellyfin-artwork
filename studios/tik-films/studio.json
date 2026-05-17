@@ -1,0 +1,19 @@
+[
+  {
+    "name": "TIK Films",
+    "country": "HK",
+    "homepage": "http://www.tikfilms.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72441"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

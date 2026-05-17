@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Hugofilm",
+    "country": "CH",
+    "homepage": "https://www.hugofilm.ch",
+    "headquarters": "Zurich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26987",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6j5zyBMCJV1QS0kR0XWWyzk1VUI.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

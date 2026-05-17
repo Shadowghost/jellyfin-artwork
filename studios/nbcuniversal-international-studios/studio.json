@@ -1,0 +1,21 @@
+[
+  {
+    "name": "NBCUniversal International Studios",
+    "country": "US",
+    "homepage": "http://nbcuintl.com/",
+    "headquarters": "New York, New York, United States",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95155",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jP8OSOixO5NGJbVTVwkOBiItWnr.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

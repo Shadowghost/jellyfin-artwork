@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Artist Studio",
+    "country": "KR",
+    "homepage": "https://www.artistcompany.co.kr/film/",
+    "headquarters": "Gangnam, Seoul, South Korea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213755",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k6PPL4oCQ3ijzzL8OaBcmBcuvAU.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

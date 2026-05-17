@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Spring Films",
+    "country": "PH",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9158"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

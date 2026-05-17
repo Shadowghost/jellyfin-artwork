@@ -1,0 +1,21 @@
+[
+  {
+    "name": "WDR",
+    "country": "DE",
+    "homepage": "https://www1.wdr.de/index.html",
+    "headquarters": "Cologne",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3xFdKHLXPGHEbrAkmsepGE8974Y.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

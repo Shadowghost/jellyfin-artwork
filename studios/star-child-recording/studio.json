@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Star Child Recording",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21504"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

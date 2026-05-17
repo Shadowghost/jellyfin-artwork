@@ -1,0 +1,17 @@
+[
+  {
+    "name": "C.O.R.E. Feature Animation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58323"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

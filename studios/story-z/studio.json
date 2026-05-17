@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Story Z",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219194"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

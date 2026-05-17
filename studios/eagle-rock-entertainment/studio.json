@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Eagle Rock Entertainment",
+    "country": "GB",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8273",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pXZ6qUs6bZUsS5zsRXrojW9aZ1f.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

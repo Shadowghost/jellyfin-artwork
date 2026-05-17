@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Mythology Entertainment",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34982",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uvTmiRZzNfG88dVXi9hQ7eFNirq.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

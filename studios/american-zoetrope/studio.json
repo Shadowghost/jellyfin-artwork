@@ -1,0 +1,23 @@
+[
+  {
+    "name": "American Zoetrope",
+    "description": "Independent American film studio founded by Francis Ford Coppola and George Lucas in San Francisco.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.zoetrope.com",
+    "headquarters": "San Francisco, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ueaENQkPcy8rlr5fGZVBXKOhlBh.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Unbranded Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150316"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

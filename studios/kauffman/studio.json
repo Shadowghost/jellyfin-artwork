@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Kauffman",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31810",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3oyBCnFO3tIRmny3yzYQpF5n2cS.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

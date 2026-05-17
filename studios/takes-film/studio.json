@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Takes Film",
+    "country": "GE",
+    "homepage": "http://takesfilm.com/",
+    "headquarters": "Tbilisi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117875",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x7Yj6g7UX1R3PZEPPtJXV90Qe9r.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

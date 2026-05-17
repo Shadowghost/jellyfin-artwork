@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Filmförderung Hamburg Schleswig-Holstein",
+    "country": "DE",
+    "homepage": "https://www.ffhsh.de/en/",
+    "headquarters": "Hamburg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11680",
+        "logo_uri": "https://image.tmdb.org/t/p/original/thDuwlPhKqGkfPzk0qd6zIiSw4m.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

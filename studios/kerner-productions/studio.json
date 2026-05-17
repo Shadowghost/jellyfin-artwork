@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Kerner Productions",
+    "country": "US",
+    "homepage": "https://kernelproductions.com/",
+    "headquarters": "Chicago, Illinois",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167260",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ptgqRCxGuxR9AcHGrgeLg1lSaP9.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

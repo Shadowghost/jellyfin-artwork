@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Unified Pictures",
+    "country": "US",
+    "homepage": "http://www.unifiedpictures.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13238",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kDNZz8imH866Mezx1YhLWljoQTV.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Bedford Falls Productions",
+    "country": "US",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "348",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mztvNjgx77cXUL6vWR3r7fyeZCa.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

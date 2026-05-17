@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Metapigeon",
+    "country": "US",
+    "homepage": "https://metapigeon.com/",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191868",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2ffFKT3PbhQ29jgJ48pzoy7ktsu.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

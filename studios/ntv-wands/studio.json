@@ -1,0 +1,21 @@
+[
+  {
+    "name": "NTV Wands",
+    "country": "JP",
+    "homepage": "https://www.ntv-wands.co.jp/",
+    "headquarters": "Minato, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210428",
+        "logo_uri": "https://image.tmdb.org/t/p/original/myiYc43ARkYcvPEjn5U8tsSvH4T.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

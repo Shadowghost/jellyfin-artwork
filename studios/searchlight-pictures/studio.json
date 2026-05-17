@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Searchlight Pictures",
+    "country": "US",
+    "homepage": "http://www.searchlightpictures.com",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127929",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7DLKyL15ETI9645XSr9JcbMV79c.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

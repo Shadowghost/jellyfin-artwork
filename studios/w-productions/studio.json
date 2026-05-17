@@ -1,0 +1,25 @@
+[
+  {
+    "name": "W Productions",
+    "description": "American film production company founded by Tom Cruise and Paula Wagner; produced Mission: Impossible series among others.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "44",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6Hs6K20Hz1W9W1Tiam5QN2Kpx8V.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Cruise/Wagner Productions"
+    ]
+  }
+]

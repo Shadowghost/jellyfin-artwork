@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Leonine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98803"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NT2 Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20013"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

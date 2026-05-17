@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Epic Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1988"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "NADA Holdings",
+    "country": "TW",
+    "homepage": "https://nadaholdings.com/en/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166290",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lyJDfewUB6dECfcU95hZwiqMduZ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Graal",
+    "country": "GR",
+    "homepage": "http://graal.gr",
+    "headquarters": "Athens",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8943",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ap6EIp6w76kOSkA65Lbk7ICTjc0.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Image Entertainment",
+    "description": "American home video distributor founded in 1981 (LaserDiscs, later DVDs); acquired by RLJ Acquisition in 2012 and rebranded RLJE Films in 2018.",
+    "country": "US",
+    "type": "distributor",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3086",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iksa7hXQMvPIzfSq0Tuo4WPU8gc.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

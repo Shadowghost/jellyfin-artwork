@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Javelin Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105531"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

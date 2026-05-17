@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio West Productions(VCC)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23633"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

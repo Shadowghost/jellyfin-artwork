@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BSS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22833"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

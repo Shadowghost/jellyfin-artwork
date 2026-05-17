@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Toei Company",
+    "description": "Japanese film and television production studio; owns Toei Animation and produces tokusatsu series like Kamen Rider and Super Sentai.",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "https://www.toei.co.jp",
+    "headquarters": "Chuo, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5822",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qyTbRgCyU9NLKvKaiQVbadtr7RY.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

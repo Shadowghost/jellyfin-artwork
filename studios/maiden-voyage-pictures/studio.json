@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Maiden Voyage Pictures",
+    "country": "US",
+    "headquarters": "San Francisco, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41641",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rBlfMlCcxulmS25zTQwmXDHZmnB.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

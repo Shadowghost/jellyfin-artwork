@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Film Roman",
+    "description": "American animation production company founded by Phil Roman, known for animating The Simpsons, King of the Hill, and Garfield and Friends.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "https://filmroman.com/",
+    "headquarters": "Toluca Lake, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2XbFiOpwgdG1P1wKLqfk2kvcTdE.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

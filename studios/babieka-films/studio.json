@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Babieka Films",
+    "country": "ES",
+    "homepage": "http://www.babieka.com/",
+    "headquarters": "Madrid, Spain",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20656"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

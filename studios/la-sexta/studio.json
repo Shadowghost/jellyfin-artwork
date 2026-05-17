@@ -1,0 +1,29 @@
+[
+  {
+    "name": "laSexta",
+    "description": "Spanish free-to-air television network operated by Atresmedia, known for news and entertainment programming.",
+    "country": "ES",
+    "type": "broadcast-network",
+    "homepage": "https://www.lasexta.com",
+    "headquarters": "San Sebastián de los Reyes, Madrid",
+    "colors": [
+      {
+        "name": "laSexta Green",
+        "hex": "#75BC00"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22863",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3SxZkSo2f9RKmr8KR6Kotx3P4vl.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

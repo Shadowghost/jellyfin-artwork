@@ -1,0 +1,19 @@
+[
+  {
+    "name": "CrimeThink",
+    "country": "US",
+    "homepage": "https://www.crimethink.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196205"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

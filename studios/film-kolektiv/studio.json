@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Film Kolektiv",
+    "country": "CZ",
+    "homepage": "https://www.filmkolektiv.cz/",
+    "headquarters": "Prague",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92467",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2036VCDrFeZtxm7cm3xLHZNST22.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

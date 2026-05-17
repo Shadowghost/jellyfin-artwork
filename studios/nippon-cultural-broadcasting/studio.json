@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Nippon Cultural Broadcasting",
+    "country": "JP",
+    "homepage": "https://www.joqr.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99253",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1ediHGk2c7hlZpQij9dieunXP54.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

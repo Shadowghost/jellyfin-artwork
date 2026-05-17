@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Bravado Fiction",
+    "country": "BE",
+    "homepage": "https://bravadofiction.com",
+    "headquarters": "Brussels",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193497",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r3y0P6aqx0sCeukzB1miUqfYaFO.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

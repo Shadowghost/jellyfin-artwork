@@ -1,0 +1,21 @@
+[
+  {
+    "name": "SND",
+    "country": "FR",
+    "homepage": "https://www.snd-films.com",
+    "headquarters": "Neuilly-sur-Seine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2902",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vFmmYSgFp8eE6C34JVCXy9bJFmc.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

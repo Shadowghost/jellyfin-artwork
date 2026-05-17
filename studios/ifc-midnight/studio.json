@@ -1,0 +1,21 @@
+[
+  {
+    "name": "IFC Midnight",
+    "country": "US",
+    "homepage": "https://www.ifcfilms.com/category/midnight",
+    "headquarters": "New York, New York, USA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70784",
+        "logo_uri": "https://image.tmdb.org/t/p/original/17G3JkSIjyFBbvSkmk0xPf6pysm.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

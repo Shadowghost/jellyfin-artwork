@@ -1,0 +1,23 @@
+[
+  {
+    "name": "DHX Media",
+    "description": "Canadian children's entertainment and media company (formerly DHX Media), rebranded WildBrain in 2019; produces and distributes Peanuts, Teletubbies, Inspector Gadget and others.",
+    "country": "CA",
+    "type": "production-company",
+    "homepage": "http://www.dhxmedia.com/",
+    "headquarters": "Halifax, Nova Scotia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7225",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qcGIZjdRc1YOJPyWhBj9L2Rf3q9.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

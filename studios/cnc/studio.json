@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CNC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271654"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

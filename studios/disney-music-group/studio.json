@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Disney Music Group",
+    "description": "American multinational music umbrella company of The Walt Disney Company, encompassing Walt Disney Records and Hollywood Records.",
+    "country": "US",
+    "type": "record-label",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160956"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

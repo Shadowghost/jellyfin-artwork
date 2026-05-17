@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Mandarin Motion Pictures 东方影业",
+    "aka": [
+      "Mandarin Motion Pictures"
+    ],
+    "country": "HK",
+    "homepage": "http://www.mandarinfilms.com/",
+    "headquarters": "Room 4101, 41/F., Lee Garden One, 33 Hysan Avenue, Causeway Bay, Hong Kong SAR, China",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126771",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oUQxx4bQXjlrgymWliCk2KwFsCY.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

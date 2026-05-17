@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Alliance Atlantis",
+    "country": "CA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "803",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jEMVaCuEjQ3lzkhakWDKNVjwd9Q.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

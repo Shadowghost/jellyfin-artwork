@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Telenet",
+    "country": "BE",
+    "homepage": "https://www.telenet.be/",
+    "headquarters": "Mechelen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114799"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

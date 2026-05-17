@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Assemblage Entertainment",
+    "description": "Indian animation studio based in Mumbai specializing in CGI animated feature films and series.",
+    "country": "IN",
+    "type": "studio",
+    "headquarters": "Mumbai, India",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72281",
+        "logo_uri": "https://image.tmdb.org/t/p/original/FWCnTJNIZ60dHIPGpe6wVDwk1C.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "TSUTAYA Group",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142097",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3iwWfwCNqnjQ2xrIPq3PRu1rwQx.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

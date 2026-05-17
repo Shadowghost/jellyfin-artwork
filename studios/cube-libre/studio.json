@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cube Libre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22207"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

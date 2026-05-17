@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KDDI Corporation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11848"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

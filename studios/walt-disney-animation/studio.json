@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Walt Disney Animation",
+    "description": "American animation studio, division of The Walt Disney Company; one of the oldest animation studios in the world, producer of Snow White, Frozen, Moana, and Zootopia.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "https://www.disneyanimation.com/",
+    "headquarters": "Burbank, California",
+    "colors": [
+      {
+        "name": "Disney Blue",
+        "hex": "#0E5181"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6125",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8bH86UPmMP8hlITzXV3XgV9eaAc.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Walt Disney Animation Studios"
+    ]
+  }
+]

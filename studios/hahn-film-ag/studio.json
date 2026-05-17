@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Hahn Film AG",
+    "country": "DE",
+    "homepage": "https://www.hahnfilm.com/",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20441"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

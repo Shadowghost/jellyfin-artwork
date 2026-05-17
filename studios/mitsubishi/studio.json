@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Mitsubishi",
+    "description": "Japanese multinational keiretsu (conglomerate) of autonomous companies sharing the three-diamond mark, founded by Yataro Iwasaki in 1870; Mitsubishi Shoji is the historic name of its trading arm, Mitsubishi Corporation.",
+    "country": "JP",
+    "type": "other",
+    "homepage": "http://www.mitsubishi.com/",
+    "headquarters": "Tokyo, Japan",
+    "colors": [
+      {
+        "name": "Mitsubishi Red",
+        "hex": "#E60012"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11847",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rZP0I1p3hZNUMNFPHUSal6rWThQ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

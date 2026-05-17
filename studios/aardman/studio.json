@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Aardman",
+    "description": "British animation studio known for stop-motion clay animation including Wallace & Gromit, Chicken Run, and Shaun the Sheep.",
+    "country": "GB",
+    "type": "studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "297"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Aardman Animations"
+    ]
+  }
+]

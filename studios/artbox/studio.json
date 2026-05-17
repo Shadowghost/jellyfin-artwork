@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Artbox",
+    "description": "Animation/production studio; identity uncertain from slug alone.",
+    "country": "JP",
+    "type": "production-company",
+    "homepage": "http://www.ab-artbox.jp/",
+    "headquarters": "Shimoigusa, Suginami, Tokyo, Japan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115575"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

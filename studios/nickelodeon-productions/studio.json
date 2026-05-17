@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Nickelodeon Productions",
+    "country": "US",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5371",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7EFsFPaWY5DFn8s9rz2ORHxAw0y.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

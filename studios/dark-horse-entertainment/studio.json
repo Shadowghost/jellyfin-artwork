@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Dark Horse Entertainment",
+    "description": "American film and television production company, the entertainment arm of Dark Horse Comics; producer of The Mask, Hellboy, Sin City, and others.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.dhentertainment.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "552",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9dGdLfm3GteWeUDtD9c9tvlidUG.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

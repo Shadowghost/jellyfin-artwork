@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Tripictures",
+    "country": "ES",
+    "homepage": "https://tripictures.com",
+    "headquarters": "Madrid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1994",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mQmfVHOKd6BIt3PhjRDvlCsnhNe.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

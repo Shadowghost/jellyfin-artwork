@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Relativity Media",
+    "description": "American film and television production company founded by Ryan Kavanaugh, known for The Social Network and Limitless; has filed for bankruptcy multiple times.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://relativitymedia.com",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7295",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5MYE96QiE5a5oFhXxFb4y8ILSpw.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

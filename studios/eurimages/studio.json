@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Eurimages",
+    "description": "Council of Europe cultural support fund providing co-production financing for European cinema.",
+    "country": "FR",
+    "type": "other",
+    "homepage": "https://www.coe.int/en/web/eurimages",
+    "headquarters": "Strasbourg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "850",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aF7qajGJGtMpdrtvssM9g90YanX.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

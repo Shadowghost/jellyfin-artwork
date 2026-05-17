@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Tardo Filmes",
+    "country": "BR",
+    "homepage": "https://www.tardo.com.br/",
+    "headquarters": "Ceará",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99946",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uPcHInz5ovwPFL5fQlSTDvgVYCO.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Frontier Works",
+    "country": "JP",
+    "homepage": "https://www.fwinc.co.jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5809",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bViN2LqqtONjOTkYmPtnMNaVOtD.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

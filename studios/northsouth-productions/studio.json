@@ -1,0 +1,20 @@
+[
+  {
+    "name": "NorthSouth Productions",
+    "country": "US",
+    "homepage": "https://northsouth.tv/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25194",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3lL4kF44eERVOyoK5qyxrvXqTBG.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

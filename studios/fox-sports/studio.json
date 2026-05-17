@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Fox Sports",
+    "description": "American sports programming division of the Fox Broadcasting Company, operating cable channels and a national sports network.",
+    "country": "US",
+    "type": "cable-network",
+    "colors": [
+      {
+        "name": "Fox Sports Blue",
+        "hex": "#1A2B5F"
+      },
+      {
+        "name": "Fox Sports Yellow",
+        "hex": "#FFCC00"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79258",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uBnyVDQ58rxDCqOEh9J2ghfffDj.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

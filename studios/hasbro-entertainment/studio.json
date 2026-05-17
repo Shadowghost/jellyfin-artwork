@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Hasbro Entertainment",
+    "description": "Entertainment division of Hasbro producing film, television and digital content based on Hasbro's brands (Transformers, G.I. Joe, My Little Pony).",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226732",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aJN7aveazAGKMZ3HPpCvGAx99As.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

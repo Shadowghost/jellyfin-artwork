@@ -1,0 +1,21 @@
+[
+  {
+    "name": "DreamCrew",
+    "country": "US",
+    "homepage": "https://dreamcrew.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124433",
+        "logo_uri": "https://image.tmdb.org/t/p/original/35qnhOVKH84U5hehax1QvwXfRJt.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

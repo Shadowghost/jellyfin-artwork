@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Todd-AO",
+    "description": "American post-production company and former 70mm widescreen film format pioneer founded by Mike Todd and the American Optical Company.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210179"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

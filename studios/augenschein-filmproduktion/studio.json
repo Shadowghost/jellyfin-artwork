@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Augenschein Filmproduktion",
+    "country": "DE",
+    "homepage": "http://www.augenschein-filmproduktion.de",
+    "headquarters": "Cologne",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20037",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6W92BtQOutAi9KFp0aeb41RBH95.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

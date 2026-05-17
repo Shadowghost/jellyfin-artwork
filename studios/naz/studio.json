@@ -1,0 +1,20 @@
+[
+  {
+    "name": "NAZ",
+    "country": "JP",
+    "headquarters": "Musashino, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42563",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iE1h5iSKEOVbtWh4BX4MbvVNsr5.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

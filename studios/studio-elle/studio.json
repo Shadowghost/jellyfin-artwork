@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio Elle",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194664"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

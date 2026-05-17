@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Parallel 45",
+    "country": "FR",
+    "headquarters": "Lyon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217364"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

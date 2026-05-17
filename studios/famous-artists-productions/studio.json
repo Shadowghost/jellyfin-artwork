@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Famous Artists Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1482"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ABA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233572"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

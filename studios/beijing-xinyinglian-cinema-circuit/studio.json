@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Beijing Xinyinglian Cinema Circuit",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167445"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SG Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "132380"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

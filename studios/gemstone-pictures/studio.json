@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Gemstone Pictures",
+    "country": "KR",
+    "headquarters": "Seodaemun, Seoul, South Korea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126331"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

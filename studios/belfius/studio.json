@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Belfius",
+    "description": "Belgian state-owned bank and insurance company, often credited as a financier of Belgian film productions.",
+    "country": "BE",
+    "type": "other",
+    "homepage": "https://www.belfius.be/",
+    "colors": [
+      {
+        "name": "Belfius Red",
+        "hex": "#AE0F0A"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115736"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

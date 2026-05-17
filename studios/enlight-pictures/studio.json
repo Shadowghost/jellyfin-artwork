@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Enlight Pictures",
+    "country": "CN",
+    "homepage": "https://www.ewang.com/",
+    "headquarters": "Beijing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4053"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

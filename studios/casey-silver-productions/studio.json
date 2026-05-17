@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Casey Silver Productions",
+    "country": "US",
+    "headquarters": "Venice, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "877",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n8gjQIrJ77CSFroDCuQbj5cqOaQ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "DMM.com",
+    "country": "JP",
+    "homepage": "https://www.dmm.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87211",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lzBP1lTYoqqfvGriMMdlvFWDRH7.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Tohokushinsha Film",
+    "description": "Japanese film production, dubbing, and distribution company; major Japanese-language dubber of foreign films and TV series, and a producer of anime and television programs.",
+    "country": "JP",
+    "type": "production-company",
+    "homepage": "http://www.tfc.co.jp",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1780",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4Qzhr7FxVtaMwmsh7118G3yvOhO.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "TROYCA",
+    "country": "JP",
+    "homepage": "http://troyca.jp",
+    "headquarters": "Nerima, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70163",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cwUwQqO5SNrDJoC92XTOKg7c1Gc.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

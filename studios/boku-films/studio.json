@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Boku Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15799"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Lay-duce",
+    "country": "JP",
+    "homepage": "http://lay-duce.co.jp",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "59988",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zptKwzxQ68yaipUqT6NlEUEblAw.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

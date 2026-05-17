@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Allegro Films",
+    "country": "GB",
+    "homepage": "https://www.allegrofilms.com/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258039",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7nVTWNNecZhuSs505QbFTYO0eUk.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

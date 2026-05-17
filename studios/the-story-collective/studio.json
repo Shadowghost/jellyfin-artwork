@@ -1,0 +1,21 @@
+[
+  {
+    "name": "The Story Collective",
+    "country": "GB",
+    "homepage": "https://thestorycollective.tv",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181090",
+        "logo_uri": "https://image.tmdb.org/t/p/original/55ZFpG9vk4MspZYhAyXOKFpx4GM.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

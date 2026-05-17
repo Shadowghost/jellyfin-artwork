@@ -1,0 +1,21 @@
+[
+  {
+    "name": "SVT",
+    "country": "SE",
+    "homepage": "http://svt.se",
+    "headquarters": "Stockholm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2999",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zGSqFee9aDgDuLD6vcs2mcJUem4.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

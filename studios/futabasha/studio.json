@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Futabasha",
+    "description": "Japanese publishing company known for manga magazines like Manga Action and series including Crayon Shin-chan and Lupin III.",
+    "country": "JP",
+    "type": "publisher",
+    "homepage": "https://www.futabasha.co.jp/",
+    "headquarters": "Shinjuku, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62866",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uYawQ0Lb8smRXNNCoq8gTHG92Pz.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

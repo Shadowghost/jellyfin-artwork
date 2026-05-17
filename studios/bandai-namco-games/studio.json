@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Bandai Namco Games",
+    "description": "Japanese video game publisher and entertainment company, formed in 2006 from the merger of Namco and Bandai; renamed from Namco Bandai Games to Bandai Namco Entertainment in 2014.",
+    "country": "JP",
+    "type": "production-company",
+    "homepage": "https://www.bandainamcoent.co.jp/",
+    "colors": [
+      {
+        "name": "Bandai Namco Red",
+        "hex": "#E60012"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12502",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tlBbCuZditAuvzDdIDjjnGLJUpc.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Bandai Namco Entertainment"
+    ]
+  }
+]

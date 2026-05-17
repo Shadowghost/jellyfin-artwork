@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Warner Bros. Animation",
+    "description": "American animation studio that produces theatrical and television animation, the successor to Warner Bros. Cartoons.",
+    "country": "US",
+    "type": "studio",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2785",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

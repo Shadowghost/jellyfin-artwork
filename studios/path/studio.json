@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Pathé",
+    "description": "Major French film production and distribution company, one of the oldest in the world; also operates cinema chains across Europe.",
+    "country": "FR",
+    "type": "studio",
+    "homepage": "https://pathe.com/fr/",
+    "headquarters": "Paris",
+    "colors": [
+      {
+        "name": "Pathé Red",
+        "hex": "#E30613"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7981",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

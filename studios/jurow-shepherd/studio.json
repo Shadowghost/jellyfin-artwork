@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jurow-Shepherd",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11355"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

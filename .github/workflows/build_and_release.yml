@@ -15,18 +15,25 @@ jobs:
         with:
           node-version: "24"
       - name: Install build dependencies
-        run: npm install svgo
+        run: |
+          npm install svgo
+          sudo apt-get update
+          sudo apt-get install -y librsvg2-bin webp
       - name: Create dist directory
         run: mkdir dist
       - name: Copy source SVGs
         run: cp -r studios dist/
       - name: Optimize source SVGs
         run: npx svgo --multipass dist/studios/**/*.svg
-      - name: ImageMagick Action
-        uses: jruipinto/ImageMagick-action@v1
-        with:
-          # ImageMagick command to be executed
-          command: mogrify -format webp dist/studios/**/*.svg
+      - name: Render SVG → WebP
+        run: |
+          set -euo pipefail
+          find dist/studios -name '*.svg' -print0 \
+            | xargs -0 -n1 -P"$(nproc)" -I{} sh -c '
+                rsvg-convert "$1" \
+                  | cwebp -quiet -o "${1%.svg}.webp" -- - \
+                  || { echo "render failed: $1" >&2; exit 1; }
+              ' _ {}
       - name: Build studios.json
         run: jq -s '.[0]=([.[]]|flatten)|.[0]' studios/**/studio.json > dist/studios.json
       - name: Remove individual JSON files

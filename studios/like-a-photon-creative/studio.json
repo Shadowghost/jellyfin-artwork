@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Like A Photon Creative",
+    "country": "AU",
+    "homepage": "https://www.likeaphoton.com/",
+    "headquarters": "Brisbane, Queensland, Australia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97491",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nyz2y7vjBKPAErlDRXNkdY7KeZW.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

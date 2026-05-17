@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Due West",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10899"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

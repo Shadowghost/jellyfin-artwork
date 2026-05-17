@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Ascot Elite Entertainment Group",
+    "country": "CH",
+    "homepage": "https://ascot-elite.ch/",
+    "headquarters": "Zürich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26025",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dCodJldpENhvsu9erly8L1ct5IG.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

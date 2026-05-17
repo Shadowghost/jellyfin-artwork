@@ -1,0 +1,29 @@
+[
+  {
+    "name": "CJ ENM",
+    "description": "South Korean entertainment and media conglomerate operating broadcast channels, film production, music and live events; produced Parasite.",
+    "country": "KR",
+    "type": "production-company",
+    "homepage": "https://watch.cjenm.com",
+    "headquarters": "Mapo, Seoul",
+    "colors": [
+      {
+        "name": "CJ Red",
+        "hex": "#E60012"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128404",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dP3usmr6di1jMPH738rvbxdkmSQ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

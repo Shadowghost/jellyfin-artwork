@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TSBD Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58322"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

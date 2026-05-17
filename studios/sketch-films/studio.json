@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sketch Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193111"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

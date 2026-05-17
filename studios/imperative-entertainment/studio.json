@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Imperative Entertainment",
+    "country": "US",
+    "homepage": "https://www.imperativeentertainment.com/",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81121",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1z9ocv9A1qlXhH1ehq2hFqIl0J5.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

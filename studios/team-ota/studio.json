@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Team Ota",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161875"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

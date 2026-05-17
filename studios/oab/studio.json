@@ -1,0 +1,17 @@
+[
+  {
+    "name": "OAB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197643"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

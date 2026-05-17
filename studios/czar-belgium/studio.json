@@ -1,0 +1,21 @@
+[
+  {
+    "name": "CZAR Belgium",
+    "country": "BE",
+    "homepage": "https://czar.be/",
+    "headquarters": "Brussels",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126462",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mvOhXe2kaKKsdYvJtom0FAQZDnG.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

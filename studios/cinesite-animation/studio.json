@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Cinesite Animation",
+    "country": "GB",
+    "homepage": "https://www.cinesite.com/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75234",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u7LNZRgcXH5plshrVQM9qXnlDMZ.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

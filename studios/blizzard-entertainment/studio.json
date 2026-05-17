@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Blizzard Entertainment",
+    "description": "American video game developer and publisher founded in 1991, known for World of Warcraft, StarCraft, Diablo, Overwatch, and Hearthstone; a subsidiary of Activision Blizzard (acquired by Microsoft in 2023).",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://www.blizzard.com",
+    "headquarters": "Irvine, California",
+    "colors": [
+      {
+        "name": "Blizzard Blue",
+        "hex": "#00AEFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16028",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6hZcvVaJlKpDLy0iMKXuvC0K2A5.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Crystal Dynamics",
+    "description": "American video game developer known for the Tomb Raider and Legacy of Kain series.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.crystaldynamics.com",
+    "headquarters": "San Mateo, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "228917",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mvJKXM7M3ouc4756BRstyc6QIv8.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

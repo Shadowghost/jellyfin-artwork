@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Baltimore Pictures",
+    "country": "US",
+    "homepage": "http://www.levinson.com/index_bsc.htm",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11407",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qPYLq3Q7BijSn1l11zz0Ax7o3E2.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Carmel Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3290"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

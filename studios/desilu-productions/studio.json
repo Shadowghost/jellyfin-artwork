@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Desilu Productions",
+    "description": "American television and film production company founded by Lucille Ball and Desi Arnaz; producer of I Love Lucy, Star Trek, and Mission: Impossible. Acquired by Paramount in 1967.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39856",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x929GPaOozzVA92B0IkjbucZRAk.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

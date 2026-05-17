@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Black Spark Film & TV",
+    "country": "SE",
+    "headquarters": "Stockholm, Sweden",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110059"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

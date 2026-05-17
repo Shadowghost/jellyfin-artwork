@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sonnenfeld",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142384"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

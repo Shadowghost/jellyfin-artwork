@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Arksen",
+    "country": "GB",
+    "homepage": "https://www.arksen.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "261696",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cnbxPWnmt8jnyXoG24Npp7DcEh7.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

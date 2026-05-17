@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Stone Group Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3470"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

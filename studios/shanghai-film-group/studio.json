@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Shanghai Film Group",
+    "country": "CN",
+    "homepage": "http://www.sfs-cn.com",
+    "headquarters": "Shanghai",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3407",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iVMjKOFyRvm9PW45lW1wW6TSvnj.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

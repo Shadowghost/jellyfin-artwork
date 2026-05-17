@@ -1,0 +1,26 @@
+[
+  {
+    "name": "PINE JAM",
+    "description": "Japanese anime studio founded in 2014; productions include Gamers!, Just Because!, and Do It Yourself!!",
+    "country": "JP",
+    "type": "production-company",
+    "homepage": "http://pinejam.jp",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91510",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1eYmEppUaIhXUhejVYPJQhwx4JP.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Pine Jam"
+    ]
+  }
+]

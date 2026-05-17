@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Montford",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90892"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

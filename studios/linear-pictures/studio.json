@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Linear Pictures",
+    "description": "Film production company. Limited public information available.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217542"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

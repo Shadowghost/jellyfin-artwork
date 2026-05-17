@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Linson Entertainment",
+    "country": "US",
+    "homepage": "https://www.linsonent.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4700",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A32wmjrs9Psf4zw0uaixF0GXfxq.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

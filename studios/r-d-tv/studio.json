@@ -1,0 +1,17 @@
+[
+  {
+    "name": "R&D TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7534"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

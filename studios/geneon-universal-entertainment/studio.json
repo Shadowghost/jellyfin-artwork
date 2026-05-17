@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Geneon Universal Entertainment",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7111",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vHUCDHu63vjfQjDNHvKqlUWOdwE.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

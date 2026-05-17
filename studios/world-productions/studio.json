@@ -1,0 +1,23 @@
+[
+  {
+    "name": "World Productions",
+    "description": "British independent television production company, makers of Line of Duty, Bodyguard, and Vigil; part of ITV Studios.",
+    "country": "GB",
+    "type": "production-company",
+    "homepage": "https://www.world-productions.com/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10532",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fgnJcdnipMiexhxaWC3w14b5Nbg.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

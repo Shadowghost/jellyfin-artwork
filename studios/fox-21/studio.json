@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Fox 21",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19699",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pq5gThFdhrthiLr4qQkP6utQSTh.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

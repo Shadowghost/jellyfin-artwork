@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Jost Hering Filmproduktion",
+    "country": "DE",
+    "homepage": "https://josthering.de",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17765",
+        "logo_uri": "https://image.tmdb.org/t/p/original/64gzCy66QsCwiNUtg3BPTdZYDwM.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

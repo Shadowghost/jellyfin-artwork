@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Lionsgate",
+    "description": "American-Canadian entertainment company encompassing Lionsgate Films, Lionsgate Television and Starz, behind franchises such as The Hunger Games, John Wick and Saw.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "http://www.lionsgate.com",
+    "headquarters": "Santa Monica, California",
+    "colors": [
+      {
+        "name": "Lionsgate Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Lionsgate Gold",
+        "hex": "#C9A227"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1632",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cisLn1YAUuptXVBa0xjq7ST9cH0.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

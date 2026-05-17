@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Legacy Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217385"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

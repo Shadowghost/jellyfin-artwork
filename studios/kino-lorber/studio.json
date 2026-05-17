@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Kino Lorber",
+    "description": "American film distribution company specializing in art-house, independent, foreign, and classic films for theatrical, home video, and digital release.",
+    "country": "US",
+    "type": "distributor",
+    "homepage": "http://kinolorber.com",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39134",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sijjN3vMtjCnc1LkCM7HSBErcO3.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Guru Animation Studio",
+    "description": "Canadian animation studio based in Toronto, known for True and the Rainbow Kingdom, Justin Time, and Big Blue.",
+    "country": "CA",
+    "type": "studio",
+    "homepage": "https://gurustudio.com/",
+    "headquarters": "Toronto, Canada",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125532",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4CmwNviLLczXm8YWHj4fivXFjc3.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Guru Studio"
+    ]
+  }
+]

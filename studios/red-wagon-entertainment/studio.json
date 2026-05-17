@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Red Wagon Entertainment",
+    "country": "US",
+    "homepage": "http://www.redwagonentertainment.com/",
+    "headquarters": "Culver City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14440",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gk9zllyMFnaVBWTdZpm7VcfQrHC.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

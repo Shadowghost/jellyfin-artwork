@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Wrigley Pictures",
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73118",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ilgyxz2B9rTdLUy8St7hbekO0y7.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

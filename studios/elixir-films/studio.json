@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Elixir Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260908"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

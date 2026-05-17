@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Laser",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7171"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

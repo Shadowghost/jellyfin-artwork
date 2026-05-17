@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jump 23",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104628"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Bureau",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239219"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

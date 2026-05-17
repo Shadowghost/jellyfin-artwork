@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Forecast Communications",
+    "country": "JP",
+    "homepage": "https://www.4cast.co.jp/",
+    "headquarters": "Minato, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157000",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iv7fVkqbjF1UuZJRjSKWRMLxoig.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

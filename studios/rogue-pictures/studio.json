@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Rogue Pictures",
+    "description": "American film label originally a genre division of USA Films/Universal/Focus Features, later sold to Relativity Media; produced genre films such as Shaun of the Dead and Hot Fuzz.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Universal City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2uKAP9aAAhVMpfSqa4wtlIHod5g.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

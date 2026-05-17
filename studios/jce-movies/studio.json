@@ -1,0 +1,20 @@
+[
+  {
+    "name": "JCE Movies",
+    "country": "HK",
+    "headquarters": "Wan Chai",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2726",
+        "logo_uri": "https://image.tmdb.org/t/p/original/prHrgMVMpZnTgEWYo9Mi7nyka34.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

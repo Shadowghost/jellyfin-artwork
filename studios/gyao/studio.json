@@ -1,0 +1,21 @@
+[
+  {
+    "name": "GYAO",
+    "country": "JP",
+    "homepage": "http://www.gyao.co.jp/",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41861",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iQ9Av0fDGKDUInp4I5czxhz5fVj.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

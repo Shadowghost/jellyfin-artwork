@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Right",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "246380"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

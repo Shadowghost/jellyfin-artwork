@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Pandastorm Pictures",
+    "country": "DE",
+    "homepage": "https://www.pandastorm.com/",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127332",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zlHnt6mRYZ3CRZh0mPM9QhV9SCK.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

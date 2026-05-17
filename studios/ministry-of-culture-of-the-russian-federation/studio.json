@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Ministry of Culture of the Russian Federation",
+    "country": "RU",
+    "homepage": "https://culture.gov.ru/",
+    "headquarters": "Moscow, Russia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15755",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cZDbkvJPOnzHlmu2CDx05DcEnaf.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

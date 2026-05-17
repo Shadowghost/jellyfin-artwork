@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Media Rights Capital",
+    "description": "American film and television production company best known for House of Cards and Ozark.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.mrcentertainment.com",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2531",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

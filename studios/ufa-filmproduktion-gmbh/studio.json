@@ -1,0 +1,17 @@
+[
+  {
+    "name": "UFA Filmproduktion GmbH",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "585"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

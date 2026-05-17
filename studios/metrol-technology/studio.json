@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Metrol Technology",
+    "country": "GB",
+    "homepage": "https://www.metrol.co.uk/",
+    "headquarters": "Dyce, Aberdeen, Scotland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25954",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

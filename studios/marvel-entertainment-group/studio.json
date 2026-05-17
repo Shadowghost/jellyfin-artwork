@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Marvel Entertainment Group",
+    "country": "US",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160251",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x25ZchdyICzx2v0h4OQQ4yadJ0J.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

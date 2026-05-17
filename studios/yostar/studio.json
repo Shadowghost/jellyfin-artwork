@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Yostar",
+    "country": "CN",
+    "homepage": "https://www.yostar.cn/",
+    "headquarters": "Shanghai",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187934",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3sf6swQMiyJwcvGSPOsMyRXWctR.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

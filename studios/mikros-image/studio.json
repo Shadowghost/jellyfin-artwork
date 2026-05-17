@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Mikros Image",
+    "description": "French animation and visual effects studio, part of Technicolor Creative Studios; produces feature animation including the PAW Patrol movies.",
+    "country": "FR",
+    "type": "studio",
+    "homepage": "https://www.mikrosanimation.com/",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199314",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zVfq3R7Ue0Ho0XnfgyK63fMGk2j.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Mikros Animation"
+    ]
+  }
+]

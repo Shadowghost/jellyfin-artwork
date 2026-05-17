@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Youmex",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12904"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

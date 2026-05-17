@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Florentine Films",
+    "country": "US",
+    "homepage": "http://www.florentinefilms.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10722",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mPJs7G32jMVmgUlcuobZelsjkhv.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

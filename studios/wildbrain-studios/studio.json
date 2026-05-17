@@ -1,0 +1,23 @@
+[
+  {
+    "name": "WildBrain Studios",
+    "description": "Canadian children's entertainment company, formerly known as DHX Media, owner of Peanuts (majority), Strawberry Shortcake, and Teletubbies.",
+    "country": "CA",
+    "type": "studio",
+    "homepage": "https://www.wildbrain.com/",
+    "headquarters": "Vancouver, British Columbia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148496",
+        "logo_uri": "https://image.tmdb.org/t/p/original/737HCq9hXnI801p8sSAMJIvCidg.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

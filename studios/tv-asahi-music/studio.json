@@ -1,0 +1,21 @@
+[
+  {
+    "name": "TV Asahi Music",
+    "country": "JP",
+    "homepage": "https://www.tv-asahi-music.co.jp/",
+    "headquarters": "Minato, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209105",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sFYmMTARpSps0Mn2lyAvDyFmDDv.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

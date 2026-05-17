@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Studio Colorido",
+    "country": "JP",
+    "homepage": "http://colorido.co.jp/",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20556",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ykMSMe47GblevqgtJhMk3dJ7i7S.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Banpresto",
+    "description": "Japanese toy and amusement game company specializing in prize merchandise, owned by Bandai Namco.",
+    "country": "JP",
+    "type": "other",
+    "homepage": "https://bpnavi.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159157",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fEW0xl7S5t0DyFlsx6ypdFC9Poa.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

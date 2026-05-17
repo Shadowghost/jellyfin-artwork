@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Les Armateurs",
+    "country": "FR",
+    "homepage": "http://lesarmateurs-lesite.fr/en",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6973",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6lqJgLZuP3M6kxFJ6RU2HLBbB7L.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

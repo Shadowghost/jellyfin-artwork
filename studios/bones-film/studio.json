@@ -1,0 +1,23 @@
+[
+  {
+    "name": "BONES Film",
+    "description": "Japanese animation studio founded by former Sunrise members, known for Fullmetal Alchemist, My Hero Academia, and Mob Psycho 100.",
+    "country": "JP",
+    "type": "studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189286"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Bones Inc."
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Nu Boyana Viburno",
+    "country": "BG",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34070"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

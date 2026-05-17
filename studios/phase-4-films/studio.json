@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Phase 4 Films",
+    "description": "Canadian film distribution company headquartered in Toronto, acquired by Entertainment One in 2014.",
+    "country": "CA",
+    "type": "distributor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9081",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hTVOTTyd3q5pDZffdtIURw8VMrd.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

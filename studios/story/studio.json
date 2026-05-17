@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Story",
+    "country": "JP",
+    "homepage": "https://story-inc.co.jp",
+    "headquarters": "Chiyoda, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128616",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cjmwexOzetWZa8QKy447NMrM6MG.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Tod Productions",
+    "country": "GB",
+    "homepage": "https://www.todproductions.tv",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210139",
+        "logo_uri": "https://image.tmdb.org/t/p/original/alR3NhSkmnj9oO94plPCqGm46ml.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

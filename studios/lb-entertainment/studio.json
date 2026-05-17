@@ -1,0 +1,21 @@
+[
+  {
+    "name": "LB Entertainment",
+    "country": "US",
+    "homepage": "https://www.lbentertainment.co/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96310",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tBxSNuzARadiaBpIJ3qmdPG5BCz.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

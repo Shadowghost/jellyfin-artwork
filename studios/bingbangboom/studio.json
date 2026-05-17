@@ -1,0 +1,19 @@
+[
+  {
+    "name": "BingBangBoom",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199879",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hNhtoA8Wd1ld7Ut2F2m3WzuEfaj.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

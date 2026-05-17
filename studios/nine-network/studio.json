@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Nine Network",
+    "description": "Australian commercial free-to-air television network, owned by Nine Entertainment Co.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120108"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

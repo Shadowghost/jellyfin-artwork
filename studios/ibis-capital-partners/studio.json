@@ -1,0 +1,19 @@
+[
+  {
+    "name": "ibis Capital Partners",
+    "country": "JP",
+    "homepage": "https://www.ibis-cap.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210471"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

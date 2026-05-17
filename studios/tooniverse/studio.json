@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Tooniverse",
+    "description": "South Korean cable and satellite animation television channel owned by CJ ENM.",
+    "country": "KR",
+    "type": "cable-network",
+    "homepage": "http://tooniverse.tving.com/tooniverse",
+    "headquarters": "Mapo-gu, Seoul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168965",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cY1GK5jpiV4GmgSzMdQaW3vFJkc.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

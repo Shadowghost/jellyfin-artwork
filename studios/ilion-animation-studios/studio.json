@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Ilion Animation Studios",
+    "country": "ES",
+    "homepage": "https://www.ilion.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5653",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lJj4v0DWNy7f0jJKA26Bhz4yjgk.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

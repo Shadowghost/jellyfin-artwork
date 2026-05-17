@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Der Beauftragte der Bundesregierung für Kultur und Medien",
+    "description": "German federal government office responsible for cultural and media policy, including the German Federal Film Fund (DFFF) that finances film productions.",
+    "country": "DE",
+    "type": "government-agency",
+    "homepage": "https://www.kulturstaatsministerin.de/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239699"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

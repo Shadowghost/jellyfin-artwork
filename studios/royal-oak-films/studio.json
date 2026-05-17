@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Royal Oak Films",
+    "description": "Independent American film production company; limited public information available.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5642"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

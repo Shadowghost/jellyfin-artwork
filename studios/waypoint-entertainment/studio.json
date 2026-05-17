@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Waypoint Entertainment",
+    "country": "US",
+    "homepage": "https://www.waypoint-ent.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22842",
+        "logo_uri": "https://image.tmdb.org/t/p/original/buyfiDYTfPVTHxvYZ4yHu69zFPs.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Tyler Perry Studios",
+    "description": "American film and television production company founded by writer/director/actor Tyler Perry; its 330-acre Atlanta studio lot opened in 2019, one of the largest in the US.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "http://tylerperry.com/studios/",
+    "headquarters": "Atlanta, Georgia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3096",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fkZTZ4veYYr3lwr2riVrVAOfeqD.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

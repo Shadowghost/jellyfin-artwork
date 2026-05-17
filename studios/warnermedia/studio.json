@@ -1,0 +1,23 @@
+[
+  {
+    "name": "WarnerMedia",
+    "description": "American multinational mass media and entertainment conglomerate; WarnerMedia (2018-2022) merged with Discovery, Inc. to form Warner Bros. Discovery.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "https://www.warnermedia.com",
+    "headquarters": "30 Hudson Yards, New York City, US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256659",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bBVvDeuI08ZubJaB5gEqKHoeXdE.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

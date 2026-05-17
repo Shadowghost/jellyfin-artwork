@@ -1,0 +1,26 @@
+[
+  {
+    "name": "UFA Cinema",
+    "description": "Historic German film and television production company founded in 1917; one of the most influential studios in German film history, now part of the Bertelsmann/RTL Group.",
+    "country": "DE",
+    "type": "production-company",
+    "homepage": "https://www.ufa.de",
+    "headquarters": "Potsdam",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12372",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lcQScIQXHQXuLMLFQt0loJl5gWJ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "UFA (Universum Film AG)"
+    ]
+  }
+]

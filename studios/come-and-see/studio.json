@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Come and See",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226339"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

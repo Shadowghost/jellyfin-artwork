@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mosaic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160264"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

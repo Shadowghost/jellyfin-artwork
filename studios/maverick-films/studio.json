@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Maverick Films",
+    "country": "PH",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "64508"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

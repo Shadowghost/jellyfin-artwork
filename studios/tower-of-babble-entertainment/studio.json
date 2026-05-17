@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tower of Babble Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172892"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

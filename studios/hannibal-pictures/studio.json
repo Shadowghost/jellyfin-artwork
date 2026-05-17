@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Hannibal Pictures",
+    "description": "Los Angeles–based independent film production, financing, sales, and distribution company specializing in English-language feature films.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://hannibalclassics.com/hannibal-pictures/",
+    "headquarters": "West Hollywood, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8692",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pHqckAyfDN3WTYdMb6wcSb91EMV.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

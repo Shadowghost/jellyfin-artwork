@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Südwestfunk",
+    "country": "DE",
+    "headquarters": "Freiburg im Breisgau",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13983",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wTYO3w8PawspS95VYwsHcajmI0t.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

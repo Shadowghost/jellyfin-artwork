@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Special Broadcasting Service",
+    "description": "Australian hybrid-funded public broadcaster focusing on multicultural and multilingual television and radio; SBS 2 (now SBS Viceland) is a secondary channel.",
+    "country": "AU",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45531"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

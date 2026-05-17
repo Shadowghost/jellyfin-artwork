@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pandora Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153130"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]

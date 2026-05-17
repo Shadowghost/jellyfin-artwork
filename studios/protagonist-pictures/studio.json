@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Protagonist Pictures",
+    "country": "GB",
+    "homepage": "https://protagonistpictures.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20277",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aomeUwZLIBjGXHfuZq7HTVk7UNb.png"
+      }
+    ],
+    "artwork": {
+      "thumb": [
+        "svg"
+      ]
+    },
+    "placeholder": true
+  }
+]
