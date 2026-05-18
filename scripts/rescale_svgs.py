@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
-"""Crop SVGs to their content bbox and normalize the longer dimension to 1024px.
+"""Crop logo.svg files to their content bbox and normalize the longer dimension to 1024px.
+
+Only files named ``logo.svg`` are touched. thumb.svg / primary.svg /
+backdrop.svg are produced by other scripts on a fixed canonical canvas
+(1024x576, 1024x1024, ...) — cropping them to drawn-content bbox would
+shrink the canvas onto the embedded logo and strip the safe-area inset.
+Re-run the matching generator (generate_thumbs.py, generate_placeholders.py)
+to repair those.
 
 Per file:
   1. Parse the SVG with svgelements and compute the bounding box of all
@@ -35,7 +42,6 @@ except ImportError:
 MAX_DIM = 1024
 
 SVG_OPEN_RE = re.compile(r"<svg\b[^>]*>", re.DOTALL)
-
 
 def attr_re(name):
     return re.compile(
@@ -418,16 +424,16 @@ def main():
     targets = []
     for dp, _, files in os.walk(root):
         for name in files:
-            if name.lower().endswith(".svg"):
+            if name == "logo.svg":
                 targets.append(os.path.join(dp, name))
     targets.sort()
 
     if not targets:
-        print("no SVG files found")
+        print("no logo.svg files found")
         return 0
 
     total = len(targets)
-    print(f"processing {total} SVGs")
+    print(f"processing {total} logo.svg files")
 
     scaled = errored = 0
     for i, path in enumerate(targets, 1):

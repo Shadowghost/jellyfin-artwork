@@ -31,6 +31,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import shutil
 import subprocess
 import sys
@@ -38,8 +39,24 @@ import zipfile
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent
 SOURCE_STUDIOS = ROOT / "studios"
+
+# Canonical aspect ratio for each well-known artwork slot. logo.svg is
+# intentionally absent — logos are arbitrary aspect.
+SLOT_ASPECT = {
+    "thumb.svg": 16.0 / 9.0,
+    "backdrop.svg": 16.0 / 9.0,
+    "primary.svg": 1.0,
+}
+# Slots whose artwork manifest entry should always list ["svg", "webp"]
+# when a .svg file is present — the build always renders a webp sibling
+# from any source .svg, so the manifest must reflect that.
+MANIFEST_SLOTS = {"thumb", "primary", "logo", "backdrop"}
+# Relative tolerance for aspect-match. Tighter than 1% triggers false
+# positives from float-rounded viewBoxes; looser misses real bugs (TF1's
+# primary was off by ~50%).
+ASPECT_TOL = 0.01
 
 
 def which(*names: str) -> str | None:
@@ -47,6 +64,151 @@ def which(*names: str) -> str | None:
         if shutil.which(n):
             return shutil.which(n)
     return None
+
+
+# ─── lint helpers ─────────────────────────────────────────────────────
+
+_SVG_OPEN_RE = re.compile(r"<svg\b[^>]*>", re.DOTALL)
+_VB_ATTR_RE = re.compile(r'(viewBox\s*=\s*)(["\'])([^"\']+)\2')
+_W_ATTR_RE = re.compile(r'(\bwidth\s*=\s*)(["\'])([^"\']+)\2')
+_H_ATTR_RE = re.compile(r'(\bheight\s*=\s*)(["\'])([^"\']+)\2')
+
+
+def _fmt_num(n: float) -> str:
+    if abs(n - round(n)) < 1e-9:
+        return str(int(round(n)))
+    return f"{n:.4f}".rstrip("0").rstrip(".")
+
+
+def lint_aspects(source_studios: Path) -> tuple[int, int, int]:
+    """Rewrite any ``thumb.svg``/``backdrop.svg``/``primary.svg`` whose
+    outer viewBox aspect doesn't match the canonical aspect for its
+    slot. The viewBox is extended along its narrower axis (content
+    stays centred), and width/height attrs are pinned so the longer
+    dimension is 1024 px.
+
+    Returns ``(checked, fixed, failed)``. Fix is in-place in the
+    SOURCE tree so the correction survives between builds and shows
+    up in commits — same convention as generate_placeholders.py."""
+    checked = fixed = failed = 0
+    for svg in sorted(source_studios.rglob("*.svg")):
+        target = SLOT_ASPECT.get(svg.name)
+        if target is None:
+            continue
+        checked += 1
+        try:
+            text = svg.read_text(encoding="utf-8")
+        except OSError as e:
+            print(f"  ! read {svg.relative_to(source_studios.parent)}: {e}")
+            failed += 1
+            continue
+
+        m_open = _SVG_OPEN_RE.search(text)
+        if not m_open:
+            failed += 1
+            continue
+        open_tag = m_open.group(0)
+        m_vb = _VB_ATTR_RE.search(open_tag)
+        if not m_vb:
+            failed += 1
+            continue
+        parts = m_vb.group(3).replace(",", " ").split()
+        if len(parts) != 4:
+            failed += 1
+            continue
+        try:
+            vx, vy, vw, vh = (float(p) for p in parts)
+        except ValueError:
+            failed += 1
+            continue
+        if vw <= 0 or vh <= 0:
+            failed += 1
+            continue
+
+        actual = vw / vh
+        if abs(actual - target) / target < ASPECT_TOL:
+            continue
+
+        # Extend the narrower axis to match the target aspect and
+        # recentre content. We never shrink — that would clip elements.
+        if actual > target:
+            new_vh = vw / target
+            new_vy = vy - (new_vh - vh) / 2.0
+            new_vx, new_vw = vx, vw
+        else:
+            new_vw = vh * target
+            new_vx = vx - (new_vw - vw) / 2.0
+            new_vy, new_vh = vy, vh
+        new_vb = " ".join(_fmt_num(v) for v in (new_vx, new_vy, new_vw, new_vh))
+
+        # Pin the long dimension to 1024 px so every output's pixel
+        # canvas matches the rest of the bundle.
+        if target >= 1.0:
+            pw, ph = 1024, int(round(1024 / target))
+        else:
+            pw, ph = int(round(1024 * target)), 1024
+
+        new_open = _VB_ATTR_RE.sub(
+            lambda m: f'{m.group(1)}"{new_vb}"', open_tag, count=1,
+        )
+        if _W_ATTR_RE.search(new_open):
+            new_open = _W_ATTR_RE.sub(
+                lambda m: f'{m.group(1)}"{pw}"', new_open, count=1,
+            )
+        if _H_ATTR_RE.search(new_open):
+            new_open = _H_ATTR_RE.sub(
+                lambda m: f'{m.group(1)}"{ph}"', new_open, count=1,
+            )
+
+        new_text = text[: m_open.start()] + new_open + text[m_open.end():]
+        svg.write_text(new_text, encoding="utf-8")
+        rel = svg.relative_to(source_studios.parent)
+        print(f"  aspect {rel}: {actual:.3f} → {target:.3f}")
+        fixed += 1
+    return checked, fixed, failed
+
+
+def lint_manifests(source_studios: Path) -> tuple[int, int, int]:
+    """For each ``studio.json``, replace the ``artwork`` dict with
+    ``{slot: ["svg", "webp"]}`` for every slot whose ``.svg`` sibling
+    is present on disk. Removes manifest slots whose ``.svg`` is
+    missing (so the manifest never advertises files that won't ship).
+
+    Returns ``(checked, fixed, failed)``."""
+    checked = fixed = failed = 0
+    for sj in sorted(source_studios.glob("*/studio.json")):
+        checked += 1
+        try:
+            data = json.loads(sj.read_text())
+        except Exception as e:
+            print(f"  ! parse {sj.relative_to(source_studios.parent)}: {e}")
+            failed += 1
+            continue
+        if not isinstance(data, list):
+            continue
+
+        present = set()
+        for f in sj.parent.iterdir():
+            if f.is_file() and f.suffix.lower() == ".svg" and f.stem in MANIFEST_SLOTS:
+                present.add(f.stem)
+        expected = {slot: ["svg", "webp"] for slot in sorted(present)}
+
+        changed = False
+        for entry in data:
+            if not isinstance(entry, dict):
+                continue
+            current = entry.get("artwork")
+            if current != expected:
+                entry["artwork"] = expected
+                changed = True
+        if changed:
+            sj.write_text(
+                json.dumps(data, indent=2, ensure_ascii=False) + "\n"
+            )
+            rel = sj.relative_to(source_studios.parent)
+            print(f"  manifest {rel}")
+            fixed += 1
+    return checked, fixed, failed
 
 
 def copy_studios(out_studios: Path) -> int:
@@ -203,6 +365,11 @@ def main() -> None:
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("--out", type=Path, default=ROOT / "dist",
                    help="Output directory (default: ./dist)")
+    p.add_argument("--skip-lint", action="store_true",
+                   help="Skip the pre-build lint pass (canonical aspect "
+                        "ratios for thumb/primary/backdrop and artwork-"
+                        "manifest sync). Off by default; lint mutates "
+                        "source studios/ in place when it finds issues.")
     p.add_argument("--skip-svgo", action="store_true")
     p.add_argument("--skip-webp", action="store_true")
     p.add_argument("--skip-zip", action="store_true")
@@ -215,34 +382,45 @@ def main() -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
     out_studios = out_dir / "studios"
 
-    print(f"[1/6] Copy studios/ → {out_studios.relative_to(ROOT) if out_dir.is_relative_to(ROOT) else out_studios}")
+    if args.skip_lint:
+        print("[1/7] Lint source — SKIPPED (--skip-lint)")
+    else:
+        print("[1/7] Lint source (aspect ratios + artwork manifests)")
+        a_checked, a_fixed, a_failed = lint_aspects(SOURCE_STUDIOS)
+        m_checked, m_fixed, m_failed = lint_manifests(SOURCE_STUDIOS)
+        print(f"  aspect:   checked={a_checked} fixed={a_fixed} failed={a_failed}")
+        print(f"  manifest: checked={m_checked} fixed={m_fixed} failed={m_failed}")
+        if a_failed or m_failed:
+            sys.exit("lint reported failures; aborting before release")
+
+    print(f"[2/7] Copy studios/ → {out_studios.relative_to(ROOT) if out_dir.is_relative_to(ROOT) else out_studios}")
     n = copy_studios(out_studios)
     print(f"  copied {n} studio dirs")
 
     if args.skip_svgo:
-        print("[2/6] Optimize SVGs — SKIPPED (--skip-svgo)")
+        print("[3/7] Optimize SVGs — SKIPPED (--skip-svgo)")
     else:
-        print("[2/6] Optimize SVGs with svgo")
+        print("[3/7] Optimize SVGs with svgo")
         run_svgo(out_studios)
 
     if args.skip_webp:
-        print("[3/6] Render WebP — SKIPPED (--skip-webp)")
+        print("[4/7] Render WebP — SKIPPED (--skip-webp)")
     else:
-        print("[3/6] Render WebP siblings")
+        print("[4/7] Render WebP siblings")
         render_all_webp(out_studios, args.workers)
 
-    print("[4/6] Build studios.json (flattened)")
+    print("[5/7] Build studios.json (flattened)")
     count = build_studios_json(out_dir)
     print(f"  flattened {count} entries → {out_dir / 'studios.json'}")
 
-    print("[5/6] Strip per-studio studio.json from dist")
+    print("[6/7] Strip per-studio studio.json from dist")
     n = strip_studio_json(out_studios)
     print(f"  removed {n} files")
 
     if args.skip_zip:
-        print("[6/6] Zip release — SKIPPED (--skip-zip)")
+        print("[7/7] Zip release — SKIPPED (--skip-zip)")
     else:
-        print("[6/6] Zip release")
+        print("[7/7] Zip release")
         zip_release(out_dir, out_dir / "release.zip")
 
     print(f"\nDone. Release blob in {out_dir}/")

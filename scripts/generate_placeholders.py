@@ -1,17 +1,18 @@
 #!/usr/bin/env python3
-"""Generate placeholder ``thumb.svg`` artwork for every studio whose
-``studio.json`` has ``placeholder: true``.
+"""Generate placeholder ``thumb.svg`` (16:9) and ``primary.svg`` (1:1)
+artwork for every studio whose ``studio.json`` has ``placeholder: true``.
 
 For each such studio the script:
 
-  1. Writes ``thumb.svg`` (1024x576, 16:9, longer dim = 1024 px). By
+  1. Writes ``thumb.svg`` (1024x576) and ``primary.svg`` (1024x1024). By
      default existing files are kept; pass ``--override`` to rewrite
-     every placeholder regardless of whether the file already exists.
+     every placeholder regardless of whether the files already exist.
   2. Deletes every other artwork file in the studio directory
-     (``logo.svg``, ``primary.svg``, ``backdrop.svg``, any ``*.webp``, …).
+     (``logo.svg``, ``backdrop.svg``, any ``*.webp``, …).
      ``logo.svg`` is reserved for a real studio logo; a placeholder
      studio has no real logo, so the file would be misleading.
-  3. Normalises the entry's ``artwork`` block to ``{"thumb": ["svg"]}``
+  3. Normalises the entry's ``artwork`` block to
+     ``{"thumb": ["svg", "webp"], "primary": ["svg", "webp"]}``
      so the manifest matches the files on disk.
 
 Promotion pass: studios that aren't flagged ``placeholder: true`` but
@@ -27,19 +28,27 @@ import json
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent
 STUDIOS = ROOT / "studios"
 MAX_DIM = 1024
 
-VIEWBOX_W, VIEWBOX_H = 1024, 576  # 16:9 — thumb shape
-KEEP = "thumb.svg"
+# Slot specs. Each placeholder studio gets one file per slot. ``slot`` is
+# the manifest key; ``file`` is the on-disk basename; (w, h) is the
+# canonical canvas. We always emit both — the build pipeline expects
+# both a 16:9 thumb and a 1:1 primary, and the consumer plugin picks
+# whichever the UI surface needs.
+SLOTS = (
+    {"slot": "thumb",   "file": "thumb.svg",   "w": 1024, "h": 576},
+    {"slot": "primary", "file": "primary.svg", "w": 1024, "h": 1024},
+)
+KEEP = {s["file"] for s in SLOTS}
 
 
-def font_size_for(name: str) -> int:
+def font_size_for(name: str, canvas_w: int = 1024) -> int:
     """Clamp the font-size so long names fit inside ~85% of the canvas
-    width. Tuned for VIEWBOX_W=1024."""
+    width. canvas_w defaults to the standard 1024-wide canvas."""
     chars = max(1, len(name))
-    base = int(900 / chars)
+    base = int(900 * canvas_w / 1024 / chars)
     return max(26, min(72, base))
 
 
@@ -62,12 +71,11 @@ def escape(s: str) -> str:
     )
 
 
-def svg_for(name: str) -> str:
-    vb_w, vb_h = VIEWBOX_W, VIEWBOX_H
+def svg_for(name: str, vb_w: int, vb_h: int) -> str:
     inset = 16
     stroke = 4
     dash = 12
-    name_fs = font_size_for(name)
+    name_fs = font_size_for(name, vb_w)
     cap_fs = caption_font_size()
     cx = vb_w / 2
     name_y = vb_h * 0.5
@@ -103,7 +111,7 @@ def remove_stale_artwork(studio_dir: Path, removed: list[str]) -> None:
     for child in studio_dir.iterdir():
         if not child.is_file():
             continue
-        if child.name == "studio.json" or child.name == KEEP:
+        if child.name == "studio.json" or child.name in KEEP:
             continue
         if child.suffix.lower() in ARTWORK_EXTS:
             removed.append(str(child.relative_to(ROOT)))
@@ -111,10 +119,16 @@ def remove_stale_artwork(studio_dir: Path, removed: list[str]) -> None:
 
 
 def normalize_artwork(entry: dict) -> bool:
-    """Force a placeholder entry's artwork block to ``{"thumb": ["svg"]}``.
+    """Force a placeholder entry's artwork block to advertise one
+    ``["svg", "webp"]`` pair per slot we emit.
+
+    The build pipeline renders a .webp sibling for every .svg it ships,
+    so the manifest must advertise both formats. Setting svg-only here
+    used to fight ``build_release.lint_manifests``, which re-adds webp
+    on every build and dirties thousands of studio.json files per run.
 
     Returns True if anything changed."""
-    desired = {"thumb": ["svg"]}
+    desired = {s["slot"]: ["svg", "webp"] for s in SLOTS}
     if entry.get("artwork") == desired:
         return False
     entry["artwork"] = desired
@@ -163,9 +177,9 @@ def main() -> int:
     ap.add_argument(
         "--override",
         action="store_true",
-        help=("Rewrite thumb.svg for every placeholder studio, even if the "
-              "file already exists. Without this flag, existing thumb.svg "
-              "files are left untouched."),
+        help=("Rewrite every placeholder slot (thumb.svg + primary.svg) "
+              "for every placeholder studio, even if files already exist. "
+              "Without this flag, existing files are left untouched."),
     )
     args = ap.parse_args()
 
@@ -220,17 +234,21 @@ def main() -> int:
         studio_dir = studio_file.parent
         name = placeholder_entries[0].get("name") or slug
 
-        # 1) Remove stale artwork (logo.svg, primary.svg, *.webp, …)
+        # 1) Remove stale artwork (logo.svg, backdrop.svg, *.webp, …)
         remove_stale_artwork(studio_dir, removed)
 
-        # 2) Write fresh thumb.svg. Without --override, skip when the
-        # file already exists so prior renders aren't disturbed.
-        out = studio_dir / KEEP
-        if args.override or not out.exists():
-            out.write_text(svg_for(name), encoding="utf-8")
-            written.append(str(out.relative_to(ROOT)))
-        else:
-            kept += 1
+        # 2) Write a fresh placeholder for each slot. Without --override,
+        # skip slots whose file already exists so prior renders aren't
+        # disturbed.
+        for spec in SLOTS:
+            out = studio_dir / spec["file"]
+            if args.override or not out.exists():
+                out.write_text(
+                    svg_for(name, spec["w"], spec["h"]), encoding="utf-8",
+                )
+                written.append(str(out.relative_to(ROOT)))
+            else:
+                kept += 1
 
         # 3) Normalise the manifest so artwork matches the files on disk
         changed = False
@@ -244,13 +262,13 @@ def main() -> int:
 
         studios_done += 1
 
-    print(f"placeholder studios processed: {studios_done}")
+    print(f"placeholder studios processed:   {studios_done}")
     print(f"non-placeholder studios skipped: {skipped}")
-    print(f"promoted from placeholder logo: {promoted}")
-    print(f"thumb.svg files written:        {len(written)}")
-    print(f"thumb.svg files kept as-is:     {kept}")
-    print(f"stale artwork files removed:    {len(removed)}")
-    print(f"studio.json files updated:      {json_updated}")
+    print(f"promoted from placeholder logo:  {promoted}")
+    print(f"placeholder files written:       {len(written)}")
+    print(f"placeholder files kept as-is:    {kept}")
+    print(f"stale artwork files removed:     {len(removed)}")
+    print(f"studio.json files updated:       {json_updated}")
     if errors:
         print(f"errors: {errors}")
         return 1

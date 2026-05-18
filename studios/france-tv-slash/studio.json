@@ -12,6 +12,10 @@
       }
     ],
     "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
       "primary": [
         "svg",
         "webp"
@@ -21,6 +25,7 @@
         "webp"
       ]
     },
-    "machine-name": "france-tv-slash"
+    "machine-name": "france-tv-slash",
+    "template": true
   }
 ]

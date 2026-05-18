@@ -17,15 +17,15 @@
       }
     ],
     "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
       "primary": [
         "svg",
         "webp"
       ],
       "thumb": [
-        "svg",
-        "webp"
-      ],
-      "logo": [
         "svg",
         "webp"
       ]

@@ -17,6 +17,10 @@
       }
     ],
     "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
       "primary": [
         "svg",
         "webp"
@@ -26,6 +30,7 @@
         "webp"
       ]
     },
-    "machine-name": "france-4"
+    "machine-name": "france-4",
+    "template": true
   }
 ]

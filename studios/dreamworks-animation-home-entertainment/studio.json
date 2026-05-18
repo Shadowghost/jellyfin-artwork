@@ -1,0 +1,25 @@
+[
+  {
+    "name": "DreamWorks Animation Home Entertainment",
+    "country": "US",
+    "type": "studio",
+    "homepage": "https://www.dreamworks.com/movies",
+    "headquarters": "Glendale, California",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

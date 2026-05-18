@@ -32,6 +32,10 @@
       }
     ],
     "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
       "primary": [
         "svg",
         "webp"
@@ -44,6 +48,7 @@
     "machine-name": "arte",
     "aka": [
       "ARTE"
-    ]
+    ],
+    "template": true
   }
 ]

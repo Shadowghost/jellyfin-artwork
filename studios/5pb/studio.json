@@ -10,10 +10,19 @@
       }
     ],
     "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
       "thumb": [
-        "svg"
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
       ]
     },
-    "placeholder": true
+    "template": true
   }
 ]

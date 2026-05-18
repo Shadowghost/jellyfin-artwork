@@ -37,7 +37,7 @@ from difflib import SequenceMatcher
 from pathlib import Path
 from typing import Any
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent
 STUDIOS = ROOT / "studios"
 DOWNLOADS = ROOT / "downloads"
 CAND_CACHE = DOWNLOADS / "_tmdb_candidates.json"

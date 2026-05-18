@@ -13,11 +13,11 @@
       }
     ],
     "artwork": {
-      "logo": [
+      "thumb": [
         "svg",
         "webp"
       ],
-      "thumb": [
+      "primary": [
         "svg",
         "webp"
       ]
@@ -25,6 +25,6 @@
     "aka": [
       "1st Place"
     ],
-    "template": true
+    "placeholder": true
   }
 ]

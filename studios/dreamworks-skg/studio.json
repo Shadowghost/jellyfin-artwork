@@ -1,7 +1,6 @@
 [
   {
-    "name": "DreamWorks Pictures",
-    "description": "American film studio founded by Steven Spielberg, Jeffrey Katzenberg, and David Geffen (the SKG); now a unit of Amblin Partners.",
+    "name": "DreamWorks SKG",
     "country": "US",
     "type": "studio",
     "headquarters": "Universal City, California",
@@ -14,6 +13,10 @@
     ],
     "artwork": {
       "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
         "svg",
         "webp"
       ],

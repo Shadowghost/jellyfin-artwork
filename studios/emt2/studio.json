@@ -13,9 +13,15 @@
     ],
     "artwork": {
       "thumb": [
-        "svg"
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
       ]
     },
+    "machine-name": "emt2",
     "placeholder": true
   }
 ]

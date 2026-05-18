@@ -17,6 +17,10 @@
       }
     ],
     "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
       "primary": [
         "svg",
         "webp"
@@ -29,6 +33,7 @@
     "machine-name": "france-3",
     "aka": [
       "France 3"
-    ]
+    ],
+    "template": true
   }
 ]
