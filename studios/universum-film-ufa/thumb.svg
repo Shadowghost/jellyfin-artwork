@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 576" width="1024" height="576" role="img" aria-label="Universum Film (UFA) (placeholder)">
-  <rect width="1024" height="576" fill="#1f1f1f"/>
-  <rect x="16" y="16" width="992" height="544" fill="none" stroke="#3a3a3a" stroke-width="4" stroke-dasharray="12 12"/>
-  <text x="512" y="288" text-anchor="middle" dominant-baseline="middle" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="45" font-weight="600" fill="#e0e0e0">Universum Film (UFA)</text>
-  <text x="512" y="516" text-anchor="middle" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="22" fill="#888" letter-spacing="4">PLACEHOLDER</text>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="universum-film-ufa (thumb)">
+  <rect width="640" height="360" fill="#FFFFFF"/>
+  <g transform="translate(150.0851 60) scale(0.3398)">
+  <g data-rescale-wrap="1" transform="translate(0 0.000017)"><metadata
+   id="metadata4146"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs4144" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1366"
+   inkscape:window-height="705"
+   id="namedview4142"
+   showgrid="false"
+   inkscape:zoom="0.36868687"
+   inkscape:cx="396"
+   inkscape:cy="306"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Ebene_1" />
+<path
+   d="m 779.66857,470.8193 c 6.59637,-55.5458 13.1815,-123.35425 17.88817,-169.48248 1.87424,-23.55586 4.71089,-46.15492 6.59918,-67.7958 l 1.87284,0 c 1.8897,21.64088 3.76534,44.23994 6.59778,67.7958 4.69403,45.19814 11.30726,113.93668 16.94684,169.48248 l -49.90481,0 z m -160.08037,228.8189 139.35554,0 13.1815,-129.95202 64.03186,0 14.1383,129.95202 149.7046,0 L 887.95302,-1.6949219e-5 l -155.37229,0 L 619.5882,699.6382 Z m -231.63027,0 148.76468,0 0,-301.30873 96.06114,0 0,-118.66022 -96.06114,0 0,-148.77169 126.17263,0 0,-128.0637369 -274.93731,0 0,696.8043769 z m -219.40836,6.59778 c 121.4786,0 171.38482,-65.92156 171.38482,-196.80508 l 0,-506.5970769 -141.25085,0 0,504.7242369 c 0,68.7259 -9.41055,76.26782 -25.42448,76.26782 -16.00692,0 -25.43151,-8.47202 -25.43151,-78.15751 l 0,-502.8345469 L 0,2.8338231 0,512.2521 c 0,129.95202 47.085022,193.98388 168.54957,193.98388"
+   id="path4140"
+   inkscape:connector-curvature="0"
+   style="fill:#054570" />
+  </g>
+  </g>
 </svg>

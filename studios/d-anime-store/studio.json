@@ -13,13 +13,18 @@
       }
     ],
     "artwork": {
-      "logo": [
+      "thumb": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
         "svg",
         "webp"
       ]
     },
     "aka": [
       "dAnime Store"
-    ]
+    ],
+    "placeholder": true
   }
 ]

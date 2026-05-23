@@ -14,10 +14,15 @@
       }
     ],
     "artwork": {
-      "logo": [
+      "thumb": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
         "svg",
         "webp"
       ]
-    }
+    },
+    "placeholder": true
   }
 ]
