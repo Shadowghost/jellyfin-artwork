@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="channel-1-1 (primary)">
-  <rect width="1024" height="1024" fill="#FFFFFF"/>
-  <g transform="translate(96 373.3333) scale(0.9244)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="channel-1-1 (primary)">
+  <rect width="360" height="360" fill="#FFFFFF"/>
+  <g transform="translate(40 133.3333) scale(0.3111)">
   <path fill="#c70025" d="M0 0h200v200h100v100H0V200h100V100H0V0zm300 100h100V0h100v100h100v100H500v100H400V200H300V100zM600 0h200v200h100v100H600V200h100V100H600V0z"/>
   </g>
 </svg>

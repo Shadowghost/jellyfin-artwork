@@ -413,19 +413,31 @@ def main():
         description=__doc__,
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
-    ap.add_argument("directory", help="root directory to scan recursively")
+    ap.add_argument(
+        "directory", nargs="+",
+        help="root directory (or directories) to scan recursively. "
+             "Accepts shell globs, e.g. `studios/warner*`.",
+    )
     ap.add_argument("--dry-run", action="store_true", help="report changes without writing")
     args = ap.parse_args()
 
-    root = os.path.abspath(args.directory)
-    if not os.path.isdir(root):
-        sys.exit(f"not a directory: {root}")
+    roots: list[str] = []
+    for d in args.directory:
+        ad = os.path.abspath(d)
+        if not os.path.isdir(ad):
+            sys.exit(f"not a directory: {d}")
+        roots.append(ad)
 
-    targets = []
-    for dp, _, files in os.walk(root):
-        for name in files:
-            if name == "logo.svg":
-                targets.append(os.path.join(dp, name))
+    seen: set[str] = set()
+    targets: list[str] = []
+    for root in roots:
+        for dp, _, files in os.walk(root):
+            for name in files:
+                if name == "logo.svg":
+                    p = os.path.join(dp, name)
+                    if p not in seen:
+                        seen.add(p)
+                        targets.append(p)
     targets.sort()
 
     if not targets:
@@ -436,8 +448,9 @@ def main():
     print(f"processing {total} logo.svg files")
 
     scaled = errored = 0
+    cwd = os.getcwd()
     for i, path in enumerate(targets, 1):
-        rel = os.path.relpath(path, root)
+        rel = os.path.relpath(path, cwd)
         try:
             old_dims, new_dims = process_file(path, args.dry_run)
             scaled += 1

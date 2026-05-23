@@ -11,19 +11,15 @@
       }
     ],
     "artwork": {
-      "logo": [
+      "thumb": [
         "svg",
         "webp"
       ],
       "primary": [
         "svg",
         "webp"
-      ],
-      "thumb": [
-        "svg",
-        "webp"
       ]
     },
-    "template": true
+    "placeholder": true
   }
 ]

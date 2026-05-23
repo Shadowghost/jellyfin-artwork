@@ -10,10 +10,21 @@ listed below match what the templates draw and what the generator
 
 ## Files
 
-| File | Aspect | Pixel canvas | Safe area | Used for |
+| File | Aspect | Pixel canvas | Safe area (default) | Used for |
 | --- | --- | --- | --- | --- |
-| [`thumb.svg`](thumb.svg) | 16:9 | 1024 × 576 | 864 × 416 (inset 80 px) | `thumb.svg`, `backdrop.svg` |
-| [`primary.svg`](primary.svg) | 1:1 | 1024 × 1024 | 832 × 832 (inset 96 px) | `primary.svg`, square logo cards |
+| [`thumb.svg`](thumb.svg) | 16:9 | 640 × 360 | 480 × 240 (L&R 80, T&B 60) | `thumb.svg`, `backdrop.svg` |
+| [`primary.svg`](primary.svg) | 1:1 | 360 × 360 | 240 × 240 (60 px) | `primary.svg`, square logo cards |
+
+The default insets shrink along one axis when the logo's aspect would
+otherwise crowd that axis:
+
+| Aspect | Logo shape | L&R inset | T&B inset | Safe area |
+| --- | --- | --- | --- | --- |
+| 16:9 thumb | wider than tall, or square | 80 | 60 | 480 × 240 |
+| 16:9 thumb | taller than wide | 80 | **40** | 480 × 280 |
+| 1:1 primary | square | 60 | 60 | 240 × 240 |
+| 1:1 primary | wider than tall | **40** | 60 | 280 × 240 |
+| 1:1 primary | taller than wide | 60 | **40** | 240 × 280 |
 
 The templates themselves are reference overlays — they are **not**
 shipped to clients. The build pipeline only ships the per-studio
@@ -23,18 +34,21 @@ artwork files that follow these specs.
 
 These apply to every produced artwork file regardless of aspect.
 
-1. **Pixel canvas.** Longer dimension is exactly 1024 px. Pixel
-   `width`/`height` attributes must match the `viewBox`; no
-   user-space offsets on the root `<svg>`.
+1. **Pixel canvas.** Fixed per aspect: 640 × 360 for 16:9, 360 × 360
+   for 1:1. Pixel `width`/`height` attributes must match the
+   `viewBox`; no user-space offsets on the root `<svg>`.
 2. **Border.** A 1 px hairline along the canvas edge is permitted but
    optional. The visible "frame" the eye perceives comes from the
    safe-area margin, not from a drawn stroke. Do **not** add chunky
    decorative borders — they read as noise at small sizes.
 3. **Safe area.** All non-background content (logo, type, marks)
-   stays inside the safe-area rectangle. The inset is uniform on all
-   four sides:
-   - 16:9 thumb: **80 px** inset → 864 × 416 safe area
-   - 1:1 primary: **96 px** inset → 832 × 832 safe area
+   stays inside the safe-area rectangle. Insets are per axis and
+   shrink on the constrained axis for off-square logos:
+   - 16:9 thumb: **L&R 80 · T&B 60** by default; T&B drops to **40**
+     when the logo is taller than wide (`lh > lw`).
+   - 1:1 primary: **60 px** all sides by default; L&R drops to **40**
+     when the logo is wider than tall, T&B drops to **40** when the
+     logo is taller than wide.
 4. **Logo placement.** Centred on the canvas, scaled to fit the
    safe area while preserving aspect ratio. Either dimension of the
    logo may touch the safe-area edge, but never the canvas edge.
@@ -71,19 +85,23 @@ custom layout).
    sure none of the logo's elements rely on a `userSpaceOnUse`
    gradient anchored to its old coordinate system.
 5. **Translate and scale to fit the safe area.** Let `(lx, ly, lw, lh)`
-   be the logo's content bbox. Compute:
+   be the logo's content bbox. Pick `inset_x` / `inset_y` from the
+   safe-area table above (defaults, swapping in the wide/tall value
+   when the logo is off-square), then compute:
 
    ```
-   scale = min(safe_w / lw, safe_h / lh)
-   tx    = canvas_w/2 - (lx + lw/2) * scale
-   ty    = canvas_h/2 - (ly + lh/2) * scale
+   safe_w = canvas_w - 2 * inset_x
+   safe_h = canvas_h - 2 * inset_y
+   scale  = min(safe_w / lw, safe_h / lh)
+   tx     = canvas_w/2 - (lx + lw/2) * scale
+   ty     = canvas_h/2 - (ly + lh/2) * scale
    ```
 
    Then wrap the logo in
    `<g transform="translate(tx ty) scale(scale)">…</g>`.
-6. **Sanity-check.** Render the file at 256 px wide. The logo should
-   sit centred, its bounding rectangle should not cross the
-   safe-area dashed line of the reference template, and the
+6. **Sanity-check.** Render the file at its native pixel size. The
+   logo should sit centred, its bounding rectangle should not cross
+   the safe-area dashed line of the reference template, and the
    background should still pass contrast at the rendered size.
 
 If your logo has both light- and dark-readable variants (some

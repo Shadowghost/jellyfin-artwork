@@ -45,10 +45,39 @@ except ImportError:
 ROOT = Path(__file__).resolve().parent.parent
 STUDIOS = ROOT / "studios"
 
+# Insets are split per-axis and can shrink when the logo's aspect would
+# otherwise crowd against the safe area:
+#   inset_x_wide → used in place of inset_x when the logo is wider than tall.
+#   inset_y_tall → used in place of inset_y when the logo is taller than wide.
+# Axes without an override stay at their base inset for every logo.
 SPECS = {
-    "16x9": {"w": 1024, "h": 576,  "inset": 80, "out": "thumb.svg",   "slot": "thumb"},
-    "1x1":  {"w": 1024, "h": 1024, "inset": 96, "out": "primary.svg", "slot": "primary"},
+    "16x9": {
+        "w": 640, "h": 360,
+        "inset_x": 80, "inset_y": 60,
+        "inset_y_tall": 40,
+        "out": "thumb.svg", "slot": "thumb",
+    },
+    "1x1": {
+        "w": 360, "h": 360,
+        "inset_x": 60, "inset_y": 60,
+        "inset_x_wide": 40,
+        "inset_y_tall": 40,
+        "out": "primary.svg", "slot": "primary",
+    },
 }
+
+
+def resolve_insets(spec: dict, lw: float, lh: float) -> tuple[int, int]:
+    """Pick (inset_x, inset_y) for a logo of size (lw, lh). Wide logos
+    (lw > lh) may use a reduced L&R inset; tall logos (lh > lw) may use
+    a reduced T&B inset. Square logos keep the base values."""
+    inset_x = spec["inset_x"]
+    inset_y = spec["inset_y"]
+    if lw > lh and "inset_x_wide" in spec:
+        inset_x = spec["inset_x_wide"]
+    elif lh > lw and "inset_y_tall" in spec:
+        inset_y = spec["inset_y_tall"]
+    return inset_x, inset_y
 
 # WCAG 2.1 thresholds
 MIN_RATIO = 4.5   # AA — normal text. Hard floor for accepting a background.
@@ -440,11 +469,12 @@ def build_svg(
         raise RuntimeError("logo has no <svg> body")
     inner = expand_entities(inner, collect_entities(logo_text))
 
-    cw, ch, inset = spec["w"], spec["h"], spec["inset"]
+    cw, ch = spec["w"], spec["h"]
+    inset_x, inset_y = resolve_insets(spec, lw, lh)
     if source_has_bg:
         scale = min(cw / lw, ch / lh)
     else:
-        safe_w, safe_h = cw - 2 * inset, ch - 2 * inset
+        safe_w, safe_h = cw - 2 * inset_x, ch - 2 * inset_y
         scale = min(safe_w / lw, safe_h / lh)
     tx = cw / 2.0 - (lx + lw / 2.0) * scale
     ty = ch / 2.0 - (ly + lh / 2.0) * scale
@@ -499,11 +529,19 @@ def update_entry(entry: dict, slot: str) -> None:
 
 
 # Signature we always emit on the wrapper <svg>. Lets us tell our own
-# generated thumbs apart from hand-authored ones so --force doesn't
-# wipe out hand-crafted artwork. The studio name appears verbatim
-# inside the aria-label so a stray match in unrelated XML is unlikely.
+# generated artwork apart from hand-authored thumbs so --force doesn't
+# wipe out bespoke files. We accept the markers from BOTH generators:
+#   (thumb)/(primary) — emitted by this script
+#   (placeholder)     — emitted by scripts/generate_placeholders.py
+# Placeholders are also "ours", so when a studio gets a real logo.svg
+# and is re-run through this generator, the placeholder gets replaced
+# without needing --overwrite-handcrafted. Hand-crafted thumbs have
+# none of these markers and stay protected. The studio name appears
+# verbatim inside the aria-label so a stray match in unrelated XML is
+# unlikely.
 GENERATOR_SIGNATURE_RE = re.compile(
-    r'\brole\s*=\s*["\']img["\'][^>]*\baria-label\s*=\s*["\'][^"\']*\((?:thumb|primary)\)["\']',
+    r'\brole\s*=\s*["\']img["\'][^>]*'
+    r'\baria-label\s*=\s*["\'][^"\']*\((?:thumb|primary|placeholder)\)["\']',
     re.IGNORECASE,
 )
 
@@ -715,8 +753,11 @@ def main() -> int:
             print(f"  {tag} {msg}", flush=True)
 
     print()
+    safe_w = spec["w"] - 2 * spec["inset_x"]
+    safe_h = spec["h"] - 2 * spec["inset_y"]
     print(f"aspect:          {args.aspect}  ({spec['w']}x{spec['h']}, "
-          f"safe {spec['w']-2*spec['inset']}x{spec['h']-2*spec['inset']})")
+          f"safe {safe_w}x{safe_h}, "
+          f"inset L&R {spec['inset_x']}/T&B {spec['inset_y']})")
     print(f"mode:            {'WRITE' if args.write else 'dry-run'}")
     print(f"studios scanned: {len(studios)}")
     for k in ("wrote", "plan", "skip", "warn", "err"):
