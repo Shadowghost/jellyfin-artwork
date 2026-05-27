@@ -9,7 +9,20 @@
         "logo_uri": "https://image.tmdb.org/t/p/original/a3lzJhlkoH3ghUWoagtdw1azdsm.png"
       }
     ],
-    "artwork": {},
-    "placeholder": true
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
   }
 ]

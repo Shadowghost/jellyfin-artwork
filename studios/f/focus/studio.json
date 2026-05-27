@@ -9,7 +9,20 @@
         "id": "119440"
       }
     ],
-    "artwork": {},
-    "placeholder": true
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
   }
 ]

@@ -11,7 +11,20 @@
         "logo_uri": "https://image.tmdb.org/t/p/original/7OwtRpQAFKU3KWA7InBg3h3PxqI.png"
       }
     ],
-    "artwork": {},
-    "placeholder": true
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
   }
 ]

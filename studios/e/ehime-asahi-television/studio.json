@@ -8,8 +8,21 @@
         "logo_uri": "https://image.tmdb.org/t/p/original/jzpbEQa7AzEJaWrlxGupTxJBNiT.png"
       }
     ],
-    "artwork": {},
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
     "country": "JP",
-    "placeholder": true
+    "template": true
   }
 ]
