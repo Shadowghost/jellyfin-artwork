@@ -7,8 +7,21 @@
         "id": "41712"
       }
     ],
-    "artwork": {},
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
     "country": "CA",
-    "placeholder": true
+    "template": true
   }
 ]

@@ -8,10 +8,23 @@
         "logo_uri": "https://image.tmdb.org/t/p/original/mD2IMn94LyC6u8xfqkAMiIg90Hm.png"
       }
     ],
-    "artwork": {},
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
     "country": "US",
     "homepage": "http://disneyinteractive.com/",
     "headquarters": "Glendale, California",
-    "placeholder": true
+    "template": true
   }
 ]

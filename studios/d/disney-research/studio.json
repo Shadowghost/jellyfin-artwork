@@ -7,7 +7,12 @@
         "id": "217297"
       }
     ],
-    "artwork": {},
-    "placeholder": true
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
   }
 ]
