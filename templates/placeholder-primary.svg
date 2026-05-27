@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Generic 1:1 artwork placeholder shipped at the root of the release
+  bundle. Consumers fall back to this file when a studio's manifest
+  entry has placeholder=true (or when the per-studio primary is missing).
+  Single source of truth - no per-studio variant.
+-->
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 360 360" width="360" height="360"
+     role="img" aria-label="Jellyfin studio artwork placeholder (primary)">
+  <rect width="360" height="360" fill="#1f1f1f"/>
+  <rect x="16" y="16" width="328" height="328"
+        fill="none" stroke="#3a3a3a" stroke-width="3" stroke-dasharray="12 12"/>
+  <text x="180" y="180" text-anchor="middle" dominant-baseline="middle"
+        font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif"
+        font-size="22" font-weight="600" fill="#888"
+        letter-spacing="4">PLACEHOLDER</text>
+</svg>

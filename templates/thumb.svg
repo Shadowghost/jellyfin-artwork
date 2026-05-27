@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Reference template - 16:9 thumb (thumb.svg, backdrop.svg)
+  Canvas:    640 x 360 px
+  Safe area: 480 x 240 px  (L&R inset 80, T&B inset 60)
+  Tall-logo safe area: 480 x 280 px  (T&B inset 40 when lh > lw)
+  Background must hit WCAG AA contrast (>=4.5:1) against logo content.
+  See templates/README.md for alignment instructions.
+-->
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 640 360"
+     width="640" height="360"
+     role="img" aria-label="Jellyfin artwork template (640x360 / 16:9)">
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#2a2a2a" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+
+  <!-- Canvas -->
+  <rect width="640" height="360" fill="#1a1a1a"/>
+  <rect width="640" height="360" fill="url(#grid)"/>
+
+  <!-- Outer hairline border (canvas edge) -->
+  <rect x="0.5" y="0.5" width="639" height="359" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+
+  <!-- Default safe area - L&R 80, T&B 60 -->
+  <rect x="80" y="60" width="480" height="240"
+        fill="none" stroke="#4cc4ff" stroke-width="2" stroke-dasharray="10 6"/>
+
+  <!-- Tall-logo safe area - T&B 40 when the logo is taller than wide -->
+  <rect x="80" y="40" width="480" height="280"
+        fill="none" stroke="#4cc4ff" stroke-width="1" stroke-dasharray="4 4" opacity="0.45"/>
+
+  <!-- Center crosshair -->
+  <line x1="320" y1="60"  x2="320" y2="300" stroke="#4cc4ff" stroke-width="1" stroke-dasharray="2 4" opacity="0.6"/>
+  <line x1="80"  y1="180" x2="560" y2="180" stroke="#4cc4ff" stroke-width="1" stroke-dasharray="2 4" opacity="0.6"/>
+  <circle cx="320" cy="180" r="4" fill="none" stroke="#4cc4ff" stroke-width="1.5"/>
+  <circle cx="320" cy="180" r="1" fill="#4cc4ff"/>
+
+  <!-- Rule-of-thirds intersections inside the default safe area -->
+  <g fill="#4cc4ff" opacity="0.55">
+    <circle cx="240" cy="140" r="2"/>
+    <circle cx="400" cy="140" r="2"/>
+    <circle cx="240" cy="220" r="2"/>
+    <circle cx="400" cy="220" r="2"/>
+  </g>
+
+  <!-- Labels -->
+  <g font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" fill="#e0e0e0">
+    <text x="10" y="20" font-size="11" font-weight="600">640 × 360 · 16:9</text>
+    <text x="630" y="20" font-size="9" text-anchor="end" fill="#888">thumb / backdrop</text>
+    <text x="320" y="350" font-size="9" text-anchor="middle" fill="#4cc4ff">
+      SAFE 480 × 240 · L&amp;R 80 / T&amp;B 60 - tall logo: T&amp;B 40
+    </text>
+  </g>
+</svg>
