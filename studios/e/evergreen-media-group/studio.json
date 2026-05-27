@@ -10,20 +10,7 @@
         "id": "31375"
       }
     ],
-    "artwork": {
-      "logo": [
-        "svg",
-        "webp"
-      ],
-      "primary": [
-        "svg",
-        "webp"
-      ],
-      "thumb": [
-        "svg",
-        "webp"
-      ]
-    },
-    "template": true
+    "artwork": {},
+    "placeholder": true
   }
 ]

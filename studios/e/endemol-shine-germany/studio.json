@@ -8,10 +8,23 @@
         "logo_uri": "https://image.tmdb.org/t/p/original/gNOQEfRjBb8ll21BGNRtGxi2Nn9.png"
       }
     ],
-    "artwork": {},
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
     "country": "DE",
     "homepage": "https://www.endemolshine.de",
     "headquarters": "Cologne, North Rhine-Westphalia",
-    "placeholder": true
+    "template": true
   }
 ]

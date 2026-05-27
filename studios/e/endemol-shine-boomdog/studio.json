@@ -8,10 +8,23 @@
         "logo_uri": "https://image.tmdb.org/t/p/original/yLBlGPSfTi0GyXIn6uSgN6bGsy5.png"
       }
     ],
-    "artwork": {},
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
     "country": "MX",
     "homepage": "https://endemolshinebd.com",
     "headquarters": "Huixquilucan, State of Mexico",
-    "placeholder": true
+    "template": true
   }
 ]

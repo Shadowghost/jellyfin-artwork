@@ -8,10 +8,23 @@
         "logo_uri": "https://image.tmdb.org/t/p/original/46V6pgfiaTweJ08ErYveQbkHisu.png"
       }
     ],
-    "artwork": {},
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
     "country": "IN",
     "homepage": "https://endemolshineindia.in/",
     "headquarters": "Mumbai, Maharashtra, India",
-    "placeholder": true
+    "template": true
   }
 ]

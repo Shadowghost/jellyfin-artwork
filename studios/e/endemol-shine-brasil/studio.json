@@ -8,10 +8,23 @@
         "logo_uri": "https://image.tmdb.org/t/p/original/Aoo7bAiviEFFglfTITPRDFb1uGg.png"
       }
     ],
-    "artwork": {},
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
     "country": "BR",
     "homepage": "https://endemolshine.com.br/",
     "headquarters": "São Paulo, São Paulo",
-    "placeholder": true
+    "template": true
   }
 ]

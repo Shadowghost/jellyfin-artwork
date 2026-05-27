@@ -7,10 +7,23 @@
         "id": "115085"
       }
     ],
-    "artwork": {},
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
     "country": "GB",
     "homepage": "http://www.endemolshineuk.com/",
     "headquarters": "London",
-    "placeholder": true
+    "template": true
   }
 ]

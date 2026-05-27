@@ -23,20 +23,7 @@
         "logo_uri": "https://image.tmdb.org/t/p/original/i0WERoFpOlFXEYZrpyc419ak8DW.png"
       }
     ],
-    "artwork": {
-      "logo": [
-        "svg",
-        "webp"
-      ],
-      "primary": [
-        "svg",
-        "webp"
-      ],
-      "thumb": [
-        "svg",
-        "webp"
-      ]
-    },
-    "template": true
+    "artwork": {},
+    "placeholder": true
   }
 ]

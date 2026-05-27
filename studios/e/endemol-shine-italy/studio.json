@@ -8,9 +8,22 @@
         "logo_uri": "https://image.tmdb.org/t/p/original/nSeqwmy9llGSEl3qFxj1zODzMm2.png"
       }
     ],
-    "artwork": {},
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
     "country": "IT",
     "homepage": "https://www.endemolshine.it/",
-    "placeholder": true
+    "template": true
   }
 ]

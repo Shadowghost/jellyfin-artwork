@@ -8,10 +8,23 @@
         "logo_uri": "https://image.tmdb.org/t/p/original/tw4ArhlRSvmHsdd3qPzjTYOA3N5.png"
       }
     ],
-    "artwork": {},
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
     "country": "PL",
     "homepage": "http://www.endemolshine.pl/",
     "headquarters": "Warsaw",
-    "placeholder": true
+    "template": true
   }
 ]

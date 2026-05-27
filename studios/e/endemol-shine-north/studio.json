@@ -8,10 +8,23 @@
         "logo_uri": "https://image.tmdb.org/t/p/original/4VF0hqGiATP26gtJl9TOuUxYz3q.png"
       }
     ],
-    "artwork": {},
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
     "country": "GB",
     "homepage": "http://www.esnorth.tv",
     "headquarters": "Manchester, England, UK",
-    "placeholder": true
+    "template": true
   }
 ]
