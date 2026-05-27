@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="playtone (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="166.36" height="39.28"/></clipPath>
   <rect width="640" height="360" fill="#000000"/>
-  <g transform="translate(80 123.3325) scale(2.8853)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 123.3325) scale(2.8853)">
   <defs>
     <style>
       .cls-1 {

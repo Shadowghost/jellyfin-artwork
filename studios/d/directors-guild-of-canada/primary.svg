@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="directors-guild-of-canada (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="209.9856" height="48.2242"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 147.8483) scale(1.3334)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 147.8483) scale(1.3334)">
 <g>
 	<rect width="39.371" height="8.885"/>
 	<polygon points="0,11.247 18.114,11.247 18.114,22.22 39.461,22.22 39.461,8.885 58.212,8.885 58.212,20.767 37.79,33.815 

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="toei-company (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="300.0168" height="66.49"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 126.811) scale(1.5999)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 126.811) scale(1.5999)">
   <g data-rescale-wrap="1" transform="translate(-0.00324 0)">
  <g class="layer">
   <title>Layer 1</title>

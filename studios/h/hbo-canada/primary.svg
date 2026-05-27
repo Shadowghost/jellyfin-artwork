@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="hbo-canada (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="4.2246" height="2.5119"/></clipPath>
   <rect width="360" height="360" fill="#000000"/>
-  <g transform="translate(40 96.7582) scale(66.2779)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 96.7582) scale(66.2779)">
   <g data-rescale-wrap="1" transform="translate(-0.00435 -0.005161)">
  <defs
    id="defs4"><style

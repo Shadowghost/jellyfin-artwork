@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="superprod-animation (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="187.9826" height="42.183"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 148.5842) scale(1.4895)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 148.5842) scale(1.4895)">
   <defs>
     <clipPath id="clip-path">
       <rect id="Rectangle_19" data-name="Rectangle 19" width="187.982" height="42.182"/>

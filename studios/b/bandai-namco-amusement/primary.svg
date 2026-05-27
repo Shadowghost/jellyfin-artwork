@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="bandai-namco-amusement (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1000" height="801.311"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(0 35.764) scale(0.36)">
+  <g clip-path="url(#logo-clip)" transform="translate(0 35.764) scale(0.36)">
 <g>
 	<path fill="#FFFFFF" d="M952.66,801.311H47.341C21.191,801.311,0,780.118,0,753.97V47.341C0,21.204,21.191,0,47.341,0H952.66
 		C978.8,0,1000,21.204,1000,47.341V753.97C1000,780.118,978.8,801.311,952.66,801.311"/>

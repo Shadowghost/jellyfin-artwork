@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="fox-movie-channel (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1000" height="695.626"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 82.6124) scale(0.28)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 82.6124) scale(0.28)">
 <g>
 	<polygon fill="#2C3C6B" points="0.27,695.626 1000,695.626 981.514,507.669 943.533,486.033 967.514,482.282 965.302,459.308 
 		965.035,459.106 918.214,430.504 915.4,398.018 915.132,397.816 903.612,390.447 965.169,378.859 965.302,378.859 965.37,378.794 

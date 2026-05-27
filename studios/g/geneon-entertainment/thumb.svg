@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="geneon-entertainment (thumb)">
+  <clipPath id="logo-clip"><rect x="-0" y="0" width="1000" height="264.0518"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 116.6276) scale(0.48)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 116.6276) scale(0.48)">
 <g>
 	<g>
 		<path fill="#4D3F45" d="M53.932,82.292c-2.631-9.296,3.737-19.154,14.066-22.302l0,0l92.012-28.127l0,0L141.874,0l0,0

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="fine-line-features (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="999.9994" height="474.317"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 66.1639) scale(0.48)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 66.1639) scale(0.48)">
 <g>
 	<path d="M211.316,137.038L17.412,173.463C17.751,176.013,0,93.314,0,93.314l195.522-36.32L211.316,137.038"/>
 	<polyline points="220.156,255.821 101.146,255.752 101.024,375.519 17.925,375.572 17.751,176.013 219.747,176.013 

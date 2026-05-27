@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="weathering-with-you-film-partners (primary)">
+  <clipPath id="logo-clip"><rect x="0.3569" y="-0.242" width="411.7151" height="115.864"/></clipPath>
   <rect width="360" height="360" fill="#000000"/>
-  <g transform="translate(39.7573 140.7661) scale(0.6801)">
+  <g clip-path="url(#logo-clip)" transform="translate(39.7573 140.7661) scale(0.6801)">
  <defs>
   <style>.a,.b,.c,.d,.e{fill:#fff;}.a{filter:url(#b);}.b{filter:url(#d);}.c{filter:url(#f);}.d{filter:url(#h);}.e{filter:url(#j);}.f{fill:#0cf;}.g{mask:url(#a);}.h{mask:url(#c);}.i{mask:url(#e);}.j{mask:url(#g);}.k{mask:url(#i);}</style>
   <filter id="b" x="323" y="376" width="24" height="27" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">

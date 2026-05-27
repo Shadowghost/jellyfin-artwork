@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="france-televisions-distribution (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="566.9291" height="278.1632"/></clipPath>
   <rect width="360" height="360" fill="#000000"/>
-  <g transform="translate(40 111.3091) scale(0.4939)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 111.3091) scale(0.4939)">
   <g data-rescale-wrap="1" transform="translate(-17.716496 -17.70973)">
   <defs
      id="defs2409" />

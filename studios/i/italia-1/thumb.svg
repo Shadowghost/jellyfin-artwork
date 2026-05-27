@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="italia-1 (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="499.075" height="500.0167"/></clipPath>
   <rect width="640" height="360" fill="#000000"/>
-  <g transform="translate(180.2637 40) scale(0.56)">
+  <g clip-path="url(#logo-clip)" transform="translate(180.2637 40) scale(0.56)">
   <g data-rescale-wrap="1" transform="translate(0 -0.009775)">
 <path id="path53392" fill="#028CD6" d="M466.9,258.1l-208,208c-4.1,4.2-10.3,5-15.2,2.5l79.5-79.6c0-0.6,7.6-7.2,7.6-21.6V103.1
 	l136.2,136.2C472.1,244.5,472.1,252.9,466.9,258.1 M196.2,460.7v-38.4l0-226.6h-46.5c-14.3,0-16.1-3.1-8.3-10.9L276.8,49.1

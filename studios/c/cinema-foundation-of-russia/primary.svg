@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="cinema-foundation-of-russia (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="56.32" height="20.77"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 128.37) scale(4.9716)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 128.37) scale(4.9716)">
  <g class="layer">
   <title>Layer 1</title>
   <path d="m12.67,6.38l0,8.01c2.2,0 4.05,-1.85 4.05,-4.03c0,-2.2 -1.81,-3.99 -4.05,-3.99" fill="#764B9E" id="svg_2"/>

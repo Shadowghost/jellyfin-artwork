@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="cloverworks (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="-0.1" width="277.2639" height="95.5"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 131.8798) scale(1.0099)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 131.8798) scale(1.0099)">
  <defs>
   <linearGradient id="a" x2="277.44" y1="47.708" y2="47.708" gradientUnits="userSpaceOnUse">
    <stop stop-color="#5A5AAA" offset="0"/>

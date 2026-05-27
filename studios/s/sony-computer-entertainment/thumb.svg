@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="sony-computer-entertainment (thumb)">
+  <clipPath id="logo-clip"><rect x="1.64" y="2.02" width="427.72" height="594.38"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(218.4825 39.0484) scale(0.4711)">
+  <g clip-path="url(#logo-clip)" transform="translate(218.4825 39.0484) scale(0.4711)">
   <defs>
     <style>
       .cls-1 {

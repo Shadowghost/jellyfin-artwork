@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="telepictures (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1000" height="984.617"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(58.1252 60) scale(0.2437)">
+  <g clip-path="url(#logo-clip)" transform="translate(58.1252 60) scale(0.2437)">
 <g>
 	<polygon points="1.548,761.894 78.637,761.894 78.637,794.686 58.428,793.753 58.428,862.823 21.758,862.823 21.758,793.753    1.548,794.686  "/>
 	<polygon points="87.742,761.894 155.607,761.894 155.607,789.475 124.691,789.475 124.691,799.097 152.928,799.097 152.928,825.34    124.691,825.34 124.691,835.241 156.686,835.241 156.686,862.823 87.742,862.823  "/>

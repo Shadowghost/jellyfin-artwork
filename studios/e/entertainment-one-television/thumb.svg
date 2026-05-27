@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="entertainment-one-television (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="2000.425" height="287.435"/></clipPath>
   <rect width="640" height="360" fill="#000000"/>
-  <g transform="translate(80 145.5151) scale(0.2399)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 145.5151) scale(0.2399)">
 <g>
 	<g>
 		<g>

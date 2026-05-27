@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="tv-u-yamagata (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="222.3" height="47.4"/></clipPath>
   <rect width="360" height="360" fill="#000000"/>
-  <g transform="translate(40 150.1484) scale(1.2596)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 150.1484) scale(1.2596)">
   <g data-rescale-wrap="1" transform="translate(-6.3 -6.3)">
 <path fill="#01B7A1" d="M218,6.3l-21.7,24.9L173.7,6.3h-48.2V47h-21V6.3H6.3V17h21v36.7h29V17h21.2v23.7c0,7.2,5.8,13,13,13h49
 	c7.2,0,13-5.8,13-13V17l21.8,22v14.7h29v-18l25.3-29.4H218z"/>

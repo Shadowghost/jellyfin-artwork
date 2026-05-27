@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="kyushu-asahi-broadcasting (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="350" height="105.7399"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 137.7041) scale(0.8)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 137.7041) scale(0.8)">
  <defs>
   <style>.i{fill:#fff;}.j{fill:#444;}.k{fill:red;}</style>
  </defs>

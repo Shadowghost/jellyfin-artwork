@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="tulip-television (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="449.2763" height="89.1288"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 132.388) scale(1.0684)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 132.388) scale(1.0684)">
 <defs
    id="defs2808" />
 <style

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="the-brazilian-development-bank (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="500.0016" height="102.9767"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 151.1666) scale(0.56)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 151.1666) scale(0.56)">
   <g data-rescale-wrap="1" transform="translate(0.000002 -0.01181)">
  <g transform="matrix(.65762 0 0 .65762 -1.856e-6 .01181)">
   <path class="cls-1" transform="translate(-215.14,-342.66)" d="m260.27 397.77a53.91 53.91 0 0 0-45.13 24.38v74.68h74.76a54 54 0 0 0-29.63-99.06zm-45.13-55.11v62.34l61.69-61.68 91.87 91.87-61.7 61.64h62.3v-154.17z" fill="#008752"/>

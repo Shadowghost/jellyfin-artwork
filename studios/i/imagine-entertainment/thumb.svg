@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="imagine-entertainment (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="394.6254" height="112.5432"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 111.5544) scale(1.2163)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 111.5544) scale(1.2163)">
   <g data-rescale-wrap="1" transform="translate(-2.68732 -3.728411)">
   <defs
      id="defs3165" />

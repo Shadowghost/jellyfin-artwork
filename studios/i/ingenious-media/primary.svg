@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="ingenious-media (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="264.5833" height="39.9412"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 158.8657) scale(1.0583)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 158.8657) scale(1.0583)">
   <defs
      id="defs14941" />
   <sodipodi:namedview

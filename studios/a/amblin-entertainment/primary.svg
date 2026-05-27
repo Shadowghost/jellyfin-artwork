@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="amblin-entertainment (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1000" height="429.747"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 119.8354) scale(0.28)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 119.8354) scale(0.28)">
   <g data-rescale-wrap="1" transform="translate(0 -1.136)">
 <g>
 	<path d="M159.996,1.136c-82.064,0-148.592,66.08-148.592,147.602c0,81.521,66.635,147.495,148.592,147.495   c81.955,0,148.592-66.086,148.592-147.603C308.587,67.109,242.062,1.136,159.996,1.136z"/>

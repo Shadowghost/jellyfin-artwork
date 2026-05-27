@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="sony-bmg-music-entertainment (thumb)">
+  <clipPath id="logo-clip"><rect x="5.0001" y="2.9858" width="389.9998" height="94.0287"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(73.846 118.4614) scale(1.2308)">
+  <g clip-path="url(#logo-clip)" transform="translate(73.846 118.4614) scale(1.2308)">
  <defs>
   <linearGradient id="a" y2="39.7087" gradientUnits="userSpaceOnUse" x2="213.003" y1="39.7087" x1="178.448">
    <stop stop-color="#176fc1" offset="0"/>

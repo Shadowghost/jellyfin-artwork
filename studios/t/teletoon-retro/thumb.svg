@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="teletoon-retro (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="304.7669" height="189.3793"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(126.8847 60) scale(1.2673)">
+  <g clip-path="url(#logo-clip)" transform="translate(126.8847 60) scale(1.2673)">
   <g data-rescale-wrap="1" transform="translate(0.000306 -0.00026)">
 <g>
 	<path d="M298.721,116.083c-4.291,6.098-10.455,10.192-17.811,11.823c-6.875,1.521-13.27,0.525-18.217-2.813

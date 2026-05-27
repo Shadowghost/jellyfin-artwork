@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="national-film-board-of-canada (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="300" height="145.28"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 63.776) scale(1.6)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 63.776) scale(1.6)">
   <g data-rescale-wrap="1" transform="translate(-0.000001 0.000002)">
   <defs id="defs3030"/>
   <metadata id="metadata3033">

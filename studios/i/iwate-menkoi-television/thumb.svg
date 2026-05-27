@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="iwate-menkoi-television (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="170.1" height="73.2"/></clipPath>
   <rect width="640" height="360" fill="#000000"/>
-  <g transform="translate(80 76.7196) scale(2.8219)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 76.7196) scale(2.8219)">
   <g data-rescale-wrap="1" transform="translate(-2.9 -2.9)">
 <g>
 	<path fill="#ED7EAF" d="M102.3,29.3L80.9,50.7V13.3c0-5.1-4.1-9.2-9.2-9.2h0c-2.4,0-4.8,1-6.5,2.7L50.7,21.3v-8.2c0-5-4-9-9-9h0

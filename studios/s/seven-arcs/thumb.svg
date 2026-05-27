@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="seven-arcs (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="241.2368" height="40.2333"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 139.973) scale(1.9897)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 139.973) scale(1.9897)">
   <g data-rescale-wrap="1" transform="translate(0.001512 0.00566)">
 <title>Seven Arcs logo</title><desc>A Japanese animation studio founded in 2002</desc>
  <metadata>

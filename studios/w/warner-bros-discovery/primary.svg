@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="warner-bros-discovery (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1966.453" height="400"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 151.5223) scale(0.1424)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 151.5223) scale(0.1424)">
 <g>
 	<g>
 		<path fill="#0022AF" d="M544.734,193.278l-60.056-147.04h28.285l34.29,87.758l37.582-91.826l37.392,91.826l34.097-87.758h27.122

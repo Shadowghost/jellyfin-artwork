@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="qed-international (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="800.316" height="767.149"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(194.8119 60) scale(0.3128)">
+  <g clip-path="url(#logo-clip)" transform="translate(194.8119 60) scale(0.3128)">
 <g>
 	<path fill="#8A201B" d="M277.434,757.717h232.43l-0.046-232.41H277.434V757.717z M268.044,767.149v-251.3l251.16,0.116v251.184
 		H268.044z"/>

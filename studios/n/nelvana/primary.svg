@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="nelvana (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="263.4297" height="67.5958"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 144.0761) scale(1.0629)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 144.0761) scale(1.0629)">
   <g data-rescale-wrap="1" transform="translate(-4.312845 -2.528939)">
   <title
      id="title3065">Nelvana (Canada) logo</title>

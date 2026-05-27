@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="warner-music-japan (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1830.1785" height="794.4383"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 75.8215) scale(0.2623)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 75.8215) scale(0.2623)">
   <g data-rescale-wrap="1" transform="translate(-6.597931 -6.408714)">
 
 <g transform="translate(0.000000,809.000000) scale(0.100000,-0.100000)"

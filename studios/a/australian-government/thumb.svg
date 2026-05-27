@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="australian-government (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="389.8046" height="94.5115"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 121.8099) scale(1.2314)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 121.8099) scale(1.2314)">
   <g data-rescale-wrap="1" transform="translate(-0.000066 -0.488281)">
 <defs>
 <clipPath id="clip1">

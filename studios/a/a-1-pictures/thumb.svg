@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="a-1-pictures (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="99.0824" height="84.6781"/></clipPath>
   <rect width="640" height="360" fill="#000000"/>
-  <g transform="translate(179.5872 60) scale(2.8343)">
+  <g clip-path="url(#logo-clip)" transform="translate(179.5872 60) scale(2.8343)">
   <g data-rescale-wrap="1" transform="translate(-0.057266 -0.5367)">
  <title id="title251">A-1 Pictures logo</title>
  <defs id="defs260">

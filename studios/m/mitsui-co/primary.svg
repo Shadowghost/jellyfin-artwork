@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="mitsui-co (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="710" height="867.3"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(65.3914 40) scale(0.3228)">
+  <g clip-path="url(#logo-clip)" transform="translate(65.3914 40) scale(0.3228)">
   <g data-rescale-wrap="1" transform="translate(0 -126.3)">
 <g xmlns="http://www.w3.org/2000/svg" id="text">
 	<path fill="none" d="M647.5,932.1c-12.1,0-22.2,10.1-22.2,22.2c0,12.1,10.1,22.2,22.2,22.2c12.1,0,22.2-10.1,22.2-22.2   C669.7,942.2,659.6,932.1,647.5,932.1z"/>

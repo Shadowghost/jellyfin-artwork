@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="disney (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="999.9998" height="546.0246"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 103.5565) scale(0.28)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 103.5565) scale(0.28)">
 <defs
    id="defs13" />
 <style

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="overture-films (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1000.001" height="703.4551"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(149.4132 60) scale(0.3412)">
+  <g clip-path="url(#logo-clip)" transform="translate(149.4132 60) scale(0.3412)">
   <g data-rescale-wrap="1" transform="translate(0 0.000062)">
 <g>
 	<path d="M95.699,430.448l-0.302,0.666L95.699,430.448c-8.468-3.75-17.724-5.564-27.583-5.564c-19.24,0-35.208,5.988-47.853,18.146

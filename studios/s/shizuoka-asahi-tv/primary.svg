@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="shizuoka-asahi-tv (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="462.6" height="178"/></clipPath>
   <rect width="360" height="360" fill="#000000"/>
-  <g transform="translate(40 126.1306) scale(0.6053)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 126.1306) scale(0.6053)">
 <style type="text/css">
 	.st0{fill:#CDCDCD;}
 	.st1{fill:#DE0B84;}

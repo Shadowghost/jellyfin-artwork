@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="toranoana (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="192.1" height="49.3"/></clipPath>
   <rect width="360" height="360" fill="#F6B318"/>
-  <g transform="translate(0 133.8053) scale(1.874)">
+  <g clip-path="url(#logo-clip)" transform="translate(0 133.8053) scale(1.874)">
   <g data-rescale-wrap="1" transform="translate(-1 -0.6)">
 <style type="text/css">
 	.st0{fill:#F7B418;}

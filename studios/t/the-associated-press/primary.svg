@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="the-associated-press (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="69.1187" height="80.0031"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(60 41.1031) scale(3.4723)">
+  <g clip-path="url(#logo-clip)" transform="translate(60 41.1031) scale(3.4723)">
 <g stroke="none">
  <polygon id="path-1" points="0.118695 0 69 0 69 79.9897778 0.118695 79.9897778" fill="#FF322D"/>
  <polygon fill="#FFF" points="0.000666739823 71.6506667 69.118695 71.6506667 69.118695 0 0.000666739823 0"/>

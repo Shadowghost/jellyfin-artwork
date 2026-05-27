@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="movistar-plus (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="298.873" height="134.8004"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 116.856) scale(0.9369)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 116.856) scale(0.9369)">
   <g data-rescale-wrap="1" transform="translate(0.00298 -0.001481)">
 <g data-name="Capa 2">
 <g data-name="Layer 1">

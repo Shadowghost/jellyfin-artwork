@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="mandeville-films (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1000" height="913.015"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(48.5673 60) scale(0.2629)">
+  <g clip-path="url(#logo-clip)" transform="translate(48.5673 60) scale(0.2629)">
 <g>
 	<polygon points="330.927,866.541 330.927,912.056 335.015,912.056 335.015,890.126 356.034,890.126 356.034,886.294 
 		335.015,886.294 335.015,870.195 356.73,870.195 356.73,866.541 	"/>

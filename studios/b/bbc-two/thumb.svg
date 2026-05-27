@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="bbc-two (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="423.7172" height="239.5556"/></clipPath>
   <rect width="640" height="360" fill="#000000"/>
-  <g transform="translate(107.7484 60) scale(1.0019)">
+  <g clip-path="url(#logo-clip)" transform="translate(107.7484 60) scale(1.0019)">
 <defs
    id="defs19">
 	

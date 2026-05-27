@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="mar-vista-productions (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1000" height="761.5505"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(162.4267 60) scale(0.3151)">
+  <g clip-path="url(#logo-clip)" transform="translate(162.4267 60) scale(0.3151)">
 <defs id="defs159">
 		<defs id="defs134">
 			<path id="SVGID_10_" d="m 603.7,289.638 -2.518,21.615 -4.08,11.077 5.686,0.032 4.123,-10.317 4.037,-14.432 -3.006,-7.976 c 0,0 3.375,-20.172 3.006,-20.172 -0.823,0.284 -7.248,20.173 -7.248,20.173"/>

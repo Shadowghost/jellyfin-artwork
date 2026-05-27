@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="amazon-mgm-studios (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1321.4815" height="277.8593"/></clipPath>
   <rect width="360" height="360" fill="#000000"/>
-  <g transform="translate(40 150.5631) scale(0.2119)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 150.5631) scale(0.2119)">
   <g data-rescale-wrap="1" transform="translate(0 -0.000002)">
   <g transform="translate(708.50279,135.23459)"><path
        style="fill:#d3ad37;stroke:none"

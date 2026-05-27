@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="carolco-pictures (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1000.0009" height="958.848"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(194.8497 60) scale(0.2503)">
+  <g clip-path="url(#logo-clip)" transform="translate(194.8497 60) scale(0.2503)">
   <g data-rescale-wrap="1" transform="translate(202.361931 58.479)">
 <g>
 	<path id="path1425" d="M382.892-58.479c-107.266,0-169.048,52.725-207.362,91.102l-94.38,103.52

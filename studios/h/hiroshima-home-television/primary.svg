@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="hiroshima-home-television (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="234.4" height="30"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 162.0819) scale(1.1945)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 162.0819) scale(1.1945)">
 <style type="text/css">
 	.st0{fill:#0862AA;}
 </style>

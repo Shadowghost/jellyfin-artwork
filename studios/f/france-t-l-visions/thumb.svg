@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="france-t-l-visions (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="566.9291" height="278.1632"/></clipPath>
   <rect width="640" height="360" fill="#000000"/>
-  <g transform="translate(80 62.2442) scale(0.8467)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 62.2442) scale(0.8467)">
   <g data-rescale-wrap="1" transform="translate(-17.716496 -17.70973)">
   <defs
      id="defs2409" />

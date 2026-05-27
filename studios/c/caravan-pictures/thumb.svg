@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="caravan-pictures (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="298.8906" height="221"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(157.7064 60) scale(1.086)">
+  <g clip-path="url(#logo-clip)" transform="translate(157.7064 60) scale(1.086)">
   <g data-rescale-wrap="1" transform="translate(-0.054688 0)">
 <g id="surface1">
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 0.0546875 0 L 298.945312 0 L 298.945312 221 L 0.0546875 221 Z M 0.0546875 0 "/>

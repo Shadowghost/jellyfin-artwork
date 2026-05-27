@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="cj-investment (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="320.7835" height="275.4178"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(180.2341 60) scale(0.8714)">
+  <g clip-path="url(#logo-clip)" transform="translate(180.2341 60) scale(0.8714)">
   <g data-rescale-wrap="1" transform="translate(0 -0.000221)">
 <path fill="#E31B23" d="M221.055,211.009c-4.691-35.371-22.1-64.218-39.898-64.361c-17.801,0-43.802,28.881-58.955,64.416
 	c-15.149,35.545,1.992,64.354,40.102,64.354C200.657,275.016,225.737,246.445,221.055,211.009"/>

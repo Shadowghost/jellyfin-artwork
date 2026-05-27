@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="zdfneo (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="446.168" height="376.045"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 62.0034) scale(0.6276)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 62.0034) scale(0.6276)">
 	
 		<g id="Ebene_1" i:layer="yes" i:dimmedPercent="50" i:rgbTrio="#4F008000FFFF">
 			<polygon i:knockout="Off" points="0,51.334 0,376.045 204.334,332.641 204.334,375.999 446.168,324.665 446.168,58.667      242.001,102.142 242.001,0 "/>

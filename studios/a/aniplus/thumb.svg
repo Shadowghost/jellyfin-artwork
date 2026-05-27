@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="aniplus (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="352.9603" height="52.9167"/></clipPath>
   <rect width="640" height="360" fill="#000000"/>
-  <g transform="translate(80 144.0186) scale(1.3599)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 144.0186) scale(1.3599)">
   <g data-rescale-wrap="1" transform="translate(-2.645833 -2.64583)">
   <sodipodi:namedview
      id="namedview7"

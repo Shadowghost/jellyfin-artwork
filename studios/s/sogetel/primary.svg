@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="sogetel (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="248.937" height="17.546"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 170.1323) scale(1.1248)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 170.1323) scale(1.1248)">
   <title>Sogetel</title>
   <g fill="#101e40">
     <path d="M63.733,0.613c0,0,16.448,5.908-5.053,16.294 C96.36,5.76,63.733,0.613,63.733,0.613L63.733,0.613z" fill-rule="evenodd" clip-rule="evenodd" fill="#40b6e4"/>

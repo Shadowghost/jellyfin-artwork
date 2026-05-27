@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="tokyo-movie (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="999.999" height="629.3786"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 91.8869) scale(0.28)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 91.8869) scale(0.28)">
   <g data-rescale-wrap="1" transform="translate(0 0.000294)">
 <g>
 	<path fill="#E4007E" d="M508.26,106.406c28.149,0,50.967-22.781,50.967-50.897c0-28.151-22.817-50.967-50.967-50.967

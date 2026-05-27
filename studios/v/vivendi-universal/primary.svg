@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="vivendi-universal (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1439.36" height="330.8043"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 147.8242) scale(0.1945)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 147.8242) scale(0.1945)">
   <g data-rescale-wrap="1" transform="translate(-18.17 -13.292284)">
 <title>Vivendi Universal logo</title>    
  <g id="vlpa" fill="#bf0a32">

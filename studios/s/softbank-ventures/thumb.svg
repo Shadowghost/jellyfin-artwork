@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="softbank-ventures (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="210.2453" height="30.7868"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 144.8562) scale(2.283)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 144.8562) scale(2.283)">
   <g data-rescale-wrap="1" transform="translate(-3 -3)">
   <defs
      id="defs3298" />

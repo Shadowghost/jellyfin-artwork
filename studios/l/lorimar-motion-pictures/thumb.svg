@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="lorimar-motion-pictures (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="503.3346" height="105.7081"/></clipPath>
   <rect width="640" height="360" fill="#000000"/>
-  <g transform="translate(80 129.5962) scale(0.9536)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 129.5962) scale(0.9536)">
   <g data-rescale-wrap="1" transform="translate(-6.088438 -2.4)"><defs
    id="defs18" />
 <style

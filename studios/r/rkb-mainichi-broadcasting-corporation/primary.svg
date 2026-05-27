@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="rkb-mainichi-broadcasting-corporation (primary)">
+  <clipPath id="logo-clip"><rect x="-0.0006" y="-0" width="1487.5158" height="673.0001"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40.0001 116.6595) scale(0.1882)">
+  <g clip-path="url(#logo-clip)" transform="translate(40.0001 116.6595) scale(0.1882)">
 	<defs>
 		<style type="text/css">
 			.cls-1{fill:#241717;}

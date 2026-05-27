@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="apple-music (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1230.7" height="297.1"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 146.203) scale(0.2275)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 146.203) scale(0.2275)">
 <g>
 	<path d="M1005.7,15.2c-13,0-23.6,10.5-23.6,23.5c0,12.9,10.4,23.5,23.5,23.5s23.5-10.6,23.5-23.5
 		C1029.1,25.6,1018.7,15.2,1005.7,15.2z"/>

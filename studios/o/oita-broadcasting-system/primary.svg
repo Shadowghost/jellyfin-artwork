@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="oita-broadcasting-system (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="229.3007" height="124.4"/></clipPath>
   <rect width="360" height="360" fill="#000000"/>
-  <g transform="translate(40 104.0473) scale(1.2211)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 104.0473) scale(1.2211)">
   <g data-rescale-wrap="1" transform="translate(-3.9 -6.2)">
 <path fill="#E86984" d="M143.2,115.7h-31.1V42.4h29.3c13.7,0,22.8,7.6,22.8,18.3c0,8.6-4.5,14.2-11.6,15.6l0.1,0.2
 	c8,0.8,15.8,7.3,15.8,18.7C168.4,107.6,158.7,115.7,143.2,115.7 M139,53.7h-12.8v18.5h13.8c6.2,0,10.3-3,10.3-8.9

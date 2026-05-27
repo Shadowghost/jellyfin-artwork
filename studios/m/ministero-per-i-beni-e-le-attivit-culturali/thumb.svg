@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="ministero-per-i-beni-e-le-attivit-culturali (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="308.8" height="100"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 102.2798) scale(1.5544)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 102.2798) scale(1.5544)">
 <style type="text/css">
 	.st0{fill:#2D489D;}
 	.st1{fill:#FFFFFF;}

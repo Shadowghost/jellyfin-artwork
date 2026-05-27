@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="avex (primary)">
+  <clipPath id="logo-clip"><rect x="4.024" y="4.0194" width="391.9967" height="334.0444"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(37.1257 57.8264) scale(0.7143)">
+  <g clip-path="url(#logo-clip)" transform="translate(37.1257 57.8264) scale(0.7143)">
  <defs>
   <linearGradient id="b" x2="1" gradientTransform="matrix(-14.78 5.9977 5.9977 14.78 110.37 459.73)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#e9eaea" offset="0"/>

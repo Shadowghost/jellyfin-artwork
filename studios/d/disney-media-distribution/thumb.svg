@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="disney-media-distribution (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="999.999" height="337.6325"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 98.9681) scale(0.48)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 98.9681) scale(0.48)">
   <g data-rescale-wrap="1" transform="translate(0 -0.001505)">
 <path d="M707.176,106.619c-9.732,2.069-35.354,2.864-35.354,2.864l-3.325,10.052c0,0,12.695-0.855,21.958,0.218
 	c0,0,2.988-0.196,3.256,3.371c0.104,3.648-0.378,7.452-0.378,7.452s-0.288,2.233-3.364,2.761

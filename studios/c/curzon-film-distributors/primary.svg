@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="curzon-film-distributors (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1785.216" height="306.04"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 155.9998) scale(0.1568)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 155.9998) scale(0.1568)">
     <defs>
         <clipPath clipPathUnits="userSpaceOnUse" id="a">
             <path d="M0 0h1920v1080H0Z" transform="translate(-1036.418 -158.648)"/>

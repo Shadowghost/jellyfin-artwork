@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="film-roman (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="941.23" height="834.04"/></clipPath>
   <rect width="360" height="360" fill="#116FB5"/>
-  <g transform="translate(0 20.4989) scale(0.3825)">
+  <g clip-path="url(#logo-clip)" transform="translate(0 20.4989) scale(0.3825)">
   <g data-rescale-wrap="1" transform="translate(349.57 345.67)">
 
 	<rect x="-349.57" y="-345.67" width="941.23" height="834.04" fill="#116fb5"/>

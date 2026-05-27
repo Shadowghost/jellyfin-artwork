@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="futabasha (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="37.985" height="31.3126"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(174.4294 60) scale(7.6646)">
+  <g clip-path="url(#logo-clip)" transform="translate(174.4294 60) scale(7.6646)">
   <g data-rescale-wrap="1" transform="translate(-0.009 0.0278)">
   <g id="ロゴ" transform="translate(-18 -9.098)">
     <g transform="translate(18 9.098)">

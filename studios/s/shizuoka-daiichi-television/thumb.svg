@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="shizuoka-daiichi-television (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="268.4" height="69.5"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 117.8539) scale(1.7884)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 117.8539) scale(1.7884)">
   <g data-rescale-wrap="1" transform="translate(-3.3 -2.4)">
 <polygon style="fill:#040000;" points="202.8,21.6 212,2.4 29.5,2.4 3.3,57.3 169.4,57.3 162.5,71.9 247.7,71.9 271.7,21.6 "/>
 <polygon style="fill:#B1C91C;" points="207.4,5.3 31.3,5.3 7.8,54.5 183.9,54.5 "/>

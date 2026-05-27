@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="australian-film-finance-corporation (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="289.3652" height="89.2407"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 105.9836) scale(1.6588)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 105.9836) scale(1.6588)">
 <style type="text/css">
 	.st0{fill:#CE3534;}
 </style>

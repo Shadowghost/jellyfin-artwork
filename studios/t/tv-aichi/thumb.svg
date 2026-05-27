@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="tv-aichi (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="195.3" height="44.2"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 125.6836) scale(2.4578)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 125.6836) scale(2.4578)">
   <g data-rescale-wrap="1" transform="translate(-3.5 -2.7)">
 <g>
 	<rect x="4.8" y="3.2" fill="#241916" width="31.5" height="6.3"/>

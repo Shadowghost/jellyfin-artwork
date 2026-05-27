@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="comedy-central (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1000" height="344.9241"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 97.2182) scale(0.48)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 97.2182) scale(0.48)">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M864.968811,186.7201233l-38.3232422,132.796814h27.6269531l4.0117188-16.9287109
 	h35.6523438l3.5683594,16.9287109h28.0693359l-38.7675781-132.796814H864.968811z M876.1104126,222.8158112
 	c0,1.7841797,0.3740234,4.4570313,1.1132813,8.0253906c0.7490234,3.5605316,1.4111328,6.8329926,2.0117188,9.800766

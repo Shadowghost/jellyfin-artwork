@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="tele-m-nchen (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="333.718" height="223.659"/></clipPath>
   <rect width="640" height="360" fill="#000000"/>
-  <g transform="translate(140.9499 60) scale(1.0731)">
+  <g clip-path="url(#logo-clip)" transform="translate(140.9499 60) scale(1.0731)">
   <defs
      id="defs3683" />
   <path

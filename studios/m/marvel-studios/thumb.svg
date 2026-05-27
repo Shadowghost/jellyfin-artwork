@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="marvel-studios (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1000" height="402.473"/></clipPath>
   <rect width="640" height="360" fill="#ED1D24"/>
-  <g transform="translate(0 51.2086) scale(0.64)">
+  <g clip-path="url(#logo-clip)" transform="translate(0 51.2086) scale(0.64)">
   <g data-rescale-wrap="1" transform="translate(215.19 86.608)">
 <g>
 	<rect x="-215.19" y="-86.608" fill="#ED1D24" width="1000" height="402.473"/>

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="conde-nast-digital (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="187.6" height="27.5"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 144.8188) scale(2.5586)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 144.8188) scale(2.5586)">
   <g id="ars-icon-logo-cn-us">
     <title>logo-cn-us</title>
     <g>

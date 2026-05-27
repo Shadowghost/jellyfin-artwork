@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="televisi-n-espa-ola-tve (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="337.8" height="170.8"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(82.6698 60) scale(1.4052)">
+  <g clip-path="url(#logo-clip)" transform="translate(82.6698 60) scale(1.4052)">
 <style type="text/css">
 	._x005B_Por_x0020_defecto_x005D_{fill:#FFFFFF;stroke:#1A171B;}
 	.Sombra{fill:#FFFFFF;}

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="kagoshima-broadcasting (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="106.7" height="26.4"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 120.6186) scale(4.4986)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 120.6186) scale(4.4986)">
   <g data-rescale-wrap="1" transform="translate(-0.9 -0.5)">
 <g>
 	<rect x="5.3" y="4.9" fill="#FF6600" width="4.4" height="4.4"/>

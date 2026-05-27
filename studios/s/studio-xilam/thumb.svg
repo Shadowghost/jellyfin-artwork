@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="studio-xilam (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1000" height="432.116"/></clipPath>
   <rect width="640" height="360" fill="#000000"/>
-  <g transform="translate(80 76.2922) scale(0.48)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 76.2922) scale(0.48)">
 <g>
 	<path fill-rule="evenodd" clip-rule="evenodd" fill="#F01010" d="M117.518,0c7.937,1.2,15.737,2.785,22.991,6.497
 		c12.165,6.224,20.916,16.103,28.786,26.845c14.876,20.3,26.244,42.598,36.654,65.416c7.467,16.37,14.145,33.064,20.268,49.979

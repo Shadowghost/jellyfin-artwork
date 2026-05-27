@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="metrodome-distribution (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="240" height="156.9093"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 88.4696) scale(1.1667)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 88.4696) scale(1.1667)">
   <g data-rescale-wrap="1" transform="translate(-5 -4.5457)">
 <g>
 	<path d="M139.016,18.634c14.57-10.67,33.359-15.566,52.275-10.889c12.668,2.103,21.791,13.118,33.911,16.789

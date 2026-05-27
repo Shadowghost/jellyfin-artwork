@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="kan-11 (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="783.8" height="303.7"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 125.754) scale(0.3572)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 125.754) scale(0.3572)">
   <g>
     <rect x="243.8" width="43.9" height="303.7"/>
     <rect x="367.2" y="33.7" width="43.9" height="202.7"/>

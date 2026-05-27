@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="walt-disney-japan (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="404.2588" height="552.0004"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(77.4707 40) scale(0.5072)">
+  <g clip-path="url(#logo-clip)" transform="translate(77.4707 40) scale(0.5072)">
   <g data-rescale-wrap="1" transform="translate(-0.047247 0)">
   <defs id="defs39"/>
   <sodipodi:namedview id="namedview37" pagecolor="#ffffff" bordercolor="#999999" borderopacity="1" inkscape:showpageshadow="0" inkscape:pageopacity="0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="1.365942" inkscape:cx="202.79045" inkscape:cy="276" inkscape:window-width="1920" inkscape:window-height="986" inkscape:window-x="-11" inkscape:window-y="-11" inkscape:window-maximized="1" inkscape:current-layer="svg35"/>

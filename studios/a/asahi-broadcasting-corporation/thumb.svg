@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="asahi-broadcasting-corporation (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="260.9286" height="87.2103"/></clipPath>
   <rect width="640" height="360" fill="#000000"/>
-  <g transform="translate(80 99.7847) scale(1.8396)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 99.7847) scale(1.8396)">
   <g data-rescale-wrap="1" transform="translate(0 10.5625)">
   <defs
      id="defs24036" />

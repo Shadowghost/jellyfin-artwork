@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="game-show-network (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="92.47" height="82.0209"/></clipPath>
   <rect width="640" height="360" fill="#000000"/>
-  <g transform="translate(184.7125 60) scale(2.9261)">
+  <g clip-path="url(#logo-clip)" transform="translate(184.7125 60) scale(2.9261)">
   <g data-rescale-wrap="1" transform="translate(-59.59773 0.000343)">
   <path
      d="M359 1488.586v-123.5l83-83.5h847l70 83.5v123.5z"

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="bbc-north-east-and-cumbria (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="999.0001" height="71.6388"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 162.7895) scale(0.4805)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 162.7895) scale(0.4805)">
   <g data-rescale-wrap="1" transform="translate(-0.499999 -0.499998)">
   <defs
      id="defs4201" />

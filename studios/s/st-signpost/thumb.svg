@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="st-signpost (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="422.6161" height="92.5403"/></clipPath>
   <rect width="640" height="360" fill="#000000"/>
-  <g transform="translate(80 127.4472) scale(1.1358)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 127.4472) scale(1.1358)">
   <g data-rescale-wrap="1" transform="translate(-0.000084 0.00001)">
 <title>Studio Signpost logo</title>
 <desc>Japanese animation studio</desc>

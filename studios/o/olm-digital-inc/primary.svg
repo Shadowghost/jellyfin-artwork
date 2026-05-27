@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="olm-digital-inc (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="763.659" height="452.434"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 97.0562) scale(0.3667)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 97.0562) scale(0.3667)">
   <g data-rescale-wrap="1" transform="translate(-4.416154 0.079113)">
 <title>OLM logo</title><desc>A Japanese animation studio founded in 1990</desc>
  <metadata>

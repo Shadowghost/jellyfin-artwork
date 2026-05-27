@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="gaumont-distribution (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="323.0407" height="106.4185"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 100.9374) scale(1.4859)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 100.9374) scale(1.4859)">
   <g data-rescale-wrap="1" transform="translate(-0.999669 -1.000749)">
   <defs id="defs4885"/>
   <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="2.7674534" inkscape:cx="162.52" inkscape:cy="54.209996" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:window-width="1024" inkscape:window-height="678" inkscape:window-x="-4" inkscape:window-y="-4" inkscape:window-maximized="1"/>

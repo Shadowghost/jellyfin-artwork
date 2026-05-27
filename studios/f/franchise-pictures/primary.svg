@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="franchise-pictures (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="713.938" height="1000"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80.0487 40) scale(0.28)">
+  <g clip-path="url(#logo-clip)" transform="translate(80.0487 40) scale(0.28)">
 <g>
 	<path d="M414.188,90.904c0,22.708-11.766,40.461-36.781,40.461c-25.667,0-36.78-17.063-36.78-41.839V42.94   c0-21.471,9.427-42.94,37.952-42.94c28.35,0,35.609,24.843,35.609,39.02v7.363h-29.314V33.101c0-2.959-0.998-7.57-6.85-7.57   c-7.604,0-8.084,6.47-8.084,13.075v56.979c0,2.546,0.895,10.319,7.467,10.319c7.09,0,7.467-7.363,7.467-13.349V81.819h29.314   V90.904"/>
 	<polyline points="50.852,1.585 50.852,27.115 29.382,27.115 29.382,50.787 49.167,50.787 49.167,76.384 29.382,76.384    29.382,129.783 0,129.783 0,1.585 50.852,1.585  "/>

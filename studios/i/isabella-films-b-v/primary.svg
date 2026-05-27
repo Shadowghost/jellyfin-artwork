@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="isabella-films-b-v (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="262.4066" height="53.3776"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 151.5218) scale(1.067)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 151.5218) scale(1.067)">
   <g data-rescale-wrap="1" transform="translate(-23.286182 -6.548632)">
 <metadata>
 Created by potrace 1.10, written by Peter Selinger 2001-2011

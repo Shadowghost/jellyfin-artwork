@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="chiba-tv (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="200" height="38.8885"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 133.3338) scale(2.4)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 133.3338) scale(2.4)">
   <g data-rescale-wrap="1" transform="translate(0 -0.000493)">
 <g>
 	<path style="fill:#D72835;" d="M76.235,0.438c0.848,0.638,1.16,1.572,0.944,2.789l0.123-0.09c0.91-0.597,1.814-0.588,2.716,0.035

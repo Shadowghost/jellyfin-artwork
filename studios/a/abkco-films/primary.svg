@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="abkco-films (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1660.4" height="3134.23"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(105.8331 40) scale(0.0893)">
+  <g clip-path="url(#logo-clip)" transform="translate(105.8331 40) scale(0.0893)">
  <defs>
   <clipPath id="clipPath9330">
    <path d="m981.33 628h4v7.526h-4z" stroke-width="1.3333"/>

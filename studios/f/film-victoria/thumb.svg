@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="film-victoria (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1000" height="370.586"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 91.0594) scale(0.48)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 91.0594) scale(0.48)">
 <g>
 	<path d="M223.291,304.788l-17.949,44.221h35.66C241.11,349.009,223.291,304.788,223.291,304.788 M197.014,369.651h-7.625
 		l33.547-81.643h0.591l33.66,81.643h-7.871l-5.505-13.838h-41.162L197.014,369.651z"/>

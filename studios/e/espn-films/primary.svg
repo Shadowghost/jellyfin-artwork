@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="espn-films (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1000" height="407.141"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 123.0003) scale(0.28)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 123.0003) scale(0.28)">
 <g>
 	<path fill="#ED1C24" d="M689.908,0.038c0,0-96.09,0.019-176.904,0.015c-82.691,0.009-167.106,0.004-186.709-0.015
 		c-37.267-0.047-61.935,19.563-65.472,48.919c-1.265,10.799-2.533,20.332-2.533,20.332l484.498,0.009c0,0,0.966-7.158,1.631-12.864

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="hbo (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="668.7" height="276.8"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 80.655) scale(0.7178)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 80.655) scale(0.7178)">
 <path d="M530.3,69.3c38.1,0,69.1,31,69.1,69.1s-31,69.1-69.1,69.1s-69.1-31-69.1-69.1S492.1,69.3,530.3,69.3 M530.3,0
 	c-76.4,0-138.4,62-138.4,138.4s62,138.4,138.4,138.4s138.4-62,138.4-138.4S606.7,0,530.3,0L530.3,0z"/>
 <path d="M530.8,85.1c-29.5,0-53.4,23.9-53.4,53.4s23.9,53.4,53.4,53.4c29.5,0,53.4-23.9,53.4-53.4S560.2,85.1,530.8,85.1L530.8,85.1

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="asahi-production (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="129.5632" height="154.455"/></clipPath>
   <rect width="640" height="360" fill="#000000"/>
-  <g transform="translate(202.5623 40) scale(1.8128)">
+  <g clip-path="url(#logo-clip)" transform="translate(202.5623 40) scale(1.8128)">
 <metadata
    id="metadata106"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type

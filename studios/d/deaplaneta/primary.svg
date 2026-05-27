@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="deaplaneta (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="79" height="60.4"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 72.962) scale(3.5443)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 72.962) scale(3.5443)">
 <style type="text/css">
 	.st0{fill:#4274B9;}
 	.st1{fill:#5289C8;}

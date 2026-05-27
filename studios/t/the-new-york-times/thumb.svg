@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="the-new-york-times (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="101.8" height="131.4"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(211.5373 40) scale(2.1309)">
+  <g clip-path="url(#logo-clip)" transform="translate(211.5373 40) scale(2.1309)">
   <g data-rescale-wrap="1" transform="translate(-0.9 -1.3)">
 <g>
 	<path d="M102.2,82.5C98,93.7,90.2,102.4,79,107V82.5l13.4-12.1L79,58.5V41.7c12.2-0.9,20.7-9.9,20.7-20.9

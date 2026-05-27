@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="universal-music (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1000" height="370.523"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 91.0745) scale(0.48)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 91.0745) scale(0.48)">
 <g>
 	<path fill-rule="evenodd" clip-rule="evenodd" d="M630.688,175.361c-17.353,53.238-66.11,94.66-127.918,94.66
 		c-65.538,0-109.603-40.864-127.292-93.504c18.404,49.039,68.488,84.199,127.39,84.199

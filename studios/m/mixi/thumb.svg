@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="mixi (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="41.9959" height="16.885"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 83.5049) scale(11.4297)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 83.5049) scale(11.4297)">
   <g data-rescale-wrap="1" transform="translate(-0.000039 -1.000039)">
     <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
     <title>logo_mixi001</title>

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="arvo-animation (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="169.1719" height="54.1113"/></clipPath>
   <rect width="360" height="360" fill="#000000"/>
-  <g transform="translate(40 135.2196) scale(1.6551)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 135.2196) scale(1.6551)">
   <g data-rescale-wrap="1" transform="translate(0.304688 0)">
   <metadata
      id="metadata24">

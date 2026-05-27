@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="isle-of-man-film (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="999.999" height="349.179"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 96.197) scale(0.48)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 96.197) scale(0.48)">
 <g>
 	<rect y="131.538" width="86.195" height="86.188"/>
 	<path d="M218.287,122.411h8.48v13.539h-8.48V122.411z M218.287,148.952h8.48v69.149h-8.48V148.952z"/>

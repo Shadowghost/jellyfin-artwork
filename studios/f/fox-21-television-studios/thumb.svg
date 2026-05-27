@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="fox-21-television-studios (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1000.652" height="462.021"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 69.1872) scale(0.4797)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 69.1872) scale(0.4797)">
 <g>
 	<polygon points="261.601,101.108 260.172,100.957 258.88,101.585 257.655,102.145 256.396,102.673 255.241,103.437 
 		255.069,104.867 254.491,106.042 254.764,107.368 254.968,108.66 255.137,109.952 255.444,111.313 256.669,111.925 

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="south-australian-film-corporation (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1189.6494" height="344.8617"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 139.4161) scale(0.2354)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 139.4161) scale(0.2354)">
   <defs id="defs1">
     <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1">
       <path d="M 0,779.528 H 1190.55 V 0 H 0 Z" transform="translate(-56.653501,-734.91752)" id="path1"/>

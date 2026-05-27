@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="endemol-shine-group-uk (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1000" height="255.642"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 118.6459) scale(0.48)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 118.6459) scale(0.48)">
   <g data-rescale-wrap="1" transform="translate(0 0.001)">
 <g>
 	<polygon fill="#57575B" points="8.635,1.434 8.635,103.357 94.874,103.357 94.874,80.015 37.427,80.015 37.427,59.133 

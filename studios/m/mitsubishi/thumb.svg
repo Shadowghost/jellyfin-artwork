@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="mitsubishi (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="224.9" height="193.97"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(180.8651 60) scale(1.2373)">
+  <g clip-path="url(#logo-clip)" transform="translate(180.8651 60) scale(1.2373)">
   <path fill="#e60012" d="m112.45 0 38.42 65.13-38.42 65.12L74.03 65.6Zm0 130.25h74.96l37.49 63.72h-74.97zm0 0H37.48L0 193.97h74.97z"/>
   </g>
 </svg>

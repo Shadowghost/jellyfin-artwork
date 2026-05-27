@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="cine-bazar (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1913.7212" height="474.0619"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 120.5478) scale(0.2508)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 120.5478) scale(0.2508)">
   <g data-rescale-wrap="1" transform="translate(-5.063601 -11.090353)">
 
 <g transform="translate(0.000000,500.000000) scale(0.100000,-0.100000)"

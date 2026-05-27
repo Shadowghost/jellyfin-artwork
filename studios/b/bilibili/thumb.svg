@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="bilibili (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="-0" width="999.9999" height="302.312"/></clipPath>
   <rect width="640" height="360" fill="#000000"/>
-  <g transform="translate(80 107.4451) scale(0.48)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 107.4451) scale(0.48)">
 <defs><style>.cls-1,.cls-2{fill:#0cb6f2}</style></defs><g
      transform="matrix(2.1717073,0,0,2.1717073,-69.239052,-172.37135)"
      fill="#0cb6f2"><path

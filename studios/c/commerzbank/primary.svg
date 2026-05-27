@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="commerzbank (primary)">
+  <clipPath id="logo-clip"><rect x="17.7165" y="17.7104" width="566.9291" height="74.5279"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(31.25 152.8488) scale(0.4939)">
+  <g clip-path="url(#logo-clip)" transform="translate(31.25 152.8488) scale(0.4939)">
   <defs
      id="defs3683">
     <radialGradient

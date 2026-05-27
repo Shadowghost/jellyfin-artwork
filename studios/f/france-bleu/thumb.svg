@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="france-bleu (thumb)">
+  <clipPath id="logo-clip"><rect x="-0" y="-0" width="500" height="500"/></clipPath>
   <rect width="640" height="360" fill="#0077D7"/>
-  <g transform="translate(140 0) scale(0.72)">
+  <g clip-path="url(#logo-clip)" transform="translate(140 0) scale(0.72)">
 <defs
      id="defs6"><clipPath
        clipPathUnits="userSpaceOnUse"

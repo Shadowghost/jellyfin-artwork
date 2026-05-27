@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="paramount-classics (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="698.9423" height="999.9998"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(82.1481 40) scale(0.28)">
+  <g clip-path="url(#logo-clip)" transform="translate(82.1481 40) scale(0.28)">
   <g data-rescale-wrap="1" transform="translate(-0.00056 0.000112)">
 <g>
 	<g>

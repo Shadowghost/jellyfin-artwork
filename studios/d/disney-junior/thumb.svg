@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="disney-junior (thumb)">
+  <clipPath id="logo-clip"><rect x="0.0092" y="0.0695" width="1737.9896" height="615.276"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(79.9975 95.017) scale(0.2762)">
+  <g clip-path="url(#logo-clip)" transform="translate(79.9975 95.017) scale(0.2762)">
  <title>Disney Junior.svg</title>
  <metadata id="metadata3125">image/svg+xml</metadata>
  <defs>

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="bbc-scotland (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="264.7924" height="89.1559"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 99.1917) scale(1.8127)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 99.1917) scale(1.8127)">
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#505050"

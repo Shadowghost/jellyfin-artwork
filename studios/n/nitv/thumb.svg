@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="nitv (thumb)">
+  <clipPath id="logo-clip"><rect x="-11.7822" y="-10.2203" width="114.336" height="111.0865"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(221.945 82.0808) scale(2.1605)">
+  <g clip-path="url(#logo-clip)" transform="translate(221.945 82.0808) scale(2.1605)">
   <title
      id="title2964">NITV 2012</title>
   <defs

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="tla-releasing (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="124.89" height="46.73"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 90.1994) scale(3.8434)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 90.1994) scale(3.8434)">
  <g class="layer">
   <title>Layer 1</title>
   <g id="surface1">

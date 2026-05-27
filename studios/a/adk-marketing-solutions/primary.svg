@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="adk-marketing-solutions (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="190" height="190"/></clipPath>
   <rect width="360" height="360" fill="#004F93"/>
-  <g transform="translate(0 0) scale(1.8947)">
+  <g clip-path="url(#logo-clip)" transform="translate(0 0) scale(1.8947)">
   <g data-rescale-wrap="1" transform="translate(-4.999978 -5.000006)">
   <defs
      id="defs2510" />

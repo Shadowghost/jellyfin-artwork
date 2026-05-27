@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="televisi-n-de-galicia (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="328.5015" height="328.5344"/></clipPath>
   <rect width="360" height="360" fill="#000000"/>
-  <g transform="translate(60 59.988) scale(0.7306)">
+  <g clip-path="url(#logo-clip)" transform="translate(60 59.988) scale(0.7306)">
   <g data-rescale-wrap="1" transform="translate(-1 -1)">
   <defs
      id="defs3650" />

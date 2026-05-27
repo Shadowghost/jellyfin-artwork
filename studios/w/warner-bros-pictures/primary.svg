@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="warner-bros-pictures (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1000" height="923.5179"/></clipPath>
   <rect width="360" height="360" fill="#004B91"/>
-  <g transform="translate(50.0621 60) scale(0.2599)">
+  <g clip-path="url(#logo-clip)" transform="translate(50.0621 60) scale(0.2599)">
   <defs
      id="defs2">
     <style

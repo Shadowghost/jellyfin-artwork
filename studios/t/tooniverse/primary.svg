@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="tooniverse (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="66.8997" height="9.445"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 160.2347) scale(4.1854)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 160.2347) scale(4.1854)">
   <defs id="defs239"></defs>
   <g id="layer1">
     <g id="g120" transform="matrix(0.3527778,0,0,0.35277778,-12.446158,-16.021826)">

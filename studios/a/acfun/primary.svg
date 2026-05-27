@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="acfun (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="8457.3507" height="2520.2405"/></clipPath>
   <rect width="360" height="360" fill="#000000"/>
-  <g transform="translate(40 138.2808) scale(0.0331)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 138.2808) scale(0.0331)">
   <g data-rescale-wrap="1" transform="translate(-100.904116 -89.759491)">
 <g id="layer101" fill="#fc4d5c" stroke="none">
  <path d="M650 2579 c-249 -138 -546 -303 -549 -305 -5 -5 185 -326 699 -1184 654 -1089 613 -1028 653 -978 34 43 555 848 1102 1703 271 423 266 417 263 419 -17 13 -624 368 -631 369 -5 1 -44 -61 -86 -139 -42 -78 -103 -189 -136 -248 l-60 -107 -90 5 c-49 3 -218 13 -375 21 -157 9 -337 19 -400 23 l-114 7 -105 223 c-58 122 -107 222 -110 222 -4 0 -31 -14 -61 -31z m825 -912 c110 -7 200 -16 199 -20 -1 -14 -258 -526 -265 -527 -3 0 -25 42 -49 93 -24 50 -77 161 -117 245 -40 84 -80 169 -88 188 l-14 34 67 -1 c37 0 157 -6 267 -12z"/>

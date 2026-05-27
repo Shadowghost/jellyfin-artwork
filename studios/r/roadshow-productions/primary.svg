@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="roadshow-productions (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1000.0001" height="256.8397"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 144.0424) scale(0.28)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 144.0424) scale(0.28)">
   <g data-rescale-wrap="1" transform="translate(0.000065 0)">
 <g>
 	<path d="M341.549,1.878c-0.545,0.975-141.674,244.735-141.674,244.735c-3.571,5.983-9.242,10.97-19.458,10.135l-26.067-2.25

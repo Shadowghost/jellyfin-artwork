@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="channel-4 (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="177.593" height="240"/></clipPath>
   <rect width="360" height="360" fill="#000000"/>
-  <g transform="translate(76.4041 40) scale(1.1667)">
+  <g clip-path="url(#logo-clip)" transform="translate(76.4041 40) scale(1.1667)">
     <g fill="#AAFF89">
         <path d="M99.4164 170.738H76.791V240H99.4164V170.738Z" />
         <path d="M160.438 217.375H109.469V240H160.438V217.375Z" />

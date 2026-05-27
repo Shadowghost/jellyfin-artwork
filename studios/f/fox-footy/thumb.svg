@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="fox-footy (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="852.236" height="517.853"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(122.5148 60) scale(0.4635)">
+  <g clip-path="url(#logo-clip)" transform="translate(122.5148 60) scale(0.4635)">
 <g>
 	<path fill="#AC162C" d="M426.113,517.853c-111.582,0-216.831-25.592-296.391-72.06C46.07,396.93,0,330.588,0,258.938
 		C0,187.3,46.07,120.923,129.722,72.06C209.282,25.593,314.531,0,426.113,0c111.593,0,216.842,25.593,296.389,72.06

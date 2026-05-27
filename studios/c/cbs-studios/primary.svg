@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="cbs-studios (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="999.9997" height="112.9455"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 164.1876) scale(0.28)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 164.1876) scale(0.28)">
   <g data-rescale-wrap="1" transform="translate(202.359675 -364.472527)">
 <g id="logo">
 	<path d="M-79.34,420.947c0-29.156,24.045-53.202,55.4-53.202c16.707-0.048,32.53,7.496,43.007,20.508L4.475,402.847

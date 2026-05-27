@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="ellipsanime-productions (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1884.3896" height="235.4852"/></clipPath>
   <rect width="360" height="360" fill="#000000"/>
-  <g transform="translate(40 162.5047) scale(0.1486)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 162.5047) scale(0.1486)">
 <style type="text/css">
 	.st0{clip-path:url(#SVGID_00000162333051640758139930000012177227384881565825_);}
 	.st1{fill:#FFFFFF;}

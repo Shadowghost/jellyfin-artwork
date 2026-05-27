@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="tv-kumamoto (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="627.3" height="208.7"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 133.4226) scale(0.4464)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 133.4226) scale(0.4464)">
   <g data-rescale-wrap="1" transform="translate(-6.4 -10.6)">
 <path fill="#1E286F" d="M633.6,10.6h-47.2v117.2c0,24.3-20.9,44.3-44.1,44.3c-26.4,0-43.4-21-43.4-43.7V24.8
 	c0-7.8-6.3-14.2-14.2-14.2h-46.4v47.2h13.4v70.5c0,55.1,47.8,91,91,91c50.2,0,91-40.7,91-91V10.6z"/>

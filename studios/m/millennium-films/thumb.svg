@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="millennium-films (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1000" height="520.875"/></clipPath>
   <rect width="640" height="360" fill="#000000"/>
-  <g transform="translate(89.6184 60) scale(0.4608)">
+  <g clip-path="url(#logo-clip)" transform="translate(89.6184 60) scale(0.4608)">
 <g>
 	<polygon fill="#59595D" points="492.183,0 351.679,78.201 351.679,236.761 492.183,317.65 632.688,235.929 632.688,79.905 	"/>
 	<polygon fill="#C32629" points="362.997,85.848 492.297,158.561 622.166,85.848 491.162,13.097 	"/>

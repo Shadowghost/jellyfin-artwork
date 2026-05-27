@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="writers-guild-of-america-east (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="607.2286" height="199.9975"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 133.8894) scale(0.4611)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 133.8894) scale(0.4611)">
   <g data-rescale-wrap="1" transform="translate(0.019092 -0.037302)">
  <g transform="matrix(3.7786 0 0 -3.7786 -668 2741.2)">
   <g fill="#696a6c">

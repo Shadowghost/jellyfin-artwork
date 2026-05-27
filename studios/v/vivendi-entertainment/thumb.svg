@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="vivendi-entertainment (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1130.636" height="975.931"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(180.9775 60) scale(0.2459)">
+  <g clip-path="url(#logo-clip)" transform="translate(180.9775 60) scale(0.2459)">
 <path fill="#171717" d="M552.575,356.551l-95.861-182.077h-68.205l164.066,312.014V356.551z M673.889,175.364l-95.852,182.099
 	v129.96l164.067-312.059H673.889z M323.127,729.091l39.953-75.843h-25.386l-27.982,55.139l-25.701-55.139h-26.494l38.486,75.843
 	H323.127z M430.752,653.249h-26.537l38.486,75.843h27.134l39.952-75.843h-25.353l-27.993,55.139L430.752,653.249z M371.824,728.809

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="fox-television-studios (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="576" height="477"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 64.0625) scale(0.4861)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 64.0625) scale(0.4861)">
 <g transform="translate(0.000000,477.000000) scale(0.100000,-0.100000)"
 fill="#000000" stroke="none">
 <path d="M0 2450 l0 -2320 23 4 c12 3 54 10 94 17 39 7 77 15 83 19 8 5 12

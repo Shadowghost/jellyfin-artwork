@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="fuzzy-door-productions (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1000.001" height="235.759"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 123.4179) scale(0.48)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 123.4179) scale(0.48)">
   <g data-rescale-wrap="1" transform="translate(360.45 84.979)">
 <g>
 	<polygon points="162.661,118.534 229.663,150.78 229.663,-68.139 162.661,-45.208 	"/>

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="bbc-switch (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="264.5818" height="74.9716"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 111.9939) scale(1.8142)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 111.9939) scale(1.8142)">
   <g data-rescale-wrap="1" transform="translate(-0.0032 0.00062)">
  <g transform="translate(182.34 78.987)">
   <g fill="#0465af">

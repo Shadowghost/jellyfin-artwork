@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="tencent (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1000" height="189.487"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 153.4718) scale(0.28)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 153.4718) scale(0.28)">
 <g>
 	<polygon fill="#265EAC" points="918.945,58.881 876.208,58.881 893.02,82.992 914.683,82.992 896.464,186.713 934.417,186.713 
 		952.661,82.992 1000,82.992 925.267,22.869 	"/>

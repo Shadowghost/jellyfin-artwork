@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="itunes-store (thumb)">
+  <clipPath id="logo-clip"><rect x="1" y="0.2" width="123" height="25.1"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(76.0976 130.2439) scale(3.9024)">
+  <g clip-path="url(#logo-clip)" transform="translate(76.0976 130.2439) scale(3.9024)">
 <style type="text/css">
 	.st0{filter:url(#Adobe_OpacityMaskFilter);}
 	.st1{fill:#FFFFFF;}

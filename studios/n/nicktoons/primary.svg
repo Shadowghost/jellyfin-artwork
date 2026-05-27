@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="nicktoons (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1623.78" height="1374.9661"/></clipPath>
   <rect width="360" height="360" fill="#000000"/>
-  <g transform="translate(40 61.4524) scale(0.1724)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 61.4524) scale(0.1724)">
   <g data-rescale-wrap="1" transform="translate(-0.000004 -0)">
   <g transform="matrix(1, 0, 0, 1, 0.000004, -0.003871)">
     <title>Layer 1</title>

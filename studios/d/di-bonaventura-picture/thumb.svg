@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="di-bonaventura-picture (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1000.0007" height="73.769"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 162.2955) scale(0.48)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 162.2955) scale(0.48)">
   <g data-rescale-wrap="1" transform="translate(-0.00027 0)">
 <g>
 	<path d="M28.418,7.76l-10.964,2.281l-0.485,3.486h0.833c1.199,0,2.012,0.105,2.366,0.498c0.616,0.721,0.361,3.119-0.243,6.724

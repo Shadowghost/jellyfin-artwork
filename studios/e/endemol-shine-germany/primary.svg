@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="endemol-shine-germany (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="220" height="55.8"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 144.4909) scale(1.2727)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 144.4909) scale(1.2727)">
   <g data-rescale-wrap="1" transform="translate(-112.8 -0.2)">
   <defs id="defs8"/>
   <sodipodi:namedview id="namedview6" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" showgrid="false" inkscape:zoom="4.1642882" inkscape:cx="202.07535" inkscape:cy="39.022275" inkscape:window-width="1920" inkscape:window-height="1001" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:window-maximized="1" inkscape:current-layer="svg4"/>

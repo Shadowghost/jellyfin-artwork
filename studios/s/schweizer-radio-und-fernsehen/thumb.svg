@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="schweizer-radio-und-fernsehen (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="556.8" height="150"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 115.3448) scale(0.8621)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 115.3448) scale(0.8621)">
 <title>Schweizer Radio und Fersehen logo</title>
 <style type="text/css">
 	.st0{fill:#AF001E;}

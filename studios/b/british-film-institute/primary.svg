@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="british-film-institute (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1074.4335" height="1104.1274"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(60 56.6836) scale(0.2234)">
+  <g clip-path="url(#logo-clip)" transform="translate(60 56.6836) scale(0.2234)">
 <g>
 	<defs>
 		<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="198.781" y="211.69" width="665.185" height="665.178">

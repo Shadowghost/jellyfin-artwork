@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="bbc-united-kingdom (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="30.823" height="23.118"/></clipPath>
   <rect width="360" height="360" fill="#E3102E"/>
-  <g transform="translate(0 44.9957) scale(11.6796)">
+  <g clip-path="url(#logo-clip)" transform="translate(0 44.9957) scale(11.6796)">
 <rect fill="#E3102E" width="30.822998" height="23.117981"/>
 <polygon fill="#FFFFFF" points="14.7380066,17.611145 13.6519928,15.9191895 12.5050049,17.611145 11.1159973,17.611145 
 	11.1159973,10.8921509 12.4799957,10.8921509 12.4799957,15.3881836 14.5359955,12.269165 15.9759979,12.269165 

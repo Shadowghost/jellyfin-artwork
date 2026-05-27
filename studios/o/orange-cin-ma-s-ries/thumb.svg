@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="orange-cin-ma-s-ries (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="154.074" height="79.7"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(88.0191 60) scale(3.0113)">
+  <g clip-path="url(#logo-clip)" transform="translate(88.0191 60) scale(3.0113)">
 <style type="text/css">
 <![CDATA[
 	.st0{fill:#4D454A;}

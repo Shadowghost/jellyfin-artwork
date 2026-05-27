@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="vicscreen (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="403.598" height="70.871"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 155.4163) scale(0.6938)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 155.4163) scale(0.6938)">
   <g data-rescale-wrap="1" transform="translate(0 -0.438)">
   <defs>
     <polygon id="d" points="0 0 121.4 0 121.4 70.21 0 70.21"></polygon>

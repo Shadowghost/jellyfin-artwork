@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="ealing-studios (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="14125.5" height="5800"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 81.4548) scale(0.034)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 81.4548) scale(0.034)">
   <g data-rescale-wrap="1" transform="translate(-33.000061 -20.000061)"><rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none" class="" style=""/>
 
 

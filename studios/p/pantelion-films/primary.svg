@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="pantelion-films (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="41.19" height="12.72"/></clipPath>
   <rect width="360" height="360" fill="#FF4D00"/>
-  <g transform="translate(0 124.4137) scale(8.74)">
+  <g clip-path="url(#logo-clip)" transform="translate(0 124.4137) scale(8.74)">
  <g class="layer">
   <title>Layer 1</title>
   <path d="m0,12.72l41.19,0l0,-12.72l-41.19,0l0,12.72z" fill="#FF4D00" id="svg_2"/>

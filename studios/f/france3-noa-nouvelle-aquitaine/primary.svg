@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="france3-noa-nouvelle-aquitaine (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="814.064" height="400.001"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 111.2092) scale(0.344)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 111.2092) scale(0.344)">
 <g>
 	<g>
 		<path fill="#0082E6" d="M149.255,257.747c0,41.217-33.415,74.628-74.628,74.628S0,298.963,0,257.747

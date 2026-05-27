@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="kyoto-animation (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="250.0021" height="31.4068"/></clipPath>
   <rect width="360" height="360" fill="#000000"/>
-  <g transform="translate(40 162.4123) scale(1.12)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 162.4123) scale(1.12)">
   <g data-rescale-wrap="1" transform="translate(-0.000733 -0.003823)">
 <g transform="translate(-712.14 -530.94)">
 <g transform="matrix(.85222 0 0 .85222 726.28 595.67)" fill="#e6521e">

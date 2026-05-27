@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="amazon-freevee (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1336.6" height="454.9"/></clipPath>
   <rect width="640" height="360" fill="#33165A"/>
-  <g transform="translate(0 71.0908) scale(0.4788)">
+  <g clip-path="url(#logo-clip)" transform="translate(0 71.0908) scale(0.4788)">
 <style type="text/css">
 	.st0{fill:#33155B;}
 	.st1{fill:#D8FF04;}

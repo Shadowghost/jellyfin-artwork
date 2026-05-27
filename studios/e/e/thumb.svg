@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="e (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="311.3" height="1000"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(276.418 40) scale(0.28)">
+  <g clip-path="url(#logo-clip)" transform="translate(276.418 40) scale(0.28)">
 <g>
 	<rect x="25.5" y="775.9" width="260.3" height="224.1"/>
 	<polygon points="306.1,147.8 311.3,0 0,0 25.5,723.1 285.8,723.1 291,582.5 171.3,582.5 171.3,409.6 296.9,409.6 301.5,278.9 

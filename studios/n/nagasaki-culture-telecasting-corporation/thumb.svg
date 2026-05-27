@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="nagasaki-culture-telecasting-corporation (thumb)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="633.6089" height="223.971"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(80 95.1637) scale(0.7576)">
+  <g clip-path="url(#logo-clip)" transform="translate(80 95.1637) scale(0.7576)">
   <g data-rescale-wrap="1" transform="translate(-3.1911 -4.01046)">
 <path fill="#5A5657" d="M582.1,133.6c-10.3,0-18.7-8.4-18.7-18.7v0c0-10.3,8.4-18.7,18.7-18.7h54.7V58.8h-54
 	c-30.9,0-55.9,25-55.9,55.9v0c0,30.9,25,55.9,55.9,55.9h54v-36.9H582.1z"/>

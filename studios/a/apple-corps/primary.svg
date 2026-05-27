@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="apple-corps (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="656.0945" height="999.9989"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(88.1467 40) scale(0.28)">
+  <g clip-path="url(#logo-clip)" transform="translate(88.1467 40) scale(0.28)">
   <g data-rescale-wrap="1" transform="translate(0.000267 -0.000126)">
 <g>
 	<path d="M319.057,93.687c0,0,21.729,1.534,29.279,1.534c7.531,0,42.977-1.289,54.362-1.289c11.384,0,39.996,0.325,56.495,2.094

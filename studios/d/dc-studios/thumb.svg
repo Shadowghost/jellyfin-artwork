@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="dc-studios (thumb)">
+  <clipPath id="logo-clip"><rect x="0.0005" y="-0" width="140.0462" height="170.9846"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(205.3312 40) scale(1.6376)">
+  <g clip-path="url(#logo-clip)" transform="translate(205.3312 40) scale(1.6376)">
   <defs
      id="defs1">
     <linearGradient

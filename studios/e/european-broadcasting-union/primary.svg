@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="european-broadcasting-union (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="500" height="126.78"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 144.5016) scale(0.56)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 144.5016) scale(0.56)">
 <g>
 	<path fill="#33394F" d="M37.451,121.468V91.675c-7.64-6.96-12.484-17.039-12.484-28.297s4.844-21.324,12.484-28.297V5.312
 		C15.417,15.1,0,37.4,0,63.39S15.417,111.681,37.451,121.468z"/>

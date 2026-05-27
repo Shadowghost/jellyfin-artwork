@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="vestron-pictures (primary)">
+  <clipPath id="logo-clip"><rect x="0" y="0" width="1377.1797" height="1109.1856"/></clipPath>
   <rect width="360" height="360" fill="#FFFFFF"/>
-  <g transform="translate(40 67.2435) scale(0.2033)">
+  <g clip-path="url(#logo-clip)" transform="translate(40 67.2435) scale(0.2033)">
   <g data-rescale-wrap="1" transform="translate(-0.000001 -0.492958)">
   <g transform="translate(341.3446,-109.43324)">
     <g transform="matrix(4.1921783,0,0,4.1921783,-1137.4982,-2000.6858)">

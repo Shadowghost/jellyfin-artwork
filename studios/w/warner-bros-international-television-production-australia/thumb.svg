@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="warner-bros-international-television-production-australia (thumb)">
+  <clipPath id="logo-clip"><rect x="27.7401" y="11.8398" width="582.3677" height="151.3438"/></clipPath>
   <rect width="640" height="360" fill="#FFFFFF"/>
-  <g transform="translate(57.136 107.871) scale(0.8242)">
+  <g clip-path="url(#logo-clip)" transform="translate(57.136 107.871) scale(0.8242)">
 <defs
      id="defs863"><style
        id="style1112">.cls-1{fill:url(#linear-gradient);}.cls-2{fill:#ffc200;}.cls-3{fill:#031272;}</style><linearGradient
