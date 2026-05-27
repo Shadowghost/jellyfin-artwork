@@ -8,6 +8,7 @@
 | `import_tmdb_companies.py` | Bulk-import TMDB production companies as placeholder studios. Requires PyICU. |
 | `enrich_tmdb_info.py` | Fill description, country, homepage, logo URI, etc. on existing studios from TMDB. |
 | `_studio_safety.py` | Shared input sanitisers + a `studios.schema.json` validator used before writes. |
+| `_svg_geometry.py` | Shared root-`<svg>` coordinate-box resolver (viewBox, else unitless/px/pt width/height) used by `generate_thumbs.py` and `rescale_svgs.py`. |
 
 ## Python dependencies
 

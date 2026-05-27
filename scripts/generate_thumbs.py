@@ -42,6 +42,8 @@ try:
 except ImportError:
     Image = None  # type: ignore  # source-bg detection will degrade gracefully
 
+from _svg_geometry import SVG_OPEN_RE, parse_viewbox, resolve_root_box
+
 ROOT = Path(__file__).resolve().parent.parent
 STUDIOS = ROOT / "studios"
 
@@ -135,9 +137,9 @@ def paint_to_rgb(paint) -> tuple[int, int, int] | None:
 
 # ─── logo introspection ────────────────────────────────────────────────
 
-SVG_OPEN_RE = re.compile(r"<svg\b[^>]*>", re.DOTALL)
 SVG_CLOSE_RE = re.compile(r"</svg\s*>", re.IGNORECASE)
-VB_RE = re.compile(r'\bviewBox\s*=\s*["\']([^"\']+)["\']')
+# viewBox / root-dimension parsing (parse_viewbox, resolve_root_box) lives in
+# _svg_geometry so this script and rescale_svgs.py share one parser.
 
 # Illustrator-exported SVGs frequently use a DOCTYPE ENTITY block to alias
 # style strings, e.g. `<!ENTITY st0 "fill:#000;">` referenced as
@@ -163,22 +165,6 @@ def expand_entities(body: str, entities: dict[str, str]) -> str:
         return body
     pat = re.compile(r"&([A-Za-z_][\w.-]*);")
     return pat.sub(lambda m: entities.get(m.group(1), m.group(0)), body)
-
-
-def parse_viewbox(svg_text: str) -> tuple[float, float, float, float] | None:
-    m = SVG_OPEN_RE.search(svg_text)
-    if not m:
-        return None
-    vbm = VB_RE.search(m.group(0))
-    if not vbm:
-        return None
-    parts = vbm.group(1).replace(",", " ").split()
-    if len(parts) != 4:
-        return None
-    try:
-        return tuple(float(p) for p in parts)
-    except ValueError:
-        return None
 
 
 def svg_inner_body(svg_text: str) -> str | None:
@@ -458,9 +444,9 @@ def build_svg(
         bg colour (sampled from the source) blends into the source's
         edge along that dimension, so any seam is restricted to two
         edges instead of all four."""
-    vb = parse_viewbox(logo_text)
+    vb = resolve_root_box(logo_text)
     if vb is None:
-        raise RuntimeError("logo has no viewBox")
+        raise RuntimeError("logo has no viewBox or width/height")
     lx, ly, lw, lh = vb
     if lw <= 0 or lh <= 0:
         raise RuntimeError(f"logo viewBox is empty: {vb}")
@@ -480,13 +466,25 @@ def build_svg(
     ty = ch / 2.0 - (ly + lh / 2.0) * scale
 
     ns = DEFAULT_NS + lift_source_namespaces(logo_text)
+    # Clip the embedded body to the source viewBox. A standalone render of
+    # logo.svg clips to its viewBox (overflow:hidden on the root viewport),
+    # so any element drawn outside it is invisible there. Lifting the body
+    # into our <g> drops that viewport, which would otherwise let such
+    # orphans (e.g. an un-cropped <text> subtitle the rescaler left outside
+    # the recomputed viewBox) reappear in the thumb. The rect is in the
+    # <g>'s post-transform user space, i.e. source coordinates, so it equals
+    # the source viewBox. clipPathUnits defaults to userSpaceOnUse.
+    clip_rect = (f'<rect x="{fmt(lx)}" y="{fmt(ly)}" '
+                 f'width="{fmt(lw)}" height="{fmt(lh)}"/>')
     return (
         '<?xml version="1.0" encoding="UTF-8"?>\n'
         f'<svg {ns}'
         f' viewBox="0 0 {cw} {ch}" width="{cw}" height="{ch}"'
         f' role="img" aria-label="{name_label}">\n'
+        f'  <clipPath id="logo-clip">{clip_rect}</clipPath>\n'
         f'  <rect width="{cw}" height="{ch}" fill="{to_hex(bg_rgb)}"/>\n'
-        f'  <g transform="translate({fmt(tx)} {fmt(ty)}) scale({fmt(scale)})">\n'
+        f'  <g clip-path="url(#logo-clip)"'
+        f' transform="translate({fmt(tx)} {fmt(ty)}) scale({fmt(scale)})">\n'
         f'{inner}\n'
         '  </g>\n'
         '</svg>\n'

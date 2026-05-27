@@ -38,6 +38,8 @@ try:
 except ImportError:
     sys.exit("svgelements not installed. Install with: pip install svgelements")
 
+from _svg_geometry import resolve_root_box
+
 MAX_DIM = 1024
 
 SVG_OPEN_RE = re.compile(r"<svg\b[^>]*>", re.DOTALL)
@@ -163,33 +165,17 @@ HAS_CLIP_RE = re.compile(
 def canvas_bounds_from_text(text):
     """Read the file's *original* canvas extent from its raw text (not
     via svgelements, since we'll be parsing a stripped copy). Returns
-    (x0, y0, x1, y1) in user-space, or None."""
-    m = SVG_OPEN_RE.search(text)
-    if not m:
+    (x0, y0, x1, y1) in user-space, or None.
+
+    Delegates to the shared root-box resolver: viewBox if present, else a
+    width/height fallback restricted to unitless/px/pt lengths. A canvas of
+    unknown extent (no viewBox and a %/em-style dimension) returns None,
+    which disables clip-clamping rather than fabricating a bogus box."""
+    box = resolve_root_box(text)
+    if box is None:
         return None
-    open_tag = m.group(0)
-    vbm = VB_RE.search(open_tag)
-    if vbm:
-        parts = vbm.group(3).replace(",", " ").split()
-        if len(parts) == 4:
-            try:
-                x, y, w, h = (float(p) for p in parts)
-                if w > 0 and h > 0:
-                    return (x, y, x + w, y + h)
-            except ValueError:
-                pass
-    # No viewBox - fall back to (0,0,width,height) if present and numeric.
-    wm = W_RE.search(open_tag)
-    hm = H_RE.search(open_tag)
-    if wm and hm:
-        try:
-            w = float(re.sub(r"[a-zA-Z%]+$", "", wm.group(3)).strip())
-            h = float(re.sub(r"[a-zA-Z%]+$", "", hm.group(3)).strip())
-            if w > 0 and h > 0:
-                return (0.0, 0.0, w, h)
-        except ValueError:
-            pass
-    return None
+    x, y, w, h = box
+    return (x, y, x + w, y + h)
 
 
 def compute_content_bbox(path):
