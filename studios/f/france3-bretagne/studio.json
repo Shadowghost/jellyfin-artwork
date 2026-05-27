@@ -8,9 +8,22 @@
         "logo_uri": "https://image.tmdb.org/t/p/original/3De6YeLoWt2b7v7CdHlDyDlesWT.png"
       }
     ],
-    "artwork": {},
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
     "country": "FR",
     "headquarters": "Rennes",
-    "placeholder": true
+    "template": true
   }
 ]

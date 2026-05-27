@@ -8,10 +8,23 @@
         "logo_uri": "https://image.tmdb.org/t/p/original/5MzegO5DwTgaoVKmWgLekEhA79z.png"
       }
     ],
-    "artwork": {},
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
     "country": "FR",
     "homepage": "http://www.mediatoon-distribution.com/fr/accueil/",
     "headquarters": "Paris",
-    "placeholder": true
+    "template": true
   }
 ]

@@ -8,10 +8,23 @@
         "logo_uri": "https://image.tmdb.org/t/p/original/dWQATUR0vt14GTVhhv6al19hgRb.png"
       }
     ],
-    "artwork": {},
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
     "country": "FR",
     "homepage": "https://www.france.tv/france-3/paris-ile-de-france/",
     "headquarters": "Paris",
-    "placeholder": true
+    "template": true
   }
 ]

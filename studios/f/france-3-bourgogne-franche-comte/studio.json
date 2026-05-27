@@ -8,9 +8,22 @@
         "logo_uri": "https://image.tmdb.org/t/p/original/437xV2t72jX694hb9ii99ddbmWJ.png"
       }
     ],
-    "artwork": {},
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
     "country": "FR",
     "homepage": "https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/",
-    "placeholder": true
+    "template": true
   }
 ]

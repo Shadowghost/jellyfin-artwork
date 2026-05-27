@@ -8,10 +8,23 @@
         "logo_uri": "https://image.tmdb.org/t/p/original/igUwp1WLX1Lzgh2a7pG8kC709N4.png"
       }
     ],
-    "artwork": {},
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
     "country": "FR",
     "homepage": "https://www.france24.com/",
     "headquarters": "Issy-les-Moulineaux",
-    "placeholder": true
+    "template": true
   }
 ]

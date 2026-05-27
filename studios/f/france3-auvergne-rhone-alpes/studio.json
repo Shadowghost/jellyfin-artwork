@@ -7,9 +7,22 @@
         "id": "234786"
       }
     ],
-    "artwork": {},
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
     "country": "FR",
     "headquarters": "Lyon",
-    "placeholder": true
+    "template": true
   }
 ]

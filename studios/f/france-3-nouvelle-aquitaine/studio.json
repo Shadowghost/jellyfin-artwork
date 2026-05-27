@@ -8,9 +8,22 @@
         "logo_uri": "https://image.tmdb.org/t/p/original/y8W5WCIry2T2DAtVlOTqEkFGcYw.png"
       }
     ],
-    "artwork": {},
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
     "country": "FR",
     "headquarters": "Bordeaux",
-    "placeholder": true
+    "template": true
   }
 ]

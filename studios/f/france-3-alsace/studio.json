@@ -8,9 +8,22 @@
         "logo_uri": "https://image.tmdb.org/t/p/original/pxDaJTg4KMQgr1yNtWHkj3I7Yx3.png"
       }
     ],
-    "artwork": {},
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
     "country": "FR",
     "headquarters": "Strasbourg",
-    "placeholder": true
+    "template": true
   }
 ]

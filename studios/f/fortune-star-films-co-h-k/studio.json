@@ -7,7 +7,20 @@
         "id": "78353"
       }
     ],
-    "artwork": {},
-    "placeholder": true
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
   }
 ]

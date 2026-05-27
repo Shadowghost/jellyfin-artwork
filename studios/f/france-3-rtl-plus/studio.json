@@ -5,23 +5,10 @@
     "country": "FR",
     "type": "broadcast-network",
     "providers": [],
-    "artwork": {
-      "logo": [
-        "svg",
-        "webp"
-      ],
-      "primary": [
-        "svg",
-        "webp"
-      ],
-      "thumb": [
-        "svg",
-        "webp"
-      ]
-    },
+    "artwork": {},
     "aka": [
       "France 3 / RTL Plus"
     ],
-    "template": true
+    "placeholder": true
   }
 ]

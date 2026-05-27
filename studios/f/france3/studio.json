@@ -8,10 +8,23 @@
         "logo_uri": "https://image.tmdb.org/t/p/original/gCHH1xt3dKjlm9NuMPF9ekpPWD6.png"
       }
     ],
-    "artwork": {},
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
     "country": "FR",
     "homepage": "https://www.france.tv/france-3/",
     "headquarters": "Paris",
-    "placeholder": true
+    "template": true
   }
 ]

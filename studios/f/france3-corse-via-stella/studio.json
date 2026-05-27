@@ -7,9 +7,22 @@
         "id": "216573"
       }
     ],
-    "artwork": {},
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
     "country": "FR",
     "headquarters": "Corse",
-    "placeholder": true
+    "template": true
   }
 ]
