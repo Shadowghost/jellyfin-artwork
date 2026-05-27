@@ -10,35 +10,96 @@
         "description": "Standard name of the studio, network or label in English",
         "type": "string"
       },
+      "description": {
+        "description": "Short English description, useful for disambiguation between similarly-named entities",
+        "type": "string"
+      },
+      "country": {
+        "description": "ISO 3166-1 alpha-2 country code of the studio's headquarters or country of origin",
+        "type": "string",
+        "pattern": "^[A-Z]{2}$"
+      },
+      "type": {
+        "description": "Category of entity",
+        "type": "string",
+        "enum": [
+          "studio",
+          "production-company",
+          "broadcast-network",
+          "cable-network",
+          "streaming-service",
+          "distributor",
+          "record-label",
+          "film-festival",
+          "news",
+          "publisher",
+          "awards",
+          "government-agency",
+          "other"
+        ]
+      },
+      "parent_company": {
+        "description": "Name of the parent corporate entity, if any",
+        "type": "string"
+      },
+      "aka": {
+        "description": "Alternate spellings or capitalisations of the name observed in catalogues",
+        "type": "array",
+        "items": { "type": "string" }
+      },
+      "placeholder": {
+        "description": "True when this entry is a stub awaiting real artwork/metadata",
+        "type": "boolean"
+      },
+      "colors": {
+        "description": "Primary corporate brand colors, ordered by prominence",
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "description": "Human-readable name of the color (e.g. 'ABC Black', 'Disney Blue')",
+              "type": "string"
+            },
+            "hex": {
+              "description": "CSS hex color, including the leading #",
+              "type": "string",
+              "pattern": "^#([0-9a-fA-F]{3}|[0-9a-fA-F]{6})$"
+            }
+          },
+          "required": ["hex"]
+        }
+      },
+      "homepage": {
+        "description": "Official website URL",
+        "type": "string",
+        "format": "uri"
+      },
+      "headquarters": {
+        "description": "City / region of the studio's headquarters",
+        "type": "string"
+      },
       "providers": {
-        "type": "object",
-        "description": "Identifiers for various metadata providers",
-        "properties": {
-          "tvdb": {
-            "description": "Identifier of the network on TVDB",
-            "type": "string"
+        "type": "array",
+        "description": "Identifiers for external metadata providers",
+        "items": {
+          "type": "object",
+          "properties": {
+            "provider_name": {
+              "description": "Provider key (tmdb, tvdb, imdb, musicbrainz, anidb, anilist, …)",
+              "type": "string"
+            },
+            "id": {
+              "description": "Provider-specific identifier as a string",
+              "type": "string"
+            },
+            "logo_uri": {
+              "description": "Full URL to a logo hosted by this provider, if any",
+              "type": "string",
+              "format": "uri"
+            }
           },
-          "tmdb": {
-            "description": "Identifier of the network or studio on TheMovieDB",
-            "type": "string"
-          },
-          "imdb": {
-            "description": "Identifier of the company on IMDB",
-            "type": "string"
-          },
-          "musicbrainz": {
-            "description": "Identifier of the label on MusicBrainz",
-            "type": "string"
-          },
-          "anidb": {
-            "description": "Identifier of the studio on AniDB",
-            "type": "string"
-          },
-          "anilist": {
-            "description": "Identifier of the studio on AniList",
-            "type": "string"
-          },
-          "additionalProperties": true
+          "required": ["provider_name", "id"]
         }
       },
       "artwork": {
@@ -72,8 +133,7 @@
               "enum": ["webp", "svg"]
             }
           }
-        },
-        "required": ["primary", "thumb"]
+        }
       }
     },
     "required": ["name", "providers", "artwork"]

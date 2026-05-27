@@ -10,10 +10,21 @@ jobs:
     name: Validate configurations
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Validate studios.json
-        uses: snapcart/json-schema-validator@v1.0.0
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
         with:
-          token: ${{ secrets.JF_BOT_TOKEN }}
-          json_schema: .github/studios.schema.json
-          json_path_pattern: studios/.*/studio.json$
+          node-version: "24"
+      - name: Install ajv-cli
+        # AJV compiles the schema to JS once and validates each file in
+        # microseconds. Much faster than per-file Python jsonschema at
+        # the ~235k-studio scale we now ship.
+        run: npm install -g ajv-cli@5 ajv-formats@3
+      - name: Validate every studio.json against the schema
+        run: |
+          ajv validate \
+            --spec=draft7 \
+            -c ajv-formats \
+            -s .github/studios.schema.json \
+            -d "studios/*/*/studio.json" \
+            --errors=line \
+            --all-errors
