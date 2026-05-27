@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Panorama Global",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94327",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vMaFsZNAshD2mJJHRXuoJ6uLqE4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "http://www.panorama.global",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

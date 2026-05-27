@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Vichy Catalan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "254901"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

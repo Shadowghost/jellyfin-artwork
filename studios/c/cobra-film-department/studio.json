@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cobra Film Department",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75151",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8XFXno7UHrGfUXZp8fLYh7KUFwa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "homepage": "http://www.cobrafilm.com",
+    "headquarters": "Belgrade",
+    "placeholder": true
+  }
+]

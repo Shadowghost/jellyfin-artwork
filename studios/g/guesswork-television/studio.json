@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Guesswork Television",
+    "country": "AU",
+    "homepage": "http://guessworktv.com.au/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82476",
+        "logo_uri": "https://image.tmdb.org/t/p/original/75OyM9KBYO2rhfsRebvaobIluFP.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

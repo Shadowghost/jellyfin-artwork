@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Jovem Pan News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196267",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dLZtxfyaxNcn1AqMhjbeBcGREuF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://jovempan.com.br/jpnews",
+    "placeholder": true
+  }
+]

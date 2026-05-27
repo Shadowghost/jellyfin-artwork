@@ -1,0 +1,15 @@
+[
+  {
+    "name": "KSS",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3560",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yOsrKcVSpC9ofAkE6hJjvC8sW9u.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

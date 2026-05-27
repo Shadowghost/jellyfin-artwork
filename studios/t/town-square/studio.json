@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Town Square",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122621"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

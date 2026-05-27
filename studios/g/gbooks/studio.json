@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Gbooks",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213567"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

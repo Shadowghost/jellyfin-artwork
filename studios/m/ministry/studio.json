@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Ministry",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48081",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rbwl0V5TFvgvQkP1QZn2TrbFbZX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

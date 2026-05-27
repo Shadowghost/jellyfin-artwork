@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tandem Image",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153458",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dmjhSgGaGyEmgRpc0e925NWKXbN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.tandemimage.fr/",
+    "headquarters": "Saint-Laurent-Nouan",
+    "placeholder": true
+  }
+]

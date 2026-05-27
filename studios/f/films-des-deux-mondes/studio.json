@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Films des deux-mondes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "54665"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

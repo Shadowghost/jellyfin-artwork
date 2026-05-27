@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dynamic Planet",
+    "country": "US",
+    "homepage": "https://www.ourdynamicplanet.com",
+    "headquarters": "Washington, DC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "261694",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9EDiZQEYUhvj2l8BrY7YPaHdOz6.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

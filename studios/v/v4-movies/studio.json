@@ -1,0 +1,13 @@
+[
+  {
+    "name": "V4 Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96911"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

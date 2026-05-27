@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Halley Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158078",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f6aLJ65GNQ3TYdPQZ67Y7C8MYjC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.halleyproduction.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

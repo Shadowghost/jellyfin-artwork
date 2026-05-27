@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ProSiebenSat.1 PULS 4",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129728",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5B6pnIQ7BBQZj0OUhFRa3ErjMly.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "https://prosiebensat1puls4.com",
+    "headquarters": "Vienna",
+    "placeholder": true
+  }
+]

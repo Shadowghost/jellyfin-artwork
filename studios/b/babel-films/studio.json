@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Babel Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94492",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aEwHGS8NOeCwXhdCpQQr5IlpKqh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.babelfilms.com/?lang=en",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Baluba",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45701",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x4WkHqYiKUUaGCVxcQ1dorjtpYx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://baluba.se",
+    "headquarters": "http://baluba.se",
+    "placeholder": true
+  }
+]

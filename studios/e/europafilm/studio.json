@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Europafilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139870"
+      }
+    ],
+    "artwork": {},
+    "country": "XC",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Car World",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241812"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

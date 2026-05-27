@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmarcades",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "186010"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

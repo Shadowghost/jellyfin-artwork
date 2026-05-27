@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bumilangit Studios",
+    "country": "ID",
+    "homepage": "http://www.bumilangit.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103105",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kuYKoaYcl03Q1EnHbpwadV6hXiA.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

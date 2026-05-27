@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Alangudi Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45948"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

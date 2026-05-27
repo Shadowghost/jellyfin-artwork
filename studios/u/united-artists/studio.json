@@ -1,0 +1,31 @@
+[
+  {
+    "name": "United Artists",
+    "description": "American film production and distribution company founded in 1919 by Charlie Chaplin, Mary Pickford, Douglas Fairbanks, and D. W. Griffith; now part of Amazon MGM Studios.",
+    "country": "US",
+    "type": "studio",
+    "headquarters": "Century City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242584",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bZhxamy86E15KxyFnYD7F2Jxw9A.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cowtown Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122624",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aandTZyTyPwu29OH7j4inR0XCIu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "https://www.cowtownpictures.ie",
+    "headquarters": "Dublin",
+    "placeholder": true
+  }
+]

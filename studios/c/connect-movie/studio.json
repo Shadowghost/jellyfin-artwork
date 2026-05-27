@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Connect Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156539"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

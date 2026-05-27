@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Animo TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102611",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nEmoO5YoYv9GuCGZfjPwzvEEaSB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "https://www.animotv.ie",
+    "headquarters": "Dublin",
+    "placeholder": true
+  }
+]

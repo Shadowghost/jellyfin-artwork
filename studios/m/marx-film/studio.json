@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Marx Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86240"
+      }
+    ],
+    "artwork": {},
+    "country": "EE",
+    "homepage": "https://www.marxfilm.com/",
+    "placeholder": true
+  }
+]

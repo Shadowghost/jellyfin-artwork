@@ -1,0 +1,37 @@
+[
+  {
+    "name": "BBC Cymru Wales",
+    "description": "BBC's national broadcasting division for Wales, producing television and radio content in both Welsh and English.",
+    "country": "GB",
+    "type": "broadcast-network",
+    "homepage": "https://www.bbc.com/wales",
+    "colors": [
+      {
+        "name": "BBC Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4762",
+        "logo_uri": "https://image.tmdb.org/t/p/original/igWZmjr5Zhbnxf7DinSOLoiggLU.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

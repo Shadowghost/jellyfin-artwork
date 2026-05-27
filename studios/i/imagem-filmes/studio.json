@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Imagem Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28212",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1qNlLT42Po3Adj1q4OLo0kUHnDy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.imagemfilmes.com.br/",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Selenium Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105793",
+        "logo_uri": "https://image.tmdb.org/t/p/original/keJeg3TQeBwFWfYkBBcyydQnEcH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.seleniumfilms.net",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

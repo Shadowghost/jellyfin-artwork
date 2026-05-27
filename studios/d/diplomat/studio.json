@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Diplomat",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193609"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

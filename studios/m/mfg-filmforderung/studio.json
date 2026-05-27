@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MFG Filmförderung",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8707",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2K2EDaP75Qz6Pr64SEsU6rbSDRC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://film.mfg.de",
+    "headquarters": "Stuttgart",
+    "placeholder": true
+  }
+]

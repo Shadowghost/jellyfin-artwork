@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ASCAP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "247230"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

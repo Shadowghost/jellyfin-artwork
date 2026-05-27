@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pequenos Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225392"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

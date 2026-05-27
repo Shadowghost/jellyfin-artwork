@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Artsy Fartsy Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72303"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "OUTtv",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97894",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rGz9W0ubQpK4Khi1uzqWAb0oqxo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://outtv.ca",
+    "placeholder": true
+  }
+]

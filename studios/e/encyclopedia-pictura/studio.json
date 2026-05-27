@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Encyclopedia Pictura",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77458",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t6TQhUJubf2uxpDuqhFTaXOzPKL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://encyclopediapictura.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

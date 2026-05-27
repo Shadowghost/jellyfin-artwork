@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MuchMusic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19090",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nE5n63Aprl0Wa9QchoF3VMVFvhz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.much.com/",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

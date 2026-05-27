@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pictures From The Fringe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41510",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uGTSuWmi5AoSBgUr2WugGR1WizR.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://www.picturesfromthefringe.com",
+    "headquarters": "Los Angeles"
+  }
+]

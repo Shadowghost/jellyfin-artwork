@@ -1,0 +1,16 @@
+[
+  {
+    "name": "GOT Corporation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130594",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r5vSOS4muD6ZzHWwG4UhG50FHfF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.gotbb.jp/",
+    "placeholder": true
+  }
+]

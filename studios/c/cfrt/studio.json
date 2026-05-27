@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CFRT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86383",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iKpWhO5RhkYtW9dwFOmQ6WVSwN1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.cfrt.tv",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Rex-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75603"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

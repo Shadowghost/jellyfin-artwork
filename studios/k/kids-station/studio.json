@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kids Station",
+    "country": "JP",
+    "homepage": "https://www.kids-station.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36340",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lACrFMaJdr6cc6esk4nen0ebEeE.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

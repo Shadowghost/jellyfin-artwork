@@ -1,0 +1,13 @@
+[
+  {
+    "name": "RTC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231899"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

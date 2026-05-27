@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SpovMedia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256525"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

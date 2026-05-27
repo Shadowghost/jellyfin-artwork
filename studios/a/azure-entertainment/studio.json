@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Azure Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71969",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v2UW0b2odtD5VT8d1IG3D2saLD7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "headquarters": "Mumbai, Maharashtra, India",
+    "placeholder": true
+  }
+]

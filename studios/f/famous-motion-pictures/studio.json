@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Famous Motion Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72863"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

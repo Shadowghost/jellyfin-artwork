@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Neighborhood Features",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220439"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

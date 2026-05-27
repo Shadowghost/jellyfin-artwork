@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Motion Picture Management",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143636"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

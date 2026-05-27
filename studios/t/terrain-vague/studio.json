@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Terrain Vague",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88925"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

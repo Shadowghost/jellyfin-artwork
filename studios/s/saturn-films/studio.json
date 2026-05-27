@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Saturn Films",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "831",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vLENXiYTyITnMDrTKabUXhgTKX2.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Welcome Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166856"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

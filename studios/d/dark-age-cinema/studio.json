@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Dark Age Cinema",
+    "country": "US",
+    "headquarters": "New York, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84591"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Trance Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179395",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lnUTGOaIFWPNRrHro721b7Diq9d.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://trance-films.com/",
+    "placeholder": true
+  }
+]

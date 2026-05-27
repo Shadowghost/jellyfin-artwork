@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Landesbildstelle Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "195670"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

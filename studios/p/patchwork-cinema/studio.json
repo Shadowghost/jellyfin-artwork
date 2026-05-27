@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Patchwork Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242462"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

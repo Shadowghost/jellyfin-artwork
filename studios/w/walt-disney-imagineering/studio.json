@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Walt Disney Imagineering",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15935",
+        "logo_uri": "https://image.tmdb.org/t/p/original/25xmKjrZS3TJMYa1RvxZ2qcMHHX.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "US",
+    "headquarters": "Glendale, California",
+    "template": true
+  }
+]

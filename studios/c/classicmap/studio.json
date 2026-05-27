@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Classicmap",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "266632"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

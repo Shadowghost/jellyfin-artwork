@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Electric Robin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147234",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uk0YwwUXCbkhDxD7IjNdejWvmpb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.electric-robin.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

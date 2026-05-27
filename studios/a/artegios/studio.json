@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Artegios",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74138",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kY3derTlZz8emV8KoxzbSpAkca3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "http://artegios.com",
+    "placeholder": true
+  }
+]

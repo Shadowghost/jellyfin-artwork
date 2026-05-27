@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Leopardo Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "44106",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v4Wwng5Bgmp5HqgYIJXJLpChS7k.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "http://www.leopardofilmes.com",
+    "headquarters": "Lisboa",
+    "placeholder": true
+  }
+]

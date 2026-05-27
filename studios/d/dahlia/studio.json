@@ -1,0 +1,16 @@
+[
+  {
+    "name": "DAHLIA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176619",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m1HmmjTTEKvBZwPgR0GQkV7qAoT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://dahlia-av.jp",
+    "placeholder": true
+  }
+]

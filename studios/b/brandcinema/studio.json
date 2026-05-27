@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BrandCinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240318"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

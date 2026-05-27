@@ -1,0 +1,16 @@
+[
+  {
+    "name": "American High",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112397",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rFyhrN607SUIlQ7wyH8lQOemqz3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://americanhigh.com",
+    "placeholder": true
+  }
+]

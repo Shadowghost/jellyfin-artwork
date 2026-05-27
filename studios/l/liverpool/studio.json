@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Liverpool",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60111",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1l3gvsCEf5V99omjB8eMmc2lpiE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.liverp.co.jp/",
+    "placeholder": true
+  }
+]

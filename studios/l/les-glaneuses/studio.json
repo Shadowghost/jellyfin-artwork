@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les glaneuses",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225324",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7XYBfkLKaSxEvEdnCKANNA3HFb5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://lesglaneuses.org/",
+    "headquarters": "Montréal, Quebec",
+    "placeholder": true
+  }
+]

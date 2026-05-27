@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ABC Cursos de Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225022",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5zXzBDoUX03crnHh7cosodvjWpJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://abcinecursos.org.br/",
+    "headquarters": "Rua Leite Leal, 45   Laranjeiras Rio de Janeiro   RJ    22240-100",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Classic Rock Distribution",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185525"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "VCA Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5097",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cjK2zkmtR2DxHcwqRCXr5SpsLSa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

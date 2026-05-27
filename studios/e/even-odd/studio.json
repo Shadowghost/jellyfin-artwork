@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Even/Odd",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122436",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x0ou1hQJwyFzoschcvP19hCkSFM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://evenodd.studio/",
+    "headquarters": "California",
+    "placeholder": true
+  }
+]

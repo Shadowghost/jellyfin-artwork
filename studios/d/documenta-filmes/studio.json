@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Documenta Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76686"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.documentafilmes.com.br/",
+    "headquarters": "Rio de Janeiro RJ",
+    "placeholder": true
+  }
+]

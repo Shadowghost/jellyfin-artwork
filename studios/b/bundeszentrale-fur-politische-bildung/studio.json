@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bundeszentrale für politische Bildung",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218656",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qLgdpOMLG8A3DvzVS2J9rloPFNP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.bpb.de/",
+    "headquarters": "Bonn",
+    "placeholder": true
+  }
+]

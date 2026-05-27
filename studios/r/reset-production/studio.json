@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Reset Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166096"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

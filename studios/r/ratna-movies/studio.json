@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ratna Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100307"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

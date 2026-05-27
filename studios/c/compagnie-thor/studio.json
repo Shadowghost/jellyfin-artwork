@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Compagnie Thor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128952",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yF6jZwubYgHDkaWDwk1D0ueA3dQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.thor.be/fr/",
+    "headquarters": "Brussels, Belgium",
+    "placeholder": true
+  }
+]

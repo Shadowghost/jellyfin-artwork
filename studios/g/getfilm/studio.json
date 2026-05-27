@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Getfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81557"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Contrast Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32784",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jiwVrSbrdffXlt68bL71DAT0LRJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.contrastfilm.ch/en",
+    "headquarters": "Zurich",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Morgenavisen Jyllands-Posten",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "178210"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

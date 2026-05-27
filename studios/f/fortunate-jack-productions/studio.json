@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fortunate Jack Productions",
+    "country": "US",
+    "homepage": "https://fortunatejack.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "227759",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tetQbXKzL0R8CgmPOtL3Mkv5gnT.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie Art Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274592"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

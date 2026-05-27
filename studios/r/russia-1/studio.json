@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Russia 1",
+    "description": "Russian state-owned national television channel and flagship channel of VGTRK; one of the most-watched networks in Russia.",
+    "country": "RU",
+    "type": "broadcast-network",
+    "homepage": "https://russia.tv/",
+    "headquarters": "Moscow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69587",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u0Jy8wJ05m3MZCNiba1EXgf0zoK.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Russia-1"
+    ],
+    "template": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Television Iwate",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257724",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6OmAeQnyBqojb5WomUjlyrcIDrJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.tvi.jp/",
+    "placeholder": true
+  }
+]

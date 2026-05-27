@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Boardroom",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200196",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a5QNkIQycdwce1mS8wtXWMcwdv4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://boardroom.tv",
+    "placeholder": true
+  }
+]

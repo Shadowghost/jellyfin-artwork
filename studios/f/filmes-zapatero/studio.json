@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmes Zapatero",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76186",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5h8tLukVzv7uWwdPrstdkgvCXtD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PR",
+    "homepage": "https://zapaterofilms.com",
+    "headquarters": "San Juan",
+    "placeholder": true
+  }
+]

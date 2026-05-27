@@ -1,0 +1,13 @@
+[
+  {
+    "name": "portal films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "269303"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

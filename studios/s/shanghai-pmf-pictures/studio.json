@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Shanghai PMF Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "246899",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qcQuXQ7C0pPaNrkJX7CrzOQO3Dn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "headquarters": "Shanghai",
+    "placeholder": true
+  }
+]

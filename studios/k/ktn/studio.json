@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KTN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34812",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b9hJOc94a5KgducpnIWbCKHWdD7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.kt.com/",
+    "headquarters": "Seongnam, Gyeonggi, South Korea",
+    "placeholder": true
+  }
+]

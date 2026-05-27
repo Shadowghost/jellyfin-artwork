@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Secret Garden Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234477"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "This is 42",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "178079"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "deTur.films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180509"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "John's Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "186886"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

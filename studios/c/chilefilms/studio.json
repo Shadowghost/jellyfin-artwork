@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Chilefilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18607",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kqU0tEddKzMQ6OOvqyXKdYEtSHH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "https://www.chilefilms.cl",
+    "headquarters": "Santiago",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "LHF Film",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73045"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

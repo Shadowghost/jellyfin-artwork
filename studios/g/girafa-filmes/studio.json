@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Girafa Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49843",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9raxifvnRvhaKuKVZtBP0x5tduS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.girafafilmes.com.br/",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

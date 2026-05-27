@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Next Stop Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58796"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

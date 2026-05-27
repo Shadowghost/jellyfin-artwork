@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Resolve Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160542",
+        "logo_uri": "https://image.tmdb.org/t/p/original/91QWblNGBnTYWSEfwFvvaCFN6Q5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://resolve.media",
+    "placeholder": true
+  }
+]

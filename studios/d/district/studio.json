@@ -1,0 +1,13 @@
+[
+  {
+    "name": "District",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3003"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

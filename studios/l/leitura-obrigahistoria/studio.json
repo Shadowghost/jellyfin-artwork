@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Leitura ObrigaHistória",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216303"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

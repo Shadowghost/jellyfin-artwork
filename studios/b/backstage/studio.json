@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Backstage",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200222"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

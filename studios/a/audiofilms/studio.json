@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AudioFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208887"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

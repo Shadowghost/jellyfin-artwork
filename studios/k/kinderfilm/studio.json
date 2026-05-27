@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kinderfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14169",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kc3DbPHZrvx0FP2aVGZfEDxm4Jn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://kinderfilm-gmbh.de",
+    "headquarters": "Erfurt",
+    "placeholder": true
+  }
+]

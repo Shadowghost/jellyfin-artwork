@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Urban Factory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16521",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5xsoXTGM9KVxFpfbWEkSUlosqKb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.urbanfactory.biz",
+    "headquarters": "Montreuil",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BGC Melody",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184489",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kVMwo6UG9dSN3dXUvYmnryOA3K.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://bgcmelody.live/",
+    "headquarters": "Arlington, Virginia",
+    "placeholder": true
+  }
+]

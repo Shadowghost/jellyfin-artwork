@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Argos Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113032",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gq7snQMXuSiCqJIopxTpQ7wXlwS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.argospictures.com/",
+    "placeholder": true
+  }
+]

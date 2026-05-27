@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Studio T",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90239"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

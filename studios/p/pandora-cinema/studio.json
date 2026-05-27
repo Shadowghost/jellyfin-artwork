@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pandora Cinema",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

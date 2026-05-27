@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TFS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215401",
+        "logo_uri": "https://image.tmdb.org/t/p/original/36HB29Fo9tjBgcxIQDvLJ5rX69e.png"
+      }
+    ],
+    "artwork": {},
+    "country": "VN",
+    "homepage": "http://tfs.vn/",
+    "headquarters": "14 Dinh Tien Hoang street, Dictrict 1, Ho Chi Minh City, Vietnam",
+    "placeholder": true
+  }
+]

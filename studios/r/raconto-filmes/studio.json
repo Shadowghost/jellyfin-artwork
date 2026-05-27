@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Raconto Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13012",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nLBeV3Fn65bCn9rfLWVmZd3Y1zI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.raconto.com.br/",
+    "placeholder": true
+  }
+]

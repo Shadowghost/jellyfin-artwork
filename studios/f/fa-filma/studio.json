@@ -1,0 +1,15 @@
+[
+  {
+    "name": "FA Filma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91036"
+      }
+    ],
+    "artwork": {},
+    "country": "LV",
+    "homepage": "http://www.fafilma.lv/en",
+    "placeholder": true
+  }
+]

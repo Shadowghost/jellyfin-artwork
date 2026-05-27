@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film in Norway",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121461",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iWrlIGWbzEUFq3gOjQRgLlkBEQq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://filminnorway.com/",
+    "headquarters": "Countrywide, Norway",
+    "placeholder": true
+  }
+]

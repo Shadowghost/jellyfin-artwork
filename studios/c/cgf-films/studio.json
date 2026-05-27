@@ -1,0 +1,15 @@
+[
+  {
+    "name": "CGF Films",
+    "country": "RU",
+    "homepage": "https://www.cgfww.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104485"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

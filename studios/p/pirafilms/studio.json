@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PiraFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123725"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

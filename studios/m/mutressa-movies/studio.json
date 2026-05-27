@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mutressa Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23318",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lIeCwU4aka6kZV5ZODxAMgjyAwa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.mutressamovies.com/",
+    "placeholder": true
+  }
+]

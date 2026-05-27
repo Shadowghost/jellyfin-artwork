@@ -1,0 +1,29 @@
+[
+  {
+    "name": "TVOKids",
+    "description": "Canadian children's programming block and brand of TVO, the Ontario public educational broadcaster.",
+    "country": "CA",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189910"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

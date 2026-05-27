@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SDB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81772"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

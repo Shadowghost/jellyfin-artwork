@@ -1,0 +1,17 @@
+[
+  {
+    "name": "På film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "279133",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2NN0tZCoEXQkQx8VfEv4Z0esxPb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://pafilm.no/",
+    "headquarters": "Bergen",
+    "placeholder": true
+  }
+]

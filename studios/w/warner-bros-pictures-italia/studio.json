@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Warner Bros Pictures Italia",
+    "country": "IT",
+    "homepage": "https://www.warnerbros.it/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12923",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

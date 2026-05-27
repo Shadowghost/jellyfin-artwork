@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rhode Island PBS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176912",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5irDUAzVtOX8WNqUHzznYXKBwAP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.ripbs.org/",
+    "headquarters": "Providence, Rhode Island",
+    "placeholder": true
+  }
+]

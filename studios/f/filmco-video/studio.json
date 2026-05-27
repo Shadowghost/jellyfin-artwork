@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Filmco Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107451",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5PrXJUjxGGHzENdYcMaJuWHDuof.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Arleta, California, USA",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Amazone Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98425"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.amazonefilm.com",
+    "headquarters": "St-Calixte, Quebec",
+    "placeholder": true
+  }
+]

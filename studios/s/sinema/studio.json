@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73018"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

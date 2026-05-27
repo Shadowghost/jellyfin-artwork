@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TorinoFilmLab",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88102",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cif2cZk0jg3uusHFwZsO9G6pFDQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.torinofilmlab.it/",
+    "headquarters": "Turin",
+    "placeholder": true
+  }
+]

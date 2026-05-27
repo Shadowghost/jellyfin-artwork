@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Great British Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3869"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cine Caribe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "293842",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9Wu72ZVLo6Xx3r4uP8L3IDk58nK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GT",
+    "headquarters": "Guatemala City",
+    "placeholder": true
+  }
+]

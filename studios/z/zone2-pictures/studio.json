@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zone2 Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94771",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e9TrCyThYq5qIs4OGkMQF40HDzX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "http://zone2.fi",
+    "headquarters": "Helsinki, Finland",
+    "placeholder": true
+  }
+]

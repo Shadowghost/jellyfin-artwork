@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films du Prieuré",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125800"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

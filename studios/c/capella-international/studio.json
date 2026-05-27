@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Capella International",
+    "country": "US",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "594"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

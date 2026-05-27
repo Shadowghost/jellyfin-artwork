@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Nederlands Instituut voor Beeld en Geluid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81625",
+        "logo_uri": "https://image.tmdb.org/t/p/original/44zYo2Zit3zJrcSGkO5jEFPULgD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.beeldengeluid.nl",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "EMG Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125451",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qvPMv70VQuJskI2q4nt2MbY8Kdg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://emg.fm/",
+    "placeholder": true
+  }
+]

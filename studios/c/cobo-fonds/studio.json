@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CoBo Fonds",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12021",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cTMg6wiGcCIxQybwz6gXkToZpLG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "http://www.cobofonds.nl",
+    "placeholder": true
+  }
+]

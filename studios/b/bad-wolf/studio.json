@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bad Wolf",
+    "country": "GB",
+    "homepage": "https://bad-wolf.com",
+    "headquarters": "Cardiff, Wales",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82996",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sxxPhM3Qt3OCQaFUyeegZ8eqcs9.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

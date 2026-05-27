@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Screambox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179835",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j6u9QwJUwWGFpAHaoUzp6jENF4G.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.screambox.com/",
+    "placeholder": true
+  }
+]

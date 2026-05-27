@@ -1,0 +1,13 @@
+[
+  {
+    "name": "HotOldmovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187554"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

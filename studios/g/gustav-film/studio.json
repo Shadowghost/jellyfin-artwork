@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gustav Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "54089",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gAuDLJVyiDjkEMkMrGmfdYaw6OE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SI",
+    "homepage": "http://www.gustavfilm.si",
+    "headquarters": "Ljubljana",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ProductionLocker",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94712"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

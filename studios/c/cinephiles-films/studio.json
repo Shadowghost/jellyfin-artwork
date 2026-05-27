@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cinephiles Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225883"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://cinephiles.de",
+    "headquarters": "Cologne, Germany",
+    "placeholder": true
+  }
+]

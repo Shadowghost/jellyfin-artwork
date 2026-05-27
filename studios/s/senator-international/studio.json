@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Senator International",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "830",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mYga54mrt5n4GUUcJxE6DmR2FKv.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

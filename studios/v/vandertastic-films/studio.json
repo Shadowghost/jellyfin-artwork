@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vandertastic Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39724",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qy0c8vFDjkPpbuBCsZCvyn3rCOr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.vandertastic.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

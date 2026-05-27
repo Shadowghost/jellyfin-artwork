@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Amérique Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66512",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vKWIJOZwIW8bV5DhQys5yKdCvjX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.ameriquefilm.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hainaut-cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "265472"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

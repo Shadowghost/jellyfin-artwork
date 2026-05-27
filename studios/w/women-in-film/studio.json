@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Women in Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109512",
+        "logo_uri": "https://image.tmdb.org/t/p/original/49b2DIqQHgoySNfRXVoIGH3OJPr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://womeninfilm.org",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Hungry Bear",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "43560"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://hungrybear.com",
+    "headquarters": "Fort Worth, Texas, USA",
+    "placeholder": true
+  }
+]

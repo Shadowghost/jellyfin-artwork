@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ginger Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183412",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aCu5rpsmB1l4mu7Zx49IYN4nZZs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.gingerpictures.be",
+    "placeholder": true
+  }
+]

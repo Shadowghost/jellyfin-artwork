@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Amateur District",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63769",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AgVXu62SaBxsmD5zPaI4u55foni.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

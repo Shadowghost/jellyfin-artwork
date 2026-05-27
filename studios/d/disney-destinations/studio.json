@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Disney Destinations",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104966"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Artizana film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29698",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uBsa5WMy0VPcKhv1WYYajkWkEa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HR",
+    "homepage": "https://artizana.hr/",
+    "headquarters": "Zagreb",
+    "placeholder": true
+  }
+]

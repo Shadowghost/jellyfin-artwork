@@ -1,0 +1,13 @@
+[
+  {
+    "name": "OffAbbot",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105687"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

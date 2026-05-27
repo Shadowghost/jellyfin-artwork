@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Imagery",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150496"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://www.imagery.fi/",
+    "headquarters": "Kajaani, Finland",
+    "placeholder": true
+  }
+]

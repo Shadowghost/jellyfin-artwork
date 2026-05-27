@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Bad Robot",
+    "description": "American film and television production company founded by J.J. Abrams, known for Lost, Westworld, and the Star Wars sequel trilogy.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.badrobot.com",
+    "headquarters": "New York City, New York",
+    "colors": [
+      {
+        "name": "Bad Robot Red",
+        "hex": "#E32119"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11461",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p9FoEt5shEKRWRKVIlvFaEmRnun.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Bad Robot Productions"
+    ],
+    "template": true
+  }
+]

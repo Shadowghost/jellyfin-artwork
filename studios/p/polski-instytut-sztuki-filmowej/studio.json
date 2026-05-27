@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Polski Instytut Sztuki Filmowej",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11240",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i59ItaKFdxJ7Yi6w2s7CML0LBvI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://www.pisf.pl",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "LiveOn",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139813",
+        "logo_uri": "https://image.tmdb.org/t/p/original/28pSwVnBSaU2gGn7T1JrIrqJVuy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "VN",
+    "homepage": "https://liveon.vn/",
+    "placeholder": true
+  }
+]

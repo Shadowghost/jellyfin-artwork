@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Shogakukan",
+    "description": "Japanese publisher of manga, dictionaries, books, and magazines, part of the Hitotsubashi Group.",
+    "country": "JP",
+    "type": "publisher",
+    "homepage": "https://www.shogakukan.co.jp",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9149",
+        "logo_uri": "https://image.tmdb.org/t/p/original/isLUpud9N56ifftJZ4XvzwBBpoG.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

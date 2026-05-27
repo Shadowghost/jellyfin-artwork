@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Min Max Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24001"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

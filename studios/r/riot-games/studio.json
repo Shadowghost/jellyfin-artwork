@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Riot Games",
+    "country": "US",
+    "homepage": "https://www.riotgames.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124172",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sBlhznEktXKBqC87Bsfwpo1YbYR.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

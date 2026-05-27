@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nationalmuseum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "268214"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

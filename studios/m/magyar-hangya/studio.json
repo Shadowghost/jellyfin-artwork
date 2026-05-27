@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Magyar Hangya",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "295007"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

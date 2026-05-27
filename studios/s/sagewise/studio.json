@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sagewise",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120330"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

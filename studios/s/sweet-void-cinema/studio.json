@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sweet Void Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "237628",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i7zw4DxN2pWzHcQgqkuz1YMHGJ1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.sweetvoidcinema.com/",
+    "headquarters": "Chicago, Illinois",
+    "placeholder": true
+  }
+]

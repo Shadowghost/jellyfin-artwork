@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Adverb Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170893"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

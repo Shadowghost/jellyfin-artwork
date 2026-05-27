@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CG Cinéma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51696",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1HeS0gYnwi2AVtfGvSBaCqlXMuS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.cgcinema.eu/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

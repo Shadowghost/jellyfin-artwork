@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Arcanum Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12369",
+        "logo_uri": "https://image.tmdb.org/t/p/original/syA4NuUhzk5ubo1QSuVrED5RaC9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://arcanumpictures.com/",
+    "placeholder": true
+  }
+]

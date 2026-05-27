@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Soyuz-video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95278"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

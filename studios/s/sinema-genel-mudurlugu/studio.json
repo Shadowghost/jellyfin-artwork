@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Sinema Genel Müdürlügü",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105425",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1ND4ngzglYhUowWflDXsJd9kg8D.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

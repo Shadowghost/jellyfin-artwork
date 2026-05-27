@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Glory Quest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140647",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bOZ2nBQ2mTxI8jEYLSwfeUWjzfG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.gloryquest.tv",
+    "placeholder": true
+  }
+]

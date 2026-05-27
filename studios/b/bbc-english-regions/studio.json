@@ -1,0 +1,15 @@
+[
+  {
+    "name": "BBC English Regions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158939",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bLcBpga9EkyDMzP0E0afcm13S4h.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmuniversität Babelsberg KONRAD WOLF",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86782",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zuXKoPd9apgEOvy6rHthcEjJkR7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.filmuniversitaet.de/en",
+    "headquarters": "Potsdam",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "VAS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30045"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

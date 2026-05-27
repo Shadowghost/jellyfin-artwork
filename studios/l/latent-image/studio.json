@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Latent Image",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55524"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

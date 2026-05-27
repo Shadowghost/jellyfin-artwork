@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RTI - Reti Televisive Italiane",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11228",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tLdn4pStInhdPQxNyxHFuQQLT50.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.mediaset.it/corporate",
+    "headquarters": "Cologno Monzese",
+    "placeholder": true
+  }
+]

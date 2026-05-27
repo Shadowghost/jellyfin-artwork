@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Great Canadian Film Factory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275322",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lJE5OXDsyhHv7aO4Ui5XQgeo2MS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.filmfactory.ca/",
+    "headquarters": "Manitoba",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Annapurna Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91008",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qBpKIuMVX9CiyUSiyc1JKnhPLPt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://annapurna.pictures/tv",
+    "placeholder": true
+  }
+]

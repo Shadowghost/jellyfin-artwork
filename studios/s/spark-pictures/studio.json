@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Spark Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79901"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

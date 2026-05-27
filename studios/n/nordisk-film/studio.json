@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Nordisk Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143164",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gUHRNTkRHBzHkS15Dx5KfZhbPbT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://nordiskfilm.com",
+    "placeholder": true
+  }
+]

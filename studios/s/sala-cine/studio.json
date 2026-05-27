@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sala Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151040"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

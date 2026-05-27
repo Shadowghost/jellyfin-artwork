@@ -1,0 +1,29 @@
+[
+  {
+    "name": "The District",
+    "description": "Production company name; ambiguous as multiple companies use this name. Limited identifying information available from slug alone.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52961"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

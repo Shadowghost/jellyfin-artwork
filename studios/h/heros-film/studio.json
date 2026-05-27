@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Heros-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110078"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

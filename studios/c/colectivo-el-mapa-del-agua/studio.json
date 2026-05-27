@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Colectivo El Mapa del Agua",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273972"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

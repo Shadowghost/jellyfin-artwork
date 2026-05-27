@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les Films Concordia",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1714"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "World Championship Wrestling",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13510",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1G5tOhMyzIwl4CboqUZ9dvWwbbu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.wwe.com/",
+    "headquarters": "Atlanta, Georgia",
+    "placeholder": true
+  }
+]

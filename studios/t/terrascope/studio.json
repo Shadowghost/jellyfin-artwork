@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Terrascope",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130632"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pili Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89839",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ow9FiFejtLYJzYGvkvt7MWyI6RJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://pilifilms.fr",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

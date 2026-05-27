@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fremantle Documentaries",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216256"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://fremantle.com",
+    "headquarters": "London",
+    "placeholder": true
+  }
+]

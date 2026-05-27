@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hamburg-Amerika-Linie (Hapag)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80129"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

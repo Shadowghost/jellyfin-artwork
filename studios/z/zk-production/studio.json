@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ZK Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122278"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

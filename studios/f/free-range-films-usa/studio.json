@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Free Range Films (USA)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203312",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5vaNeDiUjx1CWG394PblLb7stxL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://filmfreerange.com",
+    "headquarters": "Longmont, Colorado",
+    "placeholder": true
+  }
+]

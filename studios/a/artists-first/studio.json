@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Artists First",
+    "country": "US",
+    "headquarters": "9465 Wilshire Blvd., 9th Floor, Beverly Hills, CA, United States, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106497",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l7nrRW41bLB1M6wK6sDDpxvDQBp.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

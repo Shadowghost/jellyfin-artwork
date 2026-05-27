@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Novel Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "132729"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

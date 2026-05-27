@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TIMVision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120313",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g163rKrkxT7Y8iIBwRqpbnaJr0a.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.timvision.it",
+    "placeholder": true
+  }
+]

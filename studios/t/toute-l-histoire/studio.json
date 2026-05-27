@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Toute L'Histoire",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123946",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4xNW5asBlhVC7ZlvB1VXYSrr0nb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.toutelhistoire.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "RBB Brandenburg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "243354",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h4Lsp8GbfiEEhZAIa15GQria5dr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

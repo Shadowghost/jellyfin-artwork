@@ -1,0 +1,29 @@
+[
+  {
+    "name": "ABC Entertainment",
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18742",
+        "logo_uri": "https://image.tmdb.org/t/p/original/krQ8RCXPmQHmJ50gTEplxg3p588.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Idéstorm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260292",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7FYc9UWlNTVclkbdzOSBZ5IesyP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.idestorm.se/",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

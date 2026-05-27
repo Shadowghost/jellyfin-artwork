@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Ryukyu Shimpo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257028",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uLETRUGSJYUpqWj2LCivhhee8SJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://ryukyushimpo.jp/",
+    "headquarters": "Naha City, Okinawa Prefecture",
+    "placeholder": true
+  }
+]

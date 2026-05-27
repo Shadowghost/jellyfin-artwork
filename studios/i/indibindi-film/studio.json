@@ -1,0 +1,16 @@
+[
+  {
+    "name": "İndibindi Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280450",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hwmfnzYTGDDXNPD8DhpOlwzfxC5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie Buff",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34043"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

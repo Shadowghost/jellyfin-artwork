@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KidsMe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176930",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kDMzKhzCB6gJo0G5BJ8PqiBrqNa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.kidsme.com/",
+    "headquarters": "Milano",
+    "placeholder": true
+  }
+]

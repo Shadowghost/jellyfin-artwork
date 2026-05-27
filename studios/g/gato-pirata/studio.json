@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Gato Pirata",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177452",
+        "logo_uri": "https://image.tmdb.org/t/p/original/15gAybzKUgC1IgrveTtMQPREByx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "headquarters": "Rio de Janeiro, Rio de Janeiro",
+    "placeholder": true
+  }
+]

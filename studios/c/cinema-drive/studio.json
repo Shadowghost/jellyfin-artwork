@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinema Drive",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212202"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

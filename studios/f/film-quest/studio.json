@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Quest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "132460"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

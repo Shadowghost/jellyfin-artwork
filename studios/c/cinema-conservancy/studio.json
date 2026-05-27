@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cinema Conservancy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89305"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

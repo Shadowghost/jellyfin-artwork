@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Valparaiso Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117654",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1LX9vw24AJr4cGTHZw10e73YEfI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.valparaisopictures.com",
+    "headquarters": "Los Angeles, California, USA",
+    "placeholder": true
+  }
+]

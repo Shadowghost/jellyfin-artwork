@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ViuTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96521",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bIEruVnJ4g5WInPb0zEQF8nJNQt.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

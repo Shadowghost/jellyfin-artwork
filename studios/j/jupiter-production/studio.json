@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Jupiter Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283455"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

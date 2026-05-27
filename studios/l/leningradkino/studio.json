@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Leningradkino",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93623"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

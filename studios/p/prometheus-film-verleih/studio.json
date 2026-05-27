@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Prometheus-Film-Verleih",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106528"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

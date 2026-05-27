@@ -1,0 +1,14 @@
+[
+  {
+    "name": "South Bridge",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239897"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

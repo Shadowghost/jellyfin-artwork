@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Vodorod Film Company",
+    "country": "RU",
+    "homepage": "http://vodorodfilm.ru",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100821",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qBnzozNLi8gHHqwyN0ycGy8seZm.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FilmShadowGhost",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201792"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

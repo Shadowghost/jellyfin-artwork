@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Locarno Film Festival",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120943"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.locarnofestival.ch/",
+    "headquarters": "Locarno",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "BEO-FILM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210713",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lJygC3QhB36UD2g9QtLTAlBCpz7.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

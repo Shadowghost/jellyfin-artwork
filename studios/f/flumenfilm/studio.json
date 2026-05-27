@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Flumenfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140271",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h4sxJpluod9abWYPnsVwjaQpfx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://flumenfilm.de/",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

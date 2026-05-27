@@ -1,0 +1,13 @@
+[
+  {
+    "name": "satellite.works",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "296695"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

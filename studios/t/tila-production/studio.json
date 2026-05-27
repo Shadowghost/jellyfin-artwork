@@ -1,0 +1,13 @@
+[
+  {
+    "name": "tila production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290252"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

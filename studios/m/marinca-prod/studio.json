@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Marinca Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "235064"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "PARIS",
+    "placeholder": true
+  }
+]

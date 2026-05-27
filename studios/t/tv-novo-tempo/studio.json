@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TV Novo Tempo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202806",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mFXe8wEaQmIPGMzFWMQHpwYkqIT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.novotempo.com/tv/",
+    "headquarters": "Jacareí – SP",
+    "placeholder": true
+  }
+]

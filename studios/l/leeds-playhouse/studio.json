@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Leeds Playhouse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208476",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3SYVQ9zNVWKH87UNa62Bnde254l.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://leedsplayhouse.org.uk/",
+    "headquarters": "Leeds, West Yorkshire, England",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bohemian Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85215",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3jlLxFV4aMw5ooEMrw562liEg1A.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.bohemianpictures.co.uk",
+    "headquarters": "London",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "China Network Television 央视网 (CNTV)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93429",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ksLXrLamZfIEttyk734yWhYCPP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "placeholder": true
+  }
+]

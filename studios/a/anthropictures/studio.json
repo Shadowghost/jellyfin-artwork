@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Anthropictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143010"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.anthropictures.cz/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

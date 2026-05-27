@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Trad Film AS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96123",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sA7u3fsYZShp8Tsd5VOAQiD83m8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "http://tradfilm.no/",
+    "headquarters": "Elverum",
+    "placeholder": true
+  }
+]

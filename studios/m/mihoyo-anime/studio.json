@@ -1,0 +1,17 @@
+[
+  {
+    "name": "miHoYo Anime",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158305",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gkZoRcfGMBLd9RnkahB0hm3cUFo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://www.mihoyo.com/",
+    "headquarters": "Shanghai, China",
+    "placeholder": true
+  }
+]

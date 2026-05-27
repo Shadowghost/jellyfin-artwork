@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Keep or Destroy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201101",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tA6fAuAFwvu4PdzC0QqvqhhC2Sx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.keepordestroy.com",
+    "headquarters": "Brooklyn, New York",
+    "placeholder": true
+  }
+]

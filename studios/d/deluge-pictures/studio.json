@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Deluge Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "195643",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5auare3qFJ9wpQKsttXnK9MFpQ0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

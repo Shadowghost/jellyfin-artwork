@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ADISQ",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143444",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v2OCMWKAHtMtQXaDNqYqFfqjCCz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.adisq.com",
+    "placeholder": true
+  }
+]

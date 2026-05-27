@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AniVillage",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30128"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

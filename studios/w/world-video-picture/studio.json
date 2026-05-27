@@ -1,0 +1,13 @@
+[
+  {
+    "name": "World Video Picture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101963"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

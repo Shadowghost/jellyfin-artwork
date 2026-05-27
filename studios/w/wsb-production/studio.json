@@ -1,0 +1,13 @@
+[
+  {
+    "name": "WSB Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241910"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

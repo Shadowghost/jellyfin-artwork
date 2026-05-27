@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Photofactory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111008"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

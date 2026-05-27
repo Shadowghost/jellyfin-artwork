@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Synthetic Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92539"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Laranjeiras Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "276102",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x3yZB2y3QJdreyXq2tYMqXKnF5Z.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.laranjeirasfilmes.com/",
+    "headquarters": "Laranjeiras, Rio de Janeiro - RJ",
+    "placeholder": true
+  }
+]

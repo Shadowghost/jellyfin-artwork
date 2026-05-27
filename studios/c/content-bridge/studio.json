@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Content Bridge",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264601",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vEDSd9sTazmEXQLo5NtkVKHKC3r.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EG",
+    "placeholder": true
+  }
+]

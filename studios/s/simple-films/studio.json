@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Simple Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255918"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SwankFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290133"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

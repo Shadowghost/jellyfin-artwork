@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Storm Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79253",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aFp4hwuByAfcz3PfOB6rSLTSLdp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.stormpictures.net/",
+    "placeholder": true
+  }
+]

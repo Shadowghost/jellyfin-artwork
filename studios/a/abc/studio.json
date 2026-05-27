@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ABC",
+    "country": "US",
+    "homepage": "https://abc.com",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176162",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6p5mbxa1dzikbnVlLc11uroG9GU.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

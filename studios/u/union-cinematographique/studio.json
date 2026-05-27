@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Union Cinématographique",
+    "country": "FR",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8696"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Canal + Belgique",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85743"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "placeholder": true
+  }
+]

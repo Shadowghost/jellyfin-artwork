@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Solab Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173777",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mCL0SOgB4osJy3WZ143X2u3QkGf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.solab.fr/films",
+    "placeholder": true
+  }
+]

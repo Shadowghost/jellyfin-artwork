@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Doppelganger",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128289",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2h3ByW3BTy126E7OZ7sYcBqzH3M.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://www.doppelganger.se/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

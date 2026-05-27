@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TSP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192308",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mEf4C2G2Q4BCilIqnke5SPSKRgz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://tsp.co.jp/",
+    "headquarters": "東京都港区",
+    "placeholder": true
+  }
+]

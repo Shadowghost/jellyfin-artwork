@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Petite Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103435",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8fa7PDtPk4L2yRY8MI3NYh3F2aB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.lapetiteprod.fr",
+    "headquarters": "Nantes",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "UVT Cinemas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137764",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8u64YNnp5FhZGzTjrA2vjIDPjZj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "homepage": "https://uvtcinema.vhx.tv/",
+    "placeholder": true
+  }
+]

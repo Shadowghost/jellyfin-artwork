@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Traction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "190400",
+        "logo_uri": "https://image.tmdb.org/t/p/original/21rNJkat947r3x5V9DDxvkUoYzM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://tractionpictures.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

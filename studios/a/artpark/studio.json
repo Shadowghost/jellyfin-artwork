@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ArtPark",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128002"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

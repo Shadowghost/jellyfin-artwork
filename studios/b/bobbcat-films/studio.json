@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bobbcat Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80433",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b0aSmgHObM0lanTK4rWkccpP9ze.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.bobbcatfilms.com",
+    "headquarters": "Atlanta, Georgia",
+    "placeholder": true
+  }
+]

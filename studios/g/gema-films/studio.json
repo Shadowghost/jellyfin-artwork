@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gema Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46212",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8NNQcHc8dx2uYW3ehi5ebHmJZOe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://gemafilms.com/en/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

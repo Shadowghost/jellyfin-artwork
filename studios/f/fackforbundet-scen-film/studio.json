@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fackförbundet Scen & Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258127",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wmQZ6nfLRqdMXvG3ATIj5kgTVlC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://scenochfilm.se",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

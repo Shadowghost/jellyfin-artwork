@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Vision Video Gateway Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111000"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

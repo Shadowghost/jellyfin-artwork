@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Megamedia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73521",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k9G99i7abke0jyI4iw5uKW3uvAE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "http://www.megamedia.cl",
+    "headquarters": "Nuñoa, Santiago",
+    "placeholder": true
+  }
+]

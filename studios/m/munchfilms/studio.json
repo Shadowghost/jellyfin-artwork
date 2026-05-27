@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MünchFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88213"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

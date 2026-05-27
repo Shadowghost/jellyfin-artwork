@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Werner Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92765",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xdhFJN5ecRxVkGw9gW5uPfjhBL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://www.wernercine.com/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

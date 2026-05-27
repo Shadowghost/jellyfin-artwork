@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Calle Cruzada",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199001",
+        "logo_uri": "https://image.tmdb.org/t/p/original/39ZCiTKx11iCGUm9scNdEOBCzxT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filter Filmproduktion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256496"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

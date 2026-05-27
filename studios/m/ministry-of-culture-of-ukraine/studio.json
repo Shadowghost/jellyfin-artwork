@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ministry of Culture of Ukraine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131386",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7hbMW4N2YRj15Ytk4wCjpJ9WRWw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UA",
+    "homepage": "http://mincult.kmu.gov.ua/",
+    "headquarters": "Kyiv",
+    "placeholder": true
+  }
+]

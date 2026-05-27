@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Carlotta Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93313",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6eKoNNjUDOFjzNUCA8SYzIE3aAl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://carlottafilms.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

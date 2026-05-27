@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SACIS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1041"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

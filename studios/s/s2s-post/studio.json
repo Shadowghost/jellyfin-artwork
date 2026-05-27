@@ -1,0 +1,13 @@
+[
+  {
+    "name": "S2S Post",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "195000"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

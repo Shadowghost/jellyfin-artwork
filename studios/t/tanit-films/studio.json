@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tanit Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75445",
+        "logo_uri": "https://image.tmdb.org/t/p/original/50IoGWPcL7wSYz3DTm8bptWGuwy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Artforum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194812"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

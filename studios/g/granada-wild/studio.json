@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Granada Wild",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203002"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

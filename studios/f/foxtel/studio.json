@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Foxtel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79082",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4lgerFJSRYtnKk2Kzl359z02cGs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://www.foxtel.com.au/index.html",
+    "placeholder": true
+  }
+]

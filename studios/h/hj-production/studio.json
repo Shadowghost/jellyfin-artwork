@@ -1,0 +1,13 @@
+[
+  {
+    "name": "HJ Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123194"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

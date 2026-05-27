@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SEPA Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182952"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

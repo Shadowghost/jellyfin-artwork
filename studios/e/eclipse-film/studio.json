@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Éclipse Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76139",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m7DTXzBlG9loASQohbG2N0p3AMi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "http://eclipsefilm.hu",
+    "headquarters": "Budapest",
+    "placeholder": true
+  }
+]

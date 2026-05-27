@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmgraph",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148209"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

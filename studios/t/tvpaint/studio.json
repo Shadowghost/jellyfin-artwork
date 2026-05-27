@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TVPaint",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111535",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eZsD5MApQ0BkhgltSsVPHxgGVZF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.tvpaint.com/",
+    "headquarters": "Lorraine, France",
+    "placeholder": true
+  }
+]

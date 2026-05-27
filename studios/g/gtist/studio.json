@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GTist",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116612",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8W2iPa0Cshd3fjMSeY4o8981Dbr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://gtist.com/",
+    "headquarters": "Mapo, Seoul",
+    "placeholder": true
+  }
+]

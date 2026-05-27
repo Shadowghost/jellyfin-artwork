@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Toyo Recording",
+    "country": "JP",
+    "homepage": "http://www.toyorecording.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210472"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

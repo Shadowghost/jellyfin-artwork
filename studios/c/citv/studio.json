@@ -1,0 +1,15 @@
+[
+  {
+    "name": "CITV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214075",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aBuAiCG3pa8iJASHXg81xjsIRTf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

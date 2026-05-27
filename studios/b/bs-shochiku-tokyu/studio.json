@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BS Shochiku Tokyu",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182505",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3TZ0WjhWBbgUpOdm9nVvjh2d8fL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.shochiku-tokyu.co.jp/",
+    "placeholder": true
+  }
+]

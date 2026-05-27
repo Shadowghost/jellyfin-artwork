@@ -1,0 +1,26 @@
+[
+  {
+    "name": "CBS Fox Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139576"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

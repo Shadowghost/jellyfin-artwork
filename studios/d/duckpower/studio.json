@@ -1,0 +1,15 @@
+[
+  {
+    "name": "DuckPower",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12285",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1OkqBczRnVWLtcyTqBxIelIrAWm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "placeholder": true
+  }
+]

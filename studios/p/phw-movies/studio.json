@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PHW Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185326"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Label Film Group",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205101"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

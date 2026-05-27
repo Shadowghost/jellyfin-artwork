@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cacique Argentina",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187875",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8VQJqAxc8MaE7xEk1jBvnWEj9CW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://caciqueargentina.com/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

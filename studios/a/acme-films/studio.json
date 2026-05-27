@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Acme Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73687"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.acmetv.co.uk/",
+    "placeholder": true
+  }
+]

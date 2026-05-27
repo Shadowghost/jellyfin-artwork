@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Jacket Weather",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233638"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

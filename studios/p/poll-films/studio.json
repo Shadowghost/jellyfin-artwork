@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Poll Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189040",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5OwTFNgHEx4wBNNUc69M2vrK67v.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.pollfilms.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Luminaria",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63800"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

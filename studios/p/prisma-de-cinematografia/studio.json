@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Prisma de Cinematografía",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1186"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Zuffa Boxing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "286463",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hBwvZj9TqrsN1RWvBq3qcllI3yw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://zuffaboxing.com",
+    "placeholder": true
+  }
+]

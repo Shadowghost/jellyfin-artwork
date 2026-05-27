@@ -1,0 +1,16 @@
+[
+  {
+    "name": "RTHK TV 34",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "235342",
+        "logo_uri": "https://image.tmdb.org/t/p/original/unNWfDUqZOPD3BfEMbw4TYCq8yW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HK",
+    "homepage": "https://www.rthk.hk/",
+    "placeholder": true
+  }
+]

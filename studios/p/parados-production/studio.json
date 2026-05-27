@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PARADOS Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260515"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

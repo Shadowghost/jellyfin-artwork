@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Goldwyn Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "720"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

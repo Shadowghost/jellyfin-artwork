@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Chain Camera Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8859"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "tvN D",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133590",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jAxdJGvACBASWUWuwfFJxw1h09h.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://tvnd.tving.com/tvnd",
+    "headquarters": "Mapo, Seoul",
+    "placeholder": true
+  }
+]

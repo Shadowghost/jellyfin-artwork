@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Direct Source",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212166"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fisheye Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264701"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

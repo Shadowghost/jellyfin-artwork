@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Crazy Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12641"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.crazy-film.de/",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

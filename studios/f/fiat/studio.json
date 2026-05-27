@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Fiat",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185909"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

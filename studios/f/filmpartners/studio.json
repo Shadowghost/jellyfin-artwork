@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmpartners",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20692",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l5dKzWBb1Jc4xDIm8Hiip3b2fbV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "https://www.filmpartners.hu/",
+    "headquarters": "Budapest",
+    "placeholder": true
+  }
+]

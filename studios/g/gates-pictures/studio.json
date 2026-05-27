@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Gates Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107072",
+        "logo_uri": "https://image.tmdb.org/t/p/original/21zyuqcAN9tIspL8gZAjODpc1mF.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pulp Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135877"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

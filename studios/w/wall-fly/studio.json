@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wall Fly",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96765",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gGzebro8XLAZmC9uJbUlhMtDxq5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.wallfly.us",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

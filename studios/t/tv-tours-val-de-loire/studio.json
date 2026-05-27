@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TV Tours-Val de Loire",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170038",
+        "logo_uri": "https://image.tmdb.org/t/p/original/747Iljhz8Z6Y9SXBpBjje3o3v8f.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.tvtours.fr/",
+    "headquarters": "Tours",
+    "placeholder": true
+  }
+]

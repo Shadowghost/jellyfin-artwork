@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Firstep",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171888",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dPVemcyP71LLCRzQ9rJgRIdkjKk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://firstep.fr",
+    "placeholder": true
+  }
+]

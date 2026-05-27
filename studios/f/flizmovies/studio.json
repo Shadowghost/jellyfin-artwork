@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Flizmovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157152",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m6C8ERl6LDRZM9ATokOpZoLOKOD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

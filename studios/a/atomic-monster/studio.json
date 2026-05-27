@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Atomic Monster",
+    "description": "American horror film and television production company founded by James Wan; merged with Blumhouse in 2024.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.atomicmonster.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76907",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ygMQtjsKX7BZkCQhQZY82lgnCUO.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

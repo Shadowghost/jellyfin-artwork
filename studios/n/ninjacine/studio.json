@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NinjaCine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262511"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PNG Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "284471"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

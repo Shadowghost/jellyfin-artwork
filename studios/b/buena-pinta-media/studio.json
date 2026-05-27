@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Buena Pinta Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200804",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7rQ6WdOccPyIPI0pTztsxy3QikE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://buenapintamedia.com/",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

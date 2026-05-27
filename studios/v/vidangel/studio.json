@@ -1,0 +1,31 @@
+[
+  {
+    "name": "VidAngel",
+    "description": "American video streaming service offering filtering of objectionable content and family-friendly originals; spawned Angel Studios which produces The Chosen and Sound of Freedom.",
+    "country": "US",
+    "type": "streaming-service",
+    "headquarters": "Provo, Utah",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91789",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vewmadL3CfwSGtwszA1Y58cVmyg.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

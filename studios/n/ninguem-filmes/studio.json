@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ninguém Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103810"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

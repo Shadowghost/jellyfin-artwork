@@ -1,0 +1,17 @@
+[
+  {
+    "name": "EMAfilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62055",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9JTfKQz5tarUHuqeXo8txjYyema.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.emafilms.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

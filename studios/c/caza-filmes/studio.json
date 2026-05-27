@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Caza Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135353"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

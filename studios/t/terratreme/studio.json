@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Terratreme",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9047",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a0oCybecb96ieZY4139hb9uqYs1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "http://www.terratreme.pt",
+    "headquarters": "Lisboa",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "DigiCube",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273393",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ii5l66kvFz6P7GKhkLhBIrmeYtH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

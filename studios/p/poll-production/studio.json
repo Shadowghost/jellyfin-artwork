@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Poll Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152793"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

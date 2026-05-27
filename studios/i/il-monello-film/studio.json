@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Il Monello Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121150",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5PyILJvB6hYaYzMCwThqKyxixXu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.monellofilm.com/",
+    "headquarters": "Sassari",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Shaftesbury Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6252",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9b3MKk54TG6p059z0t9j4bqgnom.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.shaftesbury.ca",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

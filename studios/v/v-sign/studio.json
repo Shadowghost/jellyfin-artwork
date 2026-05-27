@@ -1,0 +1,17 @@
+[
+  {
+    "name": "V-sign",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148008",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9IPTZlXa0Cv0cnPrxv19MSgJihi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://v-sign.co.jp/",
+    "headquarters": "Tokyo, Japan",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cut Off Tail",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107363"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

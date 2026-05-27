@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Kuzey Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73003"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "http://www.kuzeyproduction.com.tr",
+    "placeholder": true
+  }
+]

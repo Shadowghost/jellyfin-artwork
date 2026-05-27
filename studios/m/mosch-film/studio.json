@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mosch-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2023"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

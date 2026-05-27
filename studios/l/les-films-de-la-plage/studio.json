@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films de la Plage",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148060",
+        "logo_uri": "https://image.tmdb.org/t/p/original/283AGTzlUfo4Y7oQuZnQuI60CW6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://lesfilmsdelaplage.com",
+    "headquarters": "Trouville-sur-Mer",
+    "placeholder": true
+  }
+]

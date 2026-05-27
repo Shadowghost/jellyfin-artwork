@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tivolifilm",
+    "country": "DE",
+    "homepage": "https://tivolifilm.tv",
+    "headquarters": "Munich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14791",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9SClaXyWmsv5y7qE9l54Z47AZxK.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

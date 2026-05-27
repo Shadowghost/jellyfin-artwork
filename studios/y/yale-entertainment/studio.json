@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Yale Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183188",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qNgImFjk8SP7lwzoH69VgeAGPii.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.yaleentertainment.com/",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

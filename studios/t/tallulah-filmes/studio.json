@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tallulah Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101986",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yxsvXD7DWOljQ1gzCrYDLBhin1U.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.tallulahfilms.com",
+    "headquarters": "Rio de Janeiro RJ",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinema de Bolso Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119099"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

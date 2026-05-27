@@ -1,0 +1,16 @@
+[
+  {
+    "name": "RTL-TVi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2208",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lyo2nqmPCpXBWvMIQhmVjvZvoHN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.rtlplay.be/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "AT&T",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56663",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6Yf7cKVDcBRB5MePQaP2ldOHiWR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Dallas, Texas, United States",
+    "placeholder": true
+  }
+]

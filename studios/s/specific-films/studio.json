@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Specific Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1381"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

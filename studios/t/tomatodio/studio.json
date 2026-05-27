@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TOMATODIO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "286006",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yDfDGcd1WAl2yAPb4Dxrah1H9yS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://tomatodio.com/",
+    "headquarters": "Mapo, Seoul, South Korea",
+    "placeholder": true
+  }
+]

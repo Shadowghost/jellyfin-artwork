@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TrincaFilme",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80300"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

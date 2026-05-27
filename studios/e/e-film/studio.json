@@ -1,0 +1,13 @@
+[
+  {
+    "name": "e.film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38471"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

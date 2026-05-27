@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Condé Nast Entertainment",
+    "country": "US",
+    "homepage": "http://www.condenast.com/cne/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51513",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eWhUrhDH1DapiMCnK7I9f5HPDjd.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

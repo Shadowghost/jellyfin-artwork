@@ -1,0 +1,15 @@
+[
+  {
+    "name": "DG Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103350"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "headquarters": "Porto Alegre RS",
+    "placeholder": true
+  }
+]

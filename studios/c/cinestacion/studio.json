@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinestación",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83545",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fkMCjb5BHOJ56BdYfM6JEunRKp7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "http://www.cinestacion.cl",
+    "headquarters": "Providencia, Santiago",
+    "placeholder": true
+  }
+]

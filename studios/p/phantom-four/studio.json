@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Phantom Four",
+    "country": "US",
+    "homepage": "http://phantomfour.com",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "423",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uvA6e2O31qaonsbYd8tjvgqmNXh.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Run multimedial",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219490"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Neroflix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125134",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dSAuD4FYyxESF64AuzzbY1Ny95E.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.neroflix.com.br",
+    "headquarters": "São Paulo",
+    "placeholder": true
+  }
+]

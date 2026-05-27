@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Metafilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13839",
+        "logo_uri": "https://image.tmdb.org/t/p/original/125UdB9wgDkY2RNpjgCiKyk3Dll.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.metafilms.ca/eng",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

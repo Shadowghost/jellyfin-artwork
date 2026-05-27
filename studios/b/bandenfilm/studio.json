@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bandenfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "186919",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gDo2965yHsgLfsUEZSIbJe4p5hi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://bandenfilm.de",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

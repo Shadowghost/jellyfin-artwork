@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Groenlandia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86177",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3AKkfIbKVXiMUBx5RRaU4T7Y9d8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://groenlandiagroup.com/",
+    "headquarters": "Roma",
+    "placeholder": true
+  }
+]

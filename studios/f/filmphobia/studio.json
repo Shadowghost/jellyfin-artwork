@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FilmPhobia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "269383"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

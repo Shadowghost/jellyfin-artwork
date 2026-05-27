@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Nachmittagfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32797"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

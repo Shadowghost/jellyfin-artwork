@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Metro International Entertainment",
+    "country": "GB",
+    "homepage": "https://metro-films.com/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105679",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1XOXuZlgxefn1N8bcBwmRPxq0Tz.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

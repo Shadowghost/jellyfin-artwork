@@ -1,0 +1,15 @@
+[
+  {
+    "name": "ComicLoft",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "247152",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fDbyB1EYWJRMpbscZsvvwJ8cPD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "placeholder": true
+  }
+]

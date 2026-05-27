@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Brooksfilms",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5612"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

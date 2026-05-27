@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Little Creature",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98046"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

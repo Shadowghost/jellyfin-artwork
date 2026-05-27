@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Peterson Polaris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179367",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v9b82VoLOKuYgMu92BHGWGMrIRI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.petersonpolaris.com/",
+    "headquarters": "Calgary, Alberta",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "KinoMost",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19211",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pjKrG5IC2BaHdE5OUi4Kpe5DlGH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

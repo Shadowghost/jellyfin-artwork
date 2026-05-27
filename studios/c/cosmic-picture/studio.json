@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cosmic Picture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1810",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wlrVcwhemrOhn2QH78aGcSSEFnc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://cosmicpicture.com/",
+    "placeholder": true
+  }
+]

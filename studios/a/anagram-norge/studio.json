@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Anagram Norge",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145767",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h9uR2PcH9yyYsVt3iXD6YP4zj52.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://anagram.se/norway/",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

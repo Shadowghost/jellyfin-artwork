@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Worldview Entertainment",
+    "country": "US",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9015",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pRQLCm8AAPXL7H9MzX4xuS8GGg8.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

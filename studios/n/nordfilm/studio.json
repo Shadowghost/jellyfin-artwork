@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Nordfilm",
+    "country": "DK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115534"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

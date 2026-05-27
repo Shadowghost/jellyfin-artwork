@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AZ Celtic Films",
+    "country": "TR",
+    "homepage": "https://www.azcelticfilms.com",
+    "headquarters": "Istanbul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73204",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j2wL7Qzpo1mIg9tIG9GmYNTpdq0.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

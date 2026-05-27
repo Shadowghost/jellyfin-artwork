@@ -1,0 +1,16 @@
+[
+  {
+    "name": "FrogBox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "195929",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aWiuPynK2DuM7Wb8Q48oZIbHjc7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.frogbox.fr/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Marui",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230304",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oqVvETqIS7OGmkdok2PpXEu5rZz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

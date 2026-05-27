@@ -1,0 +1,17 @@
+[
+  {
+    "name": "istos film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107109",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yz1PSlVdpYP3S0bOSSfYwnepCPQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://istosfilm.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

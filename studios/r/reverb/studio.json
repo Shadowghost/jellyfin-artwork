@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Reverb",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129355"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

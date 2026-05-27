@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Melampo Cinematografica",
+    "country": "IT",
+    "headquarters": "Rome",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "370"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

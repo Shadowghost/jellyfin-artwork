@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Camp Studios",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271231",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mKMiqwlEvRWoaQciBcFA1YCUXKQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://campstudios.com/",
+    "placeholder": true
+  }
+]

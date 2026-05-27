@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Gearbox Studios",
+    "description": "American video game developer based in Frisco, Texas, best known for the Borderlands franchise.",
+    "country": "US",
+    "type": "studio",
+    "headquarters": "Frisco, Texas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158612",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uuByByK2kn72I2c6MGsoa5YQlcJ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

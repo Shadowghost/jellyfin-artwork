@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ShortFlix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173098"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

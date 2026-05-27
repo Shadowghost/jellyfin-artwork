@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Bayer Color Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216411",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3vPYwGxtcMioYXZSvVkkhSdKOAM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Prisma Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134579"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

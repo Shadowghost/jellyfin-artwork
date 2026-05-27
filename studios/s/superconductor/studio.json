@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Superconductor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "190115"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

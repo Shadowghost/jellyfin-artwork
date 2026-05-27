@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Shuqi Novels",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245489",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9VsfHG9QOktSNkzc3rLaSYkWW8C.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://shuqi.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Filmes Gerais",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51212"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "headquarters": "Belo Horizonte MG",
+    "placeholder": true
+  }
+]

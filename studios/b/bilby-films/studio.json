@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bilby Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223036",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p4B6GfQCH2ihn9O3uo20UpLJwSE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://bilby.tv",
+    "placeholder": true
+  }
+]

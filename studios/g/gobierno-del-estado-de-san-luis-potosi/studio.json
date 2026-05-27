@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gobierno del Estado de San Luis Potosí",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255030",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7kmCx3gMxEnAFxwn6I6dyoHxTob.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://portal.slp.gob.mx/",
+    "headquarters": "San Luis Potosí",
+    "placeholder": true
+  }
+]

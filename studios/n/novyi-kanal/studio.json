@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Novyi Kanal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212907",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hqXhutNfCb8KCZWx3kgkf5Ihg0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UA",
+    "homepage": "https://novy.tv/ua/",
+    "headquarters": "Kyiv",
+    "placeholder": true
+  }
+]

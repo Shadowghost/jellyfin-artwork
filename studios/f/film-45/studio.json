@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film 45",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90560",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cLO3O47KIkE5sr70DUVj1gHYVYm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.film-45.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

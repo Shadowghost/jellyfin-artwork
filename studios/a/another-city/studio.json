@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Another City",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101495"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

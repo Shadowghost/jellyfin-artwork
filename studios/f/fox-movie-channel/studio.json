@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Fox Movie Channel",
+    "description": "American pay-TV channel, formerly Fox Movie Channel, that airs feature films primarily from the 20th Century Fox library; rebranded as FXM.",
+    "country": "US",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "269594"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

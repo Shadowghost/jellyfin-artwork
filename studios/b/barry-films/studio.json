@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Barry Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22815",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rl2eErYH6KXjxmDXcRwUfs8N6BC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://barryfilms.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

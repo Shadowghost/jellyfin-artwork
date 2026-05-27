@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Northbound",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175916"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

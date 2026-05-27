@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Películas del Pacifico",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "47395"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TOLV24:FILM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170480"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Comptoir Français de Productions Cinématographiques (CFPC)",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32276"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

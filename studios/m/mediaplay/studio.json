@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MediaPlay",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234891"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://mediaplay.pro/",
+    "headquarters": "Barcelona",
+    "placeholder": true
+  }
+]

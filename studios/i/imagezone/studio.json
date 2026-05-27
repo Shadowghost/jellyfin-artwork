@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Imagezone",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119618"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

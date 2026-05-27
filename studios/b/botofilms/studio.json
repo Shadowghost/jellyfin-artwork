@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BotoFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162705"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

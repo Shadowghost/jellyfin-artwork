@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MoshpitMovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208174"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Silverback Films",
+    "country": "GB",
+    "homepage": "https://www.silverbackfilms.tv/",
+    "headquarters": "Bristol, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67660",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A34XRviX3Du3UvqjLkbWpmPz7kW.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

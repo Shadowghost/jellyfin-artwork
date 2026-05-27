@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Marvel Knights",
+    "description": "Imprint of Marvel Comics launched in 1998 for darker, more mature stories featuring street-level characters such as Daredevil and the Punisher; also used as a sub-brand for animated direct-to-video films.",
+    "country": "US",
+    "type": "publisher",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11106",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gpUMd5Mvo79o2Twsj4JA9ZJGtaB.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

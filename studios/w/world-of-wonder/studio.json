@@ -1,0 +1,17 @@
+[
+  {
+    "name": "World of Wonder",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1421",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uWCPDzKkQnOxQ5spgKpD8wzSIP1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.worldofwonder.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

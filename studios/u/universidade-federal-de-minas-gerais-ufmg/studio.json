@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Universidade Federal de Minas Gerais (UFMG)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219001",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9MHqj31imAzkxSUGgVOxH88ZvLv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.ufmg.br/",
+    "headquarters": "Belo Horizonte, Minas Gerais",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Film Foundry",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11160",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nltKA4ZyfwbEfH4QSUU4oe1OMW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Charlotte, North Carolina",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hanyang Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171564"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

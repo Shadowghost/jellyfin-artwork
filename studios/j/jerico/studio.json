@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Jerico",
+    "country": "FR",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19491",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5qG8xgRtqgX7qWOaPP52mJE5K9G.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

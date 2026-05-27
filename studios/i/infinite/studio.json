@@ -1,0 +1,16 @@
+[
+  {
+    "name": "infinite",
+    "country": "JP",
+    "homepage": "https://infinitedayo.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99359",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qaUZJIED95Hz91EezYVkdzF931b.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

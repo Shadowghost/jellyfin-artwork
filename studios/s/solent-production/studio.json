@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Solent Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223159",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lUHbAVv1XgHCMqLQHF7NGJlK1e8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.solentproduction.com/",
+    "headquarters": "Solent Production, 5-13 Rue Victor Segalen, 75020 Paris, France",
+    "placeholder": true
+  }
+]

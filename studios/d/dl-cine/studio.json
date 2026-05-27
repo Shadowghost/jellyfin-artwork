@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DL Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125503"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

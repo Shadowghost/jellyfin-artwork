@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Reel Duty Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100490"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

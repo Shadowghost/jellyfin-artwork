@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Vagus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "296306"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

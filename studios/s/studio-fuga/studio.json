@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Studio Fuga",
+    "country": "SU",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "243723",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oKVgrRVjvq5ybxCllHcP4djW7PX.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

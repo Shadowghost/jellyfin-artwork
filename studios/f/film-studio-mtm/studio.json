@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film Studio MTM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154584",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pwnq3sztVConfEJBdiX1KBADvfY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://filmstudiomtm.pl/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

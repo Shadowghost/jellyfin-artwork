@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Gaumont",
+    "description": "French motion-picture studio founded in 1895 by Léon Gaumont, the oldest continuously operating film company in the world.",
+    "country": "FR",
+    "type": "studio",
+    "homepage": "http://www.gaumont.fr",
+    "headquarters": "Neuilly sur Seine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nda3dTUYdDrJ6rZqBpYvY865aDv.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

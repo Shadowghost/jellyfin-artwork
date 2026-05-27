@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Aardman Animations",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "297",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8ixoR3cvroUqNDLjaX6AZmJIdRY.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true,
+    "country": "GB",
+    "homepage": "http://www.aardman.com/",
+    "headquarters": "Bristol, England"
+  }
+]

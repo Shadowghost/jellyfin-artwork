@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zamora Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58878",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3cQNtC4OcDAZPs5aMVal1SUNlIn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://zamorafilms.com/",
+    "headquarters": "Ciudad de México",
+    "placeholder": true
+  }
+]

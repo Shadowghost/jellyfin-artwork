@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BreedBus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "268541"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

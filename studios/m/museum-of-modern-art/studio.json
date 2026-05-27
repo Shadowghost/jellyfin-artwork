@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Museum of Modern Art",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56917",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wjmjd1gK7ZPLFmqHVa4g76dK8a4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.moma.org/",
+    "placeholder": true
+  }
+]

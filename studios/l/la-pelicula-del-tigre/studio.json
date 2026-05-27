@@ -1,0 +1,14 @@
+[
+  {
+    "name": "La película del Tigre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289312"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

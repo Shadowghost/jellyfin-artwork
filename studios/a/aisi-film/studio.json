@@ -1,0 +1,14 @@
+[
+  {
+    "name": "AISI film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142008"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

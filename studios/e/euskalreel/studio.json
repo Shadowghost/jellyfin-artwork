@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Euskalreel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231451",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3fwsKMzuhTTSl6VlV6qWVFadvPM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

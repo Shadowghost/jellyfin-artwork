@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Neue Filmproduktion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80323"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

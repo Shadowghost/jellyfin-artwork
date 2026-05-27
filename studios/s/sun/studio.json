@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sun",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118099"
+      }
+    ],
+    "artwork": {},
+    "country": "XC",
+    "placeholder": true
+  }
+]

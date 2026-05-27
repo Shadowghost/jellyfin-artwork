@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Marvel Entertainment",
+    "country": "US",
+    "homepage": "https://www.marvel.com",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7505",
+        "logo_uri": "https://image.tmdb.org/t/p/original/837VMM4wOkODc1idNxGT0KQJlej.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

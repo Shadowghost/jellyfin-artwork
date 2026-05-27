@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films du Petit Poisson",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48513"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

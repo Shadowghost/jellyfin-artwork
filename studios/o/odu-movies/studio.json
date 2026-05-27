@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ODU Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129205"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

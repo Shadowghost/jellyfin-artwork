@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Renaissance Pictures",
+    "country": "US",
+    "headquarters": "New York City, New York, USA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "467"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

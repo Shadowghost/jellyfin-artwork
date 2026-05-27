@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cluster Fox Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "292273",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6twnjYW4JOaHrjqGSP6cdLZbG1h.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "https://www.clusterfoxfilms.com/",
+    "headquarters": "Dublin",
+    "placeholder": true
+  }
+]

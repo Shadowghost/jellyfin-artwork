@@ -1,0 +1,17 @@
+[
+  {
+    "name": "HKFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31453",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xt8DGGRH9k3HYE97MInuwKx9qe4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "VN",
+    "homepage": "https://hkfilm.com.vn/",
+    "headquarters": "Ho Chi Minh City",
+    "placeholder": true
+  }
+]

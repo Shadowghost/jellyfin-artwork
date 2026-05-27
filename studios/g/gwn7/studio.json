@@ -1,0 +1,24 @@
+[
+  {
+    "name": "GWN7",
+    "description": "Australian regional television station serving Western Australia, affiliated with the Seven Network.",
+    "country": "AU",
+    "type": "broadcast-network",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

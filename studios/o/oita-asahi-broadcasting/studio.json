@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Oita Asahi Broadcasting",
+    "description": "Japanese television station based in Oita Prefecture, affiliated with the All-Nippon News Network (ANN) and TV Asahi.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

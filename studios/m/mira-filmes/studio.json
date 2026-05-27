@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mira Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37488",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xObLKIzR6jojWxCkGPMJdsXRDne.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://mirafilmes.net/",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

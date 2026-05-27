@@ -1,0 +1,15 @@
+[
+  {
+    "name": "COI",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8598",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pFhDa84YifM8WUjeoBw3hkl2fRC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

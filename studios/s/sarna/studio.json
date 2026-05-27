@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sarna",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125183",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fTvfZKXTa6TSe2fZjukZmZXjjPa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://www.lasarna.com.ar/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

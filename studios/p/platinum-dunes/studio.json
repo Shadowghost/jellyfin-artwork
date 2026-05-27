@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Platinum Dunes",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2481",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vOQg26GjR0LnkN1Ph9uyog1UuOE.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

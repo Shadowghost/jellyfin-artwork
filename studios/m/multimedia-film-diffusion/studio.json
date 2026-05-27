@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Multimedia Film Diffusion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106490"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

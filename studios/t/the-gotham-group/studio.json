@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Gotham Group",
+    "country": "US",
+    "homepage": "https://gotham-group.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3672",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xpRwVe9NL5791oyUidzeRp8ezGj.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

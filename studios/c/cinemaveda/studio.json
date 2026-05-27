@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CinemaVeda",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "251988"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

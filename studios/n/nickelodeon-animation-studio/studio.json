@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Nickelodeon Animation Studio",
+    "description": "American animation studio that produces animated programming for Nickelodeon and Paramount; known for SpongeBob SquarePants, Avatar: The Last Airbender, and Rugrats.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "https://www.nickanimation.com",
+    "headquarters": "Burbank, California",
+    "colors": [
+      {
+        "name": "Nickelodeon Orange",
+        "hex": "#FF6700"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4859",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wOF6aAYFE5BQryYyaMdQPqUWYwt.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

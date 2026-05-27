@@ -1,0 +1,13 @@
+[
+  {
+    "name": "broken production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127461"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

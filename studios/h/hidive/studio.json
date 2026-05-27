@@ -1,0 +1,32 @@
+[
+  {
+    "name": "HIDIVE",
+    "description": "American anime streaming service operated by Sentai Holdings (an AMC Networks subsidiary), offering subbed and dubbed anime.",
+    "country": "US",
+    "type": "streaming-service",
+    "homepage": "https://www.hidive.com",
+    "headquarters": "Houston, Texas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "268708",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q62gD079BwFpLR7QiXEgjmLXkwP.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

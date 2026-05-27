@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Channel V",
+    "description": "Pan-Asian music television channel, originally based in Hong Kong, that operated regional feeds across Asia until being discontinued.",
+    "country": "HK",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "267574"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

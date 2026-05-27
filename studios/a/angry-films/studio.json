@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Angry Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12087",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v4slnCQ0ICN69s1ihRR1WqjGjhd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://angryfilmsentertainment.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

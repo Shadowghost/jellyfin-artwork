@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Code Red",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60711",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6EELILnZ8wjOsDmaUHFdlnOzhB7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://coderedprods.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

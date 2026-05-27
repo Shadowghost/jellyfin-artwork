@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Famous Horses",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "281726"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

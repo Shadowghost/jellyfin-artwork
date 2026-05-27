@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Go! Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "68525"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

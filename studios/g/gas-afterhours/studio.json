@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Gas Afterhours",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112001"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

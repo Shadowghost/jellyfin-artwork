@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Weather Group",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271294"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

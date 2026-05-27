@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Viola",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177534",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4gmZQH3GjC05OrSxXYfi8dCw013.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Frankfurt",
+    "placeholder": true
+  }
+]

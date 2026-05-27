@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Fox 2000 Pictures",
+    "description": "American film production label of 20th Century Fox, shuttered after the Disney acquisition in 2020; known for Fight Club, Cast Away, and Hidden Figures.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Century City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "711",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tEiIH5QesdheJmDAqQwvtN60727.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

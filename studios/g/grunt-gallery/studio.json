@@ -1,0 +1,13 @@
+[
+  {
+    "name": "grunt gallery",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156485"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

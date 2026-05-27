@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ozz Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123742",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1sxIhSE6gnbjy0gfmF2TWejmkQ0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MA",
+    "homepage": "https://ozzfilms.com",
+    "placeholder": true
+  }
+]

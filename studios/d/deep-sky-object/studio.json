@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Deep Sky Object",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260913"
+      }
+    ],
+    "artwork": {},
+    "country": "TW",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Smudge Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90610",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nFJMPK22kJS6LfsQtwd3u2cF9v9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.smudge-films.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

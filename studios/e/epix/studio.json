@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Epix",
+    "description": "American premium cable and satellite television network launched in 2009 as Epix; rebranded to MGM+ in January 2023 after MGM was acquired by Amazon.",
+    "country": "US",
+    "type": "cable-network",
+    "homepage": "https://epix.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6805",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4774MDXAu1vsapNyTv1LK3S5Ww1.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fabula Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88730",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rclWo1sEkHF2efRuPEkq9AsatL5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.fabulapictures.com/en",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

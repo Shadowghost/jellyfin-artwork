@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Artists Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31199",
+        "logo_uri": "https://image.tmdb.org/t/p/original/801c8faT7gfivy1RHTJPF1gDCWH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.artists-studio.tv",
+    "placeholder": true
+  }
+]

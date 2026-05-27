@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Marvelous Entertainment",
+    "country": "JP",
+    "homepage": "https://www.marv.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75930",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eV82ifW7krTkKGEUjxUu6b5LsWV.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

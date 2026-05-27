@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Waterclock",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270032"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

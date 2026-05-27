@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fiction Sphere",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "232541"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

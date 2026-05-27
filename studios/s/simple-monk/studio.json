@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Simple Monk",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241893"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

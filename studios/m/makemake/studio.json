@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MakeMake",
+    "country": "US",
+    "homepage": "https://makemake.com/",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182083",
+        "logo_uri": "https://image.tmdb.org/t/p/original/snRLy61xn6sZNtNi3uNpFp1nLVE.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

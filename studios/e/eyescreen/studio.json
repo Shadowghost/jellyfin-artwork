@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Eyescreen",
+    "country": "IT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12012"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

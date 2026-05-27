@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Enhanced Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198734",
+        "logo_uri": "https://image.tmdb.org/t/p/original/86TNLaKyt4fMWQA4cxT2bXx4cZc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://enhanced.media/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

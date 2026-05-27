@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kültür ve Turizm Bakanlığı",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122996",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uWYmBP5UUF0EF755Snfp4GxvehQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.ktb.gov.tr/",
+    "headquarters": "Ankara",
+    "placeholder": true
+  }
+]

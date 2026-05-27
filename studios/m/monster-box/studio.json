@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Monster Box",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210003"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

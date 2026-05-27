@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Celluloid Dreams",
+    "country": "FR",
+    "homepage": "https://celluloid-dreams.com/",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "860",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aWrTeKCGu9jjsiiVSDsALC3vxu4.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

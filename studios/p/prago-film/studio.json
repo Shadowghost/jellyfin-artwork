@@ -1,0 +1,13 @@
+[
+  {
+    "name": "prago film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10233"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

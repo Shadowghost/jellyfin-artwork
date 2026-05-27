@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Omroep MAX",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39148"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

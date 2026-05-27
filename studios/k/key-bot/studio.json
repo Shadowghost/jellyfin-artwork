@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Key Bot",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285349"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

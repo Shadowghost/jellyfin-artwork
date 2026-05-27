@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Shizuoka Asahi TV",
+    "description": "Japanese commercial broadcaster headquartered in Shizuoka City; affiliate of the All-Nippon News Network (TV Asahi).",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.satv.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248369",
+        "logo_uri": "https://image.tmdb.org/t/p/original/34nBfbkqxcjrbpVraEfI6MkCvgY.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Shizuoka Asahi Television"
+    ],
+    "template": true
+  }
+]

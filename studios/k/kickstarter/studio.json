@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Kickstarter",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "47112",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uMmoG3iU693MFYHWV1n6sjIed7s.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://www.kickstarter.com"
+  }
+]

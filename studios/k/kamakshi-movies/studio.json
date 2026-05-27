@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Kamakshi Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99292"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

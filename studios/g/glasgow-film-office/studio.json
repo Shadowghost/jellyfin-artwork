@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Glasgow Film Office",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95346"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "headquarters": "Glasgow, Scotland",
+    "placeholder": true
+  }
+]

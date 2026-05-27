@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Interscoop",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13830",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t0pFRwKzrnWouxema1MEBjB53ZG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.interscoop.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

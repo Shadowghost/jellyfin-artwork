@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CONS TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "292034",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zq6NfOxEeeZ2dj2RoxTGtRmbfu0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://tv.naver.com/constv",
+    "placeholder": true
+  }
+]

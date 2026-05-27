@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Frame Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280473",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j5GDaQRw3q69nUijKjyWQ8NPqkt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://framepictures.com.tr",
+    "headquarters": "Beşiktaş, İstanbul, Turkiye",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Motor Moving Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196040",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3gBgMoyrTuF90y6uiQOOrTMcmXw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.the-motor.com",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

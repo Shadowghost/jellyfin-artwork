@@ -1,0 +1,13 @@
+[
+  {
+    "name": "mem-film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13536"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

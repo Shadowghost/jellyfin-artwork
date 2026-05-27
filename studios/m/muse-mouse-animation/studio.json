@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Muse Mouse Animation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270105",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4izfKvZ5f5wocfSaaqmcFYm4YxK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://www.musemouse.cn",
+    "placeholder": true
+  }
+]

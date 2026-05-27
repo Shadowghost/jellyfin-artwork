@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Clear Focus Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83694"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine-art Munich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200103"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

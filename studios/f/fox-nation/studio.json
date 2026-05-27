@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Fox Nation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222451",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5RfkMW8pt2v991wS5wr7xFECEEr.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

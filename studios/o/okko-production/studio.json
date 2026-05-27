@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Okko Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31660",
+        "logo_uri": "https://image.tmdb.org/t/p/original/WyMvFzAQje4GFWqCbW7fZCvN1H.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.okko.cz",
+    "headquarters": "Prague 5",
+    "placeholder": true
+  }
+]

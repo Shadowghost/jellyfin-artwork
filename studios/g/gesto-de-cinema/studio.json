@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Gesto de Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107422"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

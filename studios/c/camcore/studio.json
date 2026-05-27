@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Camcore",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109029",
+        "logo_uri": "https://image.tmdb.org/t/p/original/25UF7HGhAqLrDPqHnIR6wR8Ql93.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://camcore.de/",
+    "placeholder": true
+  }
+]

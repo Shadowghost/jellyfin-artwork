@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Films for the Humanities",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109123"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

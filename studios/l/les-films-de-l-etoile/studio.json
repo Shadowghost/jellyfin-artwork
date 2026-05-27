@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les Films de l'Étoile",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120095"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Filmstiftung NRW",
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "985"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

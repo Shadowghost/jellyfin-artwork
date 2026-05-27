@@ -1,0 +1,16 @@
+[
+  {
+    "name": "LA Times Studios",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110317",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wC7VMarLb8Zn0XTIwDQm7iwYx0J.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "El Segundo, California",
+    "placeholder": true
+  }
+]

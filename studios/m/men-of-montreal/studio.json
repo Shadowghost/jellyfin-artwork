@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Men of Montreal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188228",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5hZih6j4IsPYgt3o5M5glpF3KXC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.menofmontreal.com",
+    "placeholder": true
+  }
+]

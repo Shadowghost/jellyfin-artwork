@@ -1,0 +1,17 @@
+[
+  {
+    "name": "YouTube Red",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73091",
+        "logo_uri": "https://image.tmdb.org/t/p/original/y44lamoGaXfreo3UkxuYPqQJ9Bb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.youtube.com",
+    "headquarters": "San Bruno, California",
+    "placeholder": true
+  }
+]

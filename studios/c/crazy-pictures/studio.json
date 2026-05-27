@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Crazy Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21707",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iXI3C3esr9HYrsTndxGzftAf3BX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://crazypictures.se/",
+    "headquarters": "Norrköping, Sweden",
+    "placeholder": true
+  }
+]

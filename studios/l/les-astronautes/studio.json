@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Astronautes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231838",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5lKFTtl3MagkS7C98JzB1rcPvWo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.lesastronautes.fr/",
+    "headquarters": "Bourg-lès-Valence",
+    "placeholder": true
+  }
+]

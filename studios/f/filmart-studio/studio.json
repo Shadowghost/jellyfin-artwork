@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FilmArt Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177070"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

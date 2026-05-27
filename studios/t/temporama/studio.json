@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Temporama",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95013"
+      }
+    ],
+    "artwork": {},
+    "country": "SI",
+    "homepage": "http://www.temporama.si/",
+    "placeholder": true
+  }
+]

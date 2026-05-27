@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ragam Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92419"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

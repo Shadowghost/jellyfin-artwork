@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cinemateca do MAM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113398"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.mamrio.org.br/",
+    "headquarters": "Rio de Janeiro RJ",
+    "placeholder": true
+  }
+]

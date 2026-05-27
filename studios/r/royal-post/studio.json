@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Royal Post",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80808"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

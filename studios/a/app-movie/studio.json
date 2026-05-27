@@ -1,0 +1,13 @@
+[
+  {
+    "name": "App Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185599"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

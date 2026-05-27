@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Insight Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72337",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1BKkuAxijw8WVNmkPen7xXUPdAF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://insight.film/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

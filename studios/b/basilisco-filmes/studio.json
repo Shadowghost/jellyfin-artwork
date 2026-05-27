@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Basilisco Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101351",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mmJHZhrHEJzVL95pbPVYRJxONFp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "headquarters": "Cascais",
+    "placeholder": true
+  }
+]

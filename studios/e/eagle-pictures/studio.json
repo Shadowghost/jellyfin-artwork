@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Eagle Pictures",
+    "description": "Italian independent theatrical and home-video film distributor, handling Italian releases of major international films and TV series.",
+    "country": "IT",
+    "type": "distributor",
+    "homepage": "https://eaglepictures.com",
+    "headquarters": "Milan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10400",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9LlB2YAwXTkUAhx0pItSo6pDlkB.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

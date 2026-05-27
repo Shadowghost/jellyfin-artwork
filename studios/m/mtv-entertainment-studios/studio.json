@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MTV Entertainment Studios",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6329",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4lZJiVHPClma8YB9hXodraFXSwi.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

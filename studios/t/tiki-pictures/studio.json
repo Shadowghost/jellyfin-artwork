@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tiki Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113012",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a30rnRp9Bap5lgBEyH0XtFCnqhq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "https://www.tikigroup.es/tiki-pictures",
+    "headquarters": "Santiago",
+    "placeholder": true
+  }
+]

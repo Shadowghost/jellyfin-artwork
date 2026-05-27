@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Channel 5",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27856",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jLMbth7gIW0UMxGqHB5zuHk1iJk.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

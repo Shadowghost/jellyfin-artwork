@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Atomfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131127",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aIIItnAO6MH9up8p9Lgq0Hk5oSr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "http://www.atomfilm.no/",
+    "headquarters": "Kragerø",
+    "placeholder": true
+  }
+]

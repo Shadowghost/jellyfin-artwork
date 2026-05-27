@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Vanilla",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150882"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.vanilla-jp.com",
+    "placeholder": true
+  }
+]

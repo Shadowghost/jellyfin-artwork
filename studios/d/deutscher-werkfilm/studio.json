@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Deutscher Werkfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51258"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

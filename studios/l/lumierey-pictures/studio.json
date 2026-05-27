@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lumierey Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "266882",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7JfMUk5SbYxWOByB05k4mbteDjh.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "http://www.lumierey.com",
+    "headquarters": "Los Angeles, CA"
+  }
+]

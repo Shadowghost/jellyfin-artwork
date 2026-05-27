@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Dollar",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75104"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

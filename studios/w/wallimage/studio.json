@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wallimage",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12352",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fkIacb6MddD6trIWamr33SIcUAn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "http://www.wallimage.be",
+    "headquarters": "Mons",
+    "placeholder": true
+  }
+]

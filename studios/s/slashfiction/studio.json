@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SlashFiction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74886"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

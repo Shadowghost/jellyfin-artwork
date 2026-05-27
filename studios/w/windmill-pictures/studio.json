@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Windmill Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185044",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zjKHgZVHzCPyDMGY4Z37FVGKaRp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://www.windmillpictures.com.au",
+    "placeholder": true
+  }
+]

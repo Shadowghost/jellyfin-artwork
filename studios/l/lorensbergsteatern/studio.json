@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lorensbergsteatern",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218450",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sf42EvIogCpxd7tQA9l9IcY5j8t.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://lorensbergsteatern.se/",
+    "headquarters": "Gothenburg",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Blumhouse Television",
+    "description": "American film and television production company founded by Jason Blum, specializing in low-budget horror including Paranormal Activity, Get Out, The Purge, and Insidious.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.blumhouse.com/tv",
+    "headquarters": "Los Angeles, California",
+    "colors": [
+      {
+        "name": "Blumhouse Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "68884",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1BYexT6Vikz4ulCcYKGPmOi6Jm0.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

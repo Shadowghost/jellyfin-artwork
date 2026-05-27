@@ -1,0 +1,17 @@
+[
+  {
+    "name": "UniKo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80052",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eqzVWXXSQUd1pD8gQMPhYaVEQr0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.uniko.com.es/",
+    "headquarters": "Bilbao, Biscay",
+    "placeholder": true
+  }
+]

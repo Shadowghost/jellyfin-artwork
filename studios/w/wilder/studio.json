@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wilder",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80870",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wiAuwTJ4ku7GKCSLhpfcmK1MM1r.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.wilder.it",
+    "headquarters": "Roma",
+    "placeholder": true
+  }
+]

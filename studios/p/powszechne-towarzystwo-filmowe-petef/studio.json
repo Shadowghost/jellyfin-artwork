@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Powszechne Towarzystwo Filmowe (PETEF)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205485"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

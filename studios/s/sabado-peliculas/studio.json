@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sábado Películas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "54844",
+        "logo_uri": "https://image.tmdb.org/t/p/original/csK90KPmk8f54CQXbVeRUHp7nhM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.sabadopeliculas.com",
+    "headquarters": "Barcelona, Catalonia",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Globoplay",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205328",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eKni5PEJ5HWFlHl5ZMJabIb4oHa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.globoplay.globo.com",
+    "headquarters": "Rio de Janeiro, RJ",
+    "placeholder": true
+  }
+]

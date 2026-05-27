@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Docomo Anime Store",
+    "country": "JP",
+    "homepage": "https://docomo-animestore.co.jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60195",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wR7YDBvNzdJRkmxOTgJobOpUG8X.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

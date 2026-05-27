@@ -1,0 +1,17 @@
+[
+  {
+    "name": "London Film Studios",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184188",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nbsJSH3VtPmbmdCCCTJJ32Rstke.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.londonfilmstudios.com/",
+    "headquarters": "33 Riverwalk Road, London, EN3 7QN",
+    "placeholder": true
+  }
+]

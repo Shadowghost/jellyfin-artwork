@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Vendôme Production",
+    "country": "FR",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23291",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rQMbm0oFbxreRQmgzgQlCQ6DDwQ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

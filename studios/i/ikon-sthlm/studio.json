@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ikon Sthlm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "296411",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6dgEPLjw2P7rttQhJqhd6deUi0P.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://ikonsthlm.se/",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

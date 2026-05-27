@@ -1,0 +1,13 @@
+[
+  {
+    "name": "femika-film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174292"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

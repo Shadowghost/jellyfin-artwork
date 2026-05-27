@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AEG-Filmdienst",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160403"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

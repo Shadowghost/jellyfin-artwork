@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NRJ",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260791",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x7tA88rDq7wHVcdLVyC4hlmwLZM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.nrj.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

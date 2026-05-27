@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mandarin Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121654",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3IzRrnakUemajC7fzC07WRNyZ9D.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://mandarin-production.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "TYPE-MOON",
+    "description": "Japanese game studio and visual novel publisher, known for the Fate/stay night franchise, Tsukihime, and the Nasuverse media franchise.",
+    "country": "JP",
+    "type": "production-company",
+    "homepage": "http://www.typemoon.com/index.html",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53787",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wZ0g1QrGz19fXA2fRzGfqGeMvrC.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Type-Moon"
+    ],
+    "template": true
+  }
+]

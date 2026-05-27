@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinenord",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8272",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yA4lAFuoB7y241U1ikoe2ECFyo9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://cinenord.no/",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

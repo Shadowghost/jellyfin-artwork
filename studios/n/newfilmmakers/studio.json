@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NewFilmmakers",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88888"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

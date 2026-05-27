@@ -1,0 +1,34 @@
+[
+  {
+    "name": "TV Kumamoto",
+    "description": "Japanese television station based in Kumamoto Prefecture, affiliated with the Fuji News Network and Fuji Network System.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141954",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n1FLFPquZKFQcvhvA17AygdTOXe.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Television Kumamoto"
+    ],
+    "template": true,
+    "homepage": "https://www.kkt.jp/"
+  }
+]

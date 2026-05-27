@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Autofac Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203537"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

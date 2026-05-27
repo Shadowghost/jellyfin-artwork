@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Universidad del Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11999",
+        "logo_uri": "https://image.tmdb.org/t/p/original/50K9W66YeWjOalNcjWddPcSgIYO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://www.ucine.edu.ar",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cardume Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "286412",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hlOO9jYUyR7Qex3mIgJE8PLkXb0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.cardumefilmes.com/",
+    "placeholder": true
+  }
+]

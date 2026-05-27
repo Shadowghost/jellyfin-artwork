@@ -1,0 +1,13 @@
+[
+  {
+    "name": "OBS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "279175"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

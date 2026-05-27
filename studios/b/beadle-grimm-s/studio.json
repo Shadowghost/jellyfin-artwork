@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Beadle & Grimm's",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216622",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mJLrzB0B1TVlSBPO2zB7aIlISon.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://beadleandgrimms.com/",
+    "placeholder": true
+  }
+]

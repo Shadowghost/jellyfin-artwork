@@ -1,0 +1,15 @@
+[
+  {
+    "name": "ICU Documentaries",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169173"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://icudocs.tv/",
+    "placeholder": true
+  }
+]

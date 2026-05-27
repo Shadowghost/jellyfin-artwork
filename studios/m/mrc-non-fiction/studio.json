@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MRC Non-Fiction",
+    "country": "US",
+    "homepage": "https://www.mrcentertainment.com/non-fiction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145758",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

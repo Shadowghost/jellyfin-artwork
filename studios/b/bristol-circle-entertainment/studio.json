@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bristol Circle Entertainment",
+    "country": "US",
+    "headquarters": "California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "269286",
+        "logo_uri": "https://image.tmdb.org/t/p/original/64CH0gzLH0KltueKDHiW00Y2BCR.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

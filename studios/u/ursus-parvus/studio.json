@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ursus Parvus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169261",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dm4HK18a1A54nOb82TBS6DQaMuc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IS",
+    "homepage": "https://www.ursusparvus.com/",
+    "headquarters": "Reykjavík",
+    "placeholder": true
+  }
+]

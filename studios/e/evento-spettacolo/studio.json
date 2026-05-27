@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Evento Spettacolo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103156"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

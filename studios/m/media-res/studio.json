@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Media Res",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116609",
+        "logo_uri": "https://image.tmdb.org/t/p/original/523Oj6cOyycPVdIUDvZFE9ipYJD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.mediares.studio/",
+    "placeholder": true
+  }
+]

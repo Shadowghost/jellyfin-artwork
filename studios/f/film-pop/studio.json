@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Film Pop",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "253041"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

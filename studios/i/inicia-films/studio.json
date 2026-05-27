@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Inicia Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63364",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2G8KkpFzSFsuz7dkM9NbtpoKNEl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.iniciafilms.com/en",
+    "headquarters": "Barcelona, Catalonia",
+    "placeholder": true
+  }
+]

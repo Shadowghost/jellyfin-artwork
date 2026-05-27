@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio.TV.Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28914",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dv4794b0QGRNHob31rMuMnmQRyt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://studio-tv-film.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

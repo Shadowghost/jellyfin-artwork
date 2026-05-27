@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pearl Studio",
+    "country": "CN",
+    "homepage": "http://www.pearlstudio.com/",
+    "headquarters": "Shanghai",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214225",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wMFlNP46Ag65tPqhAgVKoOZZkJL.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

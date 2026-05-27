@@ -1,0 +1,16 @@
+[
+  {
+    "name": "GA Bunko",
+    "country": "JP",
+    "homepage": "https://ga.sbcr.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185808",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kbxYGHdEWRqaklFqJCLeM5x3S0F.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

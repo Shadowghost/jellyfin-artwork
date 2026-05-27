@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Film Bangkok",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1240",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c2PD8Niiv5NzY7wnRpWaQ3hGzPu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TH",
+    "homepage": "https://filmbangkok.asia/",
+    "placeholder": true
+  }
+]

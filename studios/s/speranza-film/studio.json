@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Speranza Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8703",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mMZ6GWxVO1Z9hpJXTx9v9SiY0ZX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "http://www.speranza.no/",
+    "headquarters": "Oslo",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "palazzina",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5432"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

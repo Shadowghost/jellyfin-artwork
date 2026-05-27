@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lokaal 42",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230005"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

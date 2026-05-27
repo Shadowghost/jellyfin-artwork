@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Silverbell Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11442"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

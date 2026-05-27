@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Grif Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119834",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5lDey5FoMlbR1cBv6X7vvU5mtID.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "placeholder": true
+  }
+]

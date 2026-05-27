@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Import Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192229"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

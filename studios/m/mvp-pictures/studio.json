@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MVP Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16614",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1tubNNggNsJ3xNtNigXfEwWgrEa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "homepage": "https://www.mvpworld.com",
+    "placeholder": true
+  }
+]

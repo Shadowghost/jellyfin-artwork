@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Moon TV Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222205"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

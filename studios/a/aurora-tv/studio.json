@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Aurora TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274611",
+        "logo_uri": "https://image.tmdb.org/t/p/original/acNQigZKStV3hnnSAx0LgmNr51u.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.banijay.com/company/aurora-tv",
+    "placeholder": true
+  }
+]

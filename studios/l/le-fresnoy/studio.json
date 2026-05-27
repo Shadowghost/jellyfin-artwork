@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Le Fresnoy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11687",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gW6YiDdhkySff27C0m4JXu30879.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.lefresnoy.net",
+    "headquarters": "Tourcoing",
+    "placeholder": true
+  }
+]

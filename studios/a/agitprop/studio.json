@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Agitprop",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15608",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qBRUElUQABd4zOqTKYPi1A2nQdQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BG",
+    "homepage": "https://www.agitprop.bg/",
+    "headquarters": "Sofia",
+    "placeholder": true
+  }
+]

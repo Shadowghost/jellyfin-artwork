@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Japan Home Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12267",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5XVWaGSBmgxB5y33EtvJxpvlIaS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.jhv.jp/",
+    "headquarters": "Nakano, Tokyo",
+    "placeholder": true
+  }
+]

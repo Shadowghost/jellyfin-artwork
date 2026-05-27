@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Grifols",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118927",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qgthmyJTGOeuBi2EpNNUFQST0fw.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://www.grifols.com"
+  }
+]

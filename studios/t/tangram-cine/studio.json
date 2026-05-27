@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tangram Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102632",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dUbOrpPDdBa85rc65RH44nmqYJu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://www.tangramcine.com",
+    "placeholder": true
+  }
+]

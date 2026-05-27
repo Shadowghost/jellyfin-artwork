@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CZ.NIC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127501"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.nic.cz/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

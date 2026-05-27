@@ -1,0 +1,17 @@
+[
+  {
+    "name": "South Florida PBS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113474",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kihhzBFuJBcmdsSSO8VV6QywUF7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.wpbt2.org/",
+    "headquarters": "Miami, Florida, United States",
+    "placeholder": true
+  }
+]

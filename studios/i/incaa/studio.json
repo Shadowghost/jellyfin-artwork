@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Instituto Nacional de Cine y Artes Audiovisuales",
+    "description": "Argentine government agency responsible for fostering and regulating film and audiovisual arts.",
+    "country": "AR",
+    "type": "government-agency",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6458",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eT4oMUK7ODM0vvZue8yq3Ojwqf8.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true,
+    "homepage": "http://www.incaa.gov.ar",
+    "headquarters": "Buenos Aires"
+  }
+]

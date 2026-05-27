@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Chorus Boy",
+    "country": "US",
+    "headquarters": "California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145809",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sJYZwzi0kL9QTTDdnWfhA1Gbhj3.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

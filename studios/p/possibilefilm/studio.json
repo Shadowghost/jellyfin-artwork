@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PossibileFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80768",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3aY4hT8v32XcutIEeqL1tkkbJZe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.possibilefilm.com/",
+    "headquarters": "Milano",
+    "placeholder": true
+  }
+]

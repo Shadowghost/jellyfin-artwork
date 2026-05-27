@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CULT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258097",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6H6Agvp2cfdfPzgM71eehd20rXL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EG",
+    "homepage": "https://www.cult.art/",
+    "headquarters": "Cairo",
+    "placeholder": true
+  }
+]

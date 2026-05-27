@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Shell Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "178418",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rUu2zps1SX6R7tx8jo4bptegAI8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

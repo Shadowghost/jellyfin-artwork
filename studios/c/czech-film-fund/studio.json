@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Czech Film Fund",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "146667",
+        "logo_uri": "https://image.tmdb.org/t/p/original/81iEQni9Prs6sk7bhTlHKjFkQN1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://filmcommission.cz/en/about/czech-film-fund/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "filmfaust",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113426",
+        "logo_uri": "https://image.tmdb.org/t/p/original/deKazYDjPTseNpBgts4VyjnGh0V.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://filmfaust.org/",
+    "headquarters": "Cologne, North Rhine-Westphalia",
+    "placeholder": true
+  }
+]

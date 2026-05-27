@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Toyoda Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157907",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4zvJCOIUy96QRN89r9oqytyeho2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.toyodafilms.net/",
+    "headquarters": "Osaka",
+    "placeholder": true
+  }
+]

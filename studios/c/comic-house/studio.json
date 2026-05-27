@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Comic House",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63011"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

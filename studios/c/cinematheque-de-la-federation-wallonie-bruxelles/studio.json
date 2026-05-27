@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinémathèque de la Fédération Wallonie-Bruxelles",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126213"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

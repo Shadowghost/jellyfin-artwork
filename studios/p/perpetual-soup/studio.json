@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Perpetual Soup",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160046",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oapPv7772Jm8bUudxo5ZHdBbFIc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.perpetualsoup.net/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

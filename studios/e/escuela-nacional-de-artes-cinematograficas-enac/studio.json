@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Escuela Nacional de Artes Cinematográficas (ENAC)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134655",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mg9nMn3TCIY2qDvICJ1CGEGsDpA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "http://www.enac.unam.mx/",
+    "headquarters": "Circuito, Mario de La Cueva s/n, C.U., Coyoacán, 04510, Ciudad de México, CDMX",
+    "placeholder": true
+  }
+]

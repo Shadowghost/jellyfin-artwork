@@ -1,0 +1,16 @@
+[
+  {
+    "name": "JK Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10955",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7uRzBHgr2ypR31zmdkbvuvk7ney.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "headquarters": "Gangnam, Seoul, South Korea",
+    "placeholder": true
+  }
+]

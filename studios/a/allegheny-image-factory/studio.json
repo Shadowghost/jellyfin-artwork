@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Allegheny Image Factory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35630",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wQdQbzLwdhDNRnceDKiXjc8Heqn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://webuildstories.com/",
+    "headquarters": "Morgantown, West Virginia",
+    "placeholder": true
+  }
+]

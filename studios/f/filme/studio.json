@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filme",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208649"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

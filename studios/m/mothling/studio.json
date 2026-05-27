@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mothling",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283178"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

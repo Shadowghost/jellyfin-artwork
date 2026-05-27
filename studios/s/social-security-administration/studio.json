@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Social Security Administration",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230928",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3CjJ5AZ10CXUt8L74VODlM5pAx8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

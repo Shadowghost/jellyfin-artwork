@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Erafilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31413",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qQwDlRTPwoFMHFDENy0mxeGjkkd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AL",
+    "homepage": "https://erafilm-albania.com/",
+    "headquarters": "Tirana",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Seefood TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88065",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8rmwQtvLzld7L6qB2tdV792SxtP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.seefood.no",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

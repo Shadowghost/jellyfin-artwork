@@ -1,0 +1,16 @@
+[
+  {
+    "name": "VaynerWATT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "228593",
+        "logo_uri": "https://image.tmdb.org/t/p/original/33CdHsKr4MVMDMAXKx3rvKXIa8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.vaynerwatt.com",
+    "placeholder": true
+  }
+]

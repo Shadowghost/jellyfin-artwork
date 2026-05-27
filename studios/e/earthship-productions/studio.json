@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Earthship Productions",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28995",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A7wkuHGhzpiI2rCw6EACcibaA1Q.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

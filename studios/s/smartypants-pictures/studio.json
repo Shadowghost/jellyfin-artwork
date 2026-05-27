@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Smartypants Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270642",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8V616wLxc1wW32gAG72SgE1LboY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

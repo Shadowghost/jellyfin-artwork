@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Weekly",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "287653"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

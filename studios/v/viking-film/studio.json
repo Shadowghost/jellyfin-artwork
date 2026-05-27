@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Viking Film",
+    "country": "SE",
+    "headquarters": "Bromma, Sweden",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1968"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

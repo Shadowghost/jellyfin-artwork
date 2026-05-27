@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Happy Madison Productions",
+    "description": "American film and television production company founded by Adam Sandler; Madison 23 is the affiliated TV production banner.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "878",
+        "logo_uri": "https://image.tmdb.org/t/p/original/s5j0xnTXvglZoz49CUaQclVv3s9.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

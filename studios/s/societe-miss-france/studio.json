@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Société Miss France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249636",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iCVsfFVahnsQQZJDTMzlUnYZnRa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.miss-france.fr/",
+    "placeholder": true
+  }
+]

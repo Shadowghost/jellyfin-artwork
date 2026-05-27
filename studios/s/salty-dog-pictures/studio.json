@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Salty Dog Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79387",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zpJJfTXT9JGU0B8zrnoniYGLAOn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "http://saltydogpictures.net",
+    "headquarters": "Dublin",
+    "placeholder": true
+  }
+]

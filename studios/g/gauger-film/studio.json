@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gauger Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131878",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5HZqzda0lklWCi4CAgYf0HL4WLh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://gaugerfilm.de/en/",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

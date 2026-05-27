@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Western Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30026"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

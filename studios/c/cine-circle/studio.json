@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cine Circle",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280005",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7n2vPubvT8Ti3TaBsTVUBZiP4p3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.cinecircle.co.uk",
+    "placeholder": true
+  }
+]

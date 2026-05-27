@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Granada Television",
+    "country": "GB",
+    "headquarters": "London",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14063",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b7od4dXpqSHIYQx5ykwjnzfKiNv.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Laura Film",
+    "country": "DE",
+    "homepage": "https://www.laura-film.com/",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67081",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xepy3oqwbK65wa49msDVWwsFhGS.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

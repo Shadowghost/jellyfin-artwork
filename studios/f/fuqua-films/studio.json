@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Fuqua Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8151"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

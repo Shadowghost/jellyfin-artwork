@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ginza Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113061"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

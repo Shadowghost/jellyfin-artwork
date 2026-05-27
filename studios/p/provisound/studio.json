@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Provisound",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203699"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

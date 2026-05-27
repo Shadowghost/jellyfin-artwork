@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Battle Chat",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258416"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

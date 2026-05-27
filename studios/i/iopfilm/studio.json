@@ -1,0 +1,14 @@
+[
+  {
+    "name": "IOPFILM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "244123"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

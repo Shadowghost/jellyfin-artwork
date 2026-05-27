@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Polygram TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55837",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4NZwFsdd4RsaCxRfjIq9vAv7ZoJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

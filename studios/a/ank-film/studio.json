@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ANK Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213164",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6DKDGPKxSInIIWrrVRmN5fnnlfy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.ankfilm.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

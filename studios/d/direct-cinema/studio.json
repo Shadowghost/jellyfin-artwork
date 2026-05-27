@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Direct Cinéma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17223",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dMH93k5WVtijdYAFLn4JZY1i3md.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

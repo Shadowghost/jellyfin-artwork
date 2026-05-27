@@ -1,0 +1,17 @@
+[
+  {
+    "name": "INA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16180",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tE5t6MnMhvyc34beR4Qf6hM2c5K.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.ina.fr",
+    "headquarters": "Bry-sur-Marne",
+    "placeholder": true
+  }
+]

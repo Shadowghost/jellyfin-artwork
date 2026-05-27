@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Shrub",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249750",
+        "logo_uri": "https://image.tmdb.org/t/p/original/araIIfTT4PT0t7naWjz2h33xQTy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://www.shrubcultur.com/",
+    "headquarters": "Beijing, China",
+    "placeholder": true
+  }
+]

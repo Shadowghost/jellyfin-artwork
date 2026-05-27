@@ -1,0 +1,16 @@
+[
+  {
+    "name": "iQIYI Pictures （重复 同 iQiyi Motion Pictures）",
+    "country": "CN",
+    "homepage": "https://www.iq.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122699",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rNuZaO3S54yNb2inykTHBg8meCe.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

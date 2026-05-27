@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rovio Entertainment",
+    "country": "FI",
+    "homepage": "https://www.rovio.com/channel/rovio-entertainment",
+    "headquarters": "Espoo, Finland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18642",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1q3tQzSNVpuCvYy1T3m8gKYrXwS.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

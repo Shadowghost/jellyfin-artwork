@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TV Bahia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196151",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i3jsnzRwq8UK1e2O8bgbboWOP5J.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://redeglobo.globo.com/redebahia",
+    "headquarters": "Salvador, Bahia",
+    "placeholder": true
+  }
+]

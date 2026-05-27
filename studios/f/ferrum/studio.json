@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ferrum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220002"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

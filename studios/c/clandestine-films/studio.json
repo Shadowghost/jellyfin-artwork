@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Clandestine Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87893"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://clandestine-films.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

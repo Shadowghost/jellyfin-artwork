@@ -1,0 +1,15 @@
+[
+  {
+    "name": "EKF",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196045",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mYsZzInPoNsrHuJB2R5UT4o31cG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

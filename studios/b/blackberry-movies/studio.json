@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Blackberry Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129482"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les Films du Dauphin",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66743"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

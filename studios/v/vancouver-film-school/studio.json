@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Vancouver Film School",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34211",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1LJMQNTNMtwwNJSGE8qJ2qTbWl3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WG Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10735",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dr3q9elZkW0Ttfdn5QMhNz5r6ww.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.wgfilm.com/",
+    "headquarters": "Malmö, Sweden",
+    "placeholder": true
+  }
+]

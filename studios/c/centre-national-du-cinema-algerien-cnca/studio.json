@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Centre National du Cinéma Algérien (CNCA)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154678",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ckavV5amM68To86NXoTu5dzZJJp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DZ",
+    "homepage": "https://cnca.dz",
+    "headquarters": "03 Bvd Frantz Fanon – Telemly - Alger .BP N° 148 – 7 merveilles – Alger, Algérie",
+    "placeholder": true
+  }
+]

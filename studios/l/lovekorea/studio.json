@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lovekorea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222300",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8sko6PKj0Qx4eqEPYrqpao7gEfj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.loverokorea.org/main.html",
+    "headquarters": "Jongno, Seoul, South Korea",
+    "placeholder": true
+  }
+]

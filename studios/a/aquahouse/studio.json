@@ -1,0 +1,15 @@
+[
+  {
+    "name": "AquaHouse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285823",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pS7KkSn89ZwlXbN3xuK9Ti17FTJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

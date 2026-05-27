@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Horticus UK",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12409"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

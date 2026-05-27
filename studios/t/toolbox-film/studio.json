@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Toolbox Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51068",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9mPkOd6AmUGn9QQe9R52iQ92NG0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://www.toolboxfilm.dk/",
+    "headquarters": "Copenhagen, Denmark",
+    "placeholder": true
+  }
+]

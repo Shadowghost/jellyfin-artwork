@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kuning production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221853"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

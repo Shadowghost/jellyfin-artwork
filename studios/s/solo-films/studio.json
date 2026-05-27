@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Solo Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95002"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

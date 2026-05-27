@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kahlo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "195980",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h2KvVkMae5d8NFtfALAjTO1emvN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.kahlo.se/",
+    "placeholder": true
+  }
+]

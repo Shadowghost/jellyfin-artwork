@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bozdağ Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100158",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lj0xT4I8XhWUjt0M4qekTXzBd0X.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.bozdagfilm.com.tr",
+    "headquarters": "Beykoz, İSTANBUL, TR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Yarnhub",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220239",
+        "logo_uri": "https://image.tmdb.org/t/p/original/puo96j4Cz0OqoBUUVbpThWbQGMX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.yarnhub.org/",
+    "headquarters": "Alexandria, Virginia",
+    "placeholder": true
+  }
+]

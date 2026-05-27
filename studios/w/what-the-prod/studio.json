@@ -1,0 +1,17 @@
+[
+  {
+    "name": "What the Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155924",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bZ8q9MJaJbPfEAqOje8e4i17fAS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.whattheprod.com/",
+    "headquarters": "Neuilly-sur-Seine",
+    "placeholder": true
+  }
+]

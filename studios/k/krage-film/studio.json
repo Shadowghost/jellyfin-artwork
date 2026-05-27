@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Krage Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127109",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3C9ZwhZFM1jtjVyi5FRbKNghQuS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://www.kragefilm.dk/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Circle Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25933"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

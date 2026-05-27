@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Imagine Documentaries",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121427",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rOvuUb2UaKDahx7OqQ1hD4B8Ljk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://imagine-entertainment.com/documentary/",
+    "placeholder": true
+  }
+]

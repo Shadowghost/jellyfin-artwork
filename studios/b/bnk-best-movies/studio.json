@@ -1,0 +1,14 @@
+[
+  {
+    "name": "BNK Best Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129015"
+      }
+    ],
+    "artwork": {},
+    "country": "ST",
+    "placeholder": true
+  }
+]

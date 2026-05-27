@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CD Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7408",
+        "logo_uri": "https://image.tmdb.org/t/p/original/evS25FnMOFDRLiDUb2YLtvnDQsC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.cdfilms.net",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

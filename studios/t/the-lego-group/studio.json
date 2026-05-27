@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The LEGO Group",
+    "country": "DK",
+    "homepage": "https://www.lego.com/en-us/aboutus/lego-group",
+    "headquarters": "Billund",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4081",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9Q0SyrhQD61wWbz5KJOkL6tu2mg.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

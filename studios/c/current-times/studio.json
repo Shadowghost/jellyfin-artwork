@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Current Times",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "279846"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

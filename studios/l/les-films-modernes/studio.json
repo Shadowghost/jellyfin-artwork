@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Les Films Modernes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1574"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

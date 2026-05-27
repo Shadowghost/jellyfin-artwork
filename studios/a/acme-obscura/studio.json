@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ACME Obscura",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "298489"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Boutique Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83729",
+        "logo_uri": "https://image.tmdb.org/t/p/original/erMHHTnahSWabSIvnRA0WamRuLq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://boutiquefilmes.com.br/",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Gifu Shimbun",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256382"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.gifu-np.co.jp/",
+    "placeholder": true
+  }
+]

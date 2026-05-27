@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Prounen Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101459"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.prounenfilm.de/prounenfilm/en/home",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

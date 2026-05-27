@@ -1,0 +1,14 @@
+[
+  {
+    "name": "AT Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120092"
+      }
+    ],
+    "artwork": {},
+    "country": "MY",
+    "placeholder": true
+  }
+]

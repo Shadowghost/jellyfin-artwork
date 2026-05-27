@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film it",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76035",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4vsIMYcrlPDGP6tTmm5Rm7SzL1G.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://www.filmit.com.pl/language/pl/aktualnosci-2/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

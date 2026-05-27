@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Omnifilm Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73476",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5W3tLJvJ9kasywjuuDO6adTux0v.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://omnifilm.com",
+    "headquarters": "Vancouver, British Columbia",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Artimages",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82387"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

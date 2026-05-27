@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Serve Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289597"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

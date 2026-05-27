@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Olinka",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223456"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

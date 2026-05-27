@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tempesta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76129",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wadqq2xlU1fWkRT2BSOb2VDyDVZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.tempestafilm.it",
+    "headquarters": "Roma, Italy",
+    "placeholder": true
+  }
+]

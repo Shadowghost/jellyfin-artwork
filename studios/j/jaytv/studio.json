@@ -1,0 +1,15 @@
+[
+  {
+    "name": "JayTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202825",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ApxcxvwobWsnoARaXbVqtrDU4EF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

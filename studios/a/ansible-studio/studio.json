@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ansible Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166373"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

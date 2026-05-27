@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dezenove Som e Imagem",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10023",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kCtQcDiBR1PlWpxy0ogCS9GVqLD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.dezenove.net",
+    "headquarters": "São Paulo",
+    "placeholder": true
+  }
+]

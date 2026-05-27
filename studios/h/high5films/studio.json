@@ -1,0 +1,16 @@
+[
+  {
+    "name": "High5Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66462",
+        "logo_uri": "https://image.tmdb.org/t/p/original/slJr6GZxEjo5OnWn2Qg54807IXg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://high5films.com",
+    "placeholder": true
+  }
+]

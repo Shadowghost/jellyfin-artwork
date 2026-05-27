@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GMA Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8237",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8GxGenlMmEDS1Z6vmZA5PDqA3p6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PH",
+    "homepage": "https://www.gmanetwork.com/films",
+    "headquarters": "Pasig, Metro Manila",
+    "placeholder": true
+  }
+]

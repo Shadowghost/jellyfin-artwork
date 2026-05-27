@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Balanzan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100205"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

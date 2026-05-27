@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bad Crowd",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77756",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gQFsdHEb0RnZlI4SJKZUqntfYEp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GR",
+    "homepage": "https://www.badcrowd.eu/",
+    "headquarters": "Athens",
+    "placeholder": true
+  }
+]

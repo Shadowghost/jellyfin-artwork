@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Public Sénat",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90881",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sRtQRyhTAPzsw0wUmnrpkXPQEuz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.publicsenat.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

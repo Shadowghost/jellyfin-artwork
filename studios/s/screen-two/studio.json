@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Screen Two",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226620"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

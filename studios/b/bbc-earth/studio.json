@@ -1,0 +1,31 @@
+[
+  {
+    "name": "BBC Earth",
+    "description": "Natural-history factual brand of BBC Studios encompassing a multinational pay-TV channel and the production label behind series such as Planet Earth and Blue Planet.",
+    "country": "GB",
+    "type": "cable-network",
+    "homepage": "https://www.bbcearth.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8090",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ktzmUmVCQPjQGblWfDPBLKsIWKA.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

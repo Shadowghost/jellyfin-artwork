@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BGFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194276"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

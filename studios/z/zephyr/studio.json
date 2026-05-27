@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Zephyr",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139999"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

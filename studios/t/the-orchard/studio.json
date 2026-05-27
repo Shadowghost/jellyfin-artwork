@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Orchard",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9286",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pT1nP1IVtabim8LSXP5qNZk6pYY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.theorchard.com/filmtv/",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

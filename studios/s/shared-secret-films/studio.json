@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Shared Secret Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142373"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

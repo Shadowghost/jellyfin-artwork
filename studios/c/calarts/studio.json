@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CalArts",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38413",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qW9eadVJfNRx9jdZkuDxWR25RW6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Santa Clarita, California",
+    "placeholder": true
+  }
+]

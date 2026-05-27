@@ -1,0 +1,13 @@
+[
+  {
+    "name": "HorrorFlix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24339"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

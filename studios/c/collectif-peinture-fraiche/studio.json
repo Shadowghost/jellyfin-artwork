@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Collectif Peinture Fraiche",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185906",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yZT1QjKKEOELcblrjlyuQq8WqBX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://peinturefraiche.info/",
+    "headquarters": "Lille",
+    "placeholder": true
+  }
+]

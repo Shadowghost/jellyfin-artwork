@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Circe Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83445"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nimbus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280698"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

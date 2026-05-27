@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Moj film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185953"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TV Tokyo Direct",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225562",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jq73dDNQgmQELORqm62LfpDkZVN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://tx-direct.co.jp/",
+    "placeholder": true
+  }
+]

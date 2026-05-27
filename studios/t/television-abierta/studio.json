@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Televisión Abierta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22031"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://www.televisionabierta.com",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

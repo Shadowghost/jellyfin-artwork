@@ -1,0 +1,16 @@
+[
+  {
+    "name": "EDGE TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188289",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4NWB8BDjsYwu0PbNpldV7zuWe1N.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://iptv-edge.com/",
+    "placeholder": true
+  }
+]

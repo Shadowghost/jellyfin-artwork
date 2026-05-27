@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Yerli Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73983"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

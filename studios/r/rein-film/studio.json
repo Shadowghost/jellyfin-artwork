@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rein Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130621",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nMz0AaoZbJ4r3fh93C0px0z2S8M.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.reinfilm.no/",
+    "headquarters": "Kirkenes",
+    "placeholder": true
+  }
+]

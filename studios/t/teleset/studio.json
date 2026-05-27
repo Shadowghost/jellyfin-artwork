@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Teleset",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92435",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sS2aoNfKagyNkYDM9HNSsgciut2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CO",
+    "homepage": "http://www.teleset.com.co",
+    "headquarters": "Bogotá",
+    "placeholder": true
+  }
+]

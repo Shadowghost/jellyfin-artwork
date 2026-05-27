@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hummelfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "59604",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fBdgfs5lcdpkdTjvssUixDTrlr9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.hummelfilm.no",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

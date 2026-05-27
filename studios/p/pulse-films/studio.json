@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pulse Films",
+    "country": "GB",
+    "homepage": "https://www.pulsefilms.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "57430",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a637H7tJRLC9fdECq3vulT7W4jC.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

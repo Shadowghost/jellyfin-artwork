@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Regione Lazio",
+    "description": "Regional government of Lazio, Italy, often listed as a film production funder in Italian cinema credits.",
+    "country": "IT",
+    "type": "government-agency",
+    "homepage": "https://www.regione.lazio.it/",
+    "headquarters": "Roma, Lazio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274774",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jTXzZRiKZt7L4YvVW4DGvqU51RU.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

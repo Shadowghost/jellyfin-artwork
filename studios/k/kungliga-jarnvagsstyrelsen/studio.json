@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kungliga Järnvägsstyrelsen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160188",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cEOeRUPPfSGk9pKukBdwGuJttU2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

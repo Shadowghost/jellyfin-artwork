@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tx Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167711",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3pBs0IlFWRddrjLWpT1uV4R7qWS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://txfilmes.com.br/",
+    "placeholder": true
+  }
+]

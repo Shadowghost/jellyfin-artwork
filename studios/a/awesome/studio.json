@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Awesome",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164676",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bIsAGL5rzL3WyzitQtur3v02CWv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.awesomeinc.com/",
+    "headquarters": "Atlanta, Georgia",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mental Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196500",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sZi9iKyuFfGZmyr3ftrI2XjvaAo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.mentalfilm.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

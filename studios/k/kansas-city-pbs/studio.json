@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kansas City PBS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115658",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q6xnOSfHnLmn74ystXQjIamk6Vf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.kansascitypbs.org/",
+    "placeholder": true
+  }
+]

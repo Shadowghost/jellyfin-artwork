@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fairmount Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89649",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Al41iHeyCJzFfeq5EeZGqVB8nmw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://fairmountfilms.com/",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bayou Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8501"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

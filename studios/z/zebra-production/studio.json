@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Zebra Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127079"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

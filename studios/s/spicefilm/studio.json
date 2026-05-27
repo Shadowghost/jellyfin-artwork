@@ -1,0 +1,17 @@
+[
+  {
+    "name": "spicefilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168818",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cuUc1Frlqn8mQIXEqksypGzx87l.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://spicefilm.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

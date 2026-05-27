@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Mostra Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42817"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

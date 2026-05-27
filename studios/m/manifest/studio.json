@@ -1,0 +1,13 @@
+[
+  {
+    "name": "manifest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162066"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

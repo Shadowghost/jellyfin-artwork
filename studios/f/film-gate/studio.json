@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Film Gate",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "295032"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.filmgate.cz/",
+    "placeholder": true
+  }
+]

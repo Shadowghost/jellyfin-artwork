@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Benchmark",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5544"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

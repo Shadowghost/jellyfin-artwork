@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Umizora",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205737",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A07PXpMWS82Y05SolGZRdkftBLI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://umizora.jp/",
+    "placeholder": true
+  }
+]

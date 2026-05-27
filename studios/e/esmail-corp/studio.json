@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Esmail Corp",
+    "country": "US",
+    "homepage": "https://esmailcorp.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105356",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zuUO2ihuuHkAQFlSmN5a6PtTltJ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

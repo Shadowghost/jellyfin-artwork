@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Panorama movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280886"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

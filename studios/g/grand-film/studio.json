@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Grand Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191806"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

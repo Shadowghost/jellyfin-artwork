@@ -1,0 +1,31 @@
+[
+  {
+    "name": "STXfilms",
+    "description": "Film division of STX Entertainment, founded in 2014 by Robert Simonds and Bill McGlashan; specialised in mid-budget star-driven films such as Bad Moms, Hustlers and Greenland.",
+    "country": "US",
+    "type": "studio",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "47729",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bAxh897TGgdR0Py6wdd0UuE147Z.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

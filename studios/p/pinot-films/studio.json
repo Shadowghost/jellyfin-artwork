@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pinot Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200782"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

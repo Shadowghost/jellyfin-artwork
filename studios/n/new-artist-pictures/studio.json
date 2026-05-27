@@ -1,0 +1,13 @@
+[
+  {
+    "name": "New Artist Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96188"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

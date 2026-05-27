@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Euskaltel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38680",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w9Imk6sWhU6nUkqnXjwd7miI1I9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.euskaltel.com/",
+    "headquarters": "Euskaltel, Sede Euskaltel Parque Tecnológico Bizkaia 809, Derio, Spain",
+    "placeholder": true
+  }
+]

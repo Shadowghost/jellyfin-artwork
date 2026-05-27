@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Planet Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7011"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

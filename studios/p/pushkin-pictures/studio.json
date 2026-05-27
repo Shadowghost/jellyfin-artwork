@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pushkin-Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20511"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Spectator",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72111"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

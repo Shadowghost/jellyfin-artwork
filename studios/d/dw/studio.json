@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DW",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95576",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r3aDiyT6jM3ORrc5YaSH1600Ozk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.dw.com/en",
+    "headquarters": "Bonn",
+    "placeholder": true
+  }
+]

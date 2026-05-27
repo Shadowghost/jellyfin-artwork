@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cultmovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164105"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

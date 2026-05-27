@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Barry Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81072",
+        "logo_uri": "https://image.tmdb.org/t/p/original/965z9BeD2ChX1NDD1gNhc3drU4V.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://barrycompany.com.br/",
+    "placeholder": true
+  }
+]

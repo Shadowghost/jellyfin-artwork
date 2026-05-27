@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Poster films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "293900"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

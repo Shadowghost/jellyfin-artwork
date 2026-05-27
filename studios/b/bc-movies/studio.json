@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BC-MOVIES",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233926"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

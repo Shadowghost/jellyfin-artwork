@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mason Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260685",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1QuzTYkTMuCjWNiwiwlgFx5JM2U.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://masonfilms.com/",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

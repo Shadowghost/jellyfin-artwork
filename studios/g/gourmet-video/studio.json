@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Gourmet Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71502",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pcAB4K2cCwwlFeBJNdXS8gCYmKa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Copacabana Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8479",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pN3c00s7izHaT3iHiNb3ERoowTA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.copacabanafilmes.com.br/",
+    "headquarters": "Rio de Janeiro RJ",
+    "placeholder": true
+  }
+]

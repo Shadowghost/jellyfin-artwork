@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Flimmer",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275894",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qKkCZPsYNB3Fbg3TYA2w9BrZQCu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.flimmer.de",
+    "placeholder": true
+  }
+]

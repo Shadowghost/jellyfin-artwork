@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ALP Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248593"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "placeholder": true
+  }
+]

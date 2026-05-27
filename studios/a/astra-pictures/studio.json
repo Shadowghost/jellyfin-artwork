@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Astra Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "277407",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vSBiNC4GMNnAuSD4yrwZCGaJt1V.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://astrapictures.eu/",
+    "headquarters": "Barcelona",
+    "placeholder": true
+  }
+]

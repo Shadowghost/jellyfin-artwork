@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lammas Park",
+    "country": "GB",
+    "homepage": "https://www.lammaspark.com/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113380",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zrGRmk1b1EjYxHfign2DMMEuIsf.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tri-Fold Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19995",
+        "logo_uri": "https://image.tmdb.org/t/p/original/50TlgnTTuESDGK8k5qyffSAP3UP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.trifoldpictures.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

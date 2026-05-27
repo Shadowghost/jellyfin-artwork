@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Queuepolitely",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12072"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

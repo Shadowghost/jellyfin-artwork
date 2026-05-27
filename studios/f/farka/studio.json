@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FARKA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245126",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7t9xOpjI4jqq9SYsCF7qWJAKA0x.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://farka.ca/",
+    "headquarters": "Québec, Québec",
+    "placeholder": true
+  }
+]

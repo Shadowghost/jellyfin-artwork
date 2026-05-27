@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Penguin Picture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160120"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

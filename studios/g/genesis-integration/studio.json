@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Genesis Integration",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31616"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "HIGROUND",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133206",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1Igqbq98g6kX2EnXGTt2TxESq91.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.higround.co.kr/",
+    "headquarters": "Mapo, Seoul",
+    "placeholder": true
+  }
+]

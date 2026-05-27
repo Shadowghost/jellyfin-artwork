@@ -1,0 +1,61 @@
+[
+  {
+    "name": "NBC",
+    "description": "American English-language commercial broadcast television and radio network owned by NBCUniversal (Comcast), known for its peacock logo.",
+    "country": "US",
+    "type": "broadcast-network",
+    "colors": [
+      {
+        "name": "NBC Yellow",
+        "hex": "#FCB711"
+      },
+      {
+        "name": "NBC Orange",
+        "hex": "#F37021"
+      },
+      {
+        "name": "NBC Red",
+        "hex": "#CC004C"
+      },
+      {
+        "name": "NBC Purple",
+        "hex": "#6460AA"
+      },
+      {
+        "name": "NBC Blue",
+        "hex": "#0089D0"
+      },
+      {
+        "name": "NBC Green",
+        "hex": "#0DB14B"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1502",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ywjcvHUiKxv7cYsestkONF8LieH.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "NBC (National Broadcasting Company)"
+    ],
+    "template": true,
+    "homepage": "https://www.nbc.com/",
+    "headquarters": "Midtown Manhattan, New York City"
+  }
+]

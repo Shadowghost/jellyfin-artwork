@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Imaginary Martian",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202001"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

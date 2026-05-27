@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MEDIACONTENTS Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192708"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

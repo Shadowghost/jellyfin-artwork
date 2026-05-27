@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PCAFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260869"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

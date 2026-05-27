@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Winds",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16865",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p3RxuakCJ8rcOJrB02w58n3Hppf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.windsfilms.com/en/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

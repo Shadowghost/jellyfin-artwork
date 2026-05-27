@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CBC Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157741",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2Ec5G6rTVSpXZB95v6rFlAfKiw4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.cbc.ca/films/",
+    "placeholder": true
+  }
+]

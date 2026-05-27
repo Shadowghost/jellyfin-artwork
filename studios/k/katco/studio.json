@@ -1,0 +1,14 @@
+[
+  {
+    "name": "KatCo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "235321"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

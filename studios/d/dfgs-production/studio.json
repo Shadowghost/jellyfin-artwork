@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DFGS Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141588"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

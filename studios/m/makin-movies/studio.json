@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Makin' Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201060"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.makinmovies.ca/",
+    "headquarters": "Toronto",
+    "placeholder": true
+  }
+]

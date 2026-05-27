@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Frames Per Second",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70063"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Rakuten TV",
+    "description": "European video-on-demand streaming and AVOD service operated by Rakuten Group, headquartered in Barcelona; offers TVOD, SVOD, and free ad-supported tiers.",
+    "country": "ES",
+    "type": "streaming-service",
+    "colors": [
+      {
+        "name": "Rakuten Red",
+        "hex": "#BF0000"
+      }
+    ],
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

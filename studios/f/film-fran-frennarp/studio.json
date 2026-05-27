@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Film från Frennarp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211095",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5gsz2w57PNtyzl5v2me0BDGqitg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "headquarters": "Frennarp",
+    "placeholder": true
+  }
+]

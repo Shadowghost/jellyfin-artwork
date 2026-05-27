@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Copa Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155046"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

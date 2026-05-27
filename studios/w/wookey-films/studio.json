@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wookey Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116263",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qg6CjKyhUAw8wG2XQtTfwvPexmJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.wookeyfilms.com",
+    "headquarters": "Winnipeg, Manitoba",
+    "placeholder": true
+  }
+]

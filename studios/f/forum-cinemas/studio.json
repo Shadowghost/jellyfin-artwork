@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Forum Cinemas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84179"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

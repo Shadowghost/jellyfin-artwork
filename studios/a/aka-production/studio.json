@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Aka Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148783",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6zQovPTcIvsuW5CgjHczCW768w5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

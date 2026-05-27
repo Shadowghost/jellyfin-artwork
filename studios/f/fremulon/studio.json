@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fremulon",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81404",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w9oFiEoQE96FGKzuWUUN7443Zil.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

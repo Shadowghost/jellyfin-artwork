@@ -1,0 +1,13 @@
+[
+  {
+    "name": "cffilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229204"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

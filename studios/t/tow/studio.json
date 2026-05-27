@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TOW",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229218",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ttyD0qoyOZgZBTnaVQ1GUzaFR0t.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://tow.co.jp/",
+    "placeholder": true
+  }
+]

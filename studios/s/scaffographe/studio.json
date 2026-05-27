@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Scaffographe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196435",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q09CZz09xjC83OjTDWLyGPdHO5K.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.scaffographe.com",
+    "headquarters": "Montréal, QC.",
+    "placeholder": true
+  }
+]

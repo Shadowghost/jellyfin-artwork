@@ -1,0 +1,15 @@
+[
+  {
+    "name": "RTHK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49122",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rMguvMJUI7ZGUaILxEZbTpfV1pO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HK",
+    "placeholder": true
+  }
+]

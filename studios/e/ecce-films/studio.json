@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ecce Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7128",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6eLVLIUh5jhqinKGjaGZ9kl1SmU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://eccefilms.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Patagonik",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2562",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hQcSVwfXKkjXzD4oO9BmHKoyfkh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://www.patagonik.com.ar",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

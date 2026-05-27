@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Vogelsberg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196606"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

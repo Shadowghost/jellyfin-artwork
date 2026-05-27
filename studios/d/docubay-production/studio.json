@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Docubay Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "286060"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

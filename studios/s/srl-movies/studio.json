@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SRL Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "268128"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

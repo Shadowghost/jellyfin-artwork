@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Famiglia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87750",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8pdU8tWD6TJ8K5vN37C6LtClGFR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://en.lafamiglia.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

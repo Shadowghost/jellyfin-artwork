@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Covert Media",
+    "country": "US",
+    "homepage": "http://covert-media.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73666"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Amblin Entertainment",
+    "description": "American film and television production company founded by Steven Spielberg, Kathleen Kennedy and Frank Marshall.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://amblin.com",
+    "headquarters": "Universal City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cEaxANEisCqeEoRvODv2dO1I0iI.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

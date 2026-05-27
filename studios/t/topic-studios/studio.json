@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Topic Studios",
+    "description": "American film, television, podcast, and documentary production division of First Look Media, founded by Pierre Omidyar.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://topic.com/studios",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99366",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r5UIazzNzEOUSEbxOfwWzEOBe5F.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

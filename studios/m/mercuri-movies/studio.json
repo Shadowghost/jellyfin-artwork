@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mercuri Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234544"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

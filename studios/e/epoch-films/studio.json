@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Epoch Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3846",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vKfSLK0FIrebJoXwSrVIZyQjCVL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://epochfilms.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

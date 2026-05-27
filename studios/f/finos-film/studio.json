@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Finos Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12093",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a5l879HvnNElhZ5gxRWB5QVBuUp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GR",
+    "homepage": "http://finosfilm.com",
+    "placeholder": true
+  }
+]

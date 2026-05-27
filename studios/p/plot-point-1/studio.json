@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Plot Point 1",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199865"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "1492 Pictures",
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "436",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A7WCkG3F0NFvjGCwUnclpGdIu9E.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

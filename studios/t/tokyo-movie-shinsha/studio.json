@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Tokyo Movie Shinsha",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3069",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tpGaXEBassYaiEBvnJ7K5vchT50.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

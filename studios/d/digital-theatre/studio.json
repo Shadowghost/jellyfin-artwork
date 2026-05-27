@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Digital Theatre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10534",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4YO3fO356GQfmH2gWzADuRdnKIZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.digitaltheatre.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

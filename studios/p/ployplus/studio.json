@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ployplus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202309"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

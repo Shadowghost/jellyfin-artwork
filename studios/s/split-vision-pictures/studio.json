@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Split Vision Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176662"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

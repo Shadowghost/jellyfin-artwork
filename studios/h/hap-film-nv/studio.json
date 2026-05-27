@@ -1,0 +1,13 @@
+[
+  {
+    "name": "HAP Film (NV)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250715"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Planet Hex",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212040"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

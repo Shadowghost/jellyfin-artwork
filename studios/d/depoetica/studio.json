@@ -1,0 +1,13 @@
+[
+  {
+    "name": "depoetica",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "295605"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

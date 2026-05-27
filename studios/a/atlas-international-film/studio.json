@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Atlas International Film",
+    "country": "DE",
+    "homepage": "http://www.atlasfilm.com/",
+    "headquarters": "Grünwald, Bavaria",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4938",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4f2F4BoGGzReLNCgVGoIftQvlGI.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

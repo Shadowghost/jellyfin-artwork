@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Canal+ International",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122329",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oOiHwqTwg2iHYCcEVabpwDjgiwW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Boulogne-Billancourt",
+    "placeholder": true
+  }
+]

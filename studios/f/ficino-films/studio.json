@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ficino Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215166",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tJ8CBQzhrGSO5i3ShU1vv14tVbI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://ficinofilms.com/",
+    "headquarters": "Melbourne, Victoria",
+    "placeholder": true
+  }
+]

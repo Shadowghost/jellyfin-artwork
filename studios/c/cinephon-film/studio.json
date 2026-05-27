@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinephon-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31513"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

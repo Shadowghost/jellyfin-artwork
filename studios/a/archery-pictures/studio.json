@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Archery Pictures",
+    "country": "GB",
+    "homepage": "http://www.archerypictures.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85823",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vX3emcjqjXse76NAUZikSIzHH4t.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

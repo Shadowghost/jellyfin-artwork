@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films 26",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271253",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jmCMGFVvzTH1dHr72oBiCX8m3pM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://cinemas.films26.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

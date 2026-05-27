@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmes Amarelos",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148345"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

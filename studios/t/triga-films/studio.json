@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Triga Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110490",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8u7lFOMIGRbuRIRhc4EscO4E9KI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.trigafilms.com",
+    "placeholder": true
+  }
+]

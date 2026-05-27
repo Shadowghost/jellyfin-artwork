@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Haptic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151196",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6ePus5NY6FEjVc2GMKsFlbAZowT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://haptic.be/",
+    "headquarters": "Mortsel",
+    "placeholder": true
+  }
+]

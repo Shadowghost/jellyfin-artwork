@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Novo RPI",
+    "country": "IT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1996"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "a vsamp production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191889",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9LxODd1B6pUtZZbuaeo8oEAHY6g.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

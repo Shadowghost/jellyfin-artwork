@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sport-Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25100"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

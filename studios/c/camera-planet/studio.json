@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Camera Planet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163226"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

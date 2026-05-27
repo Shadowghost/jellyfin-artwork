@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Forum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "146169"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

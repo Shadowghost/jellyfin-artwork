@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film Fest Ghent",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208707",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rg9KwSNUSystqFJbLIJhEvePtTy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.filmfestival.be/",
+    "headquarters": "Ghent, Belgium",
+    "placeholder": true
+  }
+]

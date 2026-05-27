@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Toei Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104829",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ojIe99UBqomnOu1EPT8QhRUxexP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.toei.co.jp/studio/tokyo/index.html",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

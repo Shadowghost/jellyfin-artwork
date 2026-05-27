@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Stray Dogs",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113823",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eFeTaByqfVS0uDdvrnKlctyUXNs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://straydogs.no/",
+    "headquarters": "Oslo",
+    "placeholder": true
+  }
+]

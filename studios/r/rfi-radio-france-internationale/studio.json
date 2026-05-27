@@ -1,0 +1,17 @@
+[
+  {
+    "name": "(RFI) Radio France internationale",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187754",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tl6cSvzLqqbrNOYMpA45NEq1jt1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.rfi.fr/fr/",
+    "headquarters": "(RFI) Radio France internationale, Issy-les-Moulineaux, France",
+    "placeholder": true
+  }
+]

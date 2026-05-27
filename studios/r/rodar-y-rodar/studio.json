@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rodar y Rodar",
+    "country": "ES",
+    "homepage": "https://rodaryrodar.com/",
+    "headquarters": "Barcelona",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11651",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i5JILeNrP9piqdJWmfQCbTHQKJf.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

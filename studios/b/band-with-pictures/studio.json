@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Band with Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134008",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bU2Fjnvk67y4IS6yZ2Ns1apcGYJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.bandwithpictures.com",
+    "headquarters": "Montreal, Québec",
+    "placeholder": true
+  }
+]

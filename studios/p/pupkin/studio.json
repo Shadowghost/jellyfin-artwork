@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pupkin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2198",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tZg8STCa16jqauMgUGhKbybC5dN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.pupkin.com",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

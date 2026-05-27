@@ -1,0 +1,13 @@
+[
+  {
+    "name": "San Francisco Sentinel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142659"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Population",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119163"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

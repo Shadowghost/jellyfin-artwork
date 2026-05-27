@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Spot Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76292"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

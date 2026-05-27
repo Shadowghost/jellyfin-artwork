@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Select Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213167"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

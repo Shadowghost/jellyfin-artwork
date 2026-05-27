@@ -1,0 +1,15 @@
+[
+  {
+    "name": "RightTracks",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255264"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://righttracks.jp/",
+    "placeholder": true
+  }
+]

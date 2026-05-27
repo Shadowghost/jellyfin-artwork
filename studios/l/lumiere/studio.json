@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Lumière",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11793"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

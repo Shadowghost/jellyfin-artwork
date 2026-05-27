@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Institut Curie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162735",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jhXnzCqYFfyjBMImziGrXNx0U69.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://curie.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

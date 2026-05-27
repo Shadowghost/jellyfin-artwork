@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Today's Music Concept",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "186332"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

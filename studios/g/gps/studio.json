@@ -1,0 +1,13 @@
+[
+  {
+    "name": "GPS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183883"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

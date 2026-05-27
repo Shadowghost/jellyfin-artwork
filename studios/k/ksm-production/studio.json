@@ -1,0 +1,13 @@
+[
+  {
+    "name": "KSM Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290871"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

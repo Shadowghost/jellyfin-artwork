@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Radio Bremen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1775",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ilL857W1zhtnudzvdlxrjIqLAvs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.radiobremen.de",
+    "headquarters": "Bremen",
+    "placeholder": true
+  }
+]

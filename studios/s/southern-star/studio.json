@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Southern Star",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36026",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3uPAUIzpCE62X4JKEFREWqXoiDc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "placeholder": true
+  }
+]

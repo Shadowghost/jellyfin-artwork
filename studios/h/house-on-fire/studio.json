@@ -1,0 +1,17 @@
+[
+  {
+    "name": "House on Fire",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74860",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pTTMbWTvq1cLOPSk2tkFuaD88hq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://houseonfire.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

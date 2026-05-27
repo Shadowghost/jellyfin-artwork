@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Reel News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "237591"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

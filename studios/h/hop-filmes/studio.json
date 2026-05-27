@@ -1,0 +1,15 @@
+[
+  {
+    "name": "HOP Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100656"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "headquarters": "Matosinhos",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lincoln TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82130",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3o6r9WFu37VnNAoYXZX1ONH8Hd7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

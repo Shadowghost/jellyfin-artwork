@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Basis-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90128"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cine2000",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4580"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.cine2000korea.com",
+    "headquarters": "Gangnam, Seoul, South Korea",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Headless",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119289"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Dino Movie Studios",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283680",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yDGPFqt4J6SrqbeJvijhJcxxqzZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EG",
+    "homepage": "https://dino-movie-s.github.io/DinoMovieStudios/",
+    "placeholder": true
+  }
+]

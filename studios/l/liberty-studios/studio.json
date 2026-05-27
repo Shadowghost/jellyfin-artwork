@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Liberty Studios",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102169",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lEYCFLapnPcjaMmli6fC5ymNzdp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.libertystudiosinc.com",
+    "headquarters": "San Diego, California",
+    "placeholder": true
+  }
+]

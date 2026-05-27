@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Joroni Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31023",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cOWeSufV5t0y57MpPlJ0VZoUx3Z.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.joroni.com",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

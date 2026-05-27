@@ -1,0 +1,17 @@
+[
+  {
+    "name": "My Box",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202069",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iHONI5aqSYqErXdl1jkIH8u73lJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.myboxprod.com/",
+    "headquarters": "Paris, Île-de-France, France",
+    "placeholder": true
+  }
+]

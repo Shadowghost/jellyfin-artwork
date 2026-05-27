@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Francol Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "237850",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9MNNwW7qsIDoEVQ0MnvI06ox0Hm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

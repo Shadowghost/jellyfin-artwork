@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Apollo Film",
+    "country": "PL",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285119"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Apache Junction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4215"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

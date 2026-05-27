@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Media.Vision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101281"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

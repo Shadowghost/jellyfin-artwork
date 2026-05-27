@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Site Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98701"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

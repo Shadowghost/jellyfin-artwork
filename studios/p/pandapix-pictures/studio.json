@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pandapix Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230310",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xR5ftvi1pnxLzLKTQwmBXB2l0QY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.pandapix.com/",
+    "headquarters": "Vancouver, British Columbia",
+    "placeholder": true
+  }
+]

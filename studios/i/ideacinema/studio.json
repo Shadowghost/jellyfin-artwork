@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ideaCinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8904",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4IvWDPpPklykgC4CdlysDN3CEGv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.ideacinema.it",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

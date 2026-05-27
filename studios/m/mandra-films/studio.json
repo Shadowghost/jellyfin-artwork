@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mandra Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159097",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sx4291FSKXVahKyi1kl8hJHgObY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

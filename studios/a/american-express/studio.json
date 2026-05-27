@@ -1,0 +1,13 @@
+[
+  {
+    "name": "American Express",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38712"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

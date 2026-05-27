@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Alpaca Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "263994",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5QyvY2wjyU2mep0mYwd3lVZRbJn.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

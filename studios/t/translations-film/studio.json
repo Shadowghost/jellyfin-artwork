@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Translations Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212360"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

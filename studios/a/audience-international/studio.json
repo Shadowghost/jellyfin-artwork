@@ -1,0 +1,13 @@
+[
+  {
+    "name": "audience international",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170322"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

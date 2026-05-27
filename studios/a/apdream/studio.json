@@ -1,0 +1,16 @@
+[
+  {
+    "name": "APDREAM",
+    "country": "JP",
+    "homepage": "http://www.apdream.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162061",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4ifyuGx8hoCQHABtT0FXivqLLEd.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

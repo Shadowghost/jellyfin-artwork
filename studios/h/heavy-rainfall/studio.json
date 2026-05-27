@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Heavy Rainfall",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205374"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

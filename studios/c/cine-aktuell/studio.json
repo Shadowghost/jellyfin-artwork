@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cine Aktuell",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118345"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.cine-aktuell.de",
+    "headquarters": "München, Germany",
+    "placeholder": true
+  }
+]

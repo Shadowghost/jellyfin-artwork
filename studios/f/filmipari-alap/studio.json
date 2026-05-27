@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmipari Alap",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90030"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

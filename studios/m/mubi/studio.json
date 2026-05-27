@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MUBI",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204957",
+        "logo_uri": "https://image.tmdb.org/t/p/original/16gclYCHdh6QFQyBRNOo3DuaqDT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://mubi.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

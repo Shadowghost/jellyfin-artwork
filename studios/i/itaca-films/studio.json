@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Itaca Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16322",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pKjLo6lCOYCwfK0efWCfAXqYzaY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://itacafilms.com.mx/",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

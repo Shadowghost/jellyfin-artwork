@@ -1,0 +1,16 @@
+[
+  {
+    "name": "credofilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1748"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.credofilm.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

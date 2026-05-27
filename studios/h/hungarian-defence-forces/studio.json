@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Hungarian Defence Forces",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262403",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vtr97C4HSz6TaQTKZcMW6cWmUmD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "https://honvedelem.hu/",
+    "placeholder": true
+  }
+]

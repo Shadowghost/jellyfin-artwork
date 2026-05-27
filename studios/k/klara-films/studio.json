@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Klara Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196988",
+        "logo_uri": "https://image.tmdb.org/t/p/original/29NEdl1RovmD6ydhBrStobLlkqB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EE",
+    "homepage": "https://klarafilms.ee/",
+    "headquarters": "Tallinn",
+    "placeholder": true
+  }
+]

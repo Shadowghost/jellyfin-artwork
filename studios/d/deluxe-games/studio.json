@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Deluxe Games",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250525",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wiAyno8RqUdmlDXA8XktK82iP9x.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.dxg.jp/en/",
+    "placeholder": true
+  }
+]

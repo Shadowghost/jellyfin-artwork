@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Telescope Animation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129734",
+        "logo_uri": "https://image.tmdb.org/t/p/original/whxrWm6CLdICEQXkXLQtImZuv1a.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.telescopeanimation.com",
+    "headquarters": "Rückerstr. 5, Berlin",
+    "placeholder": true
+  }
+]

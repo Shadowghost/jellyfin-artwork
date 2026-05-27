@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Panorama",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114282"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

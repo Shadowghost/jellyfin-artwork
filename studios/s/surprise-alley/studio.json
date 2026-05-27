@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Surprise Alley",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158934",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e2L3GRr24W5t3laaWxCbX37tfTS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.surprisealley.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

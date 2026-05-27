@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Farabi Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66953",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4JYTCYLW0ANUddBtjUvwa0MwRvL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IR",
+    "homepage": "http://www.fcf.ir",
+    "headquarters": "Tehran",
+    "placeholder": true
+  }
+]

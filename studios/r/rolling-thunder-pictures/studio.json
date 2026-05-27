@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Rolling Thunder Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211806",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7f560gzGeZOplH3UYlamjFuynId.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

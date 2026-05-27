@@ -1,0 +1,16 @@
+[
+  {
+    "name": "La Comédie-Française",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88501"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.comedie-francaise.fr/en",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

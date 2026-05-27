@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Total Entertainment",
+    "country": "BR",
+    "homepage": "http://www.totalfilmes.com.br/",
+    "headquarters": "Rio de Janeiro, Rio de Janeiro, Brazil",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6446",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bzINKKiM2w4mUU2TAEU7FqnP7xa.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

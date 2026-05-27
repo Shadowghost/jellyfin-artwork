@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rattle Jack",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192721",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v98d1X1BDH9tJtezRO7xmvjA64v.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.rattlejackinc.com/",
+    "headquarters": "Los Angeles",
+    "placeholder": true
+  }
+]

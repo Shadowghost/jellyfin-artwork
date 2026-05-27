@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lightbeam",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215001"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

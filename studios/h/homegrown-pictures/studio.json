@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Homegrown Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8840",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dVr1iDtAMH3saF2PTQF2AWkR7fS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://homegrownpictures.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

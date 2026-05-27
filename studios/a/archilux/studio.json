@@ -1,0 +1,13 @@
+[
+  {
+    "name": "archilux",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "295415"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

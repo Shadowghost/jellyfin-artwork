@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Cine Group",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74019",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tVdOwGeNgmsFEK4SRLeDas7B4a.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Walt Disney Company EMEA",
+    "country": "GB",
+    "homepage": "https://thewaltdisneycompany.eu",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103374",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ApbzfacgrUSGF3r4MUfbnjeso9L.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

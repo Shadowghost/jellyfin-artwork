@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tomsa Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157169",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c0cF896fsU7dBXQFTjvmRbRM78Y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://tomsa-films.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "RASA Board",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226863"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

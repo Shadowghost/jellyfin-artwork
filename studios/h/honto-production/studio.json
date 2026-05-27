@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Honto production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2196"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

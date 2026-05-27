@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Korokoro",
+    "country": "FR",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118657"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

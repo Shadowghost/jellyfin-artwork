@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Vamos Play",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274895",
+        "logo_uri": "https://image.tmdb.org/t/p/original/92f4kRFYsN1LyQheravGyklMYwF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "http://vamosplay.tv",
+    "placeholder": true
+  }
+]

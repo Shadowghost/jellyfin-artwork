@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Dreifilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75251"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.dreifilm.de",
+    "headquarters": "Munich, Bavaria, Germany",
+    "placeholder": true
+  }
+]

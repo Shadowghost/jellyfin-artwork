@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Rhombus Media",
+    "description": "Canadian film and television production company based in Toronto, known for The Red Violin, Thirty Two Short Films About Glenn Gould, and Hyena Road.",
+    "country": "CA",
+    "type": "production-company",
+    "homepage": "http://rhombusmedia.com",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v3zcUepvKC7Vz36yjklk1rw6k8Q.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tobina Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24439",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1E8Va7pgnmenV70m4U4MqHRLQiL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.tobinafilm.fr/",
+    "headquarters": "Loir en Vallée",
+    "placeholder": true
+  }
+]

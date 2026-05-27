@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DMTC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250209"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

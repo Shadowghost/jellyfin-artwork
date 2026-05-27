@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ciné-Sud Promotion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2622",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2ZWtZLYbuQVPNvLJNv85uhEhZkO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.cinesudpromotion.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

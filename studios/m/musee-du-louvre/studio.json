@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Musée du Louvre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34766",
+        "logo_uri": "https://image.tmdb.org/t/p/original/atA5jWdLJ5tgyKQ5dJ6FcYLQsUo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

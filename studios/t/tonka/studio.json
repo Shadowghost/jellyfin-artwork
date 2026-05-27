@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tonka",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74080",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vxcsO0OEQmTFJZIWelCvxO09j6D.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Pawtucket, Rhode Island",
+    "placeholder": true
+  }
+]

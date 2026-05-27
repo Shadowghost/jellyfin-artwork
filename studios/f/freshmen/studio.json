@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Freshmen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99398",
+        "logo_uri": "https://image.tmdb.org/t/p/original/alLb7jsrO3KjofoeGjDmvMCUiZb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.freshmen.net/",
+    "headquarters": "Kopernikova 2, 120 00 Prague 2",
+    "placeholder": true
+  }
+]

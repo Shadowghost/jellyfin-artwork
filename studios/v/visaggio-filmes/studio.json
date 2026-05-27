@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Visaggio Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211104",
+        "logo_uri": "https://image.tmdb.org/t/p/original/S9SWA9tQmiv7PvkweAaksGTLsg.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "http://Visaggio.com.br",
+    "headquarters": "Rio de Janeiro, Brazil"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Centropolis Entertainment",
+    "description": "American film production company founded by Roland Emmerich and Dean Devlin, known for Independence Day, Stargate, The Day After Tomorrow, 2012, and Midway.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://www.centropolis.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "347",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1wpVtAaWLqvFJVVbyzTAf7U4JPX.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

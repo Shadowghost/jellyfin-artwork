@@ -1,0 +1,13 @@
+[
+  {
+    "name": "EQUAL films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150925"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

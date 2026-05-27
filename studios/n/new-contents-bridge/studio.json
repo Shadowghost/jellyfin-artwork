@@ -1,0 +1,13 @@
+[
+  {
+    "name": "New Contents Bridge",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78902"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

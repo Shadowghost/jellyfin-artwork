@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Filmagen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100074"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

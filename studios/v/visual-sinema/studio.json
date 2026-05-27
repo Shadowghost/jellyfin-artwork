@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Visual Sinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "263325"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

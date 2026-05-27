@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Artist on Art",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230435"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

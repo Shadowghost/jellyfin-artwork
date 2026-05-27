@@ -1,0 +1,14 @@
+[
+  {
+    "name": "WVIZ",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219939",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qa4XpUAmQkn9vRucjOquwPQsWVj.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

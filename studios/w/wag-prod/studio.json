@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WAG Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83399",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hkFrweC8U1StSmdoq9DYAV7v5CO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.wagprod.com/",
+    "headquarters": "Rennes",
+    "placeholder": true
+  }
+]

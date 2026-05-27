@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hollands Nieuws",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "298270"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

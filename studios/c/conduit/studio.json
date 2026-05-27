@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Conduit",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79545"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

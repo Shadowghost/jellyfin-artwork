@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bar Wrestling",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115910",
+        "logo_uri": "https://image.tmdb.org/t/p/original/urrDHmKuK94yZbS2hAtfn2351dc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://barwrestling.pivotshare.com/home",
+    "headquarters": "Bootleg Theater, Los Angeles, California, USA",
+    "placeholder": true
+  }
+]

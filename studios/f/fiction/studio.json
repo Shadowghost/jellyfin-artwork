@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Fiction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238621"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

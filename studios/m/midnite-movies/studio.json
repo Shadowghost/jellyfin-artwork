@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Midnite Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270101"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

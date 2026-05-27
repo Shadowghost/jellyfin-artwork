@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Broadster",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142546",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dlfavmkQQONm7fhxMPYQbCnl04R.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://broadster.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

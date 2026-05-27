@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Katholieke Radio Omroep (KRO)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8541",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gKy5OSpgtSZIcXX9yYeJcFgPuaD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "placeholder": true
+  }
+]

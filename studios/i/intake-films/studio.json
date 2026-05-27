@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Intake Films",
+    "country": "GB",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153971",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fKr7g5Q4NFl94TOijKgzmhtb9eu.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

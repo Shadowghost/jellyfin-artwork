@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine Millennium",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256987"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

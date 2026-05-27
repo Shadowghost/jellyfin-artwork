@@ -1,0 +1,14 @@
+[
+  {
+    "name": "La Faction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160002"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Dark",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "178932",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sq1XOG68ERwKzWgPteV60emvZCv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.thedark.fr/en",
+    "headquarters": "Bordeaux",
+    "placeholder": true
+  }
+]

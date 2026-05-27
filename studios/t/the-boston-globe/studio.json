@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Boston Globe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212902",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3lL4HssUxXV9ofSMDKBnT2vb7u8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.bostonglobe.com",
+    "headquarters": "Boston, Massachusetts",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Manjunath Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208351"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

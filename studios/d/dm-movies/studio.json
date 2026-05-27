@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DM Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159284"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

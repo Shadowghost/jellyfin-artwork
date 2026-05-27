@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Scopeo production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151273"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

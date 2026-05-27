@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bluescreen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105568"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

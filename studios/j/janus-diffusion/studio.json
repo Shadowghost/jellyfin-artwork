@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Janus Diffusion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111298"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

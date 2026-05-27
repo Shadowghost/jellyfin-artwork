@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BudFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150984"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

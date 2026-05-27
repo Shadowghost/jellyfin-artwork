@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Entertainment One Features",
+    "country": "CA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69850",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jmrRZgqHnYmJC4uePQI2sLijpSk.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

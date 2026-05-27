@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fabula Film GmbH",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262409",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9KSAMDAsXF6ynDtCuI1aKCHqhc7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://fabula-film.de",
+    "headquarters": "Schulstr. 11 - 58332 Schwelm",
+    "placeholder": true
+  }
+]

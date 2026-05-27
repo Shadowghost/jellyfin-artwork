@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LJ Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233207"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

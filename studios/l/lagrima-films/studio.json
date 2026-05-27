@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lágrima Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "207432",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9Yp5BuyB32aWZCSnPaOGZftKg9P.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.lagrimafilms.com/",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

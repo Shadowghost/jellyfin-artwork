@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NL Film en TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5573",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5f6PEiCcH3n9RWgVw0gGvvECt13.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.nlfilm.tv/",
+    "headquarters": "Amsterdam, North Holland",
+    "placeholder": true
+  }
+]

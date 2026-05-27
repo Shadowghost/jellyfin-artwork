@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tryhard Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "277811"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

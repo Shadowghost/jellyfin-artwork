@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RTVE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "265749",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vFqHb0z4jNbA4h6iMQ52OaQRdEQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.rtve.es",
+    "headquarters": "Prado del Rey, Pozuelo de Alarcón",
+    "placeholder": true
+  }
+]

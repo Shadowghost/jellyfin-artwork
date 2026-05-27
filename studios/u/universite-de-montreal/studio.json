@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Université de Montréal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119907",
+        "logo_uri": "https://image.tmdb.org/t/p/original/35jLwX70nPP3kXtEYUOGu4r5Per.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

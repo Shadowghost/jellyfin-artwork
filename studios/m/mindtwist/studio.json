@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MindTwist",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90269"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

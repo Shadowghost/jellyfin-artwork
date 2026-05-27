@@ -1,0 +1,14 @@
+[
+  {
+    "name": "SpesFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78414"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "E Corp Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51534",
+        "logo_uri": "https://image.tmdb.org/t/p/original/55XlQYG3k5SsKQzCzgoJW8cwAHv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "http://www.ecorp.com.mx",
+    "headquarters": "Mexico City, Mexico",
+    "placeholder": true
+  }
+]

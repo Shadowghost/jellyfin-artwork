@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Centro de Imagen y Sonido (CIMAS)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "247376"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

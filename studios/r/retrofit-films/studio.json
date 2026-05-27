@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Retrofit Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67463",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bL2FWw6dWAy6oVzd7TebLJvMeSP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://retrofitfilms.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

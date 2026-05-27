@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CONTRAIL",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125790",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gFpiOg4UjwyHnIaLYZIo6qLpgN8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://contrail.tokyo/",
+    "headquarters": "Suginami, Tokyo",
+    "placeholder": true
+  }
+]

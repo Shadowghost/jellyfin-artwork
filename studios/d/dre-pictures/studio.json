@@ -1,0 +1,16 @@
+[
+  {
+    "name": "DRE Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285651",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1V9FqOo3mUuvMeYOn0ajMhp1oyH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://drecom-media.jp/drepictures",
+    "placeholder": true
+  }
+]

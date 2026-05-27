@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Grizzly Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85753",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xNitdZScrDxPQEkZl6YPi7vrkci.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.grizzlyfilms.be/",
+    "headquarters": "Bruxelles",
+    "placeholder": true
+  }
+]

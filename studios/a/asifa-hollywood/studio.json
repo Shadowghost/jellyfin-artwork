@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ASIFA-Hollywood",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234064",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3r2dJuhraToyN6RxmJyJ5zV6wSo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://asifa-hollywood.org/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

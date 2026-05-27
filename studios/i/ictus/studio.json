@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ICTUS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112812",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eTey5UgZCOOb21KMfhjwm3MjoqY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "http://teatroictus.cl",
+    "headquarters": "Santiago, Santiago Metropolitan",
+    "placeholder": true
+  }
+]

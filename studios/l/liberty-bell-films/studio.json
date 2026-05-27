@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Liberty Bell Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158882",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aE1dNwqnCzJvt8GKOTK4rGRml4Q.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.libertybellfilms.com",
+    "headquarters": "Philadelphia, Pennsylvania",
+    "placeholder": true
+  }
+]

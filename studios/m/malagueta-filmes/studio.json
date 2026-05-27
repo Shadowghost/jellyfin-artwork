@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Malagueta Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199635",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lIHlFn5IHd3maIAyVsUT2VfYp2J.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://malaguetafilmes.com.br/",
+    "placeholder": true
+  }
+]

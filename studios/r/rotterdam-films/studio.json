@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rotterdam Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152078",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qffwjrwRZxiGUbhZPMyPXjaCOlU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.rotterdamfilms.com/",
+    "headquarters": "Rotterdam",
+    "placeholder": true
+  }
+]

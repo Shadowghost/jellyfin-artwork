@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Disney Junior",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177195",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6f4uxPAJZ0IxncWRx2egHl0Pei8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

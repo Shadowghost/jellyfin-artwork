@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinema obscure",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169419"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

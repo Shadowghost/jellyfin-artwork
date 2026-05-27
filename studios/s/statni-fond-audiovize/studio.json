@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Státní fond audiovize",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "279886",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iDVuElr8oyCt2K1CNHLIuK0T2WO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://fondkinematografie.cz/",
+    "headquarters": "Praha, Česká republika",
+    "placeholder": true
+  }
+]

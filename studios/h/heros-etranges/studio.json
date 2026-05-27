@@ -1,0 +1,13 @@
+[
+  {
+    "name": "héros étranges",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202030"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

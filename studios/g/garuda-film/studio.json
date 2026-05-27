@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Garuda Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55197",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v6AcsnJDG1rSLrmrMdN59Z62oNg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "placeholder": true
+  }
+]

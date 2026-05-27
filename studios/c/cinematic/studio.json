@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinematic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49204"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

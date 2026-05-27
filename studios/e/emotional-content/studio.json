@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Emotional Content",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8557"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

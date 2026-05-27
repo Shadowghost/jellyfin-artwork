@@ -1,0 +1,13 @@
+[
+  {
+    "name": "wasteland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91699"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

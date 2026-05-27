@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Thumper Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219315",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pvVLN2yM2bb7I5C0Xrkg46iUab6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://thumperfilms.com",
+    "placeholder": true
+  }
+]

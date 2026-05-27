@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Fonte",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156659",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7tOsOVJG9xc0SJBV2cWWsmVlNFZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://lafonte.org.cn",
+    "headquarters": "Shanghai",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WFO Film Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28181",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aqkYtYAal6pclwqteY9eOcsYtdP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://www.wfo.com.pl/",
+    "headquarters": "Łódź",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nix/Fanucchi Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87395"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

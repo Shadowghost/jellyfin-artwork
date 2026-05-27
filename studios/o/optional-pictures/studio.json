@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Optional Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "54004"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

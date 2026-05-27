@@ -1,0 +1,17 @@
+[
+  {
+    "name": "National Rifle Association",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199361",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A1r8GMF3Tq8wCOvLk5pFVuwVaLq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://nra.org",
+    "headquarters": "Fairfax County, Virginia, U.S.",
+    "placeholder": true
+  }
+]

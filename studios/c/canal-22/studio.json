@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Canal 22",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15223",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9AOjPT7BQiwzLs5rfxbDNPvv3HS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "http://www.canal22.org.mx/",
+    "headquarters": "Ciudad de México, MX",
+    "placeholder": true
+  }
+]

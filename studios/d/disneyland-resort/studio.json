@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Disneyland Resort",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "276965",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uQXeZdaoXcE3jSbH1URFLpYQwj8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

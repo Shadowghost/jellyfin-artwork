@@ -1,0 +1,13 @@
+[
+  {
+    "name": "The Newman Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239282"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

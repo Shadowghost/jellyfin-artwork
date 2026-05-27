@@ -1,0 +1,16 @@
+[
+  {
+    "name": "AniTone",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249711",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kI5JoO0LBc3d0q71eu1WiHvEtXa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://ani-tone.com/",
+    "placeholder": true
+  }
+]

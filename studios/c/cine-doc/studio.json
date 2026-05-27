@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ciné-Doc",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285921"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

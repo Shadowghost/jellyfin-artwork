@@ -1,0 +1,29 @@
+[
+  {
+    "name": "AMC Networks' Content Room",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199102",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cPySOtV3dTIMXD1wrDJhy4VWQ49.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "US",
+    "homepage": "https://www.amcncontentroom.com/",
+    "template": true
+  }
+]

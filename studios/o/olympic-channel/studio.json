@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Olympic Channel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181431",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bMfnfUWpc7EoQPLa9Wk8PoAXBiY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://olympics.com/en/olympic-channel",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

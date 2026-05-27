@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sala uno cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "279786"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

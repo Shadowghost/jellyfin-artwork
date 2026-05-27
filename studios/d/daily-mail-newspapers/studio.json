@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Daily Mail Newspapers",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166017"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RMC Découverte",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69146",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ouC923wOM8TaiO5sEDNiVQYxD08.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://rmcdecouverte.bfmtv.com/",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

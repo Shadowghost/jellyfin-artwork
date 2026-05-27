@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Unicorn Picnic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37402",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rSfwnUdnIEcPw5kF0qebVedDEUJ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

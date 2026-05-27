@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Mike's Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12323"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Inverclyde Council",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214680",
+        "logo_uri": "https://image.tmdb.org/t/p/original/46hMgbsO2o4EAlPFmmEZwnvJADB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://inverclyde.gov.uk/",
+    "headquarters": "Greenock, Scotland",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Musée de la vie Wallonne",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149103"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

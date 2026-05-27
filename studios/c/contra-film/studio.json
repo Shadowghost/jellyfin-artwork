@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Contra Film",
+    "country": "RS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9999"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

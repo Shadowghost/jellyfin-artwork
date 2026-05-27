@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Myriad Pictures",
+    "country": "US",
+    "homepage": "http://www.myriadpictures.com",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "738",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bLBdowsgMoipjXLi9QpdcZOvPhG.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

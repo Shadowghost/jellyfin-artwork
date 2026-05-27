@@ -1,0 +1,32 @@
+[
+  {
+    "name": "SVT1",
+    "description": "Primary television channel of Sveriges Television, the Swedish public service broadcaster.",
+    "country": "SE",
+    "type": "broadcast-network",
+    "homepage": "http://svt.se",
+    "headquarters": "Stockholm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2999",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zGSqFee9aDgDuLD6vcs2mcJUem4.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

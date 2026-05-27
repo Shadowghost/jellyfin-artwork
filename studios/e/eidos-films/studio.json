@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Eidos Films",
+    "country": "GB",
+    "homepage": "https://www.eidosmontreal.com/en",
+    "headquarters": "Southwark, London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19105",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7RdbaZqDLb4q2PdtMZx0SIrAyDt.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

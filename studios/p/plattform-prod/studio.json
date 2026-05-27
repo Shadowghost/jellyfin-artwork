@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Plattform prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175986"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

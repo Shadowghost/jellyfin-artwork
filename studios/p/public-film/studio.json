@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Public Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96638"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "placeholder": true
+  }
+]

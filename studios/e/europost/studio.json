@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Europost",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150887"
+      }
+    ],
+    "artwork": {},
+    "country": "GR",
+    "placeholder": true
+  }
+]

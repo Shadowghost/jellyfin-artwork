@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Zip-Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142751"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

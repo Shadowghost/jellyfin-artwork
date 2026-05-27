@@ -1,0 +1,16 @@
+[
+  {
+    "name": "DenverMP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214016"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.denvermp.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FilmFrame",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118792",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vH7Soxy4VzmdHkywnsVhBb48FJH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SK",
+    "homepage": "http://www.filmframe.sk/",
+    "headquarters": "Bratislava, Slovakia",
+    "placeholder": true
+  }
+]

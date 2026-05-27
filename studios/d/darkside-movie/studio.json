@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Darkside Movie",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14555"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

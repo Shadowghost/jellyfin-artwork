@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Quaker Moving Pictures",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73708"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Polsat Box",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105266",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ev8L4iYQDUY5uutlJGreeMT1i4P.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://www.polsatbox.pl/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

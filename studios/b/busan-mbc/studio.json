@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Busan MBC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197427",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ylQB7hYHO0QEbxkRDrRzbnaLqLx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://busanmbc.co.kr/",
+    "headquarters": "Busan, South Korea",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "InSync Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "246560",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gs8ki1s8mDXlzKqPxjBu7MeKbxT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PK",
+    "headquarters": "Lahore, Punjab, Pakistan",
+    "placeholder": true
+  }
+]

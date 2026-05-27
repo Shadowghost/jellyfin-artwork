@@ -1,0 +1,14 @@
+[
+  {
+    "name": "NHK World",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86846"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

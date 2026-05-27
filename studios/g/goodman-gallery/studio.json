@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Goodman Gallery",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139597",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yyP9N2Xrz6I4MQPNKNWD1AjI89V.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.goodman-gallery.com/",
+    "headquarters": "London",
+    "placeholder": true
+  }
+]

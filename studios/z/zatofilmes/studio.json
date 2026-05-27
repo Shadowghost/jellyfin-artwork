@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ZatoFilmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "288695"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

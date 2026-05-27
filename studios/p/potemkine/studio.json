@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Potemkine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104571",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rEeeZZIWYkzNWxyzQHdb8TXRpGM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.potemkine.fr",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "webdramaBOX",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109849"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

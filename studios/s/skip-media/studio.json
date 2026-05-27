@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Skip-Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "64926"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

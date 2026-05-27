@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Blink TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7479"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://www.blinktv.com.au/",
+    "placeholder": true
+  }
+]

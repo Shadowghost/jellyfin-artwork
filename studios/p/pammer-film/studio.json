@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pammer Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156099",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jlIRoXWyj3HrOQGA1vCc1tFDJWy.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "http://www.pammerfilm.at/",
+    "headquarters": "Wien, Österreich"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "INT.cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111998"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

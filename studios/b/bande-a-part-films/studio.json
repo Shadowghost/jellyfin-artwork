@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bande à Part Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28336",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nvhmrMC2JqH54dlPAMiPkUFSNBu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "http://www.bandeapartfilms.com",
+    "headquarters": "Lausanne",
+    "placeholder": true
+  }
+]

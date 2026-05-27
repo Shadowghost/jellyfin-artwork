@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Zuiyo",
+    "country": "JP",
+    "headquarters": "Minato, Tokyo, Japan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71443"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

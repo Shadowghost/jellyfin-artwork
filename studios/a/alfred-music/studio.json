@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Alfred Music",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139176"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

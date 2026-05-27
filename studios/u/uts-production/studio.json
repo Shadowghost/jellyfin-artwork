@@ -1,0 +1,14 @@
+[
+  {
+    "name": "UTS Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219477"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "placeholder": true
+  }
+]

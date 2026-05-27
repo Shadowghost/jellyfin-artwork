@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Folkfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "253403"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

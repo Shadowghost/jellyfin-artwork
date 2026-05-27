@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Prisma Film",
+    "country": "AT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46296"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

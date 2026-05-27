@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ministère de l'Agriculture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "207743",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2gMVVPpu0gBuwcXFNxRplUGyUPX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://agriculture.gouv.fr/",
+    "headquarters": "Ministère de l'Agriculture, Hôtel de Villeroy, 78 rue de Varenne, 75007 Paris, France",
+    "placeholder": true
+  }
+]

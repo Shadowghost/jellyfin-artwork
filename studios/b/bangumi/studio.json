@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bangumi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88002",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zV5SSl4WlW9Dh63M9dqhZiEPRCF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.bangumi.fr",
+    "headquarters": "104 Avenue du Président Kennedy, 75016 Paris",
+    "placeholder": true
+  }
+]

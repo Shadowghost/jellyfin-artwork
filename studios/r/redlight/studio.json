@@ -1,0 +1,13 @@
+[
+  {
+    "name": "RedLight",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105558"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "FilmFyn",
+    "country": "DK",
+    "homepage": "http://www.filmfyn.dk/",
+    "headquarters": "Faaborg, Denmark",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "640"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

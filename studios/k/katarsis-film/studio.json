@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Katarsis Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "237501",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nq3p5UVExCz8bwXdroOHHPf75eS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.katarsisfilm.com/",
+    "headquarters": "İzmir",
+    "placeholder": true
+  }
+]

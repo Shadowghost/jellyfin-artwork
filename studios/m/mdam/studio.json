@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MDAM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118900",
+        "logo_uri": "https://image.tmdb.org/t/p/original/voWMStV1rXk64B3UpuQJzLsqCeS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://madrogueamoi.com",
+    "headquarters": "Le Vésinet",
+    "placeholder": true
+  }
+]

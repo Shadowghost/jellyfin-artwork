@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Film City",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83400"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

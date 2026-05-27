@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FATCAT.films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258690"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

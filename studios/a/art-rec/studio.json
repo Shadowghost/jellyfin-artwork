@@ -1,0 +1,13 @@
+[
+  {
+    "name": "art rec",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181211"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

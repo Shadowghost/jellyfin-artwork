@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Canal+ Polynésie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "227823"
+      }
+    ],
+    "artwork": {},
+    "country": "PF",
+    "homepage": "http://canalplus.com",
+    "placeholder": true
+  }
+]

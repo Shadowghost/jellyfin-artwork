@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Globus-film",
+    "country": "RU",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23319"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

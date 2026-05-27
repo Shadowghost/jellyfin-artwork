@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vulture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222636",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qKheLHwsHLL9FCsmEwq4ixNSEzU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.vulture.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

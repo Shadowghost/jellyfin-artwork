@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Geoimagen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128965"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "headquarters": "Santiago",
+    "placeholder": true
+  }
+]

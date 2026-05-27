@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RSI",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20960",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9mO8Z3dcW6ISVMeCv7TbXtWXdGl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.rsi.ch",
+    "headquarters": "Lugano",
+    "placeholder": true
+  }
+]

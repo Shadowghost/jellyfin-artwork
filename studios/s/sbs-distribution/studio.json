@@ -1,0 +1,13 @@
+[
+  {
+    "name": "sbs distribution",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99855"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

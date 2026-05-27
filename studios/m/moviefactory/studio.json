@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MovieFactory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229464",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9nZylfA0RgAydkHPO5H778cnTnu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.moviefactory.cz/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

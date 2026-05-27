@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Movimento Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69646",
+        "logo_uri": "https://image.tmdb.org/t/p/original/abY1pN2KktLLp0R0XVm7sRdicWj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.movimentofilm.it",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

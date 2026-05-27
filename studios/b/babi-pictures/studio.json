@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Babi Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252816",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8Mk2Zk7gEoXLY664alD7CeLQoPC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CI",
+    "homepage": "https://www.babipictures.com/",
+    "headquarters": "Abidjan",
+    "placeholder": true
+  }
+]

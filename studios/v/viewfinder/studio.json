@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Viewfinder",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95182"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

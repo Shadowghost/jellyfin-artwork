@@ -1,0 +1,26 @@
+[
+  {
+    "name": "walt disney imag",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "296690"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TRT BELGESEL",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157936",
+        "logo_uri": "https://image.tmdb.org/t/p/original/14Aw3C9ZFzeLhSXZoyPndLyyNcV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.trtbelgesel.com.tr",
+    "placeholder": true
+  }
+]

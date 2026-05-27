@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Transcode",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214488"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

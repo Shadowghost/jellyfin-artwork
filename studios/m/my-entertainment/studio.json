@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MY Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119786",
+        "logo_uri": "https://image.tmdb.org/t/p/original/617z13TctFxkOmajNAdDAP1h7cY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://myentertainment.tv/",
+    "placeholder": true
+  }
+]

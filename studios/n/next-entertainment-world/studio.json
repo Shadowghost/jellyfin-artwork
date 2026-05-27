@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Next Entertainment World",
+    "country": "KR",
+    "homepage": "http://www.its-new.co.kr/",
+    "headquarters": "Gangnam, Seoul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20064",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2In7Heq6DuXDjOwPmJqHWkpohaL.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

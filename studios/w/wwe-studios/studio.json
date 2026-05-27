@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WWE Studios",
+    "country": "US",
+    "homepage": "https://www.wwe.com/inside/overtheropes/wwestudios",
+    "headquarters": "Stamford, Connecticut",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10339",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dU7bjpBabgAd6R8INdVAyCjQ70w.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Public Record",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96971",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f1djyUiNJofPADFTZJwQx74KuUy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.publicrecord.tv",
+    "headquarters": "Brooklyn, New York",
+    "placeholder": true
+  }
+]

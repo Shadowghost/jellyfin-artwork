@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Film Choice",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241802"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Digital District",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63064",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c9ZOLSWtkMCfOqiNubdCy7woq6Y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.digital-district.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Experimental TV Center",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212303"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

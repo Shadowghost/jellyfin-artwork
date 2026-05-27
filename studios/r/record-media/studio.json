@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Record Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "190052",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kAw2E1ktfAS667lKH2LHLLSmjnF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "https://www.recordmedia.org",
+    "headquarters": "Dublin",
+    "placeholder": true
+  }
+]

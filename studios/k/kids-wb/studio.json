@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Kids' WB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "178461",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lm4EVXsgOfHw37cMBdw84KYraeQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

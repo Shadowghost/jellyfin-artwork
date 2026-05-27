@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Dynamic Planning",
+    "country": "JP",
+    "homepage": "http://mazin-go.com",
+    "headquarters": "Shinjuku, Tokyo Prefecture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12268"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

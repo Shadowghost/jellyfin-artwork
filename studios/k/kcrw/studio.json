@@ -1,0 +1,13 @@
+[
+  {
+    "name": "KCRW",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52700"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

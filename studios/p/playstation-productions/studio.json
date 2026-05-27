@@ -1,0 +1,32 @@
+[
+  {
+    "name": "PlayStation Productions",
+    "description": "Production company owned by Sony Interactive Entertainment that develops film and television adaptations of PlayStation franchises.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.playstation.com/en-us/playstation-productions",
+    "headquarters": "Culver City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125281",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3hV8pyxzAJgEjiSYVv1WZ0ZYayp.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

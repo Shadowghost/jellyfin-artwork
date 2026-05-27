@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cine Valley Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183792"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

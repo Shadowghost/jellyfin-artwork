@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Eesti Joonisfilm",
+    "country": "EE",
+    "homepage": "https://www.joonisfilm.ee",
+    "headquarters": "Tallinn",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12432",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zOgIPe7TadxPBpuUsoWWSryYO6y.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

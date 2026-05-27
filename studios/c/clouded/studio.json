@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Clouded",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257625",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vx78Z6UymPwjsEdR7o5Jw2BnJ3a.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "headquarters": "71-75 Shelton Street, Covent Garden, London, England, WC2H 9JQ",
+    "placeholder": true
+  }
+]

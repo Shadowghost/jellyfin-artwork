@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CEPASE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270874"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

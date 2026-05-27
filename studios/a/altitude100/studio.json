@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Altitude100",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152238",
+        "logo_uri": "https://image.tmdb.org/t/p/original/asq3ny2PPCcQOS0pxJhAgI5Ihht.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.altitude100.eu/",
+    "headquarters": "City of Brussels",
+    "placeholder": true
+  }
+]

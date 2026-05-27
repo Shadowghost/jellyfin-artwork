@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MediaHub",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175284",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A4YvY5f0szVeNP6tT71Ta4Fk0qF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EG",
+    "homepage": "https://www.mediahubmena.com/",
+    "headquarters": "Cairo, Egypt",
+    "placeholder": true
+  }
+]

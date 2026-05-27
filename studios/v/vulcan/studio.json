@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Vulcan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75700"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

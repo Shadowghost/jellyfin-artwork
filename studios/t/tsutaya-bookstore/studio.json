@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tsutaya Bookstore",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255958",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3v67TH4I3ZFghIo94PVZ1ugNNvW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://tsutaya.tsite.jp/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Generalitat Valenciana",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53491",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7BYQ4l3DvvYYAGmxucVst5nLOJX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.gva.es",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Experimenta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119000"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

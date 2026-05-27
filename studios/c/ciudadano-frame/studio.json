@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ciudadano frame",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89621"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ICAIC Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250435"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

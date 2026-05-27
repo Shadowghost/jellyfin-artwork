@@ -1,0 +1,14 @@
+[
+  {
+    "name": "British Lion Films",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "632"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

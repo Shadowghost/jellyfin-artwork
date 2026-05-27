@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Maara Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241244",
+        "logo_uri": "https://image.tmdb.org/t/p/original/923MNDT8ErrNQLh0GKc23R5lwi5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://maarafilm.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

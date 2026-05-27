@@ -1,0 +1,24 @@
+[
+  {
+    "name": "MyNetworkTV",
+    "description": "American programming service operated by Fox Corporation's Fox Television Stations division; provides primetime programming to affiliate stations across the US.",
+    "country": "US",
+    "type": "broadcast-network",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

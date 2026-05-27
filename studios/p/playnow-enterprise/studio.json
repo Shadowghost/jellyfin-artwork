@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PlayNow Enterprise",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "64636"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

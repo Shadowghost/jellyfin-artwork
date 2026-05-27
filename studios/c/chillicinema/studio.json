@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ChilliCinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111660"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

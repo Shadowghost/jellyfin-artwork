@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Valcine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100926"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "http://www.valcine.cl",
+    "headquarters": "Santiago",
+    "placeholder": true
+  }
+]

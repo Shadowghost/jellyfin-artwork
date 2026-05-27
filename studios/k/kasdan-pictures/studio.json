@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Kasdan Pictures",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13040"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Palodeon Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198355",
+        "logo_uri": "https://image.tmdb.org/t/p/original/irrkHOc16jaXSkkb143LOE5NmuE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.palodeon.com/",
+    "headquarters": "Ojai, California",
+    "placeholder": true
+  }
+]

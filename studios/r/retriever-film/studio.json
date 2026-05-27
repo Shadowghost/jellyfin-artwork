@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Retriever Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66434"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "GarageFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191178"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Almanac",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264138"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

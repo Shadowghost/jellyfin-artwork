@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmes de Plástico",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37098",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wPQrM2TrAnYi93HkRlmu7vYvZhX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.filmesdeplastico.com.br/",
+    "headquarters": "Contagem MG",
+    "placeholder": true
+  }
+]

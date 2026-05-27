@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Washington Square Films",
+    "country": "US",
+    "homepage": "http://www.wsfilms.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14862",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2YobmEkVFAcw368uz6Ie1sGP2C8.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

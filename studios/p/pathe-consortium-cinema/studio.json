@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pathé Consortium Cinéma",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

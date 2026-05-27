@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Présidence de la République",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204376",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k6BE0MLeR9DpZBfg5RJ49eR0srk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.elysee.fr",
+    "placeholder": true
+  }
+]

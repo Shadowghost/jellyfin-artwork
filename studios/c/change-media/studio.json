@@ -1,0 +1,13 @@
+[
+  {
+    "name": "change media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90414"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

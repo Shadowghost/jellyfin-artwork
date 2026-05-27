@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Light the Lamp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "236245"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

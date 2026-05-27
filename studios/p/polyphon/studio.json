@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Polyphon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23451",
+        "logo_uri": "https://image.tmdb.org/t/p/original/etKVcIPvGwznZ8oLbKQjmVIvLIb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.polyphon.de",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

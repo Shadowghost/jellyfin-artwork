@@ -1,0 +1,16 @@
+[
+  {
+    "name": "PRIDE Fighting Championships",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "259050",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j79h5sOgGwD7rL0WoS1s7WK7cGp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.pridefc.com",
+    "placeholder": true
+  }
+]

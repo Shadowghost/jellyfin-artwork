@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les Films de la Tour",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "900"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

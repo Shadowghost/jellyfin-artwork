@@ -1,0 +1,13 @@
+[
+  {
+    "name": "500 Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242100"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

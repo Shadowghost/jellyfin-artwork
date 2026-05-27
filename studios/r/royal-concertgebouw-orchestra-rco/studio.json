@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Royal Concertgebouw Orchestra (RCO)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172547",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tGJKp0pH40cbTd3eOewgQHlAKEX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.concertgebouworkest.nl/en",
+    "placeholder": true
+  }
+]

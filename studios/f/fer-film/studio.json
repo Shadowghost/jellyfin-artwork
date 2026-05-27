@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Fer Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123354"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

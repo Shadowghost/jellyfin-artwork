@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Entity",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87130"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

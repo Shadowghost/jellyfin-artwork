@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Caballo Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21736",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p4gIH0sLL5sAPYY5l50s0Q1rPNQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://caballofilms.com",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

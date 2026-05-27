@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Roses Are Blue",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103913",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iNsQZaboG6rmK6ch07HXaXGTX0F.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.rosesareblue.tv",
+    "headquarters": "Mechelen, Antwerp",
+    "placeholder": true
+  }
+]

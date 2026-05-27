@@ -1,0 +1,14 @@
+[
+  {
+    "name": "BMG Japan",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13933"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

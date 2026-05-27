@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kendrick Brothers",
+    "country": "US",
+    "homepage": "https://kendrickbrothers.com",
+    "headquarters": "Albany, Georgia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69411",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jkkrsMgj9Gbb8g17NUnLqlfmnmv.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

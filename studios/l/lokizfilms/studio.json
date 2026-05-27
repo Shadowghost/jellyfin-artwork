@@ -1,0 +1,16 @@
+[
+  {
+    "name": "LokizFilms",
+    "country": "ES",
+    "headquarters": "Pamplona/Iruña",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219048",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wFMVuHeLhu6ERbz7hkkPXJ5IVRX.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

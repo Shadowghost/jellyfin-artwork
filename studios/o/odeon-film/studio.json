@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Odeon Film",
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2640"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

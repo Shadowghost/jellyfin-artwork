@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Match Factory",
+    "country": "DE",
+    "homepage": "http://www.the-match-factory.com",
+    "headquarters": "Cologne",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7306",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iqCkzLmACmrws2tHO2USRLkJqXY.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

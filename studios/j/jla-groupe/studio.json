@@ -1,0 +1,17 @@
+[
+  {
+    "name": "JLA Groupe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111405",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dsNtjZZ77OfijHI6cHig7DsXgxW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.groupe-jla.com",
+    "headquarters": "La Plaine Saint Denis",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Example of Intonation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100714",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eM5jbitlbQsiCDCJInbb0Lo3ve7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://en.sokurov.fund/",
+    "headquarters": "St. Petersburg",
+    "placeholder": true
+  }
+]

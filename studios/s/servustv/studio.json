@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ServusTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42147",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xp3Tfmqk38VY6AdSaD2QBMBnUlg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "https://servustv.com",
+    "headquarters": "Wals-Siezenheim, Austria",
+    "placeholder": true
+  }
+]

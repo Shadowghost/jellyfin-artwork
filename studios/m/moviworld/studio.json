@@ -1,0 +1,14 @@
+[
+  {
+    "name": "MoviWorld",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "44948"
+      }
+    ],
+    "artwork": {},
+    "country": "ZA",
+    "placeholder": true
+  }
+]

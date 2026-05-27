@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BBC Studios Comedy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256572",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eMLBjgpbXbc3ahnWQsFisiwJw4M.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://globalcontent.bbcstudios.com/our-production-brands/comedy-productions",
+    "placeholder": true
+  }
+]

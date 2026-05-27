@@ -1,0 +1,14 @@
+[
+  {
+    "name": "GATE production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "284958"
+      }
+    ],
+    "artwork": {},
+    "country": "AZ",
+    "placeholder": true
+  }
+]

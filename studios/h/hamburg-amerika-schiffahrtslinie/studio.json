@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hamburg-Amerika-Schiffahrtslinie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80130"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

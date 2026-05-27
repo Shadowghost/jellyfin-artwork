@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Turner Classic Movies",
+    "description": "American basic cable network owned by Warner Bros. Discovery, broadcasting commercial-free classic films from the Turner Entertainment library and beyond.",
+    "country": "US",
+    "type": "cable-network",
+    "homepage": "http://www.tcm.com",
+    "headquarters": "Atlanta, Georgia",
+    "colors": [
+      {
+        "name": "TCM Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "TCM White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10915",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9NERkCpElyvb6RWNnWp4G4XWAKa.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Guerrero Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234678",
+        "logo_uri": "https://image.tmdb.org/t/p/original/by9DdztH4TvqQqKKm95SP3WMpyf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CO",
+    "homepage": "https://guerrerofilms.co/",
+    "headquarters": "Bogotá - Cartagena",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MRFS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "298481"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

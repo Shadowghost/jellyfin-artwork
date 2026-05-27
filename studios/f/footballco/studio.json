@@ -1,0 +1,13 @@
+[
+  {
+    "name": "footballco",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238109"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

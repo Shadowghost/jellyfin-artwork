@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Glass City Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26002",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qBwqGzpVbmTFl4zEfmfQcgHzmMr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.glasscityfilms.com",
+    "headquarters": "Chicago, Illinois",
+    "placeholder": true
+  }
+]

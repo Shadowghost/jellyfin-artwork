@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films de l’œil sauvage",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120889",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dPlpryNMVRpcLuQAiqRysrNr11L.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://oeilsauvage.com",
+    "headquarters": "Cadenet",
+    "placeholder": true
+  }
+]

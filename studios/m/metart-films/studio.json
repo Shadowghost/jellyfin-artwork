@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MetArt Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108952",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eXpw9WuTECgxWIdcl68nrib9CGI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.metart.com/",
+    "placeholder": true
+  }
+]

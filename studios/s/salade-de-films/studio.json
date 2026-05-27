@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Salade de films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229513"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

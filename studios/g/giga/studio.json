@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GIGA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22798",
+        "logo_uri": "https://image.tmdb.org/t/p/original/30ZQoK9Ez94lxUQMvAnQJ0y9iRv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.giga-web.jp/top.php",
+    "headquarters": "Tokyo, Japan",
+    "placeholder": true
+  }
+]

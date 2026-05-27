@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Smash Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7878",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sbkJhItJyF4mV9CiEBxUFNhTfvJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.smashpictures.com/",
+    "headquarters": "9619 Canoga Ave, Chatsworth, California 91311",
+    "placeholder": true
+  }
+]

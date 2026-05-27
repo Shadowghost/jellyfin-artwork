@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Common Wall Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125088",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oIG9Ypva0NokHPowAcvspCyA2i7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.commonwall.com",
+    "headquarters": "Phoenix, Arizona",
+    "placeholder": true
+  }
+]

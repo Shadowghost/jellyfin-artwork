@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Vista Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189882"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

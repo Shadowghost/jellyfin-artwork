@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Channel Four Films",
+    "country": "GB",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A8SjepJ332C0YMamdFEMco0nstt.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

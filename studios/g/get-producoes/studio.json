@@ -1,0 +1,13 @@
+[
+  {
+    "name": "get produções",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181114"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "HoloTwink",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99422"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

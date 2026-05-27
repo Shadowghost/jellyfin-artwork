@@ -1,0 +1,16 @@
+[
+  {
+    "name": "DocArt",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122669"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.docart.it/",
+    "headquarters": "Roma",
+    "placeholder": true
+  }
+]

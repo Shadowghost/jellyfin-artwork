@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Wild At Art",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89928",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2YWbDh8M0QzX2vx4eojaK0zSetd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.wildatart.nl",
+    "placeholder": true
+  }
+]

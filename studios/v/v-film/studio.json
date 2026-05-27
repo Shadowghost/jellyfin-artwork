@@ -1,0 +1,17 @@
+[
+  {
+    "name": "V-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110807",
+        "logo_uri": "https://image.tmdb.org/t/p/original/12JDUD9mXEnAhlQJxFBcOUwI8p5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "http://vvisionlight.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

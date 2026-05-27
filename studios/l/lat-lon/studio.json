@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lat-Lon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192447",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ikI7X4MtP9sIcqLOUQw49yup7OF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://lat-lon.co.jp/",
+    "placeholder": true
+  }
+]

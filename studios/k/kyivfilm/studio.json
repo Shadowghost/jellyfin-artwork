@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Kyivfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "293447"
+      }
+    ],
+    "artwork": {},
+    "country": "UA",
+    "placeholder": true
+  }
+]

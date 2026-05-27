@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Round Room Image",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145475"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

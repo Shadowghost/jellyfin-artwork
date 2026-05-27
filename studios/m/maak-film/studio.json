@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Maak-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105098"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

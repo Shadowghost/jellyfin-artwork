@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NeoPictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145353"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

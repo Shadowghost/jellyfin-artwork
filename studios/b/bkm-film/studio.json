@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BKM Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15268",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bwiZf22gsAV0JAOfO6RMXcqjDJo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.bkmonline.net/en/",
+    "headquarters": "Istanbul",
+    "placeholder": true
+  }
+]

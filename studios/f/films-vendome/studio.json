@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Films Vendôme",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85523"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

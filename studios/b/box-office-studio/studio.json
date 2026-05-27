@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Box Office Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255099"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

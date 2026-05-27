@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CMD + ART",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "296248"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

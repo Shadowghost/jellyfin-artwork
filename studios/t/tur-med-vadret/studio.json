@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Tur med vädret",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113329"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

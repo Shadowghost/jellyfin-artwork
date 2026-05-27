@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Fox Studios Australia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142529"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "AU",
+    "homepage": "http://www.foxstudiosaustralia.com/",
+    "template": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Nice Guy Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258820",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d9RwqpbCkTu2yOy2DBEhtG2QZKW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://niceguypictures.com/",
+    "placeholder": true
+  }
+]

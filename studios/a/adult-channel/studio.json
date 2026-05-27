@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Adult Channel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18896"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

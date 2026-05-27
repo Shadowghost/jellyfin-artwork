@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Seen Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83761"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

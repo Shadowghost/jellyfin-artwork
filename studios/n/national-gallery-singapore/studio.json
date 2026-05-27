@@ -1,0 +1,13 @@
+[
+  {
+    "name": "National Gallery Singapore",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100309"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

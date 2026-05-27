@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sublimation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124255",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tBOQTpKQl7t4BUGi4NTdeaS5sKY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.sublimation.jp/",
+    "placeholder": true
+  }
+]

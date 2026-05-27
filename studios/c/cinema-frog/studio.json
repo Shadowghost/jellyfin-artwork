@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinema Frog",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211807"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

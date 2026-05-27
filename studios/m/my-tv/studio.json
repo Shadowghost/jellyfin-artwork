@@ -1,0 +1,13 @@
+[
+  {
+    "name": "My-tv",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153109"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

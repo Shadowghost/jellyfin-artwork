@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Jaunt",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101264"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

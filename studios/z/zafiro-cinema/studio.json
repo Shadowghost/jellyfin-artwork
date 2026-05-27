@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Zafiro Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134725",
+        "logo_uri": "https://image.tmdb.org/t/p/original/reK60gW3iobWa3yE9I6zfyVdLqT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

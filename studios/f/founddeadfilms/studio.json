@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FoundDeadFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215445"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

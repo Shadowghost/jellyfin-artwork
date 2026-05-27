@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Warner Music Poland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67647",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vTOZCMZ8PXo0FPtoYNlJUACKBnG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://warnermusic.pl/",
+    "placeholder": true
+  }
+]

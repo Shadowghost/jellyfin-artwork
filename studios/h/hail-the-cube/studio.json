@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hail the Cube",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250399"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

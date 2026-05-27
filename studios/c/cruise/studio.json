@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cruise",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165094"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

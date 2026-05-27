@@ -1,0 +1,32 @@
+[
+  {
+    "name": "HanWay Films",
+    "description": "British international film sales and distribution company founded by Jeremy Thomas, handling worldwide rights to a diverse slate of independent productions.",
+    "country": "GB",
+    "type": "distributor",
+    "homepage": "https://www.hanwayfilms.com/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2395",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pZz4qs03FtP6UGtZ3hjQ6qimcwi.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

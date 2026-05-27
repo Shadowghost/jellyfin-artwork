@@ -1,0 +1,24 @@
+[
+  {
+    "name": "SBS On Demand",
+    "description": "Free over-the-top streaming service operated by Australia's Special Broadcasting Service; offers SBS channel content, foreign-language films, documentaries and original programming.",
+    "country": "AU",
+    "type": "streaming-service",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

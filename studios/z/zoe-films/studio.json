@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zoe Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238128",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1Xl1NfLwXxphSqs8vMCuvucvLxX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.zoefilms.it/",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Hot Hot Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "243879",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zISGduiSZZUi0HiPCk4Y6pflQaZ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

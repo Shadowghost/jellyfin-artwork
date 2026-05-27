@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tello Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119154",
+        "logo_uri": "https://image.tmdb.org/t/p/original/97OWtUjBFLxtztMrplqrOhYtMzD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.tellofilms.com",
+    "headquarters": "Las Vegas, Nevada",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Global Emerging Markets (GEM)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19542"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "HuskerVision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204396"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

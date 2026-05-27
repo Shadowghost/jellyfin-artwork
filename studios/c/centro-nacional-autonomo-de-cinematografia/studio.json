@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Centro Nacional Autónomo de Cinematografía",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1388",
+        "logo_uri": "https://image.tmdb.org/t/p/original/85fUh6K8SxjWEeRYnaWXKLt5O80.png"
+      }
+    ],
+    "artwork": {},
+    "country": "VE",
+    "homepage": "http://www.cnac.gob.ve/",
+    "headquarters": "Caracas",
+    "placeholder": true
+  }
+]

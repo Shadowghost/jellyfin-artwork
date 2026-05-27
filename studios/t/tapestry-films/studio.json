@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Tapestry Films",
+    "country": "US",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "870"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

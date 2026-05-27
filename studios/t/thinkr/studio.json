@@ -1,0 +1,16 @@
+[
+  {
+    "name": "THINKR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194398",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i1hsvWL4chJnXHxqM8VerHbCVMP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://thinkr.jp/",
+    "placeholder": true
+  }
+]

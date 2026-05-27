@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Critical Content",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80546",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v3LljktOnzgjktlgYN8iIfa56Fh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.criticalcontent.com",
+    "headquarters": "Burbank, California",
+    "placeholder": true
+  }
+]

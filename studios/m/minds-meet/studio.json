@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Minds Meet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12583",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vnYEkRJgZ9w1ZL777SGNqNV74b8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "http://www.mindsmeet.eu",
+    "headquarters": "Brussels",
+    "placeholder": true
+  }
+]

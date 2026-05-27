@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kyrgyzfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74486",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pLkapE3cPFdM0695eoawyNavr06.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KG",
+    "homepage": "https://kyrgyzfilm.asia/",
+    "headquarters": "Bishkek",
+    "placeholder": true
+  }
+]

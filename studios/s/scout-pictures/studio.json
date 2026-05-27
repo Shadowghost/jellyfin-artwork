@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Scout Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111912"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

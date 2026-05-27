@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Medieoperatørene",
+    "country": "NO",
+    "homepage": "https://www.mopfilm.com/",
+    "headquarters": "Oslo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31000",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uxejt5KOKd0UagKkJ5jMjpZ0w5r.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

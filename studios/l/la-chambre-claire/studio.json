@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Chambre Claire",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262054",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fsfMWug4uPFyKNA4KjstZh7ffKC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DZ",
+    "homepage": "http://lcc-dz.com",
+    "headquarters": "Algiers",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "RKO Radio Pictures",
+    "country": "US",
+    "headquarters": "New York City",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n53F7K9scQWFXYbrCablqLKqJdp.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

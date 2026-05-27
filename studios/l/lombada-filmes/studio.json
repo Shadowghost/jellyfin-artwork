@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lombada filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210591"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

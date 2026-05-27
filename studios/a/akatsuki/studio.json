@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Akatsuki",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166077",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qcbQGUidmTzuQguUQEEt8PBCRgw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://akatsuki.studio",
+    "headquarters": "Kamiogi, Suginami, Tokyo",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Root Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85420"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

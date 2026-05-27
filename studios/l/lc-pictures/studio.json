@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LC Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80656"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

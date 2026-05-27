@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Attach",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201598"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

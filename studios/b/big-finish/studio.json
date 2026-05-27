@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Big Finish",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55593",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hq6w2d8yBQ1EhgfRMAQhSl0aZbQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.bigfinish.com/",
+    "headquarters": "Berkshire, UK",
+    "placeholder": true
+  }
+]

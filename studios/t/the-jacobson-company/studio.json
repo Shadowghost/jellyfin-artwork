@@ -1,0 +1,29 @@
+[
+  {
+    "name": "The Jacobson Company",
+    "description": "American film and television production company founded by Tom Jacobson, known for producing films such as Pretty in Pink and Ferris Bueller's Day Off.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3638"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AV-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220805"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

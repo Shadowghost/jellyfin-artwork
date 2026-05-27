@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ret film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75676"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

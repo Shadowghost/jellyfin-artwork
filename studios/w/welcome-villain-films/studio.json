@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Welcome Villain Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194844",
+        "logo_uri": "https://image.tmdb.org/t/p/original/in4BKkNrHYJVy13HCBhkUUCyGUp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://welcomevillain.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

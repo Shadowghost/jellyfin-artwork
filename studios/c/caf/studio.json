@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CAF",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202201"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

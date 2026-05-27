@@ -1,0 +1,13 @@
+[
+  {
+    "name": "GathrFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168123"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

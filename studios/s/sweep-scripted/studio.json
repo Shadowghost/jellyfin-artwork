@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sweep Scripted",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "253223"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

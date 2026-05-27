@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Peg-Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42000"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

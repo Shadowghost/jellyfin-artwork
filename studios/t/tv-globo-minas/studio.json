@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TV Globo Minas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179074",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eBh4lBvmUrRMLtibxM9KrNJi12X.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://redeglobo.globo.com/globominas/",
+    "headquarters": "Belo Horizonte, Minas Gerais",
+    "placeholder": true
+  }
+]

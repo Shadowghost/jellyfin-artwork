@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fondo Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92886"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.fondofilmes.com.br/",
+    "headquarters": "Rio de Janeiro RJ",
+    "placeholder": true
+  }
+]

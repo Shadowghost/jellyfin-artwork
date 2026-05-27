@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bardafeu Cinéma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212058",
+        "logo_uri": "https://image.tmdb.org/t/p/original/32QHK5MqnbpXR6zntELgzqeh7x5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "headquarters": "City of Brussels",
+    "placeholder": true
+  }
+]

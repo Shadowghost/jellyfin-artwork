@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CinéCinéma",
+    "country": "FR",
+    "homepage": "https://www.canalplus.com/chaines/cineplus",
+    "headquarters": "1 place du Spectacle 92863 ISSY-LES-MOULINEAUX Cedex 9",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6301",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jma8ZaHq1KAzlXW3v0RswVOWSdn.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

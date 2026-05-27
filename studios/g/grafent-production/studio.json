@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Grafent Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117093"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

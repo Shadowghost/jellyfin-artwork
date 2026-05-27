@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wall to Wall",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16049",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2hb0R2GJ6BvgwmyqO7fIgtjsakt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://walltowall.co.uk",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

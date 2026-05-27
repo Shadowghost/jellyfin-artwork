@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FilmyBox Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70347"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

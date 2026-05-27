@@ -1,0 +1,15 @@
+[
+  {
+    "name": "MLB Network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72744",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u3lqZW2aBxGpMYemkyEDN6EEzh5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

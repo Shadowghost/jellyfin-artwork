@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sonofilmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88174"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

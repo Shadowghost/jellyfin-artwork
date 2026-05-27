@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ilha Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275270"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

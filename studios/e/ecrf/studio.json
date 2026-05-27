@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ECRF",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "293108"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

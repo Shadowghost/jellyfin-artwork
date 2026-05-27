@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bond Age Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142303"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

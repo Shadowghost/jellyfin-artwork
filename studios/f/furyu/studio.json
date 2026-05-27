@@ -1,0 +1,34 @@
+[
+  {
+    "name": "FuRyu",
+    "description": "Japanese entertainment company producing video games, photo booths (Print Club), and character merchandise.",
+    "country": "JP",
+    "type": "studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113034",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hL98ifueUh5UdbiQnTRop1Q551z.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "FuRyu Corporation"
+    ],
+    "template": true,
+    "homepage": "https://www.furyu.jp/"
+  }
+]

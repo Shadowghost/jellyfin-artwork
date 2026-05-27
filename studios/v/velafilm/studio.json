@@ -1,0 +1,17 @@
+[
+  {
+    "name": "VelaFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116320",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sET9qQY72YLenypvprUks9LLc20.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.velafilm.it",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

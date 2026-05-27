@@ -1,0 +1,14 @@
+[
+  {
+    "name": "True Fiction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130830"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "placeholder": true
+  }
+]

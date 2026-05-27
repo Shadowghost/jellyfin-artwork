@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Nova TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94691",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ySrCyLpSCkMa22LRHknR9kGC9hm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HR",
+    "placeholder": true
+  }
+]

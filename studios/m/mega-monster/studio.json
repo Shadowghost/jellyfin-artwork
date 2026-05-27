@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mega Monster",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121610",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gU6Dl3x5DcNFZoRCN5kAXBal0xA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.megamon.co.kr/index.html",
+    "headquarters": "Mapo, Seoul, South Korea",
+    "placeholder": true
+  }
+]

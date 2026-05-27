@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ELBE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60353"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

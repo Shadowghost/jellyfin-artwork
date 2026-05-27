@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mediacast",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10090"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

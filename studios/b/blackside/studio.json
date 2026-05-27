@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Blackside",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88163",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ApeY1l19KC8iVJBwWGzUKgXfKzk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Boston, Massachusetts",
+    "placeholder": true
+  }
+]

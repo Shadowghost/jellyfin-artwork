@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TNT 16:9 production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "298704"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

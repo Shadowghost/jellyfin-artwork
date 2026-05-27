@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film des Auteurs",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249939"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

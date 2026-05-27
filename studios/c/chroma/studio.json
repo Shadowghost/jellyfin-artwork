@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CHROMA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150095",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ahzjpqFBPQLTA3KLAd17HQSDiBv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.chromapresents.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "TMS Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24315"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

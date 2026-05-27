@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Graf Filmproduktion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13084",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wyn3GUl585fF7rQIO0qsn5T73Ra.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "https://www.graffilm.com",
+    "headquarters": "Klagenfurt",
+    "placeholder": true
+  }
+]

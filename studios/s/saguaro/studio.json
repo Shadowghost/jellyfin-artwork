@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Saguaro",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120323"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

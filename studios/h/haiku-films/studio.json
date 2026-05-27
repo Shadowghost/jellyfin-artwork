@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Haïku Films",
+    "country": "FR",
+    "homepage": "https://haikufilms.fr/",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116948",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qWYBY5YYyp2Du3NRInJRKvbu9WF.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pomerania Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56039",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e0v3d3HZYw0th0NBetUSaR2MCyP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://pomeraniafilm.pl/",
+    "headquarters": "Szczecin",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Metron",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147101"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

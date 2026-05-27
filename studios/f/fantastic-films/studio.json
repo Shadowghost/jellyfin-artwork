@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fantastic Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18078",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n9je6Az0niL6B6FuudI3FmkqP0p.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "http://www.fantasticfilms.ie",
+    "headquarters": "Dublin",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Opéra National de Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15355",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bGLlMG6AcL7HcpeOUuFX5XbYJQN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.operadeparis.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Oscar Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200015"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

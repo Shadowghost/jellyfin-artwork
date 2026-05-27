@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Dark Castle Entertainment",
+    "description": "American film production company founded by Joel Silver, Robert Zemeckis and Gilbert Adler that produces horror and thriller films, including House on Haunted Hill and Thir13en Ghosts.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://darkcastle.com/",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1786",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dVSnNBwhb0WW5zGis3HjI6Q66Gp.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

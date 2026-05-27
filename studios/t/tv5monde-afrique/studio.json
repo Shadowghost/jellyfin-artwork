@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TV5MONDE Afrique",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230265",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iIQwdJZZXWVkvcv1050ZchnCEq5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://afrique.tv5monde.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sreda",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86842",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uCPNeQLSVrSsOtLejsNRZTvnFab.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://www.sredatv.ru/en/",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

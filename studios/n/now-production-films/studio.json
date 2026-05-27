@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Now Production Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241805",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lFsaYr2HZhTpFUPBuQ84PfL1nKt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "headquarters": "Seocho, Seoul, South Korea",
+    "placeholder": true
+  }
+]

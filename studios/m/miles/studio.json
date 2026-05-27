@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Miles",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4094",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dI9M09dnQESo5raYSwai21ro1Qb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://miles.tv",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

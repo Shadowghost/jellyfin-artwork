@@ -1,0 +1,14 @@
+[
+  {
+    "name": "LM les Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114794"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cinema Lore Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182408",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m3TzoSyDnrxgHsJnp6gQx0nm82t.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "headquarters": "Córdoba, Argentina",
+    "placeholder": true
+  }
+]

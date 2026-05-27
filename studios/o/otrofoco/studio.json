@@ -1,0 +1,17 @@
+[
+  {
+    "name": "OTROFOCO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142211",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kZR9cJwGWee4XvRAibFNJIELpKX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "http://otrofoco.com/?lang=en",
+    "headquarters": "Providencia, Santiago",
+    "placeholder": true
+  }
+]

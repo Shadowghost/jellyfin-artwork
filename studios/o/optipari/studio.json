@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Optipari",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78981",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xnwqExMcVZy5z4fDc2q9uvWCOzD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "http://www.optipari.fi/",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

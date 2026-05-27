@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Meraki Moving Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92405"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

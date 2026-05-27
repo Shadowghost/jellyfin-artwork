@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mandala Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90188",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cFC4XUATpFyFgMueawJr1rklG9S.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.mandalafilms.fr",
+    "placeholder": true
+  }
+]

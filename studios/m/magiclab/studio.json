@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Magiclab",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77679",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2NQQrorM3yjIkVmlTEqnjg9jdge.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.magiclab.cz",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

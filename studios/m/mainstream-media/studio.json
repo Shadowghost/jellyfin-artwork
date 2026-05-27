@@ -1,0 +1,13 @@
+[
+  {
+    "name": "mainstream_media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "207791"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

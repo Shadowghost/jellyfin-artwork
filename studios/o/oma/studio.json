@@ -1,0 +1,13 @@
+[
+  {
+    "name": "OMA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139422"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "New Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39008"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

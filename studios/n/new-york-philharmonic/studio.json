@@ -1,0 +1,16 @@
+[
+  {
+    "name": "New York Philharmonic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101910"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.nyphil.org",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

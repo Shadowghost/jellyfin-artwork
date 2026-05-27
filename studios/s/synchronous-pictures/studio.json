@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Synchronous Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "269604",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gXOVObd7loU2e3iFPWzCjKVSHGV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.synchronous.tv/",
+    "headquarters": "San Diego, California",
+    "placeholder": true
+  }
+]

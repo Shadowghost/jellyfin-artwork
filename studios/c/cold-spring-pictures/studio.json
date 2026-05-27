@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cold Spring Pictures",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2363"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

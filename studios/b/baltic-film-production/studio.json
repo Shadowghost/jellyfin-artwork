@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Baltic Film Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95085",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a2jrXBJdeqBhA1nMp37CqEQ1T3m.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EE",
+    "homepage": "http://bfp.ee",
+    "headquarters": "Tallinn",
+    "placeholder": true
+  }
+]

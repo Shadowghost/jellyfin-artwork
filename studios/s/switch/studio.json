@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SWITCH",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82876",
+        "logo_uri": "https://image.tmdb.org/t/p/original/CHho9HxGgLhbh6qRJXI6MMUjIx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://switch1.jp",
+    "placeholder": true
+  }
+]

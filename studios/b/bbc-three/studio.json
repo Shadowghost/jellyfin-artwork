@@ -1,0 +1,30 @@
+[
+  {
+    "name": "BBC Three",
+    "description": "British free-to-air public broadcast television channel owned by the BBC, targeting 16-34 year olds; launched in 2003, was online-only from 2016 to 2022, then relaunched as a linear channel.",
+    "country": "GB",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155619",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iBtgKtI1aOA6ZLe9an5IXqn2jn2.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

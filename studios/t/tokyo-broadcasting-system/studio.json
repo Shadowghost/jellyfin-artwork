@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Tokyo Broadcasting System",
+    "description": "Japanese television network headquartered in Tokyo, flagship station of the Japan News Network (JNN) and the TBS Network.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.tbs.co.jp",
+    "headquarters": "Akasaka, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1393",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lUACMATs6jcscXIrzNCQzbvNVN5.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Tokyo Broadcasting System Television"
+    ],
+    "template": true
+  }
+]

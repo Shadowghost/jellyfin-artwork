@@ -1,0 +1,35 @@
+[
+  {
+    "name": "RAI",
+    "description": "Italian public broadcaster operating multiple television and radio channels, including Rai 3 (radiotelevisione italiana).",
+    "country": "IT",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1583",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gKP4egMJOi5rksdnplfPV1wa0sd.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "RAI – Radiotelevisione Italiana"
+    ],
+    "template": true,
+    "homepage": "http://www.rai.it",
+    "headquarters": "Rome"
+  }
+]

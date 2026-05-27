@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Caligari Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22787",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xkttJy7suOtiC4jU6dP0ONiuLOK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.caligari.film",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

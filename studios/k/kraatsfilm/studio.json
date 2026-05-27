@@ -1,0 +1,15 @@
+[
+  {
+    "name": "KraatsFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52656",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oajkynt8dWuIhcblk75xw9r8DT1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "placeholder": true
+  }
+]

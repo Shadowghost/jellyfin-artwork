@@ -1,0 +1,13 @@
+[
+  {
+    "name": "wrongly created",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196019"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

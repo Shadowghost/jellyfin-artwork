@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gobelins",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71552",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hmFPR24kEVCPi6A47x2j6n7qfza.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.gobelins-school.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

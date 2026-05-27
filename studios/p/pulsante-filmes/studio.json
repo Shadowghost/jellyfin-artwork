@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pulsante Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283302"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

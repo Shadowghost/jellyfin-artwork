@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Västerbottens Museum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159099",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a7LKa5w6eeWPQr8N7r4azB7hTi9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.vbm.se/",
+    "headquarters": "Umeå",
+    "placeholder": true
+  }
+]

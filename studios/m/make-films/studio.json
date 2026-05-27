@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Make Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165959",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ie1qPGdWVQ2EGXRMJnVetjtSJIV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://makefilms.cc/",
+    "headquarters": "Lancaster, Pennsylvania",
+    "placeholder": true
+  }
+]

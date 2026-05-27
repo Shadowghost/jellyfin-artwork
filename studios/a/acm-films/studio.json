@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ACM Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123748",
+        "logo_uri": "https://image.tmdb.org/t/p/original/93RuI2P3DxKg4qa5datXOnOyJHW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Score",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13521",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vhfIz1ZVgRXKiNGdS6rodaVqiT8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Florida",
+    "placeholder": true
+  }
+]

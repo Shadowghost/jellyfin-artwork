@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Loulou Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260980",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3UXIRNu6EQaU77IKyfWqKhtbZhH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://louloufilms.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

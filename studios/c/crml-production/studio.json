@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CRML Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17108"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

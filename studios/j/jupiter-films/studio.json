@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jupiter Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12614",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6bV8Vs9UBQVxEc6t80ulutwePmo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.jupiter-films.com/",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

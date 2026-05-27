@@ -1,0 +1,15 @@
+[
+  {
+    "name": "OHIS Skopje",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100424"
+      }
+    ],
+    "artwork": {},
+    "country": "MK",
+    "headquarters": "Skopje",
+    "placeholder": true
+  }
+]

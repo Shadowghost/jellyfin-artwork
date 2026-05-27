@@ -1,0 +1,13 @@
+[
+  {
+    "name": "California Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170395"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

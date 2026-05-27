@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Funny or Die",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21213",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wV3mBqWgfgdRtFEkh6hHpHW9Cb1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.funnyordie.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

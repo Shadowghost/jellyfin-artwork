@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Centro Universitario de Estudios Cinematográficos (CUEC)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27880",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yt24dH6cML0ovAtPMtt4quBeNdA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

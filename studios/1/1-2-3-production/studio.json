@@ -1,0 +1,30 @@
+[
+  {
+    "name": "1-2-3 Production",
+    "country": "RU",
+    "type": "production-company",
+    "headquarters": "Moscow, Russia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113707",
+        "logo_uri": "https://image.tmdb.org/t/p/original/12CETnhPLK0KzlHdBt9FvI6lRqz.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

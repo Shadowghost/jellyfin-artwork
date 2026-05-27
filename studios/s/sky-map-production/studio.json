@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sky Map Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142468"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

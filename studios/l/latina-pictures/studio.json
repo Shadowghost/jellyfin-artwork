@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Latina Pictures",
+    "country": "MT",
+    "homepage": "https://latina.mt/",
+    "headquarters": "Valletta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19108",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jWhpxFZd02PbcFtUSiCraifRZTC.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

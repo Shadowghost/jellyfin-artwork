@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CNRS Images",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13542",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sJ0R9LDMGR5ildYS4GMhQcbKJVD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.cnrs.fr/cnrs-images/index_en.htm",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Hemdale",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3952",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hLfS5FjBQjK5MUNl7kdXgIHSSWy.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

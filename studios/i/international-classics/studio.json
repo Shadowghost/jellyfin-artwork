@@ -1,0 +1,13 @@
+[
+  {
+    "name": "International Classics",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74008"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

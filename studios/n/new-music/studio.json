@@ -1,0 +1,13 @@
+[
+  {
+    "name": "New Music",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "267145"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SLB Fight Night",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "292054"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

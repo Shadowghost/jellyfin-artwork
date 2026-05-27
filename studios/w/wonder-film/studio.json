@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wonder Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290372",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nQAhwl2VfPKC6mAPqEjwG5ROfhG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://wonderfilm.it/",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

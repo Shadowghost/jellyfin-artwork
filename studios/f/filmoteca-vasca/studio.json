@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmoteca Vasca",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256497"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

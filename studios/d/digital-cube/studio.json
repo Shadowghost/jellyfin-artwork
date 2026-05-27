@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Digital Cube",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25383",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cnmcVrWYPRUQZBZoA5VRzRbWoM8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "homepage": "https://digitalcube.ro",
+    "placeholder": true
+  }
+]

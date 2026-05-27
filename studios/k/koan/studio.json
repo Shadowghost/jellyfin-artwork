@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Koan",
+    "country": "US",
+    "homepage": "https://www.koaninc.com/",
+    "headquarters": "Park City, Utah",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10890",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nArKcIpEuzprmCV6AU0nCGZCrTT.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

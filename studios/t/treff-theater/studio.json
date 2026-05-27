@@ -1,0 +1,13 @@
+[
+  {
+    "name": "treff.theater",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "254308"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

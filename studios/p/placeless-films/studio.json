@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Placeless Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209896",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lSTGt3GFAcJHTtc4Y0Iw7c8FEUM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LB",
+    "homepage": "https://www.placelessfilms.com/",
+    "headquarters": "Beirut",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sakdoc Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154804",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AbIG9skS70ySK5LmBbLjl8djyUM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GE",
+    "homepage": "http://sakdoc.ge",
+    "placeholder": true
+  }
+]

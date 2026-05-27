@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films du Point du Jour",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1715"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

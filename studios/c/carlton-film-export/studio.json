@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Carlton Film Export",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "901"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

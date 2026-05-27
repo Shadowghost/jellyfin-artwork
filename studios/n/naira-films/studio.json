@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Naira Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171530",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7qdgkvuIjutOcJqVrIqIWzsLnTz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "http://www.nairafilms.cl",
+    "headquarters": "Santiago, Santiago Metropolitan",
+    "placeholder": true
+  }
+]

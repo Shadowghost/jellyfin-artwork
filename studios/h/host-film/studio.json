@@ -1,0 +1,13 @@
+[
+  {
+    "name": "host film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51969"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

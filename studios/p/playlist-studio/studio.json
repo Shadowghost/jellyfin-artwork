@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Playlist Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126931",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9tzpVbhQGiRP5U8BykqoI7c8a3q.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://playliststudio.kr/",
+    "headquarters": "Gangnam, Seoul, South Korea",
+    "placeholder": true
+  }
+]

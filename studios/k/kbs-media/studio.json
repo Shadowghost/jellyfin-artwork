@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KBS Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77994",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mQcOwCeEkNJV3Iryh4YyKimXXPJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.kbsmedia.co.kr/",
+    "headquarters": "Mapo, Seoul, South Korea",
+    "placeholder": true
+  }
+]

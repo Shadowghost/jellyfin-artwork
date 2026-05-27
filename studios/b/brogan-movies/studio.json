@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Brogan Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202269"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

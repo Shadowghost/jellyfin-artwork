@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Give Thanks",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222753",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jUKLbGMpZACeQt1tRaR7PlT21Pw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "New York, New York",
+    "placeholder": true
+  }
+]

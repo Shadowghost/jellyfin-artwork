@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ApolloMedia",
+    "country": "DE",
+    "homepage": "http://www.apollomedia.de/",
+    "headquarters": "Neubiberg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16850"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

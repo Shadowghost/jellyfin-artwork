@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GENCO",
+    "country": "JP",
+    "homepage": "http://www.genco.co.jp",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5751",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ex1dPOOB27kWLhhhh9gsngxBRLI.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

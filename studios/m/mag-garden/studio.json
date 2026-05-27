@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MAG Garden",
+    "country": "JP",
+    "homepage": "https://www.mag-garden.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161320",
+        "logo_uri": "https://image.tmdb.org/t/p/original/itvRP61jpTifMztVZt7Zr0EDbR9.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Select Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87424"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

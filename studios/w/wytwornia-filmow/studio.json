@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Wytwórnia Filmów",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290985"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

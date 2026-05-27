@@ -1,0 +1,16 @@
+[
+  {
+    "name": "JRH Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "61886",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bA8FOVm4TKNnvGbUBOCKuFRqflA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.jrhfilms.org/",
+    "placeholder": true
+  }
+]

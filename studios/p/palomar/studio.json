@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Palomar",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7699",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fHasfMWVRXGOmao2p1ijwicv9f4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://palomaronline.com",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

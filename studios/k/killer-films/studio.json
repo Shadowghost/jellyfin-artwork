@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Killer Films",
+    "country": "US",
+    "homepage": "http://www.killerfilms.com/",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1422",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rIB6DuimR1qgLE14cBwpMABC2xx.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

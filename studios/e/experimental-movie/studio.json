@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Experimental Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "277167"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

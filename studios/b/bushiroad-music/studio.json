@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bushiroad Music",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204799",
+        "logo_uri": "https://image.tmdb.org/t/p/original/auxX8eAtiL9lHwTfSr6lGdSAGLm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://bushiroad-music.com",
+    "placeholder": true
+  }
+]

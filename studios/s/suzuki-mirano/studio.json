@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Suzuki Mirano",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20114",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zYxju33SIHUNHY5Y1cWn2oYxh5O.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.suzukimirano.com/",
+    "placeholder": true
+  }
+]

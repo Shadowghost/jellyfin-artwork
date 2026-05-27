@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Change Content",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155001"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://changecontent.com",
+    "placeholder": true
+  }
+]

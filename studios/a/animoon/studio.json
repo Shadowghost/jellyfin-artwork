@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Animoon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88672",
+        "logo_uri": "https://image.tmdb.org/t/p/original/meFXC1APvM2kb6nxpOhHF1I9w9G.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://animoon.pl/en/",
+    "headquarters": "Warsaw, Poland",
+    "placeholder": true
+  }
+]

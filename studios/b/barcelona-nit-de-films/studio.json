@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Barcelona Nit de Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280050"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

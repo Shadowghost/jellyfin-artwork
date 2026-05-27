@@ -1,0 +1,13 @@
+[
+  {
+    "name": "hémisphère sud",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99406"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Panda",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17727",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wsFoLgLvaS1FaYBt0pJ1LJ9v3cB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.lapandaproductions.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

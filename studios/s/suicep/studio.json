@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SUICEP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201013"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

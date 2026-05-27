@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Leyenda Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224809",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9o5HIZxfby42es6BKzsmUcUS42r.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://leyenda.film/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

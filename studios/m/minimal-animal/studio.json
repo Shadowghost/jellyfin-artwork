@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Minimal Animal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62576",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hxKWA5KMzhXO6IvkN1BPKdSL1MV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TH",
+    "headquarters": "Bangkok",
+    "placeholder": true
+  }
+]

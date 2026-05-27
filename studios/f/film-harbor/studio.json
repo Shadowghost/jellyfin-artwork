@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Harbor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122189"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

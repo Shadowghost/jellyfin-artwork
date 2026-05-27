@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Proyecciones Terrestres",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144665"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

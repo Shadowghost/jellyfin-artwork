@@ -1,0 +1,14 @@
+[
+  {
+    "name": "OnBuzz",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109032"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Grove Recording",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275002"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

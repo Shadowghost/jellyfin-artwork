@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Sony Music Solutions",
+    "description": "Japanese music and media company, a subsidiary of Sony Music Entertainment Japan handling content production, distribution, and IP services.",
+    "country": "JP",
+    "type": "record-label",
+    "homepage": "https://www.sonymusicsolutions.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185075",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bJxpTD3a22ySiC4FhPFgrvoijSA.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Facebook Watch",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "298861",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mxd1iKmfRFRAo9bVImJHcxe7lAm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Menlo Park, California, United States",
+    "placeholder": true
+  }
+]

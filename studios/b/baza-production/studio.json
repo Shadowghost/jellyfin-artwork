@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Baza Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113689"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Zhulang",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192570",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l7wZbtu8iT6q4bky6QYwGDsAOxm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://www.zhulang.com/",
+    "placeholder": true
+  }
+]

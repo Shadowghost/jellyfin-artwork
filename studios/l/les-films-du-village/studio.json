@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Les Films du Village",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94621"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

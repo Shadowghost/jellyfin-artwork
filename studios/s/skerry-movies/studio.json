@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Skerry Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211351"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

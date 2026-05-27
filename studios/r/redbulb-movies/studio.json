@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Redbulb Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165516"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

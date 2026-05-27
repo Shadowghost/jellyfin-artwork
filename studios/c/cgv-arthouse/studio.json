@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CGV Arthouse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "68969",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xXKhzWIdhsAlekyg0GTNZUkvQc1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.cgv.co.kr",
+    "headquarters": "Yongsan, Seoul, South Korea",
+    "placeholder": true
+  }
+]

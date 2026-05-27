@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Big Pond Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142781",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5g8BP15Tk6UWXpBglIQaQliOLAi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://bigpondpictures.com/",
+    "headquarters": "Atlanta, GA",
+    "placeholder": true
+  }
+]

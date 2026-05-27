@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Box Office",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141604"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Drama Svecia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55652",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yRplEJuMTOpnHCk7tQjZOHXiC91.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.dramasvecia.se/",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

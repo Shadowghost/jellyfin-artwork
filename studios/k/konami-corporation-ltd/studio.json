@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Konami Group Corporation",
+    "description": "Japanese multinational video game, entertainment, gaming, gambling, and conglomerate company headquartered in Tokyo.",
+    "country": "JP",
+    "type": "production-company",
+    "colors": [
+      {
+        "name": "Konami Red",
+        "hex": "#E60012"
+      }
+    ],
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "jpscinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88210"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Kvikmyndafélag Íslands",
+    "country": "IS",
+    "headquarters": "Reykjavík",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96653"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

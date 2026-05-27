@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mono Ambiente",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275888"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

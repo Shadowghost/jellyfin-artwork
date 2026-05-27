@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Buen Día Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102040",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w6LhfKouApyyRhRZO7QyDqQydRZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://buendiafilms.wixsite.com/buendiafilms",
+    "placeholder": true
+  }
+]

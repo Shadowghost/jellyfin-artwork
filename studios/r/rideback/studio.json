@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rideback",
+    "country": "US",
+    "homepage": "https://rideback.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118854",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g9LPNlQFoDcHjfnvrEqFmeIaDrZ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

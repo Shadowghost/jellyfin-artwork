@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CASA Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84725",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w8eRLYYDx3BQECnEkPJfhnLEAdk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://casafilms.ca",
+    "placeholder": true
+  }
+]

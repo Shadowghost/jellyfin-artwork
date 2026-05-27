@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Anifilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "54973"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.anifilmstudio.cz",
+    "headquarters": "Prague, Czech Republic",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Prediction Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "298271"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

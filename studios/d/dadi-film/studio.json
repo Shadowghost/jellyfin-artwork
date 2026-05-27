@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Dadi Film",
+    "country": "CN",
+    "homepage": "http://www.dadifilm.com/",
+    "headquarters": "Beijing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5431"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

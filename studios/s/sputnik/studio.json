@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sputnik",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "706",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sFx1ev5v65J38r3JyHkkHtXrOrI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

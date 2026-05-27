@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Vestron Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32326",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zY6GIHwPipSz85cBYtr9N7ukQhw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

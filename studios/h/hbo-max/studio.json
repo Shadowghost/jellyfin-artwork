@@ -1,0 +1,38 @@
+[
+  {
+    "name": "HBO Max",
+    "description": "American streaming service operated by Warner Bros. Discovery, rebranded from HBO Max to Max in 2023 and back to HBO Max in 2025.",
+    "country": "US",
+    "type": "streaming-service",
+    "homepage": "https://www.hbomax.com",
+    "headquarters": "New York City, New York",
+    "colors": [
+      {
+        "name": "HBO Max Purple",
+        "hex": "#9E1AFC"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158691",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ii76VYy2bGTSSfVK8N5MOTjBxIZ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

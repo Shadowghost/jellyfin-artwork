@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Scientific News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98363"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

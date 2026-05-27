@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BR-alpha",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29346"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

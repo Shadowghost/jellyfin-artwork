@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Nomad Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135051",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wnQCxBaUoLQFe6ipoppFTGrLnmN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://vimeo.com/nomadcinema",
+    "placeholder": true
+  }
+]

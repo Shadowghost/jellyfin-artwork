@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fachhochschule Vorarlberg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271609",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tROAfsZQ1Bv3RVylMRAHUeCRvov.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "https://www.fhv.at/",
+    "headquarters": "Dornbirn",
+    "placeholder": true
+  }
+]

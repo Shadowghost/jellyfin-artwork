@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Bild- und Filmamt (BuFA)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218029"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

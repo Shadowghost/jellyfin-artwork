@@ -1,0 +1,16 @@
+[
+  {
+    "name": "OCCRP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182517",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jayDNNc3q36yjTNgo7P4wWC2N3I.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.occrp.org/",
+    "placeholder": true
+  }
+]

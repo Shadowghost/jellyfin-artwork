@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Sunday Night Productions",
+    "description": "American film and television production company founded by John Krasinski and Allyson Seeger; produced the A Quiet Place franchise and IF (2024).",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29312",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6yOnS9H3msf0cz0E5REbfX4Ehdz.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Lightservice",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122521"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

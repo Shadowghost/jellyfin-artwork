@@ -1,0 +1,14 @@
+[
+  {
+    "name": "InterCom",
+    "country": "HU",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3387"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

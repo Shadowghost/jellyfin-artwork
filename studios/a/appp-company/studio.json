@@ -1,0 +1,16 @@
+[
+  {
+    "name": "APPP Company",
+    "country": "JP",
+    "homepage": "http://appp.web.fc2.com",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6559"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

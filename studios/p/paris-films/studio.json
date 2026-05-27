@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Paris Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176099"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

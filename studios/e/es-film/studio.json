@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ES Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101596"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

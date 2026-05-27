@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Oriizon production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220470"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

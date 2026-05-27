@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MTA Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137119",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1gKdPpjjCXhasVOnlqs7rQ7y306.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.mtafilm.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

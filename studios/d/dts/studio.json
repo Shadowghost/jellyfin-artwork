@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DTS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30412"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

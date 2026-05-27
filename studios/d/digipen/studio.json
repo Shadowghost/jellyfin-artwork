@@ -1,0 +1,16 @@
+[
+  {
+    "name": "DigiPen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202601"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.digipen.es/",
+    "headquarters": "Bilbao, Spain",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tiempo Libre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140209",
+        "logo_uri": "https://image.tmdb.org/t/p/original/htadc5aBoZqFiUOiDwJcdweaEkK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PE",
+    "homepage": "https://www.tiempo-libre.org/",
+    "headquarters": "Quillabamba",
+    "placeholder": true
+  }
+]

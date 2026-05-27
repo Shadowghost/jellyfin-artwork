@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LEF",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201906"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TH Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271813",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c1UMiDKcRdPfyBruNeFLkT9V9qj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ZA",
+    "homepage": "https://www.thfilms.net/",
+    "headquarters": "Cape Town",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinema Prime Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8549"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

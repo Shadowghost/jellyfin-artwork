@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Decipher Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84606"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

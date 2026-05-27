@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Autour de Minuit",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12434",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9rfMaAC5f84cCmmVmYv29nGkdY1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://blog.autourdeminuit.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

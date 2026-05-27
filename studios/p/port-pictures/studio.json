@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Port Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99826",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9HcPBb8b6HVT1h8kKD1avXMIgqj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "http://www.portpictures.ie",
+    "headquarters": "Dublin",
+    "placeholder": true
+  }
+]

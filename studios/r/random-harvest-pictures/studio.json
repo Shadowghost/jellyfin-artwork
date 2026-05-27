@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Random Harvest Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36973"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

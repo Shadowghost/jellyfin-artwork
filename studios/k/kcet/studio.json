@@ -1,0 +1,32 @@
+[
+  {
+    "name": "KCET",
+    "description": "American independent public television station licensed to Los Angeles, California, operated by the Public Media Group of Southern California.",
+    "country": "US",
+    "type": "broadcast-network",
+    "homepage": "https://www.kcet.org/",
+    "headquarters": "Los Angeles, CA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20404",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5qbeKB2Hq7ItbUQHrfTOUBQE9ta.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

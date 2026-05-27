@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AStory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87422",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yipyNbVGcdyUtss9RtA4i7Zkkey.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://astory.co.kr/",
+    "headquarters": "Mapo, Seoul, South Korea",
+    "placeholder": true
+  }
+]

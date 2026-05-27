@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Brain Academy",
+    "country": "SE",
+    "homepage": "https://www.brainacademy.se/",
+    "headquarters": "Stockholm, Sweden",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119139"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "RemotedPictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175483"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

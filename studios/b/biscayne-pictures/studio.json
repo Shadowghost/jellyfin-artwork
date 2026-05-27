@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Biscayne Pictures",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20450"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

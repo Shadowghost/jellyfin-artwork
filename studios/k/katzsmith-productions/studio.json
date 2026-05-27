@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KatzSmith Productions",
+    "country": "US",
+    "homepage": "http://www.katzsmith.com/",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87671",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kEEGB5Z2XLYeR3AMt3Qds7vMnvM.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

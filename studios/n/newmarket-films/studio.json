@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Newmarket Films",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7tRG0ZsmtptmzPMKupd1FZkjtnn.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

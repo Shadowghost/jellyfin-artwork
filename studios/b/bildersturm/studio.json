@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bildersturm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8048"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

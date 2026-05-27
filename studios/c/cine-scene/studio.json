@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ciné-Scène",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169066"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

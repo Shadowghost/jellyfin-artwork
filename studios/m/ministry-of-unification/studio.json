@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ministry of Unification",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118241",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6qXNtjq7K7i7bifFGmXn5EaF8vG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.unikorea.go.kr",
+    "headquarters": "Jongno, Seoul, South Korea",
+    "placeholder": true
+  }
+]

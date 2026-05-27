@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Red Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81385",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8GOLEqNgbUgPK4K3tT0RlzfL9GB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "homepage": "http://www.redproduction.rs/",
+    "headquarters": "Belgrade",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Boxoffice International Pictures (BIP)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15346"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Global Screen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62277",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l6NXvlqcbRIe5BKG9cwDVqjCWlO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.globalscreen.de",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Catseyecinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215957",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vndlPfpBKOzcHIHd1csWmOhJA5L.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.catseyecinema.com/",
+    "headquarters": "St. John's, Newfoundland and Labrador, Canada",
+    "placeholder": true
+  }
+]

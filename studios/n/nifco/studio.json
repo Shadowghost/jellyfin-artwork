@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NIFCO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192168",
+        "logo_uri": "https://image.tmdb.org/t/p/original/79892TUkSsRilVFc8sFgtT9Inix.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://nifco.org/",
+    "headquarters": "St. John's, Newfoundland and Labrador, Canada",
+    "placeholder": true
+  }
+]

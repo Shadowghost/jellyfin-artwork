@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CNRS-INSU",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "235588",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wcqugIplHwauY1uDITnYjfp2DOl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.insu.cnrs.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

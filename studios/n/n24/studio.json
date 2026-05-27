@@ -1,0 +1,16 @@
+[
+  {
+    "name": "N24",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19518",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1dmD88GE8Y5YRtVdhy9yI3pxovK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.n24.de",
+    "placeholder": true
+  }
+]

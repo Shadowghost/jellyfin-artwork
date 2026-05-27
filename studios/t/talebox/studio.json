@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TaleBox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180097",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6GozUP8NeLRyVOzngHecGpOZYIa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JO",
+    "homepage": "https://talebox.org",
+    "headquarters": "Amman",
+    "placeholder": true
+  }
+]

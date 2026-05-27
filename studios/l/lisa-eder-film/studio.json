@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lisa Eder Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154021",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5Maifo326Jxszr5rTpJhzTJLKPU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.lisaederfilm.de",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

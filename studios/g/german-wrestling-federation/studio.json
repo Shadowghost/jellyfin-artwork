@@ -1,0 +1,17 @@
+[
+  {
+    "name": "German Wrestling Federation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109041",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qpOiTDvvvwgnopj3B6BUMrkt1C5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.gwf-wrestling.com/",
+    "headquarters": "Berlin, Deutschland",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "So Much Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134675",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pLVVSSaQJNrnrvFSoUalQG4nPJf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.somuchfilm.com/",
+    "headquarters": "New York City, New York, USA",
+    "placeholder": true
+  }
+]

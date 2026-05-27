@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Wasserman Boxing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184855",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zId7lpefZWXFJXTtK3nK9hX8B29.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://wassermanboxing.com/"
+  }
+]

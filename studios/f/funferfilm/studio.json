@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fünferfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113815",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zXorvkMUtmzF2LBhp8k81faxOTz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.fuenferfilm.de/",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

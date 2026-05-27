@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinema en curs",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212210"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

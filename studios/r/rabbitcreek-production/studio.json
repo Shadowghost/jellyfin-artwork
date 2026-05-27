@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Rabbitcreek Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141969"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

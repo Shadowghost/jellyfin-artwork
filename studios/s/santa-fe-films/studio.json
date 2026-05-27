@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Santa Fe Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90508"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

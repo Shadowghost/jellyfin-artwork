@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Marvel Characters",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213000"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "West Palm Beach, Florida",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "MRT Sat",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230260"
+      }
+    ],
+    "artwork": {},
+    "country": "MK",
+    "placeholder": true
+  }
+]

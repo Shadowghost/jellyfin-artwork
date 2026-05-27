@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FokusFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21706"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

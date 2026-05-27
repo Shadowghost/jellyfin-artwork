@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FilmWorks",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7786"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

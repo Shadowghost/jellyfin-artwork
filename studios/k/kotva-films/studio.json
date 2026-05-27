@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kotva Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "59030",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j2mEJq4OdzIO2pOIQPeDW47yUHb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://kotvafilms.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

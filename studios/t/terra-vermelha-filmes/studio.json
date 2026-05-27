@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Terra Vermelha Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143097",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n9C5YuYCzXYRQFWJTsLOFDvqDWR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://the-red.space",
+    "headquarters": "Rio de Janeiro",
+    "placeholder": true
+  }
+]

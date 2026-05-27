@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SIGLO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75054",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bTjp9kFYInvPhD2nxjB7hVOZQG8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.cine.co.jp",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wild Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102273",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6Xh9LWt7lAKxy2dptUgPS47CFJV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://www.wildpictures.co.uk/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

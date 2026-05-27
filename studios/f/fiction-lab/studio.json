@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fiction Lab",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9361"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

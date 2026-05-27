@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TV7 Bordeaux",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135235",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tnA5r5wmFK6EAv4LVSXfll83kRH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.sudouest.fr/lachainetv7/",
+    "headquarters": "Bordeaux",
+    "placeholder": true
+  }
+]

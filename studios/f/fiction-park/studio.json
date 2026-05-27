@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fiction Park",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160071",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yl7TQ8q3YvNZiHRiqPSl4C8V9If.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://fictionpark.com",
+    "headquarters": "Dusseldorf, North Rhine-Westphalia",
+    "placeholder": true
+  }
+]

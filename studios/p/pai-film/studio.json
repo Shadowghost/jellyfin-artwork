@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PAI-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264849"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Discovery Studios",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53648",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7Tf6h6kMbVMvlNJPvrnxz1UcYtL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

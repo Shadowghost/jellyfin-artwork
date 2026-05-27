@@ -1,0 +1,17 @@
+[
+  {
+    "name": "OVERLAP",
+    "country": "JP",
+    "homepage": "https://over-lap.co.jp/",
+    "headquarters": "Shinagawa, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173072",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yzjCLHAKJaU4TaqoKMRn7DopNnr.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

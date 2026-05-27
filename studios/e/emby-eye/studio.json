@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Emby Eye",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96076"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

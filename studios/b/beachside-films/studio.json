@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Beachside Films",
+    "country": "US",
+    "homepage": "http://b-side.net",
+    "headquarters": "Venice, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56403",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uXT3YDtWe3lvMullnwk51l4UikF.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

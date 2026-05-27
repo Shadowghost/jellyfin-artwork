@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Swiss Petite Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28125",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rdm3w7YxbkKlYgK8kGVsNRiOMZo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.swisspetitefilms.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

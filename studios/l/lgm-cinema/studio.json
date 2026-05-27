@@ -1,0 +1,16 @@
+[
+  {
+    "name": "LGM Cinéma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85237",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ddnvmEV5SqUxlglHCn6p9l5bjhX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

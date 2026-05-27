@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Voir le Jour",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208440",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k7EGY3ZHV32o0nWhpvN5hVcxyZC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.voirlejour.com/",
+    "headquarters": "Levallois-Perret",
+    "placeholder": true
+  }
+]

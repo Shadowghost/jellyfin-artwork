@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Samaco Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "284278",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3z2XRMUYwdhSjAzHyzIwM4N1iQB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.samacofilms.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

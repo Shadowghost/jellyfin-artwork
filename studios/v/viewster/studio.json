@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Viewster",
+    "description": "Swiss-based video-on-demand and ad-supported streaming platform that specialized in anime and indie content; ceased operations in 2018.",
+    "country": "CH",
+    "type": "streaming-service",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

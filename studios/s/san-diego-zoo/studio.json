@@ -1,0 +1,13 @@
+[
+  {
+    "name": "San Diego Zoo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10064"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

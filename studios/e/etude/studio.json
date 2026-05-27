@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Etude",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36000"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

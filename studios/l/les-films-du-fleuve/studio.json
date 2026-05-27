@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films du Fleuve",
+    "country": "BE",
+    "homepage": "http://www.lesfilmsdufleuve.be",
+    "headquarters": "Liège",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1926",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eSnbNBmDyok9rcpWxYRaBjTaq1n.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

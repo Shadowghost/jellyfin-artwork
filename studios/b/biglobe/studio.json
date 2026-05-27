@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Biglobe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25456"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

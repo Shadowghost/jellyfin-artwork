@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Gazprom-Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106390"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://www.gazprom-media.com/",
+    "placeholder": true
+  }
+]

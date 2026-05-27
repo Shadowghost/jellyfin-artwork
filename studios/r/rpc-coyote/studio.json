@@ -1,0 +1,13 @@
+[
+  {
+    "name": "RPC Coyote",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173955"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

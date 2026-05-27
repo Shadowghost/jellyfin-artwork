@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Whisper",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53701",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vqQ5l4ihOMPQtvGe0qGkSenSkwK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.whisper.tv",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

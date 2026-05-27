@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PFX",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117604",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hHAOkqSR2G3jh4Ui5I6ICLI4KTG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://pfx.tv",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

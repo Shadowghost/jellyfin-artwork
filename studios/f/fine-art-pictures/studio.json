@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Fine Art Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "227098"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

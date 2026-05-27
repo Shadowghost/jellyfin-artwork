@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Watson Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283508"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

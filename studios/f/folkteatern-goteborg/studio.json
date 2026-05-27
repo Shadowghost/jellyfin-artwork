@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Folkteatern Göteborg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3761",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6dQZJcgTSi3yMtCDhlwkWyC1VlG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.folkteatern.se/",
+    "headquarters": "Gothenburg, Sweden",
+    "placeholder": true
+  }
+]

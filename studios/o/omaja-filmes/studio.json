@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Omaja Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208801"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "http://omaja.pt",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Framepool",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109776",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fsDEkI4WaycsGwB0QwZ9CioA70A.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.framepool.com",
+    "headquarters": "München",
+    "placeholder": true
+  }
+]

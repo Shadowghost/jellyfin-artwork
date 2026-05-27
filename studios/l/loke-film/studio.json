@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Loke Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115472",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bDQ6FyHv80DgZfRU14mJP9Ah1Vk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "http://www.lokefilm.dk",
+    "headquarters": "København",
+    "placeholder": true
+  }
+]

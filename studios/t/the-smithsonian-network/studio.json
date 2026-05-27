@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Smithsonian Network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137140",
+        "logo_uri": "https://image.tmdb.org/t/p/original/24Gu0QzuDp6umZ3qgnwAru6KiiC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://smithsonianapa.org/",
+    "placeholder": true
+  }
+]

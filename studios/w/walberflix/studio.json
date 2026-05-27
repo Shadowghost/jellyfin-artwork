@@ -1,0 +1,13 @@
+[
+  {
+    "name": "WalberFlix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256719"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

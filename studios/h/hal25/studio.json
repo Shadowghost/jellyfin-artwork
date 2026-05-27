@@ -1,0 +1,14 @@
+[
+  {
+    "name": "hal25",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226086"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "placeholder": true
+  }
+]

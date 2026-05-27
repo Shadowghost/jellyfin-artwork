@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Beijing C2M Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100128"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "placeholder": true
+  }
+]

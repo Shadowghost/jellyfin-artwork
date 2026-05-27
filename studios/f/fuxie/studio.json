@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fuxie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "232362",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xZMJCHbI28KyFodxEeFNqEgtWpB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://fuxie.me/",
+    "placeholder": true
+  }
+]

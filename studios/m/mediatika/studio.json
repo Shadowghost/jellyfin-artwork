@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mediatika",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142916",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8y4LVHK9vevxkEMSWCWR2yFwufc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://mediatika.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

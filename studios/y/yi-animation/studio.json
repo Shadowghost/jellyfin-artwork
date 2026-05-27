@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Yi Animation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143170",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qkMrUYPfXCpCDndZG9w5H1qgfvU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://yianimation.com",
+    "placeholder": true
+  }
+]

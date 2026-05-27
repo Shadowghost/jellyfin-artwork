@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Geneon Entertainment",
+    "description": "Japanese anime, music and film production/distribution company that merged with Universal Pictures Japan to form NBCUniversal Entertainment Japan.",
+    "country": "JP",
+    "type": "distributor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3362",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mGMVj7tbY41dNXK00X58CQpxbPs.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

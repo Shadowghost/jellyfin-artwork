@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Doghouse Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100868",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8XxPoZ43it61gOpZg65jXEQDR2t.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Room for Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108999",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cf0Q1lKptICF4BNXaNmdTSEV3e9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.roomforfilm.com/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

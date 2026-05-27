@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Art Service",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183190",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rxamZv0TDERmxRWj4cJADRcNs0v.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "placeholder": true
+  }
+]

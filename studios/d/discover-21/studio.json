@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Discover 21",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "288024",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hs2xdRzOO3m2QmsVI8b9MoPctYZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://d21.co.jp/",
+    "placeholder": true
+  }
+]

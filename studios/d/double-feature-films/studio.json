@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Double Feature Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tQyeqkCj24krhY2W8qeAztcOS37.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

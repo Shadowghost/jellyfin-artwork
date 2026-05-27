@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Maison de Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9092"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

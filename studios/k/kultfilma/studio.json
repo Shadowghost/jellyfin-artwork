@@ -1,0 +1,16 @@
+[
+  {
+    "name": "KULTFILMA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112129"
+      }
+    ],
+    "artwork": {},
+    "country": "LV",
+    "homepage": "https://kultfilma.lv/kultfilma-eng",
+    "headquarters": "Riga",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fujifilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221918",
+        "logo_uri": "https://image.tmdb.org/t/p/original/90JuwDf1yBC2obmtC796ZdScqTR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://global.fujifilm.com/en/",
+    "headquarters": "Tokyo, Japan",
+    "placeholder": true
+  }
+]

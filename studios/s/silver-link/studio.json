@@ -1,0 +1,35 @@
+[
+  {
+    "name": "SILVER LINK.",
+    "description": "Japanese animation studio founded in 2007 by former SHAFT producer Nobuhiro Osawa; known for Non Non Biyori, The Honor Student at Magic High School, and Watamote.",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "http://www.silverlink.co.jp",
+    "headquarters": "Mitaka, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34525",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j9D2XIsKOSu6DHQCDd4Jue5gl00.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Silver Link"
+    ],
+    "template": true
+  }
+]

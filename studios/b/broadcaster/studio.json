@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Broadcaster",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182052"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "UABI Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240706"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

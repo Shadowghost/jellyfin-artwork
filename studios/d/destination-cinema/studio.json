@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Destination Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4155"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

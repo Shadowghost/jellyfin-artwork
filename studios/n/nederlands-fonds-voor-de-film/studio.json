@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nederlands Fonds voor de Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4508",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sUq2S2ndKxp1B2NjbMJbSNlPI8V.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "http://www.filmfonds.nl",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

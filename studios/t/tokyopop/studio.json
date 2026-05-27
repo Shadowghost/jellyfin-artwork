@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TOKYOPOP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22641",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cGmk6OeUBXa5ITXexZdRuSKZ3M6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://tokyopop.com",
+    "headquarters": "Marina del Rey, California",
+    "placeholder": true
+  }
+]

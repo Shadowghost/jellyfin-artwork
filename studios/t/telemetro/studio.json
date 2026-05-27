@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Telemetro",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135519",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yKfhkzvurAGTdeL3v5ZlPd1C1og.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PA",
+    "homepage": "https://www.telemetro.com/",
+    "headquarters": "Ciudad de Panamá",
+    "placeholder": true
+  }
+]

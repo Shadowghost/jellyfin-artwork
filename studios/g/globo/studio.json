@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Globo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "297233",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jVwIm34Nyt8fn0iEu4GoqYOdekA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://somos.globo.com/",
+    "headquarters": "Rio de Janeiro",
+    "placeholder": true
+  }
+]

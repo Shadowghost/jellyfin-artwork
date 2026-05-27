@@ -1,0 +1,13 @@
+[
+  {
+    "name": "terfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89547"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

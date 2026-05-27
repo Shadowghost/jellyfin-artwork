@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Viz Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4261",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5yw1cGYcGYDTEsFmG9aaaBySMDw.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

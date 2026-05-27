@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ModernVideoFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7303"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TRAC FILM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83586"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

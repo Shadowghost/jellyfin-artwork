@@ -1,0 +1,15 @@
+[
+  {
+    "name": "AtomFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30241"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "San Francisco, California, United States",
+    "placeholder": true
+  }
+]

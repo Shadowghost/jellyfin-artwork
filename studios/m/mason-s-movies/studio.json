@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mason's Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99843"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Zefix-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256073"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

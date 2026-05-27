@@ -1,0 +1,16 @@
+[
+  {
+    "name": "FlixOlé",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123935"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://flixole.com",
+    "headquarters": "Pozuelo de Alarcón, Madrid",
+    "placeholder": true
+  }
+]

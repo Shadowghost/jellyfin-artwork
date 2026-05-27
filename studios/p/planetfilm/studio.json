@@ -1,0 +1,13 @@
+[
+  {
+    "name": "planetfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215090"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

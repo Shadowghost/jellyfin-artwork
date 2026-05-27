@@ -1,0 +1,13 @@
+[
+  {
+    "name": "GLOMC filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280080"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

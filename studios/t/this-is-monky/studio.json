@@ -1,0 +1,16 @@
+[
+  {
+    "name": "This Is Monky",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204075",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5xo9aNcMJl0yWm9L5vtu0YgeRBg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Folsom, CA",
+    "placeholder": true
+  }
+]

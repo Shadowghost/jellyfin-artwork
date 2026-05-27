@@ -1,0 +1,13 @@
+[
+  {
+    "name": "scena film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4208"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

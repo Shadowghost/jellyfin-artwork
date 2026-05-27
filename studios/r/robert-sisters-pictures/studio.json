@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Robert Sisters Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201125",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aUBxFaDrLTQmngeVy7ogwtANBXp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.robertsisters.com/",
+    "headquarters": "New York, New York",
+    "placeholder": true
+  }
+]

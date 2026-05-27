@@ -1,0 +1,17 @@
+[
+  {
+    "name": "LEPES USP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202785",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dP2QSGiS8rzLkkdWFXTRIxFOP05.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://lepes.fearp.usp.br/",
+    "headquarters": "São Paulo",
+    "placeholder": true
+  }
+]

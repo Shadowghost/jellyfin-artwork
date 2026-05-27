@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nexon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197322",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sLVPDIsY8kNO9ty1Q2JLxVyyLZT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.nexon.com/Home/Game",
+    "headquarters": "Seongnam, Gyeonggi, South Korea",
+    "placeholder": true
+  }
+]

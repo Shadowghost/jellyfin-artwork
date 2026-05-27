@@ -1,0 +1,16 @@
+[
+  {
+    "name": "HI-AX",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101787",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5SZj2fjasE3YsKU6oZ8BzJ0OneY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://team.hi-ax.com",
+    "placeholder": true
+  }
+]

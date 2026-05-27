@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ironic Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69327"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

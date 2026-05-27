@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gore-Tex",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199300",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5tQO8qI2ScWtgWEIY2lJzKy2r9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.gore-tex.com",
+    "headquarters": "Newark, Delaware",
+    "placeholder": true
+  }
+]

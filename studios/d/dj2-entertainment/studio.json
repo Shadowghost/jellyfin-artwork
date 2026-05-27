@@ -1,0 +1,16 @@
+[
+  {
+    "name": "dj2 Entertainment",
+    "country": "US",
+    "homepage": "https://www.dj2entertainment.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100711",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7ThCwVN5RTQXG1Qq9IyDWsUnoMZ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

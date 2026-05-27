@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Acteon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33692"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.acteon.es/?l=en",
+    "headquarters": "Barcelona",
+    "placeholder": true
+  }
+]

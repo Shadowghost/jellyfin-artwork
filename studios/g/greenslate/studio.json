@@ -1,0 +1,16 @@
+[
+  {
+    "name": "GreenSlate",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100800",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5LWNETsQnPDOamgCHKA4lyNVYrH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://greenslate.com",
+    "placeholder": true
+  }
+]

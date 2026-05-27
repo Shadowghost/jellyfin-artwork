@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MaxMa Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112837",
+        "logo_uri": "https://image.tmdb.org/t/p/original/53dyQTKqyCEIsKqYG5grNcPynEO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://maxmafilm.de",
+    "headquarters": "Mannheim, Germany",
+    "placeholder": true
+  }
+]

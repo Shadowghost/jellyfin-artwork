@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CinemaPlay",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113403"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

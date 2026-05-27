@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Still Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110311",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vcjtYTCHjeJZYSsBLmrxycTIMcc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "https://www.stillfilms.org",
+    "headquarters": "Dublin, Ireland",
+    "placeholder": true
+  }
+]

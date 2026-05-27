@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinevent",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2215"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mounttec",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230001"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

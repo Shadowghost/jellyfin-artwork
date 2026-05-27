@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Moving Picture Company",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133323"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

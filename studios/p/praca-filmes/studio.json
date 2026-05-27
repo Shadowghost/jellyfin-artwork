@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Praça Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124158",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cCekYZ4B8m40JLy3vEhRx6gwsPD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "https://pracafilmes.pt",
+    "headquarters": "Montemor-o-Novo",
+    "placeholder": true
+  }
+]

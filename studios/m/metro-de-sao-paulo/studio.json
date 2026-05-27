@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Metrô de São Paulo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "291383"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

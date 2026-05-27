@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Prelude Content",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260500"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

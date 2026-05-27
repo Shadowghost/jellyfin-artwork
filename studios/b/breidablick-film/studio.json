@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Breidablick Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8269",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xL0PRW4PM3TYoh4sQqqpcBewxn0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://breidablick.se/",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

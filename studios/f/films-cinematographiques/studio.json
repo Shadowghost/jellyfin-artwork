@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Films Cinematographiques",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134703"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

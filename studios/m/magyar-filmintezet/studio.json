@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Magyar Filmintézet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100091"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

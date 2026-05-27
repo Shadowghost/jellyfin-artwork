@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Marvel Studios",
+    "description": "American film and television studio that produces the Marvel Cinematic Universe; subsidiary of The Walt Disney Company since the 2009 acquisition of Marvel Entertainment.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "https://www.marvel.com/movies",
+    "headquarters": "Burbank, California",
+    "colors": [
+      {
+        "name": "Marvel Red",
+        "hex": "#ED1D24"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "420",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

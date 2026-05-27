@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Camera Lucida",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52114",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fQkQoS3C8Vpya8tolBXFTL5ZpMW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.cameralucida.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TOKYO CALLING",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "292723",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9XlRkC2jKLKpDHrCp9DvX9g4x53.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://tokyocalling-llc.com",
+    "placeholder": true
+  }
+]

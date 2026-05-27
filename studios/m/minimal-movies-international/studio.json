@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Minimal Movies International",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223238"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

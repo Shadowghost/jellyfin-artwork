@@ -1,0 +1,17 @@
+[
+  {
+    "name": "wysiwyg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "278676",
+        "logo_uri": "https://image.tmdb.org/t/p/original/puyPhRcxrGfLJJ3J0V4WnvQ8VCb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "http://www.wysiwygcinema.net",
+    "headquarters": "The Hague, Netherlands",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ajax Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256592"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Top-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12730"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

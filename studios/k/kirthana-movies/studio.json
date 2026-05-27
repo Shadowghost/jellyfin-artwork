@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Kirthana Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104043"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

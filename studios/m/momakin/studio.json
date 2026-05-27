@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Momakin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242859",
+        "logo_uri": "https://image.tmdb.org/t/p/original/95WOgMCHSsHq4Rhl3s9IfLS9EAk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://www.momakin.pl/",
+    "headquarters": "Łódź",
+    "placeholder": true
+  }
+]

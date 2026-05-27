@@ -1,0 +1,17 @@
+[
+  {
+    "name": "First Look Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75807",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bLzSVaxHIe8gzxhiSJCj0zI1Lj9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://firstlook.media",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cool island prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260320"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

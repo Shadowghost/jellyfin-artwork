@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Motlys",
+    "country": "NO",
+    "homepage": "https://www.motlys.com/",
+    "headquarters": "Oslo, Norway",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2783",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mBN9Pu2qP0gEdzi9R2NvARodQ5X.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

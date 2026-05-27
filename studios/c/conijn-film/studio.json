@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Conijn Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67152"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "http://www.conijnfilm.nl/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fake Factory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90618"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

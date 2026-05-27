@@ -1,0 +1,14 @@
+[
+  {
+    "name": "West Hollywood Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127160"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

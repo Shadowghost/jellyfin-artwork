@@ -1,0 +1,13 @@
+[
+  {
+    "name": "swamp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161849"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

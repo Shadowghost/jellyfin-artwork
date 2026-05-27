@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Filmivabrik",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73069",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kduAeBBaa7Te5jdNL9NFV2OnbS3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EE",
+    "homepage": "http://www.filmivabrik.ee",
+    "placeholder": true
+  }
+]

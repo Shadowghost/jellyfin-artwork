@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wild Atlantic Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129815",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qbCmnVTQEuFqrVkbxn3i9P7Jrcw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "https://www.wildatlanticpictures.com",
+    "headquarters": "Dublin",
+    "placeholder": true
+  }
+]

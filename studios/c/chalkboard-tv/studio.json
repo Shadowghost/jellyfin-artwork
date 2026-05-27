@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Chalkboard TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125349",
+        "logo_uri": "https://image.tmdb.org/t/p/original/isgmeOhuf1l6RmHWholNtabs4NR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.chalkboardtv.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Seventeen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145180",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r0Uqo7zpfAW1igDo4vlhDygQzUo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.seventeen.com/",
+    "headquarters": "New York City, USA",
+    "placeholder": true
+  }
+]

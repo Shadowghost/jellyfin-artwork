@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films Fauves",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72130",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2aZx0CKefgtSJEwU5TBLX7oXwyR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LU",
+    "homepage": "https://www.lesfilmsfauves.com/",
+    "headquarters": "Differdange",
+    "placeholder": true
+  }
+]

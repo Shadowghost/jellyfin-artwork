@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bandora",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3600"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

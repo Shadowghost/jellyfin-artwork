@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sovereign Films",
+    "country": "GB",
+    "homepage": "https://sovereignfilms.co.uk/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "47416",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1SGwPd5snC2OHk4vW8w3m6ET6jc.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

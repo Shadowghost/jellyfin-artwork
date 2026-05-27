@@ -1,0 +1,13 @@
+[
+  {
+    "name": "San Francisco Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141079"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

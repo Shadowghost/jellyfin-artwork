@@ -1,0 +1,16 @@
+[
+  {
+    "name": "DC Studios",
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184898",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iNTsbEgntSUwHmsZ9whiLhm60WB.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

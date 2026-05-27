@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rooster Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131192",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nAFGigJ5HqzyLvLHXwY1W4BfkdQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.rooster-films.com/",
+    "headquarters": "New York, New York",
+    "placeholder": true
+  }
+]

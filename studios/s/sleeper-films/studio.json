@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sleeper Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80550",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6fh1pQs2HcpD7T2K1AHofQSAkfd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "https://www.sleeper-films.com/",
+    "headquarters": "Dublin",
+    "placeholder": true
+  }
+]

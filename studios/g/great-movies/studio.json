@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Great Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18261"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

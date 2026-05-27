@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Biograf Jan Svěrák",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6419"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.sverak.cz/en/",
+    "headquarters": "Prague, Czech Republic",
+    "placeholder": true
+  }
+]

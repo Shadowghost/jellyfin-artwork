@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Gancho de Nuvem",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103829",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gctZ7FETXPEhEAlnleKSxI2YPoQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://ganchodenuvem.com.br/",
+    "placeholder": true
+  }
+]

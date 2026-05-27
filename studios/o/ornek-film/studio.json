@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Örnek Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157776"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

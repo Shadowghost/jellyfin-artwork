@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Texas Monthly",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154854",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4bk73yBpMSI7BCFbAJgdUa6pvUb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.texasmonthly.com",
+    "headquarters": "Austin, Texas",
+    "placeholder": true
+  }
+]

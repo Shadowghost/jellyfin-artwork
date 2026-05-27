@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KRO-NCRV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99613",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u9a9AizRCLzcDMKqJnAy0uYtCJT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "http://www.kro-ncrv.nl",
+    "headquarters": "Hilversum",
+    "placeholder": true
+  }
+]

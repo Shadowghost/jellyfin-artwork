@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Purple Magazine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45731",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cWAd9vYwL6WQQLjT3r6MpqNvWtu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://purple.fr",
+    "placeholder": true
+  }
+]

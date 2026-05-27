@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sun Creature France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "254707",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4s94doXw4KxBhdChNjwtaSk6Iop.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://suncreature.com",
+    "headquarters": "Bordeaux",
+    "placeholder": true
+  }
+]

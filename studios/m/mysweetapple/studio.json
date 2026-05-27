@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MySweetApple",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248732",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tal46OiApj5KlZVzMnlonmowt5v.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.mysweetapple.com/",
+    "placeholder": true
+  }
+]

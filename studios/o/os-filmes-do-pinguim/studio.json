@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Os Filmes do Pinguim",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "278572",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gj6oxhP26ctFOE2wEUDZEX3d1xJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "placeholder": true
+  }
+]

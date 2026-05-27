@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Moby Dick Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7118",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4DFO5gtLFkfTrppAVRCiHdj6rSq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.mobydickfilms.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

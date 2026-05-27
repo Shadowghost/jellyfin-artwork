@@ -1,0 +1,15 @@
+[
+  {
+    "name": "cinema-luz",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145612"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Chicago, Illinois",
+    "placeholder": true
+  }
+]

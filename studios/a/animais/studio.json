@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Animais",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16475"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

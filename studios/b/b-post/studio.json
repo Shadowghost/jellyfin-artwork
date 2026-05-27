@@ -1,0 +1,13 @@
+[
+  {
+    "name": "B-Post",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110314"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

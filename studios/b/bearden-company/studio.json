@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bearden Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200301"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

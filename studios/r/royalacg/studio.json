@@ -1,0 +1,16 @@
+[
+  {
+    "name": "RoyalACG",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "247122",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6edit1YmFKIeWqsHQ72q3xBxnCW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://www.royalacg.com/",
+    "placeholder": true
+  }
+]

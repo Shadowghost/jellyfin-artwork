@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mezzanine Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7191",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8HH0YAxmfMPenWLCDkl4tVLvIbP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.mezzaninefilms.com",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "OrangeFox Agency",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211933",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qAYjkIkOIR5m7rFCRPE913pf1Ov.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.orangefox.com.tr/",
+    "headquarters": "Ankara",
+    "placeholder": true
+  }
+]

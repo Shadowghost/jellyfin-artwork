@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Rainy Day Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271390"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Georgia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248895",
+        "logo_uri": "https://image.tmdb.org/t/p/original/niHpO1TuVQEolVWaj6d7lPVGvNy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

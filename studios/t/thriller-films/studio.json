@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Thriller Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82773"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

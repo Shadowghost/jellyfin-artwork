@@ -1,0 +1,16 @@
+[
+  {
+    "name": "WMG Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8923"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.wmg-films.de",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

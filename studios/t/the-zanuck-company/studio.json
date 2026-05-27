@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Zanuck Company",
+    "country": "US",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i6B0AIrUESLt5Fm6MOPXmuPhsvA.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

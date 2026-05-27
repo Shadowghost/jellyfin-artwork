@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Skyworks",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100425",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1DVGShTeRir1NLjgLevCXBKGTQa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://skyworks.co.uk",
+    "placeholder": true
+  }
+]

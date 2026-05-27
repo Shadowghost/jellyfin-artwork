@@ -1,0 +1,15 @@
+[
+  {
+    "name": "SEIBU RAILWAY",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256882"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.seiburailway.jp/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Matchbox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180691",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tTNtbLmktUgRWPDuKeuo5FgWdoI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.matchbox.kr",
+    "headquarters": "2nd floor, 90 Yeonhui-ro, Seodaemun-gu, Seoul (03725)",
+    "placeholder": true
+  }
+]

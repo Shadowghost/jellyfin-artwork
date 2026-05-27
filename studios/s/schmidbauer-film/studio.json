@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Schmidbauer-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91863",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n5UIp9xOthA0Au09ULcyO9mFNDH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://schmidbauer-film.de",
+    "headquarters": "Prien am Chiemsee",
+    "placeholder": true
+  }
+]

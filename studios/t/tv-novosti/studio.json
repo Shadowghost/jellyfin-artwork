@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TV Novosti",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "206606"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

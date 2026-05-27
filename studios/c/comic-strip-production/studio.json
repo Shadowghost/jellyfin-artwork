@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Comic Strip Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11173",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vN36kZU4rD6yls1qbnl2eCAAI8e.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.comicstripproduction.fr",
+    "headquarters": "4 Place Sadi Carnot, 13002 Marseille, France",
+    "placeholder": true
+  }
+]

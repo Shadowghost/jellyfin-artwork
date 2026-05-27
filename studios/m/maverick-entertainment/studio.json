@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Maverick Entertainment Group",
+    "description": "American independent film distribution company specializing in films featuring African-American casts and stories.",
+    "country": "US",
+    "type": "distributor",
+    "homepage": "https://www.maverickentertainment.cc",
+    "headquarters": "Deerfield Beach, Florida",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4383"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

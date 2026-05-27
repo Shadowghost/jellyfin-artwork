@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Channel Neko",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123247"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

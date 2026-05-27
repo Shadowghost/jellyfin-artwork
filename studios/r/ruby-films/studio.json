@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ruby Films",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2054"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

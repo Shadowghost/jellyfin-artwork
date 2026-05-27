@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Spiffy Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107436",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6E4OpqnTz6nZEuIAPeuf95OQhxY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://spiffypictures.com",
+    "headquarters": "Chicago, Illinois",
+    "placeholder": true
+  }
+]

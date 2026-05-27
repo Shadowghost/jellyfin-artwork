@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmavdelingen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123994"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

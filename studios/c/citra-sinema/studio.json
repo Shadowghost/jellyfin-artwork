@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Citra Sinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138436",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gSd2uKA9DXLf4gWF1C69qqk6kMr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "homepage": "https://citrasinema.co.id/",
+    "placeholder": true
+  }
+]

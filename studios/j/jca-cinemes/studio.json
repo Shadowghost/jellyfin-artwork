@@ -1,0 +1,13 @@
+[
+  {
+    "name": "JCA Cinemes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203976"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

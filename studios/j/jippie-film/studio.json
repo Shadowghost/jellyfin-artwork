@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jippie Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274358",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7cWIPeGHCL6zjoexOF0ga6Fhik4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://jip-film.de/",
+    "headquarters": "Frankfurt, Hesse",
+    "placeholder": true
+  }
+]

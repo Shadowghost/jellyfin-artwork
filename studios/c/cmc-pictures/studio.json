@@ -1,0 +1,19 @@
+[
+  {
+    "name": "CMC Pictures",
+    "description": "Chinese film distribution company specializing in distributing Chinese-language films in international markets.",
+    "country": "CN",
+    "type": "distributor",
+    "homepage": "https://cmc-pictures.com",
+    "headquarters": "Beijing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92484",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dfWwoWRp8snHjzDKO5IFkiCAUe7.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

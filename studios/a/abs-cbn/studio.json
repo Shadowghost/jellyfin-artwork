@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ABS-CBN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "288188"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

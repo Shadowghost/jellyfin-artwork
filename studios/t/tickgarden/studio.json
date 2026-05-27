@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tickgarden",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123993"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

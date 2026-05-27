@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ImagensLivres",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101871"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

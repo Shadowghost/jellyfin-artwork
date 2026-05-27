@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Apple Park Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79400",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hUD34uGtLBKV8di5jNDgMFf9QUt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "headquarters": "Portsmouth, England",
+    "placeholder": true
+  }
+]

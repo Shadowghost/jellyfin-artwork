@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Flair Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168808"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "https://flairfilm.at",
+    "headquarters": "Wien, Austria",
+    "placeholder": true
+  }
+]

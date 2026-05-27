@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Dansk Kulturfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51313"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "placeholder": true
+  }
+]

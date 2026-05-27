@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Romanian Film Centre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100887",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p9nPhyxSZDK0cFurXszf5Fi6FJZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "homepage": "http://cnc.gov.ro/",
+    "headquarters": "Bucharest",
+    "placeholder": true
+  }
+]

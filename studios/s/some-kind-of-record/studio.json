@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Some Kind of Record",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258715"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

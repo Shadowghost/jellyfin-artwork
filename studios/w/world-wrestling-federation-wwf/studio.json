@@ -1,0 +1,16 @@
+[
+  {
+    "name": "World Wrestling Federation (WWF)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189587",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n69L3StLLIYLXkdOO71zSgJb3QS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Stamford, Connecticut",
+    "placeholder": true
+  }
+]

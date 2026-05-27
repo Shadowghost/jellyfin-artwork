@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Marvel Television",
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38679",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v2y3LuLxYtW36hvLa8IDGQk3Oql.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

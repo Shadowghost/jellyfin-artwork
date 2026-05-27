@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Silesia Film",
+    "country": "PL",
+    "homepage": "https://silesiafilm.com/",
+    "headquarters": "Katowice",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "54245"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

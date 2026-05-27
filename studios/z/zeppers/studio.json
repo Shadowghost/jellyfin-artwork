@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zeppers",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49794",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bFqE3eQjWlVjValkuzoBHIY3uV2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://zeppers.nl/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

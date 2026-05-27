@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Dvořák",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274509"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "headquarters": "Ústí nad Labem",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Top Hill Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230108"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

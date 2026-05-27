@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wolfe Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92902",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yMYjJriIqbyNtk9dNfBmpgitBle.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.wolfevideo.com",
+    "headquarters": "New York, NY",
+    "placeholder": true
+  }
+]

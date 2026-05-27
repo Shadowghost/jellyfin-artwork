@@ -1,0 +1,17 @@
+[
+  {
+    "name": "New Films International",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42203",
+        "logo_uri": "https://image.tmdb.org/t/p/original/samKMOZlza9wSyEwI0uOcTausLF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://newfilmsint.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

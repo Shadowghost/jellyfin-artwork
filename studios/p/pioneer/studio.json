@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pioneer",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13068"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

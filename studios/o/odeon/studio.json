@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Odeon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20678"
+      }
+    ],
+    "artwork": {},
+    "country": "GR",
+    "homepage": "http://www.odeon.gr/",
+    "placeholder": true
+  }
+]

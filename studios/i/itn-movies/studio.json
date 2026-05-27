@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ITN Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111966"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

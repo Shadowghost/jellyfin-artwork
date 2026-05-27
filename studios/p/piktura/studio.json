@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Piktura",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174364",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1w70xN8gnAGkixiVcZpYXSgm3LN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.piktura.fr/",
+    "headquarters": "Roubaix",
+    "placeholder": true
+  }
+]

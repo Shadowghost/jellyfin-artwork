@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Hawk Films",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

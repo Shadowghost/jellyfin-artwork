@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Smash Arts",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "251010",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k79A1zcgAqVuwDK3QuHdNGC4zmH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://smasharts.ca/",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

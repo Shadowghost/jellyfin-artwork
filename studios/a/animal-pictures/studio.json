@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Animal Pictures",
+    "country": "US",
+    "headquarters": "Sherman Oaks, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150969",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7oS9vcqTqm4m7x1GP0zBZaRkiPw.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

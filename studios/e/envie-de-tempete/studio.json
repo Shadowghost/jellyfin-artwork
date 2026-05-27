@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Envie de tempête",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48774",
+        "logo_uri": "https://image.tmdb.org/t/p/original/33pdxuHxbiFGmWPNH6RzJsAHdtL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://enviedetempete.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

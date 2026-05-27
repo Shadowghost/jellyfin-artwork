@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Important Science",
+    "country": "US",
+    "homepage": "https://www.importantscience.com/",
+    "headquarters": "Sherman Oaks, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219756",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h60RNbOWoCCzmG64brLN7Lohfta.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

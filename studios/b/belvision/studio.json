@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Belvision",
+    "country": "BE",
+    "homepage": "http://www.belvision.be",
+    "headquarters": "Brussels",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5850",
+        "logo_uri": "https://image.tmdb.org/t/p/original/26v9iO4OqZzGhKiHYfiPWCYTNiG.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

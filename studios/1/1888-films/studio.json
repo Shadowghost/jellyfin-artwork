@@ -1,0 +1,17 @@
+[
+  {
+    "name": "1888 Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219011",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6wYQkbHzfWPmJ4JQh5KghCcJ4qI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://1888films.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

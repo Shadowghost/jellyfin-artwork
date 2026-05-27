@@ -1,0 +1,13 @@
+[
+  {
+    "name": "filmgestalten",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56083"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

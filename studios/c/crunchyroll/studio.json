@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Crunchyroll",
+    "description": "American subscription-based streaming service and distributor specializing in anime, manga and Japanese drama, owned by Sony Pictures via Aniplex.",
+    "country": "US",
+    "type": "streaming-service",
+    "homepage": "https://www.crunchyroll.com",
+    "headquarters": "San Francisco, California",
+    "colors": [
+      {
+        "name": "Crunchyroll Orange",
+        "hex": "#F47521"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198847",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qqyXcZlJQKlRmAD1TCKV7mGLQlt.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

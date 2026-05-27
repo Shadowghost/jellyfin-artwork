@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cyborn",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111372",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AcGUKknJRR0oACxehbXFnCBg2fX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://cyborn.be/",
+    "headquarters": "Antwerp, Belgium",
+    "placeholder": true
+  }
+]

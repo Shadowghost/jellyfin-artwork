@@ -1,0 +1,16 @@
+[
+  {
+    "name": "COMIC Meteor",
+    "country": "JP",
+    "homepage": "https://comic-meteor.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "246445",
+        "logo_uri": "https://image.tmdb.org/t/p/original/236PWmZJLv5wE3bYdJIW35eKpAj.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

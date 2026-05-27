@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Konami",
+    "description": "Japanese multinational video game and entertainment company known for franchises such as Metal Gear, Castlevania, and Silent Hill.",
+    "country": "JP",
+    "type": "production-company",
+    "homepage": "https://www.konami.com/",
+    "headquarters": "Tokyo Midtown, Minato, Tokyo",
+    "colors": [
+      {
+        "name": "Konami Red",
+        "hex": "#D90017"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55914",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fLZm5yRhOmaYb82wvCMOPiClMMB.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

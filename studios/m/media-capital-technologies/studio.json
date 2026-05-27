@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Media Capital Technologies",
+    "country": "US",
+    "homepage": "https://movie.io",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221429",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

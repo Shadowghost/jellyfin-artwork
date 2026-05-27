@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Dynamic Story Picture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280964"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

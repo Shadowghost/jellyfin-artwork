@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Buckeye Beer",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46821"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

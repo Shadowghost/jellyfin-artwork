@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hachette Première",
+    "country": "FR",
+    "homepage": "https://www.hachette-collections.com",
+    "headquarters": "Hachette Première, Paris, France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "582",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bEORFnCh6xQ3oQuY6yX6mRRCLvW.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

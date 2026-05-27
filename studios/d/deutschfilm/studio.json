@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Deutschfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147449"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

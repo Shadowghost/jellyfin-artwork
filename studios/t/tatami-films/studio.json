@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tatami Films",
+    "country": "DE",
+    "homepage": "http://www.tatamifilms.com",
+    "headquarters": "Hamburg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "65992",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yHNBmw8iV7MBQJNOva0h1crdXGt.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

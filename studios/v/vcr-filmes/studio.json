@@ -1,0 +1,13 @@
+[
+  {
+    "name": "VCR Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151146"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmes Venezolanos",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124212"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

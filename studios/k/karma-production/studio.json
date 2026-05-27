@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Karma Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98656"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

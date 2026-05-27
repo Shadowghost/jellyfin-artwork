@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Eesti Televisioon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6182",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uEDq986XmCRWpClYGOU9jq6IUfy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EE",
+    "homepage": "https://etv.err.ee/",
+    "placeholder": true
+  }
+]

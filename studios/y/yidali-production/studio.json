@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Yidali production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220898"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

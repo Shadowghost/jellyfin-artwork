@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Zebra Post",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240124"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

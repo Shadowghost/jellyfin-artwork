@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Keshet Studios",
+    "description": "US-based television production arm of Israeli media company Keshet Media Group, producing scripted programming for the US market.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.keshetinternational.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116068",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m1Ne6EAi89W6oGSYUnY4KTZq0qd.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Apulia Film Commission",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104800",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dQcywJCmWry749huSdi3jQbP5i.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.apuliafilmcommission.it/",
+    "placeholder": true
+  }
+]

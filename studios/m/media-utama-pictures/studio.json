@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Media Utama Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180206"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

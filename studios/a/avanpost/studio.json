@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Avanpost",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157830",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f2lSAmhtAgcrBExmyuMWB6vPpo5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "homepage": "https://avanpost.co/",
+    "headquarters": "Bucharest",
+    "placeholder": true
+  }
+]

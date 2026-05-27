@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Mayhem Pictures",
+    "country": "US",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22881"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

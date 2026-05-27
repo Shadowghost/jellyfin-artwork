@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Metro-Goldwyn-Mayer",
+    "description": "American film and television production company, one of the original Hollywood majors; owned by Amazon since 2022 (Amazon MGM Studios).",
+    "country": "US",
+    "type": "studio",
+    "parent_company": "Sony Pictures",
+    "homepage": "http://www.mgm.com/",
+    "headquarters": "Beverly Hills, California",
+    "colors": [
+      {
+        "name": "MGM Gold",
+        "hex": "#C9A227"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21",
+        "logo_uri": "https://image.tmdb.org/t/p/original/usUnaYV6hQnlVAXP6r4HwrlLFPG.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

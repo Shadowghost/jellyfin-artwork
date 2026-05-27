@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Baker Street",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19191"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Muku",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170019",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r9w33VgKOsGwsU2w3o1AMDqB7bd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.muku.tv/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Eyevox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75267",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nGvGzQ5x2OoeLSEQYkBPV0bzwoM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://eyevox.com/",
+    "headquarters": "Ridgeland, Mississippi",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Muna",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "292476",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rOl2RiUWI0ogynH3bpVMZtXcvtN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://muna.kr/index.php",
+    "placeholder": true
+  }
+]

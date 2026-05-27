@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MarGenCine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125187"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

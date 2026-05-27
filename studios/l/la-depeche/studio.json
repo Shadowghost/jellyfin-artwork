@@ -1,0 +1,13 @@
+[
+  {
+    "name": "La Dépêche",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285378"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

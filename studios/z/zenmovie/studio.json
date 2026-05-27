@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ZenMovie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40350"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

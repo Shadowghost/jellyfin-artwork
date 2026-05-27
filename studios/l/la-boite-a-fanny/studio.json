@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Boîte à Fanny",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16039",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8vVMTmyjT5tRgiVeptu5cvjVc8Y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.laboiteafanny.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

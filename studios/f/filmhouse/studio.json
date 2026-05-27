@@ -1,0 +1,13 @@
+[
+  {
+    "name": "filmHOUSE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199123"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Wanderkino",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211891"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

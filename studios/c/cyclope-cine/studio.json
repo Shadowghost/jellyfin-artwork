@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cyclope Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123111"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

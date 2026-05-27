@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Canal+ Afrique",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149156",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kxxJf9qU3U1tNjTpTHOsilR1CcH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.canalplus-afrique.com/",
+    "headquarters": "Boulogne-Billancourt, France",
+    "placeholder": true
+  }
+]

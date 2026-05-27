@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Canada Council for the Arts",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24726",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4Ou4PZ9hiEJyICZxk6FfydGIOfb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://canadacouncil.ca/",
+    "headquarters": "Ottawa, Ontario",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Herald",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4628"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

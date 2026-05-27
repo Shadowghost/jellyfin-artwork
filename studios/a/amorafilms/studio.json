@@ -1,0 +1,16 @@
+[
+  {
+    "name": "AmoraFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262808",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6AS1WDdxczV5KdJETq0fj0VrlQg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "headquarters": "València",
+    "placeholder": true
+  }
+]

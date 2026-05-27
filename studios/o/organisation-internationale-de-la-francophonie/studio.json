@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Organisation internationale de la Francophonie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271249",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cJLUdz759EGD0QlWvsyFtCqzVCK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.francophonie.org/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

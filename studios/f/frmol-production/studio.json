@@ -1,0 +1,16 @@
+[
+  {
+    "name": "FRMOL production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93964"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://frmol.com/",
+    "headquarters": "Prague, Czech Republic",
+    "placeholder": true
+  }
+]

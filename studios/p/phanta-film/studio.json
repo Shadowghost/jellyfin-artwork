@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Phanta Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7609",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rQ0m7TZThnnpHydRt6LuHhmUBI4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "http://www.phantavision.com/",
+    "headquarters": "Amsterdam, Netherlands",
+    "placeholder": true
+  }
+]

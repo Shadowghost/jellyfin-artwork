@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WY Productions",
+    "country": "FR",
+    "homepage": "https://www.wyprod.com",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3304",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bCSghIiBAsM2KPOeMTb61hu39Yo.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

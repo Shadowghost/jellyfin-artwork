@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Telenews",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219897"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

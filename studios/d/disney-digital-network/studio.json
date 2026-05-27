@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Disney Digital Network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91233",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hLmapAiZLpxTtnWt9UXhEeUXvhp.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

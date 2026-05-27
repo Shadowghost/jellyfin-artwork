@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Telas Mídia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250330"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

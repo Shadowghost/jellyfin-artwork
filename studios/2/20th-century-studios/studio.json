@@ -1,0 +1,32 @@
+[
+  {
+    "name": "20th Century Studios",
+    "description": "American film studio founded in 1935 as Twentieth Century Fox; renamed 20th Century Studios in 2020 after Disney's acquisition of 21st Century Fox.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "https://www.20thcenturystudios.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127928",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h0rjX5vjW5r8yEnUBStFarjcLT4.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

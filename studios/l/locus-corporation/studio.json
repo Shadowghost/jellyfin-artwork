@@ -1,0 +1,17 @@
+[
+  {
+    "name": "LOCUS Corporation",
+    "country": "KR",
+    "homepage": "http://locus.com/",
+    "headquarters": "Gangnam, Seoul, South Korea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121669",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6opcT3qnBXc9f0GxDwW62GZxdD7.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

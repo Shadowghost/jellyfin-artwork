@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Directors Guild of Canada",
+    "description": "Canadian national labour organisation representing key creative and logistical personnel in the screen-based industry.",
+    "country": "CA",
+    "type": "other",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

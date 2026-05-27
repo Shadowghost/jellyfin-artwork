@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fida Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42712",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bVB4mtcR5tXXW1AmprUaNNJpltZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "headquarters": "Istanbul",
+    "placeholder": true
+  }
+]

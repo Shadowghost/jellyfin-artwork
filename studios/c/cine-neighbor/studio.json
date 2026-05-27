@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cine-Neighbor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25766"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

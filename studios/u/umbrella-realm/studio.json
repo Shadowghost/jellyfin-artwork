@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Umbrella Realm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274232"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

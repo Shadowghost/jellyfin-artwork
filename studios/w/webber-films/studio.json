@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Webber Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86267"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

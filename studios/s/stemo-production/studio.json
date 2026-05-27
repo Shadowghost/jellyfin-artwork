@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Stemo Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120660",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hHxsCrCT2dvjYi2OYXwlfgeVm4E.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://stemo.media/",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

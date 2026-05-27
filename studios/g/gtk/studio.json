@@ -1,0 +1,13 @@
+[
+  {
+    "name": "GTK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96063"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Rod Movies AIE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104322"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

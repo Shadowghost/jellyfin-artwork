@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MasterFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79091"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.masterfilm.cz",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

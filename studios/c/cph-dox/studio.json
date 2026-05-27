@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CPH:DOX",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67342",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zzHZWM8pIr3XjyKgRe5JTxfKYt5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://cphdox.dk/en/",
+    "placeholder": true
+  }
+]

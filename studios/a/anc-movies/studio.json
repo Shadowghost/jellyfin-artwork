@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AnC Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62285"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

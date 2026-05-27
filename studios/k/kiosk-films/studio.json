@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kiosk Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140142"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

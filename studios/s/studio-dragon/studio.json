@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio Dragon",
+    "country": "US",
+    "homepage": "https://www.studiodragon.net/en/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213674",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6wWB5nJENR6Or9pqYLWKUemIc08.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

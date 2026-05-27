@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Laboratorio Arte Alameda",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77889",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bh4XS9Bhd29pGwsD2NU0KbWG049.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "http://www.artealameda.bellasartes.gob.mx",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

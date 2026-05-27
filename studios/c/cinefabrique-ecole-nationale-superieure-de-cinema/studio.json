@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CinéFabrique - École nationale supérieure de cinéma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258708",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5o1QjULGrEi0zEu9QeWEMJ7e8yl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://cinefabrique.fr/",
+    "placeholder": true
+  }
+]

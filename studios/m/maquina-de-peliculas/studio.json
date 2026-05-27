@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Máquina de Películas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91917"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

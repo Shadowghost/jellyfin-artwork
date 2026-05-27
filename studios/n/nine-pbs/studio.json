@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nine PBS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "190089",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A4wfLLFQeKKaSGdd2TDATgqsuee.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.ninepbs.org",
+    "headquarters": "St. Louis, MO",
+    "placeholder": true
+  }
+]

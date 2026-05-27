@@ -1,0 +1,34 @@
+[
+  {
+    "name": "MRT Miyazaki Broadcasting",
+    "description": "Japanese commercial broadcaster headquartered in Miyazaki; affiliate of Japan News Network (TBS).",
+    "country": "JP",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210512",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hs8PzdZ9YHIWDFB4xX7Y8zyi9Iv.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Miyazaki Broadcasting Company"
+    ],
+    "template": true,
+    "homepage": "https://mrt.jp/"
+  }
+]

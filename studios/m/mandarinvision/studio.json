@@ -1,0 +1,15 @@
+[
+  {
+    "name": "MandarinVision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109444"
+      }
+    ],
+    "artwork": {},
+    "country": "TW",
+    "homepage": "http://www.mandarinvision.com",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fake Taxi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111037"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

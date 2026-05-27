@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bushiroad Move",
+    "country": "JP",
+    "homepage": "https://bushiroad-move.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181285",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xHaPH1Yp50iEH7HOEwhxKTYRC6w.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

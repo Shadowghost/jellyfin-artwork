@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Smart Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172562"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

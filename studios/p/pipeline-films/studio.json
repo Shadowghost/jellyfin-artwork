@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pipeline Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158624"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

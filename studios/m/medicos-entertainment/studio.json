@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Medicos Entertainment",
+    "country": "JP",
+    "homepage": "https://www.medicos-e.net/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163695",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ktRrqMfqbdVT87FKNiGTLXAsxeu.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

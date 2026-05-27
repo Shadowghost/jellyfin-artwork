@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Channel Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2099"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

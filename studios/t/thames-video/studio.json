@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Thames Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124658",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zBQid7qjeBAtUW5oJofmAtjNtEm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Le Parisien",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131228",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6WiIuhcwScOpbohkXQ3RHFy2UKP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.leparisien.fr/",
+    "headquarters": "15e arrondissement de Paris",
+    "placeholder": true
+  }
+]

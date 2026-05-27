@@ -1,0 +1,13 @@
+[
+  {
+    "name": "5cores Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140153"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

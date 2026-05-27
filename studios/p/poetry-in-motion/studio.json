@@ -1,0 +1,13 @@
+[
+  {
+    "name": "poetry in motion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "132238"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

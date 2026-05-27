@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinetoca Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271860"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tama Filmproduktion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252323",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n1jtGmKHibUtlNxp7Mv2fTRW4X3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://tamafilm.de/",
+    "headquarters": "Stuttgart, Baden-Württemberg",
+    "placeholder": true
+  }
+]

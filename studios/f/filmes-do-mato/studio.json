@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmes do Mato",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256665"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

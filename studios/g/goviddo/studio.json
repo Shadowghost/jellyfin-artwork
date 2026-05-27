@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GoViddo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218907",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uM5tPL3EuhFcoojY3wSCwJN7sCw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.goviddo.com/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

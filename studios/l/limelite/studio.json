@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Limelite",
+    "country": "UA",
+    "homepage": "http://limelite.co",
+    "headquarters": "Kyiv",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105069",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wqSSHwhZ9orfX5e5pm5CMPwPM8k.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

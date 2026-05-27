@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Where's Lunch",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7442",
+        "logo_uri": "https://image.tmdb.org/t/p/original/61IpgIRSDsNJYKj5wadGSI3jgKW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmamerica",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8596"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

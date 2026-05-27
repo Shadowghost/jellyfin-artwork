@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Trixter Film",
+    "country": "DE",
+    "homepage": "https://www.trixter.de",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73585",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vNJmcN3VneqdPs9xSpvBTRM7fcr.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "DF Pictures",
+    "country": "CN",
+    "headquarters": "Beijing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "65442",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mAAUTVBF4KGW4QxESHWg4N8pLdF.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

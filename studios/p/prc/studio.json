@@ -1,0 +1,16 @@
+[
+  {
+    "name": "PRC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16466",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4MT9eqAB0bHzhaFVVniMaxlJ5xS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

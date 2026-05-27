@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Liebstes Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102507"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

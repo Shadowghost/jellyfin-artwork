@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tallinnfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6147",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A78oMmC2gHBvRrXPRHbsJocT25X.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SU",
+    "headquarters": "Tallin, Estonian SSR, USSR",
+    "placeholder": true
+  }
+]

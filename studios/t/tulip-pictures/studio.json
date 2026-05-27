@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tulip Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271000",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pYa8AV1V4hrXQknaBfkbZg9yqAW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://www.tulip-pictures.com/",
+    "headquarters": "San Pedro Garza García, Nuevo León",
+    "placeholder": true
+  }
+]

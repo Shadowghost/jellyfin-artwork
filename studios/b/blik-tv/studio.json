@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Blik TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94155",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zRy2ectBlgnxg9xzUY8Z2XWkuWD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://bliktv.ca",
+    "headquarters": "Ottawa, Ontario",
+    "placeholder": true
+  }
+]

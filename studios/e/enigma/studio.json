@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Enigma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "254220",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7I8EGUTses2Sv2ZdIHlITUG3P3q.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.enigma.com/",
+    "headquarters": "New York, New York",
+    "placeholder": true
+  }
+]

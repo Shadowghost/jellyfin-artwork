@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nippon Animation",
+    "country": "JP",
+    "homepage": "http://www.nippon-animation.co.jp",
+    "headquarters": "Chuo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4287",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hIxV81PD6eNsNluKemgiWwdZhcb.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

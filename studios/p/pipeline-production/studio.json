@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pipeline Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156971",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sbn2RhidfmVFdZqqecSlNoAJMF6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "http://pipelineproduction.dk",
+    "placeholder": true
+  }
+]

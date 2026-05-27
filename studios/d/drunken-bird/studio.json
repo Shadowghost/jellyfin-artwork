@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Drunken Bird",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "247921",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6SSLlsJZs2HhR6i7xlTsAsbLg15.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://drunkenbird.jpn.org/",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

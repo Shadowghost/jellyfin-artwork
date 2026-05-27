@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Voyelles Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88623",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yuGgqKQz3mVgqLn4nokSGcmeAUA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.voyellesfilms.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

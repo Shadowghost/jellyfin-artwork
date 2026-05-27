@@ -1,0 +1,17 @@
+[
+  {
+    "name": "EO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107563",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x42HkwWO4sOYSekXbl3LKxRz2Wo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://portal.eo.nl/",
+    "headquarters": "Hilversum",
+    "placeholder": true
+  }
+]

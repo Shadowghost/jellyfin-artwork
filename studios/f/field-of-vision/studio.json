@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Field of Vision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71551",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hT2G2iuXXqY458TYen2T2qmjlS8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://fieldofvision.org",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

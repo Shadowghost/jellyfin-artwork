@@ -1,0 +1,16 @@
+[
+  {
+    "name": "STARCAT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103873",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2Q3EQ4sVanDLw4vCgj6wJ89MkwC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.starcat.co.jp/",
+    "placeholder": true
+  }
+]

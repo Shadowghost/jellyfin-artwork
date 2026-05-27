@@ -1,0 +1,14 @@
+[
+  {
+    "name": "JB Pictures",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124233"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

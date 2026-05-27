@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Centre Pompidou",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93134"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

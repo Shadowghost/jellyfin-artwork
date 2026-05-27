@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BiBi Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6275",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ynsdOyF03HZvEeZreVrDLc3OPEc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://bibifilmtv.com",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

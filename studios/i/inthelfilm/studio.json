@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Inthelfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121325",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a25PvxuxN6mGwaRTy8tusucyfTn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.inthelfilm.it",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

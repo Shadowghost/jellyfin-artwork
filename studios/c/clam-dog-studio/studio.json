@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Clam Dog Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88638",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uCXcw6rhoYRiV1eHEwtsIXvvamO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.clamdogstudio.com",
+    "placeholder": true
+  }
+]

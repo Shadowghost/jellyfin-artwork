@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Big Company Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "237139"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.bigcompanyprod.fr/en/",
+    "headquarters": "Lyon",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mattel Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137586",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yRstxvfbutR1yJcCDb8EXyn8jTX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

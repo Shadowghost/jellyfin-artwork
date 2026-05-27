@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Storm Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56049",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hMTydCOzh1658lSqnO0As5oUjJW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.stormfilms.no/",
+    "headquarters": "Oslo",
+    "placeholder": true
+  }
+]

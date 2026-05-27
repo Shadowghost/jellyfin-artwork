@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Golden Gate Motion Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218908",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ybimT9oCztQQPb4Sj9aBtfKKgA2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://goldengate-motionpictures.com/",
+    "headquarters": "San Francisco, California",
+    "placeholder": true
+  }
+]

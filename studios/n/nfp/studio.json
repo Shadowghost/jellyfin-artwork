@@ -1,0 +1,15 @@
+[
+  {
+    "name": "NFP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79552",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dbJOQnSQVEdBY1SfPkQSuxPsygz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

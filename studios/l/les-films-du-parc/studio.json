@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les Films du Parc",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80017"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

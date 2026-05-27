@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Composite",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188373"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

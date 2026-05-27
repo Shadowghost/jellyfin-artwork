@@ -1,0 +1,44 @@
+[
+  {
+    "name": "E!",
+    "description": "American basic cable television channel focused on entertainment news, pop culture, and reality programming.",
+    "country": "DK",
+    "type": "cable-network",
+    "colors": [
+      {
+        "name": "E! Red",
+        "hex": "#E10A18"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "imdb",
+        "id": "co0022548"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "25968"
+      },
+      {
+        "provider_name": "tvdb",
+        "id": "87"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "e",
+    "template": true
+  }
+]

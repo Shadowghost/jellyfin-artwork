@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lamp Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123041"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

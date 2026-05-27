@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Karma Film Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30619"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

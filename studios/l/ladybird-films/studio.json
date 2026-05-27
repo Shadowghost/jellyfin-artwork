@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ladybird Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105595",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qDeW6zqaUwhcPSdQhNoL2SOYNSK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://ladybirdfilms.net",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

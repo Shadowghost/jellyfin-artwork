@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Museo del Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "268242"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

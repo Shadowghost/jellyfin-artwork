@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Goalpost Pictures",
+    "country": "AU",
+    "homepage": "https://www.goalpostpictures.com",
+    "headquarters": "Sydney",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6748",
+        "logo_uri": "https://image.tmdb.org/t/p/original/74qmkZFGFMbCsIKo2Dk62QVsUKf.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

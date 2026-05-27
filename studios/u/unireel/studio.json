@@ -1,0 +1,16 @@
+[
+  {
+    "name": "UniReel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "247016",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2MFzNqVg24UvBRPJ80cFcHlIAzW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.unireel.tv/",
+    "placeholder": true
+  }
+]

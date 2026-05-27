@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mestres Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202311"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Imago TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131248",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jnTO547ERX26cOLTpKOSIPLquiD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.imagotv.fr/",
+    "headquarters": "France",
+    "placeholder": true
+  }
+]

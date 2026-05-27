@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Check Pawn Shop",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187865"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

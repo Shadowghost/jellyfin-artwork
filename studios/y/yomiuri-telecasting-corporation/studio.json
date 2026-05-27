@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Yomiuri Telecasting Corporation",
+    "country": "JP",
+    "homepage": "https://www.ytv.co.jp/info/english/index.html",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11727",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cIMyE9cw1W4kMFGxmC17HKTnVz9.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

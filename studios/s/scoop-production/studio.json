@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Scoop Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170419",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6BVmJ6XC5zxaCjS0XrmiJsSLC86.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://superscoop.ru/",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

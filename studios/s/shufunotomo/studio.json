@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SHUFUNOTOMO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256880",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wn0kMolaXeDr7rKu7xZYttZKSrI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://shufunotomo.co.jp/",
+    "placeholder": true
+  }
+]

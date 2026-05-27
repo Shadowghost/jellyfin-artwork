@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sputnik Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86727",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9wzOhbfClj8r35qat3GHthhFG9T.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CR",
+    "homepage": "https://www.sputnikfilms.org/",
+    "headquarters": "San Jose",
+    "placeholder": true
+  }
+]

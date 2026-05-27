@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Yard",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133572",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aaI0en14DZnkI4UWqELN3z2g3SB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://yard.media",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

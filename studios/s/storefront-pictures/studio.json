@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Storefront Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7747"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

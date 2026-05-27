@@ -1,0 +1,13 @@
+[
+  {
+    "name": "A-Wall",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150096"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

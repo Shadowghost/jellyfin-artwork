@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BIND",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39609",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oht1Q1ZiJN9y0g1Bubxo8vTtpNn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://bindfilm.com/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

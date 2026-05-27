@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Normal Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107112"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

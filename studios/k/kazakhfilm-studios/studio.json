@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kazakhfilm Studios",
+    "country": "KZ",
+    "homepage": "http://www.kazakhfilmstudios.kz/",
+    "headquarters": "Almaty",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3623",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v3XJT8ci1OScqcMOqd6uAExJCcV.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

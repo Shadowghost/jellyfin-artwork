@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TSR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1245",
+        "logo_uri": "https://image.tmdb.org/t/p/original/suKdkPTtHn0DzGYmrXCA506dJON.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "headquarters": "Bern",
+    "placeholder": true
+  }
+]

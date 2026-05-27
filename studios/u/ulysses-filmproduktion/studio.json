@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ulysses Filmproduktion",
+    "country": "DE",
+    "homepage": "https://www.ulyssesfilms.de",
+    "headquarters": "Hamburg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50163"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

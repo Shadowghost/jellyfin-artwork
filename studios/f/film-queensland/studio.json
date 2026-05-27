@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Film Queensland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "64110"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "placeholder": true
+  }
+]

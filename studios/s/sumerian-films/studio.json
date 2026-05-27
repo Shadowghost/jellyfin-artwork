@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sumerian Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289355",
+        "logo_uri": "https://image.tmdb.org/t/p/original/93E9RslRkmNkzlBJnjSF6Z0bCHa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://sumerianrecords.com/pages/films",
+    "headquarters": "Nashville, Tennessee",
+    "placeholder": true
+  }
+]

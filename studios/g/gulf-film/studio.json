@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gulf Film",
+    "country": "AE",
+    "homepage": "https://www.gulffilm.com",
+    "headquarters": "Dubai",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96686",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6U6ZPi3eVHWvon7ePKACQXca72j.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

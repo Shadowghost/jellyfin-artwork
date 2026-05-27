@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lambda Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134025"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

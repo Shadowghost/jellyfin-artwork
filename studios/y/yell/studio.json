@@ -1,0 +1,14 @@
+[
+  {
+    "name": "yell",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174858"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

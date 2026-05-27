@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DeltaRocket",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165280",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3CH6rwPJ8gB6kXX2LZGGewR31vA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.deltarocket.space",
+    "headquarters": "Lyon",
+    "placeholder": true
+  }
+]

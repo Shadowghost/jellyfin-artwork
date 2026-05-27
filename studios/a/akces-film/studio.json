@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Akces Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "266042"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

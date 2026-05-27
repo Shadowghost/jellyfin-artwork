@@ -1,0 +1,17 @@
+[
+  {
+    "name": "École de la Cité",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137277",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vPRnkTlKSDlOVmpu65S3FLCs9GY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://ecoledelacite.com",
+    "headquarters": "Saint-Denis, Paris",
+    "placeholder": true
+  }
+]

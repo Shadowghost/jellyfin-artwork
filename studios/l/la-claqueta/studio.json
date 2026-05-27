@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Claqueta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10053",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t9Fnm9KvpkJXZSyaZU0sAWzj8EN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://laclaqueta.com/en",
+    "headquarters": "Seville, Andalusia",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Rastar",
+    "description": "American film and television production company founded by Ray Stark in 1971; producer of The Way We Were, Steel Magnolias, and the Smokey and the Bandit films. The library is now held by Sony Pictures.",
+    "country": "CN",
+    "type": "production-company",
+    "homepage": "https://www.rastar.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175222"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

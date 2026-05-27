@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Dreambear",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200700"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

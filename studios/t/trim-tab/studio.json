@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Trim Tab",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "64274"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

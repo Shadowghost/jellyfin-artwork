@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Shanghai Television 上海电视台 (STV)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81958",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9vWfl6DBAXCkGuBTs4idT66n6kx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "placeholder": true
+  }
+]

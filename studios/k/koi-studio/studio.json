@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Koi Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82295",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h7Wuug2O9Ebouge4rSzeXgmNbWE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://koi-studio.pl",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

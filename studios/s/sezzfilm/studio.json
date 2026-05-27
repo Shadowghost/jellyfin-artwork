@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sezzfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205931",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m0SG80PHBlcPEzfJFF2DZsUUUUn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.sezzfilm.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Music Reviews",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184885"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

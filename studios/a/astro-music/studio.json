@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Astro Music",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "295114"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

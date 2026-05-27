@@ -1,0 +1,26 @@
+[
+  {
+    "name": "USA Ultimate",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128210"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

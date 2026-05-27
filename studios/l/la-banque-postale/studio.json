@@ -1,0 +1,39 @@
+[
+  {
+    "name": "La Banque Postale",
+    "description": "French bank, subsidiary of La Poste, commonly credited as a film financier in French productions through its SOFICA funds.",
+    "country": "FR",
+    "type": "other",
+    "colors": [
+      {
+        "name": "La Poste Yellow",
+        "hex": "#FFCD00"
+      },
+      {
+        "name": "La Banque Postale Blue",
+        "hex": "#003B7E"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "65060"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

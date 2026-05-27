@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Marv Films",
+    "description": "British film and television production company founded by Matthew Vaughn; produced Kick-Ass, Kingsman series and Argylle.",
+    "country": "GB",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147996"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

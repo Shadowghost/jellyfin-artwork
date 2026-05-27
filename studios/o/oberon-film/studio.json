@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Oberon Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42717",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nRsiPHBRCgrjvahR25lzaEvO0q2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.oberon-film.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

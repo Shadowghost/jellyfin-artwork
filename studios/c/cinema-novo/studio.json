@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cinema Novo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211017"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "placeholder": true
+  }
+]

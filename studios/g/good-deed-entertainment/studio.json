@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Good Deed Entertainment",
+    "country": "US",
+    "homepage": "http://gooddeedentertainment.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49937",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j14jwTsJj6ok9IkUFewX7acufKu.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jeonju Film Commission",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128074",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2ex9eUtZQ6euvHoOMvSqKjIpiSj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.jjfc.or.kr/main/main.php",
+    "headquarters": "Jeonju, North Jeolla",
+    "placeholder": true
+  }
+]

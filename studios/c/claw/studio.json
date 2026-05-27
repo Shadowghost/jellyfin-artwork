@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CLAW",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264128"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

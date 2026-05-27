@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kanoon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11459",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q05YOjsHS2MBfteVQod3MRGkjCD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IR",
+    "homepage": "http://www.kanoonnews.ir/",
+    "headquarters": "Tehran, Iran",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "General Movies sr",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90285"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

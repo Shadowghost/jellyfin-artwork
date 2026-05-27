@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GenderX Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92168",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1xOcRdVXcuCTsfhGWuC0778d4FL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.genderxfilms.com",
+    "headquarters": "Los Angeles",
+    "placeholder": true
+  }
+]

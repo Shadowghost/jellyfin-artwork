@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Postofilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158664",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sL4yFECwPDcdpJrw53ebTfPDN0G.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.postofilm.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

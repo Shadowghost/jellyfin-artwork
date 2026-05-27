@@ -1,0 +1,15 @@
+[
+  {
+    "name": "BoxNation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185100",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yRkzMWAF8qXBLIGFVqGYYfKrIZQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

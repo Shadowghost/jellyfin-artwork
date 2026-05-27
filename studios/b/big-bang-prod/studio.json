@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Big Bang Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109643"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

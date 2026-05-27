@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Millimages",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23656",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kO6vfeZTTL2xtqFAlaFK5vcyjRt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.millimages.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

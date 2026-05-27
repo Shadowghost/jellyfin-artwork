@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Donkeys Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193369"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

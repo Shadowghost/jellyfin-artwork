@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Südkino Filmproduktion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205415",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e27c49VqmAqBPBQuJePUJWJuNTu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.suedkino.de/index_en.html",
+    "placeholder": true
+  }
+]

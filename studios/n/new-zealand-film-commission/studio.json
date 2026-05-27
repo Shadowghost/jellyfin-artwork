@@ -1,0 +1,32 @@
+[
+  {
+    "name": "New Zealand Film Commission",
+    "description": "New Zealand Crown entity that promotes and funds the New Zealand film industry.",
+    "country": "NZ",
+    "type": "government-agency",
+    "homepage": "https://www.nzfilm.co.nz",
+    "headquarters": "Wellington, New Zealand",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "294",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a05DY2oSeUOVFDM61RsQa9x9RoC.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

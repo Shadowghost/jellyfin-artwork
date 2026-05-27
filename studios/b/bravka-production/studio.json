@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Bravka Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150605"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "http://bravka.com/"
+  }
+]

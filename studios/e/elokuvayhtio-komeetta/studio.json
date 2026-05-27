@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Elokuvayhtiö Komeetta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106557",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i6mhfVriXTap9whFMrc8guJNODR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "http://www.komeettafilmi.fi/",
+    "headquarters": "Helsinki, Finland",
+    "placeholder": true
+  }
+]

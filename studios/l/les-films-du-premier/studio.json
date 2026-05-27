@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les Films du Premier",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66233"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

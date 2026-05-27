@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Microservice (Áudio e Multimídia)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "68625"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

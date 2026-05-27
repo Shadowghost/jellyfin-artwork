@@ -1,0 +1,17 @@
+[
+  {
+    "name": "École des Nouvelles Images",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114747",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2ai9DPmoVXvpzsebWUHYnptCvFE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.nouvellesimages.xyz/?lang=en",
+    "headquarters": "Avignon",
+    "placeholder": true
+  }
+]

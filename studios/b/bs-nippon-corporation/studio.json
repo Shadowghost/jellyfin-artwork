@@ -1,0 +1,31 @@
+[
+  {
+    "name": "BS Nippon Corporation",
+    "description": "Japanese satellite broadcasting company, a subsidiary of Nippon Television Network, operating the BS Nittele channel.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.bs4.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192573",
+        "logo_uri": "https://image.tmdb.org/t/p/original/naTpOY8AjRtgBw0JXafrhAD8ZBT.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

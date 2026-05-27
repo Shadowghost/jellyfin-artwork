@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fís Éireann/Screen Ireland",
+    "country": "IE",
+    "homepage": "https://www.screenireland.ie",
+    "headquarters": "Galway",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1898",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8ix6SGlJiyuUDxLBtY8E0PY2G7w.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Taiga Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8542",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3vpz4f0p59nGYb5kCExTD68DBfk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://taigafilmes.com",
+    "headquarters": "Rio de Janeiro, Rio de Janeiro",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "mapmovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "278288",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5H2c4E1pshoLRefIcQ1KNcEfxyD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "homepage": "http://mapmovies.in",
+    "headquarters": "Ramkrishna Pally, Tarakeswar, Haripal, Hooghly, West- Bengal 712410",
+    "placeholder": true
+  }
+]

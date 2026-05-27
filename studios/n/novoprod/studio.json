@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Novoprod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91480",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vJWpSo7JXAHHE863ttdpXrS5UIu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.novoprod.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

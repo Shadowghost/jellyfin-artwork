@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kino Polska TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "251024",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q96heQ1NIznXFhNwQBinaVT1iJS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://kinopolska.pl/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

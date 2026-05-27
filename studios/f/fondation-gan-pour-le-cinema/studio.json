@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fondation GAN pour le Cinéma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23677",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hmZNsmDBAaFAYtPr921IDTKi0aR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.fondation-gan.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

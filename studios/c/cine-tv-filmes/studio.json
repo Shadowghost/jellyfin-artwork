@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cine TV Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100428"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

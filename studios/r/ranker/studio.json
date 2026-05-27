@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ranker",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257273"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

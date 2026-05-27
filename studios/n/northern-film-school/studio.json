@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Northern Film School",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115476",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wCR7E1paoQrlE4RztjafCqTRhZM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.northernfilmschool.co.uk/",
+    "headquarters": "Leeds, England",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Desert Flower",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5379"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.desert-flower.de/index_en.htm",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

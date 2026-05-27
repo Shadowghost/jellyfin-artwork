@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ThinPlace Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212132",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i4tQcl2ofjXGSgNxmlWPHs4m4nV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Brooklyn, New York",
+    "placeholder": true
+  }
+]

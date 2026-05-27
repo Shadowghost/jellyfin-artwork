@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mad Chance",
+    "country": "US",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1757",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fc9qw5GoTbyWGa0QcfbsZFzuMKQ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

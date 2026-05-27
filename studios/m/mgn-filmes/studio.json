@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MGN Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2846"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "http://www.mgnfilmes.pt/",
+    "headquarters": "Lisbon",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kabak Films Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271102",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vE7VKgn1fXboxUOQbbBlCWUs9kP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.kabakfilms.com",
+    "headquarters": "Barcelona",
+    "placeholder": true
+  }
+]

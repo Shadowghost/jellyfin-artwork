@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Picasso Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101675"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

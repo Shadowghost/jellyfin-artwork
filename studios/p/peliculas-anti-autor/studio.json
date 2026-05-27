@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Películas Anti-autor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89513"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Radio New Zealand",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164658",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3Ui8etO4nAZuZneqVWzGl5V9CLQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NZ",
+    "homepage": "https://www.rnz.co.nz/",
+    "headquarters": "Wellington",
+    "placeholder": true
+  }
+]

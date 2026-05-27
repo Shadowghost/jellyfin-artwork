@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films de l'Odyssée",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109640",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6BOdzFLmLiupdlSVGkiwlTflvkT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.odyssee-films.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

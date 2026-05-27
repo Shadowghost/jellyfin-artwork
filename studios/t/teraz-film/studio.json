@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Teraz Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12690"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

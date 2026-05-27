@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Belarusfilm",
+    "country": "SU",
+    "homepage": "http://www.belarusfilm.by/",
+    "headquarters": "Minsk",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12617",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9Wf5DFTvzxo0pSqDp8MQWW3d01.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

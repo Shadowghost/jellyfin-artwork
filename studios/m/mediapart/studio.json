@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mediapart",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160393",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bp6oiezKSY1kI7YO9B5ZmOBgHip.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.mediapart.fr/",
+    "headquarters": "8 passage Brulon, 12e arrondissement de Paris",
+    "placeholder": true
+  }
+]

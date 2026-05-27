@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cinema 84",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4764"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "FOX Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85721",
+        "logo_uri": "https://image.tmdb.org/t/p/original/21N5NeX4l90jcFjG29VBQGkJ6VY.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "US",
+    "homepage": "https://www.foxcorporation.com/businesses/fox-network",
+    "headquarters": "Los Angeles, California",
+    "template": true
+  }
+]

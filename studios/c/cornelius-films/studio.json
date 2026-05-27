@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cornelius Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101521",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fytDVfYbXpLONzDxI5DAm3quBeW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.corneliusfilms.com",
+    "headquarters": "Barcelona, Catalonia",
+    "placeholder": true
+  }
+]

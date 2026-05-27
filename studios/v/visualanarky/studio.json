@@ -1,0 +1,13 @@
+[
+  {
+    "name": "VisualAnarky",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230050"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

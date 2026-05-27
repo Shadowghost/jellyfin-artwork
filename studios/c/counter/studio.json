@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Counter",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223096"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

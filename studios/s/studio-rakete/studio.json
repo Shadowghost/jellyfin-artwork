@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio Rakete",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129670",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uTWgaW7Z8hnjsRXjRNq90LeWPSN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.studiorakete.de/",
+    "headquarters": "Hamburg, Germany",
+    "placeholder": true
+  }
+]

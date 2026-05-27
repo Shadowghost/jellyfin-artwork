@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films de La Baie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126294",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zs4hvllWoIesfDewAxv48fDN5rg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.lesfilmsdelabaie.com",
+    "headquarters": "Saguenay, Quebec",
+    "placeholder": true
+  }
+]

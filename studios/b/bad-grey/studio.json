@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bad Grey",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188565",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u2S01tvRVRyrBS5L5FEBrjNnoFC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.badgrey.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

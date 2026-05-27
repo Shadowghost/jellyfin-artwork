@@ -1,0 +1,15 @@
+[
+  {
+    "name": "The Tannenbaum Company",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25039"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

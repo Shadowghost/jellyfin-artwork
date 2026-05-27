@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Videoladen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30149"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

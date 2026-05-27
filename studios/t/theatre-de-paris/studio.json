@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Théâtre de Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109989"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.theatredeparis.com",
+    "headquarters": "15 Rue Blanche, 75009 Paris",
+    "placeholder": true
+  }
+]

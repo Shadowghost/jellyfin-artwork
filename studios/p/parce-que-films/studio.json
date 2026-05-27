@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Parce Que Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114311",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cxQc27Lwu9CzcKpM2uTOJ0VnoRL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.parcequefilms.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

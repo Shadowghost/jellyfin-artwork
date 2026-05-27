@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmgate",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127287"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

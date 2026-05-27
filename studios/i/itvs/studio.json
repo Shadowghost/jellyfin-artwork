@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ITVS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10943",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9jd9RFYraPpPCz7rpqp5KhrwfAH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://itvs.org",
+    "headquarters": "San Francisco, California",
+    "placeholder": true
+  }
+]

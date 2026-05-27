@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Notting Hill Pictures",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

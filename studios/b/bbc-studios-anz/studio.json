@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BBC Studios ANZ",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120868",
+        "logo_uri": "https://image.tmdb.org/t/p/original/enAjeGPTtVw8pt7HSzZYBXPfbOY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://www.bbcstudios.com.au/",
+    "placeholder": true
+  }
+]

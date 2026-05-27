@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Saram Entertainment",
+    "country": "KR",
+    "homepage": "http://esaram.co.kr/ko",
+    "headquarters": "Yongsan, Seoul, South Korea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114516",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aLLFFBt7dC0lblRVjGy4IuMxrIA.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

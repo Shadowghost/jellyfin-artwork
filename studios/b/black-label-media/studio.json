@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Black Label Media",
+    "country": "US",
+    "homepage": "https://blacklabel-media.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33681",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dHx2nsV9AC7IBlKN2dk1FDImvOz.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

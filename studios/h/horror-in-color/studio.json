@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Horror in Color",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262789",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c29eYBgxWqynrqmSMsXPmfk5JBi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://horrorincolor.com",
+    "headquarters": "Los Angeles, CA",
+    "placeholder": true
+  }
+]

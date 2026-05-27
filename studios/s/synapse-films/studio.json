@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Synapse Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9100",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sA6FAQ2BYuI9YWEjIAQe6KHjtZ0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://synapsefilms.com",
+    "headquarters": "Romulus, Michigan",
+    "placeholder": true
+  }
+]

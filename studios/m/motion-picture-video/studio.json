@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Motion Picture Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98636",
+        "logo_uri": "https://image.tmdb.org/t/p/original/s1wxXLS7IKHt885xmxEyBUAuvYH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://motionpicturevideo.com",
+    "headquarters": "Las Vegas, Nevada, Lake Mary, Florida",
+    "placeholder": true
+  }
+]

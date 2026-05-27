@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Green Screen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "236329",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a1XyGTlq2bjLawMYQjBR4VjQR43.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BD",
+    "homepage": "https://www.greenscreenbd.com/",
+    "headquarters": "Dhaka",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Omava",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147305",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bHAvM9Or32pi9ZFMGbBdRr5zPeP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://omava.com",
+    "placeholder": true
+  }
+]

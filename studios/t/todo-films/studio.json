@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Todo Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256298"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

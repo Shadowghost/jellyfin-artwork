@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Abraxas Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51099",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2mYPKHlH7KpQKwLagNgknzyWPpg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BG",
+    "homepage": "https://www.abraxasfilm.com/",
+    "headquarters": "Sofia",
+    "placeholder": true
+  }
+]

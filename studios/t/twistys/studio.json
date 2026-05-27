@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Twistys",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8049",
+        "logo_uri": "https://image.tmdb.org/t/p/original/y2fHWDgVNRETYxnk0xmohxlMbJu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "headquarters": "Montreal, Quebec, Canada",
+    "placeholder": true
+  }
+]

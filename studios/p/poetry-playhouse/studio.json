@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Poetry Playhouse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "295491"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

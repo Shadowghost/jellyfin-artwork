@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Hussie Pass",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102838",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6P91YEQnzpHxeIdDohxmf1yMYXO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://hussiepass.com/",
+    "placeholder": true
+  }
+]

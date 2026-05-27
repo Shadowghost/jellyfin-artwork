@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Raindog Films",
+    "country": "GB",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60262",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vyHrXz8krlqHwPGxBQkmG6DqvKV.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

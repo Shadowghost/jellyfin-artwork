@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Stick Music",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187830",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nJKTSRQ857zuJcLPm9YbaLedSlD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.stickmusic.fr/",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

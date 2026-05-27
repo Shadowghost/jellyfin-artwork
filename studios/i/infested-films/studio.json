@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Infested Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23409",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3ULcyBzIOGQy03COEezecCx7GZV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.infestedfilms.com",
+    "placeholder": true
+  }
+]

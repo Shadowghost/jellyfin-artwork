@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine Español (CESA)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189388"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

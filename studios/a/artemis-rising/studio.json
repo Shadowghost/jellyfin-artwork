@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Artemis Rising",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66478",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u7WmMkfo9MqsqfD5cuDAbd0u1qY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://artemisrising.org/",
+    "headquarters": "San Francisco, California",
+    "placeholder": true
+  }
+]

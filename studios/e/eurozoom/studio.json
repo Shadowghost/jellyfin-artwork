@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Eurozoom",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242152",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d1YlKUX1ErDdadHvxPimUdNEFiz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.eurozoom.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

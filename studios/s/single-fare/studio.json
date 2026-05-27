@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Single Fare",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "253351"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

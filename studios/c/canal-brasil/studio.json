@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Canal Brasil",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13573",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4dqepK1XdLklrsYdnFpCEkOPXLX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://canaisglobo.globo.com/c/canal-brasil/",
+    "headquarters": "Rio de Janeiro",
+    "placeholder": true
+  }
+]

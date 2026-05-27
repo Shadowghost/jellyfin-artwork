@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Archives nationales",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155813",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b2PZdPbpmDOkOyZ2SiWeTzQ7Qk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.archives-nationales.culture.gouv.fr/",
+    "headquarters": "Pierrefitte-sur-Seine",
+    "placeholder": true
+  }
+]

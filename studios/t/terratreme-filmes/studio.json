@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Terratreme Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "178397",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sLW7tLTxGr0XKP44nvmSI7ri1hw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "https://www.terratreme.pt/",
+    "headquarters": "Lisbon",
+    "placeholder": true
+  }
+]

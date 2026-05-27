@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Sky",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19079",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3hskOJPppWrWq7gZaBJzP7aFB9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Indice Música",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239836"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

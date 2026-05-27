@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Metropolitan Opera",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15005"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.metopera.org/",
+    "headquarters": "New York, USA",
+    "placeholder": true
+  }
+]

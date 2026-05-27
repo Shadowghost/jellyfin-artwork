@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cineville",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2832"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

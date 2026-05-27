@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinema Universidad",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175997",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wbKlBgCFiZjmnghx9dHovBWw5Cc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://cinema.edu.mx",
+    "headquarters": "Av. De Las Rosas 236, Bugambilias, 72580 Heroica Puebla de Zaragoza, Pue",
+    "placeholder": true
+  }
+]

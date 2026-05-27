@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Forastero",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40230"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "http://forastero.cl/",
+    "headquarters": "Santiago",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kino Świat",
+    "country": "PL",
+    "homepage": "http://kinoswiat.pl/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20771",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dnnhT0dIXV9Gu2K98F0rmFGK4hl.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Auguri Production",
+    "country": "FR",
+    "homepage": "https://www.auguriproductions.com/",
+    "headquarters": "Paris, France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117935"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

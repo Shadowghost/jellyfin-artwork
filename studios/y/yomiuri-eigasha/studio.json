@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Yomiuri Eigasha",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216607"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "JP",
+    "template": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Artear",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90187",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wjEQWCBx2tZHBxsLgOGAwddOXWe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://artear.com.ar/en",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Rainbox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120810"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

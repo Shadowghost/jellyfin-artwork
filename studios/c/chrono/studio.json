@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Chrono",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181050"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

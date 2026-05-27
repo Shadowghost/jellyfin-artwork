@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Big Ten Network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280997",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j3AVrUz8DkpuhvenD2KEmwxcRqd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://bigten.org/btn/about",
+    "headquarters": "Chicago, Illinois",
+    "placeholder": true
+  }
+]

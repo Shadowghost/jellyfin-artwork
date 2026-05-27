@@ -1,0 +1,13 @@
+[
+  {
+    "name": "OPAP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75332"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

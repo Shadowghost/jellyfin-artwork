@@ -1,0 +1,13 @@
+[
+  {
+    "name": "8ball music",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283173"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

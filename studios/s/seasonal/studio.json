@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Seasonal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42596"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "KOEI-PRO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280330",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iXTHTmsTVEiJUEEu6YGjwOmMRBb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://koei-pro.com/",
+    "placeholder": true
+  }
+]

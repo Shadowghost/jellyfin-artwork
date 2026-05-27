@@ -1,0 +1,16 @@
+[
+  {
+    "name": "台灣大哥大MyVideo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256239",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5ZvKQ5hip2FTFbNWhO4WfR5JbKr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TW",
+    "homepage": "https://www.myvideo.net.tw/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Creation Station",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184084",
+        "logo_uri": "https://image.tmdb.org/t/p/original/reT0TWmy3Gw5utmP2MEm98lLBug.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.creationstation.tv/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

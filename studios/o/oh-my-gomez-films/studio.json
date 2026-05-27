@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Oh My Gomez! Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17047",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tqZnlEQWWKGV0z0TvSzK1syfS8U.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://www.ohmygomez.com",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

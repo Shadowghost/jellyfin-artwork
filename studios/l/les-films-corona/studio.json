@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Les Films Corona",
+    "country": "FR",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1398"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

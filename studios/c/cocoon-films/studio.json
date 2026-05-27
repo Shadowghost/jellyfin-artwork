@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cocoon Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192513",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nIaADxiIARqyEXiKLuuAgYAfENe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://cocoonfilms.co.uk/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

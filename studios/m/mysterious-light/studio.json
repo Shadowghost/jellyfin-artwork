@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mysterious Light",
+    "country": "AU",
+    "homepage": "http://www.mysterious-light.com",
+    "headquarters": "Sydney, New South Wales",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22898"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Art Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99762"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.artfims.com.br/",
+    "headquarters": "Rio de Janeiro RJ",
+    "placeholder": true
+  }
+]

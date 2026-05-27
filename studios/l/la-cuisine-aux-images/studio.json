@@ -1,0 +1,16 @@
+[
+  {
+    "name": "La Cuisine aux images",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103653",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d8hY0usq5lvPmj2YtriyrV8oN56.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.lacui.com/",
+    "placeholder": true
+  }
+]

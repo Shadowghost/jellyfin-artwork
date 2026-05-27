@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Experimental Forest Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113594",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uR0gLDb8dAntQ5dno6Mnk5NLTiN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://experimentalforest.ca/",
+    "headquarters": "Vancouver, British Columbia",
+    "placeholder": true
+  }
+]

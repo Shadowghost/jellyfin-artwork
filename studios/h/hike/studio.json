@@ -1,0 +1,16 @@
+[
+  {
+    "name": "HIKE",
+    "country": "JP",
+    "homepage": "https://hike.inc/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193095",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xhOXB3eXGnadZWouVZ1X4NbiGkN.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

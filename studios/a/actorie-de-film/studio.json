@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Actorie de Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25381",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9Xx8arZ0I6pcIcTaUl2z0sNbMAp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "homepage": "http://actoriedefilm.ro",
+    "headquarters": "Bucarest",
+    "placeholder": true
+  }
+]

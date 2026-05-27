@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lynx",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91346"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

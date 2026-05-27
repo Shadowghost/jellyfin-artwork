@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Good Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200017"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

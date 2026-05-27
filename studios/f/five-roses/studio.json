@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Five Roses",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22456"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

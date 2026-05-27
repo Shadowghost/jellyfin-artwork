@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bear Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130651",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wFZ6N6tMvg9Oly0gZjveLDKQ2QD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://bearfilms.com/",
+    "headquarters": "MMW, Kemp House, City Road, London, England, EC1V 2NX",
+    "placeholder": true
+  }
+]

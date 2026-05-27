@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Pacific Standard",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15829"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

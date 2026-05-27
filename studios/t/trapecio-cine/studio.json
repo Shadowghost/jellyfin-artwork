@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Trapecio Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89306",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2u8p75ZSvyMpFLh23qwOwUDWFvj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://trapeciocine.com.ar/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

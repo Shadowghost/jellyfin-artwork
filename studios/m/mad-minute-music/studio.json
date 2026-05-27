@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mad Minute Music",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255753",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zvrKX2adOj1cD1nlIMybUeSdyiu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.madminutemusic.com/",
+    "headquarters": "Saint-Ouen-sur-Seine",
+    "placeholder": true
+  }
+]

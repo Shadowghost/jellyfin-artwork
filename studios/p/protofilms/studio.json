@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Protofilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104059",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kKBUqILA6LIIR4mzkWV2pNC1lrs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://www.protofilms.net/",
+    "headquarters": "Ciudad de México",
+    "placeholder": true
+  }
+]

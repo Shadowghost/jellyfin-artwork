@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AMBI Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27753",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jzafip7LtHHOHsID18LIeJvTc3U.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://ambidistribution.com/",
+    "headquarters": "Los Angeles, Califoria",
+    "placeholder": true
+  }
+]

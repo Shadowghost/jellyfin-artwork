@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Neue Prometheus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219374"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

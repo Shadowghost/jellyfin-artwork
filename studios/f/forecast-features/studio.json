@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Forecast Features",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23665"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Movie BlockBuster",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "236356"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

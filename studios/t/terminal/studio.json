@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Terminal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84645",
+        "logo_uri": "https://image.tmdb.org/t/p/original/chCohwvNl0TZEGaxI4UGZN4NK5L.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "http://terminalmx.com/",
+    "headquarters": "Cuauhtémoc, Mexico City",
+    "placeholder": true
+  }
+]

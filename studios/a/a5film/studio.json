@@ -1,0 +1,17 @@
+[
+  {
+    "name": "A5film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165230",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6KU5c0KGlzHZEwejQJ5ZbhGfdD2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.a5film.no",
+    "headquarters": "Oslo",
+    "placeholder": true
+  }
+]

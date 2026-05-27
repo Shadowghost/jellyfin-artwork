@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Besucherfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "64677"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

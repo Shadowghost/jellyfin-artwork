@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TV Scene",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27806"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Rugby Pass",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189681"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

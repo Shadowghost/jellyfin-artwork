@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kanetsu Investment",
+    "country": "JP",
+    "homepage": "https://www.kanetuu.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165053",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4WWMlLdv7uZaJoBwIkF2P5U09uP.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

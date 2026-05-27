@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Skopje Film Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "68861",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j71QH0otLM8lQvr3Q387nxXXTcv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MK",
+    "homepage": "https://skopjefilmstudio.wixsite.com/officialsite",
+    "headquarters": "Skopje",
+    "placeholder": true
+  }
+]

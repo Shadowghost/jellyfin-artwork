@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Criatura Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219475",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1IaMWwfyEKUIMJbgnWWZgAwmyhp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UY",
+    "homepage": "https://criaturacine.com/",
+    "headquarters": "Montevideo",
+    "placeholder": true
+  }
+]

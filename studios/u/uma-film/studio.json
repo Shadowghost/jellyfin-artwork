@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Uma Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163216",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yGKxQTKNEEDXsUgqjCKpLvGWZkZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://umafilm.dk/",
+    "headquarters": "Copenhagen, Denmark",
+    "placeholder": true
+  }
+]

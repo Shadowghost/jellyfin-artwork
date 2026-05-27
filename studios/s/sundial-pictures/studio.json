@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sundial Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10479",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oCj1bt8kcoxfJPXoxjqfjeJvF3Y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://sundialpictures.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cloudbreak Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170257"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

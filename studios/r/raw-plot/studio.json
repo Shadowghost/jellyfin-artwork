@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Raw Plot",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170735"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

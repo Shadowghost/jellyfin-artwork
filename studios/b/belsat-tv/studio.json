@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Belsat TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117526",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iKueQHLIkBg9NsBHV09z2srKu2B.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://belsat.eu/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

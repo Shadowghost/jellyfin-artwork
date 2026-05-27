@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Planet Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93164"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

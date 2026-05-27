@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Perceval Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52590",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p9pTDjZsyxsQ7pwj0pskJPmmzJq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.percevalpictures.com/",
+    "placeholder": true
+  }
+]

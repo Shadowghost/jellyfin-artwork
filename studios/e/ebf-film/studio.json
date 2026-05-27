@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ebf-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141108"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "placeholder": true
+  }
+]

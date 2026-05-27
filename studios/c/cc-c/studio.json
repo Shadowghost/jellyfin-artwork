@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CC&C",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24678",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2XgHpNJsBm6jh4CVrgqpLQemXmU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.cccprod.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

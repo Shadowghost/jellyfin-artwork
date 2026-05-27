@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MakerVille",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179050",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9ieuZrJTDeJqRlO4EGpy4PeIwHw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HK",
+    "homepage": "https://makerville.hk/en/",
+    "placeholder": true
+  }
+]

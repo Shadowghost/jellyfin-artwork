@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Manman Comics",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192566",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4uEJwNYwJJF38kytkD1qmS4F4VN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://www.manmanapp.com/",
+    "placeholder": true
+  }
+]

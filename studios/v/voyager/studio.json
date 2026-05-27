@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Voyager",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256216"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

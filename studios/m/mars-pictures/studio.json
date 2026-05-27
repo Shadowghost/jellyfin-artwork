@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Mars Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214462"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Belino Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194390",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yg97sgc54sL1fWgNQCEIn5OtXPn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://belinoproduction.com/",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

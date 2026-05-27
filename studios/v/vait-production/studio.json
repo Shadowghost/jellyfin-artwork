@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Vait production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120715"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Ministère des Affaires étrangères et européennes",
+    "description": "French government ministry responsible for the country's foreign relations, often credited as a funder of French film co-productions.",
+    "country": "FR",
+    "type": "government-agency",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22626"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

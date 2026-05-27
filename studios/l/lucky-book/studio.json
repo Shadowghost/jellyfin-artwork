@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lucky Book",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193766"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Allegro Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100023"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "headquarters": "Rio de Janeiro RJ",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Distract Scene",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262665",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lT0p1UhuY2ir8OpEEKr4O2z5aQT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "headquarters": "Yogyakarta",
+    "placeholder": true
+  }
+]

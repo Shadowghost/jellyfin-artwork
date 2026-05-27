@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Spooky Pictures",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169906",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zcjActhEXaYww1JSvx2OtCd8jTG.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Associated Film Distribution",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212833",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yeAjxb0S7SCLwWHnkadC1JSrRmn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

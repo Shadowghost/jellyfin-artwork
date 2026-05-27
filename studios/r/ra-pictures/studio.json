@@ -1,0 +1,15 @@
+[
+  {
+    "name": "RA Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104945",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e1yiWGmdGNaCZre4vCf5oKU7CeD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "placeholder": true
+  }
+]

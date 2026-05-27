@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Borgerhoff & Lamberigts",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153352",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7sPTq3nu5vWyPMJKJWLldX6IyKx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.borgerhoff-lamberigts.tv/",
+    "headquarters": "Ghent",
+    "placeholder": true
+  }
+]

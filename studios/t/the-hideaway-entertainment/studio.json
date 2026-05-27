@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Hideaway Entertainment",
+    "country": "US",
+    "homepage": "https://www.thehideaway.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103673",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1KOt0I6HFzRISlFgvtcH4GqLG2o.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Film Independent",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139945",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4ZH644BEbXxKaqqWbVpyonGtwCE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

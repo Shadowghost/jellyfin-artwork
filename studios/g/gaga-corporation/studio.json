@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GAGA Corporation",
+    "country": "JP",
+    "homepage": "https://www.gaga.co.jp/",
+    "headquarters": "Minato, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84048",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mkxZQuPpZ0cBDfjr4PAxltGSsoH.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

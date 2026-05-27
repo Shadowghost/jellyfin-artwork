@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinema Futura",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126899",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g8939qART19KfvqjE8G9thUDOom.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MK",
+    "homepage": "https://cinemafutura.com/",
+    "headquarters": "Skopje",
+    "placeholder": true
+  }
+]

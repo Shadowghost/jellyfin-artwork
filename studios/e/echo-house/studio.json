@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Echo House",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83387"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

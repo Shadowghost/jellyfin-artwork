@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Channel NECO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257839",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yzbNSSKMWYxferuSFVVcsDJTBAV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.necoweb.com/neco/",
+    "placeholder": true
+  }
+]

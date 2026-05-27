@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Conteúdo Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172031"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

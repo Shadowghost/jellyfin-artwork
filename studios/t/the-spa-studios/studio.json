@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The SPA Studios",
+    "country": "ES",
+    "homepage": "https://www.thespastudios.com",
+    "headquarters": "Madrid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101644"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

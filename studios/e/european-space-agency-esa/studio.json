@@ -1,0 +1,17 @@
+[
+  {
+    "name": "European Space Agency (ESA)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126857",
+        "logo_uri": "https://image.tmdb.org/t/p/original/z39RbTsuTHdBwSCHI290MQsNw06.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.esa.int/",
+    "headquarters": "Paris, Île-de-France, France",
+    "placeholder": true
+  }
+]

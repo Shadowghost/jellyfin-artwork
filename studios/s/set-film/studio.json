@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SET Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123222"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

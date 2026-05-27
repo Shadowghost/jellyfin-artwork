@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Car Trek",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225879",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jqvabQhQOD1F3YIoIyNQxJY5lQE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.cartrektc.com/",
+    "headquarters": "Traverse City, Michigan",
+    "placeholder": true
+  }
+]

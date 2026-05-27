@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gavilán Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226941",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eLCz46R2v7W4Eef4zy41SEjujNJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://www.gavilancine.com/",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

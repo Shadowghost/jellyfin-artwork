@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TAT Productions",
+    "country": "FR",
+    "homepage": "http://www.tatprod.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28792",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v50Ht1JMylIOeMfjHGO9u4YU6iF.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

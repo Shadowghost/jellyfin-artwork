@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Faces International Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "454"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

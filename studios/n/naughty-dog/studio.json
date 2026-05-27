@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Naughty Dog",
+    "country": "US",
+    "homepage": "https://www.naughtydog.com",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23217",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kXBZdQigEf6QiTLzo6TFLAa7jKD.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pandora Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17390",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ijBPMFIV5nWzjVupZWIlt4Limlf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.pandorafilm.com/",
+    "headquarters": "Köln",
+    "placeholder": true
+  }
+]

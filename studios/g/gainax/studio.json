@@ -1,0 +1,35 @@
+[
+  {
+    "name": "GAINAX",
+    "description": "Japanese anime studio founded in 1984, best known for Neon Genesis Evangelion, FLCL, and Gurren Lagann; filed for bankruptcy in 2024.",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "https://www.gainax.co.jp",
+    "headquarters": "Musashino, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3041",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j9VqEdiNqIkMJKku1UTGMAvmuRr.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Gainax"
+    ],
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie Night",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241529"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

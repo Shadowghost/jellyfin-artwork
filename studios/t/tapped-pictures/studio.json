@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tapped Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "68260"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

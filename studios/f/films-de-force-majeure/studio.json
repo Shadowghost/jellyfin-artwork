@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Films de Force Majeure",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34378",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lNOr2K6lGnvWFXLJfzpSGRgnPix.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.films-de-force-majeure.com",
+    "headquarters": "Marseille",
+    "placeholder": true
+  }
+]

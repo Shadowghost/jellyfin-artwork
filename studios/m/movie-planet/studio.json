@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie Planet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93070"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

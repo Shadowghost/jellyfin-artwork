@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Cuadernos de Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205888",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sACXBcoorNgGHzOeDhsgRK9MNIQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "placeholder": true
+  }
+]

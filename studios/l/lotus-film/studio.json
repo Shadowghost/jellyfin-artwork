@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lotus-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37058",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pWUIywEOdy0650kBbuRw5aI90zA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "http://www.lotus-film.at",
+    "headquarters": "Wien, Austria",
+    "placeholder": true
+  }
+]

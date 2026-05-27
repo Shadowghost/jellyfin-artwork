@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tlachia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201709"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

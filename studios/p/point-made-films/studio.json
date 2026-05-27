@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Point Made Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8702"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

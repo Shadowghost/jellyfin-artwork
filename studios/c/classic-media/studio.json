@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Classic Media",
+    "description": "American media company that owned a library of classic family entertainment properties (Rocky and Bullwinkle, Casper, Lassie, Lone Ranger); acquired by DreamWorks Animation in 2012 and renamed DreamWorks Classics.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://classics.dreamworksanimation.com/",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37382",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8GoaFY2GaoRhDYUUqulZx8CCrhV.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

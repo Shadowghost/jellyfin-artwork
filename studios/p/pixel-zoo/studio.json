@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pixel Zoo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162367",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2GTfoSwtNGDQRTspMs15nvaMsQd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://pixelzoo.com.au",
+    "placeholder": true
+  }
+]

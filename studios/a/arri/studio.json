@@ -1,0 +1,39 @@
+[
+  {
+    "name": "ARRI",
+    "description": "German manufacturer of motion picture cameras, lenses, lighting and post-production equipment, founded in Munich in 1917.",
+    "country": "DE",
+    "type": "other",
+    "colors": [
+      {
+        "name": "ARRI Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "ARRI White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258395"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

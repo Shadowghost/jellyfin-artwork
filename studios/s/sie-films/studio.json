@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SIE Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149187",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e9bjQzYrye5MRBGamoDOJCWYyUT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://siefilms.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

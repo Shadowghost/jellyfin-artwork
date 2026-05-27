@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MOFAC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101045",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zS0ickpMVfdgBsKqwxwrEmpajbt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.mofac.com/",
+    "headquarters": "Seoul",
+    "placeholder": true
+  }
+]

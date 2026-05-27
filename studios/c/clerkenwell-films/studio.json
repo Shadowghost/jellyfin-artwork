@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Clerkenwell Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15788",
+        "logo_uri": "https://image.tmdb.org/t/p/original/haOHry5U7AMG3YOsPub4Az7OW2y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://www.clerkenwellfilms.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

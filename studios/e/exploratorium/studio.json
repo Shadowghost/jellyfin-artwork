@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Exploratorium",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "297556"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.exploratorium.edu/",
+    "headquarters": "San Francisco, California, United States",
+    "placeholder": true
+  }
+]

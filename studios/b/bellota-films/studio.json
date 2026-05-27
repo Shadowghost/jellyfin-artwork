@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bellota Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52600",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l9TgnrwPvRnCAroWKVW8RdaVyQf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://bellotafilms.fr",
+    "placeholder": true
+  }
+]

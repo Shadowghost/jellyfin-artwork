@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mediapro",
+    "country": "ES",
+    "homepage": "https://www.mediapro.tv/en",
+    "headquarters": "Barcelona, Catalonia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12010",
+        "logo_uri": "https://image.tmdb.org/t/p/original/37Yr7iuWGXk849o8osIQKTQSZY5.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

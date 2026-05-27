@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Cinemart",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77718",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AsbfXdvO5fyTjGjHUKflwoUGWfV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://thecinemart.com/",
+    "headquarters": "New York City, New York, United States",
+    "placeholder": true
+  }
+]

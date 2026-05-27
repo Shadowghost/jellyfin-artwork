@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AFCD Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3042"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Timpson Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19324",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4477VWTYzZeYWs64v0DCVO7k544.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NZ",
+    "homepage": "https://www.timpsonfilms.com/",
+    "headquarters": "Auckland",
+    "placeholder": true
+  }
+]

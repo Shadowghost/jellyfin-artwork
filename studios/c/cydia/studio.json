@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cydia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163756"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Dangerous Documentaries",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123838"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Forge Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39676",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iYkcRlXcDPzrO5xLTWFYxO2D2jU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.forgefilms.ca",
+    "placeholder": true
+  }
+]

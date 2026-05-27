@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Robot Communications",
+    "country": "JP",
+    "homepage": "https://www.robot.co.jp/en",
+    "headquarters": "Shibuya, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12386",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oxvw2Mrq3GcTxFc2mlT7E5tpek7.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

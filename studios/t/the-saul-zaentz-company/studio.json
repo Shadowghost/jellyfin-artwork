@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Saul Zaentz Company",
+    "country": "US",
+    "homepage": "http://www.zaentz.com",
+    "headquarters": "Berkeley, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5237",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mlnr7vsBHvLye8oEb5A76C0t8x9.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

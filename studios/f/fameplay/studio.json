@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fameplay",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202505"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.fameplay.pro/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

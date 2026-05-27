@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Volpe Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112688",
+        "logo_uri": "https://image.tmdb.org/t/p/original/s8rxAMoXA0ldpPh7W1h9eoc1hAt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://www.volpefilms.com/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

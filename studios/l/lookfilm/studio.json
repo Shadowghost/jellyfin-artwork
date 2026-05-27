@@ -1,0 +1,17 @@
+[
+  {
+    "name": "LookFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69021",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aSB6HMp0WwENBz7LScQIVTF9K4Y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://www.look-film.tv",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

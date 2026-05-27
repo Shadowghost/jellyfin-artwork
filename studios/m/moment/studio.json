@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Moment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157251",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qtIU2ZUok2MwuAkjRorH1XnHVGO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.moment.co",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

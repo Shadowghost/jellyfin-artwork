@@ -1,0 +1,28 @@
+[
+  {
+    "name": "BBC Television Centre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110808"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "GB",
+    "headquarters": "London",
+    "template": true
+  }
+]

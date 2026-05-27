@@ -1,0 +1,14 @@
+[
+  {
+    "name": "mbvideo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121102"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Malt-O-Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248188"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

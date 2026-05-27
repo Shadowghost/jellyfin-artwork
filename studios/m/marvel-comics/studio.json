@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Marvel Comics",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "296514",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kV7FUoyWxyqVxRNo3UkcXRsWZSv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.marvel.com/",
+    "headquarters": "Nova York",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Rede Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "269368"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

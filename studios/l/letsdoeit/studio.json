@@ -1,0 +1,16 @@
+[
+  {
+    "name": "LetsDoeIt",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123418",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gg7DRsFF0GLI56j2gxwJOP2mA5T.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://letsdoeit.com",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Venn Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100013",
+        "logo_uri": "https://image.tmdb.org/t/p/original/byVsX4qK2p9kNixMjCjYnnqTBjT.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

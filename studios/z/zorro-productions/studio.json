@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Zorro Productions",
+    "description": "American company based in Berkeley, California that owns the trademarks and copyrights to the character Zorro and licenses related films, TV, and merchandise.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.zorro.com/",
+    "headquarters": "Berkeley, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121750",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xrd38ontNVcwJ4Ene4wQKbqaria.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Zorro Productions, Inc."
+    ],
+    "template": true
+  }
+]

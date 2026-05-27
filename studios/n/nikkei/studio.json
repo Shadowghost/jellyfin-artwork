@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NIKKEI",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257370",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q145BXBlZG0Y855ZEd2HrQMnsM5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.nikkei.co.jp/nikkeiinfo/",
+    "placeholder": true
+  }
+]

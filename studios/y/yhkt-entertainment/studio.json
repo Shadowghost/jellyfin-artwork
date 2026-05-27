@@ -1,0 +1,17 @@
+[
+  {
+    "name": "YHKT Entertainment",
+    "country": "CN",
+    "homepage": "http://www.1hkt.com/",
+    "headquarters": "Wuhan, China",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120741",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q6BHRe3si0FgI6mzEwYA2QZCeqf.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

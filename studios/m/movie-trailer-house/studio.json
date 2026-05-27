@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Movie Trailer House",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138201",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u9k264LCl7rGU1MaP5ZKsPdBQ6H.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://movietrailerhouse.com/",
+    "placeholder": true
+  }
+]

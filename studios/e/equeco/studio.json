@@ -1,0 +1,17 @@
+[
+  {
+    "name": "EQUECO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164122",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hArJ4MNe97r65vBVKUcz2pm1t3t.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "http://www.equeco.cl/",
+    "headquarters": "Santiago",
+    "placeholder": true
+  }
+]

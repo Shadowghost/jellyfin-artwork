@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Penthouse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6226",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iisjz57ADl50iwNDXynDR9STAqv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

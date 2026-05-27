@@ -1,0 +1,16 @@
+[
+  {
+    "name": "A-Squad Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234579",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r5aFVYtT9TVfMV9exTjXGko6IDd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

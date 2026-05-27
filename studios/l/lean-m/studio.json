@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lean-M",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32626",
+        "logo_uri": "https://image.tmdb.org/t/p/original/idN0Y7wU3fB2VLncVKSYby7yp79.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://www.lean-m.ru/",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

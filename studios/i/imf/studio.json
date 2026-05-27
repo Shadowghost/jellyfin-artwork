@@ -1,0 +1,14 @@
+[
+  {
+    "name": "IMF",
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "65403"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

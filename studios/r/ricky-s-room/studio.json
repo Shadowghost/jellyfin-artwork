@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ricky's Room",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187540",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hsRJapZSRqEw9bdZiBGIKR8DOCZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://rickysroom.com/",
+    "placeholder": true
+  }
+]

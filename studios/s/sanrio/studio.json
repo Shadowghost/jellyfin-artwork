@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sanrio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8487",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bXWVZmW3RD6SAk0lFahPxNbp541.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.sanrio.com",
+    "headquarters": "Shinagawa, Tokyo",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TV Tokyo Music",
+    "country": "JP",
+    "homepage": "https://www.ttmnet.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172042",
+        "logo_uri": "https://image.tmdb.org/t/p/original/opffPpCFyxpuiEVcVMoR6hNFPy.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

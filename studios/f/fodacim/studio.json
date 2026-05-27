@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FODACIM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188168",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xoRVAsdZhQuTZHpbbYmLKdbKhDG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.fodacim.fr/",
+    "headquarters": "FODACIM, 14 Rue de la République, 38000 Grenoble, France",
+    "placeholder": true
+  }
+]

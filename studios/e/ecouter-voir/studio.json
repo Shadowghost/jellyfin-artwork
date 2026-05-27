@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ecouter-Voir",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110087"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

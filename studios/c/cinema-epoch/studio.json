@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cinema Epoch",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2513"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

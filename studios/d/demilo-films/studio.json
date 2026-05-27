@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Demilo Films",
+    "country": "CA",
+    "homepage": "https://www.demilofilm.com",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10678"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

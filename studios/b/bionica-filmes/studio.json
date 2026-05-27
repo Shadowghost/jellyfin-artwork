@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Biônica Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85607",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hZxlXNBQr4NInBImTQyTw5FyYQJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.bionicafilmes.com.br/",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

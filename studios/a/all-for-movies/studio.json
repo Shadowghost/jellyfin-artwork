@@ -1,0 +1,13 @@
+[
+  {
+    "name": "All For Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260588"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

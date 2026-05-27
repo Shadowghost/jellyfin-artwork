@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BING Film & Televisie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55641",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vqU0ajCo1swgHutiJNH3irju5uf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "http://www.bingfilm.tv",
+    "placeholder": true
+  }
+]

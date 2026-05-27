@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bermuda Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159598",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j5JMK5CoWhYdBMXEG2JXa7BbYCA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://www.bermudaproduction.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tinygrade",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283477"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

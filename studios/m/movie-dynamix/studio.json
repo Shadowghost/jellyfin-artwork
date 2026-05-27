@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Movie Dynamix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113934"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Stereo Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208219",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8KyLWh0iWXX7L5CJyX1GmKLb9Z6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.stereofilms.de/",
+    "placeholder": true
+  }
+]

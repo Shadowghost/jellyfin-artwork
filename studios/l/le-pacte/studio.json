@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Le Pacte",
+    "country": "FR",
+    "homepage": "http://www.le-pacte.com",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5125",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t3oWTsVukmEzrZzvfr37XRBibo5.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinemaundici",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28699",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vCqaf8TwyhBgpHBoCvCkoaGtrON.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.cinemaundici.it/",
+    "headquarters": "Milano & Roma",
+    "placeholder": true
+  }
+]

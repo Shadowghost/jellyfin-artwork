@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films du Mercure",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215318"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

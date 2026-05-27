@@ -1,0 +1,17 @@
+[
+  {
+    "name": "all in production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14790",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6uA4eCZuWAq0KTGiIDCERUppaoo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.all-in-production.de",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

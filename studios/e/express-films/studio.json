@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Express-Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84173"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Freiburg im Breisgau",
+    "placeholder": true
+  }
+]

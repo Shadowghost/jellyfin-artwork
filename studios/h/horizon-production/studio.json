@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Horizon Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49672"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

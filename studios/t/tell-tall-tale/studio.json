@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tell Tall Tale",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205546",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fCBbTVjIicYY8AbkTuhxRR5MbfH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

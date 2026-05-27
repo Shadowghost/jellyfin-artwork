@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Alaca production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134222"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

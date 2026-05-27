@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Keplerfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108847",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wXcInrUH3f5Vc2Ok13kURwUQ9Zv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://keplerfilm.com/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

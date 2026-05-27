@@ -1,0 +1,37 @@
+[
+  {
+    "name": "BBC Two",
+    "description": "British free-to-air public broadcast television channel owned and operated by the BBC, launched in 1964.",
+    "country": "GB",
+    "type": "broadcast-network",
+    "homepage": "https://www.bbc.co.uk/bbctwo",
+    "colors": [
+      {
+        "name": "BBC Two Dark",
+        "hex": "#1A1A1A"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144640",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dU4Bna2kbK5S6npO7N1Q5rpOwRn.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

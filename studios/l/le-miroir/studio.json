@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Le Miroir",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119894",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qnxhv7IWV9yAFNx8UAE6y8AOvK3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.lemiroir.com",
+    "headquarters": "Vitry sur Seine, France",
+    "placeholder": true
+  }
+]

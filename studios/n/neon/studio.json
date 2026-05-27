@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NEON",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90733",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3K9wCZTyDgop3ITK1rDi6T2PckE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://neonrated.com/",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fairhaven",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121511",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nlrrg9d0Pi2LAIwIAVfAdMEpOH2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://fairhavenfilms.com/",
+    "placeholder": true
+  }
+]

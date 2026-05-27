@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Torino Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101836"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.torinopictures.com",
+    "placeholder": true
+  }
+]

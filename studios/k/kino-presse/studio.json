@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kino Presse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177149",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pbFek3f7H0QUJXgSCThW8MVI3vZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.kino.fr/kinopresse-agence-de-presse/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Propellor Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "44410"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

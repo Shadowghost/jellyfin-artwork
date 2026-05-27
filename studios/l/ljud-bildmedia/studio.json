@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ljud & Bildmedia",
+    "country": "SE",
+    "homepage": "https://www.ljud-bildmedia.se/",
+    "headquarters": "Stockholm, Sweden",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106285"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

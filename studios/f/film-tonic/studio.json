@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Tonic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20176"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

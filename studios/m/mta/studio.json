@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MTA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52685"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

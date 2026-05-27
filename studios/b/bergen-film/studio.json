@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bergen Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "575"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

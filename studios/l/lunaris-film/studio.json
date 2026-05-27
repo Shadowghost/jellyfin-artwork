@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Lunaris Film",
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "510"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "TV 2 Zulu",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108729",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jsCvCPNk40KrnlNpiKbjhpcSmJc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "placeholder": true
+  }
+]

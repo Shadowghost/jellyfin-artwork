@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Real Ficção",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123741",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rTlCSuhJ4J9Vd4FxFEKLH4rDmiA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "http://www.realficcao.com",
+    "headquarters": "Lisbon",
+    "placeholder": true
+  }
+]

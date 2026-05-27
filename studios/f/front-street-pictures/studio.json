@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Front Street Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3958",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xkdYNmOW6e4gjgp4NSLRt0W5UIj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://frontstreetpictures.com",
+    "headquarters": "Vancouver, British Columbia",
+    "placeholder": true
+  }
+]

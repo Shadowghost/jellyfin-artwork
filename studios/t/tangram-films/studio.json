@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tangram Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133406",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m6KXHH6uJcP7fp8SNPj6j5LO929.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.tangramfilms.fr",
+    "placeholder": true
+  }
+]

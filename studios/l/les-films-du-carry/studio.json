@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les films du Carry",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150832"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

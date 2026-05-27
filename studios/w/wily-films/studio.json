@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Wily Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204058",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4TNl0UXc0N0jb82KHkeyj3EUV8y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://wilyfilms.com/",
+    "placeholder": true
+  }
+]

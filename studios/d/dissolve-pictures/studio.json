@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Dissolve Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "282807"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

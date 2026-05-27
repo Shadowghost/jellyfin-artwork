@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Global Film Factory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129922",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ewP5Vu9ZUC197lnlfuOuaJhOfXc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "http://globalfilmfactory.nl",
+    "headquarters": "Noordwijk, South Holland",
+    "placeholder": true
+  }
+]

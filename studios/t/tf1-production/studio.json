@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TF1 Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35953",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n4OA4cWRIjyGPVz6y7BXydyHSKU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.groupe-tf1.fr",
+    "headquarters": "1 quai du Point du Jour, Boulogne Billancourt",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "New Form Digital",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49959"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

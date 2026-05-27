@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sunset Presse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "59363",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rkARRnarcj9AwpcoOQbgZTV8ayZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.sunsetpresse.fr/",
+    "headquarters": "55 bis rue Edouard Vaillant, 92300 Levallois-Perret",
+    "placeholder": true
+  }
+]

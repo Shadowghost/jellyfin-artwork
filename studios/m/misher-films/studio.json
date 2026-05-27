@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Misher Films",
+    "country": "US",
+    "homepage": "http://www.misherfilms.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11581",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yIORcWTFHtbXvWjqXAqFuMxx0K0.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cheex",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "243194",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kwLtRPubPcVZs1eIVqGEpTYfNfV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://getcheex.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

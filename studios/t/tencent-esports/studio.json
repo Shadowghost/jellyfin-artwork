@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tencent Esports",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133626",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2E0Gx8C6DuNW3k1FNyIpQmKtzV3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://esports.qq.com/",
+    "headquarters": "Shenzhen, China",
+    "placeholder": true
+  }
+]

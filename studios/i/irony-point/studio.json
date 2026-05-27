@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Irony Point",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109829",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wW1hvmA2edFqjJaoWMK4GChFnpE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://ironypoint.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ghazal production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224020"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

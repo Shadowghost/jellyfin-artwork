@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films en Couleur",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "195003"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

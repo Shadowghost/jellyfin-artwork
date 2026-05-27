@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ulsan MBC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197426",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qMYeZflBF3iVtYY6uXusRgkQov4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.usmbc.co.kr/",
+    "headquarters": "Ulsan, South Korea",
+    "placeholder": true
+  }
+]

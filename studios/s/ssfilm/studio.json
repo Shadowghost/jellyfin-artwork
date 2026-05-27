@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SSFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141004"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

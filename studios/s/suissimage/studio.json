@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Suissimage",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37647"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "placeholder": true
+  }
+]

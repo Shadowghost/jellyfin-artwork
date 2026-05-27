@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Old Curiosity Shop",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231506",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tvfItsHl3v7V1Pgi3YFjxOfO2GJ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

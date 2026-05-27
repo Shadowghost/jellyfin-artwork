@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CHUOKORON-SHINSHA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106000",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xzg8lUyQ5KKjY8IREi7imqgOuEX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.chuko.co.jp/",
+    "placeholder": true
+  }
+]

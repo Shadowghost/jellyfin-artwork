@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Museu de Arte do Rio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "278622"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

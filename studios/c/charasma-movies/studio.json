@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Charasma Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74530"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

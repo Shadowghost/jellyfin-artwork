@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Meat Bingo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199000"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

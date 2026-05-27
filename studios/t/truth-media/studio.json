@@ -1,0 +1,17 @@
+[
+  {
+    "name": "truth.media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138607",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m52Wl1fiB6sBzGSVVCsdW1dXqLd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://truth.media",
+    "headquarters": "Brooklyn, New York City, New York",
+    "placeholder": true
+  }
+]

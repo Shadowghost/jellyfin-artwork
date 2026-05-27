@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Media 3.14",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60123"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Filmbox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137305",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nUeeeqP4CER4wXMpTC9noQrA13F.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "http://www.filmbox.com",
+    "placeholder": true
+  }
+]

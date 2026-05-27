@@ -1,0 +1,17 @@
+[
+  {
+    "name": "IndigiFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214327",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ibbrpqAk4coBzXff40ZUlvNySXl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://indigifilm.ca/",
+    "headquarters": "Vancouver, British Columbia",
+    "placeholder": true
+  }
+]

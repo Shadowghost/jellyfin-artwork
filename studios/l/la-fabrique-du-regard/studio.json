@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Fabrique du Regard",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221427",
+        "logo_uri": "https://image.tmdb.org/t/p/original/krVUALzSji5vsG8p8XFVMxrCikD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.le-bal.fr/la-fabrique-du-regard",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

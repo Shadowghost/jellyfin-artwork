@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Beta Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "195002"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Destiny",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "963"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Fidélité Films",
+    "country": "FR",
+    "headquarters": "Paris, France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2927"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

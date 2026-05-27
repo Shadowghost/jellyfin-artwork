@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SuperPelis",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158423",
+        "logo_uri": "https://image.tmdb.org/t/p/original/laYVqjmrD4Mb2dtLSVNVKP2wsz0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://superpelis.ml",
+    "headquarters": "New York",
+    "placeholder": true
+  }
+]

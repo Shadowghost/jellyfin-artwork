@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NewGin",
+    "country": "JP",
+    "homepage": "https://www.newgin.co.jp/",
+    "headquarters": "Nagoya",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200458"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

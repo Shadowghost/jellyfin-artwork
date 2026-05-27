@@ -1,0 +1,32 @@
+[
+  {
+    "name": "NBCUniversal Entertainment Japan",
+    "description": "Japanese home video and music distribution company; previously known as Pioneer LDC, Geneon Entertainment and Geneon Universal Entertainment; releases anime, music, and Universal Pictures titles in Japan.",
+    "country": "JP",
+    "type": "distributor",
+    "homepage": "https://www.nbcuni.co.jp/",
+    "headquarters": "Minato, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69968",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cN8Qhl29ZrmWYgkYTS6CDhPK0A5.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

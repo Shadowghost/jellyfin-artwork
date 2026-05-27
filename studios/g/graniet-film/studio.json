@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Graniet Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32473",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pyamoFFEqp9BLekCMRrdlFcp1hk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://granietfilm.nl/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Blue Hour Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102746",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ncOmNjjXWHRP2rST1Nc9kzfkPrC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.bluehourfilms.fr",
+    "placeholder": true
+  }
+]

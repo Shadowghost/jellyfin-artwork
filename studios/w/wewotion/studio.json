@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WeWotion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141137",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rKSXnNNYZ9li7mT6L1MbYKu03hA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://wewotion.com",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Phoenix Film Investments",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1999"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "http://phoenixfilm.com/",
+    "headquarters": "Copenhagen, Denmark",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Films du Samedi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88776"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

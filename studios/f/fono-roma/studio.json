@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Fono Roma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

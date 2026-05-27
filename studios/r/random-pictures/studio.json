@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Random Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147643"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

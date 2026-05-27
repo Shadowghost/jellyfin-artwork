@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Playback Multimedia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170896"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

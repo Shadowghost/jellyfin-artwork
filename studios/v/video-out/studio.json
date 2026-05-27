@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Video Out",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103406"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmarna",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100229"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

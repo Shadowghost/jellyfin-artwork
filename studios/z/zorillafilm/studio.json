@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zorillafilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130093",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jOSIVU8zggJSetXL1C1R5U8EpD2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://zorilla.film/",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

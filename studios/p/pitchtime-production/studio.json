@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pitchtime production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262416"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

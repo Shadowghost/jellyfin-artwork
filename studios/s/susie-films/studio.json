@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Susie Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34603",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2RifJr5vqCaLieinYDV9EPX3yZu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://susiefilms.com/",
+    "headquarters": "Charlotte, NC",
+    "placeholder": true
+  }
+]

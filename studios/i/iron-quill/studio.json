@@ -1,0 +1,13 @@
+[
+  {
+    "name": "iron quill",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280004"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

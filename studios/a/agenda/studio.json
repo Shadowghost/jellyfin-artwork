@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Agenda",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52518"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

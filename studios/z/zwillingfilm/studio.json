@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Zwillingfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223063"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://zwillingfilm.de/",
+    "headquarters": "Frankfurt, Hesse",
+    "placeholder": true
+  }
+]

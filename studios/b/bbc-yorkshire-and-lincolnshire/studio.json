@@ -1,0 +1,28 @@
+[
+  {
+    "name": "BBC Yorkshire and Lincolnshire",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252948",
+        "logo_uri": "https://image.tmdb.org/t/p/original/shjpezruHH1mtUDcEi1jLWY0TI0.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "GB",
+    "template": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Company X",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129235",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vHdxkOSO5rI52tsVCNlZXhdYocw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.companyxproductions.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Melograno Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180885",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wWBAwCrVVw02jvxdWuo5ZfuOzKg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.melogranofilms.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

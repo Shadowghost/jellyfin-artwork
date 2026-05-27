@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Core",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216125"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

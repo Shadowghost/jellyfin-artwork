@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Plural Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81436",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vDjHxLPKvxdkhwZjcFNNKHtGXQN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.pluralfilmes.com.br/",
+    "headquarters": "Rio de Janeiro RJ",
+    "placeholder": true
+  }
+]

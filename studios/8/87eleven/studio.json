@@ -1,0 +1,17 @@
+[
+  {
+    "name": "87Eleven",
+    "country": "US",
+    "homepage": "http://www.87eleven.net",
+    "headquarters": "Inglewood, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23008",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5SarYupipdiejsEqUkwu1SpYfru.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

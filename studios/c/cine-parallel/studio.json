@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine Parallel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129403"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

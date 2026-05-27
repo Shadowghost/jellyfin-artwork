@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Empire Pictures",
+    "description": "American film production company founded by Charles Band, specialized in low-budget horror and fantasy films during the 1980s.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1212"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ARPA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111717"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Company Name",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48269",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jJ65cifQK0zEG6RRTtYZL1kUxxI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.thecompanywebpage.com/",
+    "headquarters": "Beverly Hills, California",
+    "placeholder": true
+  }
+]

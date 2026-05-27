@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Art Film History",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201422"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Capital News Service",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255298"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

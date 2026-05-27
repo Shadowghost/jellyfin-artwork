@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ostankino",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33800",
+        "logo_uri": "https://image.tmdb.org/t/p/original/plrPX3OZlVDKYanLv86l7PTDiE8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

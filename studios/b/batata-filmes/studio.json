@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Batata Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163831",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jpiTiMklj0zYMkwjYFCPfndefig.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://batatafilmes.com.br",
+    "headquarters": "Sarandi, Paraná, Brazil",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Riviera Films",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264679"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Angry Bear",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123044"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

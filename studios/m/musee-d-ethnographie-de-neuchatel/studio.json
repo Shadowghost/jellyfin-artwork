@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Musée d'ethnographie de Neuchâtel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150169"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.men.ch/fr/accueil/",
+    "placeholder": true
+  }
+]

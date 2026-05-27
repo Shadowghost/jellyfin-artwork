@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Kingsgate Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "770"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

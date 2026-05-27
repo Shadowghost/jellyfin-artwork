@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ciné Trail",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111483"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bearcam Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191770",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qEbRUIA43mqIWelSwkYfMuFyOC4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.bearcammedia.com",
+    "placeholder": true
+  }
+]

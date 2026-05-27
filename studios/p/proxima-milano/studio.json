@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Proxima Milano",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210675",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k0Lpc9DyEGAQvvsVbBrPVt1dWUL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://proximamilano.com/",
+    "headquarters": "Milano",
+    "placeholder": true
+  }
+]

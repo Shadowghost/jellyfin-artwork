@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Subtractive",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83104"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

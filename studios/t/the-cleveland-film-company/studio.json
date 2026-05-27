@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Cleveland Film Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152375",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nGNZ4By2A4N8eyNfZApCXt9nSDk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://clefilmco.com/",
+    "headquarters": "Cleveland, Ohio",
+    "placeholder": true
+  }
+]

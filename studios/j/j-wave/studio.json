@@ -1,0 +1,16 @@
+[
+  {
+    "name": "J-WAVE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275460",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8xw0ad9ZG1YHmtaFq1uQhIKkVvC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.j-wave.co.jp/",
+    "placeholder": true
+  }
+]

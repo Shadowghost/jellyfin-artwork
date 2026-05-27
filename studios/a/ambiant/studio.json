@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ambiant*",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271017"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Woo Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29608",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tYK5BZqUMCeUsfkiYQ8vjorg9Ci.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://woofilms.tv",
+    "placeholder": true
+  }
+]

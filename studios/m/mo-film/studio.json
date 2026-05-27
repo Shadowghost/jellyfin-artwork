@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Mo Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80529"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Shogakukan Production",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5261"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

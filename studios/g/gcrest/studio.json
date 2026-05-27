@@ -1,0 +1,16 @@
+[
+  {
+    "name": "GCREST",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210289",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hR8e6ZOQ48imTkPrnCQQnU2Av0E.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.gcrest.com/",
+    "placeholder": true
+  }
+]

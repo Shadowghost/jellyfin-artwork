@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Selrin Production (IN)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221003"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

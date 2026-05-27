@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Magnolia Pictures",
+    "country": "US",
+    "homepage": "http://www.magnoliapictures.com",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1030",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bus7KzJshT0VMXuKR7dwK5bqPSO.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "REVOROOT",
+    "country": "JP",
+    "homepage": "http://revoroot.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105259",
+        "logo_uri": "https://image.tmdb.org/t/p/original/67VoQg4RJe786AOULP426rEfXew.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

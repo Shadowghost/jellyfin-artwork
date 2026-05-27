@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Deutsche Wochenschau",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29048"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

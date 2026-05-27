@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mediadiffusion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79199",
+        "logo_uri": "https://image.tmdb.org/t/p/original/io5Iit8THnUFXunrpbSPl61ya3R.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.mediadiffusion.eu/",
+    "headquarters": "Louvain-la-Neuve",
+    "placeholder": true
+  }
+]

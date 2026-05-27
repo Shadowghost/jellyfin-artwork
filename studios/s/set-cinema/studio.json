@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Set Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189252"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

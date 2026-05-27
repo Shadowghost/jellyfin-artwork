@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Academy of Art University",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78529",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7MKQmVkTfEHtWKgImFoFDnjtDoc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.academyart.edu/",
+    "headquarters": "79 New Montgomery St. , San Francisco CA 94105",
+    "placeholder": true
+  }
+]

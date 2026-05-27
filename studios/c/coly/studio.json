@@ -1,0 +1,16 @@
+[
+  {
+    "name": "coly",
+    "country": "JP",
+    "homepage": "https://colyinc.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "246628",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xzvur57FkDjB2TKc6PduJ6WGECY.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

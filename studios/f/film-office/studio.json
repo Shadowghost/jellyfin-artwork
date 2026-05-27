@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Office",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23893"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

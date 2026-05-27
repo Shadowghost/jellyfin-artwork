@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23983",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mwdVAta6xcY8eCpL5t8KKc96BWm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.sr.de/sr/home/index.html",
+    "headquarters": "Saarbrücken",
+    "placeholder": true
+  }
+]

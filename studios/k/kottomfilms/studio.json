@@ -1,0 +1,16 @@
+[
+  {
+    "name": "KOTTOMfilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74649",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pdUj2zcqRHY8buVWNYYi8moOrV4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.kottomfilms.com",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Heatwave",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125009"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

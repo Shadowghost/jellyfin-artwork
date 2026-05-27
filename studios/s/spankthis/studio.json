@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SpankThis",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147936",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6QTQmsvJDsnpTc9borU4PoXvm2H.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.spankthis.com",
+    "headquarters": "Las Vegas",
+    "placeholder": true
+  }
+]

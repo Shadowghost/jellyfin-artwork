@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Trupe do Filme",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203331"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MAUR film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6719",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fwkgqgC3AxxeHDmA5sJ2yr1Ylvz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.maurfilm.com/en",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "GOfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128655"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

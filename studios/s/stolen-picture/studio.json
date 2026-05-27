@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Stolen Picture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90443",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3T076UXQKtHSNtt9cz8CuXPvu6d.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://stolenpicture.com/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hotshot Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ngEvKlaMsDQBlbK7eDZ6RncCErb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://hotshotfilms.ru",
+    "headquarters": "Saint-Petersburg, Russia",
+    "placeholder": true
+  }
+]

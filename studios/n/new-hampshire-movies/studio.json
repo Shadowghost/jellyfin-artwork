@@ -1,0 +1,13 @@
+[
+  {
+    "name": "New Hampshire Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217651"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

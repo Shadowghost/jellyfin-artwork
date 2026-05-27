@@ -1,0 +1,17 @@
+[
+  {
+    "name": "New Regency Pictures",
+    "country": "US",
+    "homepage": "http://www.newregency.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10104",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4sGWXoboEkWPphI6es6rTmqkCBh.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

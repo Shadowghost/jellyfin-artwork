@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Schaubühne",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123965"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

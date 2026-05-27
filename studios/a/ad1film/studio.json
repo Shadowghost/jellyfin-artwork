@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ad1film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234063",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vVAjsLarYK8eAb1FB19wKIanXAd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://ad1film.com/",
+    "headquarters": "Turkey",
+    "placeholder": true
+  }
+]

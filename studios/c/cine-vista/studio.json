@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cine/Vista",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242885"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "placeholder": true
+  }
+]

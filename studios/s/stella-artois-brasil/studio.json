@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Stella Artois Brasil",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199051",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jhGFcOmSAz1n1runwUFQaBcLXpZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.stellaartois.com.br/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "EGoFILM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129928",
+        "logo_uri": "https://image.tmdb.org/t/p/original/55xk2bQk4JRJwjYW9GNrcE9lrRZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://egofilm.pl",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

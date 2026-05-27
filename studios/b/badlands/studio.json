@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Badlands",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133069",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w1IPHXO7vBZzr2oDv3iKgSXWBNU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://badlands.film/",
+    "headquarters": "Sydney, New South Wales",
+    "placeholder": true
+  }
+]

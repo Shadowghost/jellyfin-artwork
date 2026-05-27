@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Shochiku Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130776",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wQkZCEeXksdFDCAinbjRiRB67fK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.shochiku-ks.com/",
+    "placeholder": true
+  }
+]

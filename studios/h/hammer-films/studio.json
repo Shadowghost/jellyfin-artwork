@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Hammer Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115069",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oUnD2eZmA9vqTrfXFhjx1ZOkoZB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

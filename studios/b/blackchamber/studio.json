@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Blackchamber",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126028",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yndYEY6VFhLVEx8byXskI3FJnL0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://www.blackchamber.ru/",
+    "placeholder": true
+  }
+]

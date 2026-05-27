@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TAVAC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157460",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i4QIRFLdlm7OMlwXE4ue6jIUXw5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.toei-anim.co.jp/tavac/",
+    "headquarters": "Nerima, Tokyo",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Novofilm",
+    "country": "HU",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6743"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

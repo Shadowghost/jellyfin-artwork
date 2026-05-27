@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tencent Japan",
+    "country": "JP",
+    "homepage": "https://tencentjapan.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210002",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lSRv9WrNL5aZ9h2vWEEbWXwbuNg.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

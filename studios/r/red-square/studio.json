@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Red Square",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103333",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xnHkaPJ6QtB1PcsEugsfkMLMz7p.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://www.red-red.ru",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "RAW",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19756",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qCyfSewQvKGrWJrqI9Yi5VHCuPk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "placeholder": true
+  }
+]

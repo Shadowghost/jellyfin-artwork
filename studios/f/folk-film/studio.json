@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Folk Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196960",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rnIn4dy57r4eiFs8l7I6CkGOVhd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.folk.film/",
+    "headquarters": "Bergen",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinecolor Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74027",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zVe1RYdltZljEaNxem99T7vMp2X.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CO",
+    "homepage": "http://www.cinecolorfilms.com/co",
+    "headquarters": "Bogotá",
+    "placeholder": true
+  }
+]

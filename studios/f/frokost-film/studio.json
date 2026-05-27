@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Frokost Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112707",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wugTpAcZ4XuRo324Lq7obwUwZdE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "headquarters": "Oslo",
+    "placeholder": true
+  }
+]

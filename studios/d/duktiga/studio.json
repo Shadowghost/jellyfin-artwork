@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Duktiga",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200788",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eH4MbLUqxsqvxffJpRBe94h6Ukl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.duktiga.com",
+    "headquarters": "London",
+    "placeholder": true
+  }
+]

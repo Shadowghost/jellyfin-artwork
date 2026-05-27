@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Athena Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "237588"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

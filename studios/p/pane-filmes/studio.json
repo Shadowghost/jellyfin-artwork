@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pane Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213165"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

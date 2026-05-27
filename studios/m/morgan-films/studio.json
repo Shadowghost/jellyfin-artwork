@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Morgan Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262616",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wOyltFmvvGqi39HbV4Xsgseyesg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.morgan-films.com",
+    "placeholder": true
+  }
+]

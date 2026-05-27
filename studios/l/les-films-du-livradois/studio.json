@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films du Livradois",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1037"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

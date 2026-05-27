@@ -1,0 +1,16 @@
+[
+  {
+    "name": "This Machine Filmworks",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140972",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fCtBJvI4AWoO3colCECRWKMWXL1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.thismachine.net",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Films à Cinq",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96597",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k5NgeKwCmH4AaTat6NCjXJeLooM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.filmsacinq.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

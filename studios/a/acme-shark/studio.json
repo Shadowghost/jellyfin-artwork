@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Acme Shark",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19241",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yFrrdf50AveEbbRlNsgGlaMwdDx.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

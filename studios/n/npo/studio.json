@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NPO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238525",
+        "logo_uri": "https://image.tmdb.org/t/p/original/WbKq0TenRa4QVFYfxRfnuljiow.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://npo.nl/",
+    "headquarters": "Bart de Graaffweg 2, 1217 ZL Hilversum",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ATM Virtual",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238070"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mostra Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127536",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uagIeESZ9umbdJMxVEwpRxgnJos.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://mostracine.com.ar/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

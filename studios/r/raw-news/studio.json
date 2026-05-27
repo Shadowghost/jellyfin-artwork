@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Raw-News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229755"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

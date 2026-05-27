@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jaguar Motion Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102651",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p2iGin9qhkkeMDRpc8dNicAzsG4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://jaguarmotionpictures.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

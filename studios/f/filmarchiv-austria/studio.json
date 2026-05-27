@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Filmarchiv Austria",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88676"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "CPC-UMES",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201509"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

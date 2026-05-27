@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fremantle",
+    "country": "US",
+    "homepage": "https://fremantle.com",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121813",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7OwtRpQAFKU3KWA7InBg3h3PxqI.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bravo Charlie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92178",
+        "logo_uri": "https://image.tmdb.org/t/p/original/na25gHlLGuBk3XLDjO5vCWPC3CW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.bravocharliefilms.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

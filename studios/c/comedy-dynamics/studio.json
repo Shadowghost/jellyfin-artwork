@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Comedy Dynamics",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49261",
+        "logo_uri": "https://image.tmdb.org/t/p/original/76fTTVFWNkXxSfy6kOviJ1OtFDT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.comedydynamics.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

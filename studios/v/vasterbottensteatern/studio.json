@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Västerbottensteatern",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256482",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3eKlWCKw6dkngbWtkpIJZuHaB35.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://vasterbottensteatern.se/",
+    "headquarters": "Skellefteå",
+    "placeholder": true
+  }
+]

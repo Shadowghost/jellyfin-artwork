@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Redwire Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7579",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a4siBqtQZuQacF2oku8KHrmokv3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.redwirepictures.com/",
+    "headquarters": "Santa Monica, California",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rush Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99952",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xpLgFRI9laBy0qI9AsBmSgfZ9pq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://rushfilms.com.au",
+    "headquarters": "Fremantle, Western Australia",
+    "placeholder": true
+  }
+]

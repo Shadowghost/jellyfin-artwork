@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bellingcat",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226421",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mD3L8yowc3Otdznv8JnTIEdEZvq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.bellingcat.com/",
+    "placeholder": true
+  }
+]

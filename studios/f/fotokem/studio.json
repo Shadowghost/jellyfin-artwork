@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FotoKem",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149482",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cKPU6vGeOe5kAhQO6gxkmC6s4bP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.fotokem.com",
+    "headquarters": "Burbank, California",
+    "placeholder": true
+  }
+]

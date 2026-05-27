@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MediaGate",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274016"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

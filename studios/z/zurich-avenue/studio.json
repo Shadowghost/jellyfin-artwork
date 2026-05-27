@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zurich Avenue",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215760",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8QEHr8gHpOXAeclRhfFO2sNCln0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.zurichavenue.com/",
+    "headquarters": "Zurich",
+    "placeholder": true
+  }
+]

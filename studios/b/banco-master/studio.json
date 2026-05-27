@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Banco master",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "298583"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

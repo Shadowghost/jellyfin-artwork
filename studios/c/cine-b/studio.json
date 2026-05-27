@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ciné B",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27196",
+        "logo_uri": "https://image.tmdb.org/t/p/original/BQMN3MdMZWWab8Yn1IWl4N7a4c.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "10 rue Lincoln, 75008 Paris",
+    "placeholder": true
+  }
+]

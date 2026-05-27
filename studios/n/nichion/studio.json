@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Nichion",
+    "country": "JP",
+    "homepage": "https://www.nichion.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157471",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sWoNzrlMtRH8p3zKayLfOaTNmiG.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

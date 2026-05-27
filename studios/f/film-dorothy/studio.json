@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Film Dorothy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8028",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qpNP7NvjC7wETempWBacOFxXMxi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "headquarters": "Mapo, Seoul, South Korea",
+    "placeholder": true
+  }
+]

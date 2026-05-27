@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sky Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6430",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gzLZZOXccaIpJjl81N0zjK2WyF4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.skyfilmsinc.com",
+    "headquarters": "New York, New York",
+    "placeholder": true
+  }
+]

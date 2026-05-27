@@ -1,0 +1,13 @@
+[
+  {
+    "name": "IS Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "292729"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

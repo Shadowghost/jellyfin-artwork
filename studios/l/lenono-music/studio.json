@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Lenono Music",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256280",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fUsdxGLoaVyBlP2fMSTtZhYJkNT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Rolling Images",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160985"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

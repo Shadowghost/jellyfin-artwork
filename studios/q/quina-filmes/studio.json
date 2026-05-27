@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Quina filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160918"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

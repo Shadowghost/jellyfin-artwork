@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Amplify Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151319",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ylQDVPI08A7cKbQZFArk278DdCB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://amplifypics.com",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "RYOT Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73068",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m669bsYloJvsocBzYlgAftIgVsE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.ryot.org/films/",
+    "placeholder": true
+  }
+]

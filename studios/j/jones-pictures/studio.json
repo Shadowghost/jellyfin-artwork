@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jones Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "296782",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kKjZ66CT4zafrrGWoOBvTksF2fT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.jonespictures.com",
+    "headquarters": "Rio de Janeiro, Brazil",
+    "placeholder": true
+  }
+]

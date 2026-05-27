@@ -1,0 +1,13 @@
+[
+  {
+    "name": "JMX Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182253"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

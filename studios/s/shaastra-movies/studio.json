@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Shaastra Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149008"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

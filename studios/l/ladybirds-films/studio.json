@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ladybirds Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37399",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vUyYBIdAPwHZv47GRXF3NJJRupf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.ladybirdsfilms.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

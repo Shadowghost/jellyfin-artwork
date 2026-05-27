@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Florida Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "44300"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

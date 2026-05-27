@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Amazon Prime Video",
+    "providers": [
+      {
+        "provider_name": "imdb",
+        "id": "co0476953"
+      },
+      {
+        "provider_name": "tvdb",
+        "id": "4226"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "181905"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "amazon-prime-video",
+    "template": true,
+    "country": "IN",
+    "headquarters": "Mumbai, Maharashtra"
+  }
+]

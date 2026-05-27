@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ENGI",
+    "country": "JP",
+    "homepage": "https://engi-st.jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121246",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3OHTNLw7i8zHqrGVt5kfLBdtZ6A.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

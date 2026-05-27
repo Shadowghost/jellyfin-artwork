@@ -1,0 +1,16 @@
+[
+  {
+    "name": "FilmPool",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2688"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://filmpool.net/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "S3 Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196237"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

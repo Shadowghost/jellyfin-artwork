@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Koskos Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172123",
+        "logo_uri": "https://image.tmdb.org/t/p/original/focfWNY2gfVSvz7vJDabPCLGvVt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "http://koskosfilm.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

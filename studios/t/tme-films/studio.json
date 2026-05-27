@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TME Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72676",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ddvOjfeS99fksgQ6PjV59szCSGl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "http://www.tmefilm.com",
+    "headquarters": "Istanbul",
+    "placeholder": true
+  }
+]

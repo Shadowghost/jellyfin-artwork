@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Umbrella Films",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3453"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

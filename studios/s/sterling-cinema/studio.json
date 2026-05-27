@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sterling Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87143",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kEO9tdD4ldvjLn24QvsQLclaUHk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "http://www.sterlingcinema.net/",
+    "headquarters": "Sydney, New South Wales",
+    "placeholder": true
+  }
+]

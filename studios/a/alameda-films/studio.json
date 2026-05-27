@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Alameda Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "300",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8yKP5cXsSRGiIf0p3u9YzbYcGJp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://www.alamedafilms.com/",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Spark Chamber",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141202"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://spark-chamber.com",
+    "headquarters": "Brooklyn, New York City, New York, USA",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "AMG MUSIC",
+    "country": "JP",
+    "homepage": "https://amg-music.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210426"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

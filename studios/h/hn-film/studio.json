@@ -1,0 +1,16 @@
+[
+  {
+    "name": "HN Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119027"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.hnfilm.cz/",
+    "headquarters": "Prague, Czech Republic",
+    "placeholder": true
+  }
+]

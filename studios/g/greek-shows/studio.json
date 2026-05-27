@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Greek Shows",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "268963"
+      }
+    ],
+    "artwork": {},
+    "country": "GR",
+    "placeholder": true
+  }
+]

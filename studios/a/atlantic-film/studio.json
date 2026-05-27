@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Atlantic Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128245"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "headquarters": "Zürich",
+    "placeholder": true
+  }
+]

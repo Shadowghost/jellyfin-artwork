@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Genre Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17474"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

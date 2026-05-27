@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Evergreen Media Group",
+    "description": "Media production company; multiple companies operate under this name across the US.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31375"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

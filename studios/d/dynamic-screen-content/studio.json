@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Dynamic Screen Content",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250348"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

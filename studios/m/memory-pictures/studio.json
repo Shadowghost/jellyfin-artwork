@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Memory Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127593"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

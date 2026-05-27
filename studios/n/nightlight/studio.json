@@ -1,0 +1,15 @@
+[
+  {
+    "name": "nightlight",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101612",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gUI6qgBnPlfmQJms8md9vmv45lA.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "http://nightlight.de/"
+  }
+]

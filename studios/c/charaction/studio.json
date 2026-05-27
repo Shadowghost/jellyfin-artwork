@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Charaction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100725"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

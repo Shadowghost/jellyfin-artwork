@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Oak Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5280"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

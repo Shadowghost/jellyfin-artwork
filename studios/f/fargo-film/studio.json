@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fargo Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205268"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://fargofilm.com",
+    "headquarters": "Milan",
+    "placeholder": true
+  }
+]

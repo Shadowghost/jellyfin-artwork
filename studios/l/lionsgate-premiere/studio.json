@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Lionsgate Premiere",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85885",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oLbUgPkkTmlwGDUO4pYp2OtPkfG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "livedoor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "282034",
+        "logo_uri": "https://image.tmdb.org/t/p/original/loIwX0VZ5k8FPHoGUr63DYGmCjt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

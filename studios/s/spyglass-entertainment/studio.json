@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Spyglass Entertainment",
+    "country": "US",
+    "homepage": "http://www.spyglassentertainment.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6SHlNIype9zmyEMRsBtoueUtLsq.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

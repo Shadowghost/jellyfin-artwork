@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Movie Time",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140181"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

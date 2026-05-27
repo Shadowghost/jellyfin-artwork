@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tezuka Productions",
+    "country": "JP",
+    "homepage": "https://tezuka.co.jp/en/",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4262",
+        "logo_uri": "https://image.tmdb.org/t/p/original/K1m4DWOObFOKCJp6XGOskEKymE.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

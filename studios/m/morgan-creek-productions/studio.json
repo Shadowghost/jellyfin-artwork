@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Morgan Creek Entertainment",
+    "description": "American film and television production company founded by James G. Robinson, known for Young Guns, Robin Hood: Prince of Thieves, and Ace Ventura.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://morgancreek.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10210",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fmFmUxBijh8764GNSSIiwXYD83K.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bronx Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122242",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3CGrs7hva4Jxv4FDmfDoYrvOSkH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.bronxfilm.it/",
+    "headquarters": "Napoli",
+    "placeholder": true
+  }
+]

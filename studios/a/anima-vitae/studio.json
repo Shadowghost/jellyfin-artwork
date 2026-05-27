@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Anima Vitae",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11851",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vSYOpJKsujv4m2jSSeFUILOc5F1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "http://www.anima.fi",
+    "headquarters": "Helsinki, Finland",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Film Soho",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194006",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ejQ5X3W7xhVRAZdEZypfhKorM5m.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://filmsoho.co.uk/",
+    "placeholder": true
+  }
+]

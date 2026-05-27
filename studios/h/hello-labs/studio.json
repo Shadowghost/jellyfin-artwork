@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hello Labs",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225806"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

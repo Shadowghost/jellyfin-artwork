@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Noovo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161387",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wCQT9kKjfSatyinTR39d2VAy2uP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://noovo.co.jp/",
+    "placeholder": true
+  }
+]

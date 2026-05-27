@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Madhouse",
+    "description": "Japanese animation studio founded in 1972, known for Death Note, One-Punch Man, Hunter x Hunter (2011), and Perfect Blue.",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "http://www.madhouse.co.jp",
+    "headquarters": "Nakano, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3464",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9k0nr75nwnNeT2MHerf1OXJN0hj.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

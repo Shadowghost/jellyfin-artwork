@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Prana-Film",
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1960"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "MTM Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81723"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

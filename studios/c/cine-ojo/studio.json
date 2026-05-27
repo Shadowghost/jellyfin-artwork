@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Cine Ojo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5767",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5eaig4MATxs2neJZPiusFbEyHDv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "placeholder": true
+  }
+]

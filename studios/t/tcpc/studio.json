@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TCPC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "298697",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hBadMCGcA09H4RKz7VzIVdM0jGz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://tcpc.be",
+    "headquarters": "Liège, Wallonia",
+    "placeholder": true
+  }
+]

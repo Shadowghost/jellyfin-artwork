@@ -1,0 +1,13 @@
+[
+  {
+    "name": "GC Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245582"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

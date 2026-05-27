@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Watchout Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76272",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r3VLMetuWPCgkzEAoNGrL3lOwDG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://watchoutstudio.pl/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

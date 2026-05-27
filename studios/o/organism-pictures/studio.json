@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Organism Pictures",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187221"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Fireside Films",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252367"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

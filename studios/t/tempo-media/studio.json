@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Tempo Media",
+    "description": "Indonesian media and publishing group based in Jakarta, known for the Tempo investigative news magazine, and active in film/animation production through subsidiaries.",
+    "country": "ID",
+    "type": "publisher",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260837"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Tempo Media Group"
+    ],
+    "template": true
+  }
+]

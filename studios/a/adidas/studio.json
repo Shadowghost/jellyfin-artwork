@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Adidas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129879",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nu9DffCWkQ9Y8KToNsmPW2I1NT9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.adidas.com",
+    "headquarters": "Adidas, Herzogenaurach, Deutschland",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DK Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "235098"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

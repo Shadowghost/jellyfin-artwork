@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Media Bridge",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147757",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ehd7UUYtwXG98Nr8VkeItDrTmP2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://mediabridge.com.br/",
+    "placeholder": true
+  }
+]

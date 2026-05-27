@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Green Lake Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49988",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hqHvrRhdzFM3zJ8o78jpdYQk18p.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://greenlakefilms.ca",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

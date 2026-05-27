@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Free Association",
+    "country": "US",
+    "homepage": "http://www.freeassociation.la",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "57743",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fon2TaTj6WU8kVfAmlHsvpPdt2p.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BS TV Tokyo",
+    "country": "JP",
+    "homepage": "https://www.tv-tokyo.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133425",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a19TItuT3En6OVTqQ7RQeIf4J7U.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

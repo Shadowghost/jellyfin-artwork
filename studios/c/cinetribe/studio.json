@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CineTribe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169814"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

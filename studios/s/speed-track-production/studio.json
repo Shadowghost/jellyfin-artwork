@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Speed Track production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139123"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

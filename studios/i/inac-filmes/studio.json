@@ -1,0 +1,13 @@
+[
+  {
+    "name": "INAC Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230091"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

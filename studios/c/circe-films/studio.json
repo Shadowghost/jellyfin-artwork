@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Circe Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31137",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rHzcJcRfaNemvKKGNTcx0h4VHwS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "http://circe.nl",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

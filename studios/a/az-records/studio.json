@@ -1,0 +1,15 @@
+[
+  {
+    "name": "AZ Records",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103070"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

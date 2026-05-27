@@ -1,0 +1,15 @@
+[
+  {
+    "name": "1st Strike",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82353",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9C5JHqH7mr6nxcXSAVz81lOe09a.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filtro Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174148"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

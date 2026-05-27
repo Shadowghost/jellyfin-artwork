@@ -1,0 +1,16 @@
+[
+  {
+    "name": "A Propos",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238363",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lW22RVirFiUIthS0WY57cvIWXZ1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LT",
+    "headquarters": "Vilnius",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Orange Dot",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123254"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

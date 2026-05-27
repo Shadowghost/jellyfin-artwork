@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Casino",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103026"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

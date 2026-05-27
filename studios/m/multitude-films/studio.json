@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Multitude Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115789",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7GrzfRToE44HoJIGvMRaYlNn0sS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.multitudefilms.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

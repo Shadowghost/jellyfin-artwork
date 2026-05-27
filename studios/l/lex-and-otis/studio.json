@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lex and Otis",
+    "country": "US",
+    "homepage": "https://lexandotis.com",
+    "headquarters": "Glendale, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137818",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kmgACeyhwJFoXuOUfiHOQBIjRMi.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

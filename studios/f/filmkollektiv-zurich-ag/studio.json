@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Filmkollektiv Zürich AG",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89375"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.filmkollektiv.ch/index.php",
+    "headquarters": "Zürich",
+    "placeholder": true
+  }
+]

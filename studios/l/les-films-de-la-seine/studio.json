@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les Films de la Seine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1559"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

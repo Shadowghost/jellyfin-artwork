@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Verbo Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138333"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mypix Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173660"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

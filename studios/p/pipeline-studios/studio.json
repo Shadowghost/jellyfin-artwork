@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pipeline Studios",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107332",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i0kGin6afptogAMcHtcvQUN1boh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.pipelinestudios.com",
+    "headquarters": "Hamilton, Ontario",
+    "placeholder": true
+  }
+]

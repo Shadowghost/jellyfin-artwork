@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Demek Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250807"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

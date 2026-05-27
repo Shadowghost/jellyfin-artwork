@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AMedia",
+    "country": "RU",
+    "homepage": "http://www.amediafilm.ru/",
+    "headquarters": "Moscow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31797",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wuHadQYlvbqUdcovmat7wwNuWzu.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

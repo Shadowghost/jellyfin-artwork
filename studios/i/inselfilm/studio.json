@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Inselfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71934"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.inselfilm.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "film farm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241055"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

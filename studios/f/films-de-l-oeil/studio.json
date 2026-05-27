@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Films de l'Oeil",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130777"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://filmsdeloeil.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

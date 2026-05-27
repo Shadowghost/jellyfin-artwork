@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MAX-A",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130486",
+        "logo_uri": "https://image.tmdb.org/t/p/original/slJHeTwaOBCxwCMRfQPmC3NP06R.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.max-a.co.jp",
+    "placeholder": true
+  }
+]

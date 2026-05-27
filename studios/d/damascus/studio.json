@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Damascus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127222"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

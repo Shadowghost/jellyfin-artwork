@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinémathèque d'Images de Montagne (Cimalpes)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "295234",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pPuxjXZHBDNavjpa7UlixWXG8mh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.cimalpes.fr/",
+    "headquarters": "Gap",
+    "placeholder": true
+  }
+]

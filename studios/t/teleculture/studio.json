@@ -1,0 +1,14 @@
+[
+  {
+    "name": "TeleCulture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67968"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

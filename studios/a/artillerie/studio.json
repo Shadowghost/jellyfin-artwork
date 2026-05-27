@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Artillerie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183124"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

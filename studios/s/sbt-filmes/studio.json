@@ -1,0 +1,15 @@
+[
+  {
+    "name": "SBT Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40068"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nomad Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161880"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

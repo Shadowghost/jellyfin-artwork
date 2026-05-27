@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Les Films du Cru",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180147",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eg9mZcUBMebsCfCZfi4ZXFaNXFg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

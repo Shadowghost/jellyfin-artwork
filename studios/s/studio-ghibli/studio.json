@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Studio Ghibli",
+    "description": "Studio Ghibli, Inc. (株式会社スタジオジブリ Kabushiki-gaisha Sutajio Jiburi?) is a Japanese animation and film studio founded in June 1985. The company's logo features the character Totoro (a large forest spirit) from Hayao Miyazaki's film My Neighbor Totoro. It has its headquarters in Koganei, Tokyo.[1] At one time the studio was based in Kichijōji, Musashino, Tokyo.[2] Many anime features created by Studio Ghibli have won the Animage Anime Grand Prix award including: Castle in the Sky in 1986; My Neighbor Totoro in 1988; and Kiki's Delivery Service in 1989. In 2002, Spirited Away won a Golden Bear and an Oscar for Best Animated Feature which remains the only film made outside the English-speaking world to have done so.",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "http://Ghibli.jp",
+    "headquarters": "Koganei, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10342",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uFuxPEZRUcBTEiYIxjHJq62Vr77.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

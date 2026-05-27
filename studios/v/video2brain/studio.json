@@ -1,0 +1,15 @@
+[
+  {
+    "name": "video2brain",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13364",
+        "logo_uri": "https://image.tmdb.org/t/p/original/atDKBAz0AU163X2Wem5IQ6ecY48.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://www.video2brain.com/de/"
+  }
+]

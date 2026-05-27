@@ -1,0 +1,13 @@
+[
+  {
+    "name": "World Window",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30156"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

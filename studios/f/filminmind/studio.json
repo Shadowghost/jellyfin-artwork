@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FilmInmind",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29104"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

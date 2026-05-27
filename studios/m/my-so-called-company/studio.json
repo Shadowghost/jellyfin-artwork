@@ -1,0 +1,14 @@
+[
+  {
+    "name": "My So-Called Company",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34536"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

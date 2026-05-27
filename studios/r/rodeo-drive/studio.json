@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rodeo Drive",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3112",
+        "logo_uri": "https://image.tmdb.org/t/p/original/y7X4AYWOC20LnkCnOgIoh70gMct.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.rodeodrivesrl.com/",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

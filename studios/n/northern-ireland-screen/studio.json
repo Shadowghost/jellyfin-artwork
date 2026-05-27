@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Northern Ireland Screen",
+    "country": "XI",
+    "homepage": "http://www.northernirelandscreen.co.uk/",
+    "headquarters": "Belfast, Northern Ireland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11667",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dhBJdstAolGmqRfbQfElhsU1cTo.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Doigby Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150945",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yEWlJxtwHCmfMrlqzPqzwFb3CA2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.doigby.com/",
+    "headquarters": "Seine-Saint-Denis, France",
+    "placeholder": true
+  }
+]

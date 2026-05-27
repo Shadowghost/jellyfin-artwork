@@ -1,0 +1,16 @@
+[
+  {
+    "name": "KR.FILM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160771"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://krfilm.de",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

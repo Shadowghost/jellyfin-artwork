@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Acme Date",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3830"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "E/R Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92260"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

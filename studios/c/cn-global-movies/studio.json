@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CN Global Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "286241"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

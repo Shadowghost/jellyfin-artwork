@@ -1,0 +1,13 @@
+[
+  {
+    "name": "New Town",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42368"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

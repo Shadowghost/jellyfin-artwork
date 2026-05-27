@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Illume",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33385",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mwYzhJn7rRNr6cb695jJET72EoT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "http://www.illume.fi/",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

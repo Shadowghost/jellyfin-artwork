@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Je suis bien content",
+    "country": "FR",
+    "homepage": "https://jsbc.fr/en/feature-film",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42875",
+        "logo_uri": "https://image.tmdb.org/t/p/original/s4g5EWVd5eDCeoNuai757G15i8W.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

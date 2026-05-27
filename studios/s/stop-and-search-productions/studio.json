@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Stop and search productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245803"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

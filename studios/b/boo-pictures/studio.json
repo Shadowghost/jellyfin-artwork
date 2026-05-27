@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Boo Pictures",
+    "country": "US",
+    "homepage": "https://boopictures.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "54268",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Pvi7supNmOjgH2dqnKPTsmKsSL.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

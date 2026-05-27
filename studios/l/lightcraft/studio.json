@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lightcraft",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "54734",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kywbYYwd2xgXFGeaSqQQVAZeuqv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://lightcraft.pl",
+    "placeholder": true
+  }
+]

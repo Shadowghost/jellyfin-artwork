@@ -1,0 +1,15 @@
+[
+  {
+    "name": "MovieStart",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189430"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://moviestart.ru/",
+    "placeholder": true
+  }
+]

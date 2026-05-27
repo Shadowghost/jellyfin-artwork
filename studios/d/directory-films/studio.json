@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Directory Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87346",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5PLtNKsHBL1LKjZLk95PaXCPauI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UA",
+    "homepage": "https://directoryfilms.com",
+    "headquarters": "Kyiv",
+    "placeholder": true
+  }
+]

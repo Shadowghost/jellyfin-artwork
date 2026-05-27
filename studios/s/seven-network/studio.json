@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Seven Network",
+    "description": "Australian commercial free-to-air television network owned by Seven West Media, one of the country's three major commercial networks.",
+    "country": "AU",
+    "type": "broadcast-network",
+    "colors": [
+      {
+        "name": "Seven Red",
+        "hex": "#E4002B"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46814",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b3sb5sFRj0EEpMHlNtFBO0fQKSw.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

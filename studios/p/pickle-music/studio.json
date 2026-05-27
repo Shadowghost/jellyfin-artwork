@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pickle music",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "298787"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

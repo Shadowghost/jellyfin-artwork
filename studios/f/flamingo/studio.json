@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Flamingo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17601"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

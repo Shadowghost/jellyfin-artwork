@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Naive Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14450"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.naive.se/",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

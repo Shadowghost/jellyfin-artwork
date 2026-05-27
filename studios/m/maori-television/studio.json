@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Māori Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123285",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bwO92lNZstiQHtM7CSD7YNPGYM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NZ",
+    "homepage": "https://www.maoritelevision.com",
+    "headquarters": "Auckland",
+    "placeholder": true
+  }
+]

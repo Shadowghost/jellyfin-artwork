@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Majestic Films International",
+    "country": "GB",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2630",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pShvFIFfmFoGXPYFyAKaeK1jPUW.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

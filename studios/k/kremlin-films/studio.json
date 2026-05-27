@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kremlin Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15681",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ffCQT1uquDtAhcB2cPTzkVDedZz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://kremlinfilms.ru/",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

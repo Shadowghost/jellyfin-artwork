@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Common Enemy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126781"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

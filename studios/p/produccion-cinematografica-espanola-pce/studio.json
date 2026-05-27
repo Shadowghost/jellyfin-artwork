@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Producción Cinematográfica Española (PCE)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214277"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

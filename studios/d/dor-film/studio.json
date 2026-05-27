@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dor Film",
+    "country": "AT",
+    "homepage": "http://www.dor-film.com/",
+    "headquarters": "Wien",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "608",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dD2Do4GHXAql5c4LjXCbEOvxbFg.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

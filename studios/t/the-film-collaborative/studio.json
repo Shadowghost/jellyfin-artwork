@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Film Collaborative",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155332",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fHnpnlxkeoPVrpy3XM8D4dryrqm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.thefilmcollaborative.org",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Uzbekkino",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69584",
+        "logo_uri": "https://image.tmdb.org/t/p/original/623a6BqGaWqWLhfRAkoW1fHCUdd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UZ",
+    "homepage": "https://uzbekkino.uz/",
+    "headquarters": "Tashkent",
+    "placeholder": true
+  }
+]

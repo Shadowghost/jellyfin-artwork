@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Ceefax",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270598",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kIUdS9x5LlPYDI7vkwsAzo5pxrF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

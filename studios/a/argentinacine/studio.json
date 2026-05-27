@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Argentinacine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74242",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e2EGX22xkh6sVtI4YMSHfIF9CzH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://argentinacine.com",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

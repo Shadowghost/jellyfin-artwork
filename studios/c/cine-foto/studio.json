@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine Foto",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104496"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

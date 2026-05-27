@@ -1,0 +1,13 @@
+[
+  {
+    "name": "KEXP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "65533"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

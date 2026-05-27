@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Random Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7262"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

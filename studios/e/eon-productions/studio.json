@@ -1,0 +1,35 @@
+[
+  {
+    "name": "EON Productions",
+    "description": "British film production company founded by Albert R. Broccoli and Harry Saltzman, best known as the producer of the James Bond film series.",
+    "country": "GB",
+    "type": "production-company",
+    "homepage": "https://www.eon.co.uk/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7576",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oYcUi1byZ312Z3xiz5ojz9RQLND.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Eon Productions"
+    ],
+    "template": true
+  }
+]

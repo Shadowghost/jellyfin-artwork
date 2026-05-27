@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Parts and Weather",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7203"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

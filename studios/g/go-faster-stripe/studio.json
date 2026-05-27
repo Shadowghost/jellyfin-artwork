@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Go Faster Stripe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33022",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5d2uhejtffJP8vPgVeBH5jv0emd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.gofasterstripe.com/",
+    "placeholder": true
+  }
+]

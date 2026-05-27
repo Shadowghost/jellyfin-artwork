@@ -1,0 +1,17 @@
+[
+  {
+    "name": "World Wrestling Entertainment (WWE)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "146598",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6B6g6PR19RWX4UVi8Q46lZbwb2L.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.wwe.com/",
+    "headquarters": "Stamford, Connecticut",
+    "placeholder": true
+  }
+]

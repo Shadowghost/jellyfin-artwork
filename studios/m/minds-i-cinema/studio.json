@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MiNDS i CiNEMA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101124"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mack Animation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234068",
+        "logo_uri": "https://image.tmdb.org/t/p/original/26VdbRGwelApTb9RzVHLwAKtF4m.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://mackanimation.com/",
+    "headquarters": "Hannover",
+    "placeholder": true
+  }
+]

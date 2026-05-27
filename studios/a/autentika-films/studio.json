@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Autentika Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10022",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uUEbPNdb6oNI8To3JH7Fxm2MTSO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://autentikafilms.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

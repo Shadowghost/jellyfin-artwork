@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pinewood Pictures",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62230"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

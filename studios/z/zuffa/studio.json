@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Zuffa",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20529",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5VmtlWl6dbREk3BWjtN7BoW73ot.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Las Vegas, Nevada, USA",
+    "placeholder": true
+  }
+]

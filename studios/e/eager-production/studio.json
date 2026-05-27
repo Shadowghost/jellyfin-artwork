@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Eager Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "266442"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

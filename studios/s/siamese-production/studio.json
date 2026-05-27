@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Siamese Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290863"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

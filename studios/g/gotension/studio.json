@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GOTENSION",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260463",
+        "logo_uri": "https://image.tmdb.org/t/p/original/14M4OpE4koOyCi8lxjZn8nm76XO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://gotension.net/",
+    "headquarters": "Cambridge, England",
+    "placeholder": true
+  }
+]

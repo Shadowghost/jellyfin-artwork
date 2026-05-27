@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ROCKET",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156566",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l6QdUqkrGLxwQlWEGUcZFaXScDu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.rocket-inc.net",
+    "placeholder": true
+  }
+]

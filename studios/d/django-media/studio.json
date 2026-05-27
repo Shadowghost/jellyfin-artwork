@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Django Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202987"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

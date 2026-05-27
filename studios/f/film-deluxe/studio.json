@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film Deluxe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1229",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Av52AWfjNqq7Dm3aum4tTiUkJwD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.filmdeluxe.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

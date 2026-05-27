@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TV Only",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185518",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cpNXN7RPNhocHkh0X6KLUGdBlub.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.tvo.paris/",
+    "headquarters": "20 Cr. des Petites Écuries, 75010 Paris",
+    "placeholder": true
+  }
+]

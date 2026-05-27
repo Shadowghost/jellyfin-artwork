@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Human Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120248",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kD4S9EQhP0xbAtXVvaL4P2xoOqu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://wearehuman.ru/",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

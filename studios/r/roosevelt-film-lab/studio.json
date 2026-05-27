@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Roosevelt Film Lab",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220195",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nbwSIz7VUcudZQIY9O94jpLoizf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://rooseveltfilmlab.com/",
+    "headquarters": "Austin, Texas",
+    "placeholder": true
+  }
+]

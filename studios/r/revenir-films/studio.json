@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Revenir Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "297597",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hifJEIGrB3Z3B6p3vkVVtdmnHPc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.revenirfilms.com",
+    "placeholder": true
+  }
+]

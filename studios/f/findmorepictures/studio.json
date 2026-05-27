@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FINDMOREPICTURES",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280605"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

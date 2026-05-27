@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ivi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144130",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oVMcnEmgzgDmkqTMXAe4Wtxp308.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://www.ivi.ru/",
+    "placeholder": true
+  }
+]

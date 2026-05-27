@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Play Records",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69123"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

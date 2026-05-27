@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Shed Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26459",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3nUSW1uviVobNECls9WCNc1Urb9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.shedmedia.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rumble Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81794",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7mIfopwJnw4RJSHq4FI5lhRe89w.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://rumble-films.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

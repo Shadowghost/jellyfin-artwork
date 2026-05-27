@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Global Road Entertainment",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104972",
+        "logo_uri": "https://image.tmdb.org/t/p/original/y1MOtyfXpKTZVJsSF2djhNqP1rd.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

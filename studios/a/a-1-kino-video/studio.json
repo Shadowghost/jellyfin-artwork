@@ -1,0 +1,13 @@
+[
+  {
+    "name": "A-1 Kino Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20500"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

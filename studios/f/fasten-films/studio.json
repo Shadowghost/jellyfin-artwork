@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fasten Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "146052",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eWrxy5R2izv2WV0zA5cvGq7e2fz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://fastenfilms.com",
+    "headquarters": "Barcelona, Catalonia",
+    "placeholder": true
+  }
+]

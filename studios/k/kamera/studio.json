@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kamera",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106973"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

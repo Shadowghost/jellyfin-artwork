@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FAMU",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32930",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pk1mLuYxSmTWX0BdgzbHdUvRI5u.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.famu.cz",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

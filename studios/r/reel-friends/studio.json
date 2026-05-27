@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Reel Friends",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "244896",
+        "logo_uri": "https://image.tmdb.org/t/p/original/soe88JeIYX8M1F4A6RoIthTmhIc.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "http://reelfriendsfilms.com",
+    "headquarters": "Atlanta, GA"
+  }
+]

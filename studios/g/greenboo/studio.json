@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GreenBoo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194105",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lpvY9NTFDTdm0AqvfUDREkmWmcM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.greenboo.com/",
+    "headquarters": "Roma",
+    "placeholder": true
+  }
+]

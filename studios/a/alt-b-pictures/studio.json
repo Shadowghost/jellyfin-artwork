@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Alt+B Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240129"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

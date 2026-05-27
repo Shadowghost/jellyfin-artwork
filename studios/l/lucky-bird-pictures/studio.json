@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lucky Bird Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50449",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eAf9hbBcNDKqYJoDFVevbyYYvVV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.luckybirdpictures.de/en",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bob Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242450"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

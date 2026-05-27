@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MASS Alexandria",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "236505",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f4XGoExJnSUYWqlhWZ1gIPFfNwT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EG",
+    "headquarters": "Alexandria",
+    "placeholder": true
+  }
+]

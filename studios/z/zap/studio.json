@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ZAP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154848"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

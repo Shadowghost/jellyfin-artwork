@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kahoku Shimposha",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27719",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qjz6JcOvajzD1XT61GcxRmluTUO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.kahoku.co.jp",
+    "placeholder": true
+  }
+]

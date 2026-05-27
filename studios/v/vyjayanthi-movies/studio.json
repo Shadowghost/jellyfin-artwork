@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vyjayanthi Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80065",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9zMLq3789hC7qAPpbMl4TwaxJ69.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "homepage": "http://vyjayanthi.com/",
+    "headquarters": "Hyderabad, Telangana, India",
+    "placeholder": true
+  }
+]

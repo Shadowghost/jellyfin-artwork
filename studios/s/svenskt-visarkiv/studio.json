@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Svenskt Visarkiv",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192386"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://musikverket.se/svensktvisarkiv/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

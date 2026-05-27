@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Odeon Fiction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "146446",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b9ymMjJ2xWsCUBp88zm4rNdzWQh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://odeonfiction.com",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

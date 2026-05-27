@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Prod Lab",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238619"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

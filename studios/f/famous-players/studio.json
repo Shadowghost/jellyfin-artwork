@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Famous Players",
+    "description": "Historic American film company founded by Adolph Zukor in 1912, which merged with Lasky to form Famous Players-Lasky, predecessor to Paramount Pictures. Also a Canadian theatre chain that operated until 2005.",
+    "country": "CA",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36555",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7C4sqyMTaqRH8sTlboAhFYbJK2k.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

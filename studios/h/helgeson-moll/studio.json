@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Helgeson Moll",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "190128",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8DqymxRrpvEbQsfEdedMR73ptNz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.helgesonmoll.se/",
+    "placeholder": true
+  }
+]

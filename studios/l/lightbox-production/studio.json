@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lightbox Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214113"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

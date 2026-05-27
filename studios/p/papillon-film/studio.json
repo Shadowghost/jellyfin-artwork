@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Papillon Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13295",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8cbVW2Fl4SknaBVZL5fNrreVWEK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "homepage": "https://www.papillonfilm.ro/",
+    "headquarters": "Bucharest",
+    "placeholder": true
+  }
+]

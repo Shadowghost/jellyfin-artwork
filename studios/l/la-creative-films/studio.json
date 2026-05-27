@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Créative Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103743",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uFxzbHyHzVVh6UAw9aN452UVCB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://lacreativefilms.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

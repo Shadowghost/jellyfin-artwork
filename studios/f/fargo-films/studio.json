@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Fargo Films",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188578"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

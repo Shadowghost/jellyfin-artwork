@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinémathèque de Toulouse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142428",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4bFvzcPnb4Q50EtkGavL6TowxK2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.lacinemathequedetoulouse.com/",
+    "headquarters": "69 Rue du Taur, 31000 Toulouse, France",
+    "placeholder": true
+  }
+]

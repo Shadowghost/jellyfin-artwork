@@ -1,0 +1,13 @@
+[
+  {
+    "name": "britannic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85945"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

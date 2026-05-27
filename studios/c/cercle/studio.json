@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cercle",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225222",
+        "logo_uri": "https://image.tmdb.org/t/p/original/okenBDPYzIynQiUFyMB2MsM7BQc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.cercle.io/",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Monitor Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283684",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9uOay0K05JkonvFPM7ickMDHBg1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.monitormedia.se/",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

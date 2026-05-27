@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films du Tambour de soie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58641",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wE7gFEpY5aTc0TtLdjYIopiSImh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://tamtamsoie.com",
+    "headquarters": "Marseille",
+    "placeholder": true
+  }
+]

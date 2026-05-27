@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Puppet Family EAF",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176173"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

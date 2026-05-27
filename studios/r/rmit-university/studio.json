@@ -1,0 +1,15 @@
+[
+  {
+    "name": "RMIT University",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140412",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f0yV1FUv23QKXG1SH5bOQi9bAWk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "placeholder": true
+  }
+]

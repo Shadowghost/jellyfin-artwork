@@ -1,0 +1,17 @@
+[
+  {
+    "name": "StellaNova Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5293",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jjZ5Opcd8qD5IP34ZFu2Af7DUKn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://stellanovafilm.com/",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

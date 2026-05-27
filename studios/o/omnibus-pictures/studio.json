@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Omnibus Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121375"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Televisión de Actualidad",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239743"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

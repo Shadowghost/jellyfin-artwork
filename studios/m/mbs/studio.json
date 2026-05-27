@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MBS",
+    "country": "JP",
+    "homepage": "https://www.mbs.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3363",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sj3vD7n63bTCih7bcf6GnWvRf1Q.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "House of Quest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210818",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rtIYttdvMtfMtRP7vP2Fj0uZtH2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "https://houseofquest.com/",
+    "headquarters": "Lisbon",
+    "placeholder": true
+  }
+]

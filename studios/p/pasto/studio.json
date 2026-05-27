@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PASTO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75415",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jnTkKFlcvMEDNBqE8nwWjP5QzwN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://pastocine.com.ar/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

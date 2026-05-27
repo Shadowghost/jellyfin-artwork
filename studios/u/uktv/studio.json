@@ -1,0 +1,17 @@
+[
+  {
+    "name": "UKTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14431",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2ZN7kr8u2vmZRJrJagu5BFP3xbD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://corporate.uktv.co.uk",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

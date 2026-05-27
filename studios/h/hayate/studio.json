@@ -1,0 +1,17 @@
+[
+  {
+    "name": "HAYATE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229878",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jPFCAv3mAjPJpNJtv3iwroiLaxQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://hayate-inc.co.jp/en/",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

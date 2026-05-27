@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cineballs movie redux",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200435"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

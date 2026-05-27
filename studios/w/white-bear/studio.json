@@ -1,0 +1,16 @@
+[
+  {
+    "name": "White Bear",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159708",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1MI1sxaDHiUf6il33vXYEqz074L.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.mediabank.co.jp/label.php?id=9",
+    "placeholder": true
+  }
+]

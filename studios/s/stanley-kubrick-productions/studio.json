@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Stanley Kubrick Productions",
+    "country": "GB",
+    "homepage": "https://www.stanleykubrick.de/en/",
+    "headquarters": "Hertfordshire, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "385"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Nero production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117955"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.nero-production.cz",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

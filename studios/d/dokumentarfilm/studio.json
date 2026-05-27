@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Dokumentärfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248808"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://www.dokumentarfilm.se/"
+  }
+]

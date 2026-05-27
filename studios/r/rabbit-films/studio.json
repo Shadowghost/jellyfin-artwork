@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rabbit Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73575",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pLlpcniieFiHCnLD8foBDiOcuXn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "http://www.rabbitfilms.com/",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

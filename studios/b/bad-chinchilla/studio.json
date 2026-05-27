@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bad Chinchilla",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121887",
+        "logo_uri": "https://image.tmdb.org/t/p/original/797WNQzfnGuP0CPmaEsCFeBE5Fs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://badchinchilla.com.br/",
+    "placeholder": true
+  }
+]

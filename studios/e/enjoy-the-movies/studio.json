@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Enjoy The Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270014"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

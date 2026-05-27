@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hypermarket Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8655",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iy3xGixP7KGlZ6eNgsDv28DXBOl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.hypermarketfilm.cz",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

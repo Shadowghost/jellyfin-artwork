@@ -1,0 +1,17 @@
+[
+  {
+    "name": "mîtosfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11816",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9Ggub8861r3r59a5Y8AFhSFhnj6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.mitosfilm.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

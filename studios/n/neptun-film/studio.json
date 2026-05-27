@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Neptun-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80180"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

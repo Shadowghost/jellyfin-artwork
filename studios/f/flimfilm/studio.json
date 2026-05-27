@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FLIMFILM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "291447",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mgeMkIJ8ABZxWhUZYiyxS1S2kR6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.flimfilm.co.kr/index.php",
+    "headquarters": "인천광역시 부평구 부평대로 293, 인천콘텐츠기업지원센터 913호",
+    "placeholder": true
+  }
+]

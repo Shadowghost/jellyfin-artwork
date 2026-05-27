@@ -1,0 +1,13 @@
+[
+  {
+    "name": "VantagePoint",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241428"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

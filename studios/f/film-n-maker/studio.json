@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Film N' Maker",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182405"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "http://filmnmaker.com",
+    "placeholder": true
+  }
+]

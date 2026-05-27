@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Varsity Pictures",
+    "description": "American film/television production company; limited public information available.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Hollywood, California, USA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6024"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

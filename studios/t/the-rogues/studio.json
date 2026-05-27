@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Rogues",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111700",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tLNMTbXUDZ8gTlMVN0rVnAphs0s.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://therogues.nl/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

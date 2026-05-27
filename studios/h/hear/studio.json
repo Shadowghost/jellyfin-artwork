@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hear",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271022"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

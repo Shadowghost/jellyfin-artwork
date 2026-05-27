@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Clap Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3289"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "https://www.clapfilmes.pt/",
+    "headquarters": "Lisbon",
+    "placeholder": true
+  }
+]

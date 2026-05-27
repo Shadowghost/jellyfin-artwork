@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Middle West Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170593"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

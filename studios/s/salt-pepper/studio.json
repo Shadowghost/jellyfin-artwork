@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Salt & Pepper",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "284288"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

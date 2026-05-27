@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ADK",
+    "country": "JP",
+    "homepage": "https://www.adk.jp/",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4720",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7wQgZTA4FCkFMDedBYVZiVE87c7.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

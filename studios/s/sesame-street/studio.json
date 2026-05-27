@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Sesame Street",
+    "description": "Long-running American educational children's television series produced by Sesame Workshop, first aired in 1969; features Muppet characters including Big Bird, Elmo, Bert and Ernie, and Cookie Monster.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3673",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nDLYSGvTaIUU7LRFLwSk2xG9KLo.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true,
+    "homepage": "http://www.sesameworkshop.org",
+    "headquarters": "New York City, New York"
+  }
+]

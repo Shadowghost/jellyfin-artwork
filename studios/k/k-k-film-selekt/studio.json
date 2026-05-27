@@ -1,0 +1,17 @@
+[
+  {
+    "name": "K&K Film Selekt",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56375",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bUW5uFhCz5YBYOGfSNfwtBXoUTq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://www.kkselektfilm.pl/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

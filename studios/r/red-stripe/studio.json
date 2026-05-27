@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Red Stripe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56519"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

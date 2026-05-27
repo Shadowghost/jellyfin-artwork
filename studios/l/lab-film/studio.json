@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lab Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123402"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

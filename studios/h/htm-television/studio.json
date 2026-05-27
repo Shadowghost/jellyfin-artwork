@@ -1,0 +1,17 @@
+[
+  {
+    "name": "HTM Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156043",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gmczALQYsuMvX5njShnkxrLQtZM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.htmtelevision.com/",
+    "headquarters": "London",
+    "placeholder": true
+  }
+]

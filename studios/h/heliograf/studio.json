@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Heliograf",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72894",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t5G02y6OE3SbzB4GI2IvgO0gvOF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://heliograf.pl/",
+    "headquarters": "Sokołów",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Red Central Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290496"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

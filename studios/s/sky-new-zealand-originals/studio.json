@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sky New Zealand Originals",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "236766",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kRTxKpwZsHYp3c5dnLQto07T6Xq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NZ",
+    "homepage": "https://www.sky.co.nz/",
+    "headquarters": "Auckland",
+    "placeholder": true
+  }
+]

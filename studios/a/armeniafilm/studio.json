@@ -1,0 +1,13 @@
+[
+  {
+    "name": "armeniafilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250912"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

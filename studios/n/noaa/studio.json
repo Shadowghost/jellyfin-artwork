@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NOAA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "195208"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

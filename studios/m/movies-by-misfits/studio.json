@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movies by Misfits",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210316"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

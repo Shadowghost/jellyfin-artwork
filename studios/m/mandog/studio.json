@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mandog",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175525"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

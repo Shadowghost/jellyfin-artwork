@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Yastreb-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104242",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qw4REAL9UsvT0DcVgOOr9ju2qoD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://www.yastrebfilm.com",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cartoon Pizza",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100233",
+        "logo_uri": "https://image.tmdb.org/t/p/original/53GiAUaITE1JyeazrknTf9HTy8l.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Nashville, Tennessee",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Indian Paintbrush",
+    "country": "US",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9350",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xz60JVoUHpOeg1cJbxzMJiwbuL7.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

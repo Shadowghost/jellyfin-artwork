@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinecolor-México",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "301",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mWYtKhRhXYn3kHJq4C84fjrqM9y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://mexico.cinecolorgroup.com/",
+    "headquarters": "Mexico City (Ciudad de México)",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bioscop-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83512"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

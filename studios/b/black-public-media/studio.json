@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Black Public Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128100",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g10mQQuYTsNnytluf1WSGjWkp85.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://blackpublicmedia.org",
+    "placeholder": true
+  }
+]

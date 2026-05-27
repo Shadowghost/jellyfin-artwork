@@ -1,0 +1,16 @@
+[
+  {
+    "name": "YelowVOD",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173206",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uZXzjGGtIhKr2VWjb4A7GIGrLFi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://www.youtube.com/channel/UCG-6ehXkyrN-gbkCMNUFiYA",
+    "placeholder": true
+  }
+]

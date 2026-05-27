@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Sony Pictures Classics",
+    "description": "American specialty film distribution arm of Sony Pictures Entertainment focused on independent, art-house, and foreign films, including Oscar-winners like Crouching Tiger, Hidden Dragon and Call Me by Your Name.",
+    "country": "US",
+    "type": "distributor",
+    "homepage": "http://www.sonyclassics.com/",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58",
+        "logo_uri": "https://image.tmdb.org/t/p/original/voYCwlBHJQANtjvm5MNIkCF1dDH.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

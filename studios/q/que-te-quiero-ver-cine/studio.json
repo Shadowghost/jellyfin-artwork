@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Que te quiero ver cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230060"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

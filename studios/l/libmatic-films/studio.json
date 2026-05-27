@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Libmatic Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "132100"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Film Rites",
+    "country": "US",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8083"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

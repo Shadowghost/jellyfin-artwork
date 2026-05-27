@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Screen Scene",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188154",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gmCRZYGsQEJgm9thVAHjk0nrZbk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "https://screenscene.ie",
+    "headquarters": "Dublin, Ireland",
+    "placeholder": true
+  }
+]

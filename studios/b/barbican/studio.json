@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Barbican",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123546"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

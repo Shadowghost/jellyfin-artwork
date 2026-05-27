@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fowler Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150062",
+        "logo_uri": "https://image.tmdb.org/t/p/original/okjd3SjAge0q5NvIURzSalGXOoc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://www.fowlermedia.co.uk",
+    "placeholder": true
+  }
+]

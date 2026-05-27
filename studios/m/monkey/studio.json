@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Monkey",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81358",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tMBg7xA2CbMPLFQCukf3i8keSmE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.monkeykingdom.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

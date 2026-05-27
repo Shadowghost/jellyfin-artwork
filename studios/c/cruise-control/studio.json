@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cruise Control",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123099"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Ink Factory",
+    "country": "US",
+    "homepage": "https://inkfactoryfilms.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "279424",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uRiiilSp3rBKKUPLfgdeT8tJXkp.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

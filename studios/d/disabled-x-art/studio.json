@@ -1,0 +1,13 @@
+[
+  {
+    "name": "disabled X-Art",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120607"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

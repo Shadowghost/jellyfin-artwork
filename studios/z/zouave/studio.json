@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zouave",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192271",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fNwbbmSJJkXZhaPmVTOiYA9HDV5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.zouave.net/",
+    "headquarters": "Zouave  68 rue de la Folie Méricourt  75011 PARIS",
+    "placeholder": true
+  }
+]

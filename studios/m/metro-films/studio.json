@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Metro Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72700",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pE7ZcYgRMNocyCFw8OqBt3LG2OP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://www.metrofilms.com.pl",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

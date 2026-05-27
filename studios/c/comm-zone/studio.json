@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Comm Zone",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200879"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

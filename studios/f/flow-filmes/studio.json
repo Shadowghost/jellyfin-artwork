@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Flow Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156540"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

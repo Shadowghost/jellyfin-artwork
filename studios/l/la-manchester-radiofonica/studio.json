@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Manchester Radiofònica",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225190",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mEST7dQ73UH3pP901GP2383iCbu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://lamanchester.com/",
+    "headquarters": "Barcelona",
+    "placeholder": true
+  }
+]

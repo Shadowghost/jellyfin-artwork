@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Get Lifted Film Co.",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53215",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mh9B1AdYWT9KxHOHC0k8TfTVzsv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

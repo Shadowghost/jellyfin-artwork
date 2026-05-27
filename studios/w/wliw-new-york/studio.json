@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WLIW New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110536",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qkPeWguldFzKn7AQOTHB1R9hVj1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.wliw.org/",
+    "headquarters": "Garden City, New York, United States",
+    "placeholder": true
+  }
+]

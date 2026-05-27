@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Catfish Productions",
+    "country": "US",
+    "homepage": "http://www.catfishproductions.com/",
+    "headquarters": "Malibu, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

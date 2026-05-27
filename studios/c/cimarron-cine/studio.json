@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cimarrón Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "136963",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cy7yQL0v56g2MQChxKqYF3NGkLx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UY",
+    "homepage": "https://cimarroncine.com/",
+    "headquarters": "Montevideo",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Utopia Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108046",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cZ6ohNiNrcNpxQPuO9CenCEEcih.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://utopiafilms.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

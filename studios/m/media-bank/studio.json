@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Media Bank",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123563",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aKS1PfR1FN1d18bCasREcfOizF2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.mediabank.co.jp",
+    "placeholder": true
+  }
+]

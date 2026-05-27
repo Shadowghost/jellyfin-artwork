@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Stage Group",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229252"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

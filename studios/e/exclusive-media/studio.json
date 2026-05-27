@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Exclusive Media",
+    "country": "US",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11448",
+        "logo_uri": "https://image.tmdb.org/t/p/original/twhX9HMUuGW4Mhb45AyWDhRqkvR.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

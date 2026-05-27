@@ -1,0 +1,16 @@
+[
+  {
+    "name": "White Room",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238085",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fAl3oh9jjnFTg89Cc3MoquKUx1B.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.whiteroomproductions.com",
+    "placeholder": true
+  }
+]

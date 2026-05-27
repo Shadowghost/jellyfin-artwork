@@ -1,0 +1,17 @@
+[
+  {
+    "name": "West End Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202808",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n7NkzBqSIBLiT60rKPZKfocWCnF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://linktr.ee/westendfilmes",
+    "headquarters": "Campo Grande, Mato Grosso do Sul, Brazil",
+    "placeholder": true
+  }
+]

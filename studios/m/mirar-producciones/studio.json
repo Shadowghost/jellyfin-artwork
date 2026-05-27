@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mirar Producciones",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255433"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

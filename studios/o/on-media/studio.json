@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ON Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130614",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fgwCU6TwNPlwXGiK0sL7Ak2vhV7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://on-media.ru/",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

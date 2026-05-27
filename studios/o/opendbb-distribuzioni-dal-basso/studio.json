@@ -1,0 +1,17 @@
+[
+  {
+    "name": "OpenDBB - Distribuzioni dal Basso",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116193",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cggf3827ESdcBFW4aWfMYyE5RNg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://openddb.it/",
+    "headquarters": "Bologna (IT)",
+    "placeholder": true
+  }
+]

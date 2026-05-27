@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Beta Fiction Spain",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210208",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nGtf6nkEsTYTxtBo7FKV3gmU7lo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://betafiction.es",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

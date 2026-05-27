@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Le Petit Remorqueur",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116543",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zZsaEycxthRiMLHoodMTfLvkgNa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.lepetitremorqueur.com",
+    "placeholder": true
+  }
+]

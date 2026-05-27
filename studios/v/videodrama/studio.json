@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Videodrama",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113020"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

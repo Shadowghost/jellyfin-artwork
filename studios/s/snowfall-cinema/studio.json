@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Snowfall Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82661",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jvbiU6vSXvdyWkfrWci4hTi0ydI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.snowfallcinema.no/",
+    "headquarters": "Oslo",
+    "placeholder": true
+  }
+]

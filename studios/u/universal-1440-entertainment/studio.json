@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Universal 1440 Entertainment",
+    "country": "US",
+    "headquarters": "Universal City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17009",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ssowAxOrrqsSR2CKeiytOXwLoCW.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

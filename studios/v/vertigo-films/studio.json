@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Vertigo Films",
+    "description": "British independent film production and distribution company based in London.",
+    "country": "GB",
+    "type": "production-company",
+    "homepage": "https://vertigofilms.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10393",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7MazD0kppT5OzdumzDi5IFYNthO.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

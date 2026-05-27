@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Run Wild Records",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99007"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

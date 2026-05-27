@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Agatha Christie",
+    "description": "British company that manages the literary and media rights to the works of crime novelist Agatha Christie.",
+    "country": "GB",
+    "type": "production-company",
+    "homepage": "https://www.agathachristielimited.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84097",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hA9PkCXHVdQCNuj8Dji10qetlKA.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Agatha Christie Limited"
+    ],
+    "template": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "CineMachine",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "253186"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

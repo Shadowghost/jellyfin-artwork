@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Midi:Nette",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18181",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8BtfrzOVhBUIiP9V7cBpnigqx9b.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

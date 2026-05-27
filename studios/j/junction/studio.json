@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Junction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114580"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "name": "dentsu",
+    "description": "Japanese international advertising and public relations company, the largest advertising agency in Japan and one of the largest agency networks in the world; also produces and finances anime and entertainment content.",
+    "country": "JP",
+    "type": "other",
+    "homepage": "https://www.dentsu.com/?global=true",
+    "headquarters": "Higashi–Shinbashi, Minato, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1778",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b5rT6VbYza3LyfltCmz1OcqzWJM.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Dentsu",
+      "DENTSU"
+    ],
+    "template": true
+  }
+]

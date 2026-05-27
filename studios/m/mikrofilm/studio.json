@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mikrofilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48790",
+        "logo_uri": "https://image.tmdb.org/t/p/original/32GzgUtNMmTHQEZH7bQ8ZSagv4i.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "http://www.mikrofilm.no/",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

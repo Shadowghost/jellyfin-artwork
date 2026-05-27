@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio Target",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220801",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aoCucwqDgjlzdlO4WbV9FTN643O.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://studiotarget.net/",
+    "headquarters": "Yongsan, Seoul, South Korea",
+    "placeholder": true
+  }
+]

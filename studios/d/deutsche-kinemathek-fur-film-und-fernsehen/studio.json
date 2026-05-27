@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Deutsche Kinemathek für Film und Fernsehen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90600"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

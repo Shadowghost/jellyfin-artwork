@@ -1,0 +1,14 @@
+[
+  {
+    "name": "I-Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226159"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

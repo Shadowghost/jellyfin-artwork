@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Scary Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74646"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

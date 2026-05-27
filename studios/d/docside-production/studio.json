@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Docside Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32917",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p6fzk3xhU5BauCwstmAuEMhmHc3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.docsideproduction.fr",
+    "placeholder": true
+  }
+]

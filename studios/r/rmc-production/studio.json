@@ -1,0 +1,16 @@
+[
+  {
+    "name": "RMC Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139669",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9Fhvr0xOJxbrJ3JoiltfQwIJj1H.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://rmcbfmplay.com",
+    "placeholder": true
+  }
+]

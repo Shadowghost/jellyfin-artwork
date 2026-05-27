@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pirate Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "263216"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

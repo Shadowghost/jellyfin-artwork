@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Big Ocean",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283240",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Kml65opSjrY4fBbVVOn8cmxrqI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://bigoceanmanagers.org/",
+    "headquarters": "Honolulu, Hawaii",
+    "placeholder": true
+  }
+]

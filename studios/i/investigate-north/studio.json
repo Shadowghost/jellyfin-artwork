@@ -1,0 +1,13 @@
+[
+  {
+    "name": "investigate north",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99707"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

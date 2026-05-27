@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Label 42",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185517",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lhRw9kptTRYj2FgNTwiouLT1Qt9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.label42.com/",
+    "headquarters": "Marseille",
+    "placeholder": true
+  }
+]

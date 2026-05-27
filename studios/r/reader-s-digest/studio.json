@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Reader's Digest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134607",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j39RBOHhq9wMfYfVryDkmk9k6zq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.rd.com/",
+    "headquarters": "Manhattan, New York City, New York, U.S.",
+    "placeholder": true
+  }
+]

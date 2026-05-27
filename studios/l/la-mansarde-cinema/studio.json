@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Mansarde Cinéma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184046",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5fqtq7NSMaOIjmTRuBro64atzTl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.lamansardecinema.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

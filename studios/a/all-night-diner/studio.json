@@ -1,0 +1,17 @@
+[
+  {
+    "name": "All Night Diner",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169642",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pZegqrKGPMaZCaoUEfFDT3fW0Om.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.allnightdiner.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

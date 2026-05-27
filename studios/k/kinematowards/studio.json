@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KinemaTowards",
+    "country": "JP",
+    "homepage": "https://kinematowards.com/",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248906",
+        "logo_uri": "https://image.tmdb.org/t/p/original/89vXnLPEQFMRu3UZn3ClBSuGcn7.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Altamira Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5099",
+        "logo_uri": "https://image.tmdb.org/t/p/original/TN8pQL6oEqypiNvCqGop6wIGtg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://altamira.jp",
+    "placeholder": true
+  }
+]

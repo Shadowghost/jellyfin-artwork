@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ROI VISUAL",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112073",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9SU4rA3UU4i0TdTh80s6muW0Ywq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.roivisual.com/",
+    "placeholder": true
+  }
+]

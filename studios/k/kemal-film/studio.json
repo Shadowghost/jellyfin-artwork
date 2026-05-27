@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kemal Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21249",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3SD0WKLFrtRozY5S1XQ66sOGro.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

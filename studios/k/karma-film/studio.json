@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Karma Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203578"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

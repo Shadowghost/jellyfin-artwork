@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Greenlight Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45116",
+        "logo_uri": "https://image.tmdb.org/t/p/original/s9aH9TUhTLvnTdzOduTG9qRKZhK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MY",
+    "homepage": "https://greenlightpics.com/",
+    "headquarters": "Shah Alam, Selangor",
+    "placeholder": true
+  }
+]

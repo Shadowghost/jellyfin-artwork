@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Homebrew Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145369",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5kuZFhJH26lisP5hSafxn4PUH1U.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ZA",
+    "homepage": "https://www.homebrewfilms.tv",
+    "headquarters": "Cape Town",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pathé Distribution",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3012",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wF3RSATZ3lfSrQB8DtTw8XbKtgs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.pathe.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kungliga Dramatiska Teatern",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41352",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nLJlcIh5W5mdJ86d5ClxuY4YZr7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.dramaten.se/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

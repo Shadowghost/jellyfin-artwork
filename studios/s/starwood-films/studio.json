@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Starwood films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256010"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

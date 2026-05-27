@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Emirates NDB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137583"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

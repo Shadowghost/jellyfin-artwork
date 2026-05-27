@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Great Big Story",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138851",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x7xheOZPcIv128bEBbPtkyRAYHG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.greatbigstory.com/",
+    "headquarters": "New York City, New York, USA",
+    "placeholder": true
+  }
+]

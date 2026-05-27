@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Indecline",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85851",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7zhYgrLmnBeuIfc0Qb7e55DiDrG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://thisisindecline.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Yuma",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10880"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

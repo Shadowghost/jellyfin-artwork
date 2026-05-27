@@ -1,0 +1,14 @@
+[
+  {
+    "name": "First Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221790"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Miso Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5123",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vkNtfMgiOdBYc6hECG9i6WQnvFs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://www.misofilm.dk/",
+    "headquarters": "Copenhagen",
+    "placeholder": true
+  }
+]

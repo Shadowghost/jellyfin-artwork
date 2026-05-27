@@ -1,0 +1,17 @@
+[
+  {
+    "name": "wiip",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113378",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q47cg2kD4UF8rh72nSuyPGhl8E7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.wiip.tv",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

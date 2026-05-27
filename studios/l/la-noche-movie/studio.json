@@ -1,0 +1,13 @@
+[
+  {
+    "name": "La Noche Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111130"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Star Cineplex",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126025"
+      }
+    ],
+    "artwork": {},
+    "country": "BD",
+    "homepage": "https://www.cineplexbd.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WTFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22784",
+        "logo_uri": "https://image.tmdb.org/t/p/original/y8G4y9Z8tP0NJ0pPKb19eHPlykH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.wtfilms.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

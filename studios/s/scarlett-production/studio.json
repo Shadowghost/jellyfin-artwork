@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Scarlett Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29378",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jVyURMmtDYaZ3ky4lLDw0qrcE4S.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://scarlettprod.fr/en/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

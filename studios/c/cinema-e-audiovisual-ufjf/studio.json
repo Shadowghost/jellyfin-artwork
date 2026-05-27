@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinema e Audiovisual - UFJF",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "296495",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1i55nxnprD22egu4DYYfJDS452L.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www2.ufjf.br/cinema/",
+    "headquarters": "Juiz de Fora, Minas Gerais",
+    "placeholder": true
+  }
+]

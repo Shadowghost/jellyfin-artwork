@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Petit Film",
+    "country": "FR",
+    "homepage": "http://www.petit-film.com",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75891",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7xISxdpoePsyJ0pYk32IkwtOE4L.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

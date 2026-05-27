@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Gradski muzej Požega",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272382"
+      }
+    ],
+    "artwork": {},
+    "country": "HR",
+    "headquarters": "Požega",
+    "placeholder": true
+  }
+]

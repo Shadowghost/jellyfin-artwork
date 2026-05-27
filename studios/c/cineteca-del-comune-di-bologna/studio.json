@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cineteca del Comune di Bologna",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111407"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

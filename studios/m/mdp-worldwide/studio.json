@@ -1,0 +1,14 @@
+[
+  {
+    "name": "MDP Worldwide",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10828"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Jonesfilm",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22297"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

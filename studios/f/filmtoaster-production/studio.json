@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FilmToaster production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157417"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

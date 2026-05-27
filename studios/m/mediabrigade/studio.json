@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MediaBrigade",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73008",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gkrpr1mCNGwJKMz22jXsnexsPqp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://www.mediabrigade.pl",
+    "headquarters": "Wrocław",
+    "placeholder": true
+  }
+]

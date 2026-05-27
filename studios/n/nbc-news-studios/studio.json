@@ -1,0 +1,32 @@
+[
+  {
+    "name": "NBC News Studios",
+    "description": "Long-form documentary and unscripted production unit within NBC News, producing series for streaming and theatrical release.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://nbcnewsstudios.com",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162351",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pcbWKao4b7WTn2USrfgDjxahVN6.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

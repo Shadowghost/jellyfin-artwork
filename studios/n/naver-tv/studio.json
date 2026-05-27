@@ -1,0 +1,14 @@
+[
+  {
+    "name": "NAVER TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112550"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "placeholder": true
+  }
+]

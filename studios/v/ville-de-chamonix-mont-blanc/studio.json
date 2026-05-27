@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ville de Chamonix Mont-Blanc",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205290",
+        "logo_uri": "https://image.tmdb.org/t/p/original/60weAfbiaelAVN4OiHd2jug7QiD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.chamonix.fr/",
+    "headquarters": "Ville de Chamonix Mont-Blanc, 38 Place de l'Église, 74400 Chamonix-Mont-Blanc, France",
+    "placeholder": true
+  }
+]

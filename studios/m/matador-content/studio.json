@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Matador Content",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39917",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hVZx78eZ0YMbo61BIOvoPsE6Nn6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://matadorcontent.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Super Écran",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11578",
+        "logo_uri": "https://image.tmdb.org/t/p/original/us1W5CytIttX4F526bRJmrS36dJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.superecran.com",
+    "placeholder": true
+  }
+]

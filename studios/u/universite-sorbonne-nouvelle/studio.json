@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Université Sorbonne-Nouvelle",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229503",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gVC8HhbAUBRoZQ7rhQWMcVBQ5X3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://univ-paris3.fr",
+    "placeholder": true
+  }
+]

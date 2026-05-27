@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DAST",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104005"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

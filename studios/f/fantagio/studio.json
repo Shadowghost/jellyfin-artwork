@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fantagio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12620",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9eEyymKRwMS7GiBy1ZqHiMCpE8i.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.fantagio.kr/",
+    "headquarters": "Gangnam, Seoul, South Korea",
+    "placeholder": true
+  }
+]

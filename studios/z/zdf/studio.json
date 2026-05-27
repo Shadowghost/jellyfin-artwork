@@ -1,0 +1,39 @@
+[
+  {
+    "name": "ZDF",
+    "country": "DE",
+    "homepage": "https://www.zdf.de",
+    "headquarters": "Mainz, Rhineland-Palatinate",
+    "providers": [
+      {
+        "provider_name": "imdb",
+        "id": "co0901036"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "4606",
+        "logo_uri": "https://image.tmdb.org/t/p/original/otZHbf1HmzLRQsZFSqJXkf8EHz7.png"
+      },
+      {
+        "provider_name": "tvdb",
+        "id": "315"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "zdf",
+    "template": true
+  }
+]

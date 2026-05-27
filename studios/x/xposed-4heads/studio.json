@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Xposed 4Heads",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226411"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

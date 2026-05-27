@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Link Production Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202901"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

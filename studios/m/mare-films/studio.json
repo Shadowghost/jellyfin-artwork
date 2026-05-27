@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mare Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125440",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cTAbM4sBxTunAx8wWsSLbzxTkFO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://marefilms.com",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

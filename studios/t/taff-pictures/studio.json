@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TAFF Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37124",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xds9zZHZZfGD0eyB2CgO7k8gT8D.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://eng.taffpics.com",
+    "headquarters": "Istanbul",
+    "placeholder": true
+  }
+]

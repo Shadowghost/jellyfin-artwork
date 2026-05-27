@@ -1,0 +1,17 @@
+[
+  {
+    "name": "January Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40044",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n9LaiOlGCvXAW6qoN3wJEcjiKZM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.januarymedia.ca",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

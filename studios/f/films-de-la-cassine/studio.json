@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Films de la Cassine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202334"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

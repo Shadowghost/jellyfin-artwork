@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Sunac Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192426",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ux0PrwWFqzjqYx0i2SieggC7ML6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "placeholder": true
+  }
+]

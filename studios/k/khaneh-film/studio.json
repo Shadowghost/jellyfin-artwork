@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Khaneh Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245066",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1DvJZV7wYCrcHu84B8tCwwav4pf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IR",
+    "homepage": "https://khanehfilm.co/",
+    "headquarters": "Tahran",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Highlight Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170947"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

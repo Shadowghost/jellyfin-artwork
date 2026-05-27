@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Staple Fiction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117643",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bAbwZpPVUhCcUBhuALaXBgtV9BN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://www.staplefiction.com.au",
+    "placeholder": true
+  }
+]

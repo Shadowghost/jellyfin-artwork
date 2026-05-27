@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mondo TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10204",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uerlT3aS7Oxf8tn05qc9dqx84kC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://mondotv.it",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

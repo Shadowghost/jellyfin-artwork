@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Nixmedia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240101"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.nixmedia.nl/",
+    "placeholder": true
+  }
+]

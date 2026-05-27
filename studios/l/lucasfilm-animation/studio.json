@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lucasfilm Animation",
+    "country": "US",
+    "homepage": "https://www.lucasfilm.com/what-we-do/animation",
+    "headquarters": "San Francisco, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108270",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eDWGeg5tdVNcI8aBaaJ21bEBtFa.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

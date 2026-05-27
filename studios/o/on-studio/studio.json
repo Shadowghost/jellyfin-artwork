@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ON Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "268703",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yDSH3PgMzmIRuwARU91qFmeKGaX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://on-media.ru/about/on-studio",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

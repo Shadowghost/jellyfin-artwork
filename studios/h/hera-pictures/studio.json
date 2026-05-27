@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hera Pictures",
+    "country": "GB",
+    "homepage": "https://www.hera-pictures.com/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122908",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iVPAyAXjzbHjzRamNcc1R8Ra7sD.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

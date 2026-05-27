@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Lucky Giant",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93745",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bX89GvmnmG91YvJMCp77NlghQEZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

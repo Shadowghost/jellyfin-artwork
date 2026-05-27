@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Oslo Filmfond",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189258",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i77SPCRCRDsFffKvcosikw4dhpP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://oslofilmfond.no",
+    "headquarters": "Oslo",
+    "placeholder": true
+  }
+]

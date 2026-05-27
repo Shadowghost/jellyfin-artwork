@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pipeline",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84452",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nv8bB1Gbrd15ZG30njtr7DRgIIR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://pipeline-bm.jp",
+    "placeholder": true
+  }
+]

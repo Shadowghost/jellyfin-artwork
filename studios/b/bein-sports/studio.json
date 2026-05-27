@@ -1,0 +1,16 @@
+[
+  {
+    "name": "beIN SPORTS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "207821",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2vzEYBVXBnZv5RhUjYRcsq6mEkQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://beinsports.com.tr",
+    "placeholder": true
+  }
+]

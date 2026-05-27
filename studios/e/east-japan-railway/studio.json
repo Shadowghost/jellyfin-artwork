@@ -1,0 +1,16 @@
+[
+  {
+    "name": "East Japan Railway",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129532",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tHcMGgL4IoHgyhVP93EVidrXWyh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.jreast.co.jp/",
+    "placeholder": true
+  }
+]

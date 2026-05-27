@@ -1,0 +1,26 @@
+[
+  {
+    "name": "CBS Interactive Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187678"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

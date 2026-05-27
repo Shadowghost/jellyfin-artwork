@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cancun Boxing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210186",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bv6vu3npTi2dcCMjf4o4gf2PJdK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://www.boxingtime.mx",
+    "headquarters": "Cancun, Mexico",
+    "placeholder": true
+  }
+]

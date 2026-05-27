@@ -1,0 +1,16 @@
+[
+  {
+    "name": "IRIB Quran",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272608"
+      }
+    ],
+    "artwork": {},
+    "country": "IR",
+    "homepage": "https://qurantv.ir/",
+    "headquarters": "Jame Jam, Tehran, Iran",
+    "placeholder": true
+  }
+]

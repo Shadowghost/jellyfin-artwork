@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pixibox",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124004"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

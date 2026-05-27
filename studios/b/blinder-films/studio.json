@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Blinder Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9225",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7P0jOFlckSJ2HRijCcP8IspQc37.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "http://www.blinderfilms.com",
+    "headquarters": "Dublin",
+    "placeholder": true
+  }
+]

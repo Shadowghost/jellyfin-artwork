@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cache Post",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272729"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

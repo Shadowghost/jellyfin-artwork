@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ABC News Closeup",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "61945"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

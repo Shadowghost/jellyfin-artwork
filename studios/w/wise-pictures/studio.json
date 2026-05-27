@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wise Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159107",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uKfWUrpQiu4Pz60vkFQZglEIAlp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.wisepictures.eu/",
+    "headquarters": "Milano",
+    "placeholder": true
+  }
+]

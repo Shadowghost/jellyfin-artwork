@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Columbia TriStar Television",
+    "description": "Former American television production company formed from the merger of Columbia Pictures Television and TriStar Television; reorganised into Sony Pictures Television in 2002.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Culver City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10471",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tHIwIKoXdLKA8Nt3XeRInh71OvD.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

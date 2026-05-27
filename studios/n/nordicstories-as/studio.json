@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NordicStories AS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86132",
+        "logo_uri": "https://image.tmdb.org/t/p/original/91SZEJwBdc9cyvWWJvc1Dbhoedm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://nordicstories.no/",
+    "headquarters": "Oslo",
+    "placeholder": true
+  }
+]

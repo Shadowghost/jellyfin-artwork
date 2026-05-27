@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Fox West Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3401"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

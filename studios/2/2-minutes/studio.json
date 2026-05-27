@@ -1,0 +1,17 @@
+[
+  {
+    "name": "2 Minutes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42210",
+        "logo_uri": "https://image.tmdb.org/t/p/original/90jvlHsNtaFyft0LVMyw8cDBIQc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://2minutes.fr/",
+    "headquarters": "9 rue Biscornet, 75012 Paris",
+    "placeholder": true
+  }
+]

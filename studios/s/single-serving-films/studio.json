@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Single Serving Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91418"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

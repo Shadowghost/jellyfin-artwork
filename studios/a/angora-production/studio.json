@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Angora Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131234",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bJknaxLxVHKau5HYjBe56YdyoxI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.angoraprod.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Via Découvertes Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117855",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uIQAPjfiUqaMdu6L5SojRW5ElBt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.viadecouvertes.fr/?lang=en",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

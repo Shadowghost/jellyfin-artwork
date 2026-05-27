@@ -1,0 +1,13 @@
+[
+  {
+    "name": "UZKID",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200501"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CrowningArts",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221160",
+        "logo_uri": "https://image.tmdb.org/t/p/original/id0JUgRTmp2zU8I7KdrRaI5iz5x.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.crowningarts.com/",
+    "placeholder": true
+  }
+]

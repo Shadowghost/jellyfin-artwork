@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KMAX",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135532",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lO88o1kJsybIqdSRrzq61CBDbKI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.kmax.co.jp/",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

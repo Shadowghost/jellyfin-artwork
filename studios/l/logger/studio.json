@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Logger",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "292063"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

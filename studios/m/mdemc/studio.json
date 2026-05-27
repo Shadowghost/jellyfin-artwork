@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MDEMC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125521",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fAroo0hjYR5Q7iaxFqyBSTv0CT7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.mdemc.se/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

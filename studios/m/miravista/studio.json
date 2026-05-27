@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Miravista",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29891",
+        "logo_uri": "https://image.tmdb.org/t/p/original/52qh1oy6ROcTWQi6xe5Yt3eAA1m.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

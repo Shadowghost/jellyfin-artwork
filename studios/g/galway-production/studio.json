@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Galway production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280733"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

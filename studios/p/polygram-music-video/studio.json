@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Polygram Music Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96400",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lTzSvArTDdffkHuXLEfy9IX1PLE.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

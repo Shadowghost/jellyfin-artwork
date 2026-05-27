@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Production Ace",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182586",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k5zI0ffvezgpzUpOLTfSrQSApeC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.production-ace.co.jp/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Concordia Studio",
+    "country": "US",
+    "homepage": "http://concordia.studio/",
+    "headquarters": "Venice, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125345",
+        "logo_uri": "https://image.tmdb.org/t/p/original/z3Ly3BKafB4PUkvVmkTwLQ8V8yS.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

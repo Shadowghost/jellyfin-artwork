@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Criminal Content",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213612",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qNtzaBmyujhSzGV32zTVqCn1hbX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://criminalcontent.com",
+    "placeholder": true
+  }
+]

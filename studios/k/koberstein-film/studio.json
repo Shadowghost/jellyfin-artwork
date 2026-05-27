@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Koberstein Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147699",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rBPluUoHIaBcdb5yqd3YZZUGD7A.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://koberstein-film.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

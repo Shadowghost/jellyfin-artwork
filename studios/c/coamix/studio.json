@@ -1,0 +1,17 @@
+[
+  {
+    "name": "COAMIX",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285357",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3ufQXZ5n69RzOgcXSJqh4jsdeZU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.coamix.co.jp",
+    "headquarters": "Musashino, Tokyo",
+    "placeholder": true
+  }
+]

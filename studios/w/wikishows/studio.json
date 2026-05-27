@@ -1,0 +1,13 @@
+[
+  {
+    "name": "WikiShows",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272691"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

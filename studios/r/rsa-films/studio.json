@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RSA Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4545",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k9dErisrlWRJLvIkJYgKrIZVSnO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://rsafilms.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

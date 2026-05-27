@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Slow Blink",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184628"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

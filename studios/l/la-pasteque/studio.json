@@ -1,0 +1,16 @@
+[
+  {
+    "name": "La Pastèque",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130019",
+        "logo_uri": "https://image.tmdb.org/t/p/original/89JcxHcmV4FYU8Vhog12lF3ha1y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.lapasteque.com",
+    "placeholder": true
+  }
+]

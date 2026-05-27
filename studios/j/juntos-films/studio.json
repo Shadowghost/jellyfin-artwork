@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Juntos Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78022",
+        "logo_uri": "https://image.tmdb.org/t/p/original/s35QPisEs34diExMuIVHZWZfbHP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "https://www.juntosfilms.cl",
+    "headquarters": "Santiago",
+    "placeholder": true
+  }
+]

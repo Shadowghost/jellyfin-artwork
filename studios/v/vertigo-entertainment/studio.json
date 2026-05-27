@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Vertigo Entertainment",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "829",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iJo9zP5QCKyBsmKSOcvXd6UDNih.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

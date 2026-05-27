@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sycamore Pictures",
+    "country": "US",
+    "homepage": "http://www.sycamorepictures.com/",
+    "headquarters": "Los Angeles, California, United States",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14319",
+        "logo_uri": "https://image.tmdb.org/t/p/original/z5jJhK1AMbr47CLVqsB4HpIBtHd.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

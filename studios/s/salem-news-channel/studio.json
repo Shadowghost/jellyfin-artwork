@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Salem News Channel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273842"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

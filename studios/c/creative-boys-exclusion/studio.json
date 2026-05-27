@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Creative boys exclusion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170689"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

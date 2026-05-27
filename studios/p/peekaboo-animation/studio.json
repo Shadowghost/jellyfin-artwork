@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Peekaboo Animation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159732",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c31LKuT88uctqp3o1vvm9ljKGUG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.peekabooanimation.com",
+    "headquarters": "Barcelona, Catalonia",
+    "placeholder": true
+  }
+]

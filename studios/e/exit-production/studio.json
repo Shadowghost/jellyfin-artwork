@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Медиа группа EXIT production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78372"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

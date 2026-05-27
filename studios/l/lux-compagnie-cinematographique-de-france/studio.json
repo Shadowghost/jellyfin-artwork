@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Lux Compagnie Cinématographique de France",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12243",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hztlrOaMK77kKdErDwogso0m2YS.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

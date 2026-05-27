@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Q-TEC",
+    "country": "JP",
+    "homepage": "https://www.qtec.ne.jp/",
+    "headquarters": "Minato, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12541"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

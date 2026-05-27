@@ -1,0 +1,15 @@
+[
+  {
+    "name": "20th Century Fox Brazil",
+    "country": "BR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89438",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qZCc1lty5FzX30aOCVRBLzaVmcp.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

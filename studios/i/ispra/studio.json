@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ispra",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201706"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

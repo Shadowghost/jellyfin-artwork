@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cheval Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "288079",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lA5GzC8EiCqsa19p3HI2i2DJxqd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://chevalfilms.ca",
+    "headquarters": "Beloeil, Quebec",
+    "placeholder": true
+  }
+]

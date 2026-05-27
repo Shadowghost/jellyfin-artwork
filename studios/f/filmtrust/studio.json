@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmtrust",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10688"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

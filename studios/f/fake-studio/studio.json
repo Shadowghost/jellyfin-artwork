@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fake Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "251340"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.fakestudio.tv/",
+    "headquarters": "Barcelona",
+    "placeholder": true
+  }
+]

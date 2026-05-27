@@ -1,0 +1,13 @@
+[
+  {
+    "name": "egly production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252385"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

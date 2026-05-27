@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BOO-URNS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219559",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sfRhLpRWcbA0VUhAisfIUw08iew.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

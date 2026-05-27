@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Maïa Cinéma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16884",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4TWafQ9crGEu8u8IsOx9BgjXgF0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

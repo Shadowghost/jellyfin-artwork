@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Master Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85509"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

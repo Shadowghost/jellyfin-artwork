@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Peacock Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78507",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lVtS5Z6MITcHXlKhgwbM3CNYtuu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.peacock.ch/HOME",
+    "headquarters": "Zurich",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Paris-Movies Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71503"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

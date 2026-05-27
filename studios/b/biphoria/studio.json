@@ -1,0 +1,15 @@
+[
+  {
+    "name": "BiPhoria",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161208",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bHrjEpJmFk0jZM76o9zxsvoVxHc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

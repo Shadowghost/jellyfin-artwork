@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Brat TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106177",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aA4IY5vCEaNc8ZoE4Z4veVAWoEc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.brat.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

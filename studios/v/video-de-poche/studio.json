@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Vidéo de Poche",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144968"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.videodepoche.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

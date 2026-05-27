@@ -1,0 +1,17 @@
+[
+  {
+    "name": "C-Films",
+    "country": "CH",
+    "homepage": "https://www.c-films.com/home-en",
+    "headquarters": "Zurich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6663",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gVL9spqQwwCQPly6moVVWuofouy.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

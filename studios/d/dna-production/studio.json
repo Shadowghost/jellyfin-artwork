@@ -1,0 +1,33 @@
+[
+  {
+    "name": "DNA Production",
+    "description": "American animation studio based in Dallas, Texas, best known for producing Jimmy Neutron: Boy Genius and its TV spin-off The Adventures of Jimmy Neutron, Boy Genius.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89136",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5w19JCYpAshGGSIh1fTgwswl4DC.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "DNA Productions"
+    ],
+    "template": true
+  }
+]

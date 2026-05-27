@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Rasa Shastra Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27070"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

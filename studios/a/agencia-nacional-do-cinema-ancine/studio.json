@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Agência Nacional do Cinema - ANCINE",
+    "country": "BR",
+    "homepage": "https://www.gov.br/ancine/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11547",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kyOeH5CwsaILcJItafIMAM4KElB.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

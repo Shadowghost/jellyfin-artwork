@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Non-Aligned Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24615",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bPTRJHgDP6UOGcSpd1ViSolzMk4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "homepage": "http://nonalignedfilms.com/",
+    "headquarters": "Belgrade",
+    "placeholder": true
+  }
+]

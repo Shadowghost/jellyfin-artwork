@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Metro Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224831"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

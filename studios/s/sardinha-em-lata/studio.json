@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sardinha em Lata",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49235",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sdtJCbyuDzlIhzVggZEDcPz7XcP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "https://www.sardinhaemlata.com/?lang=en",
+    "headquarters": "Lisbon",
+    "placeholder": true
+  }
+]

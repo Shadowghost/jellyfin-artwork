@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LB Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189132"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

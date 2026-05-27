@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tokyu Recreation",
+    "country": "JP",
+    "homepage": "https://www.tokyu-rec.co.jp/",
+    "headquarters": "Sakuragaokacho, Shibuya Ward, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123663",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eEDRzJMgCeep9nLEbE08gdzwepc.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

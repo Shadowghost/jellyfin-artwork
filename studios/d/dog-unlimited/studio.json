@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dog Unlimited",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "281608",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tnjH4762MCZ1niYYdkfQOUQdBhx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://dogunlimited.carrd.co/",
+    "headquarters": "Eugene, Oregon",
+    "placeholder": true
+  }
+]

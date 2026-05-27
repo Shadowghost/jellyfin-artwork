@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Remote Reports",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229078"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

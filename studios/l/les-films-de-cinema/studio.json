@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films de Cinéma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25721"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

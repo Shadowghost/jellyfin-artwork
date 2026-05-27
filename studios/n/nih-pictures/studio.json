@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NIH Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215416"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

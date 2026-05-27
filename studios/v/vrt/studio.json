@@ -1,0 +1,17 @@
+[
+  {
+    "name": "VRT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12025",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sLVmKLJ2E0KSsfKiIYDjo4v6Y5l.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.vrt.be/en",
+    "headquarters": "Brussels",
+    "placeholder": true
+  }
+]

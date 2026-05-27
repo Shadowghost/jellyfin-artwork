@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ScienceVision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85472",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tAQA6VgN6YJTVwkuHjeGbm2xFAw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "https://www.sciencevision.at",
+    "headquarters": "Gratwein-Straßengel, Austria",
+    "placeholder": true
+  }
+]

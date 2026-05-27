@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Color Monster",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101374",
+        "logo_uri": "https://image.tmdb.org/t/p/original/25yTZporNMlTU9I2VATTW83nD55.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BO",
+    "homepage": "http://www.colormonster.tv",
+    "placeholder": true
+  }
+]

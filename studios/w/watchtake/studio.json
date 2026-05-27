@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Watchtake",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250019"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

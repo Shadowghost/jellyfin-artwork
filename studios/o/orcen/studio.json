@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ORCEN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218225",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yHqCXhYcRbdBAkB5PKziZNQKRmB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://www.orcen.com.cn/sy",
+    "headquarters": "Chaoyang, Beijing, China",
+    "placeholder": true
+  }
+]

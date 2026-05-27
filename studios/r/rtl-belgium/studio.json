@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RTL Belgium",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202584",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xzwuvF1SmLz0O1TunE2eMWq8Rdn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.rtlbelgium.be/",
+    "headquarters": "Bruxelles",
+    "placeholder": true
+  }
+]

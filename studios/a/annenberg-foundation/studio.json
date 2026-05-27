@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Annenberg Foundation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240234",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kFA5u4KYrJQGkwqQbzWoTG7a9ZA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://annenberg.org",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

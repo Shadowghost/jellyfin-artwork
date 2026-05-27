@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Music Vault",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "236924"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

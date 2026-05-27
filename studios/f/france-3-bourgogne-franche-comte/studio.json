@@ -1,0 +1,16 @@
+[
+  {
+    "name": "France 3 Bourgogne-Franche-Comté",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208280",
+        "logo_uri": "https://image.tmdb.org/t/p/original/437xV2t72jX694hb9ii99ddbmWJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/",
+    "placeholder": true
+  }
+]

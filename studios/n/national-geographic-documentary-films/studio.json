@@ -1,0 +1,16 @@
+[
+  {
+    "name": "National Geographic Documentary Films",
+    "country": "US",
+    "homepage": "https://films.nationalgeographic.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189457",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a0ruFlMfEs2pTOLZ1tPHqzDH7Fc.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

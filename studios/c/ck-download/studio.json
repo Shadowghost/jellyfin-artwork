@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ck-download",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "259888"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "RGBW",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218210"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "placeholder": true
+  }
+]

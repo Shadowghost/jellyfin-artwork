@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Intrepid Pictures",
+    "country": "US",
+    "homepage": "http://www.intrepidpictures.com",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1224",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9s5tOG7GWWym1P37QJuFX438rAI.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

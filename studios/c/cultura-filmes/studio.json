@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cultura Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120431"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

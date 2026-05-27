@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Walt Disney Animation Studios",
+    "country": "CA",
+    "headquarters": "Vancouver, British Columbia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158526",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tzsMJBJZINu7GHzrpYzpReWhh66.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

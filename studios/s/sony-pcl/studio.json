@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sony PCL",
+    "country": "JP",
+    "homepage": "https://www.sonypcl.jp/",
+    "headquarters": "Minato, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55494",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uv66bkVQgPMekYAzspgZr5Zp72V.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Royal Shakespeare Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5845",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5ncpOZ3B1Jlb7XnMJlBho1BHCIs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.rsc.org.uk/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "EDI",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "495"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

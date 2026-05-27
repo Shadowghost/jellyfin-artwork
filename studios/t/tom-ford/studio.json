@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Tom Ford",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129358"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

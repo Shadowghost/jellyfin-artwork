@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine Vogue",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99408"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

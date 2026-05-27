@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Azimuth",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18027"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

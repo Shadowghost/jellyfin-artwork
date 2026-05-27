@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Paragraph Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100608"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

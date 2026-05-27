@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film Forge Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51614",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1ne277bFN0waEAJqnle0bQwPRjR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://filmforge.biz",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

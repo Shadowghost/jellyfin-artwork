@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Grellman Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123623"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

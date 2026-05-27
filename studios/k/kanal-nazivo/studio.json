@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kanál Naživo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168746"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://filmnazivo.cz/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

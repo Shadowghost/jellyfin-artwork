@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Latchkey Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202278",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mVe5W1Ti4YwMJtRPvcgwFxQrJ59.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://latchkey-films.com/",
+    "placeholder": true
+  }
+]

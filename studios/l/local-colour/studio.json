@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Local Colour",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111823"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

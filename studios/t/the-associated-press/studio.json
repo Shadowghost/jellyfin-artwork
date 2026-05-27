@@ -1,0 +1,41 @@
+[
+  {
+    "name": "The Associated Press",
+    "description": "American not-for-profit news agency headquartered in New York City; one of the oldest and largest news organizations in the world.",
+    "country": "US",
+    "type": "news",
+    "homepage": "https://www.ap.org/",
+    "colors": [
+      {
+        "name": "AP Red",
+        "hex": "#FF322E"
+      },
+      {
+        "name": "AP Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198216",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wPgwsboWJIa1YbY7s2P8uQKH7zj.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

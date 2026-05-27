@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fuse visual",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155606"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

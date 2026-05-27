@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Showtime Sports",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81241",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nHWiGjxnQLfChinEbl4rUd9EdqD.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Youngblood Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224006",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oT0qpIycRhcKn4RR5e2igtREw0r.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://youngbloodpictures.com",
+    "placeholder": true
+  }
+]

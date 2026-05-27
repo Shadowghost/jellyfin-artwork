@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wrong Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168402",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vxiyN7mGrqP9ndnyd0ti1q341VP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://wrongfilms.com/",
+    "headquarters": "Montreuil",
+    "placeholder": true
+  }
+]

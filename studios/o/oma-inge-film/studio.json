@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Oma Inge Film",
+    "country": "DE",
+    "homepage": "https://omaingefilm.de",
+    "headquarters": "Hamburg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103886"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

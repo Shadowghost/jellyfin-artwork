@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FilmsByEverest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229544"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

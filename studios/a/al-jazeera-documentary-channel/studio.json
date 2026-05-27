@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Al Jazeera Documentary Channel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45471"
+      }
+    ],
+    "artwork": {},
+    "country": "QA",
+    "homepage": "https://network.aljazeera.net/en/channels/aljazeera-documentary",
+    "headquarters": "Doha",
+    "placeholder": true
+  }
+]

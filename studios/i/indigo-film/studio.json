@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Indigo Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1533",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bMD3Zv15TujMXJwvqoTFY6Scexx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.indigofilm.it",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

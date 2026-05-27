@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ciné Golem",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113300"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

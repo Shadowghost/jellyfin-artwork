@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Gordon Company",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1073"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

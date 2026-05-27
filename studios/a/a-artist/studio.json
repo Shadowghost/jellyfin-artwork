@@ -1,0 +1,14 @@
+[
+  {
+    "name": "A-Artist",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249131"
+      }
+    ],
+    "artwork": {},
+    "country": "MN",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Faro",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113673"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

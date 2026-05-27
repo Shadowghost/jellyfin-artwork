@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tencent Pictures Cultural Diffusion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100131"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

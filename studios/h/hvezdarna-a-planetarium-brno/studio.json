@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Hvězdárna a planetárium Brno",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214128"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.hvezdarna.cz/",
+    "headquarters": "Brno",
+    "placeholder": true
+  }
+]

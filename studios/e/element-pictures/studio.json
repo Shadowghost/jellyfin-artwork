@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Element Pictures",
+    "description": "Irish film production, distribution and cinema company founded by Ed Guiney and Andrew Lowe in 2001; produced Yorgos Lanthimos films The Favourite and Poor Things and now majority-owned by Fremantle.",
+    "country": "IE",
+    "type": "production-company",
+    "homepage": "https://elementpictures.ie",
+    "headquarters": "Dublin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3353",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hUw1iTY3hdjyb2zXT9KxupHbL4M.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "City of Winston-Salem",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "190113"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

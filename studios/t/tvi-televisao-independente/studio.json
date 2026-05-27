@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TVI - Televisão Independente",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86448",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ouoDVGGHRAE7WfPtMKZn6kKDMec.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "https://tvi.iol.pt/",
+    "headquarters": "Queluz de Baixo, Oeiras",
+    "placeholder": true
+  }
+]

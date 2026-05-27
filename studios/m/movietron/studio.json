@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MovieTron",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127257"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "INDOC-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "269983"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

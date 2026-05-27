@@ -1,0 +1,13 @@
+[
+  {
+    "name": "JFC Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200147"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

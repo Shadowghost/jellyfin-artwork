@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Alea Docs & Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10070",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d6GxNoLJHFYwj7iL4bivbyLHAXP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "headquarters": "Barcelona, Catalonia",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Celeb",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150173"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Samba Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124226"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

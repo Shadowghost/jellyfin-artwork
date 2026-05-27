@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Burning Angel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6985",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bNUhxigdSpi6WnyOFXMzAD5N21a.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.burningangel.com/",
+    "headquarters": "New York",
+    "placeholder": true
+  }
+]

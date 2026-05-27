@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Abbonamento Musei",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264451"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

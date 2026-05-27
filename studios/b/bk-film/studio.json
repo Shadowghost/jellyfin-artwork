@@ -1,0 +1,15 @@
+[
+  {
+    "name": "BK Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "297474",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5a5hgrNpAcSzmcscFEpXkzEYJBl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "placeholder": true
+  }
+]

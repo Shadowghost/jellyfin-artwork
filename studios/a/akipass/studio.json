@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Akipass",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "291793"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://aki-pass.tokyo/",
+    "placeholder": true
+  }
+]

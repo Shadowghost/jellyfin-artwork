@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NewsLab",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "291602"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

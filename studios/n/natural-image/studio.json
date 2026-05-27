@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Natural Image",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133803"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "placeholder": true
+  }
+]

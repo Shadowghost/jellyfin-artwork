@@ -1,0 +1,17 @@
+[
+  {
+    "name": "kurhaus production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87329",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6ZrqZH4n3ERG8p9zPIaRDbmQKFq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://kurhausproduction.de/",
+    "headquarters": "Baden-Baden",
+    "placeholder": true
+  }
+]

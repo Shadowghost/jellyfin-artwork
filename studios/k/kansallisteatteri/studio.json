@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kansallisteatteri",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "246797",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7Y7kZXVaTqH2OXM3eyMtSgXWFNS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://www.kansallisteatteri.fi/",
+    "headquarters": "Läntinen Teatterikuja 1, 00100 Helsinki",
+    "placeholder": true
+  }
+]

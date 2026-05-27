@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TR News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123750",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j1YpesMgiUnkzYLO2jiZS3brkfp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.tr.news",
+    "headquarters": "Britain",
+    "placeholder": true
+  }
+]

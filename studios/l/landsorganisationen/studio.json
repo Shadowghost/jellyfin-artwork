@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Landsorganisationen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202533",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r9yXEwgqWYDMWznO55GioxwM7xR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.lo.se/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

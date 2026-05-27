@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Platform Nama Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256926"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

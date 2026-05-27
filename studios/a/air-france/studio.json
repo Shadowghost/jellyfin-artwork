@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Air France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100361"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

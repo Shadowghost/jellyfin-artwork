@@ -1,0 +1,27 @@
+[
+  {
+    "name": "BBC Home Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150414"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "GB",
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "icon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4096"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

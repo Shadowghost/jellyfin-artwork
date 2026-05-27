@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmbelize",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248620"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

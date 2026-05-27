@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Global Update Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78395"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

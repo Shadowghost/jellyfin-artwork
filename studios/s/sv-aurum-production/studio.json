@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SV-Aurum Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40442"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AM-Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179034"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

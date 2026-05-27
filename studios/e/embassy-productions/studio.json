@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Embassy Productions",
+    "description": "American independent film production and distribution company founded by Joseph E. Levine; became Avco Embassy Pictures after Avco acquisition in 1968.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15013"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

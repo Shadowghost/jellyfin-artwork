@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TheatreRed",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75308"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

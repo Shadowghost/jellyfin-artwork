@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Divina-Film",
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2013"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

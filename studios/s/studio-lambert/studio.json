@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio Lambert",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23779",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tNHrNHJeKkPQa9itpccf8e5iaQS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.studiolambert.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

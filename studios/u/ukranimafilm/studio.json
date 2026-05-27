@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ukranimafilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165515",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6CIFVxd4QW71LzFBab4DLkqdfo4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UA",
+    "headquarters": "Kyiv",
+    "placeholder": true
+  }
+]

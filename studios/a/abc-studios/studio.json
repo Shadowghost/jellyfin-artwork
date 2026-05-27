@@ -1,0 +1,34 @@
+[
+  {
+    "name": "ABC Studios",
+    "description": "American television production company owned by The Walt Disney Company, originally known as Touchstone Television, then ABC Studios, and rebranded as ABC Signature in 2020.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "236613",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9DTggoZARHzATCRewGRs9XSNOWP.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "ABC Signature"
+    ],
+    "template": true
+  }
+]

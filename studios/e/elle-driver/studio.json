@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Elle Driver",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6930",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2G6LAOzXjNDWOgqL63C3xFsEkrI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.elledriver.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

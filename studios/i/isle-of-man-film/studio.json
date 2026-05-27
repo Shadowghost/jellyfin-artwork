@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Isle of Man Film",
+    "description": "Isle of Man government-backed film investment and promotion body that co-funded over 100 feature films shot on the island.",
+    "country": "GB",
+    "type": "government-agency",
+    "homepage": "https://www.isleofmanfilm.com/",
+    "headquarters": "Douglas, Isle of Man",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2268",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wgDks2qYgwN6u1OkW1bBre0rf4F.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

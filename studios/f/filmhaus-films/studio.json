@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmhaus Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104576",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sNhEzePPkxW3AKqr3l0h7I1k0hR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "https://www.filmhaus.com/filmhaus-films/",
+    "headquarters": "Vienna",
+    "placeholder": true
+  }
+]

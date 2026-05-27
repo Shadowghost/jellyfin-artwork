@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ordem Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249292"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

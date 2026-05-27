@@ -1,0 +1,15 @@
+[
+  {
+    "name": "TV360 Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16541",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rYoBhbnlDcQuCp0IpmRguq5AeyM.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "headquarters": "Amagansett, NY"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Boca a Boca Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155327",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sHrf91kXvSd5NV58b8ylj4W9cUZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.bocaboca.com.br/",
+    "placeholder": true
+  }
+]

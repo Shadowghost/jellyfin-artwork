@@ -1,0 +1,13 @@
+[
+  {
+    "name": "osweg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9003"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

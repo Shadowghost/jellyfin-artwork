@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TOEI CM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257465",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6yYbefHm7vukaMi9jN7Lnj9JgIg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://toei-cm.co.jp/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mainframe Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45415",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dQYSpnKnUPXGT5QP0IMYHCLz26y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.mainframepictures.com",
+    "placeholder": true
+  }
+]

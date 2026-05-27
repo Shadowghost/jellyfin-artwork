@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kinosur",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197784",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1pxNARQ8a0zhAA7m266vuvv1Iys.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EC",
+    "homepage": "https://kinosur.com/",
+    "headquarters": "Cuenca, Ecuador",
+    "placeholder": true
+  }
+]

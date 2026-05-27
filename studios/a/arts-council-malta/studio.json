@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Arts Council Malta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150582",
+        "logo_uri": "https://image.tmdb.org/t/p/original/75bIVTySTCmIhQv8TesQQcjQbBl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MT",
+    "homepage": "https://artscouncilmalta.gov.mt/",
+    "headquarters": "Birkirkara",
+    "placeholder": true
+  }
+]

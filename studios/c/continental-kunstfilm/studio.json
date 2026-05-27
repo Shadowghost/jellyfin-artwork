@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Continental-Kunstfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91432"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

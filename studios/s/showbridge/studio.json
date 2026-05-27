@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Showbridge",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166454"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

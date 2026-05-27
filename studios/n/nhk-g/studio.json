@@ -1,0 +1,32 @@
+[
+  {
+    "name": "NHK G",
+    "description": "Flagship general-interest television service of Japan's public broadcaster NHK.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "279986"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "NHK General TV"
+    ],
+    "template": true
+  }
+]

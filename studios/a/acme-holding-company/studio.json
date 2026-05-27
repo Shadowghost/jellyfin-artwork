@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Acme Holding Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170910"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

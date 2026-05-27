@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Honor Role",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238137",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dGBRQo5JA38AnYgBldcBPo6xqqI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

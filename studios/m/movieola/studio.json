@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Movieola",
+    "description": "Canadian English-language Category B specialty channel devoted entirely to short films, owned by Channel Zero.",
+    "country": "CA",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257275"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

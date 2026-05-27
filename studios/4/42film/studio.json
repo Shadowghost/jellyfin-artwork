@@ -1,0 +1,17 @@
+[
+  {
+    "name": "42film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100770",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mV6hVkLjuF1nddTkWSOF3YOPXQH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://42film.de/pages/en/projects.php",
+    "headquarters": "Halle/Saale",
+    "placeholder": true
+  }
+]

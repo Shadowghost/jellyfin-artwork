@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Filmes do Tejo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16450"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "placeholder": true
+  }
+]

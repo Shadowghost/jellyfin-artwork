@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Pixeland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129045",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tcwISQ9oLtU1QoyrTE6yp8EMvKL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

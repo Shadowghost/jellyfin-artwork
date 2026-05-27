@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AmazoniAlerta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "296183"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

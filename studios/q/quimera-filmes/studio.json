@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Quimera Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34263",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vDVrTJTPm6aUNSABfFke4vtoXgI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://quimerafilmes.com.br",
+    "headquarters": "Belo Horizonte, MG",
+    "placeholder": true
+  }
+]

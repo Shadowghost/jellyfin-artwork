@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Libertas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181264",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kH0HamZT6vFmFfjB2CuSixpnJ2E.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.libertas.jp",
+    "headquarters": "Shinjuku, Tokyo",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fundamental Films",
+    "country": "CN",
+    "homepage": "http://www.fundamentalfilms.com/home/index",
+    "headquarters": "Shanghai",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55244",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6tjtQvghRRXFmCsuN8SsKJW6cIm.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

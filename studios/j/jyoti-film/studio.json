@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jyoti Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138042",
+        "logo_uri": "https://image.tmdb.org/t/p/original/en8BAqfGKKGaZrL7FV5sdSWYi4d.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.jyotifilm.de/",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

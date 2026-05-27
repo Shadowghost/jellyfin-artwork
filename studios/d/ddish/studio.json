@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DDish",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "247450",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5i8kysUSpHpUIO7FooK3gjf3YFB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MN",
+    "homepage": "https://www.ddishtv.mn/",
+    "headquarters": "Ulaanbaatar",
+    "placeholder": true
+  }
+]

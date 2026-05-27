@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Dash Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126045",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7RoBxFQq3VMs0na4CunP7HZRscO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://dashpictures.com",
+    "placeholder": true
+  }
+]

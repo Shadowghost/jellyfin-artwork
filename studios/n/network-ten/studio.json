@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Network 10",
+    "description": "Australian commercial television network, owned by Paramount Global, one of Australia's free-to-air national networks.",
+    "country": "AU",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2947",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cUq4tWKFvubij22k2v3gGu0cniX.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

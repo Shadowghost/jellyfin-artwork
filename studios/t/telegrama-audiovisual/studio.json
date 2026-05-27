@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Telegrama Audiovisual",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "237286",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qaZWAR2LzOKw4LWdeijf5O2AxgF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://www.tlgm.mx/",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

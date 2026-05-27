@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mavie Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110950",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3hjqAldeqsAZB3NDNTvxCK2j6iU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.mavie-films.com",
+    "headquarters": "Potsdam",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmes d'Alma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290020"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

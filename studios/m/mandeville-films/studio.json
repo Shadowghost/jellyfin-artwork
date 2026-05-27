@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Mandeville Films",
+    "description": "American film and television production company founded by David Hoberman, known for Beauty and the Beast (2017), The Fighter, and other features.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://mandfilms.com",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10227",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3YfRy3DBl4abcqkzGx4RVNz12yl.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmcompany Russkoe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38940",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a9MCWWiiK967PeGlnHTPYyXujQz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://www.russkoe-kino.ru/",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

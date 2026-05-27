@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Radiotelevizija Crne Gore",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41354",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3ND5Fugeqmy63tYk1WUMrroJnkz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ME",
+    "homepage": "https://rtcg.me/",
+    "headquarters": "Podgorica",
+    "placeholder": true
+  }
+]

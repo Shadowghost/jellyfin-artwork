@@ -1,0 +1,31 @@
+[
+  {
+    "name": "MGM Television",
+    "description": "Television production and distribution arm of Metro-Goldwyn-Mayer (now Amazon MGM Studios), producer of The Handmaid's Tale, Vikings, and Fargo.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2230",
+        "logo_uri": "https://image.tmdb.org/t/p/original/igOjospzsKQIbpuFCGhoN5F9icS.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

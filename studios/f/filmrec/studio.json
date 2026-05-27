@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FILMREC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204712"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

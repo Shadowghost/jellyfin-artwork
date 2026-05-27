@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Filmhedge",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245123"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

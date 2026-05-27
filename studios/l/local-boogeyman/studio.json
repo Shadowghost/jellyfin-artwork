@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Local Boogeyman",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127431"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

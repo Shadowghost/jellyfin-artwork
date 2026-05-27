@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Rapid Film",
+    "country": "DE",
+    "headquarters": "München",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12782"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

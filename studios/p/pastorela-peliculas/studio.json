@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pastorela Películas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124820",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mZRgqz9UVAArXZB1GokLaPaNnqU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://pastorelapeliculas.com/",
+    "headquarters": "Ciudad de México",
+    "placeholder": true
+  }
+]

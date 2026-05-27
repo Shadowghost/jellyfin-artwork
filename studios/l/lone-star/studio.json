@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Lone Star",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4114"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

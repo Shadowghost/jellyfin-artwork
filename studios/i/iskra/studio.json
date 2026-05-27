@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ISKRA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17043",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wOBCQfhPuojzf2A0eOzktyjT6JS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.iskra.fr/",
+    "headquarters": "Ivry-sur-Seine, France",
+    "placeholder": true
+  }
+]

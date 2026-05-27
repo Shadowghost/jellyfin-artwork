@@ -1,0 +1,17 @@
+[
+  {
+    "name": "LYNX Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208850",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d7OngK9yRqsea8uVV5sedxoE6dt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://lynxfilm.eu/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

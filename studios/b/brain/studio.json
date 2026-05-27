@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Brain",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "286350",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qGzAcxtl6DLVZx6iSOhYsFwkI5U.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.do-brain.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Kingdom Moving Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198130",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oYWEc4ZT5hG1MUwbPnBZT78BIBi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ankama",
+    "description": "French entertainment company headquartered in Roubaix; designs MMORPGs (Dofus, Wakfu) and runs animation, publishing and web divisions, best known for the Wakfu animated series.",
+    "country": "FR",
+    "type": "production-company",
+    "homepage": "http://www.ankama.com/en",
+    "headquarters": "Roubaix, France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21660",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mog3VrjYLXvWDocEpo6jxrT3vpT.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

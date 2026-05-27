@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wapa TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202489",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nwsYY5iDu8FkkXLvvgfK474x4oX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PR",
+    "homepage": "https://wapa.tv",
+    "headquarters": "Guaynabo",
+    "placeholder": true
+  }
+]

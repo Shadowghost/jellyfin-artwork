@@ -1,0 +1,28 @@
+[
+  {
+    "name": "BBC Manchester",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52763",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uFal0NhO0adQfmgwOW3mhd6OzzW.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "GB",
+    "template": true
+  }
+]

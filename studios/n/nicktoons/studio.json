@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Nicktoons",
+    "description": "American cable television channel owned by Paramount Global's Nickelodeon Group, dedicated to animated children's programming.",
+    "country": "US",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67245"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

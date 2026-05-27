@@ -1,0 +1,17 @@
+[
+  {
+    "name": "All in Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76208",
+        "logo_uri": "https://image.tmdb.org/t/p/original/znwMKxmzWIbtnwN1Xzc1DWJWN77.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://allinfilms.com/",
+    "headquarters": "Santa Monica, California",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ErFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "190324"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

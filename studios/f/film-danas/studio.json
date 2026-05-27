@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Film Danas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28365"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "placeholder": true
+  }
+]

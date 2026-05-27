@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Sehr gute Filme",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95440"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.sehrgutefilme.de",
+    "placeholder": true
+  }
+]

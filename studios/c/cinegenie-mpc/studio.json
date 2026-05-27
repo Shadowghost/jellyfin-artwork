@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CineGenie MPC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110844"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

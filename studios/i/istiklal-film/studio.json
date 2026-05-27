@@ -1,0 +1,14 @@
+[
+  {
+    "name": "İstiklal Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211958"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

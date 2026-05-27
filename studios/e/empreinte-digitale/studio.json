@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Empreinte Digitale",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3286",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kMwaZKoh6b5JouZ9mZrLN8YvaWf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.empreintedigitale.net",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

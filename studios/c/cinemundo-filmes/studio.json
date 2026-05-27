@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Cinemundo Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76276"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.cinemundo.net.br/",
+    "placeholder": true
+  }
+]

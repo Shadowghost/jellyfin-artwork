@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Base 12",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3242"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pioneer Public Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188430",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gbpF7OeX3ViqUzjysh0TTeuIhoN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.pioneer.org/",
+    "headquarters": "Granite Falls, MN",
+    "placeholder": true
+  }
+]

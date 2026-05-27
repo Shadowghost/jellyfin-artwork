@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Night Owl Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "265530",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kFLfUp2V4WTYXkYuNBOyIi4FbyW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://nightowl.pictures/",
+    "placeholder": true
+  }
+]

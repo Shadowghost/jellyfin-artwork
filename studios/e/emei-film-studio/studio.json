@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Emei Film Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30324",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dgwcWHsusZtDCDJ7rUikk452lBd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://www.emdy.cn/",
+    "headquarters": "Chengdu, Sichuan",
+    "placeholder": true
+  }
+]

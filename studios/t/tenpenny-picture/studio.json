@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tenpenny Picture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221234"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

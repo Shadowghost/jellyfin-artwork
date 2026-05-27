@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Libres films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163653"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

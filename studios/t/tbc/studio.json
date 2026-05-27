@@ -1,0 +1,17 @@
+[
+  {
+    "name": "tbc",
+    "country": "KR",
+    "homepage": "http://jtbc.joins.com/",
+    "headquarters": "Mapo, Seoul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90935",
+        "logo_uri": "https://image.tmdb.org/t/p/original/44I4aVlasm8Blb8WPGXTkMYuZJF.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

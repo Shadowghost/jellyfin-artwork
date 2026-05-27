@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wonder Street",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125231",
+        "logo_uri": "https://image.tmdb.org/t/p/original/snGfhwT46aqKWhP8izedkL48aZY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://wonderstreetentertainment.com/",
+    "headquarters": "Culver City, California",
+    "placeholder": true
+  }
+]

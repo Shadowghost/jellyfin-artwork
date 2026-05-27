@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ScaryContent",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238272"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

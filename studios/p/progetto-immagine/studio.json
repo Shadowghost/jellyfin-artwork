@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Progetto Immagine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123656"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

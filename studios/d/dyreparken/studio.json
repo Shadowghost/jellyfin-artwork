@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Dyreparken",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115825",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gxp70xjzEXbuHweVWKEKwufbFUu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.dyreparken.no/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Inappropriate Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114146"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "blu",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85920",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fzop2DEAXkPu9bg7OGwdI7bOzZN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://www.blu.dk/",
+    "placeholder": true
+  }
+]

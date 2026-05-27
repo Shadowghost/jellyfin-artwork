@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Harbor Picture Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23716",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4qHxIzt8w8CI26dY0RDY8WIOgR6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://harborpicturecompany.com/",
+    "headquarters": "New York, New York",
+    "placeholder": true
+  }
+]

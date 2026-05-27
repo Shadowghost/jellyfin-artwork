@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie Edition",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222308"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

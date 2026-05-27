@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Harlequin Romance Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85940"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

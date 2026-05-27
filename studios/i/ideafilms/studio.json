@@ -1,0 +1,17 @@
+[
+  {
+    "name": "IdeaFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "186567",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vblQr6ofr2SdmpzefzaMtpfndRR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UA",
+    "homepage": "https://ideafilms.net/en",
+    "headquarters": "Kyiv, Ukraine",
+    "placeholder": true
+  }
+]

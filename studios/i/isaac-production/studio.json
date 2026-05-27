@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Isaac Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149041",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pOZq0mqgVdGlG4Kq5HzSGuK1jXm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://www.isaacproduction.com/",
+    "headquarters": "Copenhagen",
+    "placeholder": true
+  }
+]

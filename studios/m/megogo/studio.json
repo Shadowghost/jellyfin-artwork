@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MEGOGO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124488",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bmWtInD9QmnjJMR4igtETWOEbU0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UA",
+    "homepage": "https://megogo.net",
+    "placeholder": true
+  }
+]

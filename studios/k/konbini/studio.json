@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Konbini",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245026",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8DbmrNQjV8DYeNjNZYd8r2nnB8j.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

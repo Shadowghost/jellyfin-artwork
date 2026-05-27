@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Motion Blur",
+    "country": "NO",
+    "homepage": "https://www.motionblur.no/",
+    "headquarters": "Oslo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108394",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b8tlLQtTvvjRiaB5TcUWqYmX4eN.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

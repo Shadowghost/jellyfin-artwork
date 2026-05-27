@@ -1,0 +1,13 @@
+[
+  {
+    "name": "moviebits",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "297213"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

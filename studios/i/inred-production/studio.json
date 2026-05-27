@@ -1,0 +1,16 @@
+[
+  {
+    "name": "INRED production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114938"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.inredproduction.ch/",
+    "headquarters": "Vers-Chez-Perrin",
+    "placeholder": true
+  }
+]

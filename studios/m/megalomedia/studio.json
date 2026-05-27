@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Megalomedia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86961",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1QORylnAZv9m6DV4CqsPCYVvBg5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.megalomedia.com",
+    "headquarters": "Austin, Texas",
+    "placeholder": true
+  }
+]

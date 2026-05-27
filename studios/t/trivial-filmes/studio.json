@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Trivial Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216014"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

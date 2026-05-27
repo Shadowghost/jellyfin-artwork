@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Meraki Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "268896"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Napafilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114369",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dD9pcKvvfUDZibhj7FOOog2TYPd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://napafilms.fi",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

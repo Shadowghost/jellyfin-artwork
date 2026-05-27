@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Redrum",
+    "country": "MX",
+    "homepage": "https://redrum.com.mx",
+    "headquarters": "Mexico City",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41921",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bSxCLP0hx6F9XzqaReXdEohJZ9y.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

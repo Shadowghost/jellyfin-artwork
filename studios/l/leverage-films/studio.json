@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Leverage Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104212",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fl7mX1nl65STdcP600BZ0qVvn7q.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Baton Rouge, Louisiana",
+    "placeholder": true
+  }
+]

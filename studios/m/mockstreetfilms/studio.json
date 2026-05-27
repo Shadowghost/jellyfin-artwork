@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MockStreetFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199115"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Complex",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55795",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5GDnpABmYFAAptHwYx8jMY4rkeq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.complex.com",
+    "headquarters": "New York City",
+    "placeholder": true
+  }
+]

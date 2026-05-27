@@ -1,0 +1,17 @@
+[
+  {
+    "name": "COPA90",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128350",
+        "logo_uri": "https://image.tmdb.org/t/p/original/awRGzGjFXJGxqPjuHZnm3MPSLEQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://copa90.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CGV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "291404"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

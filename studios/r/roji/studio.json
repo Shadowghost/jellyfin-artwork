@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ROJI",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272107",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eBlgUfHp85TT0MrOSP9NLXOqqwu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.roji.co.jp/",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

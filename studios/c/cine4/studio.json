@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cine4",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204571",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ndBUG4OvQYCFCs6xePlW7rN3Fjq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "https://www.cine4.ie/",
+    "placeholder": true
+  }
+]

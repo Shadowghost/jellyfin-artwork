@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Estofilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200401"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

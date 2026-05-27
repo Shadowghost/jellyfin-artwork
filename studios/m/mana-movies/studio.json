@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Mana Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150257"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

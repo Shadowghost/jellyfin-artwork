@@ -1,0 +1,14 @@
+[
+  {
+    "name": "The Mighty Mint",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115241"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

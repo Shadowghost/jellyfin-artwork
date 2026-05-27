@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Victoria's Secret",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209824",
+        "logo_uri": "https://image.tmdb.org/t/p/original/WlDmeDo2s9Aa7JOYJ84Vecngx0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.victoriassecret.com",
+    "headquarters": "Reynoldsburg, Ohio",
+    "placeholder": true
+  }
+]

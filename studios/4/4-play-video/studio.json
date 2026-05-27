@@ -1,0 +1,14 @@
+[
+  {
+    "name": "4-Play Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114426"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

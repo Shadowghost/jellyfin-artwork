@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Telepacífico",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120093",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lIGqV3utxOtpINgBtJ2ez1Uvjuj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CO",
+    "homepage": "https://telepacifico.com/",
+    "headquarters": "Cali",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Rotting Press",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "186235",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gPFjQtamkjHgzXoMIxjdIOvDNmS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://rottingpress.com/",
+    "placeholder": true
+  }
+]

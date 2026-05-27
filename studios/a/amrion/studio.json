@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Amrion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4349",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wCreB9fTN7Miuc2dFhaE0SVKpJS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EE",
+    "homepage": "http://www.amrion.ee/",
+    "headquarters": "Tallinn",
+    "placeholder": true
+  }
+]

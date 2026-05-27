@@ -1,0 +1,14 @@
+[
+  {
+    "name": "CB Films",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "243"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

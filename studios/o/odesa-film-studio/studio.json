@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Odesa Film Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157648",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rTA1hTkwKFQp0ScdVGmKkhb8QiZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UA",
+    "homepage": "https://www.odesafilmstudio.com.ua/",
+    "headquarters": "Odesa",
+    "placeholder": true
+  }
+]

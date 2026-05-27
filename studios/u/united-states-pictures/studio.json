@@ -1,0 +1,14 @@
+[
+  {
+    "name": "United States Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11276"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

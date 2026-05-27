@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Discovery Channel Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7492",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ebKxl0MOHWzawnBcuCZ10NiQFVX.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

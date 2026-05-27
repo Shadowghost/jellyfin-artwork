@@ -1,0 +1,17 @@
+[
+  {
+    "name": "docfilmpool",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185380",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2aVjTgAyueCkhkqCe4AodUoPZxZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://docfilmpool.org/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

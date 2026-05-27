@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Amazoniar",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270252"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

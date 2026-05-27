@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cine Argentino",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102626",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hejnYBBwutw4U2dA6LGfMArjya0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://cine.ar/",
+    "placeholder": true
+  }
+]

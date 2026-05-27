@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Route One Entertainment",
+    "country": "US",
+    "homepage": "http://www.routeoneent.com/",
+    "headquarters": "Los Angeles, California, United States",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80834",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gWVVa74FMdRGXSnRroASmlNBEtU.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cineteca nacional de chile",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258411"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "placeholder": true
+  }
+]

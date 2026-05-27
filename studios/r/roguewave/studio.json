@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RogueWave",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233133",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dif0jDffCFckn7yo56uhzn83y3z.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://roguewave.tv/",
+    "headquarters": "Burbank, California",
+    "placeholder": true
+  }
+]

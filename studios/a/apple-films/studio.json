@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Apple Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50786"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

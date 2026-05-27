@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Largo Entertainment",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1644",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l5JFudbLN3vr1sSkjRoqF7To8Ky.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

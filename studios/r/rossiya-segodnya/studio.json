@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Rossiya Segodnya",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234036",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o70CxYLMo8YvTL77AwkLZWHoBgN.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Endemol Shine Polska",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101302",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tw4ArhlRSvmHsdd3qPzjTYOA3N5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://www.endemolshine.pl/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hager Moss Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1986",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wSvwGEYGUsUkDb2kyrlJZQxONdj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://hagermoss.de/",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

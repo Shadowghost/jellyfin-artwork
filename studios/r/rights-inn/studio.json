@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rights Inn",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210913",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3c5DvahXkFyBjXNYfKPFBjLdmRJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.rights-inn.co.jp/",
+    "headquarters": "Minato, Tokyo",
+    "placeholder": true
+  }
+]

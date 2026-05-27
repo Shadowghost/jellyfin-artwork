@@ -1,0 +1,17 @@
+[
+  {
+    "name": "OBS - Olympic Broadcasting Services",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129065",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7rvoocDMhN2eS2lTUqG9QepUyjF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.obs.tv/",
+    "headquarters": "Madrid, Spain",
+    "placeholder": true
+  }
+]

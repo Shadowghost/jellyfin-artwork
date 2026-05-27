@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ström Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216494",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qy2lKR7p9qgw1iQRyydbPHKh51w.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://www.strompictures.dk/",
+    "headquarters": "Copenhagen",
+    "placeholder": true
+  }
+]

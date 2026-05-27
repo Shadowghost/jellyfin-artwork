@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Gitanos con Palabra",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173806"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

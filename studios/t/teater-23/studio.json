@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Teater 23",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167624",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rmfiPmWZaN0ZhQ0GnmiCF9Q5PPe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.teater23.se/",
+    "headquarters": "Malmö",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Panda Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89846",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fvFAswYSFjhxR4HN9bArPmktUEt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.pandafilmes.com.br/",
+    "headquarters": "Porto Alegre RS",
+    "placeholder": true
+  }
+]

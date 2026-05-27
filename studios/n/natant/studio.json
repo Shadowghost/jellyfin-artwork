@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Natant",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50819"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

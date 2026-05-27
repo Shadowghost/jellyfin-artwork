@@ -1,0 +1,15 @@
+[
+  {
+    "name": "DA PROD",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147230",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lhHjr04VhFWRBSDddtqXpDnDE0M.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

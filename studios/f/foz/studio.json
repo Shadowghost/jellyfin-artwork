@@ -1,0 +1,15 @@
+[
+  {
+    "name": "FOZ",
+    "country": "FR",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

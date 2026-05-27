@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Punkchart films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91732",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6nWM9clrArcal55N0l1THsBcxsI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SK",
+    "homepage": "https://www.punkchart.sk/",
+    "headquarters": "Bratislava",
+    "placeholder": true
+  }
+]

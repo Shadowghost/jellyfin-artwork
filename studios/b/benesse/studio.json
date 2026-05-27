@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Benesse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106346",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vBt5rGPUebFXHz46O609TBXmA5U.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

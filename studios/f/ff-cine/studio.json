@@ -1,0 +1,14 @@
+[
+  {
+    "name": "FF Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290436",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sZ0DGKMg2h3rezIEl9HSHzbF6xL.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

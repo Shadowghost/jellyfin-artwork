@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cameron Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85211",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cOxn2RCPe7g9LUxBXUJEW7Bl2TI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.cameronpics.com",
+    "placeholder": true
+  }
+]

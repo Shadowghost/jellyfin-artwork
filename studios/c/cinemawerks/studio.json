@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CinemaWerks",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112402",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cHNPHyE1nOB59TeRrus3MUpnKFb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.cinemawerks.com/",
+    "headquarters": "Beverly Hills, California",
+    "placeholder": true
+  }
+]

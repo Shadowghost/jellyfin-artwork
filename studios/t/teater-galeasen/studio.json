@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Teater Galeasen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98630",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w1EjS3hyMDQ0rJdD73A0bCuJJtX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://galeasen.se/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

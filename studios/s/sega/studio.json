@@ -1,0 +1,41 @@
+[
+  {
+    "name": "SEGA",
+    "description": "Japanese multinational video game and entertainment company headquartered in Tokyo, subsidiary of Sega Sammy Holdings.",
+    "country": "JP",
+    "type": "production-company",
+    "homepage": "https://www.sega.co.jp/en/index.html",
+    "headquarters": "Shinagawa, Tokyo",
+    "colors": [
+      {
+        "name": "Sega Blue",
+        "hex": "#0089CF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113750",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A3QVZ9Ah0yI2d2GiXUFpdlbTgyr.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Sega"
+    ],
+    "template": true
+  }
+]

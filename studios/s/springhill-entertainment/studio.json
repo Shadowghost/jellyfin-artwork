@@ -1,0 +1,15 @@
+[
+  {
+    "name": "SpringHill Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81170",
+        "logo_uri": "https://image.tmdb.org/t/p/original/degJG2ecLMkHndE5mFuWS8lTLBa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

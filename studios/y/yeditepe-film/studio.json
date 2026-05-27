@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Yeditepe Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75679",
+        "logo_uri": "https://image.tmdb.org/t/p/original/foWh7LOpBUgZ772XH5mHMGAwPQ3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://yeditepekultur.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

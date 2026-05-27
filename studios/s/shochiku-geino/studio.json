@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Shochiku Geino",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248163",
+        "logo_uri": "https://image.tmdb.org/t/p/original/13QLR94pBRmjXmJvE6YFjWuAauE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.shochikugeino.co.jp/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Boxoffice Multimedia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164359",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yTjbSI9yyI6UCvny7MGkzCa6HpQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BD",
+    "homepage": "https://bdboxoffice.com/",
+    "headquarters": "Dhaka",
+    "placeholder": true
+  }
+]

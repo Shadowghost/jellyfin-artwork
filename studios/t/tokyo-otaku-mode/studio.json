@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tokyo Otaku Mode",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210281",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sJgRH1SAlfYKR4LczR9tvry0QaL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://otakumode.com/",
+    "headquarters": "Chiyoda, Tokyo",
+    "placeholder": true
+  }
+]

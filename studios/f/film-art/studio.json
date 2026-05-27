@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Film Art",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285120"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

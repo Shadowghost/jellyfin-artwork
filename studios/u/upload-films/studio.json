@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Upload Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6724"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.uploadfilms.com/",
+    "headquarters": "Sherman Oaks, California",
+    "placeholder": true
+  }
+]

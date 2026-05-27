@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BEES production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184105"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

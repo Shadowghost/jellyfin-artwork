@@ -1,0 +1,13 @@
+[
+  {
+    "name": "greetography",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "276108"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

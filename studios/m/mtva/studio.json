@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MTVA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58974",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rRZEkPtbwVqBUjSQxaq1FtXSHoe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "http://www.mtva.hu/",
+    "headquarters": "Budapest, Hungary",
+    "placeholder": true
+  }
+]

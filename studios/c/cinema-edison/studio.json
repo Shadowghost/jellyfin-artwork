@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinema Edison",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231361"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

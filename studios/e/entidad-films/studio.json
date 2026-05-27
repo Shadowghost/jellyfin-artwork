@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Entidad Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "207835"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

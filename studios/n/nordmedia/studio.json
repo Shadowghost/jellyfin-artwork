@@ -1,0 +1,17 @@
+[
+  {
+    "name": "nordmedia",
+    "country": "DE",
+    "homepage": "https://www.nordmedia.de",
+    "headquarters": "Hannover",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2661",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lL2swFUxvaFlT1BSheo9LTClJo1.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

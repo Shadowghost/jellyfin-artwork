@@ -1,0 +1,14 @@
+[
+  {
+    "name": "SceneScreen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "291188"
+      }
+    ],
+    "artwork": {},
+    "country": "TH",
+    "placeholder": true
+  }
+]

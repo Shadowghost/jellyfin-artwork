@@ -1,0 +1,14 @@
+[
+  {
+    "name": "BuzzFeed Motion Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85887",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r3RjMjxd0o5bmBBCRAzPJ7oqRTn.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

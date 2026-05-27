@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Historic Music Library",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262019"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

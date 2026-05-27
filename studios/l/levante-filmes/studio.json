@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Levante Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120371"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://levantefilmes.com.br",
+    "headquarters": "Rio de Janeiro",
+    "placeholder": true
+  }
+]

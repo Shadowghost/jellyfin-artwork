@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmbüro Süd",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91058",
+        "logo_uri": "https://image.tmdb.org/t/p/original/89sqJVs4JlVzU11XrTq4q9SouG9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://filmbuero-sued.de/",
+    "headquarters": "Berlin, Germany",
+    "placeholder": true
+  }
+]

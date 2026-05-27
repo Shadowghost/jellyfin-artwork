@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Unkas Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179437",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b5ccDVhGUT4V74l6D5QrtV1Yb3L.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://unkas-film.ru/",
+    "placeholder": true
+  }
+]

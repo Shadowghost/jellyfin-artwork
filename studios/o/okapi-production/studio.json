@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Okapi Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152633",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oatpyPulNQrxppkTNqJtzN3qJBd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://okapiproduction.com/",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

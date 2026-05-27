@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ville de Grenoble",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181748",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cNr6sTymoBaMnZjfclELyR6kvx1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.grenoble.fr/",
+    "headquarters": "Hôtel de Ville - 11, boulevard Jean Pain - CS 91066 - 38021 Grenoble Cedex 1",
+    "placeholder": true
+  }
+]

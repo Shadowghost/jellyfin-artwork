@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films Artistiques Français",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24381"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

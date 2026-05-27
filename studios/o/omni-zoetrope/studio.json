@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Omni Zoetrope",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "340"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

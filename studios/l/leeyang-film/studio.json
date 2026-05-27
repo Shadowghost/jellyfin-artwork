@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Leeyang Film",
+    "country": "KR",
+    "headquarters": "Gangnam, Seoul, South Korea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110679"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

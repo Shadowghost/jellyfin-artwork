@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Région Languedoc-Roussillon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12054",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b4Pz0666PPHaCWNs0C1PAoDDM8p.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "201 avenue de la Pompignane 34064 Montpellier Cedex 2",
+    "placeholder": true
+  }
+]

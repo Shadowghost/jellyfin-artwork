@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Elefant Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80400",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AtBFbFfYlWo4afoQ4P0ICZXk1H0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "http://elefantfilms.ch/",
+    "headquarters": "Geneva",
+    "placeholder": true
+  }
+]

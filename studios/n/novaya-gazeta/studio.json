@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Novaya Gazeta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140048"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://novayagazeta.ru/",
+    "placeholder": true
+  }
+]

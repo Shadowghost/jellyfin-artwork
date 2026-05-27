@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Stefilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96786",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8LoW4RoenaXpaVGyGCZPZvRa4P8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://stefilm.it/",
+    "headquarters": "Torino",
+    "placeholder": true
+  }
+]

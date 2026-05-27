@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vigo Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187622",
+        "logo_uri": "https://image.tmdb.org/t/p/original/quoI33wwXc8qQL8cPTEKvRUkEUV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.vigofilm.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

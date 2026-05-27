@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Walt Disney Studios Motion Pictures",
+    "description": "American film distribution division of The Walt Disney Studios; handles theatrical distribution of films from Walt Disney Pictures, Marvel Studios, Lucasfilm, Pixar and 20th Century Studios.",
+    "country": "US",
+    "type": "distributor",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

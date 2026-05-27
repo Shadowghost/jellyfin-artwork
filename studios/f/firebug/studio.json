@@ -1,0 +1,16 @@
+[
+  {
+    "name": "FIREBUG",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165501",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dfhJGRhxc1EVDahtnKP1tqin8jn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://firebug.jp/",
+    "placeholder": true
+  }
+]

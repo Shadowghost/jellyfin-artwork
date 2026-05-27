@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cria Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93267"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

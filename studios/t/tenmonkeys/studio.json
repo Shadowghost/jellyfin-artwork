@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tenmonkeys",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101488",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pZgZ5B29O5WfNrk82yGcWnnA1S3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.tenmonkeys.co.uk",
+    "headquarters": "Tring, England",
+    "placeholder": true
+  }
+]

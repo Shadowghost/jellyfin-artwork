@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Serendipity Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201829",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e1gSyY9tK8TnimZTHXBZ8oremMs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://serendipitymedia.ca/",
+    "placeholder": true
+  }
+]

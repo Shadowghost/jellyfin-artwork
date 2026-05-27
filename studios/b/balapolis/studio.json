@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Balapolis",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62945",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mzZ0xSXjQVOmjOKGRcwlihCRRhF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://www.balapolis.com/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

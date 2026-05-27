@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Live Animals",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60078"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

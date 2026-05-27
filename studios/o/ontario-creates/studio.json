@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ontario Creates",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114338",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iApSXPfwHZdtt3sR2y5VDoS2BRK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.ontariocreates.ca",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

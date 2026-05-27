@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lingo Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111970",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9cEsZLv2OUpekaXRtd0K5Pmap8B.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://www.lingopictures.com",
+    "placeholder": true
+  }
+]

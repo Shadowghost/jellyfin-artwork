@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Road Movies",
+    "country": "CZ",
+    "headquarters": "Lány, Czech Republic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55918"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

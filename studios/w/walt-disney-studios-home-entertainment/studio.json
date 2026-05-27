@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Walt Disney Studios Home Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3202",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rwiCINCud2HXc7Rf9aSnQDDMyQX.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "International Movie Producers' Service (IMPS)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60306"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

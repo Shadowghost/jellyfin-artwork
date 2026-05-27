@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CineSuper",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184523",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wy4XIRIgLuKOuRKEPM2WPaD2MuA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "https://www.cinesuper.hu/",
+    "headquarters": "Budapest",
+    "placeholder": true
+  }
+]

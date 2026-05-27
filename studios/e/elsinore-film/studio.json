@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Elsinore Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160744",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wsjRnaomj8dURqYvnEWImyQXkoW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://elsinorefilm.it/",
+    "placeholder": true
+  }
+]

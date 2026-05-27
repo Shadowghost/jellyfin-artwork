@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Encourage Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109576",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ieuFVRLPcgnAEsInSMUpFGdOxlh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.encouragefilms.com",
+    "headquarters": "Nerima, Tokyo",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmes de Janeiro",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141833"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

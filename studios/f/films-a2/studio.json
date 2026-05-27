@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Films A2",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "875"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

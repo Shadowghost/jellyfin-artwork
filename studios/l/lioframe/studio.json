@@ -1,0 +1,17 @@
+[
+  {
+    "name": "LioFrame",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270800",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7RgfPFCy7dSNuocigQAa7uXZfZg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "http://lioframe.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

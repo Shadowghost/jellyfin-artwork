@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Set Satellite",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18946"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

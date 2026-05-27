@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Museo de Arte Contemporáneo Esteban Vicente",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21476",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l6k3iVSQ0R3Dp084VuFKybk6knZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.museoestebanvicente.es/en/home/",
+    "headquarters": "Segovia, Segovia",
+    "placeholder": true
+  }
+]

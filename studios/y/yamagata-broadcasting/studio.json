@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Yamagata Broadcasting",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256019",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6MArz4SmLw3baARfWXjf7pYd3yN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.ybc.co.jp/",
+    "placeholder": true
+  }
+]

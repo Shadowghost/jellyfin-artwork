@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bananeira Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2535",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2DDg3cvcxnsAJTLvIXk35NeWKJR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.bananeirafilmes.com.br",
+    "headquarters": "Rio de Janeiro",
+    "placeholder": true
+  }
+]

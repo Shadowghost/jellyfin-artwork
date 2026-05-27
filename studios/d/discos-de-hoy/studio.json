@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Discos de Hoy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197421"
+      }
+    ],
+    "artwork": {},
+    "country": "PR",
+    "placeholder": true
+  }
+]

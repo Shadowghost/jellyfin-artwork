@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Video Screen Play",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133219"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

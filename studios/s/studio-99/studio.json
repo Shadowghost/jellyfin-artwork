@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio 99",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149121",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dCb4ngXCAoGgtBrRWb17m6dK4lC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://studio99.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

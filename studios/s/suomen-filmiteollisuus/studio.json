@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Suomen Filmiteollisuus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12982",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uxMOBCbDYQesyTz1TmR6OCqz8XH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "placeholder": true
+  }
+]

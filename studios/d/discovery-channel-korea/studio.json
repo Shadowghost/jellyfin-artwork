@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Discovery Channel Korea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233762",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3kwhXkvtsik3AEo1rQVhiS8IjLC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "placeholder": true
+  }
+]

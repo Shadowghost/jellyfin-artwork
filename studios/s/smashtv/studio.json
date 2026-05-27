@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SmashTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101461",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gbegaXXz2YcEHOZx7xZ3N90w0aV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://smashtv.jp/",
+    "placeholder": true
+  }
+]

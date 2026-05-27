@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Check In Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239349",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zH9KCfJOIgnNRjjnwaVRuLN02u7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://checkinfilms.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

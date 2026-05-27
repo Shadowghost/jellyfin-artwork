@@ -1,0 +1,13 @@
+[
+  {
+    "name": "6DOF",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "276824"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

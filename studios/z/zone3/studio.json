@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zone3",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15585",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ePyhT2loUXRIv7SZ6LIlvKllsdP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.zone3.ca/en",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

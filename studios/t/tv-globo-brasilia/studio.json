@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TV Globo Brasília",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "195816",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kHYFG2OCnWdWJJTZZibV01EqoNW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://redeglobo.globo.com/globobrasilia",
+    "headquarters": "Brasília, Distrito Federal, Brazil",
+    "placeholder": true
+  }
+]

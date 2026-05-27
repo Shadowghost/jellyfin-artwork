@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cinegroup",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153298",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rkQnazmrIu2Prv1W2YOIsIqDPG9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://cinegroup.com.br/",
+    "placeholder": true
+  }
+]

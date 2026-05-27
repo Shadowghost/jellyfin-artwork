@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bazar Bizarre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255903",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uUxCEZjOVraOO54dYvDFOyUPc3Y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Montpellier",
+    "placeholder": true
+  }
+]

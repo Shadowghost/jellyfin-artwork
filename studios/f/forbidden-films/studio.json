@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Forbidden Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33891"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

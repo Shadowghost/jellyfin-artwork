@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Attack Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108295",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5ZPKsLmEPnE3iiCWAtHp3qSZgfX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SK",
+    "homepage": "http://www.attackfilm.sk/en/about",
+    "headquarters": "Bratislava, Slovakia",
+    "placeholder": true
+  }
+]

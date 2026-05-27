@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Castle Rock Entertainment",
+    "description": "American film and television production company, co-founded by Rob Reiner; subsidiary of Warner Bros.",
+    "country": "US",
+    "type": "production-company",
+    "parent_company": "Warner Bros. Entertainment",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97",
+        "logo_uri": "https://image.tmdb.org/t/p/original/smyTD67uNsdaySnnjVDmh0kyotp.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

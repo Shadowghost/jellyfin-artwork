@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Greta Garbo Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "253957",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d3TnhPpyQRVp07Ghfu1T6OM4ux8.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dreamsound",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75890",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dptD61UE3FLgm5LwqesMKemLD2N.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://www.dreamsound.pl/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

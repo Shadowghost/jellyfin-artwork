@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Silent Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84828"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

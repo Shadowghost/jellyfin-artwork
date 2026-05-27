@@ -1,0 +1,32 @@
+[
+  {
+    "name": "SpectreVision",
+    "description": "American horror and genre film production company founded by Elijah Wood, Daniel Noah, and Josh C. Waller.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://spectrevision.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34519",
+        "logo_uri": "https://image.tmdb.org/t/p/original/MGFizEilC4bv5aDeF8YfEyjDVG.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Active Hungary",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209390",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1aGMfCxGaPHxijFKsK3hZWO7MpG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "https://aktivmagyarorszag.hu/",
+    "placeholder": true
+  }
+]

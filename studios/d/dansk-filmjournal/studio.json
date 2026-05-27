@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Dansk Filmjournal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255906"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

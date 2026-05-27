@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NoIdentity",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106230"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

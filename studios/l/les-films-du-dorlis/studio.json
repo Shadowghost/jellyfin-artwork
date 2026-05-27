@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films du Dorlis",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90126"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

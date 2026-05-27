@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Select Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250103"
+      }
+    ],
+    "artwork": {},
+    "country": "TW",
+    "headquarters": "Taipei",
+    "placeholder": true
+  }
+]

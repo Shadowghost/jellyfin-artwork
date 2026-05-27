@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Python Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11771"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

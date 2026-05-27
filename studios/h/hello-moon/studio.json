@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hello Moon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "254334"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

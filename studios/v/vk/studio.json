@@ -1,0 +1,13 @@
+[
+  {
+    "name": "VK Видео",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "282929"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

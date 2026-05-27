@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Google",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119338",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5vg8TqxX5Jw4LqKx89ctiZ2FDtJ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://about.google"
+  }
+]

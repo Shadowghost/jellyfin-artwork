@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Toto SCM Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70213"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Himenóptero",
+    "country": "ES",
+    "headquarters": "Madrid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "784"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

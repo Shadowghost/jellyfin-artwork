@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Inland Film Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33389",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u3M4P96gbfON4lKiJVruOnhreFh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "http://www.inland.fi",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

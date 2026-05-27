@@ -1,0 +1,45 @@
+[
+  {
+    "name": "bilibili",
+    "description": "Chinese online video sharing and streaming platform focused on anime, comics, games (ACG), and user-generated video content.",
+    "country": "CN",
+    "type": "streaming-service",
+    "homepage": "https://www.bilibili.com/",
+    "headquarters": "Shanghai",
+    "colors": [
+      {
+        "name": "Bilibili Pink",
+        "hex": "#FB7299"
+      },
+      {
+        "name": "Bilibili Blue",
+        "hex": "#00A1D6"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123270",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4KxfGr13VXMr44og11hzpdwfQDQ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Bilibili"
+    ],
+    "template": true
+  }
+]

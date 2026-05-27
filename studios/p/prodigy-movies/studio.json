@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Prodigy Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "259698"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

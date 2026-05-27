@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Época Films",
+    "country": "ES",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8016"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

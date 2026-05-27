@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pink Sheep",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "247883",
+        "logo_uri": "https://image.tmdb.org/t/p/original/30ASqsmqisZNzuVV5bk6uIroxrN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MA",
+    "homepage": "https://pinksheepprod.com/",
+    "headquarters": "Marrakesh",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Babylon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11259"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

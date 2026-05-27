@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Micro Climat",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176598",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dTH1wKRzg9GcZKCXmiNo8llRXuS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://microclimatstudios.com/",
+    "headquarters": "Montreuil",
+    "placeholder": true
+  }
+]

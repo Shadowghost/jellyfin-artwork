@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kuwait TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "47322",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hTBXC8VboAcsewPLrp69zokzFgs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KW",
+    "homepage": "https://www.media.gov.kw",
+    "headquarters": "Kuwait City",
+    "placeholder": true
+  }
+]

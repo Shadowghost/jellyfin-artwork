@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CTFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210621"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

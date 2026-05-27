@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film Commission Torino Piemonte",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26261",
+        "logo_uri": "https://image.tmdb.org/t/p/original/thn5VXJ5JegdrtiJn7mFuV2NWB6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.fctp.it",
+    "headquarters": "Turin",
+    "placeholder": true
+  }
+]

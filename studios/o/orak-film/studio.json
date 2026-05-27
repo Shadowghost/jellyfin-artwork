@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Orak Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104377",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zIycDEMgf8uuZRHE6qj9fZIGj9J.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.orakfilm.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

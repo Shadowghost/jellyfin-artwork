@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Ask Road Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242033"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "headquarters": "Hwaseong, Gyeonggi, South Korea",
+    "placeholder": true
+  }
+]

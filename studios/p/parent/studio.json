@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Parent",
+    "country": "GB",
+    "homepage": "https://www.parent.global/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "288424"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

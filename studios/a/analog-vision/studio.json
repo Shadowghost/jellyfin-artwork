@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Analog Vision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108294",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eOSTlnLaFjDD4rQOAxDicOTMOcs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.analog.vision/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

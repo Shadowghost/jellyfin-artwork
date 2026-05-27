@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Filmograph",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8451"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "headquarters": "Geneva",
+    "placeholder": true
+  }
+]

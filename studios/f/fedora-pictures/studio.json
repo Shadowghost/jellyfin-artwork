@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fedora Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241323"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

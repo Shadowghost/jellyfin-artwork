@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TVQ",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "981",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pkrdO9ykplO4Zc8edikoSX5APUN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.rtve.es",
+    "headquarters": "Pozuelo de Alarcón, Madrid",
+    "placeholder": true
+  }
+]

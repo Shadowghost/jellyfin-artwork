@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Compass",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96663"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

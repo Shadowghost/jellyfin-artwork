@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Mitsubishi Motors Corporation",
+    "description": "Japanese multinational automobile manufacturer, part of the Mitsubishi keiretsu; sometimes appears as a TV/film production sponsor.",
+    "country": "JP",
+    "type": "other",
+    "colors": [
+      {
+        "name": "Mitsubishi Red",
+        "hex": "#E60012"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25634"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "2CFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "44429",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dpwZUNOvvpiH7UptylG0zV3npFC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "http://www.2cfilm.nl",
+    "headquarters": "Amsterdam, Netherlands",
+    "placeholder": true
+  }
+]

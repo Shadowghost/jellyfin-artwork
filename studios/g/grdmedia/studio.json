@@ -1,0 +1,13 @@
+[
+  {
+    "name": "grdmedia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258003"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

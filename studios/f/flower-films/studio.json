@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Flower Films",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19813",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ghwsAlXu3EUASvogao1PV9iq5Ni.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Facecard Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167678",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bPpR5CyPvvf330EB6sU7UajSEtR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BD",
+    "homepage": "http://www.facecardbd.com/",
+    "headquarters": "Dhaka",
+    "placeholder": true
+  }
+]

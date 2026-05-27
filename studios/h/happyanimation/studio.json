@@ -1,0 +1,13 @@
+[
+  {
+    "name": "HappyAnimation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "253540"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

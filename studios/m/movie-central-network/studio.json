@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Movie Central Network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11551"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

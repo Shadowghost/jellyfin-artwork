@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Fukuoka Broadcasting System",
+    "description": "Japanese television broadcaster based in Fukuoka, Kyushu, and an affiliate of the Nippon News Network.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "http://www.fbs.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11720",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3LCoBMbwUQcKqum0VDa66fJ969e.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

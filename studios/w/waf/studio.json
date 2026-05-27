@@ -1,0 +1,13 @@
+[
+  {
+    "name": "WAF",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212258"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

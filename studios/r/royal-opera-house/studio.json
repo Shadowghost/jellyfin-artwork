@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Royal Opera House",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11514",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uC4LtXWXfuDleivpGYSOsl8veXN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.roh.org.uk/",
+    "headquarters": "London, United Kingdom",
+    "placeholder": true
+  }
+]

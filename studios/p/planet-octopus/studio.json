@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Planet Octopus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "265240",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r6a8VCW9o3wvJnnUHvYbdPddlqB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.planetoctopus.com",
+    "placeholder": true
+  }
+]

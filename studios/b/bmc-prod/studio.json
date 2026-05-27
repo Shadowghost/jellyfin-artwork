@@ -1,0 +1,13 @@
+[
+  {
+    "name": "bmc prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290548"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

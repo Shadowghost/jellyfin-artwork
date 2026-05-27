@@ -1,0 +1,13 @@
+[
+  {
+    "name": "WRP Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258492"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

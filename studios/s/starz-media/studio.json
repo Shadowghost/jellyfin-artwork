@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Starz Media",
+    "description": "American media production and distribution unit of Starz Inc., producing and distributing film and television content for the Starz premium network and home entertainment markets.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2659",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5rXJyzlLU0UAm6I3rSWYrnIITTF.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "JumpMedia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179230",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a4vFXtMoIJI7SWPB0x8RHQwp1R2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "http://jumpmedia.cl",
+    "placeholder": true
+  }
+]

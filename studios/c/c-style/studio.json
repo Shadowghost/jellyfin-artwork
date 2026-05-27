@@ -1,0 +1,14 @@
+[
+  {
+    "name": "c-style",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1142"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "City of Lodz",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72682"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

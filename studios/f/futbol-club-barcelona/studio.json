@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Futbol Club Barcelona",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260534"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "headquarters": "Barcelona",
+    "placeholder": true
+  }
+]

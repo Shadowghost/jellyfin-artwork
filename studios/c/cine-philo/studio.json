@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine-Philo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274214"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

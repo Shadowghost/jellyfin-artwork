@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DuoOut",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250305"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Access Moving Image",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161492"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

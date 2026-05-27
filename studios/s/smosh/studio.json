@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Smosh",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123440",
+        "logo_uri": "https://image.tmdb.org/t/p/original/52Ru8k5V8mvxQ1q1spJDaZDabUJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://smosh.com/",
+    "headquarters": "Los Angeles",
+    "placeholder": true
+  }
+]

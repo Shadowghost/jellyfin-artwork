@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmes de Marte",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134588"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

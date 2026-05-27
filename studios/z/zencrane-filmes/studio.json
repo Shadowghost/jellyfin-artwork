@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Zencrane Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93179",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gdwQXTCbQhC0o5yLPrDSyrYAVmG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.zencrane.com/",
+    "placeholder": true
+  }
+]

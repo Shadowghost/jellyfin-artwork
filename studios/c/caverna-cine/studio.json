@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Caverna Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "65206"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

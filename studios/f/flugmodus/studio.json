@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Flugmodus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "236042"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

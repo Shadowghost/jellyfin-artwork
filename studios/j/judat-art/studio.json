@@ -1,0 +1,15 @@
+[
+  {
+    "name": "JUDAT ART",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "243778"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.judat.art",
+    "placeholder": true
+  }
+]

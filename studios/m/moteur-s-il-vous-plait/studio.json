@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Moteur s'il vous plaît",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6960",
+        "logo_uri": "https://image.tmdb.org/t/p/original/trBnlOgJMYZrU4aOMGGvQdj51vj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://tsvp-prod.com/films/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

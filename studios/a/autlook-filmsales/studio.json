@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Autlook Filmsales",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255233"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

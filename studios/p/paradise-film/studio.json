@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Paradise Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18869",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wG2AkmU2jL4x3OgRStKp0InQyhc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.paradise-films.com/de",
+    "placeholder": true
+  }
+]

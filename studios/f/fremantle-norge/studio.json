@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fremantle Norge",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145457",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yoRiPOqmHxfR1nvtlGUrSsR7oGA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://fremantle.no/",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

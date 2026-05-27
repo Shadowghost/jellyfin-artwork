@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Roda Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231667"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Centaur Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98200",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i9X6XptAUGzRA0xGxo1zoULS2Us.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

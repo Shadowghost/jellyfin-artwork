@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ferryhouse production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4822"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

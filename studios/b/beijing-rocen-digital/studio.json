@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Beijing Rocen Digital 北京若森数字",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81662",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kHrXsIdO1NZ1l9AEdQzhI8toqw5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://www.rocen.com.cn/",
+    "headquarters": "Beijing, China",
+    "placeholder": true
+  }
+]

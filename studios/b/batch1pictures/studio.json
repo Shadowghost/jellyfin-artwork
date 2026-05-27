@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Batch1Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "269349"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

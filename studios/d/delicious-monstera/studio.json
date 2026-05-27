@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Delicious Monstera",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "206543"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.deliciousmonstera.com/",
+    "headquarters": "New York, USA",
+    "placeholder": true
+  }
+]

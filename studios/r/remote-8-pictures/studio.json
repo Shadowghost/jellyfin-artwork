@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Remote 8 Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196020"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Divo Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105257"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

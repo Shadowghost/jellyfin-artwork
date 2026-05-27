@@ -1,0 +1,16 @@
+[
+  {
+    "name": "AT-Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14027"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://at-prod.com",
+    "headquarters": "Brussels",
+    "placeholder": true
+  }
+]

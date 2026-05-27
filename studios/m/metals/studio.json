@@ -1,0 +1,17 @@
+[
+  {
+    "name": "METALS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248713",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v7Znfl1lwvDuckDZIEySt2Cthdc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://metals.studio",
+    "headquarters": "Louisville, Kentucky, USA",
+    "placeholder": true
+  }
+]

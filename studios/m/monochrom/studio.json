@@ -1,0 +1,13 @@
+[
+  {
+    "name": "monochrom",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28038"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

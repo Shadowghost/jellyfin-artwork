@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Fine Line Features",
+    "description": "American art-house film distribution company; an arthouse label of New Line Cinema, defunct as of 2005.",
+    "country": "US",
+    "type": "distributor",
+    "parent_company": "New Line Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8",
+        "logo_uri": "https://image.tmdb.org/t/p/original/78ilmDNTpdCfsakrsLqmAUkFTrO.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

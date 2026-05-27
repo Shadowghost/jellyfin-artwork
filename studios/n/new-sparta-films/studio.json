@@ -1,0 +1,16 @@
+[
+  {
+    "name": "New Sparta Films",
+    "country": "GB",
+    "homepage": "https://www.newspartaproductions.com/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67285"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Les films du tonnerre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111212"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.lesfilmsdutonnerre.com",
+    "headquarters": "23 rue de Murbach, 67100 STRASBOURG, FRANCE",
+    "placeholder": true
+  }
+]

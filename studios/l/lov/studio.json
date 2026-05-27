@@ -1,0 +1,14 @@
+[
+  {
+    "name": "LOV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220811"
+      }
+    ],
+    "artwork": {},
+    "country": "BA",
+    "placeholder": true
+  }
+]

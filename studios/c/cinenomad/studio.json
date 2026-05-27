@@ -1,0 +1,15 @@
+[
+  {
+    "name": "CineNomad",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94041"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.cinenomad.de/about.htm",
+    "placeholder": true
+  }
+]

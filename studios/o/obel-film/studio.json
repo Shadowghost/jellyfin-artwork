@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Obel Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9369",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qwaJVPNNIUhVdeIaoyoctSDhv89.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "http://obel.at/",
+    "headquarters": "Hellerup, Denmark",
+    "placeholder": true
+  }
+]

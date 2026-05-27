@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Visual Images",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118115"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

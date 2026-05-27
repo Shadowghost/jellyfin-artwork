@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Epic Storm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "295287",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bBXySfoyUMA0IcBNeucuarSWAnf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://epicstorm.co.kr",
+    "headquarters": "경기도",
+    "placeholder": true
+  }
+]

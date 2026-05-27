@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ELO films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111911",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qvvTgkgLwIWHh6SqanuDTsLL45P.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.elofilms.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

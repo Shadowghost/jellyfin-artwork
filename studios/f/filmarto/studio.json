@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Filmarto",
+    "country": "CA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225277"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

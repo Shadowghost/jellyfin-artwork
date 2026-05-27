@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Remember Music",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250065"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

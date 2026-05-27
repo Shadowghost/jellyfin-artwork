@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Morena Films",
+    "country": "ES",
+    "homepage": "https://morenafilms.com",
+    "headquarters": "Madrid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10031",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cUOviFxM9l3dYuNeg89giHUaqkd.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

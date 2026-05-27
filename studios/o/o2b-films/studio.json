@@ -1,0 +1,17 @@
+[
+  {
+    "name": "O2B Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111070",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mtpksBGaM5BOpInHqLOxqVFTVWb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.o2bfilms.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

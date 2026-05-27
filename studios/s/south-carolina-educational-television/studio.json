@@ -1,0 +1,17 @@
+[
+  {
+    "name": "South Carolina Educational Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82536",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mabdgKOeVcvGIQbAx4wNMzgTbkc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.scetv.org",
+    "headquarters": "Columbia, SC",
+    "placeholder": true
+  }
+]

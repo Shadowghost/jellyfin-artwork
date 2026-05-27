@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Medset Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97434",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5h1zDeIzIMfkH1sE8WMffSFcpDC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.taodue.it/medset/",
+    "placeholder": true
+  }
+]

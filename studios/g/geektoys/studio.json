@@ -1,0 +1,16 @@
+[
+  {
+    "name": "GEEKTOYS",
+    "country": "JP",
+    "homepage": "http://geektoys.co.jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120511",
+        "logo_uri": "https://image.tmdb.org/t/p/original/621Gha7aYZ7MvnbP91kvBHeyFoR.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

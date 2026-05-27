@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Films Grand Huit",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95620",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uqyTiOAyUeYTEJIAgzB2xcP7SEm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://filmsgrandhuit.com/",
+    "headquarters": "Saint-Pierre Quiberon",
+    "placeholder": true
+  }
+]

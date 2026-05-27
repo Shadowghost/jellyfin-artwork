@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jumbo Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202352",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hun8TjlJ1F9DKNmh6yNpoucdHtx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://jumbofilm.co.kr",
+    "headquarters": "Mapo, Seoul, South Korea",
+    "placeholder": true
+  }
+]

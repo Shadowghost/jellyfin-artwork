@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Aurora Studios",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135903",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gWqxZsaJ1CGoyLqC670cw3T5KzV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://www.aurorastudios.fi",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

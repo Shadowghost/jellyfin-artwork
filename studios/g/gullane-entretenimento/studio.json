@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gullane Entretenimento",
+    "country": "BR",
+    "homepage": "http://www.gullane.com.br",
+    "headquarters": "São Paulo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4243",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1HE2IvZ6DLRHHl7ZCk5tXzzj6jD.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

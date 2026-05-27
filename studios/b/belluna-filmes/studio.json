@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Belluna Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274536",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cHGB09EgFyE96vOGkJ6FqeIiQfw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.bellunafilmes.com.br/",
+    "headquarters": "Hortolândia, SP",
+    "placeholder": true
+  }
+]

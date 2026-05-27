@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Vijayan Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99030"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

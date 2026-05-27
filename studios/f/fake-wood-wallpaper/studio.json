@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fake Wood Wallpaper",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116668",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3NM9JlHFeKbHpzVzP3GIEPlpga1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.fakewoodwallpaper.com/",
+    "placeholder": true
+  }
+]

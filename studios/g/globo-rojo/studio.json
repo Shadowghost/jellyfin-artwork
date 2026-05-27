@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Globo Rojo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95564",
+        "logo_uri": "https://image.tmdb.org/t/p/original/teGNTQu9Gn0tWAKXuc72NysQkSA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "https://www.globorojofilms.com/",
+    "headquarters": "Santiago",
+    "placeholder": true
+  }
+]

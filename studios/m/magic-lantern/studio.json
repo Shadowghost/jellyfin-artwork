@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Magic Lantern",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87331"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "headquarters": "Barcelona, Barcelona",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Absynthe Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100297"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ASCII Media Works",
+    "description": "Japanese publishing company known for the Dengeki imprints, merged into Kadokawa in 2013.",
+    "country": "JP",
+    "type": "publisher",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32957",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fsKExPZ443yF5oMRmbK96AjcZBT.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

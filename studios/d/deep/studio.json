@@ -1,0 +1,16 @@
+[
+  {
+    "name": "DEEP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255612",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qUvCzxHUdpp8OMXcIZ0MH8OPJnD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.deep2001.com/",
+    "placeholder": true
+  }
+]

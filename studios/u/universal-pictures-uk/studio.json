@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Universal Pictures UK",
+    "country": "GB",
+    "homepage": "http://www.universalpictures.co.uk/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4400"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

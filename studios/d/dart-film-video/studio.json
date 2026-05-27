@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dart Film & Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73364",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qWknICHaBx2WMaBZKE6w4BupY8F.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "homepage": "https://www.dartfilm.com/",
+    "headquarters": "Belgrade",
+    "placeholder": true
+  }
+]

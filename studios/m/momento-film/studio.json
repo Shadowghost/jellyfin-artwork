@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Momento Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51654",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qTkVCfQFiM0q9sYn9pXKOsZdH2B.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://momentofilm.se/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

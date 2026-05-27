@@ -1,0 +1,13 @@
+[
+  {
+    "name": "One shot production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240160"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

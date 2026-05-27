@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sigma Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290419"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

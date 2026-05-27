@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Guardian",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87763",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Ah77uoGeiXGkaUpghqcZWfdSejy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.theguardian.com/",
+    "placeholder": true
+  }
+]

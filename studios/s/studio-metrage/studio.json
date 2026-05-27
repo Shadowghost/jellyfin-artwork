@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio (Métrage)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "136559",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uJTMUtdeN6if5u4G8JIQdPSUegV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://metrage.pl/",
+    "headquarters": "Bygdoszcz, Kujawsko-Pomorskie, Poland",
+    "placeholder": true
+  }
+]

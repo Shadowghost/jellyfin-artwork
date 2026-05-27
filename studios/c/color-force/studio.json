@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Color Force",
+    "description": "color force productions a devision of Alarm Clock Films.",
+    "country": "US",
+    "headquarters": "West Hollywood, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5420",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dlW4Kh5dNieKNURnymsu57y6fMf.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

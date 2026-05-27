@@ -1,0 +1,17 @@
+[
+  {
+    "name": "a_BAHN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "136525",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mzYJyTy7fzXComNTOQ8Cdi4qVUP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LU",
+    "homepage": "http://www.a-bahn.com",
+    "headquarters": "Oberkorn",
+    "placeholder": true
+  }
+]

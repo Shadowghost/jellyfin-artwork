@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Huffington Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15517"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://huffingtonpictures.com",
+    "placeholder": true
+  }
+]

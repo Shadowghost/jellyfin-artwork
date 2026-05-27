@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film IGRF",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93234"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

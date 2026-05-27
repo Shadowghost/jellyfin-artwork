@@ -1,0 +1,17 @@
+[
+  {
+    "name": "American Film Institute Conservatory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12227",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bHlbZgn4dTw7lxtEA8UxFPvzCpH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://conservatory.afi.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

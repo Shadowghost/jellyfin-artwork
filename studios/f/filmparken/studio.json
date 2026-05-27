@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmparken",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55456"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

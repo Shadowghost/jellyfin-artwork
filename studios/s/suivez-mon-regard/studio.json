@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Suivez mon regard",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70731",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c3HZuawdFU3bFoaylXwsD3ovPId.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.lesfilmsdunord.com/",
+    "headquarters": "139 rue de la Liesse, 7700 Mouscron",
+    "placeholder": true
+  }
+]

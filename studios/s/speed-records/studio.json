@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Speed Records",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23456"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

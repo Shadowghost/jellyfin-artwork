@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mira Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52966",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cd4lBKeO8zcp4ZLTAMCsijXQAuh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://mirafilm.ch",
+    "headquarters": "Zürich",
+    "placeholder": true
+  }
+]

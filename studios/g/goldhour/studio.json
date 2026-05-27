@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Goldhour",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "296555",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gBQMMeSbRpyjkgC35PMcBm8F4Y1.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://goldhourstudios.com",
+    "headquarters": "Los Angeles"
+  }
+]

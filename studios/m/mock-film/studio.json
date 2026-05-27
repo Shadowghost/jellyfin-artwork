@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Mock-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31778"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

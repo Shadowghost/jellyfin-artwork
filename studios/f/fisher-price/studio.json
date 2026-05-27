@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Fisher-Price",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5764",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pev8Zywj0816ykNPO7142YhHPKe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

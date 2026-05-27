@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Space Vision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153250"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

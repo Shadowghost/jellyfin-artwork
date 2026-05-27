@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Something Quirky",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201222"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

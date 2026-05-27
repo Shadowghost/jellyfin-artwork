@@ -1,0 +1,32 @@
+[
+  {
+    "name": "CatchPlay",
+    "description": "Taiwan-based film distribution and streaming service operating CatchPlay+ across Southeast Asia.",
+    "country": "TW",
+    "type": "streaming-service",
+    "homepage": "https://www.catchplay.com/",
+    "headquarters": "臺灣台北市",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8870",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f2hj6ssc0KBRSafGnycnN5A1aGF.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film Suez",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12862",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dcdpvZ9iFtExmX53zzUoLW4prFM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://www.filmsuez.com/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

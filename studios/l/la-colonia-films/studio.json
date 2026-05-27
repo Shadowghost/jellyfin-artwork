@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Colonia Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198146",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k6U5IivtkFDCN6C7ALqEPx1mYuZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CO",
+    "homepage": "https://www.lacoloniafilms.com",
+    "headquarters": "Bogotá, Colombia",
+    "placeholder": true
+  }
+]

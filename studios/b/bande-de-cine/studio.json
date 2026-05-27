@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Bande de Ciné",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213033"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "headquarters": "City of Brussels",
+    "placeholder": true
+  }
+]

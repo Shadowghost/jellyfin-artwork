@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Minikino",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224050"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

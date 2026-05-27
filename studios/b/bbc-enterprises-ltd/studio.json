@@ -1,0 +1,26 @@
+[
+  {
+    "name": "BBC Enterprises Ltd.",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122330"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

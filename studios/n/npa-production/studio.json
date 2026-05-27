@@ -1,0 +1,14 @@
+[
+  {
+    "name": "NPA Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87556"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

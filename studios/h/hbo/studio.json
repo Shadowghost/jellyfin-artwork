@@ -1,0 +1,39 @@
+[
+  {
+    "name": "HBO",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tvdb",
+        "id": "328"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "3268",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tuomPhY2UtuPTqqFnKMVHvSb724.png"
+      },
+      {
+        "provider_name": "imdb",
+        "id": "co0008693"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "hbo",
+    "homepage": "https://www.hbo.com",
+    "headquarters": "New York City, New York",
+    "template": true
+  }
+]

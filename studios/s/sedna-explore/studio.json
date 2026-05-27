@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sedna Explore",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252877",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cBRNprfFPmUML5rpktjyATTL590.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.sedna-explore.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Oeste Filmes Brasileiros",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99726"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

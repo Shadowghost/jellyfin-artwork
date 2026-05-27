@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Breaker",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107910",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mindrXj65QSvW3CCisHyX8tp3zh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://breaker.io",
+    "headquarters": "New York",
+    "placeholder": true
+  }
+]

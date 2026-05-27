@@ -1,0 +1,17 @@
+[
+  {
+    "name": "educarchile",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158965",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5jWIot2ez2alOYJWP8ksO3oO7Oe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "https://www.educarchile.cl",
+    "headquarters": "Santiago",
+    "placeholder": true
+  }
+]

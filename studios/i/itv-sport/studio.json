@@ -1,0 +1,15 @@
+[
+  {
+    "name": "ITV Sport",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130989",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mt6mxDuIIHJKUp6KbroFMM9njNP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

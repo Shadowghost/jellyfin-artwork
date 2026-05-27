@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Observatorio de Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "268131"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

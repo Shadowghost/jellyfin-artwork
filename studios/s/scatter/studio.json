@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Scatter",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166524"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

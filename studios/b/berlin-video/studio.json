@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Berlin Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191574"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

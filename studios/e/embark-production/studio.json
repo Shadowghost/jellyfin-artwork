@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Embark Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50505"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

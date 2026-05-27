@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Herald Ace",
+    "country": "JP",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8886"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mostra Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184667"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

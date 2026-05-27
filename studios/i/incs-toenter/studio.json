@@ -1,0 +1,16 @@
+[
+  {
+    "name": "INCS toenter",
+    "country": "JP",
+    "homepage": "http://www.incs-toenter.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162088",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7w22w5EOw8MsJ3uhWdOuWAfp2HS.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

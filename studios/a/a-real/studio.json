@@ -1,0 +1,14 @@
+[
+  {
+    "name": "A-Real",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101170"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

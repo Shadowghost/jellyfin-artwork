@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Antenna",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162064",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iNOmFczMIiNus38cJ9T8tx1j6ja.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://antenna.co.kr/",
+    "headquarters": "Gangnam, Seoul",
+    "placeholder": true
+  }
+]

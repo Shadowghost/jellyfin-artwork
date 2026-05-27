@@ -1,0 +1,35 @@
+[
+  {
+    "name": "AIC PLUS+",
+    "description": "Japanese animation studio founded by Toru Miura, known for OVA series and TV anime. Various branches include AIC Plus+, AIC A.S.T.A., AIC Build, AIC Classic, and AIC Spirits.",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "http://www.anime-int.com",
+    "headquarters": "Nerima, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4690",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bQXkraSwoBDVd8xEAOkxGQLBB1S.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Anime International Company (AIC)"
+    ],
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FocusSearch",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171296"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

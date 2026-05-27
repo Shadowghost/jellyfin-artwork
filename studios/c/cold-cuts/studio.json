@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cold Cuts",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "288922",
+        "logo_uri": "https://image.tmdb.org/t/p/original/opVgaWJjTQXWG7EBHNccS4ezhT1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LB",
+    "homepage": "https://www.coldcutsonline.com/",
+    "headquarters": "Beirut",
+    "placeholder": true
+  }
+]

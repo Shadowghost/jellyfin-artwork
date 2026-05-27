@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Flickstar",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182164",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7xzi93adGRc6wrlS8Z30JzETTWK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://flickstar.com.au/",
+    "headquarters": "Adelaide",
+    "placeholder": true
+  }
+]

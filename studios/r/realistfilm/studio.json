@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Realistfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81900"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

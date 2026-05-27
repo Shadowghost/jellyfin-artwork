@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mint",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66038",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1cOzfVnpPPBFPFMHL85oo6uBr4j.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://www.mint-ab.se/english/",
+    "headquarters": "Malmö",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mirabelle TV (Moselle TV)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173643",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oktkS65TW6gCdMfFReVIrcz98kB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://moselle.tv/",
+    "placeholder": true
+  }
+]

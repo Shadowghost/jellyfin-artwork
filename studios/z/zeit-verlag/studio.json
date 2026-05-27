@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zeit Verlag",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221904",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i42pMw76Y59zGeo8Sw9MFLHTgPp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.zeit-verlagsgruppe.de/",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

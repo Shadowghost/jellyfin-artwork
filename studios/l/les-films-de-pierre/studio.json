@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Les Films de Pierre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58568",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2qxPHPKa29w2MsaPKpYRfBnQcyq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

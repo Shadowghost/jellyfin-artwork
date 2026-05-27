@@ -1,0 +1,13 @@
+[
+  {
+    "name": "bus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90778"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

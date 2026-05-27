@@ -1,0 +1,31 @@
+[
+  {
+    "name": "ZDF Theaterkanal",
+    "description": "German digital television channel operated by ZDF from 1999 to 2011, focused on theater, opera, ballet, and cultural performances; replaced by ZDFkultur.",
+    "country": "DE",
+    "type": "broadcast-network",
+    "headquarters": "Mainz",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "278816",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d3Nob3fCWhrOEB6zdTS4fOpu8gT.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

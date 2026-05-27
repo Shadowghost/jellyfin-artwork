@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bootstrap Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256370"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

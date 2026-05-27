@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Distinto Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10019",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lVmgdHhsU5eGYSTrYd6hI5Dhyjx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.distintofilms.com/?lang=en",
+    "headquarters": "Barcelona, Catalonia",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Paradox",
+    "country": "NL",
+    "homepage": "http://www.paradox.nl",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55008",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uXoUFdVOcBxezZReWaa1uNXgvpd.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

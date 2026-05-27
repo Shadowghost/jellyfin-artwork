@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MediaActive",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150933"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

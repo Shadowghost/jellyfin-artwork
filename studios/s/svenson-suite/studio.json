@@ -1,0 +1,16 @@
+[
+  {
+    "name": "svenson suite",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115181"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.svenson-suite.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

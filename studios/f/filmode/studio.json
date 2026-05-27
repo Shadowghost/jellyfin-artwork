@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmode",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123739"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

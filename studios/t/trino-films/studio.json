@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Trino Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250117"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

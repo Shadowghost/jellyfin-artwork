@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Superhero",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7183"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "CNN Films",
+    "description": "Documentary film production unit of CNN, producing feature-length and short documentaries for theatrical and television release.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.cnn.com/shows/cnn-films",
+    "colors": [
+      {
+        "name": "CNN Red",
+        "hex": "#CC0000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29605",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bSjv2Cinm8LoadffAngaQek4WLW.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

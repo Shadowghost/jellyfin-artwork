@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Libra Rising",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211394",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qbvthKxgqmS2FyPKQQJqU3KFkEf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.librarising.cz",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

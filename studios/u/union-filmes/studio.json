@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Union Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242733"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

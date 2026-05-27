@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Vimeo OTT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213939",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nDYnI3g66ORzra7IxgVDbNy7Kb0.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://www.vhx.tv"
+  }
+]

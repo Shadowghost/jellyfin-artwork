@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Screen Time",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34693"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

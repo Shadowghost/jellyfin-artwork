@@ -1,0 +1,15 @@
+[
+  {
+    "name": "The Samuel Goldwyn Company",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "798",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nQgX1MOLySgug7FDONdIkht3xob.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

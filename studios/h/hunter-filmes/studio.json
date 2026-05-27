@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Hunter Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "293091",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jJjQGHnwyt93JABgWwOjrImKDWn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

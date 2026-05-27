@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PUCARÁ cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13449",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jVqRkSBiksaZ1Qz4Y73dIbrlNkV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://www.pucaracine.com/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "name": "MAGES.",
+    "description": "Japanese video game and visual novel developer/publisher and anime production company, known for the Science Adventure series including Steins;Gate.",
+    "country": "JP",
+    "type": "production-company",
+    "homepage": "https://mages.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85401",
+        "logo_uri": "https://image.tmdb.org/t/p/original/80JSFPNHVfLGEjYmIUv85WiMiFi.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

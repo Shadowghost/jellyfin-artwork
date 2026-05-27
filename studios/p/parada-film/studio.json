@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Parada Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13140",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dSk0jfpxnKaKqQ2jKEgw4ViQCOd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "homepage": "https://www.paradafilm.ro/",
+    "headquarters": "Bucharest",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Point du Jour",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86197",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gUTZ1JDzJOytALYfXtPJKI1MqGp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.pointdujour-international.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

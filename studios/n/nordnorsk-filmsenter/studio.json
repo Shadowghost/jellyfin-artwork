@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nordnorsk Filmsenter",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80086",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ayx5AJqAMZNOSHPCZ1gx1ZiwX9Q.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.nnfs.no/",
+    "headquarters": "Honningsvåg, Norway",
+    "placeholder": true
+  }
+]

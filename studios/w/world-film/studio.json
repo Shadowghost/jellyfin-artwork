@@ -1,0 +1,14 @@
+[
+  {
+    "name": "World Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38293"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

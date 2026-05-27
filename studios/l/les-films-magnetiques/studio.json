@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Les Films Magnétiques",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116541"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.films-magnetiques.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

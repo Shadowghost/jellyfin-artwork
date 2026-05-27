@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Here Be Dragons",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92293",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wTH2jnxFQgZ3f5HNVKb8uQqalJY.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://www.dragons.org"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CONNECTfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203043"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

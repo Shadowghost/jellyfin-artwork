@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CineGenna",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211581",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9Ml2WTLzXDdpdCr1RMlx4Nqs1qC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "http://www.cinegenna.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

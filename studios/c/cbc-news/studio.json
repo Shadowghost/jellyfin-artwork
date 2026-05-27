@@ -1,0 +1,15 @@
+[
+  {
+    "name": "CBC News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238894",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vHvHzLe4u17mgJrbccVPCRdl9zC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

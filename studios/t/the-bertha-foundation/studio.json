@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Bertha Foundation",
+    "country": "US",
+    "homepage": "https://berthafoundation.org",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117651",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pLQUQzOhJgjP5dU5nLiQx9sTF35.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Luna Theater",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219446",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g7OoXvHfy6vQmqVYQhATZ4ocKD3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://lunalowell.com/",
+    "headquarters": "Lowell, Massachusetts",
+    "placeholder": true
+  }
+]

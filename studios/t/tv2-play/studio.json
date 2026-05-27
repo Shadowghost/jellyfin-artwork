@@ -1,0 +1,13 @@
+[
+  {
+    "name": "tv2 play",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154400"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

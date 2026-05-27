@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Stripe Press",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140625",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5bfT1xXojwMO6puPG1N0L9pSL5P.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://press.stripe.com/",
+    "headquarters": "San Francisco, CA",
+    "placeholder": true
+  }
+]

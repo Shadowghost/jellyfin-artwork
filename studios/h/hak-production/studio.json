@@ -1,0 +1,16 @@
+[
+  {
+    "name": "HAK Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145312",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v9WFiOXC5Y6HpGB5LusTWt7BsO3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "headquarters": "Seocho, Seoul, South Korea",
+    "placeholder": true
+  }
+]

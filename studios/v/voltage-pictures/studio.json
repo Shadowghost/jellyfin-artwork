@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Voltage Pictures",
+    "country": "US",
+    "homepage": "http://www.voltagepictures.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6626",
+        "logo_uri": "https://image.tmdb.org/t/p/original/y1PsXJOr4fSUk948lftHFUw67hs.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Georgianfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15326",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f6GquNLbdxLWUVUb26jzPwmc3Nv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GE",
+    "homepage": "https://georgianfilm.ge",
+    "headquarters": "Tbilisi",
+    "placeholder": true
+  }
+]

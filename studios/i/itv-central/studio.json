@@ -1,0 +1,15 @@
+[
+  {
+    "name": "ITV Central",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5238",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iuIBs6RzrJbGuq93RfGBSthuV4O.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

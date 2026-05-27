@@ -1,0 +1,17 @@
+[
+  {
+    "name": "VOX Cinemas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208974",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d7bfmMgrezRkZqsoCKXSZ1Ew4KY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AE",
+    "homepage": "https://voxcinemas.com/",
+    "headquarters": "Dubai",
+    "placeholder": true
+  }
+]

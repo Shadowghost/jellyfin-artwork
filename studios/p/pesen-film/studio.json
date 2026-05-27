@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Pesen Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94811",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wYBQbuuTRkdVcoT9HnkeG4Y1bR1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Impala",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1183",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hvk8LhoLFWu7212jsYi8KtJGRb2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.impalaproducciones.com",
+    "headquarters": "Madri",
+    "placeholder": true
+  }
+]

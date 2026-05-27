@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Maven Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1601"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

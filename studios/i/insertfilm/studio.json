@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Insertfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76122"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

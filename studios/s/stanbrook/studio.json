@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Stanbrook",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "263346",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rHWkElmRSIcFhSHKDrz7NA8eOxw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.stanbrook.net/",
+    "headquarters": "València",
+    "placeholder": true
+  }
+]

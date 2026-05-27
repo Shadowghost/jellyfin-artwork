@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Icelandic Film Centre",
+    "description": "Government agency promoting and supporting Icelandic film production, education, and international distribution.",
+    "country": "IS",
+    "type": "government-agency",
+    "homepage": "http://www.icelandicfilmcentre.is/",
+    "headquarters": "Reykjavik, Iceland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38468",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3PQ5z20TfOXzea2HL3TiTJkQDxK.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

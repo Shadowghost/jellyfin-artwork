@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pinguin Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10032"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

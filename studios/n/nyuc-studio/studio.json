@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NYUC Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200309"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

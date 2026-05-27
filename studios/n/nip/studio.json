@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NIP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217865",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qEONRJBj8ZP6r1OwCFbdcXingPH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.nip.pro.br/?lang=en",
+    "placeholder": true
+  }
+]

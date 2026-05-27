@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Vidéothèque de Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199215"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

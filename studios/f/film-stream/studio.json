@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Stream",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181679"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

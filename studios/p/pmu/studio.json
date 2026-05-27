@@ -1,0 +1,14 @@
+[
+  {
+    "name": "PMU",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257486",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Ur6JCVvxCBEQn96fPG9o2cujSh.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

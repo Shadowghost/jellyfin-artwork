@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Telecinco Cinema",
+    "description": "Spanish film production subsidiary of Mediaset España (originally Estudios Picasso, rebranded Telecinco Cinema in 2007); co-produced Guillermo del Toro's Pan's Labyrinth and J.A. Bayona's The Impossible.",
+    "country": "ES",
+    "type": "production-company",
+    "homepage": "https://www.telecinco.es/t5cinema",
+    "headquarters": "Madrid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2674",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bkgwJWvqqLuzsXV2Qv3Mg3wfcNZ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

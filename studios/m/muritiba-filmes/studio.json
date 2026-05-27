@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Muritiba Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270925",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xMSBMOHTVhfNZBkBkjoYctfOaLG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://muritibafilmes.com.br/",
+    "headquarters": "Curitiba - PR",
+    "placeholder": true
+  }
+]

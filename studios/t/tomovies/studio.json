@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Tomovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130961"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://en.tomovies.co.jp/",
+    "placeholder": true
+  }
+]

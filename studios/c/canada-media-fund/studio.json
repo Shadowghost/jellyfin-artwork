@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Canada Media Fund",
+    "country": "CA",
+    "homepage": "https://www.cmf-fmc.ca",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34515",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eHlBG6INdNO7IfsxVX1kDDBKnJi.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

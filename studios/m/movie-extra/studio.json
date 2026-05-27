@@ -1,0 +1,13 @@
+[
+  {
+    "name": "movie extra",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17221"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

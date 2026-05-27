@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films du Djabadjah",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "286100",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4JQPj2vwOq9LNTyn9xTyiJhAbvZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BF",
+    "homepage": "http://www.djabadjahfilms.com/",
+    "headquarters": "Bobo-Dioulasso",
+    "placeholder": true
+  }
+]

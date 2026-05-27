@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cancelled Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201975"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

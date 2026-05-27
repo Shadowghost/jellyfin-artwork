@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Museum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14836"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

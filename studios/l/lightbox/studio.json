@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lightbox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102879",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hdpYkThKaG4COfWRSPKwWsFfJQO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "http://www.lightbox.pt",
+    "headquarters": "Porto, Portugal",
+    "placeholder": true
+  }
+]

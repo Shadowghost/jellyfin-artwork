@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Apollo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109235"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

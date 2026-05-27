@@ -1,0 +1,13 @@
+[
+  {
+    "name": "UnionDocs",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100319"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

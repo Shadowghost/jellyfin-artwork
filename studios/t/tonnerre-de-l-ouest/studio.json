@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tonnerre de l'Ouest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230281",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zM8dqGCMtpyOzpbzUzmP1FCKWbj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.tonnerredelouest.fr/",
+    "headquarters": "Rennes",
+    "placeholder": true
+  }
+]

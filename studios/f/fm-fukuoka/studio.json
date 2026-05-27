@@ -1,0 +1,16 @@
+[
+  {
+    "name": "FM Fukuoka",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73266",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f3746Kos9dqfIh4SFGryOhYSbBS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://fmfukuoka.co.jp/",
+    "placeholder": true
+  }
+]

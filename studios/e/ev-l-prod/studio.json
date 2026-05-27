@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ev.l prod",
+    "country": "FR",
+    "homepage": "https://evl.fr",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175518",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A904hGAA5UXdxEC1JWyxw0VtWwI.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

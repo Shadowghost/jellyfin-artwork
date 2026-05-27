@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kids At Play",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60319",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8nz4Ebg1QWUn4AZQYyIXfszHeMr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://kidsatplay.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

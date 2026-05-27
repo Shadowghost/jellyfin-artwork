@@ -1,0 +1,17 @@
+[
+  {
+    "name": "OddBot",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167341",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1LCSny5j9UtyBAysC03C5XHu8lN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.oddbot.net",
+    "headquarters": "Glendale, California",
+    "placeholder": true
+  }
+]

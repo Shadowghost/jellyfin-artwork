@@ -1,0 +1,16 @@
+[
+  {
+    "name": "D.ROCK-ART",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "146496",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mODihZlXqtOtNI3bHiL3xH5VufH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://www.drockart.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "2minutes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150768"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

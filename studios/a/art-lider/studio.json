@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Art-Lider",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104882",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gKRR5hCdxQiqDHkGwhngDO5Y6sL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://www.art-lider.biz/",
+    "placeholder": true
+  }
+]

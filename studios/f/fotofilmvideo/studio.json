@@ -1,0 +1,14 @@
+[
+  {
+    "name": "FotoFilmVideo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12572"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

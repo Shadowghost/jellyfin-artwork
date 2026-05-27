@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bloomberg Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162546",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uWG5l4te3maFQEmE8xWb8iqvSeK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.bloombergmedia.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

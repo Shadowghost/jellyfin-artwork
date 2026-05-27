@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mercurial Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112729"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

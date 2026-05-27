@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Señal Memoria",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200080",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n8ly3Vf9rRUVPAIe0ywkClqXwKU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CO",
+    "homepage": "https://www.senalmemoria.co",
+    "headquarters": "Av. El Dorado Cr. 45 # 26 - 33 Bogotá D.C, Colombia",
+    "placeholder": true
+  }
+]

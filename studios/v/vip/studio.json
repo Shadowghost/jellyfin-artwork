@@ -1,0 +1,14 @@
+[
+  {
+    "name": "VIP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51004"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "placeholder": true
+  }
+]

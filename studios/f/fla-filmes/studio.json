@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fla Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222541",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jMy4kM2Q7ncqUrdaV4zwtkPdQxN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.flafilmes.com.br",
+    "headquarters": "Av. Borges de Medeiros, 997 - Gávea, Rio de Janeiro - RJ, 22430-041",
+    "placeholder": true
+  }
+]

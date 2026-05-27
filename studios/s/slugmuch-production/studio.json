@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Slugmuch Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248292"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

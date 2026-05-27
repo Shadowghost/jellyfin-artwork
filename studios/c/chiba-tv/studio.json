@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Chiba TV",
+    "description": "Independent television station serving the Chiba Prefecture in Japan, a member of the Japan Association of Independent Television Stations.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.chiba-tv.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233672",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8XNtModCxAwtvLy86b3phkE1jge.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Chiba Television Broadcasting Corporation"
+    ],
+    "template": true
+  }
+]

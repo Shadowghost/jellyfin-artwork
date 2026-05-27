@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Bob & Alice Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28672"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

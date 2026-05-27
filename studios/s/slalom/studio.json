@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SLALOM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108051",
+        "logo_uri": "https://image.tmdb.org/t/p/original/33nQVuvDTvFlayf6xkXgyGQWxIa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.slalomprod.tv/",
+    "headquarters": "Ottawa, Ontario",
+    "placeholder": true
+  }
+]

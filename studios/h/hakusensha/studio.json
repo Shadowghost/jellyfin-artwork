@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hakusensha",
+    "country": "JP",
+    "homepage": "https://www.hakusensha.co.jp",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131015",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1VWKUVt895d6Wwnjxu4I7APPM8X.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

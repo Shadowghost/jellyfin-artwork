@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ma.ja.de. Fiction",
+    "country": "DE",
+    "homepage": "http://majade.de",
+    "headquarters": "Leipzig",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2344",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yBj79tpJp653Xmw9PrhlXvLw4Gt.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

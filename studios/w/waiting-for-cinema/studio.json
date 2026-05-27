@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Waiting for Cinéma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71512"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.waitingfor.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

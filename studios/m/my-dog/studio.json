@@ -1,0 +1,13 @@
+[
+  {
+    "name": "My Dog",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159371"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

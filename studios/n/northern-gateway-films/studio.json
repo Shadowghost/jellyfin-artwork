@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Northern Gateway Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142570",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rz1KtIZL7WE4LpkMs7dngNz2NcU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.gatewayfilms.ca",
+    "placeholder": true
+  }
+]

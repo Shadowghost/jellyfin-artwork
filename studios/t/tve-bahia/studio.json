@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TVE Bahia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "186632",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A0GsE1U78vq2NAqZWquH8XCjWsY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://irdeb.ba.gov.br/tveonline",
+    "headquarters": "Salvador, Bahia, Brasil",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pontificia Universidad Católica de Chile",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90682",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5RROwbMM2TNqISJUWfRrDEQu31V.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "http://www.uc.cl",
+    "headquarters": "Libertador Bernardo O'Higgins Avenue, Santiago",
+    "placeholder": true
+  }
+]

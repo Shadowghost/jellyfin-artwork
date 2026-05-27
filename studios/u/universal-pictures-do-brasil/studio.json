@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Universal Pictures do Brasil",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "47046",
+        "logo_uri": "https://image.tmdb.org/t/p/original/knYFwgHhMHhDrt7SRHqnQlqlc4R.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.universalpics.com.br/",
+    "placeholder": true
+  }
+]

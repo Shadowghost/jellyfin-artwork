@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Heimathafen Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88344",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cMrrz7iZkUrkZyvjEfGPT58rZnJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.heimathafenfilm.de/",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

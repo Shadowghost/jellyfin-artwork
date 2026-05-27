@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bon Voyage Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77971",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fjINerLeOsWbi8YYTJSJooMHlQL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.bonvoyage.film",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

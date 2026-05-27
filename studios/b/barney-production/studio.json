@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Barney Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79322",
+        "logo_uri": "https://image.tmdb.org/t/p/original/txqLPA3VSO3PSKFB5Otp9kroHGd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://barneyproduction.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

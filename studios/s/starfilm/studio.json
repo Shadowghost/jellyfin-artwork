@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Starfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "43800"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

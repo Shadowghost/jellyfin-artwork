@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BocFlix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32183"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

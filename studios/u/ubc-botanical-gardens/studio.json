@@ -1,0 +1,17 @@
+[
+  {
+    "name": "UBC Botanical Gardens",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113328",
+        "logo_uri": "https://image.tmdb.org/t/p/original/evh79siciaTWWNfdxu6JAg8ks4e.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://botanicalgarden.ubc.ca",
+    "headquarters": "Vancouver, British Columbia",
+    "placeholder": true
+  }
+]

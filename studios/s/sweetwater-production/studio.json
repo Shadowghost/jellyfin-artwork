@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sweetwater Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1005",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aNvdEYfswPjbZoZiprCqDUxX6SB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.colinnutley.com/",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

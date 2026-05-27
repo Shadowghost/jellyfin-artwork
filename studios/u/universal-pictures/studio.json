@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Universal Pictures",
+    "description": "American film production and distribution company, one of the 'Big Five' major studios, owned by NBCUniversal.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "http://www.universalpictures.com/",
+    "headquarters": "Universal City, California",
+    "colors": [
+      {
+        "name": "Universal Blue",
+        "hex": "#0033A0"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8lvHyhjr8oUKOOy2dKXoALWKdp0.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

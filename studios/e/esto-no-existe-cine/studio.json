@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Esto No Existe Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229825"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

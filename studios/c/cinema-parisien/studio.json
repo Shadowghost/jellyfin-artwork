@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinéma Parisien",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37082"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

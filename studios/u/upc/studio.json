@@ -1,0 +1,13 @@
+[
+  {
+    "name": "UPC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157656"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

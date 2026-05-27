@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Media Factory",
+    "description": "Japanese publishing company and anime production committee member; merged into parent Kadokawa in 2013.",
+    "country": "JP",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7967",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4W9ByL6mMDn9UOHh8oGD36l3BnN.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

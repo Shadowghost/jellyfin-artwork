@@ -1,0 +1,13 @@
+[
+  {
+    "name": "get shot films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145491"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

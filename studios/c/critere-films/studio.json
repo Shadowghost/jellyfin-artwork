@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Critère Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145775"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

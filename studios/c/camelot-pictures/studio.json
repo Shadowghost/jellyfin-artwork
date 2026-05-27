@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Camelot Pictures",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11728"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

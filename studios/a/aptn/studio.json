@@ -1,0 +1,15 @@
+[
+  {
+    "name": "APTN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20428",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5OQJGD6tuK8Zaxfk5ZEhJD8wyXv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

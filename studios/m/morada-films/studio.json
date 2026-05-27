@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Morada Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196770",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mzVJsOuEXwKwBrtgLQWld0oVBqu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.moradafilms.com/",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Fade In Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40002"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

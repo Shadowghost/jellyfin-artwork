@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sky Arts",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85575",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ylgVrMSjD8vCPXuzkLeDfipmE2b.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.sky.com/watch/channel/sky-arts",
+    "placeholder": true
+  }
+]

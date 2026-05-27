@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Bulgaria Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22082"
+      }
+    ],
+    "artwork": {},
+    "country": "BG",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Jabuti Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240681",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b8Ok55UcfKYMex6U1dty0QItJwQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://jabutifilmes.com/",
+    "placeholder": true
+  }
+]

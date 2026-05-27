@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films du jour prochain",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151834"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

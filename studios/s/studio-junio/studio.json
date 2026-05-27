@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Studio Junio",
+    "country": "JP",
+    "headquarters": "Nerima, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11822"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

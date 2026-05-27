@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ampersand",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89364",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7iWGkOLk4bo2rrKAwUOhBqc6qA8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.ampersand.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

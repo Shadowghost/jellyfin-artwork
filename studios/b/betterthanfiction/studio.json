@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BetterThanFiction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198717",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rvS7jQGjHaUGPTtTsmH6tgh7lz0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.betterthanfiction.tv/",
+    "headquarters": "Brooklyn, New York",
+    "placeholder": true
+  }
+]

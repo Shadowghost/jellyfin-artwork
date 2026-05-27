@@ -1,0 +1,14 @@
+[
+  {
+    "name": "pistil",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101522"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

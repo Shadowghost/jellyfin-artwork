@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bewegte Bilder",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168162",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hukgFMqMaQ4NKbl8RknmLl3Qkxp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.bewegtebilder.de/",
+    "headquarters": "Tübingen, Baden-Württemberg",
+    "placeholder": true
+  }
+]

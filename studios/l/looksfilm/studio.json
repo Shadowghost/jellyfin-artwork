@@ -1,0 +1,17 @@
+[
+  {
+    "name": "LOOKSfilm",
+    "country": "DE",
+    "homepage": "https://looks.film",
+    "headquarters": "Leipzig",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32536",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zVBXUgux1SxaX9LlCtos0MH1q05.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

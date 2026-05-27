@@ -1,0 +1,14 @@
+[
+  {
+    "name": "TG.MOVE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "295536",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x3ejZTZYxDwY53Hr3hlw4d0oARR.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

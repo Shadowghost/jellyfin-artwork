@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Be On Cloud",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172413",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c6AtcLlmqBAVjvnSs4up3Fal1yI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TH",
+    "headquarters": "Thailand",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Trollhättan Film",
+    "country": "SE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "320"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

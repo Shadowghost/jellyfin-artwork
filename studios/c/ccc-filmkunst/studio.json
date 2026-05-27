@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CCC Filmkunst",
+    "country": "DE",
+    "homepage": "https://ccc-film.im-netz.de/home_en",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1787",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tWdfCS6OBkxSuXao5lluNKDIvlc.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

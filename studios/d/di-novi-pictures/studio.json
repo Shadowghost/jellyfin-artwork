@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Di Novi Pictures",
+    "country": "US",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "813",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xz25F3NFQOQJCH47VscbrcI10Om.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

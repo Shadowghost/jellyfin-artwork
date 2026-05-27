@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Investigation Discovery",
+    "description": "American pay television network owned by Warner Bros. Discovery focused on true-crime and investigation documentary programming; previously Discovery Times and Discovery Civilization.",
+    "country": "US",
+    "type": "cable-network",
+    "homepage": "https://www.investigationdiscovery.com/",
+    "headquarters": "Maryland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73761",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4Fmsy7FsqNbcG9pdQbwTIKunV1q.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

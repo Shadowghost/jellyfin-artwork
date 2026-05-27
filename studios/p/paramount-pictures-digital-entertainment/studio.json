@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Paramount Pictures Digital Entertainment",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21834"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

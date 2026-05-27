@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DK E&M",
+    "country": "KR",
+    "homepage": "http://www.dkenm.com/",
+    "headquarters": "Mapo, Seoul, South Korea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115704",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lHIQ7aVEcYQBLRlHJqR9RNjLe4V.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

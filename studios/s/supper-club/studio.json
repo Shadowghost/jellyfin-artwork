@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Supper Club",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126200",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lvGUhh8CR2qDy16Qe5LBSZU53Iu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://supper-club.com",
+    "placeholder": true
+  }
+]

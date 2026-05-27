@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Hughes Entertainment",
+    "description": "American film production company founded by John Hughes, known for Home Alone, Ferris Bueller's Day Off, and The Breakfast Club.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "477",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4wfCdggcE3ZG26uJpnAvyI0vEeL.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

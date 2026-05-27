@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Jungang Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83261"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "placeholder": true
+  }
+]

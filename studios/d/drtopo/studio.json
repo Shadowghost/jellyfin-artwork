@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DrTopo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100195"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

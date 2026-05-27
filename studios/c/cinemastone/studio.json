@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CinemaStone",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245499"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

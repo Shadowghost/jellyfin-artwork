@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AwesomenessTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30086",
+        "logo_uri": "https://image.tmdb.org/t/p/original/74ufhzObVRahcRCbNKRVyxy3BXZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://awesomenesstv.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

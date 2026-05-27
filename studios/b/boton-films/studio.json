@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Botón Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81271",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gJ4qdlKjwaHUa56aUuJcYQEQGwG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EC",
+    "homepage": "https://botonfilms.com/",
+    "headquarters": "Quito",
+    "placeholder": true
+  }
+]

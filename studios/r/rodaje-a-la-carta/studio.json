@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Rodaje a la Carta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102872"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

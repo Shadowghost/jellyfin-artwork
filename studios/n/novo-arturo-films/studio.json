@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Novo Arturo Films",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1168"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

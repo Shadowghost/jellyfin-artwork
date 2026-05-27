@@ -1,0 +1,13 @@
+[
+  {
+    "name": "WMR production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94748"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

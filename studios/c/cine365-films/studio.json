@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Cine365 Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109909"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://cine365films.com/",
+    "placeholder": true
+  }
+]

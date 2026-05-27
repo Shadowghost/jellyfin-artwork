@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Tretyakov Gallery",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140043"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://www.tretyakovgallery.ru/",
+    "placeholder": true
+  }
+]

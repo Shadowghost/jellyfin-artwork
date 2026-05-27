@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Euphoria Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130656",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1fQX6DQzWuaTC4HZS1OtpYC55HJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "http://euphoriafilm.fi",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

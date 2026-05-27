@@ -1,0 +1,17 @@
+[
+  {
+    "name": "screen.brussels",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124138",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bcJuzZ0gnOUGWg52haT0ueAFHlP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://screen.brussels/",
+    "headquarters": "Brussel",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sourdoreille",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113101",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iVyuDCeXpxW493RaKjvkXg1RWLR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.sourdoreille.net/",
+    "headquarters": "Paris / Nantes",
+    "placeholder": true
+  }
+]

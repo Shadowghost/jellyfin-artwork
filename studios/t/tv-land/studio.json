@@ -1,0 +1,29 @@
+[
+  {
+    "name": "TV Land",
+    "description": "American basic cable network owned by Paramount Global, originally focused on classic TV reruns and later on original sitcoms like Hot in Cleveland and Younger.",
+    "country": "US",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138678"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

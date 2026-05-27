@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Microfilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119914",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eikgaLH41c9I9BQhPRBrfW9ahNG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.microfilms.fr",
+    "headquarters": "Saint Denis (93)",
+    "placeholder": true
+  }
+]

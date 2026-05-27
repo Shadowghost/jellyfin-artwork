@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Young Vic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78648",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pzMcIoCLXUMB97r72rGNaZlheEU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.youngvic.org/",
+    "headquarters": "66 The Cut, Waterloo, London",
+    "placeholder": true
+  }
+]

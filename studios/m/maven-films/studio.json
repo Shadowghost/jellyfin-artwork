@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Maven Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "247897"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

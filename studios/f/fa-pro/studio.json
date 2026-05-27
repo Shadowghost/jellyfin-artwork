@@ -1,0 +1,16 @@
+[
+  {
+    "name": "FA Pro",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119248",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x0fZ5PB2sjwFaYOAFrCpdS84cs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://fapro.co.jp",
+    "placeholder": true
+  }
+]

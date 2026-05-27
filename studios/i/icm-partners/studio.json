@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ICM Partners",
+    "description": "American talent and literary agency based in Los Angeles; acquired by Creative Artists Agency in 2022.",
+    "country": "US",
+    "type": "other",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98592",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uX536oMF7WCKzSXoaHHCvicdTuN.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

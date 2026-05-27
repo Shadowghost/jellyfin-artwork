@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nomados Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5101"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

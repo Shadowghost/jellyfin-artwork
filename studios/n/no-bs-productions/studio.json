@@ -1,0 +1,13 @@
+[
+  {
+    "name": "no BS productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200102"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

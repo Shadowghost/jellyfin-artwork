@@ -1,0 +1,13 @@
+[
+  {
+    "name": "JumpLine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242365"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

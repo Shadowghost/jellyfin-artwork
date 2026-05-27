@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Get Set Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99340"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.getsetfilms.com",
+    "headquarters": "St. John's, Newfoundland and Labrador",
+    "placeholder": true
+  }
+]

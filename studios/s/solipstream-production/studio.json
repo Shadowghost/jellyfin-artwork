@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Solipstream Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10236"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

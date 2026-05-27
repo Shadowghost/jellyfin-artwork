@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Écho Média",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24005",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9XhPYLpXbWHFwp8fpKFN9jU8zvH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.echomedia.tv/index.php/en/",
+    "headquarters": "Montréal, Québec",
+    "placeholder": true
+  }
+]

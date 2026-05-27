@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cifarra",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262980",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qCHPja2PbKMqxa4dFDZYjEdKKoY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://cifarra.com",
+    "placeholder": true
+  }
+]

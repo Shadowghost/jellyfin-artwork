@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Ver e Ouvir Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226235",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bLpDIVfa65sVsP71xnQGlx5Db5X.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "http://vereouvirfilmes.com"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "SB Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60913"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

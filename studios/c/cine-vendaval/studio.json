@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cine Vendaval",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89326",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uJ7GGajJ7bKsq2GQxhRnzO8Xair.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://cinevendaval.com/",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

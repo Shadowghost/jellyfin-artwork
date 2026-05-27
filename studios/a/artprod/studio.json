@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ArtProd",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60487"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

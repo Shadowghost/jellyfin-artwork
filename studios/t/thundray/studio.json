@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Thundray",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120240",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iRRUlAS3BCQi0dm3YvwKFgvOj5m.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://thundray.com/",
+    "headquarters": "Room A19, Building 31, No. 700 Wanrong Road, Jing'an District, Shanghai, China",
+    "placeholder": true
+  }
+]

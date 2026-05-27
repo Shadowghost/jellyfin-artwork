@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Edge City",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11463"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

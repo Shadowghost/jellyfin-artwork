@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TV3 Sverige",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "57354",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xxRiJgNQk4ye4YB95poecCDa1tj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

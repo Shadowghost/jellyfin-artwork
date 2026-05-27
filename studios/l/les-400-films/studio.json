@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les 400 Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "299006"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

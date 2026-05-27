@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Czech Anglo Pictures",
+    "country": "CZ",
+    "homepage": "https://www.czechangloproductions.cz",
+    "headquarters": "Prague",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20473",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yhe5gpAhQicancYMbFzAXARrdzl.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "INSPION EDGE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189968",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lDGcesNvJp4s3ReoKVDTjtFCkIg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://inspion.co.jp/edg/",
+    "placeholder": true
+  }
+]

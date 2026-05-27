@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kafka Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164655"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

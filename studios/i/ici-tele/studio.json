@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ICI Télé",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216171",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nsXTIFmlG0tYjpStM70uWZbCCnC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://ici.radio-canada.ca/tele",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Walking The Dog",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8675",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nhGrnKdP6GFXLk6fbLARjQNSMET.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "http://www.walkingthedog.be",
+    "headquarters": "Brussels",
+    "placeholder": true
+  }
+]

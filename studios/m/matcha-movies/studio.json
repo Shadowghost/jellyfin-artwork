@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Matcha Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "254571"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

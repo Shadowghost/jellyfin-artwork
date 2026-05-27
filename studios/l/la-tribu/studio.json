@@ -1,0 +1,16 @@
+[
+  {
+    "name": "La Tribu",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111216",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tw1jkD1Vdbxt2Au41Y426i6IBHV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://latribu.ca",
+    "placeholder": true
+  }
+]

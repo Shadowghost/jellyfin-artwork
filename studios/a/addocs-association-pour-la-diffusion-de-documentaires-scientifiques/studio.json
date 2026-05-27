@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ADDOCS (Association pour la Diffusion de Documentaires Scientifiques)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "295810"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

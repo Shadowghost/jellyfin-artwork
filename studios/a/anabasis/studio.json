@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Anabasis",
+    "country": "AN",
+    "headquarters": "Curaçao",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52941"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

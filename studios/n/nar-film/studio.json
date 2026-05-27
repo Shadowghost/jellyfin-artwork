@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nar Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151971",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qiH7jm3MqmCZWfaEsZA3QjynYun.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.narfilm.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

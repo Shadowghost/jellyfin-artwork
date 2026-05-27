@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Playboy Enterprises",
+    "description": "American lifestyle and entertainment media company founded by Hugh Hefner, originator of Playboy magazine and various television and film ventures.",
+    "country": "US",
+    "type": "publisher",
+    "homepage": "https://www.playboy.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1431",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v3YaGAqdqfEoB1CRIVBWXW7so1O.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

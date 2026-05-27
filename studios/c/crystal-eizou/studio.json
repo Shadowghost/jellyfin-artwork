@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Crystal Eizou",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93742",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dZLh4HM3nrnzIpqlE4nxU0x2qHs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.crystal-eizou.jp",
+    "placeholder": true
+  }
+]

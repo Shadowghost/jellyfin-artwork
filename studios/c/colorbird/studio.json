@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ColorBird",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191964",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nuVGOwRJtEfWR4Ube3Xp5kpGJqf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://colorbird.co.jp/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Storyforest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127451",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bJ9G7z8OwSzN4OYUq8WAw2eYxaO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://storyforest.kr/",
+    "headquarters": "Mapo, Seoul, South Korea",
+    "placeholder": true
+  }
+]

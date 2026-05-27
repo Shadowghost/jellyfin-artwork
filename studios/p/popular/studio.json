@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Popular",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75592",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k02BxMOkGU9VzltTPrxkh9drOLP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PR",
+    "homepage": "https://www.popular.com",
+    "headquarters": "Hato Rey, San Juan",
+    "placeholder": true
+  }
+]

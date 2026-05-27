@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Rock Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42673"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://www.rockfilm.ru",
+    "placeholder": true
+  }
+]

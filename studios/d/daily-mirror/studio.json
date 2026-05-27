@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Daily Mirror",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209148"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

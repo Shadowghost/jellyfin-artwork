@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wil Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17277",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fYwS9Ycql5EKdky5kxvGY4e6Mk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://www.wilfilm.dk",
+    "headquarters": "Copenhagen",
+    "placeholder": true
+  }
+]

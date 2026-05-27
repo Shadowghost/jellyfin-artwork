@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Telescreen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95699"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

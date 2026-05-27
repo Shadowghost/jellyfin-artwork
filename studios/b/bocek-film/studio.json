@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Böcek Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74029",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gnEEvRveJ9aNCdJjy0fihG9aKHd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.bocekfilms.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

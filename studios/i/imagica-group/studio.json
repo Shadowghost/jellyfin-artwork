@@ -1,0 +1,15 @@
+[
+  {
+    "name": "IMAGICA GROUP",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257066",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3yOTpnJAfyFgBgMJYYq6bRUPlh1.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

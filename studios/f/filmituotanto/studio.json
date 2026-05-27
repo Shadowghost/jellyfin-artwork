@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Filmituotanto",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242652"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "placeholder": true
+  }
+]

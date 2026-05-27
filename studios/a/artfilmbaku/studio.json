@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ArtFilmBaku",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192125",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vMJ8ZslksTHErUQ4MvRiz8CgRwo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AZ",
+    "headquarters": "Baku",
+    "placeholder": true
+  }
+]

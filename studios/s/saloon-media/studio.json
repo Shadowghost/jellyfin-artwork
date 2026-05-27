@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Saloon Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74030",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ljDqrPycBJUndrlSMm2rrJI4IZg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.saloonmedia.com",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

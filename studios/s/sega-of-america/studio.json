@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SEGA of America",
+    "country": "US",
+    "headquarters": "Irvine, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168701",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vWdZFT4V64CCv12D10m44duQjyg.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

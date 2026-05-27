@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Star Alliance Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62893"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

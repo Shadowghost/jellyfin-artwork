@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Picture Tree",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23924"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

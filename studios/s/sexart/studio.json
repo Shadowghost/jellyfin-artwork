@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SexArt",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104361",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wxLO5oRix4R9qbpajOGswaGx2Tq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.sexart.com",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bacači sjenki",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200711",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x3k153WXpg1dkB8ew5Za90uoQlD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HR",
+    "homepage": "https://bacaci-sjenki.hr/en",
+    "headquarters": "Zagreb",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Windy Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104715",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3HP2gq4ffIMAnrNkyvFq5LrmAId.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Saint-Pierre-Quiberon",
+    "placeholder": true
+  }
+]

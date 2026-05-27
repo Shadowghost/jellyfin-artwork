@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dopamine",
+    "country": "MX",
+    "homepage": "https://dopaminecontent.com",
+    "headquarters": "Mexico City",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121614",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3Dkij1sDiqYWH7TG7FDHQNX769E.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SOUTHfilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112003",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1XqtELL82orUHjXtp0xBRgQtabW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.southfilms.net",
+    "headquarters": "Marseille",
+    "placeholder": true
+  }
+]

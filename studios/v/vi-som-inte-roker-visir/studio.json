@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Vi som inte röker (VISIR)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32074"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

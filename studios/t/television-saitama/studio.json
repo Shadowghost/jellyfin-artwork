@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Television Saitama",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118504",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yhFNPfWqQTOj8olwR4Gk2H5397X.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.teletama.jp/",
+    "placeholder": true
+  }
+]

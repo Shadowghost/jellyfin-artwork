@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fênix Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85992",
+        "logo_uri": "https://image.tmdb.org/t/p/original/79lj0eZq7mPrQTVCST019XlI68g.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.fenixfilmes.com/",
+    "headquarters": "Rio de Janeiro RJ",
+    "placeholder": true
+  }
+]

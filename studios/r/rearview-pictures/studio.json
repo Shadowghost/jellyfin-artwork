@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Rearview Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "243197"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

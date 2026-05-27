@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Migdal Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "54386",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pqbhVbxp2qLqILbJf1XMxt6Cmq9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.migdalfilmes.com.br",
+    "headquarters": "Rio de Janeiro",
+    "placeholder": true
+  }
+]

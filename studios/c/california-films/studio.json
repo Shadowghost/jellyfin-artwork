@@ -1,0 +1,16 @@
+[
+  {
+    "name": "California Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "247135",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jhqXbgVVXTi8tH8M4McFPNetyMF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "headquarters": "Naples",
+    "placeholder": true
+  }
+]

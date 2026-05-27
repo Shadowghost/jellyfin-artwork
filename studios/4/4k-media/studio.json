@@ -1,0 +1,29 @@
+[
+  {
+    "name": "4K Media Inc.",
+    "description": "New York-based subsidiary of Konami responsible for the international licensing of the Yu-Gi-Oh! franchise outside Asia.",
+    "country": "US",
+    "type": "distributor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "228538"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

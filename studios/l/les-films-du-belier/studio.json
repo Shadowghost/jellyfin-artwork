@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les films du Bélier",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7557",
+        "logo_uri": "https://image.tmdb.org/t/p/original/23jvz0JsBGYpEgTz6jwuQO5NGEp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.lesfilmsdubelier.fr",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Buildplayer",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262978"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

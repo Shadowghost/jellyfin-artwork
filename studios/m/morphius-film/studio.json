@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Morphius Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21576"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

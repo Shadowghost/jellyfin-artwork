@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Escapi Music",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113478",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nyqxbOiLOBUdFx2bIiTppJVVARb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://www.escapimusic.com/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

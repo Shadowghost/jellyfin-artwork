@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Croatia Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16785"
+      }
+    ],
+    "artwork": {},
+    "country": "HR",
+    "homepage": "https://www.croatia-film.hr/",
+    "headquarters": "Zagreb",
+    "placeholder": true
+  }
+]

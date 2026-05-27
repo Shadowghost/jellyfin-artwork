@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Quirk Books",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290527"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Giallo Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87243"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

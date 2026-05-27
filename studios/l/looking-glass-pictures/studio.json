@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Looking Glass Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78312",
+        "logo_uri": "https://image.tmdb.org/t/p/original/GeitJmP7I3SxLy79IoaUJbv4Le.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "http://lookingglasspictures.com.au",
+    "placeholder": true
+  }
+]

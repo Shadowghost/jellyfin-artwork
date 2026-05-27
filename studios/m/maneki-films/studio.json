@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Maneki Films",
+    "country": "FR",
+    "homepage": "http://www.manekifilms.com",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95747",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9fP0ZNfxTzm8S7KNfHrMHGYimb3.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

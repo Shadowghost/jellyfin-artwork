@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Media Pulpo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118986",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pBaZ2OSWsuI6ujQlmogawsBz38q.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.pulpo.jp/",
+    "placeholder": true
+  }
+]

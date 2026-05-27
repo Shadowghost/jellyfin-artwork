@@ -1,0 +1,16 @@
+[
+  {
+    "name": "monofilmo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135851"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.monofilmo.com",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

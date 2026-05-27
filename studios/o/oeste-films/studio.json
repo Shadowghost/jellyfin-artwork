@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Oeste Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167464",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ypGsjHmLcolv4yaFhUmFJ4URczC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://filmandes.com/",
+    "headquarters": "Mendoza",
+    "placeholder": true
+  }
+]

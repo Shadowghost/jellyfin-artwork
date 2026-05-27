@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PSG",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90615"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

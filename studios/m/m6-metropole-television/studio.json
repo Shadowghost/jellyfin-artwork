@@ -1,0 +1,16 @@
+[
+  {
+    "name": "M6 Métropole Télévision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8210",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kmYqp22cJDFiDP9iRI5s8k8Mc7R.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://m6.fr",
+    "placeholder": true
+  }
+]

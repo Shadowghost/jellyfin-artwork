@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Moviedel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285026"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

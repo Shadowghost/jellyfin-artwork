@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sarajevo Dokument",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72115",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hifjY8XNCS4Gt7seFksEUzXOohE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BA",
+    "homepage": "http://dokument.ba/",
+    "headquarters": "Sarajevo",
+    "placeholder": true
+  }
+]

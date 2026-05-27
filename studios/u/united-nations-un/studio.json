@@ -1,0 +1,17 @@
+[
+  {
+    "name": "United Nations (UN)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126464",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vSUia7gxZmQd5MJegWSgejzSBty.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://un.org/",
+    "headquarters": "New York, New York, US",
+    "placeholder": true
+  }
+]

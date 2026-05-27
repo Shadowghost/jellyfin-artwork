@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cinemarec",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110422"
+      }
+    ],
+    "artwork": {},
+    "country": "BY",
+    "homepage": "http://www.cinemarec.com/cinemarec/cinemarec_eng.html",
+    "headquarters": "Minsk",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Osbourne Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80372",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v4mwDpQFCiNEBZz2CqY7fkBuNr7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://osbournemedia.com",
+    "placeholder": true
+  }
+]

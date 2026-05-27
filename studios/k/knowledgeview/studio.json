@@ -1,0 +1,13 @@
+[
+  {
+    "name": "KnowledgeView",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77112"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

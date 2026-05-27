@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Vejan Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229141",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k8Fd7AzKjOSCDrprMsLO3irfK9l.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "headquarters": "Istanbul",
+    "placeholder": true
+  }
+]

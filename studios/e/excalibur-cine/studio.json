@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Excalibur Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200600"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "placeholder": true
+  }
+]

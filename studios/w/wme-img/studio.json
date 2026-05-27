@@ -1,0 +1,13 @@
+[
+  {
+    "name": "WME-IMG",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89370"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

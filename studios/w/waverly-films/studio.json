@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Waverly Films",
+    "country": "US",
+    "homepage": "http://waverlyfilms.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "735"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Adventure Walk",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257312"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

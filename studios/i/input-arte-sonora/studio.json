@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Input Arte Sonora",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116553"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

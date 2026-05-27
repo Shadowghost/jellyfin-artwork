@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wonder Maria Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224529",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t0mKbIEhqRFloLpQaog80aLMKDa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "https://www.wondermaria.com/",
+    "headquarters": "Lisbon",
+    "placeholder": true
+  }
+]

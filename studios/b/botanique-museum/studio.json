@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Botanique Museum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151007"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

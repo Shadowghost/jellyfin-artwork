@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AJP Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184272"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mythenfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100988"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

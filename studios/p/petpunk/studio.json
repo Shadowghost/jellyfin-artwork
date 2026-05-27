@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Petpunk",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97051"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

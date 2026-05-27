@@ -1,0 +1,16 @@
+[
+  {
+    "name": "New Wave Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120612"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://www.newwavefilm.pl/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

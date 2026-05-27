@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Videomante",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51102",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AfYvzphSfhViUacQJ21YXwIOeqG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.videomante.it/",
+    "headquarters": "Cividale del Friuli, Udine",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mock Duck Studios",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78934",
+        "logo_uri": "https://image.tmdb.org/t/p/original/s0UZOofQya3yyccIIDAMvQWrcMX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://www.mockduck.co.uk",
+    "headquarters": "Folkestone, England",
+    "placeholder": true
+  }
+]

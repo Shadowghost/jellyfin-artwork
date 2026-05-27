@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Televisión Española (TVE)",
+    "description": "Spanish state-owned public-service television broadcaster, the principal television company in Spain, operated by RTVE.",
+    "country": "ES",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "247453"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

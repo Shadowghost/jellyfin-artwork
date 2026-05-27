@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kanopy Streaming",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122373"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

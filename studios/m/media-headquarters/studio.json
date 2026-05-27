@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Media Headquarters",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33334",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tiyQG0K35qqL0ks1OY1iANMK3Oi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.mediahqs.ca",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

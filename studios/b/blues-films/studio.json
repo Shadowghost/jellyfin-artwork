@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Blues Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82411"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

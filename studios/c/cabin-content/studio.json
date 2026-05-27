@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CABIN content",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159060",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dfAjjFTWivsObGXfjX1X3FNTwyv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.cabincontent.com",
+    "headquarters": "Amsterdam, Netherlands",
+    "placeholder": true
+  }
+]

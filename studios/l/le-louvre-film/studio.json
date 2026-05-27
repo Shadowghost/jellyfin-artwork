@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Le Louvre Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13234"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

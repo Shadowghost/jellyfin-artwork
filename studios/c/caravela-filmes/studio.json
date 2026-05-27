@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Caravela Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115103",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nRBsT8JBwzY6wHF1wGm8OC3fRpl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.caravelafilmes.com.br",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "CJ Investment",
+    "description": "South Korean entertainment, film production/distribution and investment arm of CJ Group, distributor of Parasite and other Korean films.",
+    "country": "KR",
+    "type": "studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "946"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "CJ Entertainment (CJ Investment)"
+    ],
+    "template": true
+  }
+]

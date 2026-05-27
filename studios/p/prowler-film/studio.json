@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Prowler Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123091",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1YWbZdVv4dfY3OxK3ETBIJfHWF3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.prowlerfilm.com/",
+    "headquarters": "Toronto, ON",
+    "placeholder": true
+  }
+]

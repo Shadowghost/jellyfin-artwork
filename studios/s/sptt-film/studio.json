@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Spætt Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100110",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ykcbfopnhXBtsZyB3whvhN09odd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://spaett.no/",
+    "headquarters": "Trondheim",
+    "placeholder": true
+  }
+]

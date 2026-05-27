@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Myprofilart",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123719"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TEF-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142461"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Spider",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135569"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "First We Feast",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110542",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AwtRrQM6Fy6Ndg9DUlonbJU3bO3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://firstwefeast.com/",
+    "placeholder": true
+  }
+]

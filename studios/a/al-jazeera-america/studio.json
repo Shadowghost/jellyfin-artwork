@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Al Jazeera America",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110711",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dEh0vCTGp7y3oRmB2JDHxcDhxec.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "New York City",
+    "placeholder": true
+  }
+]

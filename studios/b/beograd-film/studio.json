@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Beograd Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28221"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "headquarters": "Beograd",
+    "placeholder": true
+  }
+]

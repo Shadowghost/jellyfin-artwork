@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Si Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202302",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bSufUrrFiQBn0TGHYamGARrxh68.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://sientertainment.ca/",
+    "headquarters": "Toronto, ON",
+    "placeholder": true
+  }
+]

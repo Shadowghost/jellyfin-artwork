@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Arzu Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4639",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e3WnGsYfpLOkz2OUZozoPIbcGjP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.arzufilm.com.tr",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

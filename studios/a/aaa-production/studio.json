@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AAA Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "468",
+        "logo_uri": "https://image.tmdb.org/t/p/original/42mtaDQPu1OTmfrvmwq6OsnHLPG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.aaaproduction.fr",
+    "headquarters": "Montreuil",
+    "placeholder": true
+  }
+]

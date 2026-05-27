@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Panenka",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73828",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oIqXzOqv1NEykkvxWid8wiBJxTA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.panenka.tv",
+    "headquarters": "Antwerpen",
+    "placeholder": true
+  }
+]

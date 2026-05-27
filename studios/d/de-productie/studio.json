@@ -1,0 +1,17 @@
+[
+  {
+    "name": "De Productie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34602",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w0tjrwPA1hYY2uJPmVTPvTz2hvJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://deproductie.nl/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

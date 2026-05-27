@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sintagma Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92318",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8hOvguWWZhadDcTr7uhHjHITM74.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.sintagmafilms.com/",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

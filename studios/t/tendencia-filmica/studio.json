@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tendencia Fílmica",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "259512"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

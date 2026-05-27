@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mr. Brown Entertainment",
+    "country": "DE",
+    "homepage": "http://www.mrbrownentertainment.com/",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

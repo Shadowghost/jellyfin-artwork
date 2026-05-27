@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Jovem Nerd",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "243370",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2V2WBtvVMjmETzRVueVyjg9FsRS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

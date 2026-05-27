@@ -1,0 +1,13 @@
+[
+  {
+    "name": "action jackson",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3122"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

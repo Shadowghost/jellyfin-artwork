@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Voyant Cinémathèque",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116954"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

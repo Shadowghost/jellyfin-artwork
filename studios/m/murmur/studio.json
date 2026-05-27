@@ -1,0 +1,17 @@
+[
+  {
+    "name": "murmur",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192350",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7En7WIQ19gnPrS8fE8k4xiBCyUD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://murmur-studio.com/en/",
+    "headquarters": "Chiyoda, Tokyo",
+    "placeholder": true
+  }
+]

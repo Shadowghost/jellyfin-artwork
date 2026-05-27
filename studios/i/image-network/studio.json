@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Image Network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85161"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

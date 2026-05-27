@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Telfrance",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23448",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rKUrVCN0CkbrsaX3iO6bdx1cHYJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.telfrance.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

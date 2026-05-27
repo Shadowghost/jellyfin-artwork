@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wayward Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "146337",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yrI4cq8QUeZi8gkq3w947oHPkhI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.wayward-films.com/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

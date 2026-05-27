@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Apelles Entertainment",
+    "country": "US",
+    "homepage": "http://apellesentertainment.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56242",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1YORRYmg7hgYIgoJek8jU3cykuQ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

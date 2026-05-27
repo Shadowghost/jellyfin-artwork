@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Shangri-La Entertainment",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2265",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Pt0geXD3kQs2H5WSTreYV8MzRe.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

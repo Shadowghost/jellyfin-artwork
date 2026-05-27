@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Movie Drum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230541"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "placeholder": true
+  }
+]

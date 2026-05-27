@@ -1,0 +1,13 @@
+[
+  {
+    "name": "one2films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193007"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

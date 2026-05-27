@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Artichoke",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115763",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g9jxB6NTRBi80IM1yb2lwNSMmeN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SK",
+    "homepage": "http://www.artichoke.sk/",
+    "headquarters": "Bratislava, Slovakia",
+    "placeholder": true
+  }
+]

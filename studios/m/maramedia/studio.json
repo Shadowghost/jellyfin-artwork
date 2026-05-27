@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Maramedia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81712",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uNAOCK8YlVxLlSrhLjTCT8C9vWc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.maramedia.co.uk/",
+    "headquarters": "Glasgow",
+    "placeholder": true
+  }
+]

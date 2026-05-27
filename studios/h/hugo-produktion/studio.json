@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hugo Produktion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "235020",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x0nQp4SdBqmU4wj7HSM302TYZBX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.hugoproduktion.se/",
+    "headquarters": "Skövde",
+    "placeholder": true
+  }
+]

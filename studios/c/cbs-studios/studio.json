@@ -1,0 +1,29 @@
+[
+  {
+    "name": "CBS Studios",
+    "country": "GB",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224196",
+        "logo_uri": "https://image.tmdb.org/t/p/original/19kn4jVvpc3sAL3YpZNb3elhSMl.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

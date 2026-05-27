@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Puerta Cinematográfica",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141832",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f0MSMdyRS8NFB8O61H9SHJIl6b9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://lapuertacine.com/en",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

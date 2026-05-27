@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Regione Toscana",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106170"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "InfoWars",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5601"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

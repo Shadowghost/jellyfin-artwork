@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Net Diffusion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "43395"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

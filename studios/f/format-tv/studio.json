@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Format TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104460",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iCTuwRWJYHmreIEAaYicHqEqEBN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://www.formattv.ru",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

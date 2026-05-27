@@ -1,0 +1,16 @@
+[
+  {
+    "name": "FUSEE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182961",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w35BK2FDEScihEtsBU56Te4mIkF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PH",
+    "homepage": "https://www.fusee.biz/",
+    "placeholder": true
+  }
+]

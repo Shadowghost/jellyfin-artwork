@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AP Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "281232"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MovieStar",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171672"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

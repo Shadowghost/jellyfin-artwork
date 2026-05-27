@@ -1,0 +1,13 @@
+[
+  {
+    "name": "KASSEN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220132"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

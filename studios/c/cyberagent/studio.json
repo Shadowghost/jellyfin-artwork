@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CyberAgent",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177220",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5yMptt5Q3VCIBcZvFDnbsPvfZYO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.cyberagent.co.jp/",
+    "headquarters": "Shibuya, Tokyo",
+    "placeholder": true
+  }
+]

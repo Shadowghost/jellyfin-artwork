@@ -1,0 +1,15 @@
+[
+  {
+    "name": "MacLotus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101650"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://maclotus.jp/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Starhaus Filmproduktion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10272",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hprRK7U6e14B5nbh1oU2lYb9emD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.starhaus.de",
+    "headquarters": "Munich, Bavaria",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "RCP Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176828"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

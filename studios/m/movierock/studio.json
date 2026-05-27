@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Movierock",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112531",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fMxP7x6wzoX31IlTRuMnJjIp8rM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "headquarters": "Seocho, Seoul, South Korea",
+    "placeholder": true
+  }
+]

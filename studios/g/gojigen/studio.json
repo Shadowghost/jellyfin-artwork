@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Gojigen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257845",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3OOm1aQgeBmJ77Pe2pywJwzE4jn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://go-jigen.com",
+    "placeholder": true
+  }
+]

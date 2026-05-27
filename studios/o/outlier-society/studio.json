@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Outlier Society",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102334",
+        "logo_uri": "https://image.tmdb.org/t/p/original/baWl2NMe4hiIsoJ94tv32uhYQ7z.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

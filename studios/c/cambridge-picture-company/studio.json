@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cambridge Picture Company",
+    "country": "GB",
+    "homepage": "https://cambridgepicture.com/",
+    "headquarters": "Cambridge, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122965"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

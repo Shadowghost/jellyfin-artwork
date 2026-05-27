@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Film en Stock",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11394"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://filmenstock.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

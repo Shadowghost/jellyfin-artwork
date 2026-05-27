@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BLMFILM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231892",
+        "logo_uri": "https://image.tmdb.org/t/p/original/biWUbUDM6ZXvEeX3trCLiJqk5Te.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.blm.film",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

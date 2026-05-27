@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RTP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8492",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wYhNCpXIThYDXevad6n90vsMXZ2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "https://www.rtp.pt",
+    "headquarters": "Lisbon",
+    "placeholder": true
+  }
+]

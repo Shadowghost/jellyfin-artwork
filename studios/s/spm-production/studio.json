@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SPM Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "259513"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

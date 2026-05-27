@@ -1,0 +1,13 @@
+[
+  {
+    "name": "GC Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "297839"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

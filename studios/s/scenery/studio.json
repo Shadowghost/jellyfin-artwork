@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Scenery",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183305"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.scenery.eu",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

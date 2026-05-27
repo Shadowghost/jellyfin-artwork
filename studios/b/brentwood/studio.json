@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Brentwood",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107957",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3DRcMuDcA0lEspcd0Em70FpwCMH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

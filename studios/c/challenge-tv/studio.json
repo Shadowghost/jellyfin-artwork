@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Challenge TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "59142",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uJDF9xPHliFgRFj58lVXE1DVgF9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

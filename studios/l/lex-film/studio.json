@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Lex-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224038"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

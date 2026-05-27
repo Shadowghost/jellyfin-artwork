@@ -1,0 +1,16 @@
+[
+  {
+    "name": "hololive production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155416",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zwvuAVAerog3AbqQoifmAaNvUSu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://en.hololive.tv/",
+    "placeholder": true
+  }
+]

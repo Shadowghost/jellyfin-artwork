@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ERT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7255",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aHu0SirjV9Mi0OrlnFWqZwy50wW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GR",
+    "homepage": "https://int.ert.gr",
+    "headquarters": "Athens",
+    "placeholder": true
+  }
+]

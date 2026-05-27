@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FilmOne",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124870"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Redux Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60280"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

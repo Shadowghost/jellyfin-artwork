@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Magol Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133064",
+        "logo_uri": "https://image.tmdb.org/t/p/original/370svOR6khpfgTjiMhEVSv3ejPb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://magolfilms.com/",
+    "headquarters": "Los Angeles",
+    "placeholder": true
+  }
+]

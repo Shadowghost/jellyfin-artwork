@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Travelscope",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180582"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

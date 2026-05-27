@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Gauchos del Mar",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96311",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q5ZACDAKMLJZSZ7uKtTQPRf98tO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://gauchosdelmar.com",
+    "placeholder": true
+  }
+]

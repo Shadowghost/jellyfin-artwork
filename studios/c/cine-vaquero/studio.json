@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Cine Vaquero",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142639",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x5laQgv6rzk5zrTYxDGQ4icFSb1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "placeholder": true
+  }
+]

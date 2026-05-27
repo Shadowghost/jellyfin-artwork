@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dartmouth Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101701",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uqlHSPjt2wdmDDwqd9l4jTdG779.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://dartmouthfilms.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

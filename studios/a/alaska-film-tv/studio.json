@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Alaska Film & TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150319",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g6riJgArt5TnPekyiiJWEL1UGUA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.alaskafilmtv.com/",
+    "placeholder": true
+  }
+]

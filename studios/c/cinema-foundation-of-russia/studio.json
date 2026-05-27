@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Cinema Foundation of Russia",
+    "description": "Russian government fund supporting domestic film production and distribution.",
+    "country": "RU",
+    "type": "government-agency",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76049",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tam9pIV4QK1ZPwdxBgtVkK1WTYC.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Cinema Foundation of the Russian Federation"
+    ],
+    "template": true,
+    "homepage": "http://www.fond-kino.ru/",
+    "headquarters": "Moscow"
+  }
+]

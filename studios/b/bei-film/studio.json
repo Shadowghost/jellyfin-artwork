@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bei Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101920"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

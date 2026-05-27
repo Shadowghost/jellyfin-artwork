@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Firecrest Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100101",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ykhXmD79qWLAbbqaJ1tuDcwwwt0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.firecrestfilms.com/",
+    "headquarters": "Glasgow, Scotland",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wild Canary",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91138",
+        "logo_uri": "https://image.tmdb.org/t/p/original/um4BQ5N9HK8QKZfNgKURH0uPr18.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.wildcanary.com",
+    "headquarters": "Burbank, California",
+    "placeholder": true
+  }
+]

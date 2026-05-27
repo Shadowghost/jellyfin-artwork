@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinemaroom",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138424"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

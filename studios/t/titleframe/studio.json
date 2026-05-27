@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TitleFrame",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280296"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

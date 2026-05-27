@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Plus Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107390",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1QXh9Ych967FsJ0BlP2XGaTbHJG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://pluspictures.dk",
+    "headquarters": "Copenhagen",
+    "placeholder": true
+  }
+]

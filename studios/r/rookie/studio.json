@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ROOKIE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12459",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n1JcMTpfswKTqQktjni8VmPgAz6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://rookie-av.jp",
+    "placeholder": true
+  }
+]

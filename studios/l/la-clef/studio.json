@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Clef",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217886",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bMbK80S7JAGFQftXZf6rWGqQKWG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.laclef.asso.fr/",
+    "headquarters": "La Clef, 46 Rue de Mareil, 78100 Saint-Germain-en-Laye, France",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "GhostsDontWalk",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187590"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

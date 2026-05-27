@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Walt Disney Japan",
+    "description": "Home entertainment and regional (Japan) distribution arms of The Walt Disney Company.",
+    "country": "JP",
+    "type": "distributor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272654"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "The Walt Disney Company (Japan / Home Entertainment)"
+    ],
+    "template": true
+  }
+]

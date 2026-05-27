@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Festival du Nouveau Cinéma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185945",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j9iomnWYHIDH9VKmDVNEmcLmQnG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

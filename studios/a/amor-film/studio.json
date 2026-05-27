@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Amor Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161633",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gxVicFy0pSelt3zmgSAr0kB9QlM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

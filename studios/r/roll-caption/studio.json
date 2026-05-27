@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Roll Caption",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "47200"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

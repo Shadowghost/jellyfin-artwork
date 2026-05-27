@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Terá Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184191",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4SVFkVQkeBaRFAoZR4p7OnDqZhD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://terafilmes.com.br/",
+    "headquarters": "Salvador, BA",
+    "placeholder": true
+  }
+]

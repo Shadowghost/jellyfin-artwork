@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NANO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169286",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lrPGkv4lOwf7dE78i26dN1ZSyUq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "headquarters": "Santiago",
+    "placeholder": true
+  }
+]

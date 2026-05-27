@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Intertel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12600"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kobunsha",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165495",
+        "logo_uri": "https://image.tmdb.org/t/p/original/it6ijCJRH8zDsd33WVAOBUOH1Nn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.kobunsha.com/",
+    "placeholder": true
+  }
+]

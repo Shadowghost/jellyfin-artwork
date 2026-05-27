@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Il Luster",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18889",
+        "logo_uri": "https://image.tmdb.org/t/p/original/30mRFDmJAdbOMCFhFGst9izWJhD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.illuster.nl",
+    "headquarters": "Utrecht",
+    "placeholder": true
+  }
+]

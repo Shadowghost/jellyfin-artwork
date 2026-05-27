@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Apple",
+    "country": "US",
+    "homepage": "https://www.apple.com",
+    "headquarters": "Cupertino, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14801",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bnlD5KJ5oSzBYbEpDkwi6w8SoBO.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

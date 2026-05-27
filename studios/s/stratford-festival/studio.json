@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Stratford Festival",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31092"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.stratfordfestival.ca/",
+    "headquarters": "Stratford, Ontario",
+    "placeholder": true
+  }
+]

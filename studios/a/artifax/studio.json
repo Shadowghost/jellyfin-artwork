@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Artifax",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38902"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

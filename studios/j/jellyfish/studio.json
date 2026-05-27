@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Jellyfish",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "251053",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qBNaqjL2P3jw5B6o6BEsaqkvBkF.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "http://www.jellyfish-pc.com/top/top.html"
+  }
+]

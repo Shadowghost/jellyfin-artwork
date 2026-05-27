@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Film Colony",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "560"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://filmcolony.com.tr",
+    "placeholder": true
+  }
+]

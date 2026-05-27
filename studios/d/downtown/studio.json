@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Downtown",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177544"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

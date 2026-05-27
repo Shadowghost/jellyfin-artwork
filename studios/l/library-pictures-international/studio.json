@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Library Pictures International",
+    "country": "US",
+    "homepage": "https://www.librarypictures.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171148",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ymWJNBYPkvrTust1FnkA2aWBI2T.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Interaction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "61525"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

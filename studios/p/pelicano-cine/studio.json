@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pelícano Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101372",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iYGZsUK55fRK54c1vQuHQYBq7KZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://pelicanocine.com/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

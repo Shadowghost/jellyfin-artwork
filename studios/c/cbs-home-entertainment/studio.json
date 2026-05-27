@@ -1,0 +1,27 @@
+[
+  {
+    "name": "CBS Home Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "293627",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hbPFa15qTiB9TBMElZr1wQ8jcZe.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

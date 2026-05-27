@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Goroka",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112541",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2QVrBoipUWR1FoGI83Flq2zyZ3J.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.goroka.tv/",
+    "headquarters": "Barcelona, Catalonia",
+    "placeholder": true
+  }
+]

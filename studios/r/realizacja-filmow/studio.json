@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Realizacja Filmów",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203340"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

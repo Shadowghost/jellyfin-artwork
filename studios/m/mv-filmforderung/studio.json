@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MV Filmförderung",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242064"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

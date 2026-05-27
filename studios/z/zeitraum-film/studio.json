@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Zeitraum Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99976"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://zeitraumfilm.ch/",
+    "placeholder": true
+  }
+]

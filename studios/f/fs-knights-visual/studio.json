@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FS.Knights Visual",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113107",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uLWZlNCIE4V0ZdLma8TBoDRmb62.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.knights-visual.com/",
+    "headquarters": "Sumida, Tokyo, Japan",
+    "placeholder": true
+  }
+]

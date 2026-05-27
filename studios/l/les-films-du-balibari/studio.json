@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films du Balibari",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20618",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yGDXyW0kQUMpraYo3f1egJSkxh4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.balibari.com",
+    "headquarters": "Nantes",
+    "placeholder": true
+  }
+]

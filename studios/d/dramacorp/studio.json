@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dramacorp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142125",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kCBgoo2LFsiQ8oVfm8qdoy6HidO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://dramacorp.se/",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

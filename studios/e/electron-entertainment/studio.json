@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Electron Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256505"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

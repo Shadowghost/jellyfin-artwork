@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Flourishing Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91024",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AdPCopNoB8wZlwR3AD4tN1Z8AdU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.flourishingfilms.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

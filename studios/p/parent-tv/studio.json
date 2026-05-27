@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Parent TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257422"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Libra Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11191",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jX214F9ausJmTAqVtv4L7WQ6rHR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "homepage": "https://librafilm.net",
+    "headquarters": "Bucharest, Romania",
+    "placeholder": true
+  }
+]

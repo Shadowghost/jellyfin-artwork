@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Studios USA",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56401"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

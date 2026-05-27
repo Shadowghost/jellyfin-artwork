@@ -1,0 +1,15 @@
+[
+  {
+    "name": "CreatorVC",
+    "country": "US",
+    "homepage": "http://www.creatorvc.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135251"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Divarte cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221883"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

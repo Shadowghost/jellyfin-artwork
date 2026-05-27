@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Choco Alien",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239574",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fJsDIEgWdvcIYrYsTtAfCuKSX58.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "headquarters": "Buenos Aires Capital federal",
+    "placeholder": true
+  }
+]

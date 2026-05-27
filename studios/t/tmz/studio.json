@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TMZ",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189031",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e0mVW7GtE0lZICeFFIa4409bgX0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.tmz.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

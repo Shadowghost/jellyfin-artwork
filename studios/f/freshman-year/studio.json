@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Freshman Year",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252366",
+        "logo_uri": "https://image.tmdb.org/t/p/original/DwpaN189I3OYb0u2HKZUDe7xox.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

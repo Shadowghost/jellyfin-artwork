@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nashprod Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28803"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

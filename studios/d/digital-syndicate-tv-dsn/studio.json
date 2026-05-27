@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Digital Syndicate TV (DSN)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "228575",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aJuAbC5x2keAnq9TqmejBPpRTwh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.digitalsyndicate.tv",
+    "headquarters": "Sedona, AZ",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Georgian National Film Center",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126903",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uIVI9tWjLOrktEEGxK6eI90g7wP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GE",
+    "homepage": "https://www.gnfc.ge/",
+    "headquarters": "Tbilisi",
+    "placeholder": true
+  }
+]

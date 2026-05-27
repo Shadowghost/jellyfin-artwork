@@ -1,0 +1,17 @@
+[
+  {
+    "name": "West Eagle",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48945",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cPernzx0AG8yFEHeuRi0B90Tz1F.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.westeaglefilms.com",
+    "headquarters": "Salt Spring Island, British Columbia",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "FilmTeknik",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "headquarters": "Solna, Sweden",
+    "placeholder": true
+  }
+]

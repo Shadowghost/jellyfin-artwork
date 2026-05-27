@@ -1,0 +1,13 @@
+[
+  {
+    "name": "First Choice",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55122"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

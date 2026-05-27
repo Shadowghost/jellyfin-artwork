@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MO Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270466"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

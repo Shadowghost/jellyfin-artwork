@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Noodles Production",
+    "country": "FR",
+    "homepage": "http://www.noodlesproduction.com",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7792",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ik1JWvnBmVY6Rrw8iQWB2cPuuf.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FilmAble",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42305"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

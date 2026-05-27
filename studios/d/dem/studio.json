@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DEM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35034"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

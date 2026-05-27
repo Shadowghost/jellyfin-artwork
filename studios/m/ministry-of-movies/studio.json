@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ministry of Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91987"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movies Event",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "237681"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

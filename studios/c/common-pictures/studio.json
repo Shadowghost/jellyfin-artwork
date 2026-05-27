@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Common Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199569",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wR1ZvnZH2iedpRA7OKfRUYLYf5e.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.commonpictures.org/",
+    "placeholder": true
+  }
+]

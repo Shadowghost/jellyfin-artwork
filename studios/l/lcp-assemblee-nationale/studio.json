@@ -1,0 +1,17 @@
+[
+  {
+    "name": "LCP - Assemblée nationale",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127436",
+        "logo_uri": "https://image.tmdb.org/t/p/original/85hn0WZVj2wpm7scTkrQz76lKJ7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.lcp.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

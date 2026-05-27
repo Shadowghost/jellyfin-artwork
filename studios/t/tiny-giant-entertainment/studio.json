@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tiny Giant Entertainment",
+    "country": "US",
+    "homepage": "https://tinygiant.tv/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53155",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eQFk6bF8ZclIEhlmTomFsIWKdjH.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Arttrace",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163291"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "placeholder": true
+  }
+]

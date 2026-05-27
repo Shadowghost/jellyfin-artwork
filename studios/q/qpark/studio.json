@@ -1,0 +1,13 @@
+[
+  {
+    "name": "QPark",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105430"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

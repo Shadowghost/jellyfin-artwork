@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Burton Snowboards",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4931",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hmJLws39uLGtI8uX9yitDMMD0oq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.burton.com/",
+    "headquarters": "Burlington, VT",
+    "placeholder": true
+  }
+]

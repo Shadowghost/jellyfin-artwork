@@ -1,0 +1,14 @@
+[
+  {
+    "name": "MBC Anime",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210513",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gwFdE8xOzOK9TSqQjWSoFPIcKFw.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

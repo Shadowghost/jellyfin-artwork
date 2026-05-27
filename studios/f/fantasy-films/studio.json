@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Fantasy Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "286"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

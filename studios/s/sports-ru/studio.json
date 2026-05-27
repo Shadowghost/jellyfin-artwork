@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sports.ru",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173342",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eoYtx1iNW3hTRRSJ8FR61pC99RJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://www.sports.ru/",
+    "placeholder": true
+  }
+]

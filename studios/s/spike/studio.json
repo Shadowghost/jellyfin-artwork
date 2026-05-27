@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Spike",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177186"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

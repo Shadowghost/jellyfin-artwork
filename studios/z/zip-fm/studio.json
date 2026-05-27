@@ -1,0 +1,15 @@
+[
+  {
+    "name": "ZIP-FM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275461"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://zip-fm.co.jp/",
+    "placeholder": true
+  }
+]

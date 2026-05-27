@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Téléfiction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35375",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vlhZZDnv7C4I0TbdfWCVB0DUr5j.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.telefiction.com/en/",
+    "placeholder": true
+  }
+]

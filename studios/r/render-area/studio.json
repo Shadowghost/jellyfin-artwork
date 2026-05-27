@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Render Area",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255061"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

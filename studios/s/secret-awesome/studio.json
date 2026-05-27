@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Secret Awesome",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147694"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

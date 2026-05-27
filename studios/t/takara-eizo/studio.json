@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Takara Eizo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182819",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wUXcBRlbFcizHT3ZenzDILw4nWM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://takara-tv.jp",
+    "headquarters": "〒112-0005 東京都文京区水道2-1-21",
+    "placeholder": true
+  }
+]

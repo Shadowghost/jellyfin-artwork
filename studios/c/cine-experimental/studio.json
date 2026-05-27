@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine experimental",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33264"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

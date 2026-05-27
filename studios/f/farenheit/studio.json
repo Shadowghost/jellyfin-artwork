@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Farenheit",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62087"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

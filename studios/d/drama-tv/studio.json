@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Drama TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290724",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AlQ78puQBzRSdaHXTdiW7s8mcQa.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Grupo Televisa",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58400",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xWmIOQcttXt9SxovYXWRU1EcEYW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "http://televisa.com/",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

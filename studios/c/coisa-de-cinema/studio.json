@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Coisa de Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109290"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://coisadecinema.com.br/",
+    "headquarters": "Salvador, Bahia, Brazil",
+    "placeholder": true
+  }
+]

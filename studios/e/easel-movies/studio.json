@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Easel Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149618"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

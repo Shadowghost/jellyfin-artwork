@@ -1,0 +1,13 @@
+[
+  {
+    "name": "edg@rvideo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91288"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

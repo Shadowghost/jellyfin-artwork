@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Red barnet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20632"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

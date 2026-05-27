@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Velvet Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1793",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4Di06ZidIRHgw7bkddnIWEuxxXl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.velvet-film.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

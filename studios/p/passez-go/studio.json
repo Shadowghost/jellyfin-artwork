@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Passez Go",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79544",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eTkjmoYwvuy01D6kxuQlCmu5cki.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.passezgo.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Goose Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126481"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

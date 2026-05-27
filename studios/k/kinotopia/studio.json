@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kinotopia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "146196",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iPwKYjXJgEgZ9KlPJwHI4zq2la5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "homepage": "https://kinotopia.ro/",
+    "headquarters": "Bucharest",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Good Humor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "268064",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oUyUnwP2BXqGJShsAnuOd4ESYOY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://goodhumor.de/",
+    "headquarters": "Cologne",
+    "placeholder": true
+  }
+]

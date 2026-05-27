@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Nebula",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264682",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iuXZ0izhpIaKaGShu2Ay4zlkQr4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://nebula.tv/",
+    "placeholder": true
+  }
+]

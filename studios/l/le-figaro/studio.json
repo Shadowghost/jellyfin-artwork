@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Le Figaro",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139874"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

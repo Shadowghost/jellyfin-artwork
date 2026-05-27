@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Find Mix Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "243620"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

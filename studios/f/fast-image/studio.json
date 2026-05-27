@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fast Image",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155404"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

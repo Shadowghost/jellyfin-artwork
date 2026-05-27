@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Monkey Wrench Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257528",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n9fu2aUg7QJSfghpHct8biFok0Q.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.monkeywrenchfilms.com/",
+    "headquarters": "Denver, Colorado",
+    "placeholder": true
+  }
+]

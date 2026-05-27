@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cornershop Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252196",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pNkSXUHgtCl3vfz5uXA6H2YTyy0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.cornershopfilm.com",
+    "headquarters": "Hamburg, Berlin",
+    "placeholder": true
+  }
+]

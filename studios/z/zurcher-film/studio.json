@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zürcher Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162851",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ce2TreMbZZR2XHb7L3MVNXfRWx3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://zuercher-film.com/",
+    "headquarters": "Aarberg, Bern",
+    "placeholder": true
+  }
+]

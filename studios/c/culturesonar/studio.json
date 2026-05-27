@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CultureSonar",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114367"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

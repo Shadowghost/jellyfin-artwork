@@ -1,0 +1,13 @@
+[
+  {
+    "name": "comapeliculas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283293"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

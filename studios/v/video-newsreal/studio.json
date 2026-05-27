@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Video NewsReal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209237"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

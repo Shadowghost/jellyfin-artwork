@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Les Films du Nopal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262653"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

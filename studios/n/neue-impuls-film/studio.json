@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Neue Impuls Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79929",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mKRlYiUgW8SH8chgnQdEajbu3y1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.neueimpuls.de",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

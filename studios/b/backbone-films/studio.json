@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Backbone Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141447"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

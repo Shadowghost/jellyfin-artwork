@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Polygon Pictures",
+    "country": "JP",
+    "homepage": "https://www.ppi.co.jp",
+    "headquarters": "Minato, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20024",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fLc5F7K5zsXsSNSFFsbKrZXAga7.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

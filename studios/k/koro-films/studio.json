@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Koro Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126410",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gzT2knwUKwWgVsxA4QvYghkmGCr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.koro-films.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

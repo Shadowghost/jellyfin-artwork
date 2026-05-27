@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Apollos Stage",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "190401"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

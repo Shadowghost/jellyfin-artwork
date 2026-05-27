@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Moviecam",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83398"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

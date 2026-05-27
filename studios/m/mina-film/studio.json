@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mina-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72182"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

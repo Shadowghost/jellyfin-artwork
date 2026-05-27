@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Atelier Graphoui",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139172",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xCpC0XD53yvgLeTsSMCK781TERx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://graphoui.org/",
+    "headquarters": "City of Brussels",
+    "placeholder": true
+  }
+]

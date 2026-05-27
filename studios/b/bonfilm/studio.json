@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bonfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93204"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

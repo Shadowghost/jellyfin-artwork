@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Reset",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "243103"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

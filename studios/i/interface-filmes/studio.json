@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Interface Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90716"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.interfacefilmes.com.br/",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

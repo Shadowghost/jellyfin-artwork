@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Trecevision (GTM)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216942"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

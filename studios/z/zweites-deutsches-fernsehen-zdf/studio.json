@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zweites Deutsches Fernsehen (ZDF)",
+    "country": "DE",
+    "homepage": "https://www.zdf.de",
+    "headquarters": "Mainz, Rhineland-Palatinate",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4606",
+        "logo_uri": "https://image.tmdb.org/t/p/original/otZHbf1HmzLRQsZFSqJXkf8EHz7.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

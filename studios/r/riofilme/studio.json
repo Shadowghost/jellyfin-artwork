@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RioFilme",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40994",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kyl2LrS9dGnBcJRLx6ST2Qsaxan.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://riofilme.com.br/",
+    "headquarters": "Rio de Janeiro RJ",
+    "placeholder": true
+  }
+]

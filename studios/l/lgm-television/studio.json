@@ -1,0 +1,16 @@
+[
+  {
+    "name": "LGM Télévision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111323",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a4SDHdD2PRGnidtM4sd2WDcT7ES.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

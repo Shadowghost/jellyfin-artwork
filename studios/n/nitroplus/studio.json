@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Nitroplus",
+    "country": "JP",
+    "homepage": "https://www.nitroplus.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22600",
+        "logo_uri": "https://image.tmdb.org/t/p/original/13FsFa7wcjR3mj9zaGSSws4OyOA.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

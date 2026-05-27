@@ -1,0 +1,16 @@
+[
+  {
+    "name": "French Polar Institute",
+    "country": "FR",
+    "homepage": "https://institut-polaire.fr/en/",
+    "headquarters": "Plouzané",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "266220"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Schweizer Fernsehen (FS)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34444"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "placeholder": true
+  }
+]

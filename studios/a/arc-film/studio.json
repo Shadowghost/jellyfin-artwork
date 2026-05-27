@@ -1,0 +1,15 @@
+[
+  {
+    "name": "ARC Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154256",
+        "logo_uri": "https://image.tmdb.org/t/p/original/37Gkhb32HY4mxzDILKlPiJgdH1p.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

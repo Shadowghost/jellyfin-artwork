@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Television New Zealand",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1254",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yaecijXtiF2mKiDoxDBOVffJmOC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NZ",
+    "placeholder": true
+  }
+]

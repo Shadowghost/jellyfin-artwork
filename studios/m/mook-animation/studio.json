@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mook animation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93612"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

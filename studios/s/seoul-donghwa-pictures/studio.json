@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Seoul Donghwa Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224374",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xfX19s3iTk4p7LkH41QqCGXSQIW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.seoulpictures.com",
+    "placeholder": true
+  }
+]

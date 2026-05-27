@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TIK Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86900"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

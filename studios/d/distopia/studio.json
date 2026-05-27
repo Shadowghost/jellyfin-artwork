@@ -1,0 +1,13 @@
+[
+  {
+    "name": "distopia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169087"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

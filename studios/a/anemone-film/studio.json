@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Anemone Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148101",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ssz5NgmaRJrMofSa1lFU48oHrFn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.anemonefilm.it",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

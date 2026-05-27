@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lança Filmes do Brasil",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "57414"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.lancafilmes.com.br/",
+    "headquarters": "Porto Alegre RS",
+    "placeholder": true
+  }
+]

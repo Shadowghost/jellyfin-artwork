@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Orbis Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218458",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9fYzrepeaQNul8verzmoJVBgDcw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.orbispictures.cz/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

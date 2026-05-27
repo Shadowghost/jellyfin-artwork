@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zentralfilm Filmproduktion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "293523",
+        "logo_uri": "https://image.tmdb.org/t/p/original/whqmlp8tugSQRNnZBuPrbz9hArv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://zentralfilm.de",
+    "headquarters": "Hanover",
+    "placeholder": true
+  }
+]

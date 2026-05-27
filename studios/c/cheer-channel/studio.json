@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cheer Channel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "287668"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

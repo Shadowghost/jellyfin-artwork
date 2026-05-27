@@ -1,0 +1,13 @@
+[
+  {
+    "name": "METAMOND",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113001"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Yoki",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124854"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

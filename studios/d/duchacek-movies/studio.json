@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ducháček Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185914"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.duchacek.com",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

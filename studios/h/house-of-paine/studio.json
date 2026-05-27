@@ -1,0 +1,17 @@
+[
+  {
+    "name": "House of Paine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221550",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eWT6dVDu9EgaWY00LcNG5I5mZUk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.houseofpaine.tv/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

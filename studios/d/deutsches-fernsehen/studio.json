@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Deutsches Fernsehen",
+    "description": "Historical name of the German public broadcasting service (Deutsches Fernsehen), now Das Erste under ARD.",
+    "country": "DE",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191501"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

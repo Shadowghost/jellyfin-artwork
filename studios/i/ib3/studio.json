@@ -1,0 +1,17 @@
+[
+  {
+    "name": "IB3",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10082",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5uuVgeIRIu1UBWdFeBxf8iJyaBm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://ib3.org",
+    "headquarters": "Palma de Mallorca, Balearic Islands",
+    "placeholder": true
+  }
+]

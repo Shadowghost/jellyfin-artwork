@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Balaka Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95081"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

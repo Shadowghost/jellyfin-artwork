@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Keystone Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225336"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

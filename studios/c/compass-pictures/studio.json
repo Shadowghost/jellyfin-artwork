@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Compass Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205903"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Miss Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258342"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

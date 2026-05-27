@@ -1,0 +1,16 @@
+[
+  {
+    "name": "DMM GAMES",
+    "country": "JP",
+    "homepage": "https://games.dmm.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191762",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cXbtF2d3MLYSaCbmvwbeGLA3jps.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

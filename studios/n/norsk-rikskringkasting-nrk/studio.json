@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Norsk Rikskringkasting (NRK)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150155"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "placeholder": true
+  }
+]

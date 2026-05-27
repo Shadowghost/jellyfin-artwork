@@ -1,0 +1,16 @@
+[
+  {
+    "name": "KONAMI animation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220408",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qFsAtRzNrwj6aIvf2oGjz8zC7yE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://animation.konami.net",
+    "placeholder": true
+  }
+]

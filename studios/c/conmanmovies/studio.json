@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ConManMovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270666"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

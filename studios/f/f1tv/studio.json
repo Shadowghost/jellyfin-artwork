@@ -1,0 +1,15 @@
+[
+  {
+    "name": "F1TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116212",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h1lYSgiOLbbXtasttCt4Ibqfmcz.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://f1tv.formula1.com/"
+  }
+]

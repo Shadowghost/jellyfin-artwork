@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Varuna Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "276557"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

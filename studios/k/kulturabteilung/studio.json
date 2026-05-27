@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kulturabteilung",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70041"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

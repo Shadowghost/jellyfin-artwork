@@ -1,0 +1,14 @@
+[
+  {
+    "name": "KiwiFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202789"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

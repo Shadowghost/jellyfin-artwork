@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Continental Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13705",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lABmtquhSclb69PbWiXpJIIsKSX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

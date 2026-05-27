@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TeleMadrid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10015"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.telemadrid.es",
+    "headquarters": "Pozuelo de Alarcón",
+    "placeholder": true
+  }
+]

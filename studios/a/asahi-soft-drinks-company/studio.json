@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Asahi Soft Drinks Company",
+    "description": "Japanese soft drink manufacturer and subsidiary of Asahi Group Holdings; appears as a media sponsor/producer for Japanese anime and TV content.",
+    "country": "JP",
+    "type": "other",
+    "colors": [
+      {
+        "name": "Asahi Red",
+        "hex": "#E60012"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34558"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Asahi Soft Drinks Co., Ltd."
+    ],
+    "template": true
+  }
+]

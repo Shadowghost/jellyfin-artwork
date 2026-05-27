@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Soft Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168316"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

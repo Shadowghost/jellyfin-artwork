@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Triton",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1459"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

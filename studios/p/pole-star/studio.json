@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pole Star",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "195"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

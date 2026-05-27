@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Chugoku Broadcasting",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8156",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hFypS9cBQlk5Ymt6yxvMEk52zrZ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

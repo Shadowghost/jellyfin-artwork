@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sekvenca",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84667",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oZwqAHbAlL45mPJd13tYsAnX4MV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HR",
+    "homepage": "https://sekvenca.hr/",
+    "headquarters": "Zagreb",
+    "placeholder": true
+  }
+]

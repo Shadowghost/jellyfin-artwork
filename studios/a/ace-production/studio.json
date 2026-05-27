@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ace Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250900",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yn5JcqtO9brnqunorIIrexItbfB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.ace-pro.biz/",
+    "placeholder": true
+  }
+]

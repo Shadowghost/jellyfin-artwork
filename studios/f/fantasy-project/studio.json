@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Fantasy Project",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "297012",
+        "logo_uri": "https://image.tmdb.org/t/p/original/74auwjbsfiLpkxr29GKjusBUDk4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

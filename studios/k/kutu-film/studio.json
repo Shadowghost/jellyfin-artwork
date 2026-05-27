@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kutu Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141448",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ibrQIeUedK0pBnkxJH2SU7O9zVv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

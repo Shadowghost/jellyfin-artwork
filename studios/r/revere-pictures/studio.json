@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Revere Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1043"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Opal Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "268980"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

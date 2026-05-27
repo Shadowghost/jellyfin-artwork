@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Mediapro Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127522",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bEeTzk7aLDNHWW2L0L0yRbFegGA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.themediaprostudio.com/en/",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

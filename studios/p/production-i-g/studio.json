@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Production I.G",
+    "description": "Japanese anime and game studio founded by Mitsuhisa Ishikawa and Takayuki Goto in 1987 (originally as I.G Tatsunoko); known for Ghost in the Shell, Patlabor, Psycho-Pass, and Haikyu!!",
+    "country": "JP",
+    "type": "production-company",
+    "homepage": "http://www.productionig.com",
+    "headquarters": "Musashino, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "529",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rwB6w2aPENQbx756pBWSw44Ouk.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "LAZYDOG Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225250"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Out Of The Box Feature",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33802"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

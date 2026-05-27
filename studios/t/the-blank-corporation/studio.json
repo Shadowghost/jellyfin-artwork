@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Blank Corporation",
+    "country": "US",
+    "homepage": "https://blankcorporation.com",
+    "headquarters": "Los Angeles, California, USA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90828"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

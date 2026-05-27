@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hot Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209251"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

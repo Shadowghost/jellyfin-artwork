@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Talía Films",
+    "country": "ES",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "428"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

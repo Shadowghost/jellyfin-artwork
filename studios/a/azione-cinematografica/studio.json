@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Azione cinematografica",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170478"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

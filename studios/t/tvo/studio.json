@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TVO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75168",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7QhlWdkgNchV1XK194QTbFNGy6v.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.tvo.org",
+    "headquarters": "Toronto",
+    "placeholder": true
+  }
+]

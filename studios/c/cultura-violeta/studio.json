@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cultura Violeta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154787",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q0HLyPJUADoDbSBJS8LFcM5Xusr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "https://www.culturavioleta.cl",
+    "headquarters": "Cerro Navia, Santiago",
+    "placeholder": true
+  }
+]

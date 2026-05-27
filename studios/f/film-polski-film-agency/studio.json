@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Film Polski Film Agency",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

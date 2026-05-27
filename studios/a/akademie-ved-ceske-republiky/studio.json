@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Akademie věd České republiky",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124366",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sk5u5r2hONegIyQCXuVRs9lOygZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.avcr.cz/en/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

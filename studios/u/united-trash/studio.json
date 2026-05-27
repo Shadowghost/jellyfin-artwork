@@ -1,0 +1,15 @@
+[
+  {
+    "name": "United Trash",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "278480",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aXcQJd5sklWHZMpCJbRp4R00AEK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

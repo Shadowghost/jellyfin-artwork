@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Seppia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16266",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4BqNNUJgq1wojHPDgL90oL4LW58.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://seppia.eu/",
+    "headquarters": "Strasbourg",
+    "placeholder": true
+  }
+]

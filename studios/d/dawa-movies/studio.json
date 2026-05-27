@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DaWa Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24002"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

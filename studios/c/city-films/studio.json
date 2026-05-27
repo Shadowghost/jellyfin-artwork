@@ -1,0 +1,14 @@
+[
+  {
+    "name": "City Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10720"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

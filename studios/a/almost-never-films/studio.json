@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Almost Never Films",
+    "country": "US",
+    "homepage": "http://almostneverfilms.com",
+    "headquarters": "West Hollywood, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111475",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vNz6AhnDHvpiSHSc3OzHyDawr0Z.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

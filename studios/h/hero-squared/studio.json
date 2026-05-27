@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hero Squared",
+    "country": "HU",
+    "homepage": "https://herosquared.com/",
+    "headquarters": "Budapest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119153",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4QVWLiNT8svS71FU2qsRErGeIar.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

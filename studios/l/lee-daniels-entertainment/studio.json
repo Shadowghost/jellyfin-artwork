@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lee Daniels Entertainment",
+    "country": "US",
+    "homepage": "https://www.leedanielsentertainment.com",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "695",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rxXG5CZjBGFbJt9tYgrySrkJCTF.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

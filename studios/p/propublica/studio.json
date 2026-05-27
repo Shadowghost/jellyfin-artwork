@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ProPublica",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165483",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wtUa7kooNZhb9N9iH5Y9YoIWTZ4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.propublica.org/",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

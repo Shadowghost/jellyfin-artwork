@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Brainwave",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80121"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

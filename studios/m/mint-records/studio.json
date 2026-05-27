@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mint Records",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138251",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1fwW1pKooRb0CXyYH4S2RXfHcWY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.mintrecs.com/",
+    "headquarters": "Vancouver, British Columbia, Canada",
+    "placeholder": true
+  }
+]

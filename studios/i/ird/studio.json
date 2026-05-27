@@ -1,0 +1,17 @@
+[
+  {
+    "name": "IRD",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119895",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u83ti3fxF9v04YXqk8CWxNX8dXl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://en.ird.fr",
+    "headquarters": "Marseille",
+    "placeholder": true
+  }
+]

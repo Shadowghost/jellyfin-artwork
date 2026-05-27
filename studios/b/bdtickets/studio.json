@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bdtickets",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "253894",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3JKVX9bmYR2gPUb8BvTpPzMgSkD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BD",
+    "homepage": "https://bdtickets.com/",
+    "placeholder": true
+  }
+]

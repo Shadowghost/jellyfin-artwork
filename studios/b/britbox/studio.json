@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BritBox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159102",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8ciZlkg1rDktdwQ282H419zUJtT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://britbox.com",
+    "placeholder": true
+  }
+]

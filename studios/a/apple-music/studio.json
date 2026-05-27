@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Apple Music",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "276239",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hvgCGo8w2nSF0HYWIdDPDfPB2w7.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "US",
+    "template": true
+  }
+]

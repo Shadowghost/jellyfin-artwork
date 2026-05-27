@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Moviecoop",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89456"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

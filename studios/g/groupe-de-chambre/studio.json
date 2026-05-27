@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Groupe de Chambre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91065"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

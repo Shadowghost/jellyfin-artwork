@@ -1,0 +1,16 @@
+[
+  {
+    "name": "AMVC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197756",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n7Qkk5iB1rUkueHfRpc0jxa7oDN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://amvc.com",
+    "placeholder": true
+  }
+]

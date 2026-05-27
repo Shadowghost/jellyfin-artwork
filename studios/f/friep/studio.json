@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FRIEP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201009"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

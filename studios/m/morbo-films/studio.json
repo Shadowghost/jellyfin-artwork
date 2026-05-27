@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Morbo Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80926",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3PINy33SlicKe98RL4dV7WgEDPl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://www.thisismorbo.com/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

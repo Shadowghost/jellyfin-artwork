@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hot Water",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176238"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

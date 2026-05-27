@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Nero-Film AG",
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "43854",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tMo26bTTY0f4mMPIvFnyydrDm7V.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

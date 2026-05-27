@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Red Light Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135325"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "PorteFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180942"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

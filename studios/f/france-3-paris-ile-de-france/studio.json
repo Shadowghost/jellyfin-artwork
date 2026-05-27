@@ -1,0 +1,17 @@
+[
+  {
+    "name": "France 3 Paris Ile-de-France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130601",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dWQATUR0vt14GTVhhv6al19hgRb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.france.tv/france-3/paris-ile-de-france/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

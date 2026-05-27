@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zoofilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5549",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7Edmsp2vILpKClyb2s12T0edrb2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.zoofilms.ca",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

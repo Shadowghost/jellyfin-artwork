@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Label Bleu Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209062"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

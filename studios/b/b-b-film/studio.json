@@ -1,0 +1,17 @@
+[
+  {
+    "name": "B&B Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100826",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oZQTQm4CApzR2R6Afzh7YlxgEqz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.bbfilm.tv",
+    "headquarters": "Roma",
+    "placeholder": true
+  }
+]

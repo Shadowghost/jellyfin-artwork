@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Silver Nitrate",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2262"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

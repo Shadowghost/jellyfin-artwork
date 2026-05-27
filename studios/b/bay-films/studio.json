@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bay Films",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6734",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u55FhlG6vFNzSVKLcmnFFwLb2cc.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

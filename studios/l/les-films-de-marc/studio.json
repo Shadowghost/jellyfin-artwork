@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films de Marc",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120062"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Stanford Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "284836"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

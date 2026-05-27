@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jabadoo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141506",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6Oc6CMOTAng83Dijmp4FQuTbcLj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://jabadoo.com",
+    "headquarters": "Hilversum",
+    "placeholder": true
+  }
+]

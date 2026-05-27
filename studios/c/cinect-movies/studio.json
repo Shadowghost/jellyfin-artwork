@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinect Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212688"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Simple Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123315"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

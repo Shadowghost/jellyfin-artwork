@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Chugai Mining",
+    "description": "Japanese mining company occasionally credited as a film production committee member in Japanese cinema/anime.",
+    "country": "JP",
+    "type": "other",
+    "homepage": "https://www.chugaikogyo.co.jp/eng/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192411"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Miranda Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88703"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

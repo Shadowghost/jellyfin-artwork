@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ruta del vino producciones",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280172"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

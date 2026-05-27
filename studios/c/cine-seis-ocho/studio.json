@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cine Seis Ocho",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52070",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7fKOckIiy37RsgUwRsraWAFLXak.png"
+      }
+    ],
+    "artwork": {},
+    "country": "VE",
+    "headquarters": "Caracas",
+    "placeholder": true
+  }
+]

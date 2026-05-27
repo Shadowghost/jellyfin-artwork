@@ -1,0 +1,13 @@
+[
+  {
+    "name": "RH PROD",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101746"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

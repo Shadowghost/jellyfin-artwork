@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Plano a Plano",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52275",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rsPExd8TSTfc20ysfw2AFvIcvuK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://planoaplano.es/",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

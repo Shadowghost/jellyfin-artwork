@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmbank Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "235543",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dWvZ97znngb4LXCRQbTsE1gYP9f.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.filmbank.com/",
+    "headquarters": "New York City",
+    "placeholder": true
+  }
+]

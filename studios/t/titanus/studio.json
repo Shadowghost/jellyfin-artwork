@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Titanus",
+    "country": "IT",
+    "homepage": "http://www.titanus.it/eng/index.php",
+    "headquarters": "Rome",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "641",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w8flpSJntsxVCMkIU1qeg1kJcJh.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

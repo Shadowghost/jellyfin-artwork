@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AGTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111086",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2QbvDVzgwOLSKMXqqIi8b5hEhhe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "https://agtv.cl",
+    "headquarters": "Independencia, Santiago",
+    "placeholder": true
+  }
+]

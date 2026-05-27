@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Show Shop",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85460",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1PIziPJ9i8yS5CrnjUsCturIf62.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://showshoptv.com/",
+    "placeholder": true
+  }
+]

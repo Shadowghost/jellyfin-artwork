@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fox International Productions",
+    "country": "US",
+    "homepage": "http://www.foxinternational.com/",
+    "headquarters": "Los Angeles, California, United States",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7485",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vpOrqLxZ6JkrCFdi3ZUWhHKmDEM.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

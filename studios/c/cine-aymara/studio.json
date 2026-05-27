@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cine Aymara",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165965",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rZQhRLmvjXBTmYy6MJ6jzIDizdd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PE",
+    "homepage": "http://www.cineaymara.com/",
+    "headquarters": "Puno",
+    "placeholder": true
+  }
+]

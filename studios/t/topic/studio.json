@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Topic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107663"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://topic.com",
+    "headquarters": "New York City",
+    "placeholder": true
+  }
+]

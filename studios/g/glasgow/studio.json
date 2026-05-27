@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Glasgow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204552"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "headquarters": "Glasgow",
+    "placeholder": true
+  }
+]

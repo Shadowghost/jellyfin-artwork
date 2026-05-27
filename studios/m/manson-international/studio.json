@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Manson International",
+    "country": "US",
+    "headquarters": "Los Angeles, California, United States",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20479",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qXRIhohcMoCj4PhFCn1trRBVKye.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

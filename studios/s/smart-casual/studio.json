@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Smart Casual",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221556",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hzs4WqAcxZNVWRQQgcAqxR3CuXq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LT",
+    "homepage": "https://www.smartcasual.lt/",
+    "headquarters": "Vilnius",
+    "placeholder": true
+  }
+]

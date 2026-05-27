@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tiki Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167784",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qYIYGXFSfCJBZyYVsFJizmQ07Eu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://www.tikimedia.dk",
+    "placeholder": true
+  }
+]

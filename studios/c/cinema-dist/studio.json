@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinema Dist",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135673"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

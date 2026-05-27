@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Constantin Television",
+    "country": "DE",
+    "homepage": "https://www.constantin-film.de/unternehmen/constantin-television/",
+    "headquarters": "Munich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114791",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jeTQ9G3haIbLn8Shrc9OxPafST6.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

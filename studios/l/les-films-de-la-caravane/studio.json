@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Les films de la caravane",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143619",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gYBaWcHHgwNZrO0wLbKNT00jHJk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Lussas",
+    "placeholder": true
+  }
+]

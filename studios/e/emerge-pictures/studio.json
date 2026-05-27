@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Emerge Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202989"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

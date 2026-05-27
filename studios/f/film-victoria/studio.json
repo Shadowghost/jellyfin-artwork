@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Film Victoria",
+    "country": "AU",
+    "homepage": "https://www.film.vic.gov.au/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11840",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8oyCRYf6ezxB5h8HJIPVG8JjzgL.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

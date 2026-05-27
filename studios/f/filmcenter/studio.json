@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmcenter",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6675"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Taylor & Dodge",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87067",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ytP7NfW0rPE8Umk2ZPldsb0c3vk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.tayloranddodge.com",
+    "headquarters": "Venice, California",
+    "placeholder": true
+  }
+]

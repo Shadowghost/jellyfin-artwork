@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Meriland Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63083"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

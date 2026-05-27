@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CREDEUS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144464",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6qj3qIkse4B6epGAYNdmSODtS7m.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.credeus.com/",
+    "headquarters": "Meguro, Tokyo",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sonar Entertainment",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22702",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l4eSl1sbXdzgBtMkxdTUIGzAJX6.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

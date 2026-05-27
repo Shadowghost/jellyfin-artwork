@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Third Picture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162253",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rOdvFksSte7EeaXQqBkVfnlrfQP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.thirdpicture.com/",
+    "headquarters": "Stuttgart",
+    "placeholder": true
+  }
+]

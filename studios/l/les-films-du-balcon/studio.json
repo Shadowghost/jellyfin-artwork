@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les films du Balcon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220824"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

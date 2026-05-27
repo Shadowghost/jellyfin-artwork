@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Alpine Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "195844",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cxF3dlMPED2PXjys9SVEPYIuc54.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://alpinefilms.com/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

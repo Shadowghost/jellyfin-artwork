@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fotspor Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272893",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c2W8IA7HVMRIh9bSpYCQhaLdePw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://fotsporfilm.no/",
+    "headquarters": "Bergen, Norway",
+    "placeholder": true
+  }
+]

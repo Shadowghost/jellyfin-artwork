@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Electric Sheep",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174418"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://electricsheep-prod.com",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

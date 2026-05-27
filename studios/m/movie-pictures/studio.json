@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Movie Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115158"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

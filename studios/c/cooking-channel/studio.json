@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cooking Channel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169178",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iQGcTT5dxIPJgCqDPNv7CzIUUw6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.cookingchanneltv.com",
+    "headquarters": "Knoxville, Tennessee, US",
+    "placeholder": true
+  }
+]

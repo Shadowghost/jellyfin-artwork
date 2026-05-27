@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Paris Première",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55047",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jK8QZUn7RmHVV9Za0qnzj9bMQtV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.6play.fr/pp",
+    "headquarters": "Neuilly-sur-Seine, France",
+    "placeholder": true
+  }
+]

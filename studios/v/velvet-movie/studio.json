@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Velvet Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193550"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

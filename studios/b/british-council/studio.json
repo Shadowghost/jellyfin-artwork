@@ -1,0 +1,35 @@
+[
+  {
+    "name": "British Council",
+    "description": "United Kingdom's international organisation for cultural relations and educational opportunities.",
+    "country": "GB",
+    "type": "government-agency",
+    "colors": [
+      {
+        "name": "British Council Purple",
+        "hex": "#691B45"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113847"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

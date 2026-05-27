@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films Trocadero",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101713"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "the global f",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245030"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

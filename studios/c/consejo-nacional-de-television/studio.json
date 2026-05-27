@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Consejo Nacional de Televisión",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158964",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9qRyHg5yNjJYfDYvdRX0xDSuowk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "https://www.cntv.cl",
+    "headquarters": "Providencia, Santiago",
+    "placeholder": true
+  }
+]

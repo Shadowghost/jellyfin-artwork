@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tencent Animation & Comics",
+    "country": "CN",
+    "homepage": "http://ac.qq.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109474",
+        "logo_uri": "https://image.tmdb.org/t/p/original/16ydjNJFFhTh8QyHnaIc9TrTvdF.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Russkaya lenta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241457"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

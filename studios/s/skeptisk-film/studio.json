@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Skeptisk Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209155",
+        "logo_uri": "https://image.tmdb.org/t/p/original/s97GZLheX0QOfTUn7iwozq8mosR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "headquarters": "Trondheim",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "eVod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194328"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

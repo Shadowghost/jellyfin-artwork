@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Oman TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238266",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aA0VjAVVAiD6IG2ptsEGOlatCgS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "OM",
+    "homepage": "https://www.omaninfo.om/omantv",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Nouvelles Éditions de Films",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "751"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

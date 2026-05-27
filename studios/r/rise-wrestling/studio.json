@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RISE Wrestling",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118252",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lCoZrpEIMwRNIYB7wgf7cunRZnS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://rise-wrestling.com/",
+    "headquarters": "Naperville, Illinois",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kinoforum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "132755"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

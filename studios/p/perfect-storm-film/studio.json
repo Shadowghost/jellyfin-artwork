@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Perfect Storm Film",
+    "country": "KR",
+    "headquarters": "Gangnam, Seoul, South Korea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112425",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2y7W6sMH5AtKjKnPDWJzKv1J4Xx.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

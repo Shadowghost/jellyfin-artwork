@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Dragon Image",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223695"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Scythia Films",
+    "country": "CA",
+    "homepage": "http://www.scythiafilms.com",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "61011",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kDPeollsOtUtGqqEF4P29NwEjf5.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

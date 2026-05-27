@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Deserto Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113721",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uxmZt7Xv5EuuOtRc7um1NUv9c9Y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.desertofilmes.com/",
+    "headquarters": "Rio de Janeiro, Rio de Janeiro, Brazil",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio Ruba",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123439",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bykSb5Gv8j95QOXAqr4IBKHPePZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://studioruba.com/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

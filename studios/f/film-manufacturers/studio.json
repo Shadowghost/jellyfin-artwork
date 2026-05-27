@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film Manufacturers",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79081",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lTKnNzjKtGXV8m8rrFL00bEMxE5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.filminc.com/",
+    "headquarters": "New York, New York",
+    "placeholder": true
+  }
+]

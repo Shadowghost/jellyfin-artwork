@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cantina TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121828",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aZ0S4HHldSHi19A8SDAjWl2Qbio.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.cantinaprod.com/",
+    "headquarters": "Boulogne Billancourt",
+    "placeholder": true
+  }
+]

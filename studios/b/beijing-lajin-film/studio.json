@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Beijing Lajin Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122223"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://lajin.com/movies",
+    "headquarters": "Beijing",
+    "placeholder": true
+  }
+]

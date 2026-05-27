@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rainforest Entertainment",
+    "country": "US",
+    "homepage": "http://rainforestent.com",
+    "headquarters": "Atlanta, Georgia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1309",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gdsheJrD3lznh3O2qEPBDn54Anq.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

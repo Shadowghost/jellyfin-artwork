@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Volte Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154814",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h5Fo8nia3iJtBlnCnqLRk2Xx8ay.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.volte-films.com/",
+    "headquarters": "Marseille",
+    "placeholder": true
+  }
+]

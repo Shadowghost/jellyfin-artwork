@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Character",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "291727",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gQ8mnehT2itUjlG0nW3ANHH9kSn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.character.film/",
+    "placeholder": true
+  }
+]

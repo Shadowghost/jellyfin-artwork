@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rosamont",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119307",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k1nWCHBaM2CFxoPLdUM3v2rkF4a.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.rosamont.it/",
+    "headquarters": "Nimis, Udine",
+    "placeholder": true
+  }
+]

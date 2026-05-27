@@ -1,0 +1,15 @@
+[
+  {
+    "name": "NordWestFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217447"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "headquarters": "St. Petersburg",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FilmESDI",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248506"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

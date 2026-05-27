@@ -1,0 +1,13 @@
+[
+  {
+    "name": "RAES prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144479"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

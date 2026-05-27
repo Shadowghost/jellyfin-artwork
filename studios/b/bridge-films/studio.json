@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Bridge Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "650"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

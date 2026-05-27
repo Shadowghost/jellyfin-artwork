@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sender Freies Berlin",
+    "country": "DE",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7024",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r59UjG4QqARcBYrTnEKc2YIOWSI.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Santa Fe Institute for Regional Education",
+    "description": "Educational and cultural institute based in Santa Fe, sometimes credited as a film co-funder. Limited public information available.",
+    "country": "US",
+    "type": "other",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16645"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

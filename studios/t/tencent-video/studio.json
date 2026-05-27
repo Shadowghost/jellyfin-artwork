@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Tencent Video",
+    "country": "CN",
+    "headquarters": "Shenzhen, China",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74457",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mPsCbXC5k20bpKErrbOQd1fG0L7.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

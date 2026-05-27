@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MIXER",
+    "country": "JP",
+    "homepage": "https://3xer.jp",
+    "headquarters": "Higashigaoka, Meguro, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201112",
+        "logo_uri": "https://image.tmdb.org/t/p/original/51PBGXXhTUz9YEKmK9hHasZWtja.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

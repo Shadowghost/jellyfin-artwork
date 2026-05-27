@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Dimension Films",
+    "description": "American film production label specializing in genre films, particularly horror and science fiction, including the Scream and Scary Movie franchises.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7405",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rfnws0uY8rsNAsrLbx3gEIcYXx3.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tilapia Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213259",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1Q8t7S0ZeoubTIlZV7aXQObGvVU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://tilapiafilm.com/",
+    "placeholder": true
+  }
+]

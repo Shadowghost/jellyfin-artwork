@@ -1,0 +1,14 @@
+[
+  {
+    "name": "SINematica",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150874",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ubnuEfkFS2o02bQsuCI6UcoV6M1.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

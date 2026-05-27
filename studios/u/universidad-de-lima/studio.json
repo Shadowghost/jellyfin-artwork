@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Universidad de Lima",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153055",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hkpq5sla334LtiVoo1WNGR9eRj1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PE",
+    "homepage": "https://www.ulima.edu.pe/",
+    "headquarters": "Santiago de Surco",
+    "placeholder": true
+  }
+]

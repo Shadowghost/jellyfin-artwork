@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Les films d’en Face",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182782"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://lesfilmsdenface.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

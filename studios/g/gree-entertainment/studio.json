@@ -1,0 +1,32 @@
+[
+  {
+    "name": "GREE Entertainment",
+    "description": "Entertainment/anime production subsidiary of Japanese mobile-gaming and internet company GREE, Inc.",
+    "country": "JP",
+    "type": "production-company",
+    "homepage": "https://gree-entertainment.com/",
+    "headquarters": "Minato, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162011",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bg6yrVhnmv6eNE8cMWehyE9wAeb.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "boid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256862"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.boid-s.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Faction North",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100444"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://www.factionnorth.com/",
+    "headquarters": "Edinburgh, Scotland",
+    "placeholder": true
+  }
+]

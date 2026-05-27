@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les Films du Clan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89688"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

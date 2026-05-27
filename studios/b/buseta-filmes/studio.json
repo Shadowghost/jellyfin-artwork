@@ -1,0 +1,13 @@
+[
+  {
+    "name": "buseta filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "246001"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

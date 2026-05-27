@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Loterie Nationale de Belgique",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79019"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "placeholder": true
+  }
+]

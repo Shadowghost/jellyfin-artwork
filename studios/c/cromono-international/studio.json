@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cromono International",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192008",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iOsQrMdIsh4yk3bFhbgYAPsPCRG.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://www.cromono.com/",
+    "headquarters": "New York City & Paris & Taipei"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FIST Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74988",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lnh1UjZfPwzGbsDB4w2P6sb5evA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BA",
+    "homepage": "https://fist.co.ba",
+    "headquarters": "Sarajevo",
+    "placeholder": true
+  }
+]

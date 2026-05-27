@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Still Moving",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102943",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vlHEHKuHWhMJ2HNrlLmXM8jn2Z2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.stillmoving.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

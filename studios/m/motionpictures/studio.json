@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Motionpictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112255"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

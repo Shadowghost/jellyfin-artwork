@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TILE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188452"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fedora",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138454"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

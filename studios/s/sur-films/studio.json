@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sur Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18605",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gK5LkIOTKmZPbd46SpbBi3oKwDr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.surfilms.com/",
+    "headquarters": "Cologne & Bremen",
+    "placeholder": true
+  }
+]

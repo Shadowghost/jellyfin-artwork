@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Noticias Desde Ninguna Parte",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "276455"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

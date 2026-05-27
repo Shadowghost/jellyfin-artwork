@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fulano Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83975"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.fulanofilmes.com.br/",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

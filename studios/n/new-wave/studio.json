@@ -1,0 +1,17 @@
+[
+  {
+    "name": "New Wave",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198833",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tsb0vRZYtqqCWwftcxIaA4bYDGA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.newwaveagency.uk",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

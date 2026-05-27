@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Program 33",
+    "country": "FR",
+    "homepage": "https://program33.com",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8699",
+        "logo_uri": "https://image.tmdb.org/t/p/original/597xzU8WEvD60AylMJKmDCD5ioB.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

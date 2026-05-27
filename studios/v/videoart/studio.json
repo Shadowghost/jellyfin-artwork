@@ -1,0 +1,14 @@
+[
+  {
+    "name": "VideoArt",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112153"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tambo Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144243",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vZJy5rqy19pS9ybFD2TUVhMFDBi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "http://tambofilm.dk",
+    "headquarters": "Copenhagen",
+    "placeholder": true
+  }
+]

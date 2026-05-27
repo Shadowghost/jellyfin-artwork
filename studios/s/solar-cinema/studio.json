@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Solar Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138472",
+        "logo_uri": "https://image.tmdb.org/t/p/original/48XNH6iRxmbxOiTYtMqebMwznAK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CO",
+    "homepage": "https://www.solarcinema.net/",
+    "headquarters": "Bogotá",
+    "placeholder": true
+  }
+]

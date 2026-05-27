@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sky Sports",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12070",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8o7AsMs9BGSzJxw5ltNP5gofbtA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.skysports.com/",
+    "headquarters": "Sky Campus, Isleworth, London, England",
+    "placeholder": true
+  }
+]

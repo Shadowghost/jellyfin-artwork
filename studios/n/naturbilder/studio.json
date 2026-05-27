@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Naturbilder",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231989",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5RYVukvpOzgU26x2T35lnClb7d6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "http://www.naturbilder.no/",
+    "headquarters": "Lierskogen",
+    "placeholder": true
+  }
+]

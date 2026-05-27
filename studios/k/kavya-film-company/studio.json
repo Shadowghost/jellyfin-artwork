@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Kavya Film Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123541",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c7AsLdeQjCrs0yRT3Tp3Jfm7zf2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

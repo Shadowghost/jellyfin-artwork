@@ -1,0 +1,13 @@
+[
+  {
+    "name": "On/Off production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103446"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

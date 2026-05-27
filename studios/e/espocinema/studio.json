@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Espocinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110081",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qqqNrpJMpMgMiLh2PYbMJTvWZN5.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

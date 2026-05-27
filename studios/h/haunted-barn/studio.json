@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Haunted Barn",
+    "country": "GB",
+    "headquarters": "Marlow, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173036",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AgQ0NU00CtGra2u95E3mWOmWUND.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

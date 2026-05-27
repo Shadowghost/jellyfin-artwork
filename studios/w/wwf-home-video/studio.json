@@ -1,0 +1,14 @@
+[
+  {
+    "name": "WWF Home Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77720",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cWb8PS2oqHOtJIXbomYOcnr5nuy.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

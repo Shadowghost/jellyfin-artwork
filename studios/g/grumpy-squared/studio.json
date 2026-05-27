@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Grumpy Squared",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81011"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

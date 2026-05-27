@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Neda Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86772",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zaRXAxVMdactH2HLKegbmm7FdOx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GR",
+    "homepage": "https://nedafilm.gr/",
+    "headquarters": "Athens",
+    "placeholder": true
+  }
+]

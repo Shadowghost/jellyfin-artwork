@@ -1,0 +1,15 @@
+[
+  {
+    "name": "HansaFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176274",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ZGb9VUQjVI9cSzSPNviRXqfFRn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EE",
+    "placeholder": true
+  }
+]

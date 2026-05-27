@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ran Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13013"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

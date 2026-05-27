@@ -1,0 +1,13 @@
+[
+  {
+    "name": "KB Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208802"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

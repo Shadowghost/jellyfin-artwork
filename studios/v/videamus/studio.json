@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Videamus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100216"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

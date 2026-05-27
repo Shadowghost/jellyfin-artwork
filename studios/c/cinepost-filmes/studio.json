@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinepost Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289001"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

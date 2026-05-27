@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Miso Film Sverige",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67548",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4zqXnuPYINhFHj2eIgA3wf57spT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.misofilm.dk/",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

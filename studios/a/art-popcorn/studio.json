@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Art & Popcorn",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28394",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uayh0bscJCf5StAz27R0XRyZKuj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "homepage": "http://www.artandpopcorn.com",
+    "headquarters": "Belgrade",
+    "placeholder": true
+  }
+]

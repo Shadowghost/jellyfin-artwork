@@ -1,0 +1,13 @@
+[
+  {
+    "name": "OUPS Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "136388"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

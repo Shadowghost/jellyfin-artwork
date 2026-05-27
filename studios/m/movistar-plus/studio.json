@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Movistar Plus+",
+    "description": "Spanish pay TV and streaming platform operated by Telefónica, distributing premium TV channels, films, and original productions.",
+    "country": "ES",
+    "type": "streaming-service",
+    "homepage": "http://ver.movistarplus.es/?nv=2",
+    "headquarters": "Madrid",
+    "colors": [
+      {
+        "name": "Movistar Blue",
+        "hex": "#019DF4"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67412",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vgVqq5hunVs8GN5Je9d9rG7Q2NU.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

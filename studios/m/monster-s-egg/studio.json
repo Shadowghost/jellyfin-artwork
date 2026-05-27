@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Monster's Egg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274979",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nG1wbqFy3GDG2lpZxWBldeL4zXZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

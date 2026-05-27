@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Vigeland Museum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "282184",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1xXLssHvDITLUVQ8A7CJVgqYNAx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://vigeland.museum.no/",
+    "headquarters": "Oslo",
+    "placeholder": true
+  }
+]

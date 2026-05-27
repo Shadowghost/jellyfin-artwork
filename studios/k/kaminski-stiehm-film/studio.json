@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Kaminski.Stiehm.Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2049"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://kaminskistiehmfilm.de",
+    "placeholder": true
+  }
+]

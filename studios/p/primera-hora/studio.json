@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Primera Hora",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "291385"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

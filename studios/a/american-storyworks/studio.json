@@ -1,0 +1,17 @@
+[
+  {
+    "name": "American Storyworks",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225300",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3N2YOvWeColvKW6ujg0jzeCmXJN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://americanstoryworks.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

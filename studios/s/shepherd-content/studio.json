@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Shepherd Content",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214625",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cMNFYKfhRmOnWXEwVlug88cLabD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://shepherdcontent.com/",
+    "placeholder": true
+  }
+]

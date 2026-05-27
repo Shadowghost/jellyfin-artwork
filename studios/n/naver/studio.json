@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NAVER",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97551",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u6tba811VId34gzkchYkFueECOF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.navercorp.com/",
+    "headquarters": "Seongnam, Gyeonggi, South Korea",
+    "placeholder": true
+  }
+]

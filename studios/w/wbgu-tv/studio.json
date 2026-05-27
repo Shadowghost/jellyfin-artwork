@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WBGU-TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119366",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4mWu7frtjJLJgmwO4xGMBB8cw0O.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.wbgu.org/",
+    "headquarters": "Bowling Green, OH",
+    "placeholder": true
+  }
+]

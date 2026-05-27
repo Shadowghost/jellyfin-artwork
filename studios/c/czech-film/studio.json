@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Czech FILM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118693"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://czech-film.cz/en/",
+    "headquarters": "Prague, Czech Republic",
+    "placeholder": true
+  }
+]

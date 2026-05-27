@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Twenty Twenty Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24789",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v2MS8OdnF8qxHrVrpPXdRcdOdkY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.twentytwenty.tv/",
+    "placeholder": true
+  }
+]

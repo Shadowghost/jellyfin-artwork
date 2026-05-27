@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Voiceprint",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51739"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

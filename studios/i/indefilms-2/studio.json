@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Indéfilms 2",
+    "country": "FR",
+    "homepage": "http://www.indefilms.fr",
+    "headquarters": "Paris, France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32668",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rYw6AZjNyxvoOQy8gcvAOJUmXlk.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

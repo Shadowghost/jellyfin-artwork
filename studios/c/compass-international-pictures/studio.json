@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Compass International Pictures",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14323",
+        "logo_uri": "https://image.tmdb.org/t/p/original/efnw45BcPQve9ACNchnDufgV1po.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

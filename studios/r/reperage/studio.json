@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Reperage",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24136"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

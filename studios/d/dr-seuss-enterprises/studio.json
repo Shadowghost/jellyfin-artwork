@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dr. Seuss Enterprises",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180651",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qYmXnLachOZkLaVn6UTaMDUpHey.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.drseussenterprises.com/",
+    "headquarters": "San Diego, California",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Hunan TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15692",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zJQHSCwHcIGNQlHptJRZpUX88Ro.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "placeholder": true
+  }
+]

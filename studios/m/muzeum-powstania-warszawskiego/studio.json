@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Muzeum Powstania Warszawskiego",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "237862"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

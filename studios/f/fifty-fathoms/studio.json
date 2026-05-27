@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fifty Fathoms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32806",
+        "logo_uri": "https://image.tmdb.org/t/p/original/y154amYdCAwPp20tSGBUcfijqkT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.fiftyfathoms.co.uk",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

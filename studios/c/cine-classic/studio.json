@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CINÉ CLASSIC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90877"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

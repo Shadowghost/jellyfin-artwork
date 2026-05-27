@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hudson",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174949"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

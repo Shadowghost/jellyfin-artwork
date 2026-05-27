@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Qishuo Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212484",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h0qjepBDet1dZHY7unkiDQ7qdWq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "placeholder": true
+  }
+]

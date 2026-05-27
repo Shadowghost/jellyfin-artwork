@@ -1,0 +1,13 @@
+[
+  {
+    "name": "produktionwest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172170"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

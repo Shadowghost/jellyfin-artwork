@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Paar Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211117",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hiaeArvMAyU8iKZAu4CPoFQJVyx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://paar.pictures/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

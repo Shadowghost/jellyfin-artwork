@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NHC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171231"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

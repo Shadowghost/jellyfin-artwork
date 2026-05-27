@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mongoose Picture House",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188971",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qgPHfD8TgowROr4HJDlY82XHoxi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://mongoosepicturehouse.com/",
+    "headquarters": "New York, NY",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "name": "MGM+",
+    "description": "American film and television production and distribution company founded in 1924; acquired by Amazon in 2022 and rebranded as Amazon MGM Studios.",
+    "country": "US",
+    "type": "studio",
+    "parent_company": "Sony Pictures",
+    "homepage": "http://www.mgm.com/",
+    "headquarters": "Beverly Hills, California",
+    "colors": [
+      {
+        "name": "MGM Gold",
+        "hex": "#C5A572"
+      },
+      {
+        "name": "MGM Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21",
+        "logo_uri": "https://image.tmdb.org/t/p/original/usUnaYV6hQnlVAXP6r4HwrlLFPG.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Metro-Goldwyn-Mayer"
+    ],
+    "template": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Langosta Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "146466",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vRPthreUrgUIr1LuGdg5jAQnCvM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://langosta-films.com/",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Disney-ABC Domestic Television",
+    "description": "American television syndication division of The Walt Disney Company that distributed Disney/ABC programming for first-run and off-network syndication; restructured into Disney Media Distribution in 2018.",
+    "country": "US",
+    "type": "distributor",
+    "homepage": "https://disneyabc.tv",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219391",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aekZjiUMi5RRf3058GJM8YSjwMp.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

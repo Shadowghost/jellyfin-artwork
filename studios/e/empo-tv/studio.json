@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Empo TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209007",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3crVRVYPYvu0sucJxeITnYWiPFE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://empotv.no",
+    "headquarters": "Ski, Norway",
+    "placeholder": true
+  }
+]

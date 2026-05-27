@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Casé Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7762",
+        "logo_uri": "https://image.tmdb.org/t/p/original/la8zZTZqn9PZQP5TbeCQHUBktYu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://casefilmes.com.br/",
+    "headquarters": "Rio de Janeiro RJ",
+    "placeholder": true
+  }
+]

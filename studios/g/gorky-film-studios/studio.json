@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gorky Film Studios",
+    "country": "RU",
+    "homepage": "http://gorkyfilm.ru/",
+    "headquarters": "Moscow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170204",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3EP1gJYMGlEt7j17naPMg5e2LH2.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

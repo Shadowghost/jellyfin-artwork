@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Dimensions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103346"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

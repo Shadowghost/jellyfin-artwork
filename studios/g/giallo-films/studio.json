@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Giallo Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11504"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

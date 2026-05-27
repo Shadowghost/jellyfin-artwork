@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ELTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210579",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jocSpQj8b3YLeEC49IqJWfvHhgA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://eltv.kr/",
+    "placeholder": true
+  }
+]

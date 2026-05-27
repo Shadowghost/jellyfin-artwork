@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Rio Bravo Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90546"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.riobravofilmes.com.br/",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

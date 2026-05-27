@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ögat Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80467",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fdOVlJQyqMd8VGqYng85pFf24S3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://www.ogatfilm.se/",
+    "placeholder": true
+  }
+]

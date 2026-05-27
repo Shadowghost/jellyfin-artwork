@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Polaris Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171591"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

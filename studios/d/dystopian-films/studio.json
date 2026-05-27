@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Dystopian Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171375",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jtujRFpNlfYCRdBce5qjVuwksBq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "headquarters": "Ottawa, Ontario",
+    "placeholder": true
+  }
+]

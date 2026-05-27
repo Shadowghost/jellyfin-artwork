@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les films de l'arène",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "266491"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

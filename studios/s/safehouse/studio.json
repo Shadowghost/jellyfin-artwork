@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SAFEHOUSE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203414",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h5PIykI6zbiTOG3IkJDRetbtJXT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://safehouse.co.jp/en/",
+    "headquarters": "Chiyoda, Tokyo",
+    "placeholder": true
+  }
+]

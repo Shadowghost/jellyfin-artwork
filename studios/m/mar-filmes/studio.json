@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mar Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130983",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mjVBZsCM7nZsU6C6wtxnHxTWzzT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "headquarters": "São Paulo, SP, Brazil",
+    "placeholder": true
+  }
+]

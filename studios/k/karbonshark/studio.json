@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Karbonshark",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86249",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l9sHlpUcA0PMBX6uqgQNmGnKW8E.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.karbonshark.tv",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

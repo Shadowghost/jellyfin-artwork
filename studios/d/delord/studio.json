@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Delord",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "247703",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bvMS6u0VGbDTMCuydNuzHDcOtg1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://delord.pl/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

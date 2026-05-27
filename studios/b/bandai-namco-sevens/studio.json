@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bandai Namco Sevens",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164670",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xnYxX1xr9yAncvoqQ7maG6LdD9u.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.bandainamcosevens.co.jp/",
+    "placeholder": true
+  }
+]

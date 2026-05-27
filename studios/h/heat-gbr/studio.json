@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Heat GBR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15566"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

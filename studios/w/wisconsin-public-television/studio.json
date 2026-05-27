@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wisconsin Public Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87956",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zEGBgohlY1NorkJnq9SR07M01RO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://wpt.org/",
+    "headquarters": "Madison, Wisconsin, United States",
+    "placeholder": true
+  }
+]

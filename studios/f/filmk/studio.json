@@ -1,0 +1,16 @@
+[
+  {
+    "name": "filmK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112927",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7KYQsi3Y0CbHntfwhsYetFzs3tS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "headquarters": "Gangdong, Seoul, South Korea",
+    "placeholder": true
+  }
+]

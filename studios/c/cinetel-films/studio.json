@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CineTel Films",
+    "country": "US",
+    "homepage": "http://www.cinetelfilms.com",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10399"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

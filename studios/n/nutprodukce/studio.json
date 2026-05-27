@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nutprodukce",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20810",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tpwYTOJvC650HgWoYBuYSBVDnON.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.nutprodukce.cz/en.html",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Allied Filmmakers",
+    "country": "GB",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1755",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ru4358gY4iA8DDmu3bsZLxOXbhi.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

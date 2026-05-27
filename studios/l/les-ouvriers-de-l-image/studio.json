@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Ouvriers de l'image",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219604",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fLQjsIpsZlVRz9CecAq6MadLURy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.lesouvriersdelimage.com/",
+    "headquarters": "Albertville, France",
+    "placeholder": true
+  }
+]

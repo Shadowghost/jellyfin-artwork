@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Screen South",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102211",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2etW1NbNcEzX9CB0aA2xztIECPK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.screensouth.org",
+    "headquarters": "Folkestone, England",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Goalcast",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185570"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

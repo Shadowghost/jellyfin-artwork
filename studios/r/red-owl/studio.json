@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Red Owl",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "268853",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xSqjLJnfxHRj1Cps3PfQolUwBwC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://redowlpartners.com/",
+    "headquarters": "Brooklyn, New York",
+    "placeholder": true
+  }
+]

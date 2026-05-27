@@ -1,0 +1,14 @@
+[
+  {
+    "name": "PVPictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55367"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "placeholder": true
+  }
+]

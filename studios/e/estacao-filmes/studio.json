@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Estação Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245957"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

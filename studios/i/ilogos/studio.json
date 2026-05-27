@@ -1,0 +1,16 @@
+[
+  {
+    "name": "iLogos",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271805",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yJrXOrMBVvZfaqY4Mjs8wYnqY8f.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://ilogos.jp/",
+    "placeholder": true
+  }
+]

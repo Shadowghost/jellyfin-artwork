@@ -1,0 +1,15 @@
+[
+  {
+    "name": "GMTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270533",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wB8tvca8opc4Dwzu6Y3Mk0uXGrL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

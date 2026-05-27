@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Future Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131223",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cqTFMN4VU4dOQ5wl2nZtxXDEdEE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://www.futurepictures.tv",
+    "placeholder": true
+  }
+]

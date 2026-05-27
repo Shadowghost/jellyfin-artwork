@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cine Tirol",
+    "country": "AT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13016"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

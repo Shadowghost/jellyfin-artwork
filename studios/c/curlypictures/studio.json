@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CURLYPICTURES",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88631",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yC9G3GGyIhy0CtmZ01zZe5KKOIM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://curlypictures.de/",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

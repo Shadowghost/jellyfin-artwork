@@ -1,0 +1,14 @@
+[
+  {
+    "name": "American Eagle",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2775"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

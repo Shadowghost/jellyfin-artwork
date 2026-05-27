@@ -1,0 +1,16 @@
+[
+  {
+    "name": "PowNed",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191151",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5fyZxE4EA2w9WoRHkM5HqnJHUut.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.powned.tv/",
+    "placeholder": true
+  }
+]

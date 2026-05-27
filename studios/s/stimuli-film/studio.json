@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Stimuli Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153708"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

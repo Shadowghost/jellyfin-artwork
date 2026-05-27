@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SALTO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77167",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vSolnakj69INaZ6DI2hfEWeZjKp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "https://saltofilm.com/",
+    "headquarters": "Budapest",
+    "placeholder": true
+  }
+]

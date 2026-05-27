@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pioneer Pictures",
+    "country": "HU",
+    "homepage": "https://pioneer.hu/",
+    "headquarters": "Budapest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9217",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nk6sgP2r0so260I8X0fKIr1OeUL.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Canal Sur",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6878",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fIfZV1HuiG27Ijk6apChuyoUMTf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.canalsur.es",
+    "headquarters": "Seville",
+    "placeholder": true
+  }
+]

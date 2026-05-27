@@ -1,0 +1,17 @@
+[
+  {
+    "name": "STARK Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63883",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jCeltF5rmXfuuavL4zZ1iZDGFN0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://starklfilm.com/",
+    "headquarters": "Schloßstr. 18 14059 Berlin",
+    "placeholder": true
+  }
+]

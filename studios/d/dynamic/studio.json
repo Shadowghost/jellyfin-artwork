@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Dynamic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10310"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

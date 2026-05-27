@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CineGround",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205512"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

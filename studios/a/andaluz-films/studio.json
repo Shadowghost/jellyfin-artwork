@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Andaluz Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123404"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

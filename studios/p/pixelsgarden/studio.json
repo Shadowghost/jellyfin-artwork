@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pixelsgarden",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "261153",
+        "logo_uri": "https://image.tmdb.org/t/p/original/je9QI65HNkjY1qJcEt3Fn1O6Y3l.png"
+      }
+    ],
+    "artwork": {},
+    "country": "VN",
+    "homepage": "http://pixelsgarden.vn/",
+    "placeholder": true
+  }
+]

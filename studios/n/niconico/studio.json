@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Niconico",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10814",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eedxWwEEHmcLJfyFJPuigu170DU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.iconica.es",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

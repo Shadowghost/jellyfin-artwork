@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Gülgen Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "47291",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iomjmrfaL26ajXMJuTSnwPewiNw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

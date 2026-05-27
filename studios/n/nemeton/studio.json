@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nemeton",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210048"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Finding Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117893"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://www.finding.pictures/"
+  }
+]

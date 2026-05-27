@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tresor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23930",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iX6EiVkJBbezOiEXlEzeLRQcKci.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.tresor.tv",
+    "placeholder": true
+  }
+]

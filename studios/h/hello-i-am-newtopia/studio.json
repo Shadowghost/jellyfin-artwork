@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Hello I Am Newtopia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203178",
+        "logo_uri": "https://image.tmdb.org/t/p/original/omPRUPRdDaZDuoUdI4NWii0gfCb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "headquarters": "Seoul, South Korea",
+    "placeholder": true
+  }
+]

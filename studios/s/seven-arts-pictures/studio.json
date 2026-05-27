@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Seven Arts Pictures",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14159"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

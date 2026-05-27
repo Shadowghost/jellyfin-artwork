@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Seoul Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62774"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "placeholder": true
+  }
+]

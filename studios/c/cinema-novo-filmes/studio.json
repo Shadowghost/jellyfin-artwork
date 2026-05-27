@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinema Novo Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "267672"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

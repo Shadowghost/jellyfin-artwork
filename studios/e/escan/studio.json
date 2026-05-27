@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Escan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "236368"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

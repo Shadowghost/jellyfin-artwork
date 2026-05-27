@@ -1,0 +1,15 @@
+[
+  {
+    "name": "TatarMultFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222719"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://www.tatarmultfilm.ru/",
+    "placeholder": true
+  }
+]

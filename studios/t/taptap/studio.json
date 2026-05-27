@@ -1,0 +1,15 @@
+[
+  {
+    "name": "TapTap",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290935",
+        "logo_uri": "https://image.tmdb.org/t/p/original/juwO4ugbIp6iyYXJzkap2xGTFCK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mima Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179913",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gsINbnJL4lDBkLpTDb0jCwtNW7H.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LV",
+    "homepage": "https://mimafilms.lv/#home",
+    "headquarters": "Riga",
+    "placeholder": true
+  }
+]

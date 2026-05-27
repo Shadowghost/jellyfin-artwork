@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Multishow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7763",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2QSkE0zzau3rF6MKpRLn51Fk6L9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://multishow.globo.com/",
+    "placeholder": true
+  }
+]

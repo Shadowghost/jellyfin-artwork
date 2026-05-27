@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pantalla Cines",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208843",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sSOxak397fZIMUKedAU3kFZGOoc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "headquarters": "Santiago",
+    "placeholder": true
+  }
+]

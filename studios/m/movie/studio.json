@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117925"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.czechmovie.cz",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Spektrumfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220269",
+        "logo_uri": "https://image.tmdb.org/t/p/original/na4twKUdCFOXdqu4HZHoW2Mo8GT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.spektrumfilm.tv/",
+    "headquarters": "Wiesbaden, Hessen",
+    "placeholder": true
+  }
+]

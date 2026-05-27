@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rock Fish Stew",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53184",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uDxkH1TTzcNvdwS9onjfM3EQlpn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://rockfishstew.org",
+    "headquarters": "Durham, North Carolina",
+    "placeholder": true
+  }
+]

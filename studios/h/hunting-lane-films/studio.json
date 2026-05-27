@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hunting Lane Films",
+    "country": "US",
+    "homepage": "https://huntinglane.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2290",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gPO7leIjImfola6eq1QGkNqwTEM.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

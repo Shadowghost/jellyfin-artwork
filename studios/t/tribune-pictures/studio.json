@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tribune Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143532",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uhx7zwjSesHR4WskNH2jcExikNE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://tribunepictures.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

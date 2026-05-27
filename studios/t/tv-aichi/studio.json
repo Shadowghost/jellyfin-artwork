@@ -1,0 +1,31 @@
+[
+  {
+    "name": "TV Aichi",
+    "description": "Japanese television station based in Nagoya, Aichi Prefecture, affiliated with the TXN network (TV Tokyo); broadcasts anime, news, and general entertainment.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://tv-aichi.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166410",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

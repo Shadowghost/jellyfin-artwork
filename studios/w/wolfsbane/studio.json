@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Wolfsbane",
+    "country": "JP",
+    "homepage": "http://wolfsbane.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129691",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mXaFR6bkjIpqaFoAGLkE5YZ8IiQ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

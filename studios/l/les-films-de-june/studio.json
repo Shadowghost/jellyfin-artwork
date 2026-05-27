@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films de June",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183558",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bmK3WQfri8t2KXZwMOU4tWqBqaq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.lesfilmsdejune.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

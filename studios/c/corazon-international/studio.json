@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Corazón International",
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

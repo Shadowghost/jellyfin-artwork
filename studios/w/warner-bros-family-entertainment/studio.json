@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Warner Bros. Family Entertainment",
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3592",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7rsVrGzIj5bJ3xbAgGnNObxGpFt.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

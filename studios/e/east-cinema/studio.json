@@ -1,0 +1,14 @@
+[
+  {
+    "name": "East Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72687"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "placeholder": true
+  }
+]

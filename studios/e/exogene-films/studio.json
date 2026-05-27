@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Exogène Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106380",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k8jnXJu6WJjxGQyzoAd6huHb0SX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.exogenefilms.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

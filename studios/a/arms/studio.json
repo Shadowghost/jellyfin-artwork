@@ -1,0 +1,15 @@
+[
+  {
+    "name": "ARMS",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12083",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jlk2Htq5C5ToDiIoM353xwpWwO6.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

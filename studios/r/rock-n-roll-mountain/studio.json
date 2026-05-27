@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rock'n Roll Mountain",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127004",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lkUrxQulawZJhSfMOwa7P1BegE7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://rockandrollmountain.com",
+    "headquarters": "Koganei City, Tokyo",
+    "placeholder": true
+  }
+]

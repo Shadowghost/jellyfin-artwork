@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mela Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168525"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

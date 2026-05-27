@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ciné-Tamaris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14683",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oqpU5dX9DlN3YB96NdsNXknJhcl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.cine-tamaris.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

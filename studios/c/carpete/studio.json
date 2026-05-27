@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Carpete",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124205",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dknq12NHacxbHuHioVsdiQR3Jhd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "headquarters": "Lisbon",
+    "placeholder": true
+  }
+]

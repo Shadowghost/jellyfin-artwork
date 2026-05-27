@@ -1,0 +1,14 @@
+[
+  {
+    "name": "The Guber-Peters Company",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "276"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

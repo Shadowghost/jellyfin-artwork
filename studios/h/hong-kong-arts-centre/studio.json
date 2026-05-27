@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hong Kong Arts Centre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "61360",
+        "logo_uri": "https://image.tmdb.org/t/p/original/41Wpt50u6KpSDX8JE7YEXFd52Tl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HK",
+    "homepage": "https://hkac.org.hk/en/",
+    "headquarters": "2 Harbour Rd, Wan Chai, Hong Kong SAR, China",
+    "placeholder": true
+  }
+]

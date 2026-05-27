@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Whitestone Motion Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7107",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mPlSLeiQZZMFl8nLIAUXur2wzfW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.whitestonemp.com/",
+    "headquarters": "Atlanta, Georgia",
+    "placeholder": true
+  }
+]

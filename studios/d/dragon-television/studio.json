@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dragon Television 东方卫视",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150318",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3nvUOfBvvnKaUZcJim0mJ6NEbjp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://www.youtube.com/user/kankanewstvshow",
+    "headquarters": "Shanghai, China",
+    "placeholder": true
+  }
+]

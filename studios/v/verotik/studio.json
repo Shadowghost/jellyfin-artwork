@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Verotik",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139171"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

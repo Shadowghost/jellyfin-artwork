@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PMA Film & Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105000"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

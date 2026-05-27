@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Images & Sound",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160163",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bSObztv1Lp2dOOCQIQAKXV4vOdD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NZ",
+    "homepage": "https://www.imagesandsound.co.nz",
+    "headquarters": "Auckland",
+    "placeholder": true
+  }
+]

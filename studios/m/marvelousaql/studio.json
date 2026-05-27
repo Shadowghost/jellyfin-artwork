@@ -1,0 +1,33 @@
+[
+  {
+    "name": "MarvelousAQL",
+    "description": "Japanese video game and anime company; previously known as Marvelous Entertainment and MarvelousAQL, known for Story of Seasons and Senran Kagura.",
+    "country": "JP",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62696",
+        "logo_uri": "https://image.tmdb.org/t/p/original/31PzZuNRMRiCWO8FbnNq7dsUWEX.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Marvelous (formerly MarvelousAQL)"
+    ],
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Visually Hidden",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130239"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ford Foundation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123465"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "placeholder": true
+  }
+]

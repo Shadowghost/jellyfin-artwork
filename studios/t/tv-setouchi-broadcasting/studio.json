@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TV Setouchi Broadcasting",
+    "country": "JP",
+    "homepage": "https://www.webtsc.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167227",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oebirLiyS4pt4qaHVnkgSLsGGoI.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

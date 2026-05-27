@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Astrea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283318",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5gsTv0BjoQlAwvcTHgkpi70nq8U.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://astreaimmersive.io",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

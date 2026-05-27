@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Department of Post",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123349",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tx3bZVIPQAj1IWDkesmqgWfZHbn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NZ",
+    "homepage": "https://www.departmentofpost.com/",
+    "headquarters": "Auckland",
+    "placeholder": true
+  }
+]

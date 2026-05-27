@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Lighthouse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192801",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d0KI2qXN79CoXexD3Il8v7SmggH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.thelighthousefilmandtv.com/",
+    "placeholder": true
+  }
+]

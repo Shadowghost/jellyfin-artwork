@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Nova Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67007"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "headquarters": "Belgrade",
+    "placeholder": true
+  }
+]

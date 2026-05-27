@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CONNECT",
+    "country": "JP",
+    "homepage": "http://connect.jp.net",
+    "headquarters": "Mitaka, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56949",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7lPULuu10HlQEpmO2DvAWWlVQsq.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

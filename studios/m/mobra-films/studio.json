@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mobra Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5545",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A9JHyYxaCXaxqsVQCw9kRsrwqNm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "homepage": "http://www.mobrafilms.ro",
+    "headquarters": "Bucharest",
+    "placeholder": true
+  }
+]

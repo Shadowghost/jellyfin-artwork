@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Persian Art Pic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "136172",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t6Qz08vgD0nlV56py9h5vERD4N4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IR",
+    "headquarters": "Tehran, Iran",
+    "placeholder": true
+  }
+]

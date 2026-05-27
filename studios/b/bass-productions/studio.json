@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Bass Productions",
+    "description": "Production company; limited public information available.",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "244719"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

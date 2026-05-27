@@ -1,0 +1,17 @@
+[
+  {
+    "name": "VIDA Azure",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240118",
+        "logo_uri": "https://image.tmdb.org/t/p/original/71vRzr3X7myQkPfJBOBS4YhZjP1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://www.vidaazure.com/",
+    "headquarters": "Beijing, China",
+    "placeholder": true
+  }
+]

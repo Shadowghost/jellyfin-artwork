@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cine Hub",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143202"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "placeholder": true
+  }
+]

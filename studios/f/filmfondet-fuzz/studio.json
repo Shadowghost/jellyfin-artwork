@@ -1,0 +1,15 @@
+[
+  {
+    "name": "FilmFondet Fuzz",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5241"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "headquarters": "Bergen, Norway",
+    "placeholder": true
+  }
+]

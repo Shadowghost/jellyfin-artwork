@@ -1,0 +1,13 @@
+[
+  {
+    "name": "panopticumfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248762"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nordisk Film TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273160",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tJwERnoOGtd6P0cG2dgWyicTQLm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.nordiskfilmtv.dk/",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "International House of Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212755",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fU6ktx4RgQA2i8RMyYv5KfDsh5P.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.internationalhouseofcinema.com",
+    "headquarters": "Curitiba, PR",
+    "placeholder": true
+  }
+]

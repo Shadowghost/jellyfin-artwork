@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Sartoris Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176500",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mKqRcb4JSFj9SRaNZx4Uc2OTHoU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

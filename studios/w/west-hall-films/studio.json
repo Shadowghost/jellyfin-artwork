@@ -1,0 +1,17 @@
+[
+  {
+    "name": "West Hall Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212107",
+        "logo_uri": "https://image.tmdb.org/t/p/original/25zQuoCmJ24KndE1LMKbbf8N4cV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://westhallfilms.com/",
+    "headquarters": "San Francisco, California",
+    "placeholder": true
+  }
+]

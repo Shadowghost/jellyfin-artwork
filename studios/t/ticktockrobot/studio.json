@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ticktockrobot",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102689"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

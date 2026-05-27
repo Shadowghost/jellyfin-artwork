@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Parasox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260122",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b6o9BG76RFtLx3Lsk2TwRr1uv2Q.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

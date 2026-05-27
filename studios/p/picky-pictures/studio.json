@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Picky Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161280",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k6IIWwV7f1HPBoOmZVT0hHhjz3i.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.pickypictures.se",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

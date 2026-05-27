@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Estonia-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74609"
+      }
+    ],
+    "artwork": {},
+    "country": "EE",
+    "placeholder": true
+  }
+]

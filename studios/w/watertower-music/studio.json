@@ -1,0 +1,32 @@
+[
+  {
+    "name": "WaterTower Music",
+    "description": "Soundtrack and music label owned by Warner Bros., releasing scores from Warner Bros. films and TV series.",
+    "country": "US",
+    "type": "record-label",
+    "homepage": "https://www.watertower-music.com/",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "296841",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hPSR71cv6XFrZ6R8w3iCwhiItHA.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

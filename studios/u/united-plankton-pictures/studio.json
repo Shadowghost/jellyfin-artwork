@@ -1,0 +1,16 @@
+[
+  {
+    "name": "United Plankton Pictures",
+    "country": "US",
+    "headquarters": "Los Angeles, Califórnia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8921",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wZEtdueugvOSYwDD3gbFNHctVWY.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

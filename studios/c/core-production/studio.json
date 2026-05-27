@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Core Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124459"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.coreproduction.cz/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Ehime Shimbun",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274025",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mmiG5FSrvlUbM71HFKmohnbxUzp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

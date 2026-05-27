@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ringel Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171184",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iwgYjilYmIEfceAJTNtNohZEYVF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://ringel-film.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

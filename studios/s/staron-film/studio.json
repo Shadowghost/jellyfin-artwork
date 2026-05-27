@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Staron Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56475",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g5g6rUKzlhvnUhNskgxCD73CXoW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://www.staronfilm.pl/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

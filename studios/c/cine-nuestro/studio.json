@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine Nuestro",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240149"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

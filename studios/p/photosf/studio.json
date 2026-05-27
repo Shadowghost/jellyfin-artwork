@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PhotoSF",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231800"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

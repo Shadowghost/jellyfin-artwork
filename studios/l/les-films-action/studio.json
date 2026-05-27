@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les Films Action",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1853"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

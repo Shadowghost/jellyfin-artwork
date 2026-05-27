@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Studio Dream Capture",
+    "description": "Animation/film production studio. Limited public information available.",
+    "country": "KR",
+    "type": "studio",
+    "headquarters": "Hanam, Gyeonggi, South Korea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104011"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

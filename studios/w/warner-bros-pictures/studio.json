@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Warner Bros. Pictures",
+    "description": "American film production and distribution company, division of Warner Bros. Discovery; one of the Big Five major American film studios.",
+    "country": "US",
+    "type": "studio",
+    "parent_company": "Warner Bros. Entertainment",
+    "homepage": "https://www.warnerbros.com",
+    "headquarters": "Burbank, California",
+    "colors": [
+      {
+        "name": "WB Blue",
+        "hex": "#004B91"
+      },
+      {
+        "name": "WB Gold",
+        "hex": "#C28F38"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

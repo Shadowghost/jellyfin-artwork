@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Eko",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103411",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yheBkC3MYTE957wVIovqLiSmSJx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://eko.com/watch",
+    "headquarters": "New York,NY",
+    "placeholder": true
+  }
+]

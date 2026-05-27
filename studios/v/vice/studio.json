@@ -1,0 +1,14 @@
+[
+  {
+    "name": "VICE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200381",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1OAjprr0LoAWXC5WS6favtDTohg.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

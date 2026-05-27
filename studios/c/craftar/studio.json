@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CRAFTAR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110563",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g7PnYxIEHdOcjgeXEaFZSR1SxW4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.craftar.co.jp/",
+    "placeholder": true
+  }
+]

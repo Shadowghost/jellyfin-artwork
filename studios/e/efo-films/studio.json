@@ -1,0 +1,15 @@
+[
+  {
+    "name": "EFO Films",
+    "country": "US",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10405"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

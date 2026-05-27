@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Turanga Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85835",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6i9V3Pc7R2wAECl8QNtUJgxSQh6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://turangafilms.com",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

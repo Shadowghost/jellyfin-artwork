@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Freestyle Digital Media",
+    "description": "American film distribution company specializing in independent film distribution across digital, VOD, and home entertainment platforms.",
+    "country": "US",
+    "type": "distributor",
+    "homepage": "https://www.freestyledigitalmedia.tv/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101062"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

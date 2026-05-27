@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Shepherd",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4901"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

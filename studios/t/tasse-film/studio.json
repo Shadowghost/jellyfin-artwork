@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tasse Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93635",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pLoHlno5S4gKUNo4FuRG8bLdaYJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LV",
+    "homepage": "http://www.tasse.lv",
+    "headquarters": "Riga",
+    "placeholder": true
+  }
+]

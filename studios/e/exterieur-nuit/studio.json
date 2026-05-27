@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Extérieur Nuit",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "232401"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

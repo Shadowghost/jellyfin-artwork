@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Easy Tiger",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46026",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cjICzzhN4deWv1mTelH4RYGMtZE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.easytigerfilms.fr/en",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

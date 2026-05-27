@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DBM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32268",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7nahCTlWYmW72oBejKqzOuvtn0J.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.dbmvideo.de",
+    "headquarters": "Wesel",
+    "placeholder": true
+  }
+]

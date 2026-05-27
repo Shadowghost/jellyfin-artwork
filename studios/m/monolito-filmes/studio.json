@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Monolito Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126044"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

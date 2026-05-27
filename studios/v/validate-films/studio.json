@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Validate Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156134"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

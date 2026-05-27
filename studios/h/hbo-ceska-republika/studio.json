@@ -1,0 +1,16 @@
+[
+  {
+    "name": "HBO Česká republika",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6107"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.hbo.cz/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

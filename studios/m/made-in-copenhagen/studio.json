@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Made in Copenhagen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16439",
+        "logo_uri": "https://image.tmdb.org/t/p/original/saXOIbS0x4LxBUHQZvuKuoV4tAk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://www.madeincopenhagen.dk/",
+    "headquarters": "Copenhagen, Denmark",
+    "placeholder": true
+  }
+]

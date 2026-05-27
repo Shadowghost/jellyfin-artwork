@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Euromedia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131162",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bAnJavhJFsBwIJW7zhyMJX5tkVc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://em.fr/",
+    "headquarters": "La Plaine Saint Denis",
+    "placeholder": true
+  }
+]

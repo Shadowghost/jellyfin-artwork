@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Laboratorio Bizzarro service",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51332"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

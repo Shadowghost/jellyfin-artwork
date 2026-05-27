@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hyperzoom",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80822",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ixHXp7kXHgoqlacLz4eHFTuO2xW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.hyperzoom.ca",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

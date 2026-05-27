@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Franchise Pictures",
+    "description": "American film production company founded by Elie Samaha; produced films like The Whole Nine Yards, The Pledge, and Battlefield Earth; filed for bankruptcy in 2004 after a fraud judgment.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1403",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pMTQNUhHCwr39CsS7yUmSg503E7.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TV-Centr",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39729",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qYE87jF0iwQE4jPAymmzBZG4dqa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

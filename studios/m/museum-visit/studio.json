@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Museum Visit",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156101"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

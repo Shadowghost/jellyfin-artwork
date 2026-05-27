@@ -1,0 +1,13 @@
+[
+  {
+    "name": "shotgun films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220829"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

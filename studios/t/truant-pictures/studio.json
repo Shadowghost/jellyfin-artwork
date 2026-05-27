@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Truant Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169661",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cXBPNqpc9QoLOQKw5DbSmyPY7E4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://truantpictures.com",
+    "placeholder": true
+  }
+]

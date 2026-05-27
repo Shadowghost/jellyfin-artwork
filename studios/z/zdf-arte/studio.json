@@ -1,0 +1,28 @@
+[
+  {
+    "name": "ZDF/Arte",
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11237",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nzPEges9ftjCDQWru0qrIfTX8OR.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

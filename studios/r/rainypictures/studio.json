@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RainyPictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172912",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h3HM6cryupTtlfGGOSJd0qkU2xW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IR",
+    "homepage": "http://rainypictures.com/",
+    "headquarters": "Tehran",
+    "placeholder": true
+  }
+]

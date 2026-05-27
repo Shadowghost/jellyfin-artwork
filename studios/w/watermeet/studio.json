@@ -1,0 +1,13 @@
+[
+  {
+    "name": "watermeet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164638"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

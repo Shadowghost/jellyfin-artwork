@@ -1,0 +1,16 @@
+[
+  {
+    "name": "RTL News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203202",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wpXKNDI5AUsskajJSC0pVExUgUp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Cologone",
+    "placeholder": true
+  }
+]

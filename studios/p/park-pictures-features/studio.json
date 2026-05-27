@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Park Pictures Features",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13466",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d2ewBAUkCGeYMj6bv2Z9PkzL5OA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.parkpictures.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

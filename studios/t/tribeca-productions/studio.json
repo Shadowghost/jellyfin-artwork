@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Tribeca Productions",
+    "description": "American film production company founded by Robert De Niro and Jane Rosenthal, behind A Bronx Tale, Wag the Dog, and the Tribeca Film Festival.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://tribecafilm.com/",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11391",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t6m0uRTzaFHCsvEpikENE0PWJGb.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

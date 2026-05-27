@@ -1,0 +1,13 @@
+[
+  {
+    "name": "S3L Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142966"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

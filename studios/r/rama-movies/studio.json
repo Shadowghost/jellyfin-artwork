@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Rama Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "267792"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

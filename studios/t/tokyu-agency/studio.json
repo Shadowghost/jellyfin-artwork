@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tokyu Agency",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27720",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5kGVjY5jlDVIA0uYQs5KIsH96wT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.tokyu-agc.co.jp/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "By FTP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108071"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

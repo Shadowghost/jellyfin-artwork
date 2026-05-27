@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Carpe Diem Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89005",
+        "logo_uri": "https://image.tmdb.org/t/p/original/raNQhziEwCevw44VzSA1JaYdpXk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.carpediemfilms.net",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

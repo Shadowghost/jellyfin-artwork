@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Viktorija Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "44455",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8kf5dTbkdspGcJuQgdpH0CS5p9L.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "homepage": "https://www.viktorijafilm.net/",
+    "headquarters": "Belgrade",
+    "placeholder": true
+  }
+]

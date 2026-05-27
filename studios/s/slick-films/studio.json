@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Slick Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100919",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qpgB2M6on5QbJGaHq9Thiy71am1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://slickfilms.co.uk",
+    "headquarters": "South Bank, London, England",
+    "placeholder": true
+  }
+]

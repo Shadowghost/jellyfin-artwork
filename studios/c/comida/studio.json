@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Comida",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174383"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

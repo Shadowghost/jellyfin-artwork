@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Art Wing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144040"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "placeholder": true
+  }
+]

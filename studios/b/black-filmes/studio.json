@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Black Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139925",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j9hLirKyxRWjI4TiLUFdtBNGglZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://blackfilmes.com.br/",
+    "headquarters": "São Paulo - SP",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Odyssey Entertainment",
+    "country": "GB",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3539",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fcIK6o3OYB5LZcy0ir6yPlZtwk4.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

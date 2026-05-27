@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Plus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128001",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uPN1vSKauoghlu8l70DqY61xGvz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://www.plus.pl",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Doordarshan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66632",
+        "logo_uri": "https://image.tmdb.org/t/p/original/alQJKHLQlV3EFkCshP5pyLfI3z0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

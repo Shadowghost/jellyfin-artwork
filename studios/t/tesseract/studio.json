@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tesseract",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275688"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

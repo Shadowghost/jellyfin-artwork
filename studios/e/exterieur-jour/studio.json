@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Extérieur Jour",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163245",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kNNKZFbEAzshvgnObPOvTXli7ah.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.extjour.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

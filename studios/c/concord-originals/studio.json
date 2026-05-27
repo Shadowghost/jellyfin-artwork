@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Concord Originals",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183982",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iZzZhh1vkOGt0tRb3y2CO0C6Gng.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://concord.com/originals",
+    "placeholder": true
+  }
+]

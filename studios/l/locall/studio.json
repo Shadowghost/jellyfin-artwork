@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Locall",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199636",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lbDLNvlfkPqm3kIcHwVFw4KjOvD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

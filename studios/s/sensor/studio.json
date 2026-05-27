@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sensor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285657"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

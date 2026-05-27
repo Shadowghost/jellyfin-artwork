@@ -1,0 +1,13 @@
+[
+  {
+    "name": "RIP Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196179"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

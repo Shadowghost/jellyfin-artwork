@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ackerman",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98710"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

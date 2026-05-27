@@ -1,0 +1,16 @@
+[
+  {
+    "name": "streetsfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155176"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.streetsfilm.de",
+    "headquarters": "Kassel",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CDI Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134666"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

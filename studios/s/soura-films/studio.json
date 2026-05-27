@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Soura Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32335",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qCOyWMqNX8yKAIm0JRUaySfQnYz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://sourafilms.com",
+    "headquarters": "Washington, DC",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "First UVP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1750"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

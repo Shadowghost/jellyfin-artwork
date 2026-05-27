@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Curate Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199803"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Abu Dhabi TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151034",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9SouwdWGrGBEOPTa35pzDRjV4UG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AE",
+    "homepage": "https://adtv.ae",
+    "placeholder": true
+  }
+]

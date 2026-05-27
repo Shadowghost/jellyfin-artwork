@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Frekuensi Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245560"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

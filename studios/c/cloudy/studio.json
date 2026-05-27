@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cloudy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185507"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

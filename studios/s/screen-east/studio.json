@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Screen East",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7276"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DCC Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177007"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

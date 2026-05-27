@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cinemaker",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38775"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "http://www.cinemaker.fi",
+    "headquarters": "Helsinki, Finland",
+    "placeholder": true
+  }
+]

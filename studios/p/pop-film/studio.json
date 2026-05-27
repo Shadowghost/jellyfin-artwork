@@ -1,0 +1,17 @@
+[
+  {
+    "name": "POP Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180081",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ryNqQ0Gc8jvBdsMxOdoSPTmnuyv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NZ",
+    "homepage": "https://www.popfilm.co.nz/",
+    "headquarters": "Wellington",
+    "placeholder": true
+  }
+]

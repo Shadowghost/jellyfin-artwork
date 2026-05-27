@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Nice Day",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6537"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

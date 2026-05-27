@@ -1,0 +1,35 @@
+[
+  {
+    "name": "SCOPE Invest",
+    "description": "Belgian Tax Shelter funding company for the audiovisual sector; one of the market leaders financing co-productions under the Belgian Tax Shelter regime.",
+    "country": "BE",
+    "type": "other",
+    "homepage": "https://www.scopeinvest.be/",
+    "headquarters": "Brussels",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2250",
+        "logo_uri": "https://image.tmdb.org/t/p/original/459Y6FWZNaSjMJUicqfvlNpZXJe.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Scope Invest"
+    ],
+    "template": true
+  }
+]

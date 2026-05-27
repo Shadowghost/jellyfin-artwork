@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Schongerfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28938",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fIeoO40qTGIm8S93aLC9litub7e.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.schongerfilm.de/",
+    "headquarters": "Inning am Ammersee",
+    "placeholder": true
+  }
+]

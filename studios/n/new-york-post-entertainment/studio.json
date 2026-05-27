@@ -1,0 +1,16 @@
+[
+  {
+    "name": "New York Post Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159202",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jBvJKkbURAu4Pv4bRXC1QBMH9Pv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

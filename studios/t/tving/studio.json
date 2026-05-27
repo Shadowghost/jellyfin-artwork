@@ -1,0 +1,38 @@
+[
+  {
+    "name": "TVING",
+    "description": "South Korean over-the-top streaming service operated by CJ ENM, offering Korean TV shows, films, and live channels.",
+    "country": "KR",
+    "type": "streaming-service",
+    "homepage": "https://www.tving.com/",
+    "headquarters": "Mapo, Seoul",
+    "colors": [
+      {
+        "name": "TVING Red",
+        "hex": "#FF153C"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157262",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cfMtt9sNl2bDyHuoPSZouEqDB9N.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

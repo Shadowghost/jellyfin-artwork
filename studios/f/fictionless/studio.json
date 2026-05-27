@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fictionless",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95201"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movietonews",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273924"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

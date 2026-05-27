@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PlaniFilmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14852"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

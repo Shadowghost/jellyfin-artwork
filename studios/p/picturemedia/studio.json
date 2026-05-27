@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Picturemedia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8432"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

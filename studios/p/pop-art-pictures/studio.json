@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pop Art Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123896"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

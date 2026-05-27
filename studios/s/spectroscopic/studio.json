@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Spectroscopic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218180"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

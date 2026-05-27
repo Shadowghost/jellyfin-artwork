@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Whitelist",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109506"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

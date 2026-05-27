@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dupuis",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95416",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gVFPBmeddZHqOXZCcFHSae8DQ3I.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.dupuis.com",
+    "headquarters": "Marcinelle, Belgium",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mute Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70306"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

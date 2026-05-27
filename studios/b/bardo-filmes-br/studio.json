@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Bardo Filmes (BR)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275071",
+        "logo_uri": "https://image.tmdb.org/t/p/original/s40y0ec9350yJqLVvg4qIrz9QCv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

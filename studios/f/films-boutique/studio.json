@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Films Boutique",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108490",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eTPcU1PILB81QGbvSpv9ElBRbi0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://filmsboutique.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

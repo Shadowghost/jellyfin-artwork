@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fahrenheit (CO)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260775"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

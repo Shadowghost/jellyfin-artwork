@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fremantle España",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152246",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w8NVnsHnibjoknikJItkzteueMv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://fremantle.es/",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Same Player",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4696",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1mZDiaR5yCEe4ayKC8UGx81LtuX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.sameplayer.eu",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

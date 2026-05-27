@@ -1,0 +1,15 @@
+[
+  {
+    "name": "YouTube Originals",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144823",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3RPZRFFB8fbkxf4dACooGjKMAvM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

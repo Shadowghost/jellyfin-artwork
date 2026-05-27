@@ -1,0 +1,17 @@
+[
+  {
+    "name": "diomedéa",
+    "country": "JP",
+    "homepage": "http://www.diomedea.co.jp",
+    "headquarters": "Nerima, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35970",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wsDZfj69ISXuw5iytdZjSV8tRGa.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

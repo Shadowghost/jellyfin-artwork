@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Machine Gum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114059",
+        "logo_uri": "https://image.tmdb.org/t/p/original/se6jhz2pQ4hnbFwP7fwse50y6j2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://machinegum.ca",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

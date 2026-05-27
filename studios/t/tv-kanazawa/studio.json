@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TV Kanazawa",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188523",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Aq2NCRPLH7ejv9U1ymYqdLIli8J.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.tvkanazawa.co.jp/",
+    "placeholder": true
+  }
+]

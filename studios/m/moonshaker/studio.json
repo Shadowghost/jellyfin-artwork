@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Moonshaker",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58566",
+        "logo_uri": "https://image.tmdb.org/t/p/original/juP3WP22UOLnkCmF0euWVDtcjME.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

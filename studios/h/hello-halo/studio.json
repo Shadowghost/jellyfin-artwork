@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hello Halo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112518",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yc5vynXjrUJWWkWWG3GfsLATwtX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://hello-halo.tv/",
+    "headquarters": "Glasgow, Scotland",
+    "placeholder": true
+  }
+]

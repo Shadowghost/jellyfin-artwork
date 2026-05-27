@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dark Sky Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4592",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kgK8NV5jZtqsmnZv92s1I5DnLNX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://darkskyfilms.com/",
+    "headquarters": "Orland Park, Illinois",
+    "placeholder": true
+  }
+]

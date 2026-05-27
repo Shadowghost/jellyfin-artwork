@@ -1,0 +1,14 @@
+[
+  {
+    "name": "After hour films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "296482"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

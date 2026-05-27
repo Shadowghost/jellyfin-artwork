@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DeepLake Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "228443"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

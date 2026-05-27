@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Telecine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7764",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1VoVHKu3kfCkTlXpaq4xPFXCAfw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.telecineplay.com.br",
+    "headquarters": "Rio de Janeiro",
+    "placeholder": true
+  }
+]

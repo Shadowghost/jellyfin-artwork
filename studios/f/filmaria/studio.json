@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmaria",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270330"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

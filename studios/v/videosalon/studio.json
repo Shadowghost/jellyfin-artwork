@@ -1,0 +1,13 @@
+[
+  {
+    "name": "videosalon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264908"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

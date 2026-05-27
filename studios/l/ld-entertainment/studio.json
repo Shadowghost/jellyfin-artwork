@@ -1,0 +1,32 @@
+[
+  {
+    "name": "LD Entertainment",
+    "description": "Independent American film, television, and theatrical studio founded by Mickey Liddell.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "http://ldentertainment.com",
+    "headquarters": "Los Angeles, California, USA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8533",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5jxaT7zoJKtnwqxniiJ9iJLsJru.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

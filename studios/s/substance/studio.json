@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Substance",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141979",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8IEPaPXQC4tvj8wupkQd64f2eqw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://agencesubstance.ca",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

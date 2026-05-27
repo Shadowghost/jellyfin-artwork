@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Hokkoku Shinbun",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "282382",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l3tZuE4dWwE66OLn9cVO4ZbK3s1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

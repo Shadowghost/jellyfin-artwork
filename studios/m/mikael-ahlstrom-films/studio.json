@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mikael Ahlström Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173699",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bOd7iEd6jx7Lr0eKHqHXrDeY3qZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://michaelahlstrom.se/",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

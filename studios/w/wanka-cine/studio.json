@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wanka Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107826",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a0ujPI9vDmg41Oxvmmodv0UcDLP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://wanka.tv",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

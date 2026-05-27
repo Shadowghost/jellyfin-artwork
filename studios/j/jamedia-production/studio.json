@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jamedia Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285669",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qCFZayf6tIbkT8OJE8SgOifz7G8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://jamediaproduction.com/",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

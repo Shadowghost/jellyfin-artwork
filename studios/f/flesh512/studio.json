@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Flesh512",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250227"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Íslenska kvikmyndasamsteypan",
+    "country": "IS",
+    "homepage": "http://www.icecorp.is/",
+    "headquarters": "Reykjavík",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14937",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yfwZ3LaFHOrek8BWdAnmfpQV3dQ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

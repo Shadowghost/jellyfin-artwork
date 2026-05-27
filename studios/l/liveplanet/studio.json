@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Liveplanet",
+    "aka": [
+      "LivePlanet"
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2200"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Victoria State Government",
+    "description": "Australian state government of Victoria, credited on productions supported by Film Victoria / VicScreen.",
+    "country": "AU",
+    "type": "government-agency",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

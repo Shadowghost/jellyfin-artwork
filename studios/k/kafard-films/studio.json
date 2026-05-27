@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kafard Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116544",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2hyjCvpfl3f9wFxBLBGIVv7Zjcs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.kafardfilms.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

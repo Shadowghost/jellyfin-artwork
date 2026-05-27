@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Freya Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202249",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9rUFbi6ZsOjwWTDrGog1FHI63BM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.freyafilms.co.uk/",
+    "placeholder": true
+  }
+]

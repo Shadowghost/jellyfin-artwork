@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Walther Bros",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144825",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fNx65q2TbL93Et4ElUqHZKaVq9p.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://waltherbros.no/",
+    "headquarters": "Trondheim",
+    "placeholder": true
+  }
+]

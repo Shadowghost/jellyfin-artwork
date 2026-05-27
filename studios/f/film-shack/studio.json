@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Shack",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10469"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

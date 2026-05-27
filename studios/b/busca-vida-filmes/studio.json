@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Busca Vida Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "44159",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gb6dngNFaPow5tYHQOC5Gnw09Wm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://buscavidafilmes.com/",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

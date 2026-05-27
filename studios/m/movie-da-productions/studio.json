@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Movie Da Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62332",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1YxCzPjgEmgPXN2UhbYd3RKFwGr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.movieda.com/",
+    "headquarters": "25 Rue du Moulin Joly, 75011 Paris",
+    "placeholder": true
+  }
+]

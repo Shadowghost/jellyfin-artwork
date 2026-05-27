@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Cinemagroup",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8320"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

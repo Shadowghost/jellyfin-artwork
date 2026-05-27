@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinémage 6",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111029",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wHnhiIe2HffyhgMlWRoIPuQhzbT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.cinemage.fr",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Egyptian Radio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224843",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7a3rxo0cHjn6D0RVUoqTcKM1lTi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EG",
+    "placeholder": true
+  }
+]

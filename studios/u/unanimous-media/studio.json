@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Unanimous Media",
+    "country": "US",
+    "homepage": "https://www.unanimousmedia.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120524",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6G31NBE33avSwnSw9OGiFhCOpkS.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

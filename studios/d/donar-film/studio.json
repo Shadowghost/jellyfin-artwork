@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Donar Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191202",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fidoINI8gtY5rgfIKWzHLiUF527.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.donar-film.de/",
+    "headquarters": "Cologne",
+    "placeholder": true
+  }
+]

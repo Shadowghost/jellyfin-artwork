@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Manga Entertainment",
+    "description": "UK anime distribution label, historically a major releaser of titles like Akira and Ghost in the Shell, eventually folded into Funimation/Crunchyroll's UK operations.",
+    "country": "GB",
+    "type": "distributor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3706",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jQAPMaK0luVFn69MvL83d3l6iCo.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

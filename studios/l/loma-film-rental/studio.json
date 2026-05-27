@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Loma Film Rental",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140772"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

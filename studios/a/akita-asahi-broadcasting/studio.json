@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Akita Asahi Broadcasting",
+    "description": "Japanese commercial television station based in Akita Prefecture, affiliated with All-Nippon News Network (ANN/TV Asahi).",
+    "country": "JP",
+    "type": "broadcast-network",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Akita Asahi Broadcasting Co., Ltd."
+    ],
+    "template": true
+  }
+]

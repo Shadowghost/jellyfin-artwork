@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lime Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92000",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oRzQU7SEZGG043kCaBsFQ8hX6WL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.limepictures.com/",
+    "placeholder": true
+  }
+]

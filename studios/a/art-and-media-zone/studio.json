@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Art and Media Zone",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213204"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

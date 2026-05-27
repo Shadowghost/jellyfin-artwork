@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie Prose",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22746"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

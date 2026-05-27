@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Metal Blade",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3999"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Emperor Motion Pictures",
+    "description": "Hong Kong-based film production, sales, and distribution company, one of the largest producers of Hong Kong cinema.",
+    "country": "HK",
+    "type": "studio",
+    "homepage": "https://www.emp.hk/en/",
+    "headquarters": "Hong Kong",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122289",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4l16C8j9h4frZO5iPD71lpLqTH3.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

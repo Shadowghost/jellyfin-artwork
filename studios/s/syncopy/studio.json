@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Syncopy",
+    "description": "British/American film production company founded by Christopher Nolan and Emma Thomas; producer of Inception, Interstellar, Dunkirk, Tenet and Oppenheimer.",
+    "country": "GB",
+    "type": "production-company",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9996",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3tvBqYsBhxWeHlu62SIJ1el93O7.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

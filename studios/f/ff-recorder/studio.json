@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FF Recorder",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180516"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

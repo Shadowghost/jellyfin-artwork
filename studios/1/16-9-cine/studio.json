@@ -1,0 +1,13 @@
+[
+  {
+    "name": "16:9 Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205399"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

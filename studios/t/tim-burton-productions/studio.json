@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tim Burton Productions",
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8601",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kqubCH3sfBAk4znUj7hjqv8ffgi.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

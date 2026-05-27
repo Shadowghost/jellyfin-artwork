@@ -1,0 +1,16 @@
+[
+  {
+    "name": "emole",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "267281",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tzPBDfX3PPkPZABomsj9BwOjCQH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://emole.co.jp/",
+    "placeholder": true
+  }
+]

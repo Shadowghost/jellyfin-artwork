@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fulgurance",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "178950",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jmccowZbLdJ2MZDHmkvwYS01vLX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.fulgurancefilms.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

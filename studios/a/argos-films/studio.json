@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Argos films",
+    "country": "ES",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134704"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

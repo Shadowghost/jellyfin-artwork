@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ORTF",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1293",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4r2EdENtYK1Ddxmciod3XvmfA9k.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BTeam Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121404",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r8FASjKlLzwzzdnMSXO4EoSujkr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://bteampictures.es/",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

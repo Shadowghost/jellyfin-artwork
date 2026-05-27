@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CinemaTransGenero",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127941"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

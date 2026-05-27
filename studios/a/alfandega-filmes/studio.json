@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Alfândega Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23413"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "headquarters": "Porto",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Filmallee",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13130"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://filmallee.com/",
+    "placeholder": true
+  }
+]

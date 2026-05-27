@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Carosello",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140050"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

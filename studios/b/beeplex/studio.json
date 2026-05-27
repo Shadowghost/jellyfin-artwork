@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Beeplex",
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18270"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

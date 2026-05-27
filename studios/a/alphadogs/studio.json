@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AlphaDogs",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110305",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kThbSuZMTPOmXFIIc7KpBkQXTaP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.alphadogs.tv",
+    "headquarters": "Burbank, California",
+    "placeholder": true
+  }
+]

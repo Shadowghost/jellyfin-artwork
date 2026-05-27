@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Federated",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20434"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

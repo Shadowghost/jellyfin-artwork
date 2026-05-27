@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jeu de Paume",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85578",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o55VUxvj8vMzXI6lyLyi1hB0hH3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://jeudepaume.org/",
+    "headquarters": "Jardin des Tuileries, Paris",
+    "placeholder": true
+  }
+]

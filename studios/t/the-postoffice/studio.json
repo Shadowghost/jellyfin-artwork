@@ -1,0 +1,17 @@
+[
+  {
+    "name": "the postoffice",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229921",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sPboL9rpkR47lKVFfh6iLtK6Uda.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LB",
+    "homepage": "http://www.thepostoffice.com.lb/",
+    "headquarters": "Beirut",
+    "placeholder": true
+  }
+]

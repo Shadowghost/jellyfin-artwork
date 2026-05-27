@@ -1,0 +1,13 @@
+[
+  {
+    "name": "OPJ Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234024"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

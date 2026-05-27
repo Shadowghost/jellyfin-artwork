@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lodz Film School",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21778",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pKaywrtWfuwLKmocmexmgYLsHhf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://www.filmschool.lodz.pl",
+    "headquarters": "Lodz",
+    "placeholder": true
+  }
+]

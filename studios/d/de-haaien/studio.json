@@ -1,0 +1,17 @@
+[
+  {
+    "name": "De Haaien",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95323",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mY09jEhhYN1p1N1TDUC8CHQQx1W.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.dehaaien.com/en",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

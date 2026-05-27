@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Marvy Jack",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13104",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uaY2pc7FJn1AtuxvavLL6PAeemN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://marvyjack.co.jp",
+    "placeholder": true
+  }
+]

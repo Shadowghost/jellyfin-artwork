@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Chromascope",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17683"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

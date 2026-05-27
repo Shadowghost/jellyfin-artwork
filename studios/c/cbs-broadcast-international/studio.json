@@ -1,0 +1,26 @@
+[
+  {
+    "name": "CBS Broadcast International",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88832"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

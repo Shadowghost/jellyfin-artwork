@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cranked Up Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137628",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7fNQ8e7oXpOSwz43WesfAIyVAbu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://crankedupfilms.com/",
+    "headquarters": "Ashland, OH",
+    "placeholder": true
+  }
+]

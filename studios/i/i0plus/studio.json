@@ -1,0 +1,16 @@
+[
+  {
+    "name": "i0plus",
+    "country": "JP",
+    "homepage": "http://i0plus.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181739",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qO4j3PIbtaVjYk56bbU5peQoJ46.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

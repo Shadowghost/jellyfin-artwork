@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pristine Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121072",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7ltdaYSC47Stv2mYpgX2h2D1ino.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "http://pristinefilm.com",
+    "placeholder": true
+  }
+]

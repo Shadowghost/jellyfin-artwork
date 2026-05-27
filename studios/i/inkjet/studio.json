@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Inkjet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86041"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

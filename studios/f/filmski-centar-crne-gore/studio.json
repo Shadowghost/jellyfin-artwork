@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmski centar Crne Gore",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129074",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8OrNTzxy0XvndXGUOAXmmNhTUFR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ME",
+    "homepage": "https://fccg.me/",
+    "headquarters": "Podgorica",
+    "placeholder": true
+  }
+]

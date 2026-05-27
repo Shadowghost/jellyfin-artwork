@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tiki Terrors",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25092"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

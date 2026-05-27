@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Boavista Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210211",
+        "logo_uri": "https://image.tmdb.org/t/p/original/azUEBx8A50RFTa6dzT1AYR2jmmo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "https://www.boavistafilmes.com/",
+    "headquarters": "Porto",
+    "placeholder": true
+  }
+]

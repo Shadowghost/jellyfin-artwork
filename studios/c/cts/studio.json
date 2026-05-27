@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CTS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180303",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j9caTfvMDy96P5ZF7DxaoGP7zYl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.cts.tv/",
+    "headquarters": "서울특별시 동작구 노량진로 100 (주)기독교텔레비전",
+    "placeholder": true
+  }
+]

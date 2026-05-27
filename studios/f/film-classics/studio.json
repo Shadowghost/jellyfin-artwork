@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Film Classics",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15951"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

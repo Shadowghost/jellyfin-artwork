@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Chama films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80423"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

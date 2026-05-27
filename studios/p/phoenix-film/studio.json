@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Phoenix Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2125"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.phoenix-film.de",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

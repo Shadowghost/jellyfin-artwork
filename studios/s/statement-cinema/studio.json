@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Statement Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283562"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

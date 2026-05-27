@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmfund Luxembourg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200100"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

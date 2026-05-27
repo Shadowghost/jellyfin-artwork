@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rare Bird Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92522",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yRlNQCrJDN17x78ZeKCz2srp0eJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://rarebirdfilms.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "SBC",
+    "country": "SC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121621"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

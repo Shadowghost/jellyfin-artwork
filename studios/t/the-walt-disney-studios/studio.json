@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Walt Disney Studios",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109755",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6SeZO9r3RpIGezMELFj8iiz3UEG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.disneystudios.com",
+    "headquarters": "Burbank, California",
+    "placeholder": true
+  }
+]

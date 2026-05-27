@@ -1,0 +1,13 @@
+[
+  {
+    "name": "campamento",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260907"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

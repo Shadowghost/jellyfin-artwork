@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Eyedropper Fill",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88195"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

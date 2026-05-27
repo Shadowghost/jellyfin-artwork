@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lorem Ipsum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209859",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eMB250XUNXwwGYLu8Zoi3crUcWj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://loremipsument.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

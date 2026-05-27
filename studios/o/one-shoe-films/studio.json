@@ -1,0 +1,15 @@
+[
+  {
+    "name": "One Shoe Films",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159584",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bHkB5jZNUvvN9j2JAYZ6YASnm4g.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

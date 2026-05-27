@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wild Logic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134766",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h4pSjvJT7QbLCGFbzEWi70zOKeb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.wildlogic.net",
+    "headquarters": "Santa Barbara, California",
+    "placeholder": true
+  }
+]

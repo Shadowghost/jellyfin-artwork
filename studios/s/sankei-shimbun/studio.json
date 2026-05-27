@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sankei Shimbun",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12039"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

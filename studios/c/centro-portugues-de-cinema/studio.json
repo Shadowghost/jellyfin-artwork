@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Centro Português de Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15450"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "placeholder": true
+  }
+]

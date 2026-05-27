@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Katapult Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19117",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4ILenL9PJnoYmaIRzUSJKA3abVe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "http://www.katapultfilm.hu/",
+    "headquarters": "Budapest, Hungary",
+    "placeholder": true
+  }
+]

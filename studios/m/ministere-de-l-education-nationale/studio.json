@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ministère de l'Éducation nationale",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86615",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3uDiaq7wItc63on9szIVfxGhaaa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.education.gouv.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

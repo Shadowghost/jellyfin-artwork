@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PLAYEMINENT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110000"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

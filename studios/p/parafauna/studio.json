@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Parafauna",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165312",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nH33SHm4Hqc7p61NlRm7YBuVJ9a.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://parafauna.com",
+    "placeholder": true
+  }
+]

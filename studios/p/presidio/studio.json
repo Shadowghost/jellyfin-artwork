@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Presidio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35777",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kFYo0rNwigbU1FWufFJ7JSntX4n.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.presidio.co.jp",
+    "placeholder": true
+  }
+]

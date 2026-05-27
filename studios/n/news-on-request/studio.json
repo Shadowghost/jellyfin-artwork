@@ -1,0 +1,13 @@
+[
+  {
+    "name": "News On Request",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "44994"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

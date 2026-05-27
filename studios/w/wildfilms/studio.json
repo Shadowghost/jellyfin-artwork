@@ -1,0 +1,13 @@
+[
+  {
+    "name": "wildfilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "186038"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

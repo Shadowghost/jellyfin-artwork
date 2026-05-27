@@ -1,0 +1,27 @@
+[
+  {
+    "name": "BBC Radio 1Xtra",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142194",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3ShG6juJb4EZ21mwXaOk4QVWFbB.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

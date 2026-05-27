@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Werner Film Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69230",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oVsC1UIrbh0eiANaN8TqexOfD7S.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "http://www.wernerfilmproductions.com.au",
+    "headquarters": "Fitzroy, Victoria",
+    "placeholder": true
+  }
+]

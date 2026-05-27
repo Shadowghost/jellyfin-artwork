@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Warner Bros. Japan",
+    "country": "JP",
+    "homepage": "https://warnerbros.co.jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3627",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pBfPYpzg5o3EoBPfrFKzTRi8MGr.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

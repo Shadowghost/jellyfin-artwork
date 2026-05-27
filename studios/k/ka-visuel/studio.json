@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ka Visuel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123535"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

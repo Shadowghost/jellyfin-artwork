@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sony Music Entertainment",
+    "country": "US",
+    "homepage": "https://www.sonymusic.com",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4375",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eo8fJbkpiz9Wdsl1qDSEX4GXeZH.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

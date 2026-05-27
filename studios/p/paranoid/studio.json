@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Paranoid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55992",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hL6oY1BCLqUeiBB5KcdeHSfDzhT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.paranoidbr.com/",
+    "headquarters": "São Paulo",
+    "placeholder": true
+  }
+]

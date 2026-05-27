@@ -1,0 +1,32 @@
+[
+  {
+    "name": "The Walt Disney Company",
+    "description": "American multinational mass media and entertainment conglomerate founded by Walt and Roy O. Disney; parent of Walt Disney Studios, Pixar, Marvel, Lucasfilm, 20th Century, and Disney+.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "https://www.thewaltdisneycompany.com/",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20193",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oz1p4QkoNONJZ3JT6BF6Jj4Nw2l.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

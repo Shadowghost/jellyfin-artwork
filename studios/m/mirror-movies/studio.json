@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mirror Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181806"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

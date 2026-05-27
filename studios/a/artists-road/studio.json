@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Artists Road",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160096",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qWVmQGOKtCQgFCBCaC4zBixeE9I.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

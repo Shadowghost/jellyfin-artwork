@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Street Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194203"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

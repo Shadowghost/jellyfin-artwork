@@ -1,0 +1,16 @@
+[
+  {
+    "name": "A Kimchi Movie Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88684",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q8lHVBAuo2RVi7q6wmEs3F41wAd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "headquarters": "Gangnam, Seoul, South Korea",
+    "placeholder": true
+  }
+]

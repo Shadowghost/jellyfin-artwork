@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Unstable Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215825",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pwHn99zsKXaNBYZXkPKcWKUtIhy.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

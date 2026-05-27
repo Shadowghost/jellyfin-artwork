@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Oneplay",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152295",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ila8xuA7YqZaKvqW5tV8BtyEnyL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.oneplay.cz/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Brain Farm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4932",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b7iNfw2oI8L3rCQG3Km7pUyFf5f.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

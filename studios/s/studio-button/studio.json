@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio Button",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "265004",
+        "logo_uri": "https://image.tmdb.org/t/p/original/seAmYwZC9bUW1xhLzjacHmujcD3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.studiobutton.kr/",
+    "headquarters": "Nam, Gwangju, South Korea",
+    "placeholder": true
+  }
+]

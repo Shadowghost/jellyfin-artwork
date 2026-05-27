@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Happy Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139741"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

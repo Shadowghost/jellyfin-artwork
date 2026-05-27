@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Simpatico Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99112",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xdApSFkQa0KXpIC6H3EwJ9iRJR7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.simpaticopictures.com/",
+    "headquarters": "Atlanta, Georgia",
+    "placeholder": true
+  }
+]

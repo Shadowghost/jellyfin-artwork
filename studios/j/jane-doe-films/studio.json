@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Jane Doe Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135794",
+        "logo_uri": "https://image.tmdb.org/t/p/original/82BELejHE715yTRxvnN6QAFVhrX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://janedoefilms.com",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "kinoglas-films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177316"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

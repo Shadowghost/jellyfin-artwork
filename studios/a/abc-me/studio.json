@@ -1,0 +1,29 @@
+[
+  {
+    "name": "ABC Me",
+    "description": "Australian free-to-air children's television channel operated by the ABC, targeting older children and tweens; closed in 2024.",
+    "country": "AU",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105223"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

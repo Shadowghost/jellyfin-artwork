@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Trezor Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175638"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

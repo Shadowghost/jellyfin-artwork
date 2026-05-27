@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Baraka Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250571",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5QQrlClQw9etrtAFbiM8mFNVc9U.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "placeholder": true
+  }
+]

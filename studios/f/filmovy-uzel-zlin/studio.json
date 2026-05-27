@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmový uzel Zlín",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118742",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9dp57kYygOET2c9hnRa9UHWVVAS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://filmovyuzel.cz/",
+    "headquarters": "Zlín, Czech Republic",
+    "placeholder": true
+  }
+]

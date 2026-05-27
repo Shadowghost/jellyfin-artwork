@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TMS Music",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174280"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://tmsmusic.tokyo/",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

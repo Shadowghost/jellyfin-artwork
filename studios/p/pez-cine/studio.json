@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pez Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193502",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4GQnya4RDlVxVKryh1vmQzyQnv3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://www.pezcine.com/",
+    "headquarters": "Rosario",
+    "placeholder": true
+  }
+]

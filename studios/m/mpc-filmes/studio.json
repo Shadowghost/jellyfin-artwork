@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MPC Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80352"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.mpcfilmes.com.br/",
+    "headquarters": "Rio de Janeiro RJ",
+    "placeholder": true
+  }
+]

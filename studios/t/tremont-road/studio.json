@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tremont Road",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202906",
+        "logo_uri": "https://image.tmdb.org/t/p/original/li839vDBragbB2V5xxiX44ONAgL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.tremontroad.com/",
+    "headquarters": "Los Angeles,  California",
+    "placeholder": true
+  }
+]

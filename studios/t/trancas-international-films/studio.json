@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Trancas International Films",
+    "country": "US",
+    "homepage": "http://trancasfilms.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15822",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fNHvjC0DGO46kz7GFYRoWo91lcY.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

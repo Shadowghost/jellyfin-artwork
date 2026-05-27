@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CES Film House",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "296600",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h5G0F1uu8lUig9FKsYb7MRo9l9x.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://cesfilmhouse.mx/",
+    "headquarters": "Guadalajara",
+    "placeholder": true
+  }
+]

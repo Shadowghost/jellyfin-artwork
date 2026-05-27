@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Blue Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156682",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cZiD0yy530os4Dh3fjyIs2fgYQc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.blueplus.ch/",
+    "headquarters": "Zurich",
+    "placeholder": true
+  }
+]

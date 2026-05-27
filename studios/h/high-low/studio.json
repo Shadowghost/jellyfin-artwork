@@ -1,0 +1,13 @@
+[
+  {
+    "name": "High&Low",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42006"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

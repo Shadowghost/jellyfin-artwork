@@ -1,0 +1,13 @@
+[
+  {
+    "name": "da-acorn production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "235094"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

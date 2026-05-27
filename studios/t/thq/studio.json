@@ -1,0 +1,16 @@
+[
+  {
+    "name": "THQ",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63175",
+        "logo_uri": "https://image.tmdb.org/t/p/original/89fMWKlN7DekNHb7gEuVHRK2j0U.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Agoura Hills, California, US",
+    "placeholder": true
+  }
+]

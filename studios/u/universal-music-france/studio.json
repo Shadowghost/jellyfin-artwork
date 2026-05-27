@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Universal Music France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104897",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ppcqFmj5bWkQhmaEFBSN4FfMfkT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.universalmusic.fr/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NHL Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "47427",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wUkeNmpWmmZqPmmAaS89pGOi5z4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

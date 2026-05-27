@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pimiento",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34170",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zDHUFdGYWxwgjk9Gyuf9xMSRVOW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.pimiento.ca",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

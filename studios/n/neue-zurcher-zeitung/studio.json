@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Neue Zürcher Zeitung",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183029"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

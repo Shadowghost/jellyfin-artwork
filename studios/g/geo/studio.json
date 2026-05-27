@@ -1,0 +1,13 @@
+[
+  {
+    "name": "GEO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222339"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

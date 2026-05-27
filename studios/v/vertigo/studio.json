@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vertigo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23084",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9mcikqGo4XjxS5t1w97FIoYeD0C.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SI",
+    "homepage": "http://www.vertigo.si/en/",
+    "headquarters": "Ljubljana",
+    "placeholder": true
+  }
+]

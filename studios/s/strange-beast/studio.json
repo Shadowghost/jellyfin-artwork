@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Strange Beast",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108133",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bJmfEZNkepbp2dIbdlvOADg7Wnb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.strangebeast.tv/",
+    "headquarters": "33-34 Rathbone Place London",
+    "placeholder": true
+  }
+]

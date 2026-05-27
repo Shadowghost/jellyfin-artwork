@@ -1,0 +1,35 @@
+[
+  {
+    "name": "SpindleHorse",
+    "description": "American independent animation studio founded by Vivienne Medrano, producer of Helluva Boss and the Hazbin Hotel pilot.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "https://spindlehorse.com/",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139412",
+        "logo_uri": "https://image.tmdb.org/t/p/original/naLmx5XLH2BjPn6fWqc8zVUgzRT.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "SpindleHorse Toons"
+    ],
+    "template": true
+  }
+]

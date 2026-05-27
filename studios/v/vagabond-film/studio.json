@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Vagabond Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100170",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1NquvNoIZr75R9qJUlXBY1y0Jwo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "homepage": "https://vagabond-film.com/",
+    "placeholder": true
+  }
+]

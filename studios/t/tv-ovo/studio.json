@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TV Ovo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189354",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6CF3Ft1zENgqH21Dh40YRDoWDkl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://tvovo.org/",
+    "placeholder": true
+  }
+]

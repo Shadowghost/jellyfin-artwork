@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Alacocina tv",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201704",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a3urt8uC1YbYsuI3ZxH1817g28V.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PE",
+    "homepage": "http://www.alacocinatv.com",
+    "headquarters": "Santiago de Surco, Lima -Peru",
+    "placeholder": true
+  }
+]

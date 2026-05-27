@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sam Big Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100814"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

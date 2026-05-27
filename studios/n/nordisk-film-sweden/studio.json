@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nordisk Film Sweden",
+    "country": "SE",
+    "homepage": "https://www.nordiskfilm.se",
+    "headquarters": "Stockholm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "327",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vodjjKlAbwGeERPjrAhxZMBGPUc.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

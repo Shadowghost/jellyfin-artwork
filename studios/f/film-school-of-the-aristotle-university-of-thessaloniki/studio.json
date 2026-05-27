@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Film School of the Aristotle University of Thessaloniki",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "178474",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AvEu3FUJOiul65MTD74MQmQckQi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GR",
+    "homepage": "https://www.film.auth.gr/",
+    "placeholder": true
+  }
+]

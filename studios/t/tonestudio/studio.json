@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ToneStudio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250744",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dyVTqkNqfvQq32lnWfKDrsoIokB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://www.tone-studio.com/",
+    "headquarters": "Jing'an District, Shanghai, China",
+    "placeholder": true
+  }
+]

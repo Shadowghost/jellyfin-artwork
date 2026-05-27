@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Orchard Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143180"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

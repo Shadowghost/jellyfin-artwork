@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Archipel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160336",
+        "logo_uri": "https://image.tmdb.org/t/p/original/etnxycDP44GrT4SAbgypfAXf9Aj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.archipel.jp/home",
+    "placeholder": true
+  }
+]

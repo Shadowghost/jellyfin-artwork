@@ -1,0 +1,16 @@
+[
+  {
+    "name": "305 Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252355",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nNDI4HN5hVPTeBYOtonxWEFTYlJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://305films.com/",
+    "placeholder": true
+  }
+]

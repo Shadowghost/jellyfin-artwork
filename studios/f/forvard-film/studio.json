@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Forvard Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108281",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sMlxQgvcpGkywgzssDLND93V9Ns.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://forwardfilm.ru/",
+    "headquarters": "Moscow, Leninskaya Sloboda street, 19, building 6",
+    "placeholder": true
+  }
+]

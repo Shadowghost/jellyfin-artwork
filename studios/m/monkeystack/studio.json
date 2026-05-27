@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Monkeystack",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "190385"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

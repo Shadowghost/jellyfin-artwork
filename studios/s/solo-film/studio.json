@@ -1,0 +1,16 @@
+[
+  {
+    "name": "solo:film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137801"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.solofilmproduktion.de",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

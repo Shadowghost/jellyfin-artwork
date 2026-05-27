@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TCMAX",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110136"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

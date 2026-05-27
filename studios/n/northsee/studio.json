@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NorthSee",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1918"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

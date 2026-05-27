@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Blitz Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25628",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fKu903U4qHZsEb7VHPMtFsRqQaa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://blitzfilms.ru",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

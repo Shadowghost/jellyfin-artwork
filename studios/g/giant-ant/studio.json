@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Giant Ant",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233894",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7QBreQ1mhCXIMEU16OhlLAc6X9q.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.giantant.ca",
+    "headquarters": "Vancouver, British Columbia",
+    "placeholder": true
+  }
+]

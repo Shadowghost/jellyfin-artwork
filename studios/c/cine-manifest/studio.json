@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine Manifest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230609"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

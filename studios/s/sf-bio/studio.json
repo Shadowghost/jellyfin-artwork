@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SF Bio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100397",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sZggqq5KqYJFcly1YibMJEetmdD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

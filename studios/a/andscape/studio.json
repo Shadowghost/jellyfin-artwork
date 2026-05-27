@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Andscape",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171448",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aXSGAQV5jrGBfiunrmF8CQJqYEb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://andscape.com/",
+    "placeholder": true
+  }
+]

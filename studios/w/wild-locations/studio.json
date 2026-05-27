@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Wild Locations",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240988"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

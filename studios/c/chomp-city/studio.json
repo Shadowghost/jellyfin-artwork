@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Chomp City",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233735"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

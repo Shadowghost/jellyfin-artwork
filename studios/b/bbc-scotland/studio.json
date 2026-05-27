@@ -1,0 +1,30 @@
+[
+  {
+    "name": "BBC Scotland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3712",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7PdJYn2l0iBViud7oqxRHO9UEIR.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "GB",
+    "homepage": "https://www.bbc.com/scotland",
+    "headquarters": "Glasgow, Scotland",
+    "template": true
+  }
+]

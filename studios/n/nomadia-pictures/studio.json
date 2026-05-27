@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nomadia Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145143",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c6u4Vma4uUK8FunzI8H7jnt31mN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MN",
+    "homepage": "https://v2.nomadiapictures.mn/",
+    "headquarters": "Ulaanbaatar",
+    "placeholder": true
+  }
+]

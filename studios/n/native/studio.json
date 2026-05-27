@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Native",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "65863"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

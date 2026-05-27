@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Basis-Film Verleih",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14195",
+        "logo_uri": "https://image.tmdb.org/t/p/original/etnj8b7vY8t7YTpjOLeANnIApVW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://basisfilm.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

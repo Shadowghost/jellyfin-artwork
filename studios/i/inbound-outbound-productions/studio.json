@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Inbound / Outbound Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249518"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

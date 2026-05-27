@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Artista Filmi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5181"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "http://artistafilmi.fi/",
+    "headquarters": "Pori",
+    "placeholder": true
+  }
+]

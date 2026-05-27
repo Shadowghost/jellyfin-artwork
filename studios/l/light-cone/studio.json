@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Light Cone",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106902"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://lightcone.org",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

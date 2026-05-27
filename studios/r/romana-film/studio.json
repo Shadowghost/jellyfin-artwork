@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Romana Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8500"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

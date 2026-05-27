@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine Mercurio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256604"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

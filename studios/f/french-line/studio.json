@@ -1,0 +1,13 @@
+[
+  {
+    "name": "French Line",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79190"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

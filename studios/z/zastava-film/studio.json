@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Zastava film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15245"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "headquarters": "Beograd",
+    "placeholder": true
+  }
+]

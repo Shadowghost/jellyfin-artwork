@@ -1,0 +1,17 @@
+[
+  {
+    "name": "512RED",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138746",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7e7SePdhvNrSJzwciaTquuS47bC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://512red.com",
+    "headquarters": "Toronto, Ontario, Canada",
+    "placeholder": true
+  }
+]

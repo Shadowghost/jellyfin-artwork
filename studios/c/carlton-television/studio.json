@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Carlton Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5171",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ikbBBhKunxyxyrJSzSGKvOjECQw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

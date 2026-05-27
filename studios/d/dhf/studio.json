@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DHF",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100111"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

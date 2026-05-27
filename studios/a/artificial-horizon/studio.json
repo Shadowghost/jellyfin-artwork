@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Artificial Horizon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122254"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lâmina Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262045"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

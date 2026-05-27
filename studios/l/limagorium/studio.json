@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Limagorium",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91337"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

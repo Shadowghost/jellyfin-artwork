@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Washington Post",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153673",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cTcnyHtt2qTIaBTHqghvDnU5PVc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.washingtonpost.com/",
+    "headquarters": "Washington, D.C.",
+    "placeholder": true
+  }
+]

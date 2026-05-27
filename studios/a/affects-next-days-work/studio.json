@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Affects Next Day’s Work",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270134"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

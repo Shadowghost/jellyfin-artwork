@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Shine TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41674",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4yChfKIbw8OA3IA18D6ZxBEO1m0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://www.shine.tv",
+    "headquarters": "London, England, UK",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Office Kitano",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "567",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6Vfm1fYBTeHNxPvgDZsxTv9BcXu.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

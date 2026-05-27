@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Charito Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115302",
+        "logo_uri": "https://image.tmdb.org/t/p/original/udlImTGfGRxGIAHsaBrCxy9n9PR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://lacharitofilms.com/",
+    "headquarters": "Barcelona, Cataluña",
+    "placeholder": true
+  }
+]

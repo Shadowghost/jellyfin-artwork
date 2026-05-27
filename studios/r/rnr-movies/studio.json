@@ -1,0 +1,13 @@
+[
+  {
+    "name": "RNR Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "292216"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Entama",
+    "country": "JP",
+    "homepage": "https://en-tama.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248982",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lAQSw2WAMkzTAKXEkcyigjw1oXa.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

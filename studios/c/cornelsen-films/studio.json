@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cornelsen Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "59331",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w7XNUWHMk1Zkb2q5siSmcOr1PCW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://cornelsen-films.de/en",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

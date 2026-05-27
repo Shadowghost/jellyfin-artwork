@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Alva Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113254",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nnYoKyK53uXT7aqURA51n1bGthM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://alvafilm.ch/en",
+    "headquarters": "Geneva",
+    "placeholder": true
+  }
+]

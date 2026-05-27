@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Clover Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7711",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wfiLrPKpshzXdHEjla1djtjgpo7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SG",
+    "homepage": "http://www.cloverfilms.com.sg/",
+    "headquarters": "Singapore",
+    "placeholder": true
+  }
+]

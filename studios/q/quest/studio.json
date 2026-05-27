@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Quest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169342"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

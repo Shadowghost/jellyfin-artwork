@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Banijay Mexico & U.S. Hispanic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202304",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gSm84z3tyMr9ookLi5ctN4w9rtU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://www.banijaymx.us",
+    "headquarters": "Ciudad de México",
+    "placeholder": true
+  }
+]

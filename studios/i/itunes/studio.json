@@ -1,0 +1,14 @@
+[
+  {
+    "name": "itunes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28251",
+        "logo_uri": "https://image.tmdb.org/t/p/original/smINwC5DCMtZE58w8tLoUeJs4Zd.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fanes Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "330",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eexIacUyasFIvRc0hODnDTsDoSu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.fanesfilm.de/",
+    "headquarters": "Munich, Bavaria",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Stand Up To Cancer",
+    "description": "Charitable program of the Entertainment Industry Foundation that raises funds for cancer research through televised events on US broadcast and cable networks.",
+    "country": "US",
+    "type": "other",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

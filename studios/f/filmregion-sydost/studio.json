@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmregion Sydost",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249086",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mBLX88PCxzOCaMzgZbmVrxhG6qn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://filmregionsydost.se/",
+    "headquarters": "Växjö",
+    "placeholder": true
+  }
+]

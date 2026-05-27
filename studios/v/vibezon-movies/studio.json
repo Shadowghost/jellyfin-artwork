@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Vibezon Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92136"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

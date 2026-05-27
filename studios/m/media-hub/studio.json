@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Media Hub",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193224",
+        "logo_uri": "https://image.tmdb.org/t/p/original/50w5mwJRTDeJbj13bD82ieDBsqD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://www.mediahub.com.ar/",
+    "placeholder": true
+  }
+]

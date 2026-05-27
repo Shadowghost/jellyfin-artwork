@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Azure Centrum",
+    "country": "AU",
+    "headquarters": "Hawthorn, Victoria",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248432"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

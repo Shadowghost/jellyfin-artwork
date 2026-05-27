@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Scary Cow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100016",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cHOBayF27bn69EacBarhS8n52Ly.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.scarycow.com",
+    "headquarters": "San Francisco, California",
+    "placeholder": true
+  }
+]

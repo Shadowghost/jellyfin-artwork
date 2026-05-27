@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie Package Company (MPC)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21655"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

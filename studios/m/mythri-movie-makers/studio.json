@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mythri Movie Makers",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69125",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7kRvsVRhT76VTbhGLgJ2CrTgdpa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "homepage": "http://mythrimoviemakers.com",
+    "headquarters": "Hyderabad, India",
+    "placeholder": true
+  }
+]

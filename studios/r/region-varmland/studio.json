@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Region Värmland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118206",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ahilh4zNCT9Jx7P3OT8zZzTlkd0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://regionvarmland.se/",
+    "headquarters": "Karlstad, Värmland",
+    "placeholder": true
+  }
+]

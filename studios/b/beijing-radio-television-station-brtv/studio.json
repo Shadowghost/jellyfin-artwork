@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Beijing Radio & Television Station 北京广播电视台 (BRTV)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224510",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yA74ABzpPt1cNjxN51y06eyXeAX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://www.brtv.org.cn/",
+    "headquarters": "Beijing, China",
+    "placeholder": true
+  }
+]

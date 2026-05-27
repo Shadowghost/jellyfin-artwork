@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Black Horse Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63200",
+        "logo_uri": "https://image.tmdb.org/t/p/original/27Yi4BC4a8qgeLxGWkMx2Xvjpwu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NP",
+    "homepage": "http://www.blackhorsepictures.com",
+    "headquarters": "Kathmandu",
+    "placeholder": true
+  }
+]

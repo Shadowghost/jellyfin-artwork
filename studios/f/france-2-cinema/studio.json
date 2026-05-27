@@ -1,0 +1,30 @@
+[
+  {
+    "name": "France 2 Cinéma",
+    "country": "FR",
+    "homepage": "http://www.france2cinema.fr",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9OQ0rm55xtlgX7KcAKMUePJSrQc.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

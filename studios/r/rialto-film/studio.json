@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rialto Film",
+    "country": "DE",
+    "homepage": "https://www.rialtofilm.de/",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29165",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d1wokdgTjC7lJs6yktVd61JZrwD.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

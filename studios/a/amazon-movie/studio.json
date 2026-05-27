@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Amazon Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158212"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

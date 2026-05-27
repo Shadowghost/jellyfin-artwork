@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lucien TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123069",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A1d6ImzSI87AE4WgCKhEovfzzZD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.lucienprod.fr/",
+    "headquarters": "Lucien Prod, 53 Rue Boissière, 75016 Paris",
+    "placeholder": true
+  }
+]

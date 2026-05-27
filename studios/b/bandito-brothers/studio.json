@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bandito Brothers",
+    "country": "US",
+    "homepage": "http://www.banditobrothers.com/",
+    "headquarters": "Los Angeles, California, United States",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8403",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7F7sAd2aQSXxnZ0TnKgJdFLIiYS.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

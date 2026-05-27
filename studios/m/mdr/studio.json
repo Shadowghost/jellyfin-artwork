@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MDR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "588",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6mWg9rdVSj8gwgMiOmZH4iBCcMm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.mdr.de/home/index.html",
+    "headquarters": "Leipzig",
+    "placeholder": true
+  }
+]

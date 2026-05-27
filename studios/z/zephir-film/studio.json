@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Zephir Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2475"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

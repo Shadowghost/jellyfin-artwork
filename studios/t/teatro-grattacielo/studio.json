@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Teatro Grattacielo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "236997",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zMLgAzXSZIoOB8piHal5vB7BenY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://grattacielo.org/",
+    "headquarters": "New York City, NY",
+    "placeholder": true
+  }
+]

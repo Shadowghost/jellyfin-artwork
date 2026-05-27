@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Momentum Pictures",
+    "country": "CA",
+    "homepage": "http://www.momentumpictures.net",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19578"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Le Domaine national de Chambord",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126288"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.chambord.org/en",
+    "headquarters": "Chambord",
+    "placeholder": true
+  }
+]

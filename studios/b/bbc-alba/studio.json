@@ -1,0 +1,30 @@
+[
+  {
+    "name": "BBC Alba",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193351",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m7WvlyIAnDSdjjR8u5etsrb1w4y.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "GB",
+    "homepage": "http://bbc.com/alba",
+    "headquarters": "Stornoway",
+    "template": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Depo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66941",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ArXLe7AAwqRlst8CsvIy5wMGncD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BA",
+    "homepage": "https://depo.ba/",
+    "headquarters": "Sarajevo",
+    "placeholder": true
+  }
+]

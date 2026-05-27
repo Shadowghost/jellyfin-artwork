@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tochigi Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118505",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2G4p6SsseDxwDnWyO7KPAiy2H96.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.tochigi-tv.jp/",
+    "placeholder": true
+  }
+]

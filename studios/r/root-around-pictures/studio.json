@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Root Around Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140204"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

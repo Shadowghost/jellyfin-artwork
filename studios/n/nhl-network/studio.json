@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NHL Network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264910"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

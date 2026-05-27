@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Elemental Films",
+    "country": "ES",
+    "homepage": "http://www.elementalfilms.es",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sBII9gMsUvSbGRQa1ehCTp0HVrA.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "First Row Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55062",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rOiLIS7GtYqb2kK84RFAnh1zsQT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mandragora",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13407",
+        "logo_uri": "https://image.tmdb.org/t/p/original/apLXXbeUKQ0N1sfWd80V9JYF3EA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "homepage": "http://www.mandragora.ro/",
+    "headquarters": "Bucharest",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Signal.MD",
+    "country": "JP",
+    "homepage": "http://www.signal-md.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88373",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aUJ6Xd89l0jXiybnaD7KZPWSUgS.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

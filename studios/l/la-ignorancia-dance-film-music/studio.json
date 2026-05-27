@@ -1,0 +1,16 @@
+[
+  {
+    "name": "La Ignorancia dance-film-music",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113324",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6FcgwasGoyoDzmjLFOKh31CAVbN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.laignorancia.com/es/",
+    "placeholder": true
+  }
+]

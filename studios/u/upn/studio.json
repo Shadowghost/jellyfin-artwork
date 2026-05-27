@@ -1,0 +1,32 @@
+[
+  {
+    "name": "UPN",
+    "description": "American broadcast television network that operated from 1995 to 2006; merged with The WB to form The CW.",
+    "country": "US",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13082"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "UPN (United Paramount Network)"
+    ],
+    "template": true
+  }
+]

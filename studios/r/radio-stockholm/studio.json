@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Radio Stockholm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "228064"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

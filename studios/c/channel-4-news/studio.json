@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Channel 4 News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128039",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w8aZYp17lT1zskS62qINTKlWQFx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

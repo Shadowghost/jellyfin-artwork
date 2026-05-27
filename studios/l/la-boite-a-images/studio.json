@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Boite à Images",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98833",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tgA28KFwTwlHoCSk9hO99kJghwV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.la-boite-a-images.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

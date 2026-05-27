@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Iridium Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82251",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1xMcBOlfDtUS5XLNta68jbNvC8x.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SI",
+    "homepage": "https://www.iridiumfilm.com/",
+    "headquarters": "Ljubljana",
+    "placeholder": true
+  }
+]

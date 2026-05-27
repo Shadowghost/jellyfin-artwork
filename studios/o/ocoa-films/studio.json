@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ocoa Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150453",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9d3GzyPgiUokGv32WLiSW82h4qm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "http://www.ocoafilms.cl/",
+    "placeholder": true
+  }
+]

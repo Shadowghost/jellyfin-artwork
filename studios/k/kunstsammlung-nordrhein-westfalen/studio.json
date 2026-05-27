@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Kunstsammlung Nordrhein-Westfalen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77929"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.kunstsammlung.de",
+    "placeholder": true
+  }
+]

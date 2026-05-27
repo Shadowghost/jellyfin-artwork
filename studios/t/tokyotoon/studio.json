@@ -1,0 +1,15 @@
+[
+  {
+    "name": "TOKYOTOON",
+    "country": "JP",
+    "homepage": "https://tokyotoon.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255730"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

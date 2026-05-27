@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Standard Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169989"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "placeholder": true
+  }
+]

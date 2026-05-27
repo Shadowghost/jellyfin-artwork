@@ -1,0 +1,13 @@
+[
+  {
+    "name": "IgluLoc",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274002"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

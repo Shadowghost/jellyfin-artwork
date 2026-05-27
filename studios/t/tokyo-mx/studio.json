@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Tokyo MX",
+    "description": "Japanese independent terrestrial television station based in Tokyo, well known for airing anime programming.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://s.mxtv.jp/",
+    "headquarters": "Chiyoda, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157002",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hSdroyVthq3CynxTIIY7lnS8w1.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

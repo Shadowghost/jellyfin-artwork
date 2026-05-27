@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mob Scene",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31473"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.mobscene.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

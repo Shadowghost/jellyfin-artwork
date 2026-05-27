@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MetaMovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211623"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

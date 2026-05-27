@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ursula Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "243964",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AohftRtvhfcInBbDkJzLGOnJ8a.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

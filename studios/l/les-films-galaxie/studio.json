@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les Films Galaxie",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9377"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

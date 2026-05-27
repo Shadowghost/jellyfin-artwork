@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Punto Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174469"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

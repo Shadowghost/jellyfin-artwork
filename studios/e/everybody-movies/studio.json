@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Everybody Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21725"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

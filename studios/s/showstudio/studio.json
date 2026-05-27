@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SHOWstudio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99471",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uU01y4TqHYQMJ1EG5kk2xDTS8MN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://showstudio.com/",
+    "placeholder": true
+  }
+]

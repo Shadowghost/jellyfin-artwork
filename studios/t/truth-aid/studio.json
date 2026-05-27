@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Truth Aid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152514",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kARX4cWjZEjBQ6HOcPafXvjoeAM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.truthaid.org",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

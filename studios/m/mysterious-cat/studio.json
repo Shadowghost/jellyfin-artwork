@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mysterious Cat",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234599"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

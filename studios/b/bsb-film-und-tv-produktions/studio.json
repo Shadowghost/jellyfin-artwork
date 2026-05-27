@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BSB Film- und TV-Produktions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127386",
+        "logo_uri": "https://image.tmdb.org/t/p/original/s6fnTGqXyzEhB63VQ6RpA5eUg0C.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.bsb-film.de/",
+    "headquarters": "Darmstadt, Germany",
+    "placeholder": true
+  }
+]

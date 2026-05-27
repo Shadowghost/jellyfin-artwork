@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lincoln Center for the Performing Arts",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108696",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gJs5yAYYjJvO2f5RX51vlRL610G.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://lincolncenter.org",
+    "headquarters": "New York, NY",
+    "placeholder": true
+  }
+]

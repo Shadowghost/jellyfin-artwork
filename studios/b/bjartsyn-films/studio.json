@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bjartsýn Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173858",
+        "logo_uri": "https://image.tmdb.org/t/p/original/edCKFw4wV48KEYluN0l9qWCAJwT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IS",
+    "homepage": "https://www.bjartsyn.is/",
+    "headquarters": "Reykjavík",
+    "placeholder": true
+  }
+]

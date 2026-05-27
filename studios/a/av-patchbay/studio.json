@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AV Patchbay",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88519"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Planktoon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28027"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

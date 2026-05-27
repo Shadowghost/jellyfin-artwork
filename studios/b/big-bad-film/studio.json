@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Big Bad Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30505"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.bigbadfilm.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

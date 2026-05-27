@@ -1,0 +1,16 @@
+[
+  {
+    "name": "5Point Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19054",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Jo2kDxxRbe7WlSoCkZs2WGpbMA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://5pointfilm.org",
+    "placeholder": true
+  }
+]

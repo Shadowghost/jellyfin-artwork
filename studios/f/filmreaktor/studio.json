@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmreaktor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209076",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4gdDmoFZHIaWDaSdRL1RuGYWZr1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://filmreaktor.no/",
+    "headquarters": "Oslo",
+    "placeholder": true
+  }
+]

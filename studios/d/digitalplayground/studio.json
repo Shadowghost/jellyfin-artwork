@@ -1,0 +1,13 @@
+[
+  {
+    "name": "digitalplayground",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226456"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Apple Film Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13869",
+        "logo_uri": "https://image.tmdb.org/t/p/original/An0DTLeIcDmtSEVRtgObe0l4feH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://www.applefilm.pl",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

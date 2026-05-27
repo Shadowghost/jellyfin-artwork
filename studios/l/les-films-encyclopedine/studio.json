@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les Films Encyclopédine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120919"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

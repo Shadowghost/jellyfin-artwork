@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Marmalade Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106055",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5KW8igTAQz4nHydtzuIfWN30oYv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

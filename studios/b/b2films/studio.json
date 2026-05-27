@@ -1,0 +1,16 @@
+[
+  {
+    "name": "B2Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96635",
+        "logo_uri": "https://image.tmdb.org/t/p/original/84hTbqG5YDy957A4QgCDInTLysv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "China Media Group 中央广播电视总台 (CMG)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "146901",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7RLfTGkMm2iKtEiKGSTrBOwKVg5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://www.cctv.com/",
+    "headquarters": "Beijing, China",
+    "placeholder": true
+  }
+]

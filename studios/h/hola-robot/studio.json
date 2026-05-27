@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hola Robot",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230062"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

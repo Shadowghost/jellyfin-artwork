@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Inrap",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85980",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n2xWYsvsYFicTQvhfJarXHCV6bA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.inrap.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Seven Bucks Productions",
+    "description": "American film and television production company founded by Dwayne Johnson and Dany Garcia; producer of Ballers, Young Rock, and Jungle Cruise.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://sevenbucks.com",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73669",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pZ1sOLrUxvCvW1jODdCFgU6RxUA.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

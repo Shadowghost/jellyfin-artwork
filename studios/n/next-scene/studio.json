@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Next Scene",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204726",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oknEcVKf1EYJBpR45ALJQdME40g.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "placeholder": true
+  }
+]

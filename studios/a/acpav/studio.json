@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ACPAV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6932",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xuT1llv85XnO6meLPAWKd5zMPFM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.acpav.ca",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

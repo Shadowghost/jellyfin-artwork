@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MASP Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107020"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

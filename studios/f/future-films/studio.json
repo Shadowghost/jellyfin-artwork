@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Future Films",
+    "country": "BF",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "259690"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

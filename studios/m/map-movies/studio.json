@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MAP Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203711"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

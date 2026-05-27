@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Decoys Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "68959"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

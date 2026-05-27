@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Région Bourgogne",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81541"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

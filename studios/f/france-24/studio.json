@@ -1,0 +1,17 @@
+[
+  {
+    "name": "France 24",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155947",
+        "logo_uri": "https://image.tmdb.org/t/p/original/igUwp1WLX1Lzgh2a7pG8kC709N4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.france24.com/",
+    "headquarters": "Issy-les-Moulineaux",
+    "placeholder": true
+  }
+]

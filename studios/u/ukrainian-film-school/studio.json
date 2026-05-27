@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ukrainian Film School",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242561",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7jUhI48XMYzCtpLsYKKyoVJHJXN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UA",
+    "homepage": "https://filmschool.com.ua/",
+    "headquarters": "Kyiv",
+    "placeholder": true
+  }
+]

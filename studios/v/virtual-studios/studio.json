@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Virtual Studios",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "449",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fV3x8bowlRCXKtkWDovLYco7cOK.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

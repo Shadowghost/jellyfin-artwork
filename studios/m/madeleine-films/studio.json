@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Madeleine Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1147",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tBDaGOA04LmlsbLvMwHjR7WzT9H.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.madeleinefilms.com",
+    "headquarters": "Neuilly-sur-Seine",
+    "placeholder": true
+  }
+]

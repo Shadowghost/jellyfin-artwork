@@ -1,0 +1,28 @@
+[
+  {
+    "name": "BBC Switch",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86217",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hQlvbVcbEyOvgHgs9VluHXqQfUl.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "GB",
+    "template": true
+  }
+]

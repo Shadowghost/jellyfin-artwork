@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CTRL + SInema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "293174"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

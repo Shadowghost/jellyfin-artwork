@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LSA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200616"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

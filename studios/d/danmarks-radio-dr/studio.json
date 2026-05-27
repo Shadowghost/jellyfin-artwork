@@ -1,0 +1,35 @@
+[
+  {
+    "name": "DR (Danmarks Radio)",
+    "description": "Denmark's national public broadcasting corporation, founded in 1925, providing radio, television, and online content.",
+    "country": "DK",
+    "type": "broadcast-network",
+    "colors": [
+      {
+        "name": "DR Blue",
+        "hex": "#0066A1"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171115"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

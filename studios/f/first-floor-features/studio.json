@@ -1,0 +1,16 @@
+[
+  {
+    "name": "First Floor Features",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "938",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ogBT5Ls8kZJtNdF4FcIwDhBNrOh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "headquarters": "Almere",
+    "placeholder": true
+  }
+]

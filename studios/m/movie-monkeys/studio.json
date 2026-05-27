@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie Monkeys",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213125"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

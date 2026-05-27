@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Centro Português de Cinema (CPC)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18867"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "placeholder": true
+  }
+]

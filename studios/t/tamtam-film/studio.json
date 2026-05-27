@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tamtam Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45460",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j5tLpWUFt69O7gGHEWedNcMyLei.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.tamtamfilm.com",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

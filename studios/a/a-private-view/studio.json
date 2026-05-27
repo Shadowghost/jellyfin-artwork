@@ -1,0 +1,17 @@
+[
+  {
+    "name": "A Private View",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3134",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1w7LQKO5fNzovefxGReUpZlM8e9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://aprivateview.be",
+    "headquarters": "Sint-Amandsberg, Ghent",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Earth Star Entertainment",
+    "country": "JP",
+    "homepage": "https://www.earthstar.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189817",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6tWMDo6hsbmvO5sorsXRw0qQQRO.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

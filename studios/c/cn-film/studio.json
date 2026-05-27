@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CN Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3145"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

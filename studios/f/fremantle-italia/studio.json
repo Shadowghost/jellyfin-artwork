@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fremantle Italia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74562",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7OwtRpQAFKU3KWA7InBg3h3PxqI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.fremantle.it",
+    "headquarters": "Roma",
+    "placeholder": true
+  }
+]

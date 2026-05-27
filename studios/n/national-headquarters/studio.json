@@ -1,0 +1,13 @@
+[
+  {
+    "name": "National Headquarters",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123808"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

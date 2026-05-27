@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinegrama Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168360"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

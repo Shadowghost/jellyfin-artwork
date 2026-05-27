@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AFM-Téléthon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215780",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nMon034AoeHlSjxIXkRNT11mBsd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.afm-telethon.fr",
+    "headquarters": "Evry",
+    "placeholder": true
+  }
+]

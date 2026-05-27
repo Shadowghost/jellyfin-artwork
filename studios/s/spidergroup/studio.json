@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SpiderGroup",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255169"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Maxor Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170114"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

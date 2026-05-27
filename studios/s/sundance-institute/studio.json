@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Sundance Institute",
+    "description": "Non-profit organization founded by Robert Redford that supports independent filmmakers; presenter of the Sundance Film Festival in Park City, Utah.",
+    "country": "US",
+    "type": "film-festival",
+    "homepage": "https://sundance.org",
+    "headquarters": "Park City, Utah",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93092",
+        "logo_uri": "https://image.tmdb.org/t/p/original/unMAQEA4tPsOndGkPSsoVq9HKTu.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

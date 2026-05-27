@@ -1,0 +1,15 @@
+[
+  {
+    "name": "SUKFILM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230376",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hpGcpSsmhJtRgLlEtgQte88uyC1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "placeholder": true
+  }
+]

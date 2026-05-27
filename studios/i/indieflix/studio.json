@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Indieflix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85625",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qRKXI7eaJGIVhpTX5X3yeGHsOA3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.indieflix.com",
+    "headquarters": "Seattle, Washington",
+    "placeholder": true
+  }
+]

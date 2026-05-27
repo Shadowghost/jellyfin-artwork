@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bloody clock",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273301"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "t-nsa",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83321"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Mediarex Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8132"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

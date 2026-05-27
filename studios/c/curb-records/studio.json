@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Curb Records",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198122",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ccRxoyFhFhMEWjOe7FFTx45bO2o.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.curb.com/",
+    "headquarters": "Nashville, Tennessee, USA",
+    "placeholder": true
+  }
+]

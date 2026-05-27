@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Echo Visuel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218529"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://echovisuel.fr/accueil/#team",
+    "placeholder": true
+  }
+]

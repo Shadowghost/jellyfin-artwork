@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Whitefox Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257185"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Passport Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102244"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "headquarters": "Santiago",
+    "placeholder": true
+  }
+]

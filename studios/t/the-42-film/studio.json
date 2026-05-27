@@ -1,0 +1,14 @@
+[
+  {
+    "name": "The 42 Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230425"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "placeholder": true
+  }
+]

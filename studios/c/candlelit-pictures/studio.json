@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Candlelit Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258858",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mnTijlekmbIVtZelE7BiLkDnD33.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NZ",
+    "homepage": "https://candlelitpictures.co.nz",
+    "headquarters": "Auckland",
+    "placeholder": true
+  }
+]

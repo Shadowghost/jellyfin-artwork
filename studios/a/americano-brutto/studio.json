@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Americano Brutto",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221451"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

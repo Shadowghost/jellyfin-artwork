@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Stuff",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123284",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qx7huXKL5kYg1dXuDxcOA7BXFZO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NZ",
+    "homepage": "https://www.stuff.co.nz",
+    "placeholder": true
+  }
+]

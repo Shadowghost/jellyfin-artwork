@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Longfellow Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8802"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

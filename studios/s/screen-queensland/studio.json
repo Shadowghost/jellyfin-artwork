@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Screen Queensland",
+    "description": "Queensland state government agency promoting and funding screen production in Queensland, Australia.",
+    "country": "AU",
+    "type": "government-agency",
+    "homepage": "https://screenqueensland.com.au",
+    "headquarters": "Teneriffe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10950",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6TdE9m9KgV2az7vNI8n95rQiYr3.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

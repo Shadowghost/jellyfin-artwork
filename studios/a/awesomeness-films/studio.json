@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Awesomeness Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63484",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aVLlAODQm57VkgqWlVAOGiy8zs0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

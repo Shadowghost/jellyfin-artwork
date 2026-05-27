@@ -1,0 +1,17 @@
+[
+  {
+    "name": "iDreamSky",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198825",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1hr5xFa3EM9uOxkWOTaIXk80d7R.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://www.idreamsky.com/",
+    "headquarters": "Shenzhen, Guangdong, China",
+    "placeholder": true
+  }
+]

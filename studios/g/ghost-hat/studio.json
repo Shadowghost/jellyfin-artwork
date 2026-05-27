@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ghost-Hat",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213228",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sIAwkjzG26tH4umtJxmcGTsgIIc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://ghosthat.net/",
+    "headquarters": "Madison, Wisconsin",
+    "placeholder": true
+  }
+]

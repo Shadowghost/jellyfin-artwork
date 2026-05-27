@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio71",
+    "country": "US",
+    "homepage": "https://www.studio71.com",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80884",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nTpiHXhGyh9BZPccglpqt3ql2HY.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

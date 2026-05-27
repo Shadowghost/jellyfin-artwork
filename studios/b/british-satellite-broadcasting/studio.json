@@ -1,0 +1,15 @@
+[
+  {
+    "name": "British Satellite Broadcasting",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89601",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dVMf5qfBDzhYioWkUD6UysKiS8y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

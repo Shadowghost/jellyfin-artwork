@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Aslı Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280102",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mHFlPSoqE5iTOnSHz56CIyvo1a2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

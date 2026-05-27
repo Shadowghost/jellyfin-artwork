@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Celestial",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140011"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

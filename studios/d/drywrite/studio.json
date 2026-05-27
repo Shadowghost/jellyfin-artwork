@@ -1,0 +1,16 @@
+[
+  {
+    "name": "DryWrite",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115620",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4MXKwA7QuPc9j2zTTLzvq2K2uIJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

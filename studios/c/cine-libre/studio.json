@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ciné Libre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84496"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

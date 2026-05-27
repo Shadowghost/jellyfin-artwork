@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mauve Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "282516"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

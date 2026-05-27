@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Roscosmos",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140618"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://www.roscosmos.ru/",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

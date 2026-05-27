@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Starbay",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192180",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1ywUeZFt5DtS2mPuYK6Rqm4nMcG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://starbay.se",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

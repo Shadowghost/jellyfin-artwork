@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cinemate",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8683",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tLgfcgUC96znl4rzt8gaUCRruY1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "https://www.cinemate.pt/?lang=en",
+    "placeholder": true
+  }
+]

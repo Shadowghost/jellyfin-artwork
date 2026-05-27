@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio Hibari",
+    "country": "JP",
+    "homepage": "https://www.st-hibari.co.jp",
+    "headquarters": "Nerima, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78802",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1S4IJs06T5Twxq3qWdt4lAcIGbJ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Bardel Entertainment",
+    "description": "Canadian animation studio based in Vancouver, known for producing animated TV series including Rick and Morty, Teen Titans Go!, and The Dragon Prince.",
+    "country": "CA",
+    "type": "studio",
+    "homepage": "https://bardel.ca",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73757",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sPIpX0MDdvYjcI8E4AeNGIYVNWj.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

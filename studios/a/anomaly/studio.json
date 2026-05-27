@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Anomaly",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105301"
+      }
+    ],
+    "artwork": {},
+    "country": "MT",
+    "placeholder": true
+  }
+]

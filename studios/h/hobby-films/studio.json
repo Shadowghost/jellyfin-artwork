@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Hobby Films",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

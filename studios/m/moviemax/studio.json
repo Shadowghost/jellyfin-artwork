@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Moviemax",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63718"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

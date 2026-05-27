@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bandit",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250451"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

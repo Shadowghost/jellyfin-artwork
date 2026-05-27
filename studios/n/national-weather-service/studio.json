@@ -1,0 +1,13 @@
+[
+  {
+    "name": "National Weather Service",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "195210"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

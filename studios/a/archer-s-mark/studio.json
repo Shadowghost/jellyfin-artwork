@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Archer's Mark",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30601",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2A8pRduvB5pTGE4dorCLki2Jh8j.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.archersmark.co.uk/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

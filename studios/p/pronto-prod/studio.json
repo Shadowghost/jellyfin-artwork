@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pronto Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129057"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

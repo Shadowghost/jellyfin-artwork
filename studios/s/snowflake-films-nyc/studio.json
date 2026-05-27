@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Snowflake Films NYC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133469",
+        "logo_uri": "https://image.tmdb.org/t/p/original/BABJAGaZXDLtmQUsyLqU5gv6iZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://snowflakefilmsnyc.com",
+    "placeholder": true
+  }
+]

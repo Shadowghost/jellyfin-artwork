@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Granada News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98021"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

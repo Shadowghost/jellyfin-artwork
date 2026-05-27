@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nevada Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144205",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lsxQRNtyiBO8YKjZcJDi4O2KBJC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://nevadacine.com/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

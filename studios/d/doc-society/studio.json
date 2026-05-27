@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Doc Society",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110594",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n6IN6QhMcLyr8zwPRz43lF1Y2Ew.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://docsociety.org",
+    "headquarters": "London",
+    "placeholder": true
+  }
+]

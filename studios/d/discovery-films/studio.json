@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Discovery Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21673"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

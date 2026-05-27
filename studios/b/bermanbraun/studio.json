@@ -1,0 +1,14 @@
+[
+  {
+    "name": "BermanBraun",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16494"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

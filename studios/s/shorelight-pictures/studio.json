@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Shorelight Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160650",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7mP7adZs8am2ztmn6xdoAOIWJ5L.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://shorelightpictures.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

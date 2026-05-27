@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Player1",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "291998",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aRIgjyMDc23IlxF8It9YuXH8b9o.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.player1.com.br/",
+    "placeholder": true
+  }
+]

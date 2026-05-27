@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Euskadi Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209186"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.euskadimovie.biz",
+    "headquarters": "Bilbao, Biscay",
+    "placeholder": true
+  }
+]

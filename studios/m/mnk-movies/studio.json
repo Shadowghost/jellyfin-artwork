@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MNK Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121302"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

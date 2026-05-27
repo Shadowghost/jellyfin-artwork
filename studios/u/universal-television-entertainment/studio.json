@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Universal Television Entertainment",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104278"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

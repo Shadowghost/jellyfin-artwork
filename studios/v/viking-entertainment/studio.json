@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Viking Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3456"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "headquarters": "Lidingö, Sweden",
+    "placeholder": true
+  }
+]

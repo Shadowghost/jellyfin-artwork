@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Diplomatic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112467"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

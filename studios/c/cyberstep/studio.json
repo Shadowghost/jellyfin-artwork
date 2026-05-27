@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CyberStep",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185689",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mICXIqIsgBJse63Dge6PW0xUJ8y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://corp.cyberstep.com/",
+    "placeholder": true
+  }
+]

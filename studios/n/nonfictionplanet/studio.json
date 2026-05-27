@@ -1,0 +1,15 @@
+[
+  {
+    "name": "nonfictionplanet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210089"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.nonfictionplanet.com",
+    "placeholder": true
+  }
+]

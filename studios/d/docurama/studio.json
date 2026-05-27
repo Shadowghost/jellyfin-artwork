@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Docurama",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5PkPR18AaOuVPxBwTGELNIJMWkf.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

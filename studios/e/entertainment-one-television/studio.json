@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Entertainment One Television",
+    "country": "CA",
+    "homepage": "https://www.entertainmentone.com/",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51848",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jmrRZgqHnYmJC4uePQI2sLijpSk.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

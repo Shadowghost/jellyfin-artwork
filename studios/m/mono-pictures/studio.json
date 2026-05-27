@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mono Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70316"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Akademija dramske umjetnosti (ADU)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "64994",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dLQeFa492g18EnsF0QN2LuToeYY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HR",
+    "homepage": "https://www.adu.hr/",
+    "headquarters": "Zagreb",
+    "placeholder": true
+  }
+]

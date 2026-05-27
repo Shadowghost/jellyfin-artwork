@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Giant Pictures",
+    "country": "US",
+    "homepage": "https://www.giant.pictures/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34396",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k96j6gimBKUKFFp1SGX8VyTk6eZ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

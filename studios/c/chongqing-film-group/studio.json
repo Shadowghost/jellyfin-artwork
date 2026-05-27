@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Chongqing Film Group",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123062",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vdTy8Ntf8XdkTdMJ5DEFW3ETKiw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "placeholder": true
+  }
+]

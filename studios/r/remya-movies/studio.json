@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Remya Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16395"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

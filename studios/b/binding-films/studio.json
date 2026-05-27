@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Binding Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101855"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

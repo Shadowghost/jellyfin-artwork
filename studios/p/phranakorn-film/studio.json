@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Phranakorn Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12874",
+        "logo_uri": "https://image.tmdb.org/t/p/original/apZrykxIdwQ6vmpDHirWBtqTZOK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TH",
+    "homepage": "http://www.phranakornfilm.com/th/index.php",
+    "placeholder": true
+  }
+]

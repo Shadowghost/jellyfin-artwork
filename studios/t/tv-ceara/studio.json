@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TV Ceará",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "259947",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iJxQkpE93fqFQYlSbMWwIo7f5j2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.tvceara.ce.gov.br/",
+    "placeholder": true
+  }
+]

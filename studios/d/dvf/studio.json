@@ -1,0 +1,16 @@
+[
+  {
+    "name": "DVF",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123321"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.dvfilmstudio.cz/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

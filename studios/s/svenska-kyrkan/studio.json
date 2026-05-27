@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Svenska Kyrkan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32064"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

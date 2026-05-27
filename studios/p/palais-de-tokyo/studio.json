@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Palais de Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99738",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vNDMG5fVDlBvGqDKwmfZFWaMQO8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://palaisdetokyo.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

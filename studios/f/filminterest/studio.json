@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FilmInterest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1085"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

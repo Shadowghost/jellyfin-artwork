@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Encanta Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13285",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eSTUEqS5IAoUZdGEnm36TMiD2ft.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.encantafilms.com/",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

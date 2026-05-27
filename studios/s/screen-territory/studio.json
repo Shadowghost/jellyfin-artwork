@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Screen Territory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255205",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iV0GE9xMJA2RxXinaZ86KfzlN0f.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://screenterritory.nt.gov.au/",
+    "headquarters": "Darwin, Northern Territory",
+    "placeholder": true
+  }
+]

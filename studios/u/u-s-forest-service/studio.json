@@ -1,0 +1,17 @@
+[
+  {
+    "name": "U.S. Forest Service",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107033",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xSIJIErcNUobFmf3YPlE7J7GdXq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.fs.usda.gov",
+    "headquarters": "Sidney R. Yates Building - 1400 Independence Ave SW Washington, D.C.",
+    "placeholder": true
+  }
+]

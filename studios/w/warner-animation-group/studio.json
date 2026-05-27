@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Warner Animation Group",
+    "description": "American animation studio division of Warner Bros. Pictures producing animated theatrical films, including The Lego Movie, Storks, and Smallfoot.",
+    "country": "US",
+    "type": "studio",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25120",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6RLMWBcGF2COzjjBORPUy705yF7.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

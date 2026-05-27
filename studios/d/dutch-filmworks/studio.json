@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dutch Filmworks",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29326",
+        "logo_uri": "https://image.tmdb.org/t/p/original/48DThnoazC9wvKo8SieLzICIX0m.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "http://www.dfw.nl",
+    "headquarters": "Utrecht",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "cinemacircle",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128118"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "propagate fuego",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234167"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

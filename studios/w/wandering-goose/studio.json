@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Wandering Goose",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "299151"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

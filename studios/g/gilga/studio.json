@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Gilga",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182865",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8wNt8XlLDfbyp2ViPga2oAORZNC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://gilga.com/",
+    "placeholder": true
+  }
+]

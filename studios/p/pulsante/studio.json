@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pulsante",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256938"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

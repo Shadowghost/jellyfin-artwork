@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Popcorn Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90237"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

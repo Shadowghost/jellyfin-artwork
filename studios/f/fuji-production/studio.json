@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Fuji Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75742"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

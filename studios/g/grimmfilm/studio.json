@@ -1,0 +1,13 @@
+[
+  {
+    "name": "grimmfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289743"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gizmo Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86074",
+        "logo_uri": "https://image.tmdb.org/t/p/original/seParXqwLexI6zcFcjgsTmRRIss.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://gizmofilms.com/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

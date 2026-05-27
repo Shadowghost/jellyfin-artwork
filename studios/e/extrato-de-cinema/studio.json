@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Extrato de Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140363"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

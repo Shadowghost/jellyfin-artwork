@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Gemini Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28373"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

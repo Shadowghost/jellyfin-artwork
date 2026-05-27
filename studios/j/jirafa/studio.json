@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jirafa",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16900",
+        "logo_uri": "https://image.tmdb.org/t/p/original/UXDR1nThehygiJHXk6OPEfpmkc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "http://jirafa.cl",
+    "headquarters": "Valdivia",
+    "placeholder": true
+  }
+]

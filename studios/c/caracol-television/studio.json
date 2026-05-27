@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Caracol Televisión",
+    "country": "CO",
+    "homepage": "https://www.caracoltv.com/",
+    "headquarters": "Bogotá, Colombia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2586",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2fGXyHUZoNTLwrXOf6GImFYHeq4.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

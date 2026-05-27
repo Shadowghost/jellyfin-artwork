@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Proper Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112680",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aDH1Qcx6WSnDyQK1u4Kx1RMtDhO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ZA",
+    "homepage": "http://www.properfilm.com/",
+    "headquarters": "Cape Town",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Global Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196854"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

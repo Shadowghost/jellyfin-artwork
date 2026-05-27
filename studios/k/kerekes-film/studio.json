@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kerekes Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205494",
+        "logo_uri": "https://image.tmdb.org/t/p/original/at1S11xZYN5KnILSvvukcz7YbX9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SK",
+    "homepage": "https://kerekesfilm.com/",
+    "headquarters": "Bratislava, Slovakia",
+    "placeholder": true
+  }
+]

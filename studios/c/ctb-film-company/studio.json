@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CTB Film Company",
+    "country": "RU",
+    "homepage": "https://ctb.ru/",
+    "headquarters": "Moscow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "318",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q0UG4oZERwIywJdDPF4lRlvdYGW.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

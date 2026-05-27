@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Melodie TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "236416",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dtTJ4Q7ZbQR0woMrvpwqaGzr6FE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "https://www.melodie.tv/",
+    "headquarters": "Haiming",
+    "placeholder": true
+  }
+]

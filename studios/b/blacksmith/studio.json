@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Blacksmith",
+    "country": "FR",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233939",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pAVTrExieWU4GEfxhpmQc0G9CUi.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

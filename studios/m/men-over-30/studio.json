@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Men Over 30",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151561",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dPzBx1emqpSR0LCtXzFXiGMEsLB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.asgmax.com",
+    "placeholder": true
+  }
+]

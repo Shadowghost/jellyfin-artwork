@@ -1,0 +1,14 @@
+[
+  {
+    "name": "CRANE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252492"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

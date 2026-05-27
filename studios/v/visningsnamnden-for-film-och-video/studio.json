@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Visningsnämnden för Film och Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31993"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

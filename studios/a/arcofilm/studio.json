@@ -1,0 +1,13 @@
+[
+  {
+    "name": "arcofilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55707"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

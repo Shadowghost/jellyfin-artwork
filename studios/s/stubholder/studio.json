@@ -1,0 +1,13 @@
+[
+  {
+    "name": "stubholder",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81323"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

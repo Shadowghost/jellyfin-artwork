@@ -1,0 +1,17 @@
+[
+  {
+    "name": "die film gmbh",
+    "country": "DE",
+    "homepage": "https://www.diefilmgmbh.de/en",
+    "headquarters": "Munich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19426",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m36J2sXPUPwmh69h3bjzHeUL6jx.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

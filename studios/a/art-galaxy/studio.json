@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Art Galaxy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "232201"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

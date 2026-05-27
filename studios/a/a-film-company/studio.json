@@ -1,0 +1,17 @@
+[
+  {
+    "name": "A Film Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62061",
+        "logo_uri": "https://image.tmdb.org/t/p/original/467dbkpRVXacUPpBX39zJ7CrHwM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://afilmcompany.ch/",
+    "headquarters": "Zürich",
+    "placeholder": true
+  }
+]

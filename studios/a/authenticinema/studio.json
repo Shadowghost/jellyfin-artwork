@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Authenticinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241401"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

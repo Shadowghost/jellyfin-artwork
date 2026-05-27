@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Standard Filmverleih",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30057"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

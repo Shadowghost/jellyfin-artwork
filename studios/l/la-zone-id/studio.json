@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LA Zone ID",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189588"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

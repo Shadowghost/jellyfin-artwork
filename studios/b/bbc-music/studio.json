@@ -1,0 +1,30 @@
+[
+  {
+    "name": "BBC Music",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104151",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tEMOnfOGQsTacV6dbrLsbc4F7yn.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "GB",
+    "homepage": "https://www.bbc.co.uk/music/uk",
+    "headquarters": "London, England",
+    "template": true
+  }
+]

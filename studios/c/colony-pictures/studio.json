@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Colony Pictures",
+    "country": "CA",
+    "headquarters": "Toronto",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126355"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

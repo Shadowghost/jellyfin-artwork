@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CustomFlix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5608"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

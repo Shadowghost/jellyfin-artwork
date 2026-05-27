@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zeus Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181016",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vbeq3x3FwCh4fAThYOikD0Tg4yc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://zeuspictures.com/",
+    "headquarters": "New York, New York",
+    "placeholder": true
+  }
+]

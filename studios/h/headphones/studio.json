@@ -1,0 +1,13 @@
+[
+  {
+    "name": "headphones",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127969"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

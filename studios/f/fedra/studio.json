@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fedra",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210524",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4xgbi4ebRsg5tK1BNDTmH3EbZBe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.fedra.se/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Boogaloo Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "54706",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sOid5qnkOOrtbtj0Rdy9D25rJYZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.boogaloofilms.com",
+    "headquarters": "Barcelona, Catalonia",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rotten Science",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92599",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iQx7uOTuyHvM71SDB8Y0pBccJP6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.rottenscience.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

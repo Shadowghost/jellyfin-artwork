@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Direkt-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25210"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Munich, Bavaria",
+    "placeholder": true
+  }
+]

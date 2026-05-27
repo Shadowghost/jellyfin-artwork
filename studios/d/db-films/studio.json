@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DB Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130024"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

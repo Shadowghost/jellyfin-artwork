@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CuriosityStream",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96320",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1G6KT1mNzGyKdVjr4nkCp4HVt81.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://curiositystream.com",
+    "placeholder": true
+  }
+]

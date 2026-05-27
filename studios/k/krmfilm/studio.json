@@ -1,0 +1,15 @@
+[
+  {
+    "name": "KRMFILM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205338",
+        "logo_uri": "https://image.tmdb.org/t/p/original/phyxD6gdT3o1vE6YJnZrcSE6OeX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

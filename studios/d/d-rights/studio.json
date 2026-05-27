@@ -1,0 +1,16 @@
+[
+  {
+    "name": "d-rights",
+    "country": "JP",
+    "homepage": "https://www.d-rights.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12518",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qJZAVb8vx6qFLQJ6cunRkVUJVdB.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

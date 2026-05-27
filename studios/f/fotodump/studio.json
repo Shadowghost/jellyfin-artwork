@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FotoDump",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285985"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

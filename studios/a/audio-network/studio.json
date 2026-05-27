@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Audio Network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234035",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dAhYX2T5o2YAaikltapxgkb2Bgo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.audionetwork.com/",
+    "headquarters": "London",
+    "placeholder": true
+  }
+]

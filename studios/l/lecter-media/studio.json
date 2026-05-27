@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lecter Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118601",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7z1WAiypkxeQwzRYnq6gFSSJnOX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "http://lectermedia.com",
+    "placeholder": true
+  }
+]

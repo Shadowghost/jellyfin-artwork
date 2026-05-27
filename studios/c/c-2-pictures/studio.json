@@ -1,0 +1,16 @@
+[
+  {
+    "name": "C-2 Pictures",
+    "country": "US",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7340",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6md5HA8YherOD0apQ1XwsAbXiz5.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

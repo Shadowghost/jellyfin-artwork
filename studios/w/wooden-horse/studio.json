@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wooden Horse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185354",
+        "logo_uri": "https://image.tmdb.org/t/p/original/255Uj4QSYcrbwK3Lq1F9vECbwcw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://www.woodenhorse.tv",
+    "headquarters": "Sydney, New South Wales",
+    "placeholder": true
+  }
+]

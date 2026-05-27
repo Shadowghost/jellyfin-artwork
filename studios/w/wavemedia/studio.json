@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Wavemedia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180861",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7rYrJ3QPQqGH7wJkw7PZu9zdbUJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://wavemedia.mx/",
+    "placeholder": true
+  }
+]

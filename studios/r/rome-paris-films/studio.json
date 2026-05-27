@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Rome-Paris Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

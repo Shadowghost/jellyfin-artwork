@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Asylum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1311",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ic2bTizdzRLDVzAvN7MXdUg3WQV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://theasylum.cc",
+    "headquarters": "Burbank, California, United States",
+    "placeholder": true
+  }
+]

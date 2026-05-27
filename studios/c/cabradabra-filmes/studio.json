@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cabradabra Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108758",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xX91f73EAa6JSmAcZBwPFUkytrx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.cabradabra.com.br",
+    "placeholder": true
+  }
+]

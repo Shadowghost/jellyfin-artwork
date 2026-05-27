@@ -1,0 +1,14 @@
+[
+  {
+    "name": "NDTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173446",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1fAADB6cWip1FzAZehbmBhHkpzJ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

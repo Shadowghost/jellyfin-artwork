@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SOREC-VIDEO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181799"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

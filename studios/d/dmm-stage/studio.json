@@ -1,0 +1,14 @@
+[
+  {
+    "name": "DMM STAGE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "206342",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gHl142BN7DElOUcOLOGAD6qXbZF.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

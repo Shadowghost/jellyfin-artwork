@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Rascal Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6713",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uyWmZThXlLhzj7L9RHEVDK5jTYP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

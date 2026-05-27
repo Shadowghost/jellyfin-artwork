@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Rook&Bishop",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262412"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

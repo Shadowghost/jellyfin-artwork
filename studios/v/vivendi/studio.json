@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Vivendi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8211"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

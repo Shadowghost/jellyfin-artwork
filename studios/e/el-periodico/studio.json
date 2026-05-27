@@ -1,0 +1,13 @@
+[
+  {
+    "name": "El Periódico",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "227639"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

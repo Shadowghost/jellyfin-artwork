@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Osaka Broadcasting Corporation",
+    "country": "JP",
+    "homepage": "http://www.obc1314.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170526",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9P0QNmvcQhmnMLlkRD1KmbHMPK8.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

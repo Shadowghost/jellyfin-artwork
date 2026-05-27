@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Loading Docs",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140083"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Warp Films",
+    "country": "AU",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23315"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

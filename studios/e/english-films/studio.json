@@ -1,0 +1,13 @@
+[
+  {
+    "name": "English Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20287"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

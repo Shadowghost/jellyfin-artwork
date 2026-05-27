@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sky Sport",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110395",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bsGK04aEpuXq3JvzXJkDmF3RvTZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://sport.sky.it/",
+    "headquarters": "Milano",
+    "placeholder": true
+  }
+]

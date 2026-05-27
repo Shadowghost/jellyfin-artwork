@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Gacha",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272975"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

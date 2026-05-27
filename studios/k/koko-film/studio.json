@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Koko Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87362",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xXBe8Aah0PEQeTcxbKMYdR8ZGDH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "http://www.kokofilm.no",
+    "headquarters": "Tromsø, Norway",
+    "placeholder": true
+  }
+]

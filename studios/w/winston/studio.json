@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Winston",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37449"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

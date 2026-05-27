@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Imperial-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2007"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Cologne",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Hypothesis Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256225"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://hypothesispictures.com",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fine Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170501",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eANvevZUnZAd95p2VULPl5e4o6P.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.finepictures.co.jp",
+    "placeholder": true
+  }
+]

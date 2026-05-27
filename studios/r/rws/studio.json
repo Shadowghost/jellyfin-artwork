@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RWS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16081",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3P0P49TcY335rODfTobE9GSkaMO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://rwstudios.ru/",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

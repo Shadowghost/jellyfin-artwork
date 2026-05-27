@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Zeitgeist-AO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171829"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

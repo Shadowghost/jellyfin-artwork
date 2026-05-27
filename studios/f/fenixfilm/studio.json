@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fenixfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128443",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gA98X89L2LM7EFneds5dAhn9W2P.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LV",
+    "homepage": "https://www.fenixfilm.lv/",
+    "headquarters": "Riga",
+    "placeholder": true
+  }
+]

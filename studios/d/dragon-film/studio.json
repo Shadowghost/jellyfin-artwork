@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Dragon Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97000"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

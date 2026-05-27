@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les films de la Mouette",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185617"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

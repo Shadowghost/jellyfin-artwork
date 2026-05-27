@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pilgrim Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127210",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mN8jlYYzJH1rLfePYRoxExQSeT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.pilgrimfilm.it/",
+    "headquarters": "Trieste",
+    "placeholder": true
+  }
+]

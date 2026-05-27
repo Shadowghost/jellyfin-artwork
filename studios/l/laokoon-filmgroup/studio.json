@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Laokoon Filmgroup",
+    "country": "HU",
+    "homepage": "https://www.laokoonfilm.com",
+    "headquarters": "Budapest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12520",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5ZSrTHwVBehhBuZzCKvgP9rbVg7.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

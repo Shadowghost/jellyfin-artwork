@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Atlus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50555",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lMzyRRMKpNqbmiBAissmU6I60Ng.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Megadrago",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "259789",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hX80hrOedTZKING24Cdflhi1b7G.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.megadrago.it",
+    "headquarters": "Palermo, Sicily",
+    "placeholder": true
+  }
+]

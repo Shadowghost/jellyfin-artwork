@@ -1,0 +1,16 @@
+[
+  {
+    "name": "RUBY",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101212",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lDN3guq08B0llaE5ebkOG1LwNAn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.ruby-av.com",
+    "placeholder": true
+  }
+]

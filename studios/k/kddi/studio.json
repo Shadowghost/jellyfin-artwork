@@ -1,0 +1,41 @@
+[
+  {
+    "name": "KDDI",
+    "description": "Japanese telecommunications operator; often credited as a production-committee financier for anime and film.",
+    "country": "JP",
+    "type": "other",
+    "colors": [
+      {
+        "name": "KDDI Orange",
+        "hex": "#EB5505"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11848",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A3abKfh7dXwPdXJc3A551q8XnOC.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "KDDI Corporation"
+    ],
+    "template": true,
+    "homepage": "https://www.kddi.com/english/",
+    "headquarters": "Chiyoda, Tokyo"
+  }
+]

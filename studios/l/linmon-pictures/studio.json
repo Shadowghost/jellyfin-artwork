@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Linmon Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175955",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1Hjl6irqCWTxtpwm2puLEljSFVH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://www.linmon.cn",
+    "headquarters": "Shanghai, China",
+    "placeholder": true
+  }
+]

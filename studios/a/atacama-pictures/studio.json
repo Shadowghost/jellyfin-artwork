@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Atacama Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187245",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6Equua9QRB4aBQvV5GUvonWcDcU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "http://atacamapictures.com",
+    "placeholder": true
+  }
+]

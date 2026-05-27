@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Antenna Plus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "190123",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bE1a0OVHAAwRCIcXmoRtnP6HSY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://antenna.co.kr/",
+    "headquarters": "Gangnam, Seoul",
+    "placeholder": true
+  }
+]

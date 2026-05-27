@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cocina",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225971",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4FbEMEin4qTBXTj0HW8j7UgUHrN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://wearecocina.com",
+    "placeholder": true
+  }
+]

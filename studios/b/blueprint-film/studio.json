@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Blueprint Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "47325"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.blueprintfilm.de/",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

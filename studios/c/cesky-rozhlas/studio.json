@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Český rozhlas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148802"
+      }
+    ],
+    "artwork": {},
+    "country": "XC",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

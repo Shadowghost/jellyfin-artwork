@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mars Distribution",
+    "country": "FR",
+    "homepage": "http://www.marsdistribution.com/films/",
+    "headquarters": "Paris, France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2908",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8TnTh3wLfwCHMryk1ujHdxEG2Kc.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

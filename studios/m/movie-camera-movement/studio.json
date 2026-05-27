@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie Camera Movement",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "254732"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

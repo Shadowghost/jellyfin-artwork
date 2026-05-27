@@ -1,0 +1,33 @@
+[
+  {
+    "name": "RTL Plus",
+    "description": "German subscription video on demand and live TV streaming service operated by RTL Deutschland; rebranded from TVNow in 2021.",
+    "country": "DE",
+    "type": "streaming-service",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191146",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r2CAVySg9xWdGMnLpwEE4gjsvw4.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "RTL+"
+    ],
+    "template": true
+  }
+]

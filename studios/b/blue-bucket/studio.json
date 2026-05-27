@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Blue Bucket",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172200"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

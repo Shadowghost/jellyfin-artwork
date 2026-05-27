@@ -1,0 +1,13 @@
+[
+  {
+    "name": "StopMotion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184526"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

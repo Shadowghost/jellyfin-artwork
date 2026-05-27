@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Samsa Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "790",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k0MnHFovKIeev0ANR0Ww6HO6tfF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LU",
+    "homepage": "https://www.samsa.lu/",
+    "headquarters": "Bertrange",
+    "placeholder": true
+  }
+]

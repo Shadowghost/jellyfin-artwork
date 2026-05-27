@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Copenhagen Bombay",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8761",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2FZHDqC4JJm4ruD7mgvUdGE0Aho.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "http://copenhagenbombay.com/",
+    "headquarters": "Copenhagen, Denmark",
+    "placeholder": true
+  }
+]

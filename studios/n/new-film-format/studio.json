@@ -1,0 +1,13 @@
+[
+  {
+    "name": "New Film Format",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "206691"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

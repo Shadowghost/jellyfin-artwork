@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fri Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257878",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5UNKg320v8ftU3cAvH0WAWDGdyw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.frifilm.no/",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

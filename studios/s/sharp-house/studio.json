@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sharp House",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91092",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aUPUnlSxsygZBQMFiFaFQysWrBC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.sharp-house.com/",
+    "headquarters": "London",
+    "placeholder": true
+  }
+]

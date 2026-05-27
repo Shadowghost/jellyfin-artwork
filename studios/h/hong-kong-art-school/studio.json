@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hong Kong Art School",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "291387",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n2d8kGf2pHrIlmavakJO97uPOa8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HK",
+    "homepage": "https://www.hkas.edu.hk/",
+    "headquarters": "Rm 514, 5/F, Youth Square, 238 Chai Wan Road, Chai Wan, Hong Kong SAR, China",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hamburg Media School",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73804",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2dVxfSwYQeggaTMeqYwLWdGIbD4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.hamburgmediaschool.com/",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

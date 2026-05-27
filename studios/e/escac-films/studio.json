@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Escac Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48089",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vJjQD0IIdGukQft4uK73wlJLby.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://escac.com/en/escac-films",
+    "headquarters": "Terrassa, Catalonia",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Prisma Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191651"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

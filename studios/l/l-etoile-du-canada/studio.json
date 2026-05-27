@@ -1,0 +1,17 @@
+[
+  {
+    "name": "L'étoile du Canada",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144522",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v8z4nziNfNFoctCwFcHwJhilXf8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.etoileducanada.com/",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

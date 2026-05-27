@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sofica EuropaCorp",
+    "country": "FR",
+    "parent_company": "EuropaCorp",
+    "homepage": "http://www.europacorp.com/",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "854"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

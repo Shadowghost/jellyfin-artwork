@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Switchblade Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205431",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cbVJatECjZUtiXmV5mQBeue9vwn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.switchblade-cinema.com/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

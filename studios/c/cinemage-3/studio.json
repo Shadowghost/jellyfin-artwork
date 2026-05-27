@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinémage 3",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11944",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mDUpv0mYDaiMBtwrv1KXK18MaiD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.cinemage.fr",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

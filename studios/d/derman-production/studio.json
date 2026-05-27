@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Derman production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "266840"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

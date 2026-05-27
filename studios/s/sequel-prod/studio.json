@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sequel Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230584",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4UdtnOGFDEkEtzvVO2118zHqh9a.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://sequelprod.be/",
+    "headquarters": "Brussels",
+    "placeholder": true
+  }
+]

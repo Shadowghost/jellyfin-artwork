@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Monster Ultra",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123248"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

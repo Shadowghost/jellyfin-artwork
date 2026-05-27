@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Multi-Media Resource Center",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115999"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

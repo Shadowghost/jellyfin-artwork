@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Climainfo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257019"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

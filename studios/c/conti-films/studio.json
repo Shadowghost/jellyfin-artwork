@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Conti Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182784",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9VOBta3cVh4NZn1oJlYWynFwDKw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://contifilms.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

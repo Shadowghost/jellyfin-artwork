@@ -1,0 +1,16 @@
+[
+  {
+    "name": "AmiAmi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248427",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uZTBYqDYefoW2FSmsYt2ujioJrl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.amiami.jp/",
+    "placeholder": true
+  }
+]

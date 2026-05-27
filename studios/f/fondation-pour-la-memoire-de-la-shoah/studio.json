@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fondation pour la Mémoire de la Shoah",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25047",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iETadJwCfGK595ASjn4VwinMkXc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.fondationshoah.org/en",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

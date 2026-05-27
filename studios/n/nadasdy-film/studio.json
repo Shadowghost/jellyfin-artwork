@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nadasdy Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31285",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ya7infKQtygrVHfBBlHyTkGx3hP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.nadasdyfilm.ch/",
+    "headquarters": "Geneva",
+    "placeholder": true
+  }
+]

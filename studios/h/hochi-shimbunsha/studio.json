@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Hochi Shimbunsha",
+    "country": "JP",
+    "homepage": "https://www.hochi.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248656",
+        "logo_uri": "https://image.tmdb.org/t/p/original/52X172JZmHiDjt3BSnpTJzXTInO.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

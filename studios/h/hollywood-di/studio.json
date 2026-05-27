@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hollywood-DI",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "244970"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

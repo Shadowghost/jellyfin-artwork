@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Faith-Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48758"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

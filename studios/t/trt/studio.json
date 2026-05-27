@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TRT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85580",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4AAC0UDEoW5F3oPnsvMwSeGuPsJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "http://www.trt.net.tr",
+    "headquarters": "Ankara",
+    "placeholder": true
+  }
+]

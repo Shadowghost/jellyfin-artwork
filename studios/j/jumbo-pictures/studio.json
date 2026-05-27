@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Jumbo Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67234",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3ZBaKfWcJWfhbUorrE65Au0BLC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "New York",
+    "placeholder": true
+  }
+]

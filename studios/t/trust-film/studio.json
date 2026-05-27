@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Trust Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

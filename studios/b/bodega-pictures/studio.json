@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bodega Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106054",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oA6xdUXSviWzFyDMlzCj99PrA7Y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://bodegapictures.com",
+    "placeholder": true
+  }
+]

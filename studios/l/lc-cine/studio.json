@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LC Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "261904"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

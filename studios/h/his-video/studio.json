@@ -1,0 +1,14 @@
+[
+  {
+    "name": "HIS Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107925",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lgCo8hHRGYUKNnmanTE0p85LtvK.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

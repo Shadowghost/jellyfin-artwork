@@ -1,0 +1,13 @@
+[
+  {
+    "name": "All Go Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107741"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

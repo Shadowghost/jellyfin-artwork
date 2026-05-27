@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Production Eureka",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121856"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

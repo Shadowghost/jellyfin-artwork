@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Télécip",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1149",
+        "logo_uri": "https://image.tmdb.org/t/p/original/77ItqirEXrWipFsW4k235t2NeSk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

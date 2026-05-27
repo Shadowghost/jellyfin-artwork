@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Panorámica",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34633"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PakFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199689",
+        "logo_uri": "https://image.tmdb.org/t/p/original/is1x0n4yP4zjkqnfKrOE2Ov98jH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://pakfilm.de/",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Suntory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74010",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yQeiDgIIlLj7qk0sbGA2J6k0gTw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

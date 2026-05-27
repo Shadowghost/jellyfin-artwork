@@ -1,0 +1,17 @@
+[
+  {
+    "name": "INDODAX",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214401",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eWxdLFZnVDVGKitcvXVj8vDt0N.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "homepage": "https://indodax.com/",
+    "headquarters": "South Jakarta, Jakarta",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Amphibian Stage",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156083"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

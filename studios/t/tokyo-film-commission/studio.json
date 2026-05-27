@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tokyo Film Commission",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275154",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ga1s9S1rRpvVKjfoThDt0UtKk7O.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

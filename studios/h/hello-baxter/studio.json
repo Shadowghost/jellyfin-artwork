@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hello Baxter",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "228612"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

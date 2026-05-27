@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Région Auvergne-Rhône-Alpes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135234",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qB39HrFJ596fL6IYwQVr0JMtjDN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.auvergnerhonealpes.fr",
+    "headquarters": "Clermont-Ferrand",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Combat",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134112"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

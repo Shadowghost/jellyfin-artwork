@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Central Park Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141502",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8ahjjiKNuoEUC3GFH7TyyAgYWAE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://centralparkfilms.co.kr/",
+    "headquarters": "Yeongdeungpo, Seoul, South Korea",
+    "placeholder": true
+  }
+]

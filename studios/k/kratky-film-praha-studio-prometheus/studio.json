@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Krátký film Praha – Studio Prometheus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179086"
+      }
+    ],
+    "artwork": {},
+    "country": "XC",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

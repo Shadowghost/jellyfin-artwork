@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Albedo Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "295623"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

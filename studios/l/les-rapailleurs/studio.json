@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Rapailleurs",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161081",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fyV6QlWZiilVZJk0DCdGxb4dE1A.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://lesrapailleurs.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

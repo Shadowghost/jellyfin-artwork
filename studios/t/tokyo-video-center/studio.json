@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Tokyo Video Center",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13253"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.tvc-net.com/",
+    "placeholder": true
+  }
+]

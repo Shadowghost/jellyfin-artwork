@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Hold Up Films",
+    "country": "FR",
+    "homepage": "http://www.hold-up.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7980"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

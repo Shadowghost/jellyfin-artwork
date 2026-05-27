@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Suomi-Filmi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21046",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ghVwr2Y0DgRbg3b4Mm3FVdhJ6Fo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "headquarters": "Helsinki, Finland",
+    "placeholder": true
+  }
+]

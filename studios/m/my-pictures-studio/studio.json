@@ -1,0 +1,14 @@
+[
+  {
+    "name": "My Pictures Studio",
+    "country": "CN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170775"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Nacional Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23727"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "placeholder": true
+  }
+]

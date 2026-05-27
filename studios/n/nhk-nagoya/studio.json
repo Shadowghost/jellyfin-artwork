@@ -1,0 +1,14 @@
+[
+  {
+    "name": "NHK Nagoya",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112570"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

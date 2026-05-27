@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Great Courses",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113738",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zAkWHzE8RWidvysl3AO6V2mXJ7o.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.thegreatcourses.com/",
+    "headquarters": "Chantilly, Virginia",
+    "placeholder": true
+  }
+]

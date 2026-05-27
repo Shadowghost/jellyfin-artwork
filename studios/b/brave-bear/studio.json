@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Brave Bear",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191457",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nclCYTAIAXPrxFNdqFpqYKoCHsQ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

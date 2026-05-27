@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Brooklyn Underground Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35659",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7zUJN50QDhkuFdEY4S6qpn7WZ0M.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.brooklynundergroundfilms.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Nijisanji",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175038",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eFenx1lNdDHLjbz9ekwoBczlQ9w.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://www.nijisanji.jp/en"
+  }
+]

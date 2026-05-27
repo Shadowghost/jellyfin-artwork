@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio Chromato",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "279500",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mK0EbOcgfuouus2oKiX66EZ51H8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://chromato.jp",
+    "headquarters": "Akatsutsumi, Setagaya, Tokyo",
+    "placeholder": true
+  }
+]

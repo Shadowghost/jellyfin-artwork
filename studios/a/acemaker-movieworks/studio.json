@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Acemaker Movieworks",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113584",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8BSD4OLpa5DnXdXYX4jwf5cyb6D.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.acemaker.co.kr",
+    "headquarters": "Seoul",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "beachside",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89246"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

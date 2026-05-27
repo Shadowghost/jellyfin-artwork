@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Colectivo Rutemberg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123116"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "placeholder": true
+  }
+]

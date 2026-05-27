@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Munich Tele-Pool",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133506"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

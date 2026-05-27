@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mundi360",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "259566",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xPvyEdPFAitE72O3u8dZKZkYLfr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://mundi360.com.br/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "BS-TBS",
+    "description": "Japanese satellite broadcasting company operated as a subsidiary of Tokyo Broadcasting System Holdings.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://bs.tbs.co.jp/",
+    "headquarters": "Akasaka Gochome, Minato, Tokyo, Japan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121339",
+        "logo_uri": "https://image.tmdb.org/t/p/original/119mbwFIqX2NEDLzqYNG8qVaLdC.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

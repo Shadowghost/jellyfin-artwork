@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Grameenphone",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "253904",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uwIun1lmtZIIQliwfqdXHDjGzBg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BD",
+    "homepage": "https://www.grameenphone.com",
+    "placeholder": true
+  }
+]

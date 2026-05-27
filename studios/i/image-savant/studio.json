@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Image Savant",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204724"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

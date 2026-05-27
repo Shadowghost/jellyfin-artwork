@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Arc'teryx",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161289",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aNzDGX4GQAPo6SPME4woxpmffmf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://arcteryx.com",
+    "headquarters": "Arc'teryx , North Vancouver, Canada",
+    "placeholder": true
+  }
+]

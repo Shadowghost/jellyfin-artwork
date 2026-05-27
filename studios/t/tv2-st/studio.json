@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TV2 Øst",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196197",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fggfAjJUsb8JgB3L9F5SsN6VF4e.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://www.tv2east.dk/",
+    "placeholder": true
+  }
+]

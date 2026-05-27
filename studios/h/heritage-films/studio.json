@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Heritage Films",
+    "country": "PL",
+    "homepage": "http://www.heritage.com.pl",
+    "headquarters": "Warszawa, Poland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

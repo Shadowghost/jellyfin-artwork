@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Wazico Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273428"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

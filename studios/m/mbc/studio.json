@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MBC",
+    "country": "KR",
+    "homepage": "http://imbc.com/",
+    "headquarters": "Mapo, Seoul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26511",
+        "logo_uri": "https://image.tmdb.org/t/p/original/muK9W0KLV8KfEnR7MYu0YpfpdnO.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fenris Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86302",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1i3vdsPZ8xyK02jbuRcN18YRD90.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "headquarters": "Oslo",
+    "placeholder": true
+  }
+]

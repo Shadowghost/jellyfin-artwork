@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Mediapool Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11611"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

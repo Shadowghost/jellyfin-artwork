@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Cinépix Film Properties (CFP)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6270"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.cinepix.ca/en/",
+    "placeholder": true
+  }
+]

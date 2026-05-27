@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Dune",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12580",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cN3Zlvky0zzEscv416PSGa2EMQu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

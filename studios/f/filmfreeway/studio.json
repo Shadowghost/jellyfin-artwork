@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FilmFreeway",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224721"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

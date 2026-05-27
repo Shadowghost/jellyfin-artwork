@@ -1,0 +1,41 @@
+[
+  {
+    "name": "iQiyi",
+    "description": "Chinese online video platform based in Beijing, one of the largest video streaming services in China, majority-owned by Baidu.",
+    "country": "CN",
+    "type": "streaming-service",
+    "homepage": "https://www.iqiyi.com",
+    "headquarters": "Haidian District, Beijing, China",
+    "colors": [
+      {
+        "name": "iQIYI Green",
+        "hex": "#00BE06"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172414",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fNxBFqWr7eWEgNeBDvvCxsSItXx.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "iQIYI"
+    ],
+    "template": true
+  }
+]

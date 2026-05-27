@@ -1,0 +1,16 @@
+[
+  {
+    "name": "John le Carré",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "279660",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zT1zEoLXypJFz3GBvIfUsMXl96A.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://johnlecarre.com",
+    "placeholder": true
+  }
+]

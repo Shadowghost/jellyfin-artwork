@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mafilm",
+    "country": "HU",
+    "homepage": "https://nfi.hu/en/nfi-studios",
+    "headquarters": "Budapest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8100",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1HuVRo0SYPSzYvduxVf4baaWqOI.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

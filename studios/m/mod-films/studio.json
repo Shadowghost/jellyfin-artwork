@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mod films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91021"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "British Information Service",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "47301"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

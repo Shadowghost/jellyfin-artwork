@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vito Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19159",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t0zR0Ap7u0FD3i6huj8xdEb3don.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://vitofilms.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

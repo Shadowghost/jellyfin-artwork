@@ -1,0 +1,16 @@
+[
+  {
+    "name": "PM Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242600",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1SSwltH6lFBPULqQAh1PVi77ixL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

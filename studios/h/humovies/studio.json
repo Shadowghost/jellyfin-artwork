@@ -1,0 +1,13 @@
+[
+  {
+    "name": "HUMovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231193"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pleasant Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108352"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

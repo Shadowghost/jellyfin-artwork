@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Banco Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126063"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

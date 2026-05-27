@@ -1,0 +1,17 @@
+[
+  {
+    "name": "400 Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76440",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9cWAe6V9q642DLV4xVGB6UI9neW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.400filmes.com/",
+    "headquarters": "Brasília DF",
+    "placeholder": true
+  }
+]

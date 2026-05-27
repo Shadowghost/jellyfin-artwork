@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Storm Rosenberg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67997",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iqRvctSbqCVRLW53of9yYUUgLDa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "headquarters": "Oslo",
+    "placeholder": true
+  }
+]

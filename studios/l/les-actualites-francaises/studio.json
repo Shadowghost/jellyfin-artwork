@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les Actualités Françaises",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140606"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

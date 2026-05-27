@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Filmverlag der Autoren",
+    "country": "DE",
+    "headquarters": "Munich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10869"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

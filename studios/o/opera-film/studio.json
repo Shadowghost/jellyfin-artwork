@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Opera Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1821",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xu46QgPmDMmjorkLkA5aLzXQAoB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

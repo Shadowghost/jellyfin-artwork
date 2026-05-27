@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Radiotelevizija Beograd",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11613"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "headquarters": "Beograd",
+    "placeholder": true
+  }
+]

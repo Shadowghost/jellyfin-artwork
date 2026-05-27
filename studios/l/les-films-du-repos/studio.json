@@ -1,0 +1,13 @@
+[
+  {
+    "name": "les films du repos",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241743"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

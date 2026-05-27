@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Arruda Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239039",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o8uZEmJSIONrRfrUdJY5XT7Sfzp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.arrudafilmes.com",
+    "headquarters": "São Paulo, Brazil",
+    "placeholder": true
+  }
+]

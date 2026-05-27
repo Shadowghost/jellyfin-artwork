@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Heyday Films",
+    "description": "British film and television production company founded by David Heyman, producer of the Harry Potter and Fantastic Beasts film series.",
+    "country": "GB",
+    "type": "production-company",
+    "headquarters": "Borehamwood, Hertfordshire, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "437",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nu20mtwbEIhUNnQ5NXVhHsNknZj.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

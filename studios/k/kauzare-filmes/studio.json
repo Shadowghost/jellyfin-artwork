@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kauzare Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103186",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xF9jUxRYLZTsTTBfGiz2sLQ5VcO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.kauzare.com/",
+    "placeholder": true
+  }
+]

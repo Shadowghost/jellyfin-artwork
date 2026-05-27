@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Goldlight",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7422",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A4vkmSoLcmpFapRm4N2ur5tqBO1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Bad Marienberg",
+    "placeholder": true
+  }
+]

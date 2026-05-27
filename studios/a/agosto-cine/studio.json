@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Agosto Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103553",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6tjoiY8qr8hNuEGuH9GaDF6BgOK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "http://agostocine.com",
+    "headquarters": "Santiago de Chile",
+    "placeholder": true
+  }
+]

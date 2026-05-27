@@ -1,0 +1,16 @@
+[
+  {
+    "name": "filmArche",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56084",
+        "logo_uri": "https://image.tmdb.org/t/p/original/z9xk7DEWaBaaH16KSYkgN2t4jVx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Filmstiftung Nordrhein-Westfalen",
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "315",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hdu0sVxgtCuQud0xF8ZBiN7hEhY.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kinofaction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271842"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

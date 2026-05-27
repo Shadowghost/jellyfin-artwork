@@ -1,0 +1,13 @@
+[
+  {
+    "name": "RGB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "206418"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

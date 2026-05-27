@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Flirt Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66669",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lhdMOAP0VyfysEZjzPmbFIsprlW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.flirtfilms.net/",
+    "headquarters": "Québec, Québec",
+    "placeholder": true
+  }
+]

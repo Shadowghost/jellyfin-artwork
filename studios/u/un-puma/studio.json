@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Un Puma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86170",
+        "logo_uri": "https://image.tmdb.org/t/p/original/us76ENKlfJTShgiyvKerXSE5kFD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://unpuma.com/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

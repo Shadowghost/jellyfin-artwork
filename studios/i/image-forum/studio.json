@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Image Forum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "64448"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

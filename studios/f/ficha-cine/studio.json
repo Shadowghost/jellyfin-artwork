@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ficha Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "236262"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

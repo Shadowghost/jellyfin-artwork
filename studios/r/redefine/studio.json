@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ReDefine",
+    "country": "GB",
+    "homepage": "https://redefine.co",
+    "headquarters": "London",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139890",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jvMrC2M9Zf0VlOyJO51XxCDo1Z8.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

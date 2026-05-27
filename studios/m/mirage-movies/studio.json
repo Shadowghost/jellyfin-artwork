@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Mirage Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177518"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "headquarters": "Kolkata",
+    "placeholder": true
+  }
+]

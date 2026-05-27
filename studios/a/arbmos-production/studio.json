@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Arbmos production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "298855"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

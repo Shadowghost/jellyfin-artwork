@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Amazon Studios France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208281",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hYREaYiVyoGVP26CbDpAWD3wDRD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

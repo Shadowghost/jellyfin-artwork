@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Arte Mecánica",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16290",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yuBgU8K9gT23lSeXDR3F14f7kn5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "http://www.artemecanica.com/en/index.html",
+    "placeholder": true
+  }
+]

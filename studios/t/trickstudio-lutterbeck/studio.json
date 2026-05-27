@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TrickStudio Lutterbeck",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8112",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6IIvfhyzyvddO5qT8hOXzU2WKUb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.trickstudio.de/",
+    "headquarters": "Cologne",
+    "placeholder": true
+  }
+]

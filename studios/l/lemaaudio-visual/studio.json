@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LemaAudio Visual",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240037"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

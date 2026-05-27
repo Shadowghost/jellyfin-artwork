@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Golf Digest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225561",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qISMRhjYET1NPV0Sze7vlhQwiYW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.golfdigest.co.jp/digest/",
+    "placeholder": true
+  }
+]

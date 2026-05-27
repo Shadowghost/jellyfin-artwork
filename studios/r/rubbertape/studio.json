@@ -1,0 +1,17 @@
+[
+  {
+    "name": "rubbertape",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167705",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hnMn1GpEZW2XWVNXl7odrDsOi3U.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.rubbertape.co",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

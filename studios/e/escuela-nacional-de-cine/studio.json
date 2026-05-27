@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Escuela Nacional de Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129229",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cf0YjHoXCgAAc15Ck4ZflRrOuAn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "VE",
+    "homepage": "https://www.encvenezuela.org/",
+    "headquarters": "La Montaña Creativa",
+    "placeholder": true
+  }
+]

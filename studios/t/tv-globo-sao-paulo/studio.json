@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TV Globo São Paulo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193977",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9WD59ikmwWxzakuE8SjxoG37BOu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://redeglobo.globo.com/sao-paulo/",
+    "headquarters": "São Paulo, SP",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fonte Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217473",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8Ju5O8yaRwAT7d27H7DrnxshCKC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.fontefilms.com",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

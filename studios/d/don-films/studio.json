@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Don Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "68201",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3Vog1dP5hSbutyzNZf9zvM2RGNn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "http://www.donfilms.fi/",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

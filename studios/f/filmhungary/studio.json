@@ -1,0 +1,15 @@
+[
+  {
+    "name": "FilmHungary",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162333"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "https://filmhungary.hu/",
+    "placeholder": true
+  }
+]

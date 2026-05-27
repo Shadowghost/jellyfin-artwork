@@ -1,0 +1,17 @@
+[
+  {
+    "name": "OPE Partners",
+    "country": "US",
+    "homepage": "http://www.odenkirk-provissiero.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86647",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jefZmEJlxUAkuuwkH9CHQchgmJX.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

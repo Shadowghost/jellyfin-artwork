@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Universal TV",
+    "description": "Pay-television entertainment channel operated by NBCUniversal Global Networks; the Universal TV brand is used in several markets including Germany.",
+    "country": "DE",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30114"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

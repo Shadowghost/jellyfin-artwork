@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pricel",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6542"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

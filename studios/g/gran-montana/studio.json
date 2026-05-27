@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Gran Montana",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273072",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4P5VIF7lrBJLCCaO53JUGixHICI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "https://www.granmontana.cl",
+    "placeholder": true
+  }
+]

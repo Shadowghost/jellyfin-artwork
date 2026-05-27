@@ -1,0 +1,17 @@
+[
+  {
+    "name": "LaBoîte Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11902",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wMQ3S5V1Balc9JuG7lb9aAQExyx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.laboitefilms.com",
+    "headquarters": "200, rue de la croix nivert, 75015 Paris",
+    "placeholder": true
+  }
+]

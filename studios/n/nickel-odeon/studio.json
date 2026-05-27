@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nickel Odeon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6860",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lvmwDSBgmDflsONk26Yt2z9zzFZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://nickel-odeon.com",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

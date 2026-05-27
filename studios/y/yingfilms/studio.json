@@ -1,0 +1,13 @@
+[
+  {
+    "name": "YingFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101047"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

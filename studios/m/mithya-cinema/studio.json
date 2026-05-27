@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Mithya Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255380",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zmi9JEYRbieX0PgLITCzdkBxIsT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

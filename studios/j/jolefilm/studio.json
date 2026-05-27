@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jolefilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14556",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tYNprelutzBIYS68EZsSBGxpQV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.jolefilm.com/",
+    "headquarters": "Padova, Veneto",
+    "placeholder": true
+  }
+]

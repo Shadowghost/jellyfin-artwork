@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Wichita Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42759"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.wichitafilms.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cinema X",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41914"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

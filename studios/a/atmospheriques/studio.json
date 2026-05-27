@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Atmospheriques",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6025"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

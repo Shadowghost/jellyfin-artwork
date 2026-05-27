@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Greco",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123980"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

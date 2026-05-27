@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Edition Salzgeber",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83329",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l3BKNFNMEIIcBlq1Uh07sxr0Gas.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

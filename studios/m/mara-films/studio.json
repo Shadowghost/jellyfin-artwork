@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Mara Films",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16352"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Flip Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209060",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iJwhvd6n3hzzKLWaK8cexgwNjQN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "homepage": "http://www.flipfilms.in",
+    "headquarters": "Mumbai",
+    "placeholder": true
+  }
+]

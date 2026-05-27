@@ -1,0 +1,29 @@
+[
+  {
+    "name": "George A. Romero Productions",
+    "description": "Independent film production company associated with horror filmmaker George A. Romero, creator of the Night of the Living Dead series.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40490"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

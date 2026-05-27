@@ -1,0 +1,16 @@
+[
+  {
+    "name": "S-DIGITAL",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101453",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Ev7CjRj8xUkH617QTxw4Piy3Bg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://s-digi.jp/",
+    "placeholder": true
+  }
+]

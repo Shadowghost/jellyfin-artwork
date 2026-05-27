@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Victory Man",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11221",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6jVbb4ylJb74WlrtIDqcIlhwUQY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.victorymanproductions.com",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

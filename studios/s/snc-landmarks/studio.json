@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SNC Landmarks",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "195569"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

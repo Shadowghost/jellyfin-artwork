@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fabrique Fantastique",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115762",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oN2BBY2z68BH6shG7H1da4nVbsD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://fabriquefantastique.be",
+    "headquarters": "Lier",
+    "placeholder": true
+  }
+]

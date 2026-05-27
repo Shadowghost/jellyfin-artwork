@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ingenious Media",
+    "description": "British film, television, and media financing company that has co-financed films including Avatar, Life of Pi, and X-Men: The Last Stand.",
+    "country": "GB",
+    "type": "production-company",
+    "homepage": "https://www.theingeniousgroup.co.uk/ingenious-media/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jrgCuaQsY9ouP5ILZf4Dq4ZOkIX.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

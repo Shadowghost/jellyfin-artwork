@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gallileo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109595",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b1FqTcEIN7lNuymAWRdI8XwaLFL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ME",
+    "homepage": "https://www.galileoproduction.com/",
+    "headquarters": "Podgorica",
+    "placeholder": true
+  }
+]

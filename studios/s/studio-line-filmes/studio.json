@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Studio Line filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202407"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

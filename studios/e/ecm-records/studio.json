@@ -1,0 +1,15 @@
+[
+  {
+    "name": "ECM Records",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33267",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wO8AL3j1hXmFNh7oFR1TO3nyCpR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

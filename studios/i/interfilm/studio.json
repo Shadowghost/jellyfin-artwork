@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Interfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60759",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xckuW02u69ZJEjXrpilj2g9AuSi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HR",
+    "homepage": "https://interfilm.hr/",
+    "headquarters": "Zagreb",
+    "placeholder": true
+  }
+]

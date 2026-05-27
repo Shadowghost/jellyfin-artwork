@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Télévision Française 1",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131540",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mJtCDhZD2P2G6RfrQFhzef5kMW9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Boulogne Billancourt",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "name": "C2C",
+    "description": "Czech television channel focused on detective, crime and mystery programming, operated by AMC Networks International.",
+    "country": "JP",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87536",
+        "logo_uri": "https://image.tmdb.org/t/p/original/59FqPKWsfCc4e1LmKoVfXeblaRK.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "C2C (Czech television channel)"
+    ],
+    "template": true,
+    "homepage": "http://www.c2c2009.com",
+    "headquarters": "Nishitokyo, Tokyo"
+  }
+]

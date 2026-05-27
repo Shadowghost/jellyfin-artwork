@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fidelio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155642",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xhT6YXpqHdSXGjZ5FeknPhvBXXU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://fidelio.it",
+    "headquarters": "Roma, Italy",
+    "placeholder": true
+  }
+]

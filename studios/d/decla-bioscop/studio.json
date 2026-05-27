@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Decla-Bioscop",
+    "country": "DE",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6762"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

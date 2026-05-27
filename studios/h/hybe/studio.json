@@ -1,0 +1,17 @@
+[
+  {
+    "name": "HYBE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170163",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n6MAcCk8qpmze5bxCrAvQv0wXRJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://hybecorp.com/eng/main",
+    "headquarters": "Yongsan, Seoul",
+    "placeholder": true
+  }
+]

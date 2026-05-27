@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vico Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "61772",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wo5m5J4C3R1yaR5QMRTd2RONqWV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "https://www.vicofilms.com",
+    "headquarters": "Kilmacanogue, County Wicklow",
+    "placeholder": true
+  }
+]

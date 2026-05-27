@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TitanComics",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "292732"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

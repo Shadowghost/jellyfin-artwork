@@ -1,0 +1,17 @@
+[
+  {
+    "name": "HT Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24692",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vqkijFnkJysUz1kZPAZoxmykoRF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://htfilm.it/",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

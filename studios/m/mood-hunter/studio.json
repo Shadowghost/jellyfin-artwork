@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mood Hunter",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182722"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Gosfilmfond Russia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25606",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eSlqpXsyQW7u059lOnSsXtUakLl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

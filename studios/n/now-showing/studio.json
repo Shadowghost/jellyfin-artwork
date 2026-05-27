@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Now Showing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126519"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

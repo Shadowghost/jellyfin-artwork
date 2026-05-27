@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kulturaktiebolaget",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "266377",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tSAbnA0mkEVmrkZHUbgeXo5ZmVA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.kulturaktiebolaget.se",
+    "headquarters": "Örebro",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wallonie Image Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19840",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wMwpc8pEyLec92n33kr4Px2378D.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.wip.be",
+    "headquarters": "Liège, Liège",
+    "placeholder": true
+  }
+]

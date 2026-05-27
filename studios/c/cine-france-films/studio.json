@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ciné France Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9004"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Meat Dept",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100024"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

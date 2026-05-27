@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Genvid Interactive",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220669",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xX5bMUSzU5ibMQYQIWq9HpLoSsu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://genvid.com/",
+    "placeholder": true
+  }
+]

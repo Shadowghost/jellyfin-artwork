@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SVN prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "295835"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

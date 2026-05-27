@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CinAct",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239941",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4OHFpeYltaKlPbgyPKeqmiH9v4e.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.acting-academy.com/",
+    "headquarters": "Lint, Antwerp",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BizAsset",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "44806"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Red Pepper Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119456",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h5HZMAao2R3a3lApiF9MIl2SHT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://redpepperfilm.com/",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

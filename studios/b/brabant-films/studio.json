@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Brabant Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104733",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qL4k3QXqiqdDsZj6DhVzYd3Bs9a.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "http://brabantfilms.nl",
+    "placeholder": true
+  }
+]

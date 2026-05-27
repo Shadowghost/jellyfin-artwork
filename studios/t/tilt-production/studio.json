@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TILT Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160521",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4MEFxcWzBU6BWJYZf0AmW8AdkJ2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.tiltproduction.com",
+    "headquarters": "Zurich",
+    "placeholder": true
+  }
+]

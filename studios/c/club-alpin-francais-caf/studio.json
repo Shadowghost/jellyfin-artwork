@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Club Alpin Français (CAF)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196912",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nRtogyDc0ZaW7SHNxlXe0ZJO92l.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.ffcam.fr/",
+    "headquarters": "24 Av. de Laumière, paris, France",
+    "placeholder": true
+  }
+]

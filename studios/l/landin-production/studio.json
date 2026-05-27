@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Landin Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137928",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uXchzeEQWDx8YweowI8dlUyVN1c.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "placeholder": true
+  }
+]

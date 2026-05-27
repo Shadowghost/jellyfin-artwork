@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AVM Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77799"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

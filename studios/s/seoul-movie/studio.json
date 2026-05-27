@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Seoul Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149946"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "headquarters": "Seoul",
+    "placeholder": true
+  }
+]

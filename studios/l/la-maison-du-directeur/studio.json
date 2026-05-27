@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Maison du Directeur",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127757",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hSsdu4Bonot1sliQYEOdpQvU6zm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://lamaisondudirecteur.fr/",
+    "headquarters": "La Maison du Directeur, 1 Rue Vermot, 39600 Mesnay, France",
+    "placeholder": true
+  }
+]

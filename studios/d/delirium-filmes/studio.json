@@ -1,0 +1,13 @@
+[
+  {
+    "name": "delirium filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123888"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BrickMovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140560"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

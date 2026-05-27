@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lakeshore Entertainment",
+    "country": "US",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kADPanRDkKTxncPXXVahvHPUvCj.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

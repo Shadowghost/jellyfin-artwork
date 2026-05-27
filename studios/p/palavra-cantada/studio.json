@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Palavra Cantada",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36524"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

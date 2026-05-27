@@ -1,0 +1,32 @@
+[
+  {
+    "name": "FilmNation Entertainment",
+    "description": "American independent film production, financing, and international sales company founded by Glen Basner, known for The King's Speech, Arrival, and Promising Young Woman.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://www.filmnation.com",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7493",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fHitYiGUCkRafgt6VPYQlXWLkdp.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Strange Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60828"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

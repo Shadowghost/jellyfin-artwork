@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cool Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78065",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n2y508S1ybbHppJT08nAtoXOof5.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Overworks",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "243851",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kVkPzumCIWpcKRYUY3qGlcrRU6W.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

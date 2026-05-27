@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Original Film",
+    "description": "American film and television production company founded by Neal H. Moritz, known for The Fast and the Furious franchise and many other films.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "333",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

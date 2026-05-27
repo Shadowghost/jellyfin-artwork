@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MediaFarm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76464"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

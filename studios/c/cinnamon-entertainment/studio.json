@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cinnamon Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110159",
+        "logo_uri": "https://image.tmdb.org/t/p/original/alNVEQgqGfXNrt8epZQDkbHcwo7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.cinnamon-entertainment.be",
+    "placeholder": true
+  }
+]

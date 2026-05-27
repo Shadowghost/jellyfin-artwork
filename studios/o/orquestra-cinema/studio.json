@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Orquestra Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42983"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

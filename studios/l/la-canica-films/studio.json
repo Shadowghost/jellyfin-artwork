@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Canica Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78370",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vUrbxyePsBv2dkiM3SFkrkEzhSV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://lacanicafilms.com",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

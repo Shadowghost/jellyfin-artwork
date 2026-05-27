@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Marvel Enterprises",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19551",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2WpWp9b108hizjHKdA107hFmvQ5.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

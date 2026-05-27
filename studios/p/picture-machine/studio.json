@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Picture Machine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8085"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

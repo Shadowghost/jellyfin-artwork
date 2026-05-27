@@ -1,0 +1,17 @@
+[
+  {
+    "name": "LaMayor Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139200",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uBEUenCPiM6dYv10ca7DDG58UYZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UY",
+    "homepage": "https://www.lamayor.com.uy",
+    "headquarters": "Montevideo",
+    "placeholder": true
+  }
+]

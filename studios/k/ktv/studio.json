@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111107",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kkRV4tioxhTByglS1dVtgdpR1nB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.ktv.go.kr/",
+    "headquarters": "Sejong, South Korea",
+    "placeholder": true
+  }
+]

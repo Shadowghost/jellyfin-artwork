@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Video A",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109318"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

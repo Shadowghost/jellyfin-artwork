@@ -1,0 +1,15 @@
+[
+  {
+    "name": "TV Brasil",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114205",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fc219gFxAG4Kh9E2ePTl9gFDWj8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

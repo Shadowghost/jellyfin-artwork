@@ -1,0 +1,16 @@
+[
+  {
+    "name": "FKLG",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144048",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hTlv2U972uESfOjhriS14vTiT9E.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.fklg.fr",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gyeonggi Film Commission",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128076",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vSrJ0tcQFPh0pT4q2wX7aIqvxJD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.ggfc.or.kr",
+    "headquarters": "Bucheon, Gyeonggi",
+    "placeholder": true
+  }
+]

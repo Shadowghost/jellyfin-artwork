@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CinemaAds",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215303"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

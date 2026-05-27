@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Outer Piece",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128254"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

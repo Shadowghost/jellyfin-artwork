@@ -1,0 +1,14 @@
+[
+  {
+    "name": "etc.films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2582"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

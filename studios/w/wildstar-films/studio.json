@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wildstar Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139622",
+        "logo_uri": "https://image.tmdb.org/t/p/original/578zH4RZL2aP4DvGxzF8rvGe7eV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.wildstar.tv",
+    "headquarters": "Bristol, England",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Costa Films",
+    "country": "AR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10187"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

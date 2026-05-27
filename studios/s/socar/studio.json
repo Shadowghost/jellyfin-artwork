@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SOCAR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "265368",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p3wRvsMOkbvRJ9FVBqeUrbnfiwx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AZ",
+    "homepage": "http://socar.az",
+    "headquarters": "Baku, Azerbaijan",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ternopil Film Commission",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142007",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4yLci7mJAwIwYibxideMezx6uaX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UA",
+    "homepage": "https://filmcommission.com.ua/",
+    "headquarters": "Ternopil, Ukraine",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Future Movie Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176674",
+        "logo_uri": "https://image.tmdb.org/t/p/original/60DG5vScQorCVJPUp2EowKWFatC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://futuremovieproductions.com/",
+    "placeholder": true
+  }
+]

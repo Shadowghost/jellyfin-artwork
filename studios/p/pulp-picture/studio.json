@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pulp Picture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221051"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

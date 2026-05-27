@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Monster Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120206",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xDEKeUxti9tzgamy95p93GqfyFY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://www.monsterfest.com.au",
+    "placeholder": true
+  }
+]

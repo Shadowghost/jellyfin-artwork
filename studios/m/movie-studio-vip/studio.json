@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie Studio VIP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285914"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

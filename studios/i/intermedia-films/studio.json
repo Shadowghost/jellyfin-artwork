@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Intermedia Films",
+    "description": "Independent film production and finance company founded by Guy East and Nigel Sinclair; funded via the German IMF (Internationale Medien und Film) tax-shelter funds.",
+    "country": "GB",
+    "type": "production-company",
+    "homepage": "https://internationalmediaag.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "763",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mCnIVkImjm8rUxIpGR5NgrGlIYL.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

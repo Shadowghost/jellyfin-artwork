@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Vortex DI",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145754"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

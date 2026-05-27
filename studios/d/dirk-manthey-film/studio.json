@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dirk Manthey Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42386",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l83P8cjzk21552P0DR7L22gG6Im.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.dirkmantheyfilm.de/",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

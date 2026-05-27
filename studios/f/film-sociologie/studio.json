@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film & Sociologie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76609",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lAhg89P2RmPjCJYxkuqT6YMvMlY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://filmasociologie.cz",
+    "headquarters": "Prague, Czech Republic",
+    "placeholder": true
+  }
+]

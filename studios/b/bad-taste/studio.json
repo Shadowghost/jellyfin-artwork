@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bad Taste",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94649",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tuFCuMT4dLXZKmfTT0y8JKpTS6s.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://www.btlimited.fi/",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

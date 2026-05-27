@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CineVista Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45491"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "http://www.cinevista.at",
+    "headquarters": "Vienna",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "TVM - Est Parisien",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189296"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

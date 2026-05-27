@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Film Service Babelsberg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116488"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.studiobabelsberg.com/",
+    "placeholder": true
+  }
+]

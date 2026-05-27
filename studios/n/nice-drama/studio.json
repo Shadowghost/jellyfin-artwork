@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nice Drama",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28005",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eaHxuuLNWXArn3mHkj0vdTfBgI4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://nicedrama.se/",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

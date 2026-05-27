@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Reframed Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "43312",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mMAOSr0u4OBIirThdhWrvwYkedn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.reframedpictures.com/",
+    "headquarters": "New York, New York, United States",
+    "placeholder": true
+  }
+]

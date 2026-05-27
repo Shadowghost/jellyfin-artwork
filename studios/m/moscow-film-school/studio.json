@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Moscow Film School",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105691",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bHcojjbJalpcFUpHhzKKYAdGHBH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://moscowfilmschool.ru/",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

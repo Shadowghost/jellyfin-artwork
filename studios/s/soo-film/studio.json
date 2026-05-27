@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Soo Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96988",
+        "logo_uri": "https://image.tmdb.org/t/p/original/akinMWSzcOArgVt7xJPdy7AOl1d.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.soofilm.com/main.php",
+    "headquarters": "Gangnam, Seoul, South Korea",
+    "placeholder": true
+  }
+]

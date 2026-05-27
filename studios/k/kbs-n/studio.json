@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KBS N",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196560",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k1BF70MBgYORxqtpGVtXOBeHXiL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.kbsn.co.kr/index",
+    "headquarters": "Mapo, Seoul",
+    "placeholder": true
+  }
+]

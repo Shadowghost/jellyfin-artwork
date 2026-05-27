@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TF1 Musique",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234609"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Birds Eye",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248020"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

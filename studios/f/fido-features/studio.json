@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fido Features",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49480"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

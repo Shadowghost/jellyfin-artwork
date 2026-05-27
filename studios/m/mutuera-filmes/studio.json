@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mutuera Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256081"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

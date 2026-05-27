@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zero One Film",
+    "country": "DE",
+    "homepage": "https://www.zeroone.de/en",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16844",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wy2JQsrqBGhDBg8d57SGIrZtMAh.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

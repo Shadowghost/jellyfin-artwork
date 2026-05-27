@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FTF Cam",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209307"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

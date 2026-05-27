@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Restaurants du Cœur",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87417",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9TapbSeqBXAOdDaekl4qpZKHDNj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.restosducoeur.org/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

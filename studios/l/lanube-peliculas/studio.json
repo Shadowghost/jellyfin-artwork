@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lanube Películas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37261",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xEw7IBnEPrgSILLNtnZPU3Y5oJy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.lanubepeliculas.com",
+    "placeholder": true
+  }
+]

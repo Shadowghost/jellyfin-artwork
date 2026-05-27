@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mémorial de la Shoah",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140316"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.memorialdelashoah.org",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

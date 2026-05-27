@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Eikon Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100527",
+        "logo_uri": "https://image.tmdb.org/t/p/original/shP29nr5tFdHCcL4bAdliWiNdFX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.eikon-film.de",
+    "headquarters": "Cologne",
+    "placeholder": true
+  }
+]

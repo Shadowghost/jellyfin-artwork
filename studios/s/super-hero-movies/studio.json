@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Super Hero Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163584"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

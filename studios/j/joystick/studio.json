@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Joystick",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106918"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

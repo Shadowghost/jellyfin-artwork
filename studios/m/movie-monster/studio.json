@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Movie Monster",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62916"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

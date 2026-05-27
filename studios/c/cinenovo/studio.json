@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cinenovo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171993",
+        "logo_uri": "https://image.tmdb.org/t/p/original/S664FbYYZWQk2SGVktzWkiYtGC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Russia Today",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249657"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Filmlink International",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50339"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

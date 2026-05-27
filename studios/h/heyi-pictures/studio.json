@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Heyi Pictures",
+    "country": "CN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100129"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

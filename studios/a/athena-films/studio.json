@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Athena Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93650",
+        "logo_uri": "https://image.tmdb.org/t/p/original/saO91V1KneQhPRZDNoFDyfzAJVh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.athenafilms.com/",
+    "placeholder": true
+  }
+]

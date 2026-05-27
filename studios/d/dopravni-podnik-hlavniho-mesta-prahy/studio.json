@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Dopravní podnik hlavního města Prahy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130663"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.dpp.cz/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

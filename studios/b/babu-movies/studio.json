@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Babu Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79975"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Korea Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5965"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "placeholder": true
+  }
+]

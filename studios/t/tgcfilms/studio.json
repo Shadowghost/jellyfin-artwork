@@ -1,0 +1,13 @@
+[
+  {
+    "name": "tgcfilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256102"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

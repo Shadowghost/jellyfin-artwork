@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hell's Kitchen",
+    "country": "IE",
+    "homepage": "http://www.hellskitchenltd.com/",
+    "headquarters": "Dublin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2307",
+        "logo_uri": "https://image.tmdb.org/t/p/original/owHyONluEVR9YdJtJv3XfTacKWD.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Drecom",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252827",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w1VSF76vNojK4ObUZKcGlhn1f5y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://drecom.co.jp/",
+    "placeholder": true
+  }
+]

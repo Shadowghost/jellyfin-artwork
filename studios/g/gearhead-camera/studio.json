@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Gearhead Camera",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "265301"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Helsinki-filmi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6159",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pbWyMDcAM6s228tiUxjl3v1OAxr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://www.helsinkifilmi.fi/",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

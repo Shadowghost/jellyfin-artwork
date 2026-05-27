@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Jollywood Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101864"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

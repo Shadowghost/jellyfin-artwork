@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Corpcast",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234163"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

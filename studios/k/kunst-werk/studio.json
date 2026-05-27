@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kunst/Werk",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189853"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

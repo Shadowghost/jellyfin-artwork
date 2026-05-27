@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Jolly Film",
+    "country": "IT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10481"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

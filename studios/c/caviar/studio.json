@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Caviar",
+    "country": "BE",
+    "homepage": "https://caviar.tv/brussels/",
+    "headquarters": "Brussels",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2699",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c0vZ3qicUq3z8WD5EF1oleLtNMf.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

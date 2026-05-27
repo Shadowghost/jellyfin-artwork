@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Brava Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134957",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9iGgifORYHGHIO1geuNct3Q3sZq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://bravacine.com",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

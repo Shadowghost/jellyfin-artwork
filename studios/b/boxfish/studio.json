@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BOXFISH",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208956",
+        "logo_uri": "https://image.tmdb.org/t/p/original/owqSSxCLd6FTJIPyFnnrLpJ5lvS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://boxfish.de/",
+    "headquarters": "Würzburg",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Weather",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272404"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

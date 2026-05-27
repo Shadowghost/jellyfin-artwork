@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Broadcasting System of San-in",
+    "description": "Japanese television and radio broadcaster serving the San-in region (Tottori and Shimane prefectures); affiliated with JNN/TBS.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.bss.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290747",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oYK3SUwfWiAmAHK6Lsw9qmWQbC9.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

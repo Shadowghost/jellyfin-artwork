@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Moveo Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "228586"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

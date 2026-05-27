@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Metronomic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11908",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zvL1HU9I0u7lxoZjpk8VZyVQYFO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.metronomic.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

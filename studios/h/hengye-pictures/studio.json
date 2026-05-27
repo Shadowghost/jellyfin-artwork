@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hengye Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123063",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aRyemDzqqqsmJwU9MGPanZBpiZY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://www.hengyepic.com/",
+    "headquarters": "Fuzhou, Jiangxi",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Satellite Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103622",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xrONEPF4xgU0A7elwXkyhBPAS6y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://satellitesreceive.com",
+    "placeholder": true
+  }
+]

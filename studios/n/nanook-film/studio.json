@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nanook Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46094",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8zeaCZIKBGrNKL6kYftBBo0AR0K.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "http://www.nanookfilm.com",
+    "headquarters": "Vienna",
+    "placeholder": true
+  }
+]

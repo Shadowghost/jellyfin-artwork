@@ -1,0 +1,13 @@
+[
+  {
+    "name": "getwebserie.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216030"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

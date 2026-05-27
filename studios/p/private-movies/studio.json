@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Private Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252242"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

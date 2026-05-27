@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Rmn-GP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16457",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9Wt2lcSsdMphUlt9UsguVSkiJaj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.rmngp.fr/",
+    "placeholder": true
+  }
+]

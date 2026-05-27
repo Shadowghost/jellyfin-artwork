@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kraal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283376",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mbzSBTjnijGflZ57ejFTcADC6Xv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ZA",
+    "homepage": "https://www.kraalstories.com/",
+    "headquarters": "Kamiesberg, Northern Cape",
+    "placeholder": true
+  }
+]

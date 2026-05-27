@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Ajuntament de Barcelona",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33693"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "headquarters": "Barcelona",
+    "placeholder": true
+  }
+]

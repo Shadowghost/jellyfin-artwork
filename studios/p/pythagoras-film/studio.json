@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pythagoras Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45492",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d2W0LDHhQxPXTzfhJqRw3dWvdCv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.pythagorasfilm.com/",
+    "headquarters": "Chicago, Illinois",
+    "placeholder": true
+  }
+]

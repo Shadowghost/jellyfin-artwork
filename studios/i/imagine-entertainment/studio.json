@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Imagine Entertainment",
+    "description": "American film and television production company founded by Ron Howard and Brian Grazer.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://imagine-entertainment.com",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

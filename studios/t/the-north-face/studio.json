@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The North Face",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148018",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8J9VktNeFA4AWQz0K1wWoQvRMoP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.thenorthface.com",
+    "headquarters": "The North Face, 1551 Wewatta St , Denver, Colorado, USA",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Day To Picture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169778"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

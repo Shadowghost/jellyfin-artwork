@@ -1,0 +1,17 @@
+[
+  {
+    "name": "EnAguas Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175637",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oNsyoTlHHGv93FZuonNNttvaGKY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "http://www.enaguascine.com/",
+    "headquarters": "Ciudad de México",
+    "placeholder": true
+  }
+]

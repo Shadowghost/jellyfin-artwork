@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RIVR Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42703",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6xzdkAR5QHhOFPSLtRBzzs25O7G.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.rivr.com/",
+    "headquarters": "Knoxville, TN, USA",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Certus Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160358"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

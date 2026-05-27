@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Les Films de la tortue",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "288789"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

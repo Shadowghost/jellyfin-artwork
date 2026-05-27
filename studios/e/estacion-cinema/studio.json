@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Estación Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "64616"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

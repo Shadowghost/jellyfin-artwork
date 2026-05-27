@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Turn Card Content",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187951"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Valdés",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123971",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9hx0olyLulw7esUVgjkwnkZlSuc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://valdes.borsalino-films.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

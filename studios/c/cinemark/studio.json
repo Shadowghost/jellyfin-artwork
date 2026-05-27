@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cinemark",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26329"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

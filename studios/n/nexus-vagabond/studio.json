@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nexus Vagabond",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250107"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

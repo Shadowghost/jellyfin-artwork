@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Splendid Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8146",
+        "logo_uri": "https://image.tmdb.org/t/p/original/etoxfrvduHZMLHpYE2uPkicheX2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://splendid-film.de",
+    "placeholder": true
+  }
+]

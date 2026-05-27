@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MangoTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139947",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yTjVB6bJfdbuuZOhKdmjkY70cxn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://www.mgtv.com",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Panchu Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101443"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

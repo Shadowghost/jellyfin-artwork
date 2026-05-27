@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Première Ligne",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150273"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

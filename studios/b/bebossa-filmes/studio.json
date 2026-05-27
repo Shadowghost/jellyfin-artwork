@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Bebossa Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210807"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

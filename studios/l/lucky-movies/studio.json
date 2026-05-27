@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Lucky Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91999"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

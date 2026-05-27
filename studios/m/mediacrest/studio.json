@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mediacrest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210148",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c3BROizAW9ZBNQ8Bn2Pl9xRYIZ4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://mediacrest.com",
+    "placeholder": true
+  }
+]

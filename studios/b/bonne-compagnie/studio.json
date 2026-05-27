@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bonne Compagnie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95167",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dHF5lSPyWdcoUpEsNJh7OJLZNBK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.bonnecompagnie.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

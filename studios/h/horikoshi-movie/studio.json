@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Horikoshi movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201976"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

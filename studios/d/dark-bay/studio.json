@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Dark Bay",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272723",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sZkZldfsjFMX8x28jUioQfypsPF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://dark-bay.com",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Corte A",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135435",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wnyKc2XkCj6wpXIRjDLINLYXYTX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "headquarters": "Córdoba",
+    "placeholder": true
+  }
+]

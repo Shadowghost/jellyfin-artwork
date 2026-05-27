@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lupa Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248685",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9VL05WnRUHVKG0NghH4jRUhbpTo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "https://lupapictures.hu/",
+    "headquarters": "Budapest",
+    "placeholder": true
+  }
+]

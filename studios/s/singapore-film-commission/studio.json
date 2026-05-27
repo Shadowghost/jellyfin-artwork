@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Singapore Film Commission",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202699",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mBzFo8PurDTR8CK4VIlPKoVlkyN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SG",
+    "placeholder": true
+  }
+]

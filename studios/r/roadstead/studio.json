@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Roadstead",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220186",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dfQ6GVocmTVFIgsoAFWKAsruT0u.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://roadstead.io/",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

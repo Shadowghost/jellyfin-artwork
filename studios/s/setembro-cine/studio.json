@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Setembro Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88421",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1iFSj2TyBsIyGaoS3hCKV8ELupB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.setembrocine.com",
+    "headquarters": "Barcelona",
+    "placeholder": true
+  }
+]

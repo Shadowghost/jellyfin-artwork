@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Harbor Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260492"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://harbor-films.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

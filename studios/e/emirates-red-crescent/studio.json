@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Emirates Red Crescent",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134022",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zqXne07uNEZPUBVxAkqpkAveTt7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AE",
+    "homepage": "https://www.rcuae.ae/",
+    "headquarters": "Abu Dhabi",
+    "placeholder": true
+  }
+]

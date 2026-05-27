@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MovieLights",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137976"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

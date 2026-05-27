@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mintrom Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213705"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

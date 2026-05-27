@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ambassador Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17852"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

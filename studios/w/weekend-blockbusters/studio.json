@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Weekend Blockbusters",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32731",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sXyxmudHMS51IqoSEadeydPqlK0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "homepage": "http://www.weekendblockbusters.com/",
+    "headquarters": "Kollam",
+    "placeholder": true
+  }
+]

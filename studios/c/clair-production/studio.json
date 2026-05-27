@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Clair Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108323",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3XZgQYSL04mYQMgQRHUW9XW3KX4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Aix en Provence, France",
+    "placeholder": true
+  }
+]

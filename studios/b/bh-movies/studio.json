@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BH Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196664",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oCY61iGMb6D3et8LigqzpK2MlAz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://bhmovies.co.uk/",
+    "placeholder": true
+  }
+]

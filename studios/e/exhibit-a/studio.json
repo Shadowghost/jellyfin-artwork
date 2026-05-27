@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Exhibit A",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121737"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

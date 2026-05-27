@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Viennale",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275417"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "placeholder": true
+  }
+]

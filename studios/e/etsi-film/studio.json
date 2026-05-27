@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Etsi-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30704"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

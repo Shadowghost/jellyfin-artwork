@@ -1,0 +1,13 @@
+[
+  {
+    "name": "koboiFILM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1109"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "name": "FX",
+    "description": "American basic cable network owned by the Walt Disney Company, known for prestige series such as The Shield, Sons of Anarchy, and Atlanta.",
+    "country": "MK",
+    "type": "cable-network",
+    "colors": [
+      {
+        "name": "FX Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "FX White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33715"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Hyperobject Industries",
+    "description": "American film and television production company founded by Adam McKay in 2020; produced Don't Look Up, Winning Time, and Succession.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://hyperobjectindustries.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125055",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8iY66HqRqdQdwOjoS3sNvokcH9r.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

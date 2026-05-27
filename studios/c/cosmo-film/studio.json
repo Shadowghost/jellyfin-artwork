@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cosmo Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "513",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f4PHvwnV3Auoe4hOXk1pSucv4xI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://www.cosmo.dk/",
+    "headquarters": "Copenhagen, Denmark",
+    "placeholder": true
+  }
+]

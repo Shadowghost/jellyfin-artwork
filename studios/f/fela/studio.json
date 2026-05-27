@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fela",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210518",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nmUwCJxuVZqiKINx0DXhp7TcfVA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://fela.tv/",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

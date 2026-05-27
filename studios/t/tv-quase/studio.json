@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TV Quase",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101735",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kHcV8mY6T7ESCGnPyWAm7P2lhBq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.tvquase.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Middle-earth Enterprises",
+    "country": "US",
+    "homepage": "https://www.middleearth.com",
+    "headquarters": "Berkeley, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194237",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4b73bKbtAYzTN2s6qWAvKdv0Ewl.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

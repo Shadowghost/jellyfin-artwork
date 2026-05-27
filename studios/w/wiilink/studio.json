@@ -1,0 +1,13 @@
+[
+  {
+    "name": "WiiLink",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "293095"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

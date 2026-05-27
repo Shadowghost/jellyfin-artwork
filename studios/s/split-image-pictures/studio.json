@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Split Image Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102464"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Universidad Veracruzana",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114341",
+        "logo_uri": "https://image.tmdb.org/t/p/original/69SYQfiCRhZqqPaGoR8BAdmCXBY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://www.uv.mx/",
+    "headquarters": "Xalapa, MX",
+    "placeholder": true
+  }
+]

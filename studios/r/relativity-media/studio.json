@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Relativity Media",
+    "description": "Relativity Media is an American film studio located in West Hollywood, California which acquires, develops, produces, and distributes films and produces television programming. It was founded in 2004 by Ryan Kavanaugh.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://relativitymedia.com",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7295",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5MYE96QiE5a5oFhXxFb4y8ILSpw.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

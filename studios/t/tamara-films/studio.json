@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tamara Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135805",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oZyVa3mp0Mx4b3f6vHfUD4dcTYX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://tamarafilms.com",
+    "placeholder": true
+  }
+]

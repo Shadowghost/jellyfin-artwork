@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Really Useful Group",
+    "country": "GB",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7922",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kWdopfnceXhS3RRkU5ktd7J3nXx.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

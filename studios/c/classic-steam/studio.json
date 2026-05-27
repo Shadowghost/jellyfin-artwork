@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Classic Steam",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218267"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

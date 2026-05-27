@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pat McAfee",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200337",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3g1nh25NYK5Bv3Q8WNxx89J22Is.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.patmcafeeshow.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Lesfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100508"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

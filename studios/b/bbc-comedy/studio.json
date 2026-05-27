@@ -1,0 +1,28 @@
+[
+  {
+    "name": "BBC Comedy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "44332",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v43wr7oPipil7NEUBi3rOifJVCu.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "GB",
+    "template": true
+  }
+]

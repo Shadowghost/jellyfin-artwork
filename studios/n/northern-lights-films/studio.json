@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Northern Lights Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8714",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cLH8bzJW3voNXF8uYKPKr50sdWp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://northernlightsfilms.com",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les Films du Parnasse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24578"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

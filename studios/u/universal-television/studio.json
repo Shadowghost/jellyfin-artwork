@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Universal Television",
+    "description": "American television production company and division of NBCUniversal Studio Group, producing series including The Office, Brooklyn Nine-Nine, and Law & Order.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://www.nbcuniversal.com/business/universal-television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26727",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jeTxdjXhzgKZyLr3l9MllkTn3fy.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

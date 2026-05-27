@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Stikbot Central",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174877"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

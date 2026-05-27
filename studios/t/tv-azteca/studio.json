@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TV Azteca",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21117",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kqJuk6phgSj4DIXLFWvHVO0gcH4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://www.tvazteca.com/",
+    "headquarters": "Mexico City, Distrito Federal, Mexico",
+    "placeholder": true
+  }
+]

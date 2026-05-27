@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Fred Films",
+    "country": "GB",
+    "homepage": "https://www.fredfilms.co.uk/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88045"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

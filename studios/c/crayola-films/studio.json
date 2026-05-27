@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Crayola Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152003",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7VJjPX9NIt4A74mAkJ6L0Mv7j89.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.crayola.com/company",
+    "headquarters": "Forks Township, Pennsylvania",
+    "placeholder": true
+  }
+]

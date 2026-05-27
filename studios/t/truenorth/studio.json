@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Truenorth",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88648",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eiophOSHlcbrty3aVO9ISYK3SMO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IS",
+    "homepage": "https://www.truenorth.is/",
+    "headquarters": "Reykjavik, Iceland",
+    "placeholder": true
+  }
+]

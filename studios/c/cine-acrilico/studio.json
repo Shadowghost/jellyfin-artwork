@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cine Acrílico",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215362",
+        "logo_uri": "https://image.tmdb.org/t/p/original/epCiczreOWVLFyZb2wTQEAq3fIP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "headquarters": "Ciudad de México",
+    "placeholder": true
+  }
+]

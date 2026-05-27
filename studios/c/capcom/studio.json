@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Capcom",
+    "description": "Japanese video game developer and publisher behind franchises like Street Fighter, Resident Evil, and Monster Hunter.",
+    "country": "JP",
+    "type": "other",
+    "homepage": "http://www.capcom.com/",
+    "headquarters": "Chuuou-ku, Osaka",
+    "colors": [
+      {
+        "name": "Capcom Yellow",
+        "hex": "#F7D417"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7220",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dD0x5awPmtx4sAr2pNvkmxkCODh.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "CAPCOM"
+    ],
+    "template": true
+  }
+]

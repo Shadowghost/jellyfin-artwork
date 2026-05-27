@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Quexito Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85588",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f2KG2yn1wWkYDsM2w6xvL8EZsSa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.quexito.com",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

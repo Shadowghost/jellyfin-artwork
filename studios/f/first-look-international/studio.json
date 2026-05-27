@@ -1,0 +1,15 @@
+[
+  {
+    "name": "First Look International",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11054",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ydEsA5xqHtIKNHXAgYqQJAQwJP5.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

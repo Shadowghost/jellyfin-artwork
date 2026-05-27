@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Schweizerfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258560"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

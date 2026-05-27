@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Albatross",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114624",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9167DsnI03H7cnAmMVOcOx30NUA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.albatros-film.com/",
+    "placeholder": true
+  }
+]

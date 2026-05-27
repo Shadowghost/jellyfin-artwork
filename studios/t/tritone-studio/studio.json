@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tritone Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100383",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a4sl4E9C4HZHUPQPgZocnVJnKO9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LV",
+    "homepage": "https://www.filmstritone.com/",
+    "headquarters": "Riga",
+    "placeholder": true
+  }
+]

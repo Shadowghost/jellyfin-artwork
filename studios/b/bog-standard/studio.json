@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bog Standard",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241965"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

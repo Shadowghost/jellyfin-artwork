@@ -1,0 +1,13 @@
+[
+  {
+    "name": "tostimg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180371"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

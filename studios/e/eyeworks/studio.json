@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Eyeworks",
+    "country": "BE",
+    "homepage": "http://www.eyeworksfilm.be",
+    "headquarters": "Zaventem, Belgium",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6461",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dNe4iMWCGaQRA6RTIYzUfqMigYh.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

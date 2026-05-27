@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Trimafilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119365",
+        "logo_uri": "https://image.tmdb.org/t/p/original/el0nrZZ9DCeM21lg9PIKzo5ksbI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.trimafilm.com",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

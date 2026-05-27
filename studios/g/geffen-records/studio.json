@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Geffen Records",
+    "description": "American record label founded by David Geffen, now part of Universal Music Group's Interscope Geffen A&M, known for rock, pop and hip-hop releases.",
+    "country": "US",
+    "type": "record-label",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4485",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nDWAVXc8LyfAj8Sb9yeH4ivoWxp.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

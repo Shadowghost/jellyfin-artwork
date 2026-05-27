@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ESPERA Y DESESPERA Espectáculos",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174702",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lTqwX4UnjGUFxpKxnfZlmNFO9eB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "http://esperaydesespera.com",
+    "headquarters": "México",
+    "placeholder": true
+  }
+]

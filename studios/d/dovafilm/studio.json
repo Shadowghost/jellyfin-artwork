@@ -1,0 +1,13 @@
+[
+  {
+    "name": "dovafilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11450"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Chanel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81157",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pJbVqg1sa4b9OA40r1uQD1IvLVj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://chanel.com",
+    "placeholder": true
+  }
+]

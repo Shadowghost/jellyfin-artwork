@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Postyr",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19013",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6bi3xk5V7HXXUSIhQRM3c4LdkcR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://www.postyr.dk/",
+    "placeholder": true
+  }
+]

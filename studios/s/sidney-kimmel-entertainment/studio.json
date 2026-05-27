@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sidney Kimmel Entertainment",
+    "country": "US",
+    "homepage": "http://skefilms.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "737",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dK1GZ1u4our8sJW0Sts1JHeNSLn.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

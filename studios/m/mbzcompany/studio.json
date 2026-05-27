@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MBZCompany",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256845",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qqQOUTSfCXQfNzgcQwU45Fin6gx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "headquarters": "Seongbuk, Seoul, South Korea",
+    "placeholder": true
+  }
+]

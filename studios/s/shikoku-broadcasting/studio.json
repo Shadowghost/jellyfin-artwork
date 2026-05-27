@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Shikoku Broadcasting",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274106",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5vFZe09pS1tHvaAF7hdqZj77xVd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.jrt.co.jp/",
+    "placeholder": true
+  }
+]

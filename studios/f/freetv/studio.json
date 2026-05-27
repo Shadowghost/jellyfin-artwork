@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FreeTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230328"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

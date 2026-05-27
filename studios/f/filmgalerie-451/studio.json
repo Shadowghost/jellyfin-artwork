@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmgalerie 451",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17178",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eXbcwmrHmVmgmRFPoYZfbLkt884.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.filmgalerie451.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

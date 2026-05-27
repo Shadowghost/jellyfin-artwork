@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Art Films Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70772",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4dZxmrKg3uLLnI6oXqOKFIaXrgZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://www.artfilmsproduction.com",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dino De Laurentiis Company",
+    "country": "US",
+    "homepage": "http://www.delaurentiisco.com",
+    "headquarters": "Universal City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10308",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5AEHeflZe2YavcjL0s99gJA8csi.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

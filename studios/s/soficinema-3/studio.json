@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Soficinéma 3",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25205"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Checkpoint Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271292"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "PADO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274462",
+        "logo_uri": "https://image.tmdb.org/t/p/original/baNiAYrry1yxOShqBP8wnZ3chhl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://padofilms.com/",
+    "placeholder": true
+  }
+]

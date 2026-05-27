@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Harry",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256854",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bx9GvMsD4ZkILCnG0qchHBQe0M4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://harryrules.com/",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

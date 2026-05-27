@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SamFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101088"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

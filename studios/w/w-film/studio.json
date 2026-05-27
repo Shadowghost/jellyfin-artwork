@@ -1,0 +1,17 @@
+[
+  {
+    "name": "W-film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97124",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yPMc0cRnUqpbXWHavXgLuPXyfHk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.wfilm.de/",
+    "headquarters": "Cologne",
+    "placeholder": true
+  }
+]

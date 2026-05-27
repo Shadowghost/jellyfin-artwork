@@ -1,0 +1,16 @@
+[
+  {
+    "name": "RecoChoku",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275051",
+        "logo_uri": "https://image.tmdb.org/t/p/original/frums0LcVc2M2HSyGIPZ0xQRngq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://recochoku.jp/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "JimCo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148150",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5IBGb9m0j4u2DgzZuV5WQ3dyfAI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.jimcotv.com/",
+    "headquarters": "New York",
+    "placeholder": true
+  }
+]

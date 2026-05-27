@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Explicit Empire",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101009",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uOMXosOlpgj6GFxt5th7ydhnqV5.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ipnotica Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239287",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9YFVlJrIPAUWWFQSJg4O2l5fkyv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.ipnoticafilm.com/",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

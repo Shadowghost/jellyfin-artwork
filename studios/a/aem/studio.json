@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AEM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183591",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eIsxneNYfLCKD1GNas9mLHh6HS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://www.gob.mx/aem",
+    "headquarters": "Mexico City, Mexico",
+    "placeholder": true
+  }
+]

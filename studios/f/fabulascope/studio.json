@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fabulascope",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289220"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

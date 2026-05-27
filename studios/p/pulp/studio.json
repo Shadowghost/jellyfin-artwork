@@ -1,0 +1,13 @@
+[
+  {
+    "name": "pulp.",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "286061"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

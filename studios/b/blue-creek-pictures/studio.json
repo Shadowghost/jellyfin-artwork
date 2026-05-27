@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Blue Creek Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "65938",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i0yfUJtGp9Ev2PMtjwzFLZxlgXU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://bluecreekpictures.com",
+    "headquarters": "Beverly Hills, California, USA",
+    "placeholder": true
+  }
+]

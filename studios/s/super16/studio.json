@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Super16",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94333",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zyB21Aa1WJsGe2nLc0SEWfMGwEW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://www.super16.dk/",
+    "headquarters": "Copenhagen",
+    "placeholder": true
+  }
+]

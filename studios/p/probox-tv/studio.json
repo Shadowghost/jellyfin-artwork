@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ProBox TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181850",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x42f5qYMqWEFqtKXTyh7Y4JmsSV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://proboxtv.com/",
+    "headquarters": "Plant City, Florida",
+    "placeholder": true
+  }
+]

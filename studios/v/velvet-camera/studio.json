@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Velvet Camera",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90200"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

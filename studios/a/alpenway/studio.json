@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Alpenway",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85858",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oHutHUb1dK9vBwplJVcxZpokVvh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://alpenway.com/en",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

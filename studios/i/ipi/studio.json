@@ -1,0 +1,16 @@
+[
+  {
+    "name": "IPI",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280254",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fM9RiMZx7i2OCoPpU3A52c19to5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://ipi-net.co.jp/",
+    "placeholder": true
+  }
+]

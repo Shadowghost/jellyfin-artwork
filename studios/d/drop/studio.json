@@ -1,0 +1,13 @@
+[
+  {
+    "name": "drop",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192841"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

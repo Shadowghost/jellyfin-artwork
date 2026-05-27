@@ -1,0 +1,13 @@
+[
+  {
+    "name": "word and sentence",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24226"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

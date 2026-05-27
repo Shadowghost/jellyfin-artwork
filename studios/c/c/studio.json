@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CТН-фильм",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "65801"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

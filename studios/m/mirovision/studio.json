@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mirovision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5748",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iZWfFS2Hj90p2aQUhvS6OPDeMDk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.mirovision.com/",
+    "headquarters": "Yeongdeungpo, Seoul, South Korea",
+    "placeholder": true
+  }
+]

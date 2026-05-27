@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MusiquePlus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183255",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mH3nk0XWnkfxKEzNxQh4D9b5szz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Smashing Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "235029",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5C7DYC9mpaCwrOpALkrGwo4YZLP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://www.smashingfilms.com.au/",
+    "placeholder": true
+  }
+]

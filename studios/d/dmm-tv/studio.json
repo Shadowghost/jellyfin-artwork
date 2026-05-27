@@ -1,0 +1,34 @@
+[
+  {
+    "name": "DMM TV",
+    "description": "Japanese e-commerce and internet company operating various services including DMM TV streaming, DMM Games, and DMM Pictures.",
+    "country": "JP",
+    "type": "streaming-service",
+    "homepage": "https://www.dmm.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87211",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lzBP1lTYoqqfvGriMMdlvFWDRH7.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "DMM.com"
+    ],
+    "template": true
+  }
+]

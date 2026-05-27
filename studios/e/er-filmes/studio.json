@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ER Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "178540"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

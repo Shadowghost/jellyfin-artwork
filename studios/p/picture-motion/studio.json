@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Picture Motion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83028"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

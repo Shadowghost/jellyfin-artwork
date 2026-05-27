@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Bar Nothing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51548"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

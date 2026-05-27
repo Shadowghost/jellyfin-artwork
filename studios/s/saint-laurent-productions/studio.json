@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Saint Laurent Productions",
+    "country": "FR",
+    "homepage": "https://saintlaurentproductions.ysl.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "237344",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3fFS8oipevuYlXVbOaqmHYUTyBx.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

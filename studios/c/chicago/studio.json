@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Chicago",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241107"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

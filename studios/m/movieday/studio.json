@@ -1,0 +1,15 @@
+[
+  {
+    "name": "MovieDay",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116192"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.movieday.it/",
+    "placeholder": true
+  }
+]

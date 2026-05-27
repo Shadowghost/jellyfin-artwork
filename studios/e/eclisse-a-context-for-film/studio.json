@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ECLISSE - a context for film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96480"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

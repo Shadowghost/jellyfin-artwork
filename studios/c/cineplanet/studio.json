@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CinePlanet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70871",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uLajUbHeBQmIUXIcU3JYDnE55s7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "homepage": "https://cineplanet.tv/",
+    "headquarters": "Belgrade",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films Odéon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5424"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

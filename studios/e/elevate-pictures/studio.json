@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Elevate Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104552",
+        "logo_uri": "https://image.tmdb.org/t/p/original/55OxkryRt0ioWdJfWXHWQzRQbhb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://elevate-m.com",
+    "headquarters": "Columbus, Ohio",
+    "placeholder": true
+  }
+]

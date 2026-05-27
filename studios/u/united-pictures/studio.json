@@ -1,0 +1,32 @@
+[
+  {
+    "name": "United International Pictures",
+    "description": "Joint-venture international film distributor of Paramount Pictures and Universal Pictures, releasing their films theatrically in markets outside North America.",
+    "country": "GB",
+    "type": "distributor",
+    "homepage": "http://www.uip.com/",
+    "headquarters": "London, United Kingdom",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6814",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nMG1p9n6X4rhTyvvFJiOeciwIKU.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

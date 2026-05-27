@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Follow Back Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255254",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sPuu3790fcXwQxDzuqbVsENbC3u.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.followbackfilms.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

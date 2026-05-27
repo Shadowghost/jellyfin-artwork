@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Aubin Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13638",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8e5pSWaPlwJiokyWn7r1ed3j19q.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://aubinpictures.com/",
+    "placeholder": true
+  }
+]

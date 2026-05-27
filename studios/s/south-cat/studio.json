@@ -1,0 +1,16 @@
+[
+  {
+    "name": "South Cat",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220354",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wcFq2zzcQ4Nz5doaN1AmvmYXvC9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://south-cat.themedia.jp/",
+    "placeholder": true
+  }
+]

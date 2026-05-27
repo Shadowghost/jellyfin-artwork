@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films d'Avalon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60804",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eyXvY18fl5I1JQjBAsyE7vwYc9h.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.lesfilmsdavalon.fr/en/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "School Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19999"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

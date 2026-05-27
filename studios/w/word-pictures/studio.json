@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Word Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223448"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

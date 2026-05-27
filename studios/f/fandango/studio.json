@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fandango",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2441",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7Vutdea75apwXkRyfQ4Ne6j0KcN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.fandango.it/",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

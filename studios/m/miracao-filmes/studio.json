@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Miração Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111239",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dvLLrSn4nfRMyRhEXHtgivwpOOR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

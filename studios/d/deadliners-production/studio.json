@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Deadliners production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184037"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

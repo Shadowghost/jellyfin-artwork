@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Apaches Films",
+    "country": "ES",
+    "homepage": "https://www.apaches.es",
+    "headquarters": "Madrid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8111",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p6Ie4y2hs9quqPgU1xcEsRux8bV.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

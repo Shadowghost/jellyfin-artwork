@@ -1,0 +1,17 @@
+[
+  {
+    "name": "English National Ballet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133623",
+        "logo_uri": "https://image.tmdb.org/t/p/original/BemGGEKcR7vi9lgpxflE8p1KvW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.ballet.org.uk/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "RAN-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91062"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "http://ranfilm.at/",
+    "placeholder": true
+  }
+]

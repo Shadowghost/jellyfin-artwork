@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Simple Seed",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "136852"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

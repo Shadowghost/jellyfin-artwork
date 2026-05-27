@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Yoram Gross Films",
+    "description": "Australian animation studio founded by Yoram Gross, known for Blinky Bill and Dot and the Kangaroo; rebranded as Flying Bark Productions.",
+    "country": "AU",
+    "type": "studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12667",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qYZnHObZ5Ye5qFXZzXb3owLAl4b.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

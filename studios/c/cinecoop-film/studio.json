@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cinecoop-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141219"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "placeholder": true
+  }
+]

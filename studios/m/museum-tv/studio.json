@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Museum TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239056",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Rt02DhwHCa70nh1xblthPmkZI9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.museumtv.art/",
+    "headquarters": "Villeneuve-d'Ascq",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "lapintrack",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128785",
+        "logo_uri": "https://image.tmdb.org/t/p/original/leTqYkzdabEsxBQ0XdHxA7SDuU6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://lapintrack.com/wp/",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

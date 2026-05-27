@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pragma Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125225"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Geopoly",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75291"
+      }
+    ],
+    "artwork": {},
+    "country": "BG",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Farfadax production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255854"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

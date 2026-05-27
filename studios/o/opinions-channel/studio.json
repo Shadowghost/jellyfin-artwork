@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Opinions Channel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242699"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

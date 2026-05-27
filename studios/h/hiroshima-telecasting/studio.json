@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Hiroshima Telecasting",
+    "description": "Japanese commercial television broadcaster based in Hiroshima, affiliated with the Nippon News Network and Nippon Television Network System.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "http://www.htv.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11722",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4OpeDJ8jzPeaSiOlzGCnHjm6tpt.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

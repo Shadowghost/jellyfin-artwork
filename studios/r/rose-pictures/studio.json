@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Rose Pictures",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126549"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

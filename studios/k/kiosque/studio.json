@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kiosque",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95446"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

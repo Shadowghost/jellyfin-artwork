@@ -1,0 +1,42 @@
+[
+  {
+    "name": "American Broadcasting Company (ABC)",
+    "description": "American commercial broadcast television network and flagship property of Disney Entertainment, founded in 1943 from NBC's Blue Network.",
+    "country": "US",
+    "type": "broadcast-network",
+    "homepage": "https://abc.com",
+    "headquarters": "Burbank, California",
+    "colors": [
+      {
+        "name": "ABC Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "ABC White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176162",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6p5mbxa1dzikbnVlLc11uroG9GU.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

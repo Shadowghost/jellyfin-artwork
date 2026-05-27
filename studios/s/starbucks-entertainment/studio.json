@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Starbucks Entertainment",
+    "description": "Entertainment-marketing arm of Starbucks Corporation, partnering on music, books, and films (e.g., Akeelah and the Bee, 2006).",
+    "country": "US",
+    "type": "other",
+    "colors": [
+      {
+        "name": "Starbucks Green",
+        "hex": "#006241"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1708"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

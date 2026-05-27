@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Rizzoli Film",
+    "country": "IT",
+    "headquarters": "Roma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1131"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

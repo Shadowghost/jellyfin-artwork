@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films du 3 Mars",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "44810",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fwnOlu3T5VrgVWruS7rck7tWprC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.f3m.ca",
+    "headquarters": "Montréal, Québec",
+    "placeholder": true
+  }
+]

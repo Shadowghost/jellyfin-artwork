@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Blanche Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230823",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lo1Cf6Tf6lc715VfDn2Bmy7m9UT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://blanchepictures.com/",
+    "placeholder": true
+  }
+]

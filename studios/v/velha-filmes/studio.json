@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Velha Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110261"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

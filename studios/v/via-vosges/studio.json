@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Via Vosges",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120945"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

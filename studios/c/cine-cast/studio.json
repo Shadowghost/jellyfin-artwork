@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine Cast",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49322"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ali films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260998",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tytuKV8J7NKams9xbjF8vWERwMQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://alifilms.co.uk/",
+    "placeholder": true
+  }
+]

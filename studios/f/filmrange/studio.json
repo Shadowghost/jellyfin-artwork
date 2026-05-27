@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FILMRANGE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "295212"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

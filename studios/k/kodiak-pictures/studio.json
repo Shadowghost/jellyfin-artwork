@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kodiak Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90761",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uPcwljtUrpoeRiXI4vpDsvqWiqP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.kodiakpictures.com",
+    "headquarters": "West Hollywood, California",
+    "placeholder": true
+  }
+]

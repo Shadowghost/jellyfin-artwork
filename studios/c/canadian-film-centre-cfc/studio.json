@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Canadian Film Centre (CFC)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14185",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bjwHArtlcoC9WvlT1vM66ad2ij2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.cfccreates.com/",
+    "placeholder": true
+  }
+]

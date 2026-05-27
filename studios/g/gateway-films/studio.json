@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Gateway Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7353",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yV5sxmYy4nBptmedJbsUKpr6W4M.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

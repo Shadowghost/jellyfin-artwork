@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cretica Universal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124258",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tPkyigjK926IjdogLi3vXjlsuAg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://cretica.co.jp/",
+    "placeholder": true
+  }
+]

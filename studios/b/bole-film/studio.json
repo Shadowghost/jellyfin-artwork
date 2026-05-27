@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bole Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180273",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yZ4kDEVCxLCodwYYjzqdgDN1bRY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TW",
+    "headquarters": "Taipei City",
+    "placeholder": true
+  }
+]

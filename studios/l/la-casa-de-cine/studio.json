@@ -1,0 +1,16 @@
+[
+  {
+    "name": "La Casa de Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16011"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://www.lacasadecine.com/",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

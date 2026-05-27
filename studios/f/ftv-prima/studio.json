@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FTV Prima",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122618",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oXWUbYOOLKoromcYtia6Ll5UyC6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.iprima.cz",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

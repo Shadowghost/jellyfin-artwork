@@ -1,0 +1,16 @@
+[
+  {
+    "name": "National Lottery",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1270",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4xicOE0sCK3PWfM3RKvHUc89xoL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.national-lottery.co.uk",
+    "placeholder": true
+  }
+]

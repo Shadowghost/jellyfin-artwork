@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Ring of Honor (ROH)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103501",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bDAPxOGj1dZWTtv5ubJPh97PiNF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

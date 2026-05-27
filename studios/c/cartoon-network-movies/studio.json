@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Cartoon Network Movies",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274991",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tJUFfVUpKgU48FJ57T8bF8Kzuwr.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

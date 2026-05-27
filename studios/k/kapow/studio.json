@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kapow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "132149",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e9oeUE1ENEuVyb0bl7BMxaQavYd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://www.kapow.com.ar/",
+    "placeholder": true
+  }
+]

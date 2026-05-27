@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pastisor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271591",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qWxaMUuUsmdGqjoWdCOT3jqBnRG.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

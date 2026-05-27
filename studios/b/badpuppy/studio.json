@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BadPuppy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189068",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xRTWjAcSBEkihJj6Nh1p6mHZDE4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://badpuppy.com/",
+    "placeholder": true
+  }
+]

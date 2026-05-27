@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Gulp Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205433"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

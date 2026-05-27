@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Moskino Film Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127245",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dxPKNDpKxRcDiSUgbMrxTH0AjKj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://www.mos-kino.ru/",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

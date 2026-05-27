@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TV Cartoons",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19008"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

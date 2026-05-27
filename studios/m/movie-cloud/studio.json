@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie Cloud",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193403"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

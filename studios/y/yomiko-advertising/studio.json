@@ -1,0 +1,17 @@
+[
+  {
+    "name": "YOMIKO Advertising",
+    "country": "JP",
+    "homepage": "https://www.yomiko.co.jp/en/",
+    "headquarters": "Minato, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27716",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9Pp6m0fRqe86E7MOFaj1ZZiuuL1.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

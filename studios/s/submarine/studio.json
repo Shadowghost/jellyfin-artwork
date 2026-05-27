@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Submarine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55968",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r2lAO54uFXiqmMmURMwlu1RQaJE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.submarine.nl",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PROCIREP",
+    "country": "FR",
+    "homepage": "http://www.procirep.fr",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "311",
+        "logo_uri": "https://image.tmdb.org/t/p/original/TNGvZ8zOklntjPP3EcsHtrR8Rc.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

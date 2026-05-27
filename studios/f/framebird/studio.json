@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FrameBird",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262875",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8qq3Thu5mFK7C0e0DqDxiszAqrx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.framebird.de",
+    "headquarters": "Landshut",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Serendipity Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31136",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3zEzq1UbT9okRue3vhI8liwOmcF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "http://www.serendipityfilms.be",
+    "headquarters": "Flanders",
+    "placeholder": true
+  }
+]

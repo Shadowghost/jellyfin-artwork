@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Filmoteca Española",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89360"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.culturaydeporte.gob.es/cultura/areas/cine/mc/fe/portada.html",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

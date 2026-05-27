@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sinatra Enterprises",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30065"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

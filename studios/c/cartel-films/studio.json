@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cartel Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154936",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sWAAK1asC0Y4w6hpidh4NND4Wix.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://cartel.tv/cartel-films",
+    "placeholder": true
+  }
+]

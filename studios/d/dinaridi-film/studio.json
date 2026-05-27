@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dinaridi film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123684",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gdWPXwP7xcOAZpXCnkP7SyfqQ2l.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HR",
+    "homepage": "https://dinaridi.com/",
+    "headquarters": "Zagreb",
+    "placeholder": true
+  }
+]

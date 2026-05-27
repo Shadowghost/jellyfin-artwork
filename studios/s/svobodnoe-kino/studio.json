@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Svobodnoe Kino",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274234",
+        "logo_uri": "https://image.tmdb.org/t/p/original/FzsIV58Ru3pxeSFHwLNsQ01tYe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://svobodnoekino.ru/",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

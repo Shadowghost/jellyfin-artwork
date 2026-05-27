@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Four Knights Film",
+    "country": "NZ",
+    "homepage": "https://www.4knightsfilm.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17761",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fvvFNvMUsRGTP1MUqWQKHMMc8a1.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

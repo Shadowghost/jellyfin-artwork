@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Funky Monkey Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128178"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

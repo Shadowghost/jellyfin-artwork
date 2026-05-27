@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vilaüt Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118930",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lRBrUE7HoGl1BzPLmLIbnBIYbi3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://vilautfilms.com",
+    "headquarters": "Barcelona, Catalonia",
+    "placeholder": true
+  }
+]

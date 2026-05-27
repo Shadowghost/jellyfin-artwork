@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Iliade et Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163404",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f5LLrF4O1hwrzCqfFTpYVg0buON.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://iliadefilms.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

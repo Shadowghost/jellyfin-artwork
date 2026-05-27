@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kinorama",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20916",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kTzjchV1BXm1kSmR5vPRUnJfLil.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HR",
+    "homepage": "http://www.kinorama.hr/en/",
+    "headquarters": "Zagreb, Croatia",
+    "placeholder": true
+  }
+]

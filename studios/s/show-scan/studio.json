@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Show Scan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170884"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

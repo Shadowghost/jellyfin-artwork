@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Magasin Général",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123229",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qoAllM1WVJ0tcvPwPFdbBcfQk4K.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.magasingeneralmedia.com",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Music Seraph",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185149"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://music-seraph.com/",
+    "placeholder": true
+  }
+]

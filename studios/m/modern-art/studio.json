@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Modern Art",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221971"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

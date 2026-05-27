@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie Arts",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211769"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

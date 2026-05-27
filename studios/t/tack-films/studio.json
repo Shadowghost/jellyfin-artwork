@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TACK Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87131",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l0WpanmVPy2hVYZbOlpFOg9t5Sf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://www.tackfilms.fi/",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

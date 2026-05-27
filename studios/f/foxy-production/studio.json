@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Foxy Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130576"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

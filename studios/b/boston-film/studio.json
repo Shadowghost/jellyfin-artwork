@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Boston-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31841"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

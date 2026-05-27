@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Feline Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125689",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qTZEgwS3RMpiAFDbB6Yixrdjnbi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "http://felinefilms.ie/",
+    "headquarters": "Dublin",
+    "placeholder": true
+  }
+]

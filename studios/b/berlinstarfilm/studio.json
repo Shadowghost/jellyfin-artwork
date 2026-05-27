@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BerlinstarFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "65934",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h1EeGU0EDgDRluGV4Vto5KmOf5X.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.berlinstarfilm.com",
+    "placeholder": true
+  }
+]

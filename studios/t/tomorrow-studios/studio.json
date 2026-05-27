@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tomorrow Studios",
+    "country": "US",
+    "homepage": "https://www.tomorrow-studio.com",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104720",
+        "logo_uri": "https://image.tmdb.org/t/p/original/465nRotlMZXuB7Mlvh8o8O7BlGF.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

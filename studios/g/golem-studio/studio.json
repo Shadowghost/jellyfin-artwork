@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Golem Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "236668",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ck3mhmQHhhSnqRWyFEhidPPXgvv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PE",
+    "homepage": "https://golemstudio.net",
+    "placeholder": true
+  }
+]

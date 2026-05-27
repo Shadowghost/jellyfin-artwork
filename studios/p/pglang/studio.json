@@ -1,0 +1,17 @@
+[
+  {
+    "name": "pgLang",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168182",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8DiUvmiw3TeyDSsKbPIkZ5FGfD2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.pg-lang.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

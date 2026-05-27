@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Video Feed",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63830"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

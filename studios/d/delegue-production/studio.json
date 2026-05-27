@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Delegue Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "297262"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

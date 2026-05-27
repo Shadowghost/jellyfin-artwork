@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Universal Music Spain",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139049",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wlE3nqibcbCCRFqS8vzcfflfdBx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

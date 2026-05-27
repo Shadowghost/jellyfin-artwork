@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WUCF TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188021",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zif7JDEfs8Hnj1R4PF8RaHL8y9s.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.wucf.org/watch/",
+    "headquarters": "Orlando, FL",
+    "placeholder": true
+  }
+]

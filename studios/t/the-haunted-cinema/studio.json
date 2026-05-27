@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Haunted Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211909",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g9d1302hWUJO6hh1fERuaXoBgbm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://hauntedcinema.com/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

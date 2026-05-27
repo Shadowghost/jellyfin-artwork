@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TelevisaUnivision Mexico",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192443",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l5JPZK6eFLsrDi41I4Jg5jnnAc4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://televisaunivision.com/",
+    "placeholder": true
+  }
+]

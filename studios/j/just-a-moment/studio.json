@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Just A Moment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66008",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k0SjcmMcK3yxTRJj7GuMhiKCn8v.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LT",
+    "homepage": "https://www.justamoment.lt/",
+    "headquarters": "Vilnius",
+    "placeholder": true
+  }
+]

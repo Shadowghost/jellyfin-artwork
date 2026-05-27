@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Daily Planet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "294247"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.daily-plan.net",
+    "placeholder": true
+  }
+]

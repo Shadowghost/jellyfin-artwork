@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ZDF Digital",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225783",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5QaDBWKPbmuLjIloamCAnr3DKDi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://zdf.digital/",
+    "headquarters": "Mainz",
+    "placeholder": true
+  }
+]

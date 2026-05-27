@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sacher Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9364",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4AuJw54SSgKZifQBl2OsaOVWt9I.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.sacherfilm.eu/",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Bluebird Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8754",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qjUNVDr7IgMShp6yqBFCgTUVSmN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

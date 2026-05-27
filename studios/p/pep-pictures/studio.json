@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PEP Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76510"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

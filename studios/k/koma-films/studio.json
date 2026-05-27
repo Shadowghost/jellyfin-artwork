@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Koma Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79565",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r8tNYwTdpRCqbIqSsophXbTZnOA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://komafilms.ca",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

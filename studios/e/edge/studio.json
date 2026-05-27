@@ -1,0 +1,14 @@
+[
+  {
+    "name": "EDGE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123561"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

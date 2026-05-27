@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Spendy production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131371"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

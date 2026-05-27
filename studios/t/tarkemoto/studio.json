@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tarkemoto",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116092"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.tarkemoto.com/",
+    "headquarters": "Seville",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Art Ficción",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110209"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

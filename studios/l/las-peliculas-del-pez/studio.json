@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Las Películas del Pez",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102820"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

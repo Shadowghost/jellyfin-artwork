@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Babel Presse Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126234"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "ITV Thames Valley",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270535",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t3KywbqUfcZWRO12NQkDWO5wOto.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

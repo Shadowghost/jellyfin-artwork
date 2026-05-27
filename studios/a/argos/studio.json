@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Argos",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "389"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

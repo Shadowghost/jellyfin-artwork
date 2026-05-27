@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Planetario media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150125"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

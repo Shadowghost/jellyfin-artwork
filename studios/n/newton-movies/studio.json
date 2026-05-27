@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Newton Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73692",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qPg4NkC6Sgo0s1WiXklxNC0f8Ar.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

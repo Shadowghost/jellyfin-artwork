@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rancho Humilde",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217508",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1XbMjIeU0xkCLhdOrjKaLizSIzT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://ranchohumilde.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

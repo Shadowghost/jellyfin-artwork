@@ -1,0 +1,13 @@
+[
+  {
+    "name": "line2artists",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225018"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Scrapyard",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221607"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

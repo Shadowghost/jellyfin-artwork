@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fire Strike",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141521"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pasajero",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "228488",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bVewn2motj4B6MPCJa94GM1i1IO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://www.pasaje.ro/",
+    "headquarters": "Ciudad de México",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bizibi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "786",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cWtcpHzvZoSzVTzXkzyidgWgjyr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://bizibi.fr",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

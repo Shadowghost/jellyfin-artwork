@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Attack Zone",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "61980"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

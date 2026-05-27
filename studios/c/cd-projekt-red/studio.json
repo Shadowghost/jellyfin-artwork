@@ -1,0 +1,45 @@
+[
+  {
+    "name": "CD PROJEKT RED",
+    "description": "Polish video game developer and studio division of CD Projekt, known for The Witcher series and Cyberpunk 2077.",
+    "country": "PL",
+    "type": "production-company",
+    "homepage": "https://en.cdprojektred.com/",
+    "headquarters": "Warsaw",
+    "colors": [
+      {
+        "name": "CDPR Red",
+        "hex": "#E60000"
+      },
+      {
+        "name": "CDPR Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117187",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9XnbaSeD1REQ04dJCQcJpBqSP8B.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "CD Projekt Red"
+    ],
+    "template": true
+  }
+]

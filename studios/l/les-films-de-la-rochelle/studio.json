@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films de la Rochelle",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91508"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

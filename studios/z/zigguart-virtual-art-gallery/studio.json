@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Zigguart Virtual Art Gallery",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "243655"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

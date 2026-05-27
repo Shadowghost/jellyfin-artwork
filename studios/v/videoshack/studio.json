@@ -1,0 +1,13 @@
+[
+  {
+    "name": "VideoShack",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264394"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

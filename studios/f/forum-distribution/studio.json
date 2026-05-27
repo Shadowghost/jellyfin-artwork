@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Forum Distribution",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41147"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

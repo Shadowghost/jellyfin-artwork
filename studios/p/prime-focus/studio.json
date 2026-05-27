@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Prime Focus",
+    "country": "IN",
+    "homepage": "http://www.primefocus.com/",
+    "headquarters": "Mumbai",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15357",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uvaRT02pY9U8qLH8a9WwwAroDqr.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

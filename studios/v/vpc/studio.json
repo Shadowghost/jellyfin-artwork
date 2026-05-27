@@ -1,0 +1,16 @@
+[
+  {
+    "name": "VPC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257453",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fmFKSQZFwS4viIfJU4ucO3eyjC3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://vpcinc.jp/",
+    "placeholder": true
+  }
+]

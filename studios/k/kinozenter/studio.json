@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Kinozenter",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193045"
+      }
+    ],
+    "artwork": {},
+    "country": "BG",
+    "placeholder": true
+  }
+]

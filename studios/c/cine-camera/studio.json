@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine Camera",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81017"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

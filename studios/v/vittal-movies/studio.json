@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Vittal Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242212"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

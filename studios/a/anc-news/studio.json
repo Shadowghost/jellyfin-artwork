@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ANC News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202291"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

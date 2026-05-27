@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pie in the sky",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "195010",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qsfdqAvpbGgeHKPFBV98XYMsoV7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://pieinthesky.jp/",
+    "headquarters": "MG-BUILDING, Chuo 3-13-11, Nakano-ku, Tokyo",
+    "placeholder": true
+  }
+]

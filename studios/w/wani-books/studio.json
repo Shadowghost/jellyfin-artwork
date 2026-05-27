@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wani Books",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17985",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xQ5jPezvONBXg4A07ZyOUPn8yp2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.wani.co.jp/",
+    "headquarters": "Shibuya, Tokyo",
+    "placeholder": true
+  }
+]

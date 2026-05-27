@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Point de Mire",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3841"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.pdemire.com",
+    "placeholder": true
+  }
+]

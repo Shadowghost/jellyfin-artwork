@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vivo Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7144",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wqc8HTYdCCFnguN2Ma55lr2HIyC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://vivofilm.it",
+    "headquarters": "Rome, Italy",
+    "placeholder": true
+  }
+]

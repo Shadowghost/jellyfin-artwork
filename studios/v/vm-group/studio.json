@@ -1,0 +1,13 @@
+[
+  {
+    "name": "VM Group",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85619"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

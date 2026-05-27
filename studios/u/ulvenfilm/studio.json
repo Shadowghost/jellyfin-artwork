@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ulvenfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127772",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6qCa50ttuHUulYCHGU110i2z3Av.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "http://ulvenfilm.no/",
+    "headquarters": "Saksumdalen",
+    "placeholder": true
+  }
+]

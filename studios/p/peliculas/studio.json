@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Películas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143320"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "headquarters": "Rio de Janeiro - Brasil",
+    "placeholder": true
+  }
+]

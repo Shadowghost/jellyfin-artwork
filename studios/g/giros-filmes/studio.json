@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Giros Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127881",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1WSisosuuSk1jS2AOdAWmqUw1Nt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.giros.com.br/",
+    "headquarters": "Rio de Janeiro",
+    "placeholder": true
+  }
+]

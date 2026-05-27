@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Proximity Media",
+    "description": "American film, television and digital media production company founded by Ryan Coogler.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.proximitymedia.com",
+    "headquarters": "Oakland, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148495",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2fQRDickgp9vuDIxJTlDLEs7j0y.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

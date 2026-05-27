@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Claps production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100958"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

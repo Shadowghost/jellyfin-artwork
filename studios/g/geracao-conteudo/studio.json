@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Geração Conteúdo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93182"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

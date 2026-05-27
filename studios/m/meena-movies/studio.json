@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Meena Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100729"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

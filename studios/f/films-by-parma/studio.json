@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Films by Parma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "279109"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

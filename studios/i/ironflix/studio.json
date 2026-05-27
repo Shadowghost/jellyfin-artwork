@@ -1,0 +1,17 @@
+[
+  {
+    "name": "IronFlix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182015",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x4X9Z2sAz3QdmhY1KfKpqRTCjEh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.ironflix.com/",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

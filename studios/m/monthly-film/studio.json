@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Monthly Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171713"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

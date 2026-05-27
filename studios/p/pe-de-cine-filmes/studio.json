@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PE de Cine Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175884"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

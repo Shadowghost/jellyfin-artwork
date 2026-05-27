@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Estrella Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8518",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7HO5qokgMtrQI0jVUEzmXKWH2c7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.lbimedia.com/",
+    "headquarters": "Burbank, California, United States",
+    "placeholder": true
+  }
+]

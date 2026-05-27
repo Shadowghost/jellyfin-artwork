@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Foxtel Group",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208286",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lW3VAJasVgUlNNQD8YywNsnwmuq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://foxtelgroup.com.au/",
+    "headquarters": "North Ryde, New South Wales",
+    "placeholder": true
+  }
+]

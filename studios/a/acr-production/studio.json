@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ACR Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154449"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

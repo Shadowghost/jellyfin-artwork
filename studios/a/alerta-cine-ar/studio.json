@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Alerta Cine (AR)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142669"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

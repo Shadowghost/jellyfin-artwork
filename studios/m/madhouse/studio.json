@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Madhouse",
+    "country": "JP",
+    "homepage": "http://www.madhouse.co.jp",
+    "headquarters": "Nakano, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3464",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9k0nr75nwnNeT2MHerf1OXJN0hj.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

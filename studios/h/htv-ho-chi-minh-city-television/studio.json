@@ -1,0 +1,17 @@
+[
+  {
+    "name": "HTV - Ho Chi Minh City Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215314",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l2Tj7e8VaZJ7yZQ0el6HSoW0hUJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "VN",
+    "homepage": "http://www.htv.com.vn/",
+    "headquarters": "14 Dinh Tien Hoang street, District 1, Ho Chi Minh city, Vietnam",
+    "placeholder": true
+  }
+]

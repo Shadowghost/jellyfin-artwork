@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Brain Damage Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4708",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k1zjOZ0GIZ1dxGerINlXC3lGAqh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://braindamagefilms.com",
+    "placeholder": true
+  }
+]

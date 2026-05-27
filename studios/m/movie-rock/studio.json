@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie Rock",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105073"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Yapiko Animation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102576",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gF5TYo681zsnO2hshaUvWFDwA3O.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://yapiko.fr",
+    "placeholder": true
+  }
+]

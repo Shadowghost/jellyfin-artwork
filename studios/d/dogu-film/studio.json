@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Doğu Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126831"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Draco Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84651",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o7gUREdtNzQ3Alrck13tlvcNKvv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://dracofilms.com",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MIF Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173310"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

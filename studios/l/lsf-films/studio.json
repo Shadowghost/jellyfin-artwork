@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LSF - Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "281914"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

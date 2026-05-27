@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BENCHMOVIE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122983"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

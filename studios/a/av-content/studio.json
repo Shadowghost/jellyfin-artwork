@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AV Content",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104511",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cSgtTjParlGmEsWOIZRKZsFXpJa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://www.legiofelix.com/",
+    "headquarters": "Russia, Moscow",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jake Vision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86548",
+        "logo_uri": "https://image.tmdb.org/t/p/original/afjrunf5FSqGc3cjTzq5qhLqNnx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://production.jake-vision.pl/en_US/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

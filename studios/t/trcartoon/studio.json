@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TRCARTOON",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250243",
+        "logo_uri": "https://image.tmdb.org/t/p/original/smLAbEuJAN7aFb5lAQMltCvtWdn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "headquarters": "Dalian, Zhejiang, China",
+    "placeholder": true
+  }
+]

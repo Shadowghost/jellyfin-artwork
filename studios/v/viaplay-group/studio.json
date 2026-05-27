@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Viaplay Group",
+    "country": "NO",
+    "homepage": "https://viaplay.no/no-nb/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "178553",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ifjbQWgwqHEye4YeGfMVnkEz3Tu.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Cosmopolitan TV",
+    "description": "Television channel brand based on Cosmopolitan magazine targeted at young women, launched in various international markets (Latin America, Spain, Canada, Asia) by Hearst.",
+    "country": "ES",
+    "type": "cable-network",
+    "homepage": "https://www.cosmopolitantv.es",
+    "headquarters": "Madrid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111300"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

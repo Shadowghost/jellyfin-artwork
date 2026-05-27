@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Hopster",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280495",
+        "logo_uri": "https://image.tmdb.org/t/p/original/krPzhgZC47Fo9mYwXZXZMFjYQHT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://hopster.tv/",
+    "placeholder": true
+  }
+]

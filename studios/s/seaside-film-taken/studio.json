@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Seaside Film Taken",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222910"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Enigma Machine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108808",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gOFd3qU0VUisi2DTsz8ZKQEKoXQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://enigmamachine.com.au",
+    "placeholder": true
+  }
+]

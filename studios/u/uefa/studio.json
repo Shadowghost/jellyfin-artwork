@@ -1,0 +1,15 @@
+[
+  {
+    "name": "UEFA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130027"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "headquarters": "Nyon",
+    "placeholder": true
+  }
+]

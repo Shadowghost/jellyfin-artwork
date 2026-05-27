@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Cineriz",
+    "description": "Japanese film distribution company specializing in foreign and arthouse film releases in Japan.",
+    "country": "IT",
+    "type": "distributor",
+    "headquarters": "Rome",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9387"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

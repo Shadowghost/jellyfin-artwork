@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Caspian Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91194",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dF4GmBqlIsoGQGsUQ4PZEIaVGvW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.caspianfilms.net/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

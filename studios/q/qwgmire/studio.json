@@ -1,0 +1,17 @@
+[
+  {
+    "name": "QWGmire",
+    "country": "US",
+    "homepage": "https://www.qwgmire.com/",
+    "headquarters": "Burlingame, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210819",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lXW15vGgeQIIGia0oFycQgALb9Y.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

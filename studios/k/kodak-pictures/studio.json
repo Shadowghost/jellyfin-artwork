@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kodak Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170628"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Show World Televisions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273307",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gRldKjYFXGUgbzCYbdscND6qycE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Peergroup",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230526"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Phoenix Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218514"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://phoenix-production.com/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

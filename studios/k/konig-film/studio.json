@@ -1,0 +1,15 @@
+[
+  {
+    "name": "König-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2002"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Raketa",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118492",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jkYXQw5sdLrhR2bDfncnVjN7ICe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SK",
+    "homepage": "https://raketa.watch/",
+    "headquarters": "Bratislav",
+    "placeholder": true
+  }
+]

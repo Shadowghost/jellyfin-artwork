@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10864",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uPoKSf3GtME7IZz4alnoWvc0nWx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.ctv.ca/",
+    "placeholder": true
+  }
+]

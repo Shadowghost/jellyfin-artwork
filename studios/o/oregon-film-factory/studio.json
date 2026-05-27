@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Oregon Film Factory",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13298"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Squawk",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169143",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3IHeVGuOdOP4IYZlE4TexO0C6b6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.squawk.fr/",
+    "placeholder": true
+  }
+]

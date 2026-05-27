@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Red Bull Media House",
+    "description": "The global media activities of Red Bull have been growing year by year and over the course of the last two decades Red Bull has built an enormous collection of content. This stock of material was the source to launch the Red Bull Media House in 2007 to run own channels and at the same time to serve the media world with even more exiting content than ever before.",
+    "country": "AT",
+    "type": "production-company",
+    "homepage": "https://www.redbullmediahouse.com",
+    "headquarters": "Wals-Siezenheim, Austria",
+    "colors": [
+      {
+        "name": "Red Bull Red",
+        "hex": "#DB0A40"
+      },
+      {
+        "name": "Red Bull Blue",
+        "hex": "#001489"
+      },
+      {
+        "name": "Red Bull Yellow",
+        "hex": "#FFC906"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7724",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6QV240fIM04sZXpyLUoqhKGhf7r.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

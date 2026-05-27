@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Officina Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106383",
+        "logo_uri": "https://image.tmdb.org/t/p/original/56twYf6qbhTBSIx6RcfnS3I0V9c.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.officinafilm.com",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "name": "BBC East Midlands",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "265177",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6stHT0EkszS82p3ARcSYPSUrNqC.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "GB",
+    "template": true
+  }
+]

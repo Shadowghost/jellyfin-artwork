@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Star M",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12321"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

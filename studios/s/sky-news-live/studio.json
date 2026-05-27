@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sky News Live",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86887"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

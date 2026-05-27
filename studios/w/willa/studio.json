@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Willa",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152983",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kWQtEKt9OOdtIRerChq3mKpBOUF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://willa.org",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

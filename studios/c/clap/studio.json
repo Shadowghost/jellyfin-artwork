@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CLAP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129814",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3XwDAcqR8U7f2IxY6a9Fl3Zz3Sp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://clapclap.co.jp/",
+    "headquarters": "Suginami, Tokyo",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SaskFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103518"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

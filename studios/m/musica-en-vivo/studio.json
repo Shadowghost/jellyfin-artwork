@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Música en Vivo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116734"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Video Brinquedo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20708",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4dEv2JOMRi5T0OvIoUNorUDRfou.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.videobrinquedo.com.br",
+    "headquarters": "São Paulo, São Paulo",
+    "placeholder": true
+  }
+]

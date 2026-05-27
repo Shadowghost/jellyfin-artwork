@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NFC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74796"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

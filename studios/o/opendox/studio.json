@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Opendox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194320",
+        "logo_uri": "https://image.tmdb.org/t/p/original/up5pbdhX9VPdu15hTYuPDSX2PUT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.opndx.com/",
+    "headquarters": "New York",
+    "placeholder": true
+  }
+]

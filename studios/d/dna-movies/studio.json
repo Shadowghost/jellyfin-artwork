@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DNA Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205263"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

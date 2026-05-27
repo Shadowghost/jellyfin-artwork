@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Rhaptor Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275001"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

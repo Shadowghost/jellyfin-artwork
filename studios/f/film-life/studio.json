@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Film Life",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275100"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

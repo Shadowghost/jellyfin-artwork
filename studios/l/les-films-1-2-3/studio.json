@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les films 1, 2, 3...",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "237243"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

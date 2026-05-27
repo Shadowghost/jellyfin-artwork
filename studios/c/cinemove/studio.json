@@ -1,0 +1,14 @@
+[
+  {
+    "name": "CineMove",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110830"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

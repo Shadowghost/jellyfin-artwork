@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Braun Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257296"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

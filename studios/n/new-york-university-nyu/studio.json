@@ -1,0 +1,15 @@
+[
+  {
+    "name": "New York University (NYU)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14871",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kN6Qy2flDVUEEi5KNAgX242s6Xz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

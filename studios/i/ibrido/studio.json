@@ -1,0 +1,13 @@
+[
+  {
+    "name": "IBRIDO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200101"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

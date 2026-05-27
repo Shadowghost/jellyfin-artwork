@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Story Force",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200405",
+        "logo_uri": "https://image.tmdb.org/t/p/original/428DCbIFPnVlJ7aZ6zf0O9HGi5C.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.story-force.co",
+    "placeholder": true
+  }
+]

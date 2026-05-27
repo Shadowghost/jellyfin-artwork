@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tabuleiro Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102010"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.tabuleirofilmes.com.br",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

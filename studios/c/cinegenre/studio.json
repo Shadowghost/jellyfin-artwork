@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CINEGENRE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163478"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

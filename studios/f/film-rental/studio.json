@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Film Rental",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "136733"
+      }
+    ],
+    "artwork": {},
+    "country": "HR",
+    "placeholder": true
+  }
+]

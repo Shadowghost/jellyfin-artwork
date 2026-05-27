@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Terminal Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "277399",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oeuRLO9ay7rRiiSRVqSxpgBxBej.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://terminal.tr/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

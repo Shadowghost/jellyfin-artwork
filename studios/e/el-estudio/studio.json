@@ -1,0 +1,17 @@
+[
+  {
+    "name": "El Estudio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94730",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1fwoMRV4eUpdosHjiveHV91LaXJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://elestudio.net",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

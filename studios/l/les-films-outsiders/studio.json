@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films Outsiders",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92237",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5JQrxwunQSSZWkichSKP4Jj2H0D.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.outsidersfilms.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

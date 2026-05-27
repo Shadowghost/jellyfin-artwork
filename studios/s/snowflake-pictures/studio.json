@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Snowflake Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111900"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

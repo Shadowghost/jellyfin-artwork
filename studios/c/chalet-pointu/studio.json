@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Chalet Pointu",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "68344",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qAMFc3crqj1XfUPQfNuAUFZxq7s.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.chaletpointu.com/",
+    "headquarters": "10 rue des goncourt, 75011 paris",
+    "placeholder": true
+  }
+]

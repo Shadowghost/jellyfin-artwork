@@ -1,0 +1,17 @@
+[
+  {
+    "name": "France Culture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185114",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sMPbxWIUoyyinRUo1jW87YtDEvO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.radiofrance.fr/franceculture",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

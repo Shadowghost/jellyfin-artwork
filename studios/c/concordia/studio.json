@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Concordia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

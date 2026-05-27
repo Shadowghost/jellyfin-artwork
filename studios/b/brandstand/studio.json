@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Brandstand",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210036"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

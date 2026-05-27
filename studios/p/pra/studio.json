@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PRA",
+    "country": "JP",
+    "homepage": "https://www.pra-anime.com",
+    "headquarters": "Higashikurume, Tokyo Prefecture, Japan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109571",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oVUwZ8k1AhClFFjnooKF7lVI1Jl.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

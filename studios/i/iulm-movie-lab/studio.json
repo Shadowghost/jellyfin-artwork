@@ -1,0 +1,13 @@
+[
+  {
+    "name": "IULM Movie Lab",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159633"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

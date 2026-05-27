@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Affirm Films",
+    "description": "American faith-based film production label of Sony Pictures Entertainment producing inspirational and Christian movies.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://www.affirmfilms.com",
+    "headquarters": "Culver City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10156",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bWjWWQfiyZh9AkGYCkx1NcVdSvn.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Alter Agent",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "298484"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

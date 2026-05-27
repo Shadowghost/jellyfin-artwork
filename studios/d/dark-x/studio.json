@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Dark X",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99678",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o59h6dTId401TGKFRsMlayomXsZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

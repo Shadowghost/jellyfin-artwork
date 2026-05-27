@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Eureka Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93126",
+        "logo_uri": "https://image.tmdb.org/t/p/original/64qnH9vTJabiTyo281inwTPekmV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://www.eurekamedia.info/",
+    "headquarters": "Józefów",
+    "placeholder": true
+  }
+]

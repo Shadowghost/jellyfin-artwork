@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sinema Samarpana",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250289"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

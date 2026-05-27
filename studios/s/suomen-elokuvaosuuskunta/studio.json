@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Suomen Elokuvaosuuskunta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101429"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "placeholder": true
+  }
+]

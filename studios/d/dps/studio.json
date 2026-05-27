@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DPS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80509"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

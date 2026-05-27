@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Aircraft Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94136"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

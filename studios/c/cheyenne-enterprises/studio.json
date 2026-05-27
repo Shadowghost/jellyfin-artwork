@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Cheyenne Enterprises",
+    "country": "US",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "890"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

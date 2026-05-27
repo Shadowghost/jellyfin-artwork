@@ -1,0 +1,13 @@
+[
+  {
+    "name": "VPC Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222200"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

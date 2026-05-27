@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Sky Sports Box Office",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89698",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d8d6m3ncjd3oItxbt4oFFXM2z8C.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Japan International Broadcasting (JIB)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123598",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1aa9kSeBzdsUh2FYr3A3vspZdpj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.jibtv.com",
+    "headquarters": "Shibuya, Tokyo",
+    "placeholder": true
+  }
+]

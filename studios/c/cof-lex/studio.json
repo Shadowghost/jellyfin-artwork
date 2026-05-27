@@ -1,0 +1,13 @@
+[
+  {
+    "name": "cof/lex",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125420"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "El Buen Tiempo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140362"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kalavara Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137118",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m1WuikGwj95SlKhSngAPw4Ozm0U.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.kalavarafilm.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

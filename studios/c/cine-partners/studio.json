@@ -1,0 +1,14 @@
+[
+  {
+    "name": "cine-partners",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37051"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

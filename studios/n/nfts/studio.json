@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NFTS",
+    "country": "GB",
+    "homepage": "https://nfts.co.uk",
+    "headquarters": "Beaconsfield, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17700",
+        "logo_uri": "https://image.tmdb.org/t/p/original/30KETxKJcX7cm65WymAKMYPP6C4.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

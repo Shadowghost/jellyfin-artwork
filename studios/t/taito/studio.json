@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Taito",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18538",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e6tk3cfSU3GguFt3lxo9Pdh6oyq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.taito.co.jp/en",
+    "headquarters": "Shinjuku, Tokyo , Japan",
+    "placeholder": true
+  }
+]

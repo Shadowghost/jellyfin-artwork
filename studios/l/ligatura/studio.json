@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ligatura",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250666"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

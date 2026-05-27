@@ -1,0 +1,13 @@
+[
+  {
+    "name": "IFAS-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112400"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

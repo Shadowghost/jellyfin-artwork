@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Nanpa Japan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180126",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6QnNKV21M3uSAdDUgNpdcOJvlHW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://nanpa-japan.jp/",
+    "placeholder": true
+  }
+]

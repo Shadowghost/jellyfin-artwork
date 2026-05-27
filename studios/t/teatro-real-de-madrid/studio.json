@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Teatro Real de Madrid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71999"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

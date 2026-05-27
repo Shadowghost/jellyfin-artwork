@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mezzo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25564",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hOMyGLs7mSWoDzVkGDYgK0BdVo6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.mezzo.tv/en",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

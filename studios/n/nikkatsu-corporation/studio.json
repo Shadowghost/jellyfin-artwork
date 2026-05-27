@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nikkatsu Corporation",
+    "country": "JP",
+    "homepage": "https://intl.nikkatsu.com",
+    "headquarters": "Bunkyo, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "955",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5xnXD3PJI1HqOJceSAKZ3fDqO1V.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Axis",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231631"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

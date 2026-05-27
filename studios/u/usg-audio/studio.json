@@ -1,0 +1,16 @@
+[
+  {
+    "name": "USG Audio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "294122",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4H8eixGbQIlt9Tk5VjD26LTJQzv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.usgaudio.com",
+    "placeholder": true
+  }
+]

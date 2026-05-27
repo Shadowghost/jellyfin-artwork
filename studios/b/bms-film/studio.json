@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BMS-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125149"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

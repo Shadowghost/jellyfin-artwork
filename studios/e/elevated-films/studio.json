@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Elevated Films",
+    "country": "US",
+    "homepage": "http://www.elevatedfilm.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63369",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sCgcuxsM4wvkfwL56tkHX4j9bds.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

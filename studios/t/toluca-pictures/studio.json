@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Toluca Pictures",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "186866",
+        "logo_uri": "https://image.tmdb.org/t/p/original/crmJkiAcLftaxF3GoQvRHPs7gyv.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

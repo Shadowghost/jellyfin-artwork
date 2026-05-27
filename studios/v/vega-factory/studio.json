@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Vega Factory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223450",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4essx79K2B0WySQvhKodLep5Sxx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.vega-factory.co.jp",
+    "placeholder": true
+  }
+]

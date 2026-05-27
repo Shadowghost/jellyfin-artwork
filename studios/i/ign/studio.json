@@ -1,0 +1,35 @@
+[
+  {
+    "name": "IGN",
+    "description": "American video game and entertainment media company headquartered in San Francisco, founded in 1996; publishes reviews, news, video and previews of games, films and TV.",
+    "country": "US",
+    "type": "publisher",
+    "colors": [
+      {
+        "name": "IGN Red",
+        "hex": "#BF1313"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "206998"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

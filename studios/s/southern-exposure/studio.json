@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Southern Exposure",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149803",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ih0MHBgzrDnO8K9cicmO7DuTkCL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "headquarters": "London, England, UK",
+    "placeholder": true
+  }
+]

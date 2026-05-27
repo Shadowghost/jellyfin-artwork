@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Aurum Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159120",
+        "logo_uri": "https://image.tmdb.org/t/p/original/65OgrvDz5VC0I7wslo40l0ocyFl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://aurum-production.ru",
+    "headquarters": "Saint Petersburg",
+    "placeholder": true
+  }
+]

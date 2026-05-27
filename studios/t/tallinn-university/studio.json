@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Tallinn University",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140250",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vq1TUjpnaQvRHfpxitbkn9cn8oJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EE",
+    "placeholder": true
+  }
+]

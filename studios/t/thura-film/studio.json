@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Thura Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2105",
+        "logo_uri": "https://image.tmdb.org/t/p/original/48jOgfdOkjNXwHPhbtpHj1H8kRt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "headquarters": "Copenhagen, Denmark",
+    "placeholder": true
+  }
+]

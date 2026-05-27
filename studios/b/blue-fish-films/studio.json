@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Blue Fish Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85270"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

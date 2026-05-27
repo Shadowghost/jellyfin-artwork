@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Endangered Species",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "282742"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

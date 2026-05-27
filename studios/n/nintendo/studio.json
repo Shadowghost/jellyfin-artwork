@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Nintendo",
+    "description": "Japanese multinational video game and consumer electronics company headquartered in Kyoto, known for the Mario, Zelda, and Pokémon franchises.",
+    "country": "JP",
+    "type": "other",
+    "homepage": "https://www.nintendo.com/jp/index.html",
+    "headquarters": "Kyoto",
+    "colors": [
+      {
+        "name": "Nintendo Red",
+        "hex": "#E60012"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12288",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e4dQAqZD374H5EuM0W1ljEBWTKy.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Border City Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110419",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dqqRkBMur2wyKUwOwlNohVGQD8z.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.bordercitypicturesinc.com",
+    "placeholder": true
+  }
+]

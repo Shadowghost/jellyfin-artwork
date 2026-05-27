@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Drop Site News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271982"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Olympic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60181"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Stag Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73376",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k8bLbO3nUWIAWIpwkGa0s81PEFM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://stagpictures.com",
+    "headquarters": "Manhattan, New York City, New York",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nafta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17692",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vdMBCn1foLJArmSaY094AQVrMyv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EE",
+    "homepage": "https://www.nafta.ee/",
+    "headquarters": "Tallin",
+    "placeholder": true
+  }
+]

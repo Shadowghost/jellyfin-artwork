@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Jambox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3489"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

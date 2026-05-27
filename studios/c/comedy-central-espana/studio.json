@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Comedy Central España",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148338"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.comedycentral.es",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

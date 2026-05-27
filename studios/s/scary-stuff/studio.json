@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Scary Stuff",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23792"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

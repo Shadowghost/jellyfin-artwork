@@ -1,0 +1,13 @@
+[
+  {
+    "name": "media group",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130678"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

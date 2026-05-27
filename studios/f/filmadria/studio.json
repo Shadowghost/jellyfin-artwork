@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FILMADRIA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "267736",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5XnqVxfqafHas3NC0g8dqi4YSma.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.filmadria.com/",
+    "headquarters": "Park Ridge, IL",
+    "placeholder": true
+  }
+]

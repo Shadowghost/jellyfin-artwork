@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Universidad del Desarrollo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82539",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3Mg4yIUGvhVQZKTovPLFiArePUg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "https://comunicaciones.udd.cl/carrera/cine/",
+    "headquarters": "Santiago",
+    "placeholder": true
+  }
+]

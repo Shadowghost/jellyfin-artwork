@@ -1,0 +1,13 @@
+[
+  {
+    "name": "HIP TV listings",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "59176"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

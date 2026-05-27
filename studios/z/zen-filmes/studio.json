@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Zen Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "263034",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vF3WsOXSwi0ddi2TajOEddPnQqG.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

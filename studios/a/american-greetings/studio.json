@@ -1,0 +1,15 @@
+[
+  {
+    "name": "American Greetings",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32457",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c1y9bIWsuXq8oOIURv0rET9ENP2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

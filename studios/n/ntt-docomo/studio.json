@@ -1,0 +1,37 @@
+[
+  {
+    "name": "NTT Docomo",
+    "description": "Predominant Japanese mobile phone operator, a subsidiary of NTT; sometimes credited in productions via its media and content investments.",
+    "country": "JP",
+    "type": "other",
+    "homepage": "https://www.nttdocomo.co.jp/",
+    "colors": [
+      {
+        "name": "Docomo Red",
+        "hex": "#CC0033"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9070",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hF6wiZa36H54RtJC2O4P1bdyGEW.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Echo Velvet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "267012",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oaOLmzv1fS7y2CO21esPJkQUiTg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.echovelvet.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

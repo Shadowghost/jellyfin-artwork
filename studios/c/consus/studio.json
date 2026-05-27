@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Consus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97531"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

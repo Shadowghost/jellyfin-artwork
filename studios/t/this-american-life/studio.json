@@ -1,0 +1,29 @@
+[
+  {
+    "name": "This American Life",
+    "description": "American weekly hour-long radio program and podcast hosted by Ira Glass, produced by WBEZ Chicago and distributed by Public Radio Exchange (PRX); also produced a Showtime television adaptation.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140626"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

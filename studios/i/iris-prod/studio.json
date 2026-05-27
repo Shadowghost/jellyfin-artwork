@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Iris Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245540"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

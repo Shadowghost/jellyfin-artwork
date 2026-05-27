@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Villano",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102588",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3ML7UUJVzezPczLT07sFXiDgBDT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "http://www.villano.cl",
+    "headquarters": "Providencia, Santiago",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Montagne TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18761",
+        "logo_uri": "https://image.tmdb.org/t/p/original/epp0KaWdPNFmSmZRXu4FGqqmAwF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.montagnetv.com/",
+    "headquarters": "Montagne TV, France",
+    "placeholder": true
+  }
+]

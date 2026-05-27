@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Benroyal Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222583"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Flaneur Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94594",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g7w57j6Iyp1bsIj4ZnbwStIhfEP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://flaneur-films.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

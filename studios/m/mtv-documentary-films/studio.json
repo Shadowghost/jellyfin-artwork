@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MTV Documentary Films",
+    "country": "US",
+    "homepage": "https://www.mtv.com/movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147938",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5USotp1QuLWIHaJM4p6ODbuTB40.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

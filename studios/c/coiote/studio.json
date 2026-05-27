@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Coiote",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183153",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6056YtIHj664uMqOeJzx9cDsjfC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.coiote.tv.br/",
+    "placeholder": true
+  }
+]

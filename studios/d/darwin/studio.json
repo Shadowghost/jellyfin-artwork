@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Darwin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274698",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8EwkYhIotblqgxXiCxs35nmkCwb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.darwin-production.net/",
+    "placeholder": true
+  }
+]

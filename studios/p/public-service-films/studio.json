@@ -1,0 +1,13 @@
+[
+  {
+    "name": "public service films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87192"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

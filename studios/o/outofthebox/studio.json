@@ -1,0 +1,13 @@
+[
+  {
+    "name": "OutofTheBox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16022"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

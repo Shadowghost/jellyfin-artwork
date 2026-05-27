@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Topcraft",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2ZGkaLO1oVR39zxtQca8iDaU7fR.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

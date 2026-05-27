@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Anagram Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4251",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ySkS4Hiy1Ce3gcOJsGJ7dkfkfK1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.anagrampictures.ca",
+    "headquarters": "Vancouver, British Columbia",
+    "placeholder": true
+  }
+]

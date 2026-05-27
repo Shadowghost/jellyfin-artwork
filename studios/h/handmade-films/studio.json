@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Handmade Films",
+    "description": "British film production and distribution company originally co-founded by George Harrison to finance Monty Python's Life of Brian; produced Time Bandits, Withnail and I, and The Long Good Friday.",
+    "country": "GB",
+    "type": "production-company",
+    "homepage": "https://www.handmadefilms.film",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20076",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ed9JyPNLqNOyJBJlDuv138sm1ES.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "HandMade Films"
+    ],
+    "template": true
+  }
+]

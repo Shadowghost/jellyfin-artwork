@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Award Losing Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223584"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.awardlosingmovies.com",
+    "headquarters": "Norrtälje",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BOMTOON",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "292151",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mKAXdEIhqHGLekYh5qfuhduePlo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.bomtoon.com/bom/comic/main",
+    "headquarters": "서울특별시 성동구 연무장11길 8 (성수동2가)",
+    "placeholder": true
+  }
+]

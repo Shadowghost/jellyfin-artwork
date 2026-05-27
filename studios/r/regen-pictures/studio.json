@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Regen Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113592"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

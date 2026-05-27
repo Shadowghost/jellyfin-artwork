@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Miso Film Norge",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7940",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f17ETncZLLvGQmRjNd5ewztGulH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.misofilm.dk",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

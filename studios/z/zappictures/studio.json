@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ZapPictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "136226"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

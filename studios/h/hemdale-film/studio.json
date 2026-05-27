@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Hemdale Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111627",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ldpgYauK9FMNsbOSSxSSl63o3mb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "headquarters": "Bengaluru",
+    "placeholder": true
+  }
+]

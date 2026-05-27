@@ -1,0 +1,15 @@
+[
+  {
+    "name": "New Horizons",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2000",
+        "logo_uri": "https://image.tmdb.org/t/p/original/urxk6ve5H88eLPKTBGV0BvOG57o.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "placeholder": true
+  }
+]

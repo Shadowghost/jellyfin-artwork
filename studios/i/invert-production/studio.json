@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Invert Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "279537"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

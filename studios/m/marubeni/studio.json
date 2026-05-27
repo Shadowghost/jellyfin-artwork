@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Marubeni",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4650",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wWivtVg7gG3uNALIE5Oav3Bsiuz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

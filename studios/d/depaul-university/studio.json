@@ -1,0 +1,15 @@
+[
+  {
+    "name": "DePaul University",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109281",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6e4vpS2jlp07kQmkALaB7XaR48c.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

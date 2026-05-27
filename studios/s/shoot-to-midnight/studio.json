@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Shoot to Midnight",
+    "country": "US",
+    "headquarters": "California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199908"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SPV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79242"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://spv.de/",
+    "headquarters": "Hannover",
+    "placeholder": true
+  }
+]

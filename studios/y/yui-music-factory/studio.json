@@ -1,0 +1,13 @@
+[
+  {
+    "name": "YUI Music Factory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122399"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

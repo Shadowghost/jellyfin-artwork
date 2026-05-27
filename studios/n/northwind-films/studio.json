@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Northwind Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176233"
+      }
+    ],
+    "artwork": {},
+    "country": "GR",
+    "placeholder": true
+  }
+]

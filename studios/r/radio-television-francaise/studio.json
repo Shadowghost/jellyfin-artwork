@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Radio-Télévision Française",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24119",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iNcPopycyTGDgWy6dDl5cnlfS3n.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

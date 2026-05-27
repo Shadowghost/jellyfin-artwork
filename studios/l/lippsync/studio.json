@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lippsync",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12155"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

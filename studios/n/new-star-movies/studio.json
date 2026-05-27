@@ -1,0 +1,13 @@
+[
+  {
+    "name": "New Star Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "132211"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine Haven",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200411"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

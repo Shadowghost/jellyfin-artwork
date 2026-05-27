@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Casa do Rio Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "284245",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o7V9TT91gLq6ZzyKY95dewjkHi5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.casadorio.com.br/",
+    "headquarters": "São Paulo",
+    "placeholder": true
+  }
+]

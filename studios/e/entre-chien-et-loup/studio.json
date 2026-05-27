@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Entre Chien et Loup",
+    "country": "BE",
+    "homepage": "http://www.entre-chien-et-loup.be",
+    "headquarters": "Brussels",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3984",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pvOBu9K0zTRuwJW7WII34x17kdz.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

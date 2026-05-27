@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Voice of Seoul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245407",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d37ZGqBZPaw19rCe4fZOY1SfpNb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.amn.kr/",
+    "headquarters": "Yeongdeungpo, Seoul, South Korea",
+    "placeholder": true
+  }
+]

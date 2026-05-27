@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cineria Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101623",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yf7wRVatJ90cXO2H9zdhbSYMoN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "headquarters": "Jakarta",
+    "placeholder": true
+  }
+]

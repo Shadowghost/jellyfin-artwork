@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Magic Lantern Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100426",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dhmDY5o7QHSw6Z5ZC8qy6hk0Vz3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://magiclanternpictures.org",
+    "placeholder": true
+  }
+]

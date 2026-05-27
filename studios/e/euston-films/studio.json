@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Euston Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4317",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jCEkAgteuS92F1eymn56k13jAv8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://eustonfilms.tv",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

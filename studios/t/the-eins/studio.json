@@ -1,0 +1,16 @@
+[
+  {
+    "name": "the eins",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270571",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1O1yK5j4ygmTKgvDgasKt7WATiF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.the-eins.co.jp",
+    "placeholder": true
+  }
+]

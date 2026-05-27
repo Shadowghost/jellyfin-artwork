@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Filmkameratene",
+    "country": "NO",
+    "homepage": "http://www.filmkameratene.no/",
+    "headquarters": "Oslo, Norway",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1003"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

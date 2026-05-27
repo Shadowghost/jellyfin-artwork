@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Filmbetrieb",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240923"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://filmbetrieb.org/",
+    "headquarters": "Cologne, North Rhine-Westphalia, Germany",
+    "placeholder": true
+  }
+]

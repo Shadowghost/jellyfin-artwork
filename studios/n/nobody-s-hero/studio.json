@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nobody's Hero",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175460",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dFJV2dqt2wMRW0IvPaj8Wa9xBsM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.nobodyshero.tv/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

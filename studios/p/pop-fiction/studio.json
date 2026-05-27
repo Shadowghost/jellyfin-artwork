@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pop Fiction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "266023"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

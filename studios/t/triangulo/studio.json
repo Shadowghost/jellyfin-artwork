@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Triángulo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "253211",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AfE4PpYyKT2A8kmPofi7BklJ09E.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CO",
+    "homepage": "https://www.triangulo.com.co/",
+    "headquarters": "Medellin",
+    "placeholder": true
+  }
+]

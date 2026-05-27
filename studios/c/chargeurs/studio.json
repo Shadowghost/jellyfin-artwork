@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Chargeurs",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197168",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rLGc4HhaRQsGyItDupkupXpIdGg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://chargeurs.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

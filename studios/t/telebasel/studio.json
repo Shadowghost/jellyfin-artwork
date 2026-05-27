@@ -1,0 +1,13 @@
+[
+  {
+    "name": "telebasel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106098"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

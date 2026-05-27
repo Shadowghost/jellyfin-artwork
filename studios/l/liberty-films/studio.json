@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Liberty Films",
+    "country": "NG",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212609"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

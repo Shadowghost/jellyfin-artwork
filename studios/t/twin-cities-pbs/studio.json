@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Twin Cities PBS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164541",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4ncQNiZ6Lp2VhftR4MNDphe560F.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

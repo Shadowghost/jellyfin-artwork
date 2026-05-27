@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Seven News Australia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217017"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "placeholder": true
+  }
+]

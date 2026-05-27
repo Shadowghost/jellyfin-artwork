@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ruda Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79760",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zUVkUQOWp8QisEvN31pjfDZbrLz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://rudacine.com.ar/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TVAadvance",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188130",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iQtNOSSVYZGcdMB5KX9Lxdu0kd4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://tvaadvance.co.jp/",
+    "headquarters": "Nagoya",
+    "placeholder": true
+  }
+]

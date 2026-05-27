@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Auditrust",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175422"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

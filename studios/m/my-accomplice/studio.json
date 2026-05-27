@@ -1,0 +1,17 @@
+[
+  {
+    "name": "My Accomplice",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112168",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iIfFSIgzIbzQjlbcRE77W5Zi1A2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.myaccomplice.co.uk/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

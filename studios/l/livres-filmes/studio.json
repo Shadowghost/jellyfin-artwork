@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Livres Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238682",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t5HZLB5RtfvI3KlNScKWv5azRoE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://livresfilmes.com/",
+    "headquarters": "Rio de Janeiro, RJ",
+    "placeholder": true
+  }
+]

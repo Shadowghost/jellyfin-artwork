@@ -1,0 +1,13 @@
+[
+  {
+    "name": "mozilla",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107396"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

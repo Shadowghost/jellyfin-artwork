@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Jazzclub Birdland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100528",
+        "logo_uri": "https://image.tmdb.org/t/p/original/HGRT0Mo1FN9cd6Z1eEDUgWpnhk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.birdlandhamburg.de",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Blue Cuckoo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252443",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rpV3uECgKEqIap2STYNlRcF9kXZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

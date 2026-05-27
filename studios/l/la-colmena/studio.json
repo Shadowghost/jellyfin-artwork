@@ -1,0 +1,14 @@
+[
+  {
+    "name": "La Colmena",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "243890",
+        "logo_uri": "https://image.tmdb.org/t/p/original/43TaLOBDaN0lCQT0nidaqUo7zCK.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

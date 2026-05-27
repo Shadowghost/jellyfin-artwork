@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Levitate Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122037",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dsJq1ovWNGqX5de1jfYueVSpsWk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://levitatefilm.com/",
+    "placeholder": true
+  }
+]

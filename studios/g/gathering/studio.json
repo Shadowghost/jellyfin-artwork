@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gathering",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99170",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4Ao5ZncaRPpYtP6JH7TkMxxkPW0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://gathering.co.jp",
+    "headquarters": "Chiyoda, Tokyo Prefecture, Japan",
+    "placeholder": true
+  }
+]

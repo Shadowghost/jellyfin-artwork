@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Master",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21702"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

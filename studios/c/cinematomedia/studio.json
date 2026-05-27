@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CinemaToMedia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "279766"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

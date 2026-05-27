@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Periscope Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40325"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

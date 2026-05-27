@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vulcana Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130077",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e3wIhHj6U5wstsnHJSQb1mgtkkM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://vulcanacinema.com/",
+    "headquarters": "Porto Alegre",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Human Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "297194",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nvcXXatWxD6psvQqaHmNt6RS85V.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://humanfilmes.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Campo Cine",
+    "country": "AR",
+    "homepage": "https://www.elcampocine.com.ar",
+    "headquarters": "Caba",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6517",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hFeSHlwvkYkN4sGbKdRmjqhZshQ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

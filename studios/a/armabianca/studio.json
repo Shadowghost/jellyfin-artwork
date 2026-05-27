@@ -1,0 +1,16 @@
+[
+  {
+    "name": "armabianca",
+    "country": "JP",
+    "homepage": "https://armabianca.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187932",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5qlRgi2XlCSyKdN8wMSiLrA5uKO.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

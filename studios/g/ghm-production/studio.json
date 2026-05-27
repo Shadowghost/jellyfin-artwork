@@ -1,0 +1,13 @@
+[
+  {
+    "name": "GHM Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42174"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

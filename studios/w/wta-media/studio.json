@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WTA Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198120",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ew0LHr3LN2LbTM5iH0gAVDrriQw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.wta.media/",
+    "headquarters": "Franklin, Tennessee, USA",
+    "placeholder": true
+  }
+]

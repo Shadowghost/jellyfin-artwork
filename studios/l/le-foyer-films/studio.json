@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Le foyer films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161085",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qCg1T2dQhud8z1g3Yr980dCPqNI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.lefoyerfilms.ca/",
+    "headquarters": "Montréal, Québec",
+    "placeholder": true
+  }
+]

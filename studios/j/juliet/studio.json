@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Juliet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289189",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6XJIpBemadtdvtupVYM2nhNFFHX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://juliet.nl/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Stockholm Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17645"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

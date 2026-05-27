@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NUT",
+    "country": "JP",
+    "homepage": "http://nutinc.jp/",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122161",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hxSwLVCw3ffA4Ju23fyeDBkKBTb.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

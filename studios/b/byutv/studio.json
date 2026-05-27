@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BYUtv",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18530",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6SS8KHz1KH594IG5hom9bL3DQI5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.byutv.org",
+    "headquarters": "Utah",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Criterion Channel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10932",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AscjWwkpQC23EZgRxbeOqs4KhRI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.criterion.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

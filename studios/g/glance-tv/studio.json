@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Glance TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158459"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

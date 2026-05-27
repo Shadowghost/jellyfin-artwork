@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Trace Urban",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131269",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xGdaiDDFut1Rl2zOBo6R96RvjGh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://fr.trace.tv/trace-urban/",
+    "headquarters": "Clichy",
+    "placeholder": true
+  }
+]

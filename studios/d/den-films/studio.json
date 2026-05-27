@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Den Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24102"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Agile Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85136",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gkOBQC95ZhfwC1KKokZbLYh1wPV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://agilefilms.com/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

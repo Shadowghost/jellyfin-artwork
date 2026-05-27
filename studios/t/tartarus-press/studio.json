@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tartarus Press",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115200"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

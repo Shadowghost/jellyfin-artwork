@@ -1,0 +1,17 @@
+[
+  {
+    "name": "New Story",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86244",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4dgc2iNV3JjwgaqXaERZbIHZPI9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.new-story.eu/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

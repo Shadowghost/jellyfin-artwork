@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AFI",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12226",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5PJ3JaGTCvF7CjbjQ7bivae2cHJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.afi.com/",
+    "headquarters": "Los Angeles, California, United States",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zebra Hero",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125559",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fDFxGkgDzIlyCwn9fnvEeVGIi9B.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://www.zebrahero.com/",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

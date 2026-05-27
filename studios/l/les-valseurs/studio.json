@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Valseurs",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91235",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A5b8wsaHaQ2EBLgK0CT1m7wh26z.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://lesvalseurs.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

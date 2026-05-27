@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Indica Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112308"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

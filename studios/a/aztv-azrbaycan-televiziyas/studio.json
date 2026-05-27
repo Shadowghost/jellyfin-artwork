@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AzTV (Azərbaycan Televiziyası)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105543",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6Fq1RN4322VfSLrVRZqbt80jp9i.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AZ",
+    "homepage": "http://www.aztv.az/",
+    "headquarters": "Baku, Azerbaijan",
+    "placeholder": true
+  }
+]

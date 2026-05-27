@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Coco Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117145",
+        "logo_uri": "https://image.tmdb.org/t/p/original/22qdiYXUFpasWlZxGsKIsnyn6rv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

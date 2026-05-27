@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Master ECAL/HEAD",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115047"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

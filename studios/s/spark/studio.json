@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Spark",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108706",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zNuKF4L4Z0qAMhpvyWZKRmAlyzC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "http://sparkmedia.no",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

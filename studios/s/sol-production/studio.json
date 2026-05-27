@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SOL Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109874",
+        "logo_uri": "https://image.tmdb.org/t/p/original/68xoUqUBOfFhMVRtIoHDe55Y4io.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "homepage": "http://www.solworld.co.in/",
+    "headquarters": "Mumbai, Maharashtra",
+    "placeholder": true
+  }
+]

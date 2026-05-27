@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tiki Tāne Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215366",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nqC8DP7bKR8Kf6cNRTGWdG87jrU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://tikitane.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Duea Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8988",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A0gkFhxkqEbpKxwuutnS6wP12FC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.dueafilm.it/",
+    "headquarters": "Rome, Italy",
+    "placeholder": true
+  }
+]

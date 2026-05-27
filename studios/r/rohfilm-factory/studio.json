@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rohfilm Factory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151786",
+        "logo_uri": "https://image.tmdb.org/t/p/original/itf6uzh4QkWDLZXndRjslQz59ms.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.rohfilmfactory.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

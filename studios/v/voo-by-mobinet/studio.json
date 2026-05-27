@@ -1,0 +1,17 @@
+[
+  {
+    "name": "VOO by mobinet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210147",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tuREv5FtrGy32RY3VZpuznMCZkE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MN",
+    "homepage": "https://www.voo.mn/",
+    "headquarters": "Ulaanbaatar",
+    "placeholder": true
+  }
+]

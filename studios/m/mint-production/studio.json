@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MinT Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55071",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fxOS29DowOFtuaPfFgxYR2eoXP6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "http://www.mint.com.tr",
+    "headquarters": "Istanbul",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Camera Chaos",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211926",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3127JqImLUSUswHtQnl30gj0jkF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.camera-chaos.com/",
+    "headquarters": "Montréal, Québec, Canada",
+    "placeholder": true
+  }
+]

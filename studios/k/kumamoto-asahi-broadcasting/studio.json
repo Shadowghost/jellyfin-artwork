@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Kumamoto Asahi Broadcasting",
+    "description": "Japanese commercial TV broadcaster in Kumamoto Prefecture, affiliated with All-Nippon News Network (ANN/TV Asahi).",
+    "country": "JP",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218055"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

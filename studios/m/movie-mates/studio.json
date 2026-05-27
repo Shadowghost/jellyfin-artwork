@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Movie Mates",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255724"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

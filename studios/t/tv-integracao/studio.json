@@ -1,0 +1,15 @@
+[
+  {
+    "name": "TV Integração",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "266744",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cay8HiBWTlHtBs7lmShmLssF20b.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

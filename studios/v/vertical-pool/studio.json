@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Vertical Pool",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125522"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

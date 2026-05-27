@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hilltop Screen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "286970"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

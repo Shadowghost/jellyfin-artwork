@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Altayfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94587",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nYpIYwEo5bJK4JHEAvoMsrRVnNc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.altay.film/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

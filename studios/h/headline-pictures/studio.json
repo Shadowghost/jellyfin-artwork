@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Headline Pictures",
+    "country": "GB",
+    "homepage": "https://www.headline-pictures.com/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13151"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

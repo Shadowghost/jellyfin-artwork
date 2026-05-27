@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Evci Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154764",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6EKRfNxiEsMogrRnYUcZUqGUZk8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "http://www.evcifilm.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

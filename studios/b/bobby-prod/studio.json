@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bobby Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74706",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dUH2CEuxfu4P4VcBpn4YTmwjifj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://bobbyprod.com/",
+    "headquarters": "(Paris, France)",
+    "placeholder": true
+  }
+]

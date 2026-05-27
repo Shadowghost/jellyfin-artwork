@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Filmia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124785"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.filmia.cz/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

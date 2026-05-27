@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Required Reading",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73350",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nQ6NghfLwa3UVg3aUxOEqusOKuM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

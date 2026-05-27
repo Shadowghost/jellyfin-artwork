@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NIRI Production banner",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109665"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

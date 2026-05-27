@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cerveza Victoria",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173154"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

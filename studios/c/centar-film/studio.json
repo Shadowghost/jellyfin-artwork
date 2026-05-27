@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Centar film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15165"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "homepage": "http://centarfilm.com",
+    "headquarters": "Beograd",
+    "placeholder": true
+  }
+]

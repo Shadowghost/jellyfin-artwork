@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine Fenix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160016"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Blue Danube Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250304"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "placeholder": true
+  }
+]

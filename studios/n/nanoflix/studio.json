@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nanoflix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210049"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

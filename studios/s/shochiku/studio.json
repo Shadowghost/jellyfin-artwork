@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Shochiku",
+    "description": "One of Japan's 'big four' film studios and entertainment companies, producing and distributing films, kabuki theatre and television since the late 19th century.",
+    "country": "JP",
+    "type": "studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75227"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Shochiku Co., Ltd."
+    ],
+    "template": true
+  }
+]

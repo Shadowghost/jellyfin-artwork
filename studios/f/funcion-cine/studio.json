@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Función Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "243460"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

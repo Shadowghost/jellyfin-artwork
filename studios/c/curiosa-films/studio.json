@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Curiosa Films",
+    "country": "FR",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77552",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3aeDaei9tONEGMvWm7W2TKxa1er.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Picture Mode",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173312"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

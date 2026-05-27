@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Rathnam Art Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160706"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

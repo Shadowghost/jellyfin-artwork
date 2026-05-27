@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Astral Media",
+    "description": "Canadian media company based in Montreal, operator of television channels and radio stations, acquired by Bell Media in 2013.",
+    "country": "CA",
+    "type": "other",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2743"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

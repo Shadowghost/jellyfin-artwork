@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Delta Images",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26009"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

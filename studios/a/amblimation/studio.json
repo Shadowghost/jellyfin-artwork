@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Amblimation",
+    "description": "London-based animation studio founded by Steven Spielberg's Amblin Entertainment; produced An American Tail: Fievel Goes West, We're Back!, and Balto.",
+    "country": "GB",
+    "type": "studio",
+    "parent_company": "Amblin Entertainment",
+    "headquarters": "London, England, UK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4105",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1dIBrbgSoWiEig0CymjqkSf7UGL.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

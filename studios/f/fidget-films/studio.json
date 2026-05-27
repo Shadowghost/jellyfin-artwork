@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fidget Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80491",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1j5KqxYsOPf5Zv4Og56XQboR4eS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.fidget.tv/",
+    "headquarters": "Seattle, Washington",
+    "placeholder": true
+  }
+]

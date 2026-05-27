@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Voyage",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112508"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.voyage.fr",
+    "placeholder": true
+  }
+]

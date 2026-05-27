@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Public Agent",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164141"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

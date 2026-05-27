@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sommerhaus Serien",
+    "country": "DE",
+    "homepage": "https://www.sommerhaus-film.de/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159333",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ewmxzGZreCRo3qbz6xoAlulnnKL.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "WiredFly",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222400"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "placeholder": true
+  }
+]

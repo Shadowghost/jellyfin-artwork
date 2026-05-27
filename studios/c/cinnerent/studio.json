@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CinneRent",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188497",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fMlbftYSX7g7hYy8niWXOYIJGLF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "homepage": "https://cinnerental.com/",
+    "placeholder": true
+  }
+]

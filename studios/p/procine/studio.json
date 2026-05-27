@@ -1,0 +1,16 @@
+[
+  {
+    "name": "PROCINE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114125",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8U6lyndZIwgwYJl1685UUAa8XOa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://www.procine.cdmx.gob.mx",
+    "placeholder": true
+  }
+]

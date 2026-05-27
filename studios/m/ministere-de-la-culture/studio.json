@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ministère de la culture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10901",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8dNHWgUlJNz9HHLtcdsz04jRtyi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.culture.gouv.fr/",
+    "headquarters": "182 Rue Saint-Honoré, 75001 PARIS",
+    "placeholder": true
+  }
+]

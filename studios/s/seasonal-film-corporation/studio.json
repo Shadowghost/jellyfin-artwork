@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Seasonal Film Corporation",
+    "country": "HK",
+    "headquarters": "香港油麻地俭德大厦",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13433",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kAHLkwogrcQJYcf0x5nYzieezNg.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

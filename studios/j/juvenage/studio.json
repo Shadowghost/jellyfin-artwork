@@ -1,0 +1,16 @@
+[
+  {
+    "name": "JUVENAGE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280793",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3iEmYf7jxDdW9bF9m3AhdM6DM25.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://juvenage.co.jp/",
+    "placeholder": true
+  }
+]

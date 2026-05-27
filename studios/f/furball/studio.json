@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Furball",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123049"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

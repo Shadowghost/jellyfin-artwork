@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Drive-in Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73815"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

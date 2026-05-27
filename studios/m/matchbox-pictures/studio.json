@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Matchbox Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29506",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6006n0zLX6EqGkOO1JIIbkeLDTp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://www.matchboxpictures.com/",
+    "headquarters": "Sydney",
+    "placeholder": true
+  }
+]

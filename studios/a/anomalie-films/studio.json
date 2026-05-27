@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Anomalie Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216888",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nBnVLsreENfmzovKuTIVj9dH6Pf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://anomaliefilms.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

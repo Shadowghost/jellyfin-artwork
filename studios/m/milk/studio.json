@@ -1,0 +1,15 @@
+[
+  {
+    "name": "MILK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203769",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qDo0gp21hHJxdKMJjAeuLULLc8u.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

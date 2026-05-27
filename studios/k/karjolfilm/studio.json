@@ -1,0 +1,15 @@
+[
+  {
+    "name": "KarjolFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "294898"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.karjolfilm.com",
+    "placeholder": true
+  }
+]

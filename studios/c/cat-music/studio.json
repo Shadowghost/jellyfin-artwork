@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cat Music",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33673"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

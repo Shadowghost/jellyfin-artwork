@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Office des Actualités Algériennes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94156",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hscsgG9Qq8WRMVuxxSHICIHck2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DZ",
+    "homepage": "https://www.aps.dz/",
+    "headquarters": "Office des Actualités Algériennes, Alger, Algérie",
+    "placeholder": true
+  }
+]

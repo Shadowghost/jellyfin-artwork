@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fremantle UK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184910",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2ZzqmXCXNvdGi5lkCCORKFYH2T5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://fremantle.co.uk",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

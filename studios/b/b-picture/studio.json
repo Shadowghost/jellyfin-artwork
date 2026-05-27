@@ -1,0 +1,13 @@
+[
+  {
+    "name": "B-Picture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204540"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

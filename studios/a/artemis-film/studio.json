@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Artemis Film",
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1521"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

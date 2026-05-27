@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Today's Litter",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245742"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

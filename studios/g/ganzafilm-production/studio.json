@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GanzaFilm Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109184",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Ah10BKFPc2l5M7NEsqvsxrpWFTx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UA",
+    "homepage": "http://ganzafilm.com.ua/",
+    "headquarters": "Kyiv, Ukraine",
+    "placeholder": true
+  }
+]

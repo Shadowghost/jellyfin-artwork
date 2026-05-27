@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Accorde Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17680",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7RtrfAVWgne5MRgXl8O3oD6Ncom.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.accorde.com.br",
+    "headquarters": "Porto Alegre RS",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "The Mark Gordon Company",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1557",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ccz9bqCu3jSFKbPFnfWmjAKZLBL.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

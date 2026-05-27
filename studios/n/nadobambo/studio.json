@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nadobambo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223001",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xfkqAiLcvpb1L59k9aRNmPgHYtm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://nadobambo.co.kr/",
+    "headquarters": "Seo, Incheon, South Korea",
+    "placeholder": true
+  }
+]

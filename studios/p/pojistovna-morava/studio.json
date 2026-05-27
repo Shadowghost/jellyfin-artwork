@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Pojišťovna Morava",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "261907"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "headquarters": "Brno",
+    "placeholder": true
+  }
+]

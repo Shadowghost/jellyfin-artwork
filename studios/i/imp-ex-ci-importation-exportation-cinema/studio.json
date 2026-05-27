@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Imp-Ex-Ci - Importation-Exportation Cinéma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106103"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

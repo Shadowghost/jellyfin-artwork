@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Materia Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209032"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

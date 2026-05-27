@@ -1,0 +1,13 @@
+[
+  {
+    "name": "VideasFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "195052"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

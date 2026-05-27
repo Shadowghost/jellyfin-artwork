@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Corazón Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16298",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nppGHtKu7zd05oDAjwKU13mPaZW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "http://www.corazonfilms.com",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

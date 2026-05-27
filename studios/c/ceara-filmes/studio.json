@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ceará Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223255",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pOKSm1ju0Fu3q6bOs3LpWig3qA9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://cearafilmes.com.br/",
+    "headquarters": "Fortaleza, Ceará, Brazil",
+    "placeholder": true
+  }
+]

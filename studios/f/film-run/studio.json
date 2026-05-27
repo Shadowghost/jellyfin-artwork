@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film Run",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114024",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lRxDznZEjdYUpmTHOtFAoSIIXb6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.filmrun.co.kr",
+    "headquarters": "Jung-gu, Seoul, South Korea",
+    "placeholder": true
+  }
+]

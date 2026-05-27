@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fanworks",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103564",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t0dnUMFPjzPStIkEM3Pm1rGLIQ8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://fanworks.co.jp",
+    "headquarters": "Shibuya, Tokyo",
+    "placeholder": true
+  }
+]

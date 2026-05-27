@@ -1,0 +1,13 @@
+[
+  {
+    "name": "rilk.film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179587"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

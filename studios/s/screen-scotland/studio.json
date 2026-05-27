@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Screen Scotland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110197",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hAF2iSJDnOXG39VQQoMeF413SQf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.screen.scot",
+    "headquarters": "Scotland",
+    "placeholder": true
+  }
+]

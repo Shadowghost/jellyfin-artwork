@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Burning Tractor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "265676",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dkzYDzAg1VGIhovXXlcuhgNl0PT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.burningtractor.com/",
+    "headquarters": "Dallas, Texas",
+    "placeholder": true
+  }
+]

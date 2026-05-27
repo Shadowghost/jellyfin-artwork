@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ctrl.Alt.Shift",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80380"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

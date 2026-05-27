@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Black Bear Pictures",
+    "description": "American film production and finance company founded by Teddy Schwarzman, known for The Imitation Game and All the Money in the World.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://blackbearpictures.com",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22146",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v37N1mFeXNQfvPankg3feBhVvM7.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

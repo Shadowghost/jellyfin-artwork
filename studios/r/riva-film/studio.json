@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Riva Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2677",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6xN0FuEK9yXaK2jvWjSW2YxwOYG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.rivafilm.de",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

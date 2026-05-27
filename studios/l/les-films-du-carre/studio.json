@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films du Carré",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78939",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zfHyxKXDRK2xQsBAIk2gkYyXPhd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://lesfilmsducarre.be/en/",
+    "headquarters": "Liège",
+    "placeholder": true
+  }
+]

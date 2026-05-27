@@ -1,0 +1,16 @@
+[
+  {
+    "name": "B ZONE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210350",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kOtPLGYd5f2Lcmz2uOlLJd8ATUy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://bzone.co.jp/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hello Charlie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202929"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

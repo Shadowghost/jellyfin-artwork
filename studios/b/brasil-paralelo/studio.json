@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Brasil Paralelo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156483",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hI4QxQav2AkH8oTHw7XbF4dMqra.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.brasilparalelo.com.br",
+    "placeholder": true
+  }
+]

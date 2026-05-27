@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pandora Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20958",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AhPMxzY4VQf7wEKXmyQSiEkPN6H.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.pandorafilmes.com.br/",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Fantasy Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160889"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "placeholder": true
+  }
+]

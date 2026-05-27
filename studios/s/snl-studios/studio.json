@@ -1,0 +1,15 @@
+[
+  {
+    "name": "SNL Studios",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2822",
+        "logo_uri": "https://image.tmdb.org/t/p/original/db94bUlhu5GH7KB7IHofCyix66K.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

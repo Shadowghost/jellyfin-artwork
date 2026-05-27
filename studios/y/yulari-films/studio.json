@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Yulari Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183966",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rZOSDPLBN5RNOJb9KLdJFatAf2C.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.yularifilms.com",
+    "headquarters": "Brooklyn, New York",
+    "placeholder": true
+  }
+]

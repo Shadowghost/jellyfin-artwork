@@ -1,0 +1,39 @@
+[
+  {
+    "name": "France•3",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tvdb",
+        "id": "106"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "152560"
+      },
+      {
+        "provider_name": "imdb",
+        "id": "co0061460"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "france-3",
+    "aka": [
+      "France 3"
+    ],
+    "template": true
+  }
+]

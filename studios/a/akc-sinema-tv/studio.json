@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AKC Sinema TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204938",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e6fVWjLKxuP7ZI8LZglqdmqHVB0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.akcsinema.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

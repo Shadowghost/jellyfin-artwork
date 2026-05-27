@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BerserkerGang",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272552",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qEdWbPT5fq85RjpcAJ2RY1dpGlY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.berserkergang.film/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

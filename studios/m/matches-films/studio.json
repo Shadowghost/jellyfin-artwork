@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Matches Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177680",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nEOz13QxkTA4h0gFRVjKIukFCm8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://matchesfilms.com/",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

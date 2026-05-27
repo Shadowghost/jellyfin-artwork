@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Walt Disney Company (Japan)",
+    "country": "JP",
+    "homepage": "https://www.disney.co.jp/corporate",
+    "headquarters": "Toranomon, Minato Ward, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164892",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2wH2cZCfpQvMsWZCZbHFEJx0R86.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

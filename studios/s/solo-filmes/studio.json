@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Solo Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199418",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lvimhxMujhZfjB3PYkJPbzPCjP5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

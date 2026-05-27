@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CINEFIL",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271539"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

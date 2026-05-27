@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MademoiselleFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100105"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

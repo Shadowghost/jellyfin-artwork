@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film AG",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142011",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cmFPc4XsZuFhvkCKKwiHM9YxSll.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "https://www.film-ag.at",
+    "headquarters": "Vienna",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Poolboy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155992",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sapL3yOMSdngrTuMWfRIN4JNLNk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

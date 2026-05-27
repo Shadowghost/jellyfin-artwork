@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Shiver",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "64434",
+        "logo_uri": "https://image.tmdb.org/t/p/original/33HLeDgJcPEzZC8rltTCixgnw4j.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.shiver.tv",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

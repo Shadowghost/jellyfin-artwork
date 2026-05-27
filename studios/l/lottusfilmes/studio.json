@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LottusFilmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290514"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

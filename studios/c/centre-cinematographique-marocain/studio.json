@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Centre Cinématographique Marocain",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36252",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xHIIkI4AXFHrz8jiUzcQtd6dt6W.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MA",
+    "homepage": "https://www.ccm.ma",
+    "headquarters": "Rabat",
+    "placeholder": true
+  }
+]

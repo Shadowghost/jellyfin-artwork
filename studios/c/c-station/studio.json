@@ -1,0 +1,17 @@
+[
+  {
+    "name": "C-Station",
+    "country": "JP",
+    "homepage": "http://cstation.jp",
+    "headquarters": "Kokubunji, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92992",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hydfOd7NNZmaWTO5aHqC3eiTc3w.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

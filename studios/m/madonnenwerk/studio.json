@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Madonnenwerk",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143478",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7DGQUvOVaA4lzleNc5UIC2TISSQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://madonnenwerk.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

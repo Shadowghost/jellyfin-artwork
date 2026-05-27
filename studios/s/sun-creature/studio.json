@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sun Creature",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118108",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4s94doXw4KxBhdChNjwtaSk6Iop.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://suncreature.com",
+    "placeholder": true
+  }
+]

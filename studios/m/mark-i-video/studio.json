@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mark I Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233636",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uNlXGcdlkg5UBidJOVoy6dE0See.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "New Milford, NJ",
+    "placeholder": true
+  }
+]

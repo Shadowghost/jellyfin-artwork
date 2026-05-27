@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Jemsea Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172556",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6CUwV0wCSU1aJp5IVAvG5dbANJF.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://www.jemsea.com"
+  }
+]

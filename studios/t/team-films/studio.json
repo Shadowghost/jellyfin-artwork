@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Team Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119781",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9OaoC5V5nsNUiKzsPkNQN0wV9M4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://teamfilms.ru/",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

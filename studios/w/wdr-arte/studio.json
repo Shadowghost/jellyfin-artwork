@@ -1,0 +1,28 @@
+[
+  {
+    "name": "WDR/Arte",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10946",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gk4SFkJ3G49gGL308zymD8QGNw.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "DE",
+    "template": true
+  }
+]

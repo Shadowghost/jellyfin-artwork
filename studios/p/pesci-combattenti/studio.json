@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pesci Combattenti",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205373",
+        "logo_uri": "https://image.tmdb.org/t/p/original/moG9D52eSqabX37IevJmevTOICt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.pescicombattenti.it/",
+    "headquarters": "Rome, Italy",
+    "placeholder": true
+  }
+]

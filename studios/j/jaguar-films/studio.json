@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jaguar Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10497",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nMCaGXVddB0SaRArHnLJN2IJeir.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PA",
+    "homepage": "http://www.jaguarfilms.net/",
+    "headquarters": "Ciudad de Panamá",
+    "placeholder": true
+  }
+]

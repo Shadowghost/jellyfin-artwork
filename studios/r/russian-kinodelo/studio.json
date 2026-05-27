@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Russian Kinodelo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242439"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

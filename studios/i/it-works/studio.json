@@ -1,0 +1,17 @@
+[
+  {
+    "name": "It Works!",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2628",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2bjY4cHhM4uOUyJScYepNQvp7Pc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://itworksmedien.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cloud Ten Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3226",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ayMfePnYAu4QnK2eHz7MdS362k1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.cloudtenpictures.com/",
+    "headquarters": "St. Catharines, Ontario",
+    "placeholder": true
+  }
+]

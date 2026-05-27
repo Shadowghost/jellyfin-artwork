@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Centre du Cinéma et de l'Audiovisuel de la FWB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11796",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tx6LOQcTSqgW8ffKxovuJHjlYVw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://audiovisuel.cfwb.be/en",
+    "headquarters": "Brussels",
+    "placeholder": true
+  }
+]

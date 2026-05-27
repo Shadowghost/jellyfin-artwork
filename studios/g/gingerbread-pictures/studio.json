@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gingerbread Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144389",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zsI5xHQQvu15sSSA5VkoC8XDRxi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.gingerbreadpictures.com/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

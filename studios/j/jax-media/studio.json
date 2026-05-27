@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Jax Media",
+    "description": "American television production company founded by Tony Hernandez, producing series such as Broad City, Russian Doll, and Younger.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://jaxmedia.com/",
+    "headquarters": "New York, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24021",
+        "logo_uri": "https://image.tmdb.org/t/p/original/urq2p5ColCf657b5nOmBpBOrjyv.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

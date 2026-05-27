@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Classica Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125555"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ever Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "261022"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

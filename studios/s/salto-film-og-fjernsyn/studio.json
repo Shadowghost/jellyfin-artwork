@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Salto Film og Fjernsyn",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192205",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ncgroWCNwLszj5DXSARFBaun1jj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.saltofilm.no",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

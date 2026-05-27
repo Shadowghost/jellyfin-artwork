@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinemovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38601"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

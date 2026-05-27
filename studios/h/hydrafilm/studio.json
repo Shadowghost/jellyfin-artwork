@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hydrafilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123641"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

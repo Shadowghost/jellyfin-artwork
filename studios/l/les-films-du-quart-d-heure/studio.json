@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les films du quart d'heure",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210465"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

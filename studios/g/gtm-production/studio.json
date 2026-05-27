@@ -1,0 +1,13 @@
+[
+  {
+    "name": "GTM Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260010"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "AnimeKey",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "297760"
+      }
+    ],
+    "artwork": {},
+    "country": "SA",
+    "placeholder": true
+  }
+]

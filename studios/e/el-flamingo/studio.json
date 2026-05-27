@@ -1,0 +1,17 @@
+[
+  {
+    "name": "El Flamingo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27656",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xjKw01JjQ2ayw1tY8cQKiRP1TZN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.el-flamingo.de/",
+    "headquarters": "Dusseldorf",
+    "placeholder": true
+  }
+]

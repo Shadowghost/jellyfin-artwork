@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Solution",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33768",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f8TDXTNoj4G4eRCKlUpG3KYQj9I.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

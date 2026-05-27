@@ -1,0 +1,15 @@
+[
+  {
+    "name": "gray-film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30931",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nRQrAUt4s0BCHKNqC36Nj8xWftn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

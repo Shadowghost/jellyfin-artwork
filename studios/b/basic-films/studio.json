@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Basic Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24836"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

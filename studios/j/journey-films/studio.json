@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Journey Films",
+    "country": "US",
+    "homepage": "https://www.journeyfilms.com/",
+    "headquarters": "Alexandria, VA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8650"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

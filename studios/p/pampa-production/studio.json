@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Pampa Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26252"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Capricci Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15261",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wgKSrQW5yw07bT1TR0iTRO6FD2d.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.capricci.fr",
+    "headquarters": "Nantes",
+    "placeholder": true
+  }
+]

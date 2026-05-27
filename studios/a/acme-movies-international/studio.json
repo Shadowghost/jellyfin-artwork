@@ -1,0 +1,13 @@
+[
+  {
+    "name": "acme movies international",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121805"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

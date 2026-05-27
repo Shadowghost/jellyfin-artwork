@@ -1,0 +1,29 @@
+[
+  {
+    "name": "ZDFneo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "178864",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5xti6WP3i8AoI9o4Wl813JA98CF.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "DE",
+    "homepage": "https://www.zdf.de/sender/zdfneo",
+    "template": true
+  }
+]

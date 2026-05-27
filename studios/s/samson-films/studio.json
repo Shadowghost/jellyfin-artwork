@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Samson Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11571",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m8ANv8cvk8RfnYY3Cx3yTGjIAxd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "http://samsonfilms.com",
+    "headquarters": "Dublin",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DreamWorks Classics",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114185",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4OmHcdOO9oGxvpa73Euhi7sN1pr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.dreamworks.com/classics",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

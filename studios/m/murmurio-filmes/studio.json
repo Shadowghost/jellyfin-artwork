@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Murmúrio Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273976",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eGVUpQCXGYCYAeYtaz9Y7B3C57D.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.murmuriofilmes.com/",
+    "placeholder": true
+  }
+]

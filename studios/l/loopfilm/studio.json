@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Loopfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108936",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wJ5ryBWeHz4phBz8tqNUg4S6jcP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.loopfilm.de",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Regal Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8238",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3f3SS3sep9V3Nf7RAxNd5UUEw1E.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PH",
+    "homepage": "https://regal-entertainment.com/",
+    "placeholder": true
+  }
+]

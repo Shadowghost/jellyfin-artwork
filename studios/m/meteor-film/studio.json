@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Meteor Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96864"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

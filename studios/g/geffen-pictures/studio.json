@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Geffen Pictures",
+    "description": "American film production company founded by David Geffen, producing films such as Beetlejuice and Interview with the Vampire.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "360",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mFNYE6Lozy6oxYRxz4ByDVdIHbc.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

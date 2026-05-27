@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Pascal Pictures",
+    "description": "American film and television production company founded by Amy Pascal, producer of the Spider-Man films and Little Women (2019).",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Culver City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84041",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nw4kyc29QRpNtFbdsBHkRSFavvt.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

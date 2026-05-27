@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Le Bureau",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2137",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zTHaMcMvmXhIx4e2e7Df7azc0fC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://thebureaufilms.com/paris/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

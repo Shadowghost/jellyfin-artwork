@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinefarm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16834"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

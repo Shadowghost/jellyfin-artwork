@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Humara Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115666"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

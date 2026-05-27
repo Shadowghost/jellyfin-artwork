@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les films du Blaireau",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220385"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

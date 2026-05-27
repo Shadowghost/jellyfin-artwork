@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Grow Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4611"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

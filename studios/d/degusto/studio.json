@@ -1,0 +1,13 @@
+[
+  {
+    "name": "degusto",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220003"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

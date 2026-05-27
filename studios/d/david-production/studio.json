@@ -1,0 +1,32 @@
+[
+  {
+    "name": "David Production",
+    "description": "Japanese animation studio founded by ex-Production I.G producer Taeko Hori, known for JoJo's Bizarre Adventure, Cells at Work!, and Fire Force.",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "http://davidproduction.jp",
+    "headquarters": "Kodaira, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45188",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aPH68PzQDtz7QorAU369IlxwgnU.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

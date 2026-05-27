@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinema Iris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8383"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

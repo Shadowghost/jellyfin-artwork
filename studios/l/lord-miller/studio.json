@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lord Miller",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77973",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eUZ0kfE4uyO0JYIrjgUSOqWPqjK.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

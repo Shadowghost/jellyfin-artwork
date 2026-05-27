@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PictureVision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "65245"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

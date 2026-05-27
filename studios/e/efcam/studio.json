@@ -1,0 +1,13 @@
+[
+  {
+    "name": "EFCAM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210511"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

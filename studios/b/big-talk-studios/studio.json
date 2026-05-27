@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Big Talk Studios",
+    "country": "GB",
+    "homepage": "https://bigtalkstudios.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "443",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wibNj4tELmsnCFlf5ldLik37Urr.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

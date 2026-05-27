@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ALB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156070"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

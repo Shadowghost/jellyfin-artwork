@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Établissement Public de Télévision (EPTV)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202919",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i1Zw3zIaNaI4DQkcrAfBQScgHr6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DZ",
+    "headquarters": "Algiers",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film Code Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158245",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rNvEkx9F77iAa2WwQCEg0Kvqo5s.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://filmcode.com.tr/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

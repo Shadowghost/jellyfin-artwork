@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Leitmotiv Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148610",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tBJtuBW38dSBcq8QrPeSiDqBeFq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.leitmotivfilm.de",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

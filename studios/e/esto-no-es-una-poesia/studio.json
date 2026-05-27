@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Esto no es una poesía",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200425"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Magma Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52162",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eH7ljgi5kSmkATrtjnWq5FILrov.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://magmacine.com.ar/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

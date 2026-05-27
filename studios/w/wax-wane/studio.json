@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Wax & Wane",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234087",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uaT85h2urWyzSDFmO5v3bAnUgV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://waxandwane.co",
+    "placeholder": true
+  }
+]

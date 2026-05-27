@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kosmosfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104333",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oTC4dPr9QlQBk1Yyu2yG7eWFsMd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://www.cosmosfilm.ru",
+    "placeholder": true
+  }
+]

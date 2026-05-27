@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Yanmar",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202577",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lbcyTLc5ty5rJS0guMjrbp2oJfD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.yanmar.com/global/",
+    "placeholder": true
+  }
+]

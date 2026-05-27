@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kärnfilm",
+    "country": "SE",
+    "homepage": "https://www.karnfilm.se/",
+    "headquarters": "Stockholm, Sweden",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147232"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

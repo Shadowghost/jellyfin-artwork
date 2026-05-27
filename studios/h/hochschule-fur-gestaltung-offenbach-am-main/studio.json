@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hochschule für Gestaltung Offenbach am Main",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98134",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4ptmuYir5rPjziPYaFx4COpXcx9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.hfg-offenbach.de",
+    "headquarters": "Offenbach am Main",
+    "placeholder": true
+  }
+]

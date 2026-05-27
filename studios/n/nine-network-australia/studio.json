@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Nine Network Australia",
+    "country": "AU",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40235",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kb0Q2oDbXqaoph1ynkqc6FmYpIr.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

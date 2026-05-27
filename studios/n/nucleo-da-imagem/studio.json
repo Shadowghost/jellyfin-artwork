@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Núcleo da Imagem",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106094"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Colectivo Cámara Oscura (CO)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270401"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

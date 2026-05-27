@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SVT Sport",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168972",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jKEydaiGJJnAXUKWkcIiWLd1EDu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.svt.se/sport/",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

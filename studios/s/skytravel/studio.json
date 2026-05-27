@@ -1,0 +1,13 @@
+[
+  {
+    "name": "skytravel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123293"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "French Embassy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75139"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "headquarters": "Bangkok"
+  }
+]

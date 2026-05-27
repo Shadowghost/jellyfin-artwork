@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Hamster Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56833"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.hamster-film.de/",
+    "headquarters": "Leipzig",
+    "placeholder": true
+  }
+]

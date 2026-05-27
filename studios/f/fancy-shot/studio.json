@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fancy Shot",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104745"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

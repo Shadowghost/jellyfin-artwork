@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Polari Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153218",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qqc3tooedsDKMOUzGKQ7g4Hc0GX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://polaripictures.com",
+    "placeholder": true
+  }
+]

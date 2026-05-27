@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DR Movie",
+    "country": "KR",
+    "homepage": "https://drmovie.co.kr/",
+    "headquarters": "Seoul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "43756",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bwwJk6P9hycQGwUbWFj07cfyCG4.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

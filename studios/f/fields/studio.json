@@ -1,0 +1,16 @@
+[
+  {
+    "name": "FIELDS",
+    "country": "JP",
+    "homepage": "https://www.fields.biz/new/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117461",
+        "logo_uri": "https://image.tmdb.org/t/p/original/VLjxcj3jOqUPow3KDj8HgszOt7.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

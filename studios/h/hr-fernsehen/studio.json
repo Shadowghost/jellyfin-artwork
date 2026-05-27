@@ -1,0 +1,24 @@
+[
+  {
+    "name": "hr-fernsehen",
+    "description": "Regional German public television channel operated by Hessischer Rundfunk for the state of Hesse; part of the ARD network and headquartered in Frankfurt.",
+    "country": "DE",
+    "type": "broadcast-network",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

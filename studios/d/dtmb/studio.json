@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DTMB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150742"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

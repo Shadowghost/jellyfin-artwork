@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CMTV - Correio da Manhã",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192679"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

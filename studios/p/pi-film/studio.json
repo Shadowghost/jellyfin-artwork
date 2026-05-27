@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pi Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8945"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

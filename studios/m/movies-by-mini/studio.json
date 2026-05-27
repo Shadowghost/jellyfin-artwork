@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movies By Mini",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204213"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Maverick Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153508",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kX58IPW2o5RPC1JKX87x3zqm84g.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.maverickfilm.de",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

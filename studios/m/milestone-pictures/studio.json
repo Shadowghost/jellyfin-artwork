@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Milestone Pictures",
+    "country": "DE",
+    "headquarters": "Cologne",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63123"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

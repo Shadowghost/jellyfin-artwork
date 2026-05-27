@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Films du Boulevard",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73565"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.filmsduboulevard.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

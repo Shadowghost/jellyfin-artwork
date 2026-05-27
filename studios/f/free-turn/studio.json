@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Free Turn",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "207726",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iHkBQ0jepmaFnF13YslVoxwKs0l.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.freeturn.co/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

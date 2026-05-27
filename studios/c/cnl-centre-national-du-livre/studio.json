@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CNL - Centre National du Livre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271150"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

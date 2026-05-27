@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pegasus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137101"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

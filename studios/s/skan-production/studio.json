@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SKAN Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180800"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

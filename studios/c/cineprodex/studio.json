@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cineprodex",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "190220"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

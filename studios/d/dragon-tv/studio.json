@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Dragon TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123900"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

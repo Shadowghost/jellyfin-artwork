@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Graded Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272123"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

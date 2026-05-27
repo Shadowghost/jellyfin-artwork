@@ -1,0 +1,17 @@
+[
+  {
+    "name": "UMI Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167187",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b3VuOC6lqkAnGwuaUToxF8ouHpp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.umifilms.it/",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

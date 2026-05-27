@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film i Västerbotten",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77440",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dCT5rOH3IEAFHQk6LVpfsG29eUg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://filmivasterbotten.com/",
+    "headquarters": "Umeå",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Junafilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51377",
+        "logo_uri": "https://image.tmdb.org/t/p/original/okHPj9uc8QjA5Pq7AEjho0EapBy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://junafilm.de/",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CFWB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12341"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

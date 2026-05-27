@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmdiary",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "298234"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

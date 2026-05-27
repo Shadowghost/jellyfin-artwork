@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CineDogs",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220214"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

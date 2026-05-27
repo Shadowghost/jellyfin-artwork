@@ -1,0 +1,14 @@
+[
+  {
+    "name": "EnsoFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "237206"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

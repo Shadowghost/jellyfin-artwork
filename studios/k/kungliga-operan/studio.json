@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kungliga Operan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175205",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1tTbcm3H0n7HJo8iBJ3rhav8JuU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.operan.se/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

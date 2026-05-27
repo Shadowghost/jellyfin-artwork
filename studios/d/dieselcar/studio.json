@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Dieselcar",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "259506"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinémotif Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122386",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2Ys4TLVInarrtbciCuTJcjzviGZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.cinemotiffilms.cz",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

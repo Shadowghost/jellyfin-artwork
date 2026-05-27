@@ -1,0 +1,13 @@
+[
+  {
+    "name": "nztv",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115800"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

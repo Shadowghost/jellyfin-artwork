@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Trends Add Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85019"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

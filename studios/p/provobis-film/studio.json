@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Provobis Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31149",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6WsIa6eOLAE4EgufvQHMRNvmrF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.provobis.de",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

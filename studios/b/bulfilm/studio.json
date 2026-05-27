@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bulfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95405"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

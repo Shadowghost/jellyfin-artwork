@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Quai du jour",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183171"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

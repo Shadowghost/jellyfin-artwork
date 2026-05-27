@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NUR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37375",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fB7PTMqy1bKhXrdu4cBUsg1tnVL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://www.nurfilm.pl",
+    "headquarters": "Łódź",
+    "placeholder": true
+  }
+]

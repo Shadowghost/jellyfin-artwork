@@ -1,0 +1,13 @@
+[
+  {
+    "name": "triggers production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252418"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

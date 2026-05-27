@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Hugar Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123076"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

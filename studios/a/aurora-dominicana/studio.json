@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Aurora Dominicana",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15072",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g8IBO8XA7YDfs0BjRcNKnOOtl2K.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DO",
+    "homepage": "https://www.auroradominicana.com",
+    "placeholder": true
+  }
+]

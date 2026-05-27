@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mediaslovo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "136332",
+        "logo_uri": "https://image.tmdb.org/t/p/original/90StfHNuBb1jhgLHnj2uT2bM36N.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://mediaslovo.ru/",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

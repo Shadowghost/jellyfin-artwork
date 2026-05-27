@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Dynamic Frame",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138467"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

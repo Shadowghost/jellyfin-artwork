@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lua Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115769"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

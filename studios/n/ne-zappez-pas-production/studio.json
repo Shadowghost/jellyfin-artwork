@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ne zappez pas production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145817"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

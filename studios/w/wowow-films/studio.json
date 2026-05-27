@@ -1,0 +1,16 @@
+[
+  {
+    "name": "WOWOW FILMS",
+    "country": "JP",
+    "homepage": "https://corporate.wowow.co.jp/en/products/films/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5073",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eaLQAIIVIcHAWPOAAaj8J8Pt4W0.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

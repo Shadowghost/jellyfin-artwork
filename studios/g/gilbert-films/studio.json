@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Gilbert Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10161"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

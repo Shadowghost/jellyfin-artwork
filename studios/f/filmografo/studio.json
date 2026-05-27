@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmógrafo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16473",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vUkaPhr673Oc1N0fsi5p36A7lnP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "https://www.filmografo.com/",
+    "headquarters": "Avanca, Portugal",
+    "placeholder": true
+  }
+]

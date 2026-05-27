@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Comptoir du Film Français Documentaire (CFFD)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204811",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dWtAoC50kitFXuu9DXQC1opMDUn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Comptoir du Film Français Documentaire (CFFD), France",
+    "placeholder": true
+  }
+]

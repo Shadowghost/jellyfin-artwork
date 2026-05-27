@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Blues Content",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200813",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x5nKmrLT7rzWjztfIc8ZV0wJyLc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://bluescontent.com.br/",
+    "placeholder": true
+  }
+]

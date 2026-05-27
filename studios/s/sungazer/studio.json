@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sungazer",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160685",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wK3JqgjvQ1ch0yWxxp2d6gmufVr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.sungazer.co.uk/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

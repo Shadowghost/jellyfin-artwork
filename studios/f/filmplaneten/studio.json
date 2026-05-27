@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmplaneten",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119025"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

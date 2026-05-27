@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Gen Image Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102870"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Banfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20769"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nadador Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108615",
+        "logo_uri": "https://image.tmdb.org/t/p/original/IfUyrEJhP2kfJ6ypsJmCSW9WbJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UY",
+    "homepage": "https://www.nadadorcine.com/",
+    "headquarters": "Montevideo",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "42° Parallelo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123071"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

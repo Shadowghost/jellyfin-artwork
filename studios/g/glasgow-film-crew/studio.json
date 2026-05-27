@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Glasgow Film Crew",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185039",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mhfIzmNXrcciQfQUImfpKVOlPOQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "headquarters": "Glasgow",
+    "placeholder": true
+  }
+]

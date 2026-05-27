@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Verba Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100352"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Stereotactic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102895",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l7vxt0fHlxH0mgPScm1a2Sv4ZZS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://stereotactic.ru/",
+    "placeholder": true
+  }
+]

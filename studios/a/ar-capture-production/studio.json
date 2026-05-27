@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AR.CAPTURE Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202708"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

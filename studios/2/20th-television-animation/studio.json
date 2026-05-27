@@ -1,0 +1,29 @@
+[
+  {
+    "name": "20th Television Animation",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154887",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wLFPu95hIMmyLR5hdtvYaMuK0tG.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Southampton Docks",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100253"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

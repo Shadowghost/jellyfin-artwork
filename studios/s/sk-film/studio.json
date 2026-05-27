@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SK-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21017"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "http://www.skfilm.at/",
+    "headquarters": "Salzburg",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "The Mirage Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185877",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ftXXoOd9lPlzKJA78lB4brc4QwD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

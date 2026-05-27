@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Warner Bros. International Television Production Australia",
+    "description": "Australian television production arm of Warner Bros. International Television Production, producing local television formats in Australia.",
+    "country": "AU",
+    "type": "production-company",
+    "homepage": "https://www.wbitvpaustralia.com",
+    "headquarters": "Sydney, New South Wales",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109758",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fJWAcHxNTq9nDBPlqhWFTu2H5DR.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "stratford-barbican",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85670"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

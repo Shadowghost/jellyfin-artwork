@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tomtit Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168976",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mTuCxtE3zaiNxpvpe3bOhE25Pm0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.tomtitfilm.com/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

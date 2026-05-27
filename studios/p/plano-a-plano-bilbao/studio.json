@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Plano a Plano Bilbao",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "281955",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9WohhMBPpdU5TM91M7ShmgprT33.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://planoaplano.es",
+    "headquarters": "Bilbao",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Eye Candy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126718",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7cuyOewWJQVfklvmyoDX3HoijcB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

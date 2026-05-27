@@ -1,0 +1,13 @@
+[
+  {
+    "name": "bwfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222599"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

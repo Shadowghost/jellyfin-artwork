@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zamkinos Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172595",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6z0oqMZi695uSs36CEghswE78cb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "http://zamkinos.com.tr/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

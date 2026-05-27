@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Burns Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "286585"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

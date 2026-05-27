@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Destination Films",
+    "description": "American film production and distribution company, now a label of Sony Pictures Worldwide Acquisitions used for genre and direct-to-video releases.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Culver City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "769",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j8zjbr6CzgiOj4kdtkTkwjdn0b3.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

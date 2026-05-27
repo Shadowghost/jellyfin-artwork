@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TNVO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21327",
+        "logo_uri": "https://image.tmdb.org/t/p/original/y1wOSfEzd1lst3abvYR1t8ZOOc9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.tnvo.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

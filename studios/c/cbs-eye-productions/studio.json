@@ -1,0 +1,27 @@
+[
+  {
+    "name": "CBS Eye Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "68835"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "US",
+    "template": true
+  }
+]

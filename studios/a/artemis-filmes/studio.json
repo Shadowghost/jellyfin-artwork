@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Artemis Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231311"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

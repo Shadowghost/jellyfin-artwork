@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Animal Tank",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113999",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6H7TiOCd08UB1QAvSDUDi4ML8Ie.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.animaltank.com/",
+    "headquarters": "Ledeberg",
+    "placeholder": true
+  }
+]

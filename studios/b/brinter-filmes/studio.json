@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Brinter Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55724"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

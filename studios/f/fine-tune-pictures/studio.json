@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fine Tune Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82258"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

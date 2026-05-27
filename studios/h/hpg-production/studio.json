@@ -1,0 +1,13 @@
+[
+  {
+    "name": "HPG Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15262"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

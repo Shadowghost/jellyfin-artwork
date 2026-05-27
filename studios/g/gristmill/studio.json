@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gristmill",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37583",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8JT1TlnMjftDvJTiCjsnvhNaUH6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "http://www.gristmill.com.au/",
+    "headquarters": "Melbourne, Victoria, Australia",
+    "placeholder": true
+  }
+]

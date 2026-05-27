@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Taurus Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290594"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

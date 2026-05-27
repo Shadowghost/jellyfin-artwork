@@ -1,0 +1,16 @@
+[
+  {
+    "name": "LightHouse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105472",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x1ktvd1ouLu1OTrc4KXCpyolFjc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.lighthouse-sp.com/?lang=en",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "La Blogothèque",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "59585"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.blogotheque.net",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "X Filme Creative Pool",
+    "country": "DE",
+    "homepage": "http://www.x-filme.de",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9ps82gVzUeNdkjmLzoGDQLiLDio.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

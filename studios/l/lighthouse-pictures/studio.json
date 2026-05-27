@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lighthouse Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6345",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pctomojbRLZNdYB0muFoZiaYdPI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.lighthousepictures.ca",
+    "headquarters": "Burnaby, British Columbia",
+    "placeholder": true
+  }
+]

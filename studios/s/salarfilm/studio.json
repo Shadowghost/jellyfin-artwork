@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Salarfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163531"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://salarfilm.de/",
+    "placeholder": true
+  }
+]

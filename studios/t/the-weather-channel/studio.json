@@ -1,0 +1,13 @@
+[
+  {
+    "name": "The Weather Channel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67828"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

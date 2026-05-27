@@ -1,0 +1,14 @@
+[
+  {
+    "name": "FilmProduction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "64345"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "placeholder": true
+  }
+]

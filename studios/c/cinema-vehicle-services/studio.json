@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinema Vehicle Services",
+    "country": "US",
+    "homepage": "https://cinemavehicles.com/",
+    "headquarters": "Los Angeles, California, United States",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25673",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n8jePITtAXMDPR2MGevMF2zIwss.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

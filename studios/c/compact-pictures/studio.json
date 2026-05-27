@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Compact Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188414",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rDFq4EyqmsGdNZesWPGB5dRCv55.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.compact.pictures/",
+    "headquarters": "Glasgow, Scotland",
+    "placeholder": true
+  }
+]

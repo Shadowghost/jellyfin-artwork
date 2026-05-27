@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tug Zone",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73911"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

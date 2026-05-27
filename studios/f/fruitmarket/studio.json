@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fruitmarket",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62278",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mhG4ke0XCFI6ULIvOfnm7T7v2pS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.fruitmarket.de/",
+    "headquarters": "Cologne",
+    "placeholder": true
+  }
+]

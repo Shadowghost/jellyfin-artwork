@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Banco Regional de Desenvolvimento do Extremo Sul",
+    "country": "BR",
+    "homepage": "https://www.brde.com.br/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197334",
+        "logo_uri": "https://image.tmdb.org/t/p/original/poEQXm0Ej4xjSYWDf93xBbo8Gco.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

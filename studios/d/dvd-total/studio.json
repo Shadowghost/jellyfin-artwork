@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DVD Total",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "251224"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

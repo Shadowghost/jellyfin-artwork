@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wild 7 Films",
+    "country": "US",
+    "homepage": "https://wild7films.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "254741",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iL3S1uGiHFXEjBIfsSJ6NaVzjui.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

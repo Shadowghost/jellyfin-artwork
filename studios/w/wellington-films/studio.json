@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wellington Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25795",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1Ml9XLez6HkIiyhTHsBe31FXGIY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://wellingtonfilms.co.uk/",
+    "headquarters": "Nottingham, England",
+    "placeholder": true
+  }
+]

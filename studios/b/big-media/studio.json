@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Big Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91272",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9VWr79wRQOznbixKDVeHdILE2KN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://bigmedia.tv",
+    "headquarters": "New York",
+    "placeholder": true
+  }
+]

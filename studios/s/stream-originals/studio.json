@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Stream originals",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223141"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

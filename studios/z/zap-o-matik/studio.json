@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Zap-O-Matik",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6725"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "http://www.zapomatik.com",
+    "headquarters": "Brussels",
+    "placeholder": true
+  }
+]

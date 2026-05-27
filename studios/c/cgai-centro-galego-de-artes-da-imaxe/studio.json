@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CGAI: Centro Galego de Artes da Imaxe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104728",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ibzuZxEHUHminwlprQNiumRxXnj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.cgai.org",
+    "headquarters": "A Coruña",
+    "placeholder": true
+  }
+]

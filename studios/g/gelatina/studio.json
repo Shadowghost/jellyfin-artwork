@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Gelatina",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "268478",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hdY0M1BqIm6xKWrPihmQmVXQEtQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "headquarters": "Buenos Aires, Argentina",
+    "placeholder": true
+  }
+]

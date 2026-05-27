@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Banda Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127209",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9rOqPiPwO9N6HVoY9qORBHvs9lk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "https://www.labandafilm.at/",
+    "headquarters": "Wien",
+    "placeholder": true
+  }
+]

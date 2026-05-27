@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bunkasha",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283729",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aZ4UbLgK12eBc7KrQ75JCZnJbFo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.bunkasha.co.jp/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bell Museum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219821"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.bellmuseum.umn.edu/",
+    "headquarters": "St. Paul, MN",
+    "placeholder": true
+  }
+]

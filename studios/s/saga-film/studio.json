@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Saga Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "859",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wK6ssskf1QaGp057lSYb6fa3Nwc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "http://sagafilm.be",
+    "headquarters": "Ixelles",
+    "placeholder": true
+  }
+]

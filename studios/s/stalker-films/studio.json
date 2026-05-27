@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Stalker Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79825",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dcpeAdNmqghHO966rWmjiMu2CDH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "http://www.stalker.ie",
+    "headquarters": "Dublin",
+    "placeholder": true
+  }
+]

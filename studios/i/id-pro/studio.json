@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ID Pro",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172122",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bIk0ECdwQwYTMReaWLjBy9epgT5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.idiletisim.com.tr/id-pro",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

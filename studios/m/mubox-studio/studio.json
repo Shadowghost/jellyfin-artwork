@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mubox Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168898",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pHEFd9VeVUqo4GSXA3ginTiJCgL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.mubox.studio",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

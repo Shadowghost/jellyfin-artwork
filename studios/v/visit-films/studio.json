@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Visit Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76403",
+        "logo_uri": "https://image.tmdb.org/t/p/original/29apFW9Vbo98hQIyIZvXKwnpL6i.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://visitfilms.com",
+    "placeholder": true
+  }
+]

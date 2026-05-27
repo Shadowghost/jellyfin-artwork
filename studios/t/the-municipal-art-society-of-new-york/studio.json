@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Municipal Art Society of New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121313",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5FZqkmbkTiEwkEN7JtGovcJedV4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.mas.org/",
+    "headquarters": "Manhattan, New York City, New York",
+    "placeholder": true
+  }
+]

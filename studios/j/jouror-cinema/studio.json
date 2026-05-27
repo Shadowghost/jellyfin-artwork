@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Jouror Cinéma",
+    "country": "FR",
+    "homepage": "http://jourorcinema.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120701"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

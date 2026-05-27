@@ -1,0 +1,13 @@
+[
+  {
+    "name": "YOLO Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256306"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

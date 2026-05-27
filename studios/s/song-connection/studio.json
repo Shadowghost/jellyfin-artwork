@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Song Connection",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231691"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

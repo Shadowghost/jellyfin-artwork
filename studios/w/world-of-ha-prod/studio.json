@@ -1,0 +1,13 @@
+[
+  {
+    "name": "World of HA Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "277655"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hangman",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196396"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

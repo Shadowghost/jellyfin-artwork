@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PDS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120232"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

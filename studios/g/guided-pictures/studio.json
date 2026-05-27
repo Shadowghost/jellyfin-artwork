@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Guided Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150868"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

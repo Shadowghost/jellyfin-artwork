@@ -1,0 +1,17 @@
+[
+  {
+    "name": "New Name Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274262",
+        "logo_uri": "https://image.tmdb.org/t/p/original/epLXfk888m3L1z5PMThjapU1YZj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://newname.xyz/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "France.tv Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118346",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rwBUYPwdQUC9PqWAQAxLK8Fx1p0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://francetvstudio.fr/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Minimal Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "247528"
+      }
+    ],
+    "artwork": {},
+    "country": "UA",
+    "homepage": "http://www.minimalmovie.com/",
+    "placeholder": true
+  }
+]

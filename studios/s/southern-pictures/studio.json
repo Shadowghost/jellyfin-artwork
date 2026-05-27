@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Southern Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111993",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ipYV6yiJnQ78sj4x2m8oLv3Jcmr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "http://southernpictures.com.au/",
+    "headquarters": "Crows Nest, New South Wales",
+    "placeholder": true
+  }
+]

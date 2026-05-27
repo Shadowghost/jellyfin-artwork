@@ -1,0 +1,28 @@
+[
+  {
+    "name": "BBC Arabic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108529",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gQKxLpflgotdH4WoLHJGRpHyZVy.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "GB",
+    "template": true
+  }
+]

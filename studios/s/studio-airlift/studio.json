@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio Airlift",
+    "country": "DE",
+    "homepage": "https://studioairlift.com",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131117",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mETa1sjcyHDk0hhFx1k4anWEsBX.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

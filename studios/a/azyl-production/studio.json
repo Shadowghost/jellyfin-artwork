@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Azyl Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119357",
+        "logo_uri": "https://image.tmdb.org/t/p/original/z4jeBQkN1kya8nv8jrcOTNJmHcZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SK",
+    "homepage": "http://www.azyl.sk",
+    "headquarters": "Bratislava",
+    "placeholder": true
+  }
+]

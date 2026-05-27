@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les films du Pingouin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200531"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

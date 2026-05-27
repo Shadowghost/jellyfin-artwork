@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Anime Beans",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165674"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.animebeans.com/",
+    "placeholder": true
+  }
+]

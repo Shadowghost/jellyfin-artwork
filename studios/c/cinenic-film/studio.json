@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinenic Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17583",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rQ19Qe0iX76l2eaafUIJTStlfvP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://cinenicfilm.se/",
+    "headquarters": "Gothenburg, Sweden",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Northern Stories",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150823",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bYgS8TKEdFJdxO4mubLneeMw2uS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.northernstories.biz",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Teatro Nacional D. Maria II",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154551",
+        "logo_uri": "https://image.tmdb.org/t/p/original/81DyQiTgI1CvwHn5JcFrnH67oMg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "https://www.tndm.pt/pt/",
+    "placeholder": true
+  }
+]

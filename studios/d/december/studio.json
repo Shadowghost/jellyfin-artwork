@@ -1,0 +1,17 @@
+[
+  {
+    "name": "December",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109601",
+        "logo_uri": "https://image.tmdb.org/t/p/original/326PuXqI7bBYac6HwoTBWDQWQj9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SI",
+    "homepage": "https://december.si/",
+    "headquarters": "Ljubljana",
+    "placeholder": true
+  }
+]

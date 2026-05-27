@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmgroup",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143553"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

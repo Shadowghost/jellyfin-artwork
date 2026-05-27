@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SLA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205542"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

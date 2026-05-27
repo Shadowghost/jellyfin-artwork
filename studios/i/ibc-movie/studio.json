@@ -1,0 +1,17 @@
+[
+  {
+    "name": "IBC MOvie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46111",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lct7ThhbE6xBqiTpP4ZSX58D7NM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.itc2000.it/cinema/",
+    "headquarters": "Bologna, Italy",
+    "placeholder": true
+  }
+]

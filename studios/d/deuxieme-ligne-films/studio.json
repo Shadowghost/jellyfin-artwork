@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Deuxième Ligne Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92671",
+        "logo_uri": "https://image.tmdb.org/t/p/original/meeAIZkBXXY41X2MqWPpBJbVu8v.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.deuxiemeligne.fr/",
+    "headquarters": "Ivry-la-Bataille",
+    "placeholder": true
+  }
+]

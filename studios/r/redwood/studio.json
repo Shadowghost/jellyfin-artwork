@@ -1,0 +1,14 @@
+[
+  {
+    "name": "RedWood",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256640"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "placeholder": true
+  }
+]

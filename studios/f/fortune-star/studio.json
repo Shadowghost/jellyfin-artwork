@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Fortune Star Media",
+    "description": "Hong Kong-based rights holder and distributor of one of the largest Chinese-language film libraries (Golden Harvest, Cinema City and others), formerly part of the Fox/Star China group.",
+    "country": "HK",
+    "type": "distributor",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

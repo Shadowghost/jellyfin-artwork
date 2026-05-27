@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Places Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223852"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

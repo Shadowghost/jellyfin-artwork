@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NED Diffusion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157104"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

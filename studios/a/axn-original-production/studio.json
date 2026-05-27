@@ -1,0 +1,27 @@
+[
+  {
+    "name": "AXN Original Production",
+    "description": "Original content production unit of AXN, the international action/thriller pay-TV channel owned by Sony Pictures.",
+    "country": "US",
+    "type": "production-company",
+    "colors": [
+      {
+        "name": "AXN Yellow",
+        "hex": "#FFCC00"
+      },
+      {
+        "name": "AXN Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7341",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r4zR9lVBlByJ4gX3wqelIpLZUvD.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

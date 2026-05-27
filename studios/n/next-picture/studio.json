@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Next Picture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126442",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bAgapMYEqpJTfvR2mZqpYEh40I3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.nextpicture.cz/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

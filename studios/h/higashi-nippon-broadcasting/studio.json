@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Higashi Nippon Broadcasting",
+    "country": "JP",
+    "homepage": "https://www.khb-tv.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248949",
+        "logo_uri": "https://image.tmdb.org/t/p/original/omMXzoRyfKzy9cgFMYegrswcUkk.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

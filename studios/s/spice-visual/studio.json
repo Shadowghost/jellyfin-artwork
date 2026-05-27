@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Spice Visual",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157968",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4l4vtg9jtb9BQ0S2YxCdR5LuYtm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://spicevisual.com",
+    "placeholder": true
+  }
+]

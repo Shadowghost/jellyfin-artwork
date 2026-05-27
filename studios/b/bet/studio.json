@@ -1,0 +1,40 @@
+[
+  {
+    "name": "BET (Black Entertainment Television)",
+    "description": "American basic cable channel targeting Black American audiences, owned by Paramount Global.",
+    "country": "US",
+    "type": "cable-network",
+    "colors": [
+      {
+        "name": "BET Red",
+        "hex": "#C8102E"
+      },
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42321",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9WlIIyx4SB8Rt9D7pakaVJVHQN2.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

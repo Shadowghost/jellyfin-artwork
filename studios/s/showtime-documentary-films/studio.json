@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Showtime Documentary Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66479",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ubztWkSUXZvUm0fzLG43jZDooc9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

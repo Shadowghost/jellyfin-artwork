@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Town",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

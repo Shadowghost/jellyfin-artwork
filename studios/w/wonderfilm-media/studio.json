@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wonderfilm Media",
+    "country": "US",
+    "homepage": "https://www.wonderfilm.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101890",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1uN1lWLR1bwTGwu52j1SS21KPnu.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

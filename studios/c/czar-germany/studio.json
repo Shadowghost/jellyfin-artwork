@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CZAR Germany",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2853",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mvOhXe2kaKKsdYvJtom0FAQZDnG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://czar.de/",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

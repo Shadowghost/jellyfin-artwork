@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Instituto Mexicano de Cinematografía",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "299",
+        "logo_uri": "https://image.tmdb.org/t/p/original/elssmtHcogGtF8Gxokh9phZvLKi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "http://www.imcine.gob.mx",
+    "placeholder": true
+  }
+]

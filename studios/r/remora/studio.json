@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Remora",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106706"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

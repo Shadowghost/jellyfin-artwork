@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Beyoğlu Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98291"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

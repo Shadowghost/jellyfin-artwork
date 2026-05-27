@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Silwa",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93520",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7OjB5mJADMAwkAzxqYYntlt8nwG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.silwa.de/",
+    "placeholder": true
+  }
+]

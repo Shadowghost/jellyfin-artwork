@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Turbokultur",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150677",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vGrbWTN1sHVDoPK9wSzmRGQcv0q.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

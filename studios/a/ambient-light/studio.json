@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ambient Light",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152604",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qt6BiPMtMhkNiRJySRpL1cyfkgY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EG",
+    "homepage": "https://ambientlightfilm.com/",
+    "headquarters": "Cairo",
+    "placeholder": true
+  }
+]

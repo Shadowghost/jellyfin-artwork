@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Omniscope",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "246329"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

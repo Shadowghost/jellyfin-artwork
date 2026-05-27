@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tripod Media",
+    "country": "US",
+    "homepage": "http://www.tripod-media.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90561"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

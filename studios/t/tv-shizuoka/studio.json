@@ -1,0 +1,34 @@
+[
+  {
+    "name": "TV Shizuoka",
+    "description": "Japanese commercial television station serving Shizuoka Prefecture, affiliated with the Fuji News Network (FNN/FNS).",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.sut-tv.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256955",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g2RAvblSZWcNxI4dD4u9rPfCauc.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Shizuoka Telecasting (SUT)"
+    ],
+    "template": true
+  }
+]

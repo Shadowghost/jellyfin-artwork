@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mediadiffusion IAD",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141971"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

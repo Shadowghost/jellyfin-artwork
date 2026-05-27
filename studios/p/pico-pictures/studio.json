@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pico Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89079",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sOP2QTOl4W9J8SBrhovOXERqslk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://www.picopictures.co.uk/",
+    "headquarters": "London",
+    "placeholder": true
+  }
+]

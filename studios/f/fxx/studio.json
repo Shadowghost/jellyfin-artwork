@@ -1,0 +1,35 @@
+[
+  {
+    "name": "FXX",
+    "description": "American basic cable channel under the FX Networks group, targeted at younger viewers; airs It's Always Sunny in Philadelphia and Archer.",
+    "country": "MK",
+    "type": "cable-network",
+    "colors": [
+      {
+        "name": "FXX Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33715"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

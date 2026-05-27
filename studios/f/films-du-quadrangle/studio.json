@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Films du Quadrangle",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81374"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

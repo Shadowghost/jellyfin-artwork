@@ -1,0 +1,17 @@
+[
+  {
+    "name": "JCTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164801",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tgPAalHx5XAbd1lyPlPNKAcEtOp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.jctv.co.jp/",
+    "headquarters": "1-1-1, Roppongi, Minato-ku, Tokyo 106-0032, Japan",
+    "placeholder": true
+  }
+]

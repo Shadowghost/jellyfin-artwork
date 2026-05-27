@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tokyo Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150478"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

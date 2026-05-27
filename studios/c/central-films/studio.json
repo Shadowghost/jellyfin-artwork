@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Central Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11258"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

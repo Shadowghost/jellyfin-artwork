@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SnowyScreen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283394"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Horipro",
+    "country": "JP",
+    "homepage": "https://www.horipro.co.jp",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4330",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n8v5Ii8FCPHAg0KaIXviDRFSqhG.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

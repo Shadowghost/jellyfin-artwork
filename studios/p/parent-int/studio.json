@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Parent Int",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98500"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

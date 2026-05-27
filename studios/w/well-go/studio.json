@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Well Go USA Entertainment",
+    "description": "American film distribution company specializing in Asian action films, anime, and genre titles for North American theatrical and home video release.",
+    "country": "US",
+    "type": "distributor",
+    "homepage": "http://www.wellgousa.com",
+    "headquarters": "Dallas, Texas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92394",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xnsTWHinFaR4oQuHFdxe6JNhfrI.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

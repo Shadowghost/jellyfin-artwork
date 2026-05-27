@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Napravi Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182575",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xRumMqE0FV02fwL7Yf4o4W1jIyp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HR",
+    "homepage": "https://napravifilm.hr/",
+    "headquarters": "Zagreb",
+    "placeholder": true
+  }
+]

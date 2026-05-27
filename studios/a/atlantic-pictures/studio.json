@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Atlantic Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5387",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3klEFhjGxV1hC2Ai71L4PpjGiBz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.atlanticpictures.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

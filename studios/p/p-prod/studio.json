@@ -1,0 +1,15 @@
+[
+  {
+    "name": "P.Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159059"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

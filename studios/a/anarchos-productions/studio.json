@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Anarchos Productions",
+    "country": "US",
+    "headquarters": "Chicago, Illinois",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "450",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5SQqMrfCZPWdVE0q25DISvKwToE.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

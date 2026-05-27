@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ECPAD",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123263",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lH6LuTXRNVncmI4fJwohv2FqgpO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.ecpad.fr/",
+    "headquarters": "Ivry-sur-Seine, France",
+    "placeholder": true
+  }
+]

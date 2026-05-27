@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Orange Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17358",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bGiYFmmtWJQZYJsDFrSptbno7qW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ZA",
+    "homepage": "https://www.orangefilms.co.za",
+    "headquarters": "Cape Town",
+    "placeholder": true
+  }
+]

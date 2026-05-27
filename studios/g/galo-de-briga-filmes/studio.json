@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Galo de Briga Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56546",
+        "logo_uri": "https://image.tmdb.org/t/p/original/osr4zOVUQl0WLC2y1O7iSWlTXpF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.galodebrigafilmes.com.br/",
+    "headquarters": "Porto Alegre RS",
+    "placeholder": true
+  }
+]

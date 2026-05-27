@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tempo nublado",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233525"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

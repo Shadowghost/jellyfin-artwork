@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Band",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85375",
+        "logo_uri": "https://image.tmdb.org/t/p/original/62CSDhs9l1DmaSz9rHaai4LcXUP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.band.uol.com.br/",
+    "headquarters": "São Paulo, São Paulo, Brazil",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "iraru.films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "228420"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Clapperbeat Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "227756"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

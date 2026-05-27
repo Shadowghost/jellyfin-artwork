@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Wikimapa",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156304"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

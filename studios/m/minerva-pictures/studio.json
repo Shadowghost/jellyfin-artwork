@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Minerva Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12377",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yL9lfoO2IX6sssqEJuifsOPgcxP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.minervapictures.com/",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

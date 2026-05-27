@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Man's Art",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117968",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AhZTEAODLIy4MFcsOhSbgjrkmjx.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

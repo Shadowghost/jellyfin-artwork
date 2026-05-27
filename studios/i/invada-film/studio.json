@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Invada Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42097",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mOiDMWkblmRj6AeOBqn1kVqiZBY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://en.invadafilm.com",
+    "placeholder": true
+  }
+]

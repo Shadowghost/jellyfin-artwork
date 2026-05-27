@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Blue Cradle",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "292389",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qA3wr7abDEvrbLOjWRbmMtaqoOx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NZ",
+    "homepage": "https://bluecradle.org/",
+    "headquarters": "Christchurch",
+    "placeholder": true
+  }
+]

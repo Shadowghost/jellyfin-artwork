@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Image Satellite",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "291562"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://imagesatellite.sakura.ne.jp",
+    "placeholder": true
+  }
+]

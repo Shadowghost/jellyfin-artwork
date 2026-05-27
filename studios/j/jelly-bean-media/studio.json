@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jelly Bean Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139344",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wqqlbcDWOPCBCQMplRHM2M05AYR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://jellybeanmedia.ca",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

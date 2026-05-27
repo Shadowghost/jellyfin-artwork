@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Polymorphic Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102301"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

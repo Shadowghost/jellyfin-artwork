@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DCI Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134665"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

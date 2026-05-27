@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Marvel Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2301",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qdPhBEP8sjK3Eb3rKc94554gcZt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

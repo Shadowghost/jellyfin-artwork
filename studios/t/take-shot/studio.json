@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Take Shot",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69001"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "StreetVoice",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120656"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

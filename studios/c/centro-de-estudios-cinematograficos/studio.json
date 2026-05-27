@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Centro de Estudios Cinematográficos",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133718",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4VsKa5O3dTWDG3uq3SsOlCqaPsI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://www.cecinematograficos.edu.mx/",
+    "placeholder": true
+  }
+]

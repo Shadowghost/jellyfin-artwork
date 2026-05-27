@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Marvel Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108634",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rZGM78DBr6Zn1tV9NAOhuMdB0Sn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Christmas Holly",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210402",
+        "logo_uri": "https://image.tmdb.org/t/p/original/go38datsUDFe46lDPo8ro1jhKHP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://christmas-holly.jp",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PainterStudio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220423"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

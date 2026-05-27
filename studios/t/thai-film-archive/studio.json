@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Thai Film Archive",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257013"
+      }
+    ],
+    "artwork": {},
+    "country": "TH",
+    "placeholder": true
+  }
+]

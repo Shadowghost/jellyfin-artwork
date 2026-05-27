@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SonataFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176911"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fortissimo Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1615",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4eBmyaFkD9um04Weu6ybnLWNSVH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://fortissimofilms.com",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

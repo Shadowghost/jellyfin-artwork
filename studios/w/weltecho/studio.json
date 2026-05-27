@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Weltecho",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1990"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

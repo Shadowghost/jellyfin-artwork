@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BTPM PBS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87941",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vp1bBkQh9W1RhZ59LhvwnQPub9N.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.btpm.org",
+    "headquarters": "Buffalo, New York",
+    "placeholder": true
+  }
+]

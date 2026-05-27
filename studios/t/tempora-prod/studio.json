@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tempora Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90514"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

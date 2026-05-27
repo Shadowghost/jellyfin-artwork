@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nikoniko Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62567",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gMWkXY7xcpe0RCqR1TjNADxfHZZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://nikonikofilm.net/",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

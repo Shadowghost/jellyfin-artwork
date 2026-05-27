@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PDK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101896"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

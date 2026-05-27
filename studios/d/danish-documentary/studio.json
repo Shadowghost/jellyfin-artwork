@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Danish Documentary",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45230",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gvHkS5xHPoeGpoAPanwqQ96L4gL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://www.danishdocumentary.com/",
+    "headquarters": "København",
+    "placeholder": true
+  }
+]

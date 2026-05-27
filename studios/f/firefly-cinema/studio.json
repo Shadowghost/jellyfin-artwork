@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Firefly Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99230"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "placeholder": true
+  }
+]

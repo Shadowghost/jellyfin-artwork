@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dionysos Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4101",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fEABftORiwQrJ3mbb2ykKPHxlSO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "http://www.dionysosfilms.fi/",
+    "headquarters": "Helsinki, Finland",
+    "placeholder": true
+  }
+]

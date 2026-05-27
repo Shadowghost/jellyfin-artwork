@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Ukrainska Pravda",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189619"
+      }
+    ],
+    "artwork": {},
+    "country": "UA",
+    "homepage": "https://www.pravda.com.ua/",
+    "placeholder": true
+  }
+]

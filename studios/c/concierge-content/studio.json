@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Concierge Content",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234990"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

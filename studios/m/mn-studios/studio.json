@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MN Studios",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262005",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8tmvJccXobzyLt60dDbxX6DWUOc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://mnstudios.es",
+    "headquarters": "Palma de Mallorca",
+    "placeholder": true
+  }
+]

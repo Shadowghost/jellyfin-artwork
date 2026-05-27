@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lumiton",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20630",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vb9bsR3XI1n33HRYv0jTHB4ml2C.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://lumiton.ar/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Teledoce",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200456"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

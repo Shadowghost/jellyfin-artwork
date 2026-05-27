@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mindwax",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123160",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m2dlWFEVXR3CeXia8JTFVT1LN8i.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "http://mindwax.eu/",
+    "headquarters": "Budapest",
+    "placeholder": true
+  }
+]

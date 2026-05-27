@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tchack",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109277",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v72liG1pSzELfBbVKXgTz7AItO6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.tchack.com/",
+    "headquarters": "92 rue Léon Gambetta, 59000 Lille",
+    "placeholder": true
+  }
+]

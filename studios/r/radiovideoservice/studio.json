@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Radiovideoservice",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "207032"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

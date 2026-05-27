@@ -1,0 +1,13 @@
+[
+  {
+    "name": "The Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90002"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

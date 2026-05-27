@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Departamento de Cine de la Universidad de Los Andes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238309",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8cI1ga2Wu0630Nwm5gb7JxWzkm9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "VE",
+    "homepage": "http://www.ula.ve/humanidades-educacion/es/estudios/e",
+    "headquarters": "Mérida, Venezuela",
+    "placeholder": true
+  }
+]

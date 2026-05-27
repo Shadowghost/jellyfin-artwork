@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Puppet Combo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258891",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iqdDVGxBCePeHhl1gh0Nm6e76P6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://puppetcombo.com/",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

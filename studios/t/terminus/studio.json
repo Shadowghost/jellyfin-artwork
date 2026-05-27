@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Terminus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96116"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

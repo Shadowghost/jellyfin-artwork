@@ -1,0 +1,13 @@
+[
+  {
+    "name": "spreadfilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199098"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

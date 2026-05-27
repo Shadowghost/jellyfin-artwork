@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Auditorium Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245729"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

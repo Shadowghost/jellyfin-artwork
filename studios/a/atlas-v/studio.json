@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Atlas V",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107266",
+        "logo_uri": "https://image.tmdb.org/t/p/original/toZMwk4TVbQPCeboN7SUV2qX3dO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://atlasv.io",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

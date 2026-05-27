@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Channel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104710"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

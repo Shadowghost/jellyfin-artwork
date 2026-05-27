@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Azerbaijanfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29866",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xT6f8MeShW56K4pNS08YL7cDwOK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SU",
+    "homepage": "http://www.azerbaijanfilm.az/",
+    "headquarters": "Baku, Azerbaijan",
+    "placeholder": true
+  }
+]

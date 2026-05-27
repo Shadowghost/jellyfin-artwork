@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmnovation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "293469",
+        "logo_uri": "https://image.tmdb.org/t/p/original/98vYESyGxTbxzwscr88fzy7ONEM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://filmnovation.com/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

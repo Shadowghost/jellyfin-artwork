@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sine Screen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8359"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

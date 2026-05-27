@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Filmayer",
+    "country": "ES",
+    "headquarters": "Madrid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4960"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Guay Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289188",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qoKoNVZXQKuqO6vETKu7VdQplfP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UY",
+    "homepage": "https://www.guayfilms.com/",
+    "headquarters": "Montevideo",
+    "placeholder": true
+  }
+]

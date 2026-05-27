@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Outside Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99675",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bpGL0FzYmZ4UFiqB3VnOs0UULXB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://outsidefilms.fr",
+    "headquarters": "Levallois-Perret",
+    "placeholder": true
+  }
+]

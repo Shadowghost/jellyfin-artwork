@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Potemkino",
+    "country": "BE",
+    "homepage": "http://www.potemkino.com/",
+    "headquarters": "Brussels",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31279",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d7yloJbuNErcYY1LbcW8u9gj8Bf.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

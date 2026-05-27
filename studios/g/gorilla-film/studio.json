@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Gorilla Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120004"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

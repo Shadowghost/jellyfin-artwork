@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hello* Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "295113"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

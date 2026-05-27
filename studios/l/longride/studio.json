@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Longride",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108243",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h790mUbjoh68TyRCwFSXAminn0g.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://longride.jp/",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

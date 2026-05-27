@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TARGO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215114",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tS1zg4Ne1VGzx5N7RCN1r8gvJNv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.targostories.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Remember Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75091"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

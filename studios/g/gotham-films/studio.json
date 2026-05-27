@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gotham Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211605",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ubpBIBSJfV6wNCnHVHo3k8jyfhe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.gotham.film/",
+    "headquarters": "Linden, New Jersey",
+    "placeholder": true
+  }
+]

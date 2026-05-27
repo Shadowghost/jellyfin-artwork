@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Star Film Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181205",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8mv1NBYsTYWpgmIC4MvQNmjETG1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ZA",
+    "homepage": "https://starfilms.tv/",
+    "headquarters": "Johannesburg",
+    "placeholder": true
+  }
+]

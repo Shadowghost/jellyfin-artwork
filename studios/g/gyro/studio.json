@@ -1,0 +1,13 @@
+[
+  {
+    "name": "GYRO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80206"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ARD Kultur",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239886"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.ardkultur.de",
+    "headquarters": "Weimar, Deutschland",
+    "placeholder": true
+  }
+]

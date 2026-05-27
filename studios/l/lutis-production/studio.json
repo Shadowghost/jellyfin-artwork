@@ -1,0 +1,13 @@
+[
+  {
+    "name": "lutis production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "227009"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

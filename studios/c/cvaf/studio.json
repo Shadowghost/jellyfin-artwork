@@ -1,0 +1,15 @@
+[
+  {
+    "name": "CVAF",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217080",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4O6j0YymwAMZPY62oV9sQ7X4EO2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

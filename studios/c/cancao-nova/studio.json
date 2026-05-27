@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Canção Nova",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "259581",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5vdv7me07WXzetDpe5EoHkAvORm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

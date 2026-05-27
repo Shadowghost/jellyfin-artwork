@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Almano Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140756",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5NQWArWKaiUbIU0MHqU2SPt7Px5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://pierrefilmon.com/almano-films/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

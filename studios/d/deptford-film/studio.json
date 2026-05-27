@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Deptford Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257788",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1xhawZrN99BMfeerXzfwAkQieqe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://deptfordfilm.co.uk",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

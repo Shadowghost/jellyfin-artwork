@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Join Motion Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96298",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nqVjp9VNzrdubGpleGzASt6fasy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IS",
+    "homepage": "https://www.jmp.is/",
+    "headquarters": "Reykjavík",
+    "placeholder": true
+  }
+]

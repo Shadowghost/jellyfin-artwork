@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SWH-Piccadilly",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131123"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

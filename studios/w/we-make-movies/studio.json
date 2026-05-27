@@ -1,0 +1,17 @@
+[
+  {
+    "name": "We Make Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91477",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iik9LzXpDPrBZh6VPwaLGfRwRPl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.wemakemovies.org/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

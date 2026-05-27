@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DigiCult",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70790",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zgbQDMxBqlN280EK3j70GYPUxsl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.digicult.co.uk/",
+    "headquarters": "Glasgow, UK",
+    "placeholder": true
+  }
+]

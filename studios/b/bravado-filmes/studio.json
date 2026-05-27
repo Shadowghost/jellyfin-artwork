@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bravado Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230090",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rJjhLBLVm0zIhdESAyCjWyH35wP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "https://bravadofilmes.com/",
+    "placeholder": true
+  }
+]

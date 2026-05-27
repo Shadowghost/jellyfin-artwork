@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gum Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30548",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fhEW7yZza3JZ4AXD9n9jsNbOXIc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IL",
+    "homepage": "http://gumfilms.com",
+    "headquarters": "Tel Aviv",
+    "placeholder": true
+  }
+]

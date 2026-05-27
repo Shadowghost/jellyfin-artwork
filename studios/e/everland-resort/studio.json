@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Everland Resort",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "235439",
+        "logo_uri": "https://image.tmdb.org/t/p/original/As8S2HpqZmth3tI8xfP7T69Ph9U.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.everland.com/gateway",
+    "headquarters": "Yongin, Gyeonggi, South Korea",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TacoTales Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171537"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

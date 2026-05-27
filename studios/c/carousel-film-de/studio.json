@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Carousel Film (DE)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234657",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yqo7Oh3WugQvZzB7AKx9XgLcaN1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.carousel-film.com",
+    "headquarters": "Potsdam",
+    "placeholder": true
+  }
+]

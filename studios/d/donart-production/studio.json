@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DonArt production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118697",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bJSOq2kj0VEjuKQ7Z0IAW88vDn5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://donart.cz/?lang=en",
+    "headquarters": "Prague, Czech Republic",
+    "placeholder": true
+  }
+]

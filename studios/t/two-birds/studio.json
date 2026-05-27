@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Two Birds",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123125"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

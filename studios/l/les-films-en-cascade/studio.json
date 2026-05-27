@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films en Cascade",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256550"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lucky Red",
+    "country": "IT",
+    "homepage": "http://www.luckyred.it",
+    "headquarters": "Rome",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "779",
+        "logo_uri": "https://image.tmdb.org/t/p/original/KFFOFoztyjV5epvnW5GerPbcvx.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

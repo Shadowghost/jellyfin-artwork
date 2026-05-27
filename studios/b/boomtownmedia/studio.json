@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BoomtownMedia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2024"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

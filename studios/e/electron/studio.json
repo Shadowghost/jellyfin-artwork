@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ELECTRON",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213861"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

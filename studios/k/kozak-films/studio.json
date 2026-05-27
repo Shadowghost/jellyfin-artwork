@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kozak Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141829",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bB8NbAbJGnIQGGRxcO0pFPZicPX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "http://kozakfilms.be",
+    "headquarters": "City of Brussels",
+    "placeholder": true
+  }
+]

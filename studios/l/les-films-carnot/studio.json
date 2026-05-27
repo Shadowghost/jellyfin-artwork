@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films Carnot",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139908"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

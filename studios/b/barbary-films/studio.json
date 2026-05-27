@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Barbary Films",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101485"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

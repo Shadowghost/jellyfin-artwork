@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Artline Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11286",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tRA2THz3uVsc5LayTeMz7fGyp65.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.artlinefilms.com/en",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

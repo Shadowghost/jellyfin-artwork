@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rare Fish Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100318",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wci7qHqf37t6BOOvaDQPwQKBxjL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.rarefishfilms.com",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

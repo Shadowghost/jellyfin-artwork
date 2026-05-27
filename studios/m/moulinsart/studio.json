@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Moulinsart",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100552",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cJUzO47XxeGZ2KHXp0SMD9zrAwn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "http://en.tintin.com",
+    "headquarters": "Brussels",
+    "placeholder": true
+  }
+]

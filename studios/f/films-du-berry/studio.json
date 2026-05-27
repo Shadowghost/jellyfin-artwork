@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Films du Berry",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "57447"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

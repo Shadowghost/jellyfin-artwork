@@ -1,0 +1,16 @@
+[
+  {
+    "name": "VENUS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155491",
+        "logo_uri": "https://image.tmdb.org/t/p/original/loBdQmy0CBiXvjAtLMxHpM32YWd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://venus-av.com",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Mimir Films",
+    "country": "US",
+    "headquarters": "Boston, Massachusetts",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199363"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

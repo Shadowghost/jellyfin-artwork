@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Eagle Vision",
+    "country": "GB",
+    "homepage": "https://www.eagle-vision.tv",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qIptM4dZBNflgv2OXzYECv8iQNH.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

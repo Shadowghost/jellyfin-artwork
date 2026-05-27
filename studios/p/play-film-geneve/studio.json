@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Play Film Geneve",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225693"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "headquarters": "Geneve",
+    "placeholder": true
+  }
+]

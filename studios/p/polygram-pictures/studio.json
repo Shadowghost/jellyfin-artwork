@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Polygram Pictures",
+    "description": "British film studio division of PolyGram, producer/distributor of films like Four Weddings and a Funeral, Trainspotting, and Fargo; absorbed into Universal Studios in 1999.",
+    "country": "GB",
+    "type": "studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258233"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "PolyGram Filmed Entertainment"
+    ],
+    "template": true
+  }
+]

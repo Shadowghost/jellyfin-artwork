@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hypatude",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "263025",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tDnQIpQdIjeqBpuIp8Zor0mxL0i.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://hypatude.com/",
+    "headquarters": "Atlanta, Georgia",
+    "placeholder": true
+  }
+]

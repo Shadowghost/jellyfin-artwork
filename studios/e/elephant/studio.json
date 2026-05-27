@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Elephant",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23075",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9PGhFLert9zO5wm7oiZGzpIXRyK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.elephant-groupe.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

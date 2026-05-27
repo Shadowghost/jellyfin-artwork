@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Houbunsha",
+    "country": "JP",
+    "homepage": "http://www.houbunsha.co.jp/",
+    "headquarters": "Bunkyo, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22597",
+        "logo_uri": "https://image.tmdb.org/t/p/original/neo38FzewK5I1ilLOQyPOKseRWS.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

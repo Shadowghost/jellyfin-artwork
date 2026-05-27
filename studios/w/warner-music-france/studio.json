@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Warner Music France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95088",
+        "logo_uri": "https://image.tmdb.org/t/p/original/grsYkiJSktvdYgNw7BAlF6wF8Kk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.warnermusic.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

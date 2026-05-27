@@ -1,0 +1,17 @@
+[
+  {
+    "name": "M-Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125631",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j7Y1AqFzV7uIQP6vjdONVwW0ZTd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://m-production.tv/",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

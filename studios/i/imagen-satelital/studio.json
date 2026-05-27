@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Imagen Satelital",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93509"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

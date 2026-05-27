@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Golden Mean",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1867",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j5HFzFmRrjOEpJg6jySl9z2QfLm.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

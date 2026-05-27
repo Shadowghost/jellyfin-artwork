@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tic Tac prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185669"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

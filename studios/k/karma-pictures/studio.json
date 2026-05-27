@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Karma Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36058"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

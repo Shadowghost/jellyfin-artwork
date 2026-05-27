@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinema Three",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8004"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

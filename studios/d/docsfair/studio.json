@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DOCSFAIR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205310",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6743Pg05Mnq3dxpD3MNwp8lsnMH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://docsfair.nl/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

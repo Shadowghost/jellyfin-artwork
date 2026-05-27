@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine.Ar",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40840"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

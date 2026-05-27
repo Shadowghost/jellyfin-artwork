@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Archer Gray",
+    "country": "US",
+    "homepage": "http://www.archergray.com",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41640",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e1naE79Djln19oDgMsP3uuvLbTq.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

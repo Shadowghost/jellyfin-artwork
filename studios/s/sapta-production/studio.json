@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sapta production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "291580"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

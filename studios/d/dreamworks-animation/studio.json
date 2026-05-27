@@ -1,0 +1,32 @@
+[
+  {
+    "name": "DreamWorks Animation",
+    "description": "American animation studio and a subsidiary of Universal Pictures (NBCUniversal); known for Shrek, Kung Fu Panda, How to Train Your Dragon.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "https://www.dreamworks.com/movies",
+    "headquarters": "Glendale, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "521",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3BPX5VGBov8SDqTV7wC1L1xShAS.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

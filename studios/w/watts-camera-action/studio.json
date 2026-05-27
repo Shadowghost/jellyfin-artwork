@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Watts Camera Action",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105157"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Empire Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240004",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rZfx6DVrjWrNZGOH7g2qZRY4zzj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AE",
+    "homepage": "https://www.empiremena.com/",
+    "headquarters": "Al Wasl - Dubai",
+    "placeholder": true
+  }
+]

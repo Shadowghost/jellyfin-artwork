@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Film studio \"Theorem\"",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105190",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9UhO18FxVUgfgplxKyIIoiUqwKz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "headquarters": "Russia, Moscow",
+    "placeholder": true
+  }
+]

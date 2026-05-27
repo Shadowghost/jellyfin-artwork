@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Fangoria",
+    "description": "Long-running American horror-genre magazine and multimedia brand covering horror, fantasy and sci-fi films, with related podcasts, home video releases and original productions.",
+    "country": "US",
+    "type": "publisher",
+    "homepage": "http://www.fangoria.com",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53472",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o8znB0tc9qvtdQLC0GauSZzUgXs.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

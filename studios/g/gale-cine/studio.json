@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gale Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139051",
+        "logo_uri": "https://image.tmdb.org/t/p/original/chW6yXqpFh6cbf6dT0MwiHyKymk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://www.galecine.com/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

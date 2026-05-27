@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rosso Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128096",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AiBaUjpUFP2A0UmkTINeq6XfYI0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.rossofilm.com/",
+    "headquarters": "Milan",
+    "placeholder": true
+  }
+]

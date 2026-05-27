@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mad Dog Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109971",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oTBxQc7DZBiO6AXLdPQDWsQuZYb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://maddogmovies.com",
+    "placeholder": true
+  }
+]

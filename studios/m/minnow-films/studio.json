@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Minnow Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35177",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3QcZMjZRSqmaNkf0vFm49OhK6bA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://minnowfilms.co.uk/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

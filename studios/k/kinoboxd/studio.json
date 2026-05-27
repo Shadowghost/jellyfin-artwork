@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kinoboxd",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198202"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

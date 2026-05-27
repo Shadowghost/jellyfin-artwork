@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LightLine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "236065"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

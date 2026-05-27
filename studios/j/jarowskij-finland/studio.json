@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jarowskij Finland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120036",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3nZz3QND7nowLSVBl7eEgqrxW2Q.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://jarowskij.fi",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

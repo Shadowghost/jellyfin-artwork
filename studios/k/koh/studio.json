@@ -1,0 +1,14 @@
+[
+  {
+    "name": "KOH",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19479"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

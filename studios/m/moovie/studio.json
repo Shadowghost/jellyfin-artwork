@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Moovie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://constantin.film/unternehmen/moovie",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Muthu Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27427"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

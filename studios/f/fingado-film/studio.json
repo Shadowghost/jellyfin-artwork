@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fingado-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214321",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5ibXoslkbarThNLGw4VxHAnyDef.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.fingado.de/",
+    "headquarters": "Mannheim",
+    "placeholder": true
+  }
+]

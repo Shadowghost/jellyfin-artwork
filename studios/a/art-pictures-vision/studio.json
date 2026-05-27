@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Art Pictures Vision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106359",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fEZznwNY0uFhJWC0zGG1axJM1UG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://vision.art-pictures.ru/en/",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

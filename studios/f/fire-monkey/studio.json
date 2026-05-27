@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fire Monkey",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128887",
+        "logo_uri": "https://image.tmdb.org/t/p/original/etbcmnyCQbzfd5qtBazO1faEhUp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://www.firemonkey.tv/",
+    "headquarters": "Helsinki, Finland",
+    "placeholder": true
+  }
+]

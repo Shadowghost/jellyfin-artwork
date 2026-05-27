@@ -1,0 +1,13 @@
+[
+  {
+    "name": "East Time Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129996"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

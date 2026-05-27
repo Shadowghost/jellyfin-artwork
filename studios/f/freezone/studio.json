@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FreeZone",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159301"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

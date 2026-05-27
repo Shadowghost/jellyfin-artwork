@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Orbisflix Animation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202977",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i0q3T515AT5Y96wwbjnGGKeUqOo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.orbisflix.com",
+    "headquarters": "New York",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Videoreme",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100067"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

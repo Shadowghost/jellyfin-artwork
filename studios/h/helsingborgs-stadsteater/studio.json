@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Helsingborgs Stadsteater",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210506",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mu216BcUTAqKop0xQEMrjDP9Wnh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://helsingborgsstadsteater.se/",
+    "headquarters": "Helsingborg",
+    "placeholder": true
+  }
+]

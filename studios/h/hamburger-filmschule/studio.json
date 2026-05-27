@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hamburger Filmschule",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8a71Y2PZAoYEz70C5tULJU6ex97.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.filmschule-hamburg-berlin.de/",
+    "headquarters": "Berlin, Germany",
+    "placeholder": true
+  }
+]

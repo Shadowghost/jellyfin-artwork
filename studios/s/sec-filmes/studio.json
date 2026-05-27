@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SEC Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "261074"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

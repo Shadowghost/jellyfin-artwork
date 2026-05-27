@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ABC Nyheter",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103634",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oCxb2Gwu3niYnbc5hNiaTtwg72c.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.abcnyheter.no/",
+    "placeholder": true
+  }
+]

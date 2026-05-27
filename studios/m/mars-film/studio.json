@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mars Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23123",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cEqVIluQuO1ubtID8RvOem4ZiIg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.marsfilms.com",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

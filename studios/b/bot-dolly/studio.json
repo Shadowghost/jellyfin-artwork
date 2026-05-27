@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bot & Dolly",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101162"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

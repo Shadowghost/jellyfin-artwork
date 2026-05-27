@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Films Selectos",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90151"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

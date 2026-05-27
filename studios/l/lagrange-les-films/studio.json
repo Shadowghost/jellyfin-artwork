@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lagrange Les Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110003"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kinopravda",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96760"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

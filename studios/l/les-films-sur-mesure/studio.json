@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Les Films sur Mesure",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106056"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.lesfilmssurmesure.com/",
+    "placeholder": true
+  }
+]

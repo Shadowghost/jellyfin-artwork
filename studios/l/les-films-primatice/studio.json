@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films Primatice",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123774",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yKE4XMUaL1Hl6pzosi9iX3nTEv8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://lesfilmsprimatice.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

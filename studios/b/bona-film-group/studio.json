@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Bona Film Group",
+    "description": "Chinese film distributor and producer based in Beijing, one of the largest privately owned film distributors in China.",
+    "country": "CN",
+    "type": "production-company",
+    "homepage": "http://www.bonafilm.cn",
+    "headquarters": "Beijing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30148",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zerhOenUD6CkH8SMgZUhrDkOs4w.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

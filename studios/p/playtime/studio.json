@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Playtime",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20881",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aRg88mjuN2S5yfv2zajifrQ7Oug.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://playtime.group",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

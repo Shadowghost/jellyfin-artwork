@@ -1,0 +1,13 @@
+[
+  {
+    "name": "atom.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91500"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

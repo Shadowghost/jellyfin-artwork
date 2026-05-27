@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Keeper Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205539",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eaSWKgjxtvdtlPubswPJkEDY5Vy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "https://keeperpictures.ie/",
+    "headquarters": "Dublin",
+    "placeholder": true
+  }
+]

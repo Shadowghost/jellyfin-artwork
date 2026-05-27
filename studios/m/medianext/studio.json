@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Medianext",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "132749",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pcEPDSUy5Ygj0j5zM8R69tUdX2K.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.medianext.co",
+    "headquarters": "Bruxelles",
+    "placeholder": true
+  }
+]

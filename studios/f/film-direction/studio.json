@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Direction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3423"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

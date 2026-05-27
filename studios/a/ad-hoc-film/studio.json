@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ad'Hoc Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272650",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v0waEMKv7KMdcJbiLclqpS206Zd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://adhocfilms.com",
+    "placeholder": true
+  }
+]

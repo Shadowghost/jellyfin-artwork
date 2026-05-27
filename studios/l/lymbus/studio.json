@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lymbus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105915"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.lymbus.com/en/",
+    "headquarters": "Barcelona",
+    "placeholder": true
+  }
+]

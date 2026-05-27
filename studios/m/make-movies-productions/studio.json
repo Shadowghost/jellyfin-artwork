@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Make Movies Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256384"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

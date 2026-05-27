@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kelvinfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174339",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uTsxZmtgS5xYbOPqRLNPPNfxPjS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://kelvinfilm.com/",
+    "headquarters": "Wiesbaden",
+    "placeholder": true
+  }
+]

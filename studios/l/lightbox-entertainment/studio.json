@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lightbox Entertainment",
+    "country": "GB",
+    "homepage": "https://www.lightboxent.com/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15285",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wvM3yt9OZwmAYzYWE4RWn45eZeh.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

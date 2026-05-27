@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmes Artísticos Brasileiros (FAB)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285630"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

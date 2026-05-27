@@ -1,0 +1,13 @@
+[
+  {
+    "name": "M-build",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229190"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

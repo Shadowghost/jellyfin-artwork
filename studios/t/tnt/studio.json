@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TNT",
+    "country": "RU",
+    "homepage": "https://tnt-online.ru/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82340",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dj89PnCx2Pt7vAE3Fp7n54vvmOt.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

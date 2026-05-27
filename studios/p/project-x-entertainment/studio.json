@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Project X Entertainment",
+    "country": "US",
+    "homepage": "https://www.projectxentertainment.com",
+    "headquarters": "North Hollywood, Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130448",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yHWTTGKbOGZKUd1cp6l3uLyDeiv.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

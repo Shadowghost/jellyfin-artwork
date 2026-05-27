@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Departures Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24769"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.departuresfilm.de",
+    "headquarters": "Leipzig",
+    "placeholder": true
+  }
+]

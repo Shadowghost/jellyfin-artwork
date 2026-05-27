@@ -1,0 +1,13 @@
+[
+  {
+    "name": "korjata films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90005"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

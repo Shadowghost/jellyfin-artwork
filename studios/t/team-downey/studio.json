@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Team Downey",
+    "country": "US",
+    "homepage": "http://teamdowney.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27467",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xYus2VP8xXlaZ4KSBDVGltoEnuP.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

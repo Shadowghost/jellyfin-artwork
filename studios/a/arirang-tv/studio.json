@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Arirang TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128984",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vgNHBIzLcnrUUNcQmk9EarvP04I.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.arirang.com/index.asp",
+    "headquarters": "Seocho, Seoul, South Korea",
+    "placeholder": true
+  }
+]

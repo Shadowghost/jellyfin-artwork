@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Dropshack",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231299"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

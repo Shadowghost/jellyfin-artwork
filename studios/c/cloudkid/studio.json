@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CloudKid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53561",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c0NG15NJozlC8jy9XgcQQsI0GVb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://cloudkid.com",
+    "headquarters": "Boston, Massachusetts",
+    "placeholder": true
+  }
+]

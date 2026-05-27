@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Prescribed Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81325"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Blinkside",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103293",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kTLxCsoijGiTsrhSJHIPiZ8tMQY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "http://blinkside.com/",
+    "headquarters": "Brussels",
+    "placeholder": true
+  }
+]

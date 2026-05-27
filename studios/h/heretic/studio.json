@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Heretic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76888",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eQzzrPMtHbgAxKgQysFH73mHaHF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GR",
+    "homepage": "http://heretic.gr/",
+    "headquarters": "Athens",
+    "placeholder": true
+  }
+]

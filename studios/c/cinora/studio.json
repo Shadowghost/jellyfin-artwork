@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinora",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240840",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6AXAlhdfeZoSzCVOa89YAK1xDrR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.cinorafilms.com/",
+    "headquarters": "Glasgow",
+    "placeholder": true
+  }
+]

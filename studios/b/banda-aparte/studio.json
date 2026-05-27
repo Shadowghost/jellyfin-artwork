@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Banda Aparte",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189398",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4fUqmno4ZjiQAMUbOVfscGth5kM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://bandaaparte.com/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Red King Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185791",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jsBxMl66fEOeI192yaWVB8azROc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://redkingcinema.com/",
+    "headquarters": "Boston, Massachusetts",
+    "placeholder": true
+  }
+]

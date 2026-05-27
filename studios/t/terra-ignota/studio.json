@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Terra Ignota",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168800",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pVYuH55at1tfB8iKpuveiyusLlg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.terraignota.es/",
+    "placeholder": true
+  }
+]

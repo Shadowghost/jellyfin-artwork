@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NCM production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241087"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

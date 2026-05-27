@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BBC News Arabic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180955"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

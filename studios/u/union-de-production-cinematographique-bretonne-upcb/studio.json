@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Union de Production Cinématographique Bretonne (UPCB)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171898",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2WyAQVOqTX4c3j0JJA2JvQJzCCF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "France",
+    "placeholder": true
+  }
+]

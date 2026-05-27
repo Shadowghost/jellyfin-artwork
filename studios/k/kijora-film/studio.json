@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kijora Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111896",
+        "logo_uri": "https://image.tmdb.org/t/p/original/y6yKNYlGCucATEjqMBe8YRTs8hv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://kijorafilm.com/en",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

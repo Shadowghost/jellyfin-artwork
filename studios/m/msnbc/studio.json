@@ -1,0 +1,36 @@
+[
+  {
+    "name": "MSNBC",
+    "description": "American news-based cable television channel headquartered in New York City, owned by NBCUniversal.",
+    "country": "US",
+    "type": "news",
+    "colors": [
+      {
+        "name": "MSNBC Blue",
+        "hex": "#1A1C7C"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3087",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kTBWIEtcZXvV3BY89TSxNi233a6.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

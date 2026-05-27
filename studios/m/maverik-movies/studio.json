@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Maverik Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258034"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

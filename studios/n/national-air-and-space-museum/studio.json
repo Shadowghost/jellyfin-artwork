@@ -1,0 +1,17 @@
+[
+  {
+    "name": "National Air and Space Museum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53511",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h5fU156cpPCSbbJt1NP5E1Fro7f.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://airandspace.si.edu/",
+    "headquarters": "Washington, D.C.",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Råsalt",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131445",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eIAbYb52IMINNiyoDJWnYuXFEua.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.raasalt.no/",
+    "headquarters": "Son",
+    "placeholder": true
+  }
+]

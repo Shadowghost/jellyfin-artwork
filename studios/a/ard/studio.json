@@ -1,0 +1,39 @@
+[
+  {
+    "name": "ARD",
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "imdb",
+        "id": "co0844218"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "1251",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fc0O0mvjl8PbHgZXXY2VgPYos1Z.png"
+      },
+      {
+        "provider_name": "tvdb",
+        "id": "5044"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "ard",
+    "template": true,
+    "homepage": "http://www.ard.de",
+    "headquarters": "Berlin"
+  }
+]

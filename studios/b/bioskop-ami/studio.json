@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bioskop AMI",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "253496"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

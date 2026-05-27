@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Django Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3659",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f3JAZMtnai5X1LOWJncKPDeYsFQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://web.archive.org/web/20100220130746/http://www.djangofilms.co.uk:80/",
+    "headquarters": "Edinburgh",
+    "placeholder": true
+  }
+]

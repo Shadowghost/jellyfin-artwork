@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Clube Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82389",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hLGYG6G4OcUiYCUSmWIoSrRZO8a.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.clubefilmes.com.br/",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

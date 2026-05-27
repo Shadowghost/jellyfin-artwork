@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TV Globo Pernambuco",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201057",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dAAhmvzBoo7TwK4I3Q0XUOmG9qV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://redeglobo.globo.com/globonordeste/",
+    "headquarters": "Recife, Pernambuco",
+    "placeholder": true
+  }
+]

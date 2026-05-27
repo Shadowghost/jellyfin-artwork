@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Krma Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234755"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

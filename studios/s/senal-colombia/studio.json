@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Señal Colombia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80945",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r3TqgJhg0HBcKAY17j29RtDqnI4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CO",
+    "homepage": "http://www.senalcolombia.tv/",
+    "headquarters": "Bogotá, Colombia",
+    "placeholder": true
+  }
+]

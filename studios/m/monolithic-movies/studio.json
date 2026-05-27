@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Monolithic Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217930"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

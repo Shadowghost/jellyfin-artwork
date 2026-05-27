@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Clip Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274003"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

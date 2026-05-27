@@ -1,0 +1,15 @@
+[
+  {
+    "name": "ABC Signature UK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264123",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k9gwg5cVwF4E3Ly6F6IZNHp7PiT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

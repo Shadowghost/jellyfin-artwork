@@ -1,0 +1,16 @@
+[
+  {
+    "name": "First Street Films",
+    "country": "US",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121938",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hHbC6ZY9I0Tq2JmOR2fCAx3SyKq.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

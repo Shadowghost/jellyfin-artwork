@@ -1,0 +1,29 @@
+[
+  {
+    "name": "A3",
+    "country": "JP",
+    "homepage": "http://athree3.hippy.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162013",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lvkmJtgRedjSR3zwcSmrxWdgXcD.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

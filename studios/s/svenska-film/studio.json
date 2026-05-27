@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Svenska Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45911"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

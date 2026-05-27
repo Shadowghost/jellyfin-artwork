@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Sky One",
+    "description": "British pay television channel operated by Sky Group; replaced by Sky Max and Sky Showcase in September 2021.",
+    "country": "FR",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81890"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

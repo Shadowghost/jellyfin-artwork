@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Virginie Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85847",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e5brfizcQEVxH2Y5lyuoSZcKx5m.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://virginiefilms.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Télé-Québec",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20498",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f1IuC7TbBHlNHybw2TZn5R1p4sx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.telequebec.tv/",
+    "placeholder": true
+  }
+]

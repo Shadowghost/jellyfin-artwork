@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Mutant Enemy Productions",
+    "description": "American television production company founded by Joss Whedon, producer of Buffy the Vampire Slayer, Angel, Firefly, Dollhouse, and Dr. Horrible's Sing-Along Blog.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10567",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kbZu62C3ZwNfOtao1ECIFTzL40Q.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

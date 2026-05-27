@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Murugan Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151017"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

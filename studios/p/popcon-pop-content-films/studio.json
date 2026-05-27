@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Popcon - Pop Content Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240492",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d1jVUnNfpOHmktoFCcb59y5QUW1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.popcon.tv",
+    "placeholder": true
+  }
+]

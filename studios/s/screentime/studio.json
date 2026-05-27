@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Screentime",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4467",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l22NNXVbJWLQBYyhaQMZasdtSub.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "http://www.screentime.com.au/",
+    "headquarters": "Crows Nest, New South Wales",
+    "placeholder": true
+  }
+]

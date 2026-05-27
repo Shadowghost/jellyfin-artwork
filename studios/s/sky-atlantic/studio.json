@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Sky Atlantic",
+    "description": "British and Irish pay television channel owned by Sky Group (Comcast); home of premium scripted drama with first-run HBO and Sky Original programming.",
+    "country": "GB",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19900",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d0XIDlNE9VehIRscGcEVatg3gfW.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

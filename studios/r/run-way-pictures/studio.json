@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Run Way Pictures",
+    "country": "DE",
+    "headquarters": "Hamburg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "228176",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jC75omwMYPF6hq5bJzXkg15Wf8b.png"
+      }
+    ],
+    "artwork": {},
+    "homepage": "http://runwaypictures.de/",
+    "placeholder": true
+  }
+]

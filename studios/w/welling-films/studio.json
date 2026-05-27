@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Welling Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100653",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1Xue6PHfRO0PtUOEfpDseV1mELB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.wellingfilms.com/",
+    "placeholder": true
+  }
+]

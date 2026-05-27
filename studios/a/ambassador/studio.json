@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ambassador",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83202"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

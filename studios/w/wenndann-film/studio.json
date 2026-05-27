@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WennDann Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271905",
+        "logo_uri": "https://image.tmdb.org/t/p/original/GCwiepfhWdPgIglMixS7JX3HAA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.wenndann-film.de/",
+    "headquarters": "Munich, Bavaria",
+    "placeholder": true
+  }
+]

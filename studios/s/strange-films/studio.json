@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Strange Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134000"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

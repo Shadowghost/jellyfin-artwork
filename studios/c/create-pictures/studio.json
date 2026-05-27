@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Create Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158730"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

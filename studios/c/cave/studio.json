@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cave",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4668",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wI9tnCc4DbBIJKpQw70OLzuUcYv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.cave.co.jp/",
+    "placeholder": true
+  }
+]

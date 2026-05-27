@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Club Vidéo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168079",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xyM9U3ULd0t6LqwNzjGQuQWMeIq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Monk Studios",
+    "country": "TH",
+    "homepage": "https://www.themonkstudio.com/",
+    "headquarters": "Bangkok",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110539",
+        "logo_uri": "https://image.tmdb.org/t/p/original/57USdIAM7wevIRCp7CIhjjBIXCf.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

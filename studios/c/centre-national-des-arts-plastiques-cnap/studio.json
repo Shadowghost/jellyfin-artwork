@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Centre National des Arts Plastiques (CNAP)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93404"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.cnap.fr/",
+    "placeholder": true
+  }
+]

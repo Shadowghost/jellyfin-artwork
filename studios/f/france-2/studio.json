@@ -1,0 +1,35 @@
+[
+  {
+    "name": "France 2",
+    "providers": [
+      {
+        "provider_name": "tvdb",
+        "id": "105"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "254533"
+      },
+      {
+        "provider_name": "imdb",
+        "id": "co0011107"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "france-2",
+    "template": true
+  }
+]

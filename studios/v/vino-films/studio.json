@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Vino Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202502"
+      }
+    ],
+    "artwork": {},
+    "country": "LV",
+    "placeholder": true
+  }
+]

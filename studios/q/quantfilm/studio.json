@@ -1,0 +1,13 @@
+[
+  {
+    "name": "QuantFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "190254"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

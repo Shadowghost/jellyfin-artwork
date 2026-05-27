@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les Films Jacques Leitienne",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1639"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

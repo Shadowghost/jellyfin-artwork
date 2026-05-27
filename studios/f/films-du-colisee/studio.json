@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Films du Colisée",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117272"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

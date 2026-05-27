@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les films du zèbre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155025"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

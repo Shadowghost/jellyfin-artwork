@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MBC PLUS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196561",
+        "logo_uri": "https://image.tmdb.org/t/p/original/19rgwgfkUXvIOPjFeZQnbXJAYxK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.mbcplus.com/web/index.do",
+    "headquarters": "Goyang, Gyeonggi",
+    "placeholder": true
+  }
+]

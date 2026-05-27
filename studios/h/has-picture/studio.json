@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Has Picture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283352"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

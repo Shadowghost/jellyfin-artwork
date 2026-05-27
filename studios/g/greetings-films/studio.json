@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Greetings Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201915"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

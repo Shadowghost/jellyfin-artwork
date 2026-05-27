@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nelka Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7132",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zjDOpBHqaJsRXlxM2bFCLt4P62k.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.nelkafilms.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

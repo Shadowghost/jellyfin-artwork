@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wasa Teater",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262330",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9l47Cju7Spza8lPbWxfke426BES.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://www.wasateater.fi/",
+    "headquarters": "Vasa",
+    "placeholder": true
+  }
+]

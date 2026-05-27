@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KOZA Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "206014",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mtP1QsyUfMVYdXCKlbMFpcKlxpe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.kozafilm.com/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

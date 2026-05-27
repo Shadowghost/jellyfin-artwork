@@ -1,0 +1,14 @@
+[
+  {
+    "name": "West Film",
+    "country": "IT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4241"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

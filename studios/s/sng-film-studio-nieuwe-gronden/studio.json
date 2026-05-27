@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SNG Film (Studio Nieuwe Gronden)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "43565",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hNAOu2cYkKP0S0BTKaGoKmp93om.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.sngfilm.nl",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

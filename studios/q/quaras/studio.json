@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Quaras",
+    "country": "JP",
+    "homepage": "https://quaras.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22715",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c4d6GLfUXbp44dbWWJqWCh7YrnO.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

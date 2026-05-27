@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dazed",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210362",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4Vmhr0KRZtzmHHmVpoKCebS5I0w.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://dazed.co.jp/",
+    "headquarters": "Bunkyo, Tokyo",
+    "placeholder": true
+  }
+]

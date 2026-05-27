@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Rhein-Main-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256962"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Mainz",
+    "placeholder": true
+  }
+]

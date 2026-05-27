@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Migu Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196249",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mdbeDIOdSyjjXq810dT0dzvTs4N.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://www.miguvideo.com/",
+    "headquarters": "Shanghai",
+    "placeholder": true
+  }
+]

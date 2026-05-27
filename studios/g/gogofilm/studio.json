@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GoGoFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233743",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nlAqADCZ6NbKQ5JbSOv2nvx0onY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.gogofilm.eu/",
+    "headquarters": "Rotterdam",
+    "placeholder": true
+  }
+]

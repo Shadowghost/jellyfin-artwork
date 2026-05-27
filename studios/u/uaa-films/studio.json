@@ -1,0 +1,14 @@
+[
+  {
+    "name": "UAA Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22040"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Juniper Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249087"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Millet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198240",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hjFDCFHhADvAA9WGje166bwpnXx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.millet.com",
+    "headquarters": "Millet, 43 Rue de Saint-Pétersbourg, 75008 Paris, France",
+    "placeholder": true
+  }
+]

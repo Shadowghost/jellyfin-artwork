@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Flatbush Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22864",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iZDWvFvCniw0NfmpF9gkRE2IUwr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://flatbushpictures.com",
+    "placeholder": true
+  }
+]

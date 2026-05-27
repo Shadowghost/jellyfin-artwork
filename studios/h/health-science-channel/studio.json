@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Health & Science Channel",
+    "description": "American cable television channel focused on health and science content, often associated with Discovery Networks lineage.",
+    "country": "US",
+    "type": "cable-network",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

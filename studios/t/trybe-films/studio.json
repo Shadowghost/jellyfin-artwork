@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Trybe Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135524"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

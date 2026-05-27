@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Willow production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240589"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Step 1 Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124377",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bH5x6hKJEAIw85te7d4FPMCRd0v.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.step1films.com",
+    "headquarters": "Bozeman, Montana",
+    "placeholder": true
+  }
+]

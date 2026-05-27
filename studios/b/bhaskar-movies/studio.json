@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bhaskar Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240739"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

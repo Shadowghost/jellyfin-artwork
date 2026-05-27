@@ -1,0 +1,14 @@
+[
+  {
+    "name": "M.P. Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12737"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

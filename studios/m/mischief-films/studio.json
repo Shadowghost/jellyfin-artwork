@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mischief Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16265",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lIWIuL87nLRgaLQss0NUBbuzjsu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "http://www.mischief-films.com/?lang=en",
+    "headquarters": "Vienna",
+    "placeholder": true
+  }
+]

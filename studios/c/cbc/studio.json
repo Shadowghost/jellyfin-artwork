@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CBC",
+    "country": "CA",
+    "homepage": "http://www.cbc.ca",
+    "headquarters": "Ottawa, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12113",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lwnLVleFG0sRAYBq5IObgN30r9F.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

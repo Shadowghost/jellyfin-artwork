@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LANG-FILM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169701"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

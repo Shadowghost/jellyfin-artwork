@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Spider Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12104"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "homepage": "http://www.spidergroup.ro/film/",
+    "placeholder": true
+  }
+]

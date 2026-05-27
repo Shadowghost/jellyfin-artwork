@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kataskop Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60939",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1hmNyQn7PXChwxg4bidWDPnIeIK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://kataskop.tumblr.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

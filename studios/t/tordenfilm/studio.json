@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tordenfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11034"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://tordenfilm.no",
+    "headquarters": "Oslo",
+    "placeholder": true
+  }
+]

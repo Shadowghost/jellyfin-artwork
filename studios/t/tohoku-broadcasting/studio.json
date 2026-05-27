@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Tohoku Broadcasting",
+    "description": "Japanese radio and television broadcaster based in Sendai, Miyagi Prefecture, affiliated with the Japan News Network (JNN).",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.tbc-sendai.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129526",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6oIE2LmtONObnw5wtFO4IIXwgkb.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

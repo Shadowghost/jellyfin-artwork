@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FilmCamp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23682",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9jnd0qJk7Y7htlblxBCyhWBouGg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "http://www.filmcamp.no/",
+    "headquarters": "Øverbygd",
+    "placeholder": true
+  }
+]

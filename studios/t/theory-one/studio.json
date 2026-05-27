@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Theory One",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216092",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bJOMmLSxDLq4ch1GS19J9RBoq8w.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.theory.one/",
+    "headquarters": "New York, New York, USA",
+    "placeholder": true
+  }
+]

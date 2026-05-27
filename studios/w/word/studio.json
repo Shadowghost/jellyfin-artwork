@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Word",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116672"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

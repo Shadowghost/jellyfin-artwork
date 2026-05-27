@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rakett TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145440",
+        "logo_uri": "https://image.tmdb.org/t/p/original/15P8WFFoLceZg1xbaHqDec7Ezbv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://bergehustv.no/",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

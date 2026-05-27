@@ -1,0 +1,16 @@
+[
+  {
+    "name": "RTL Sports",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260472",
+        "logo_uri": "https://image.tmdb.org/t/p/original/26kxZmvpiG8BvhmHurLmGHXizAI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "http://rtl.be",
+    "placeholder": true
+  }
+]

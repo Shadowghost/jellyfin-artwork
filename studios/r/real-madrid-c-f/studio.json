@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Real Madrid C.F.",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194701"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.realmadrid.com",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

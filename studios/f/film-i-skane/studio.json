@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film i Skåne",
+    "country": "SE",
+    "homepage": "https://www.filmiskane.se/",
+    "headquarters": "Ystad",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12477",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tuREvnCzrM5sNXyrKRFCyB1gHF8.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

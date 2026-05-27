@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Narrator",
+    "country": "US",
+    "homepage": "https://www.nr8r.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120268",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iv31nXw6IoA4ydUYVIHSYP4RL2T.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

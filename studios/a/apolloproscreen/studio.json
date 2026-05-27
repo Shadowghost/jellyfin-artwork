@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ApolloProScreen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "992"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

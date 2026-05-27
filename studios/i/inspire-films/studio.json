@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Inspire Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112662",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5sADvb6M5G5rfaY1qN5IMRiSbGK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "homepage": "http://www.beyonddreamsgroup.com/inspire.php",
+    "headquarters": "Mumbai, India",
+    "placeholder": true
+  }
+]

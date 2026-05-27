@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Dynamo Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97150",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qDnll08LDVSOfloHuiiaDpha0bm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.dynamoproduction.fr",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BrownBag Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202962",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9BypjKOXGSteafJjp1B4hb5uZ3I.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.brownbagpictures.com/",
+    "placeholder": true
+  }
+]

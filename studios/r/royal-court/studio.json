@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Royal Court",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123082"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

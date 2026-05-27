@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Promocine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131061",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c125X2XIJOaxg9jF9Lxz6T4PEr9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "https://www.promocine.cl/index-en",
+    "headquarters": "Quilicura, Santiago",
+    "placeholder": true
+  }
+]

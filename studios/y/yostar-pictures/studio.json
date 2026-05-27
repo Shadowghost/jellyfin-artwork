@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Yostar Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140087",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lFPM7FXipY4ivUDxsdhrUozNtm8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://yostar-pictures.co.jp/",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

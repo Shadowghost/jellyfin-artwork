@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Color of May",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92322",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ezPPk22UTiFPiCWa1t5wQ6aVp1X.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.colorofmay.com/",
+    "headquarters": "Köln",
+    "placeholder": true
+  }
+]

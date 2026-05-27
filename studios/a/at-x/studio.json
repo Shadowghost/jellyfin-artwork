@@ -1,0 +1,37 @@
+[
+  {
+    "name": "AT-X",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tvdb",
+        "id": "433"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "17981",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8UABNMysukRi4udTHYxcNUMbPR1.png"
+      },
+      {
+        "provider_name": "imdb",
+        "id": "co0035005"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "at-x",
+    "template": true
+  }
+]

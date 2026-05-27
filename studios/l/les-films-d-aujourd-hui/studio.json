@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films d'aujourd'hui",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208163"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

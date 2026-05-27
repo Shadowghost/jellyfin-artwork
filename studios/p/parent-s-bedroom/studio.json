@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Parent's BedRoom",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114897"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

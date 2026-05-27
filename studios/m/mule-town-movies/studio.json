@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mule Town Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55832"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

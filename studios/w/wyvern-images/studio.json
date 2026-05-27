@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Wyvern Images",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102117"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

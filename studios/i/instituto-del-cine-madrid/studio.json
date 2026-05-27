@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Instituto del Cine Madrid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "136517",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uZWLGLR5VW4pG8joGkfjpVVexZJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.institutodelcine.es",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

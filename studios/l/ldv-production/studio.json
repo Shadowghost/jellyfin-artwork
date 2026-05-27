@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LDV Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202330"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BerlinMale",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187801"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

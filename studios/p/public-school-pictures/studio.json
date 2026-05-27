@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Public School Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177091",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1bWWoXjZ0RLCOpl5DlUJnsIOcon.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://publicschoolpictures.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

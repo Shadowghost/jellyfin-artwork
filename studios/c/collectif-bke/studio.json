@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Collectif BKE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121492",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x30YpIwo0CYNzi2R7PGBSJgqkTg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://collectifbke.com/",
+    "headquarters": "Evry",
+    "placeholder": true
+  }
+]

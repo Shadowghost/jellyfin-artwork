@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Achtung Panda!",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101048",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vu94yzhSUKmRpmmFBrEWdvDJd25.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://achtungpanda.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

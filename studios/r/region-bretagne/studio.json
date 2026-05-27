@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Région Bretagne",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20346",
+        "logo_uri": "https://image.tmdb.org/t/p/original/UQrxBqPABvkwempcU9kvOjksVU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.bretagne.bzh/",
+    "headquarters": "283 avenue du Général Patton 35000 Rennes",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NRK Underholdning",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "136211",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eCyl1d2W17JDtia4o7mPB3tEWs2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.nrk.no/kultur/_nrkunderholdning-1.15155238",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

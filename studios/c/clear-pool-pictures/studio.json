@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Clear Pool Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "263139"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

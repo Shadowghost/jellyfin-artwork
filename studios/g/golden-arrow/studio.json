@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Golden Arrow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129001"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "placeholder": true
+  }
+]

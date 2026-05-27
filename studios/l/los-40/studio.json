@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Los 40",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137986",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tPx1I3sbMseQ0Uv8Lc2bCqBVQIQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://los40.com/",
+    "headquarters": "Madrid, Spain",
+    "placeholder": true
+  }
+]

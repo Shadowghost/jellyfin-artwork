@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Black Orange",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6600",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qVrqlp2W9Sjit1WMBtyH0zh7dNG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GR",
+    "homepage": "https://blackorange.gr",
+    "headquarters": "Athens",
+    "placeholder": true
+  }
+]

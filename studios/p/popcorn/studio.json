@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Popcorn",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210740"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

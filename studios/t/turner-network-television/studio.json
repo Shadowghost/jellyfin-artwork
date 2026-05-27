@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Turner Network Television",
+    "country": "US",
+    "homepage": "https://www.tntdrama.com",
+    "headquarters": "Atlanta, Georgia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "678",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AbIc38dGx4b8dhKS7oeRL6aXFDv.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

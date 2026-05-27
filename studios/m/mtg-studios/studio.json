@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MTG Studios",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105670",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1fLxrN5lOcZ35jJH9pXNx319KGJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.mtg.com/mtg-studios/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

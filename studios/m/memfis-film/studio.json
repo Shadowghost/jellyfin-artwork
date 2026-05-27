@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Memfis Film",
+    "country": "SE",
+    "homepage": "http://memfis.se/",
+    "headquarters": "Stockholm, Sweden",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "321",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pfp6VWF3tYfOHHVRHpYe2iGcYrf.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

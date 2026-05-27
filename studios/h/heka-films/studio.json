@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Heka Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256222"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

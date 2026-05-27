@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Restart",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83800",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qAIl2gCsGw3jnMbE6lGaHex7jie.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HR",
+    "homepage": "https://restarted.hr/en/",
+    "headquarters": "Zagreb",
+    "placeholder": true
+  }
+]

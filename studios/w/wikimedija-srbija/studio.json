@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Wikimedija Srbija",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211200"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "placeholder": true
+  }
+]

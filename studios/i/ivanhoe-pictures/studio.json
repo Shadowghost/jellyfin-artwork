@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Ivanhoe Pictures",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107897",
+        "logo_uri": "https://image.tmdb.org/t/p/original/etLApUoJoD853bluxamsZOLlWII.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Giallo Limone Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201525"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

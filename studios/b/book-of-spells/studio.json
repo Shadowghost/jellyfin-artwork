@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Book of Spells",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215372"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

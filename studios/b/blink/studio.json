@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Blink",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230469",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vvA91WkbtkalQi7QgbPteJWKy3l.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.blink-inc.com",
+    "headquarters": "Burbank, California",
+    "placeholder": true
+  }
+]

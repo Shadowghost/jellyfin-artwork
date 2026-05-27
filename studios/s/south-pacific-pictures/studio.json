@@ -1,0 +1,16 @@
+[
+  {
+    "name": "South Pacific Pictures",
+    "country": "NZ",
+    "homepage": "http://southpacificpictures.com",
+    "headquarters": "Henderson, Auckland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "654"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Isabelle Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7001"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

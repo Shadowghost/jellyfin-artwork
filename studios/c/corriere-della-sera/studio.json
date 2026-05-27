@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Corriere della Sera",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180936"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

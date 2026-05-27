@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Afromovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71036"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

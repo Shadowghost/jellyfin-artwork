@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kinocenter",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "206223"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

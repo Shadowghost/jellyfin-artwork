@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Wrap Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "298675"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

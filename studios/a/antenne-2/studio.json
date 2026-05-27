@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Antenne 2",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1117",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2X2uFeObxawiAajNDOf3Mhri5Wg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

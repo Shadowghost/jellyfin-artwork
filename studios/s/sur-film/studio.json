@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sur Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223013",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vhbzPCBcm6CAAdtYEmI1ejF44mY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.sur-film.com",
+    "headquarters": "Santa Cruz de Tenerife, Canary Islands",
+    "placeholder": true
+  }
+]

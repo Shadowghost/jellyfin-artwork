@@ -1,0 +1,17 @@
+[
+  {
+    "name": "3dot Productions",
+    "country": "US",
+    "homepage": "https://3dotproductions.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123420",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hljaOO48h8RAnB6vsVyQ65DFkGP.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

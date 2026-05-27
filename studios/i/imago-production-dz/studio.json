@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Imago production (DZ)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177535",
+        "logo_uri": "https://image.tmdb.org/t/p/original/klfWAweT5KKqyq6TyIiWHsBVeVo.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

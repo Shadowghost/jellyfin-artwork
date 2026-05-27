@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ITV Entertainment",
+    "country": "US",
+    "homepage": "http://itv-entertainment.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167492",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zJ5S0vMbA6xfi0xGhOir8NIZmbd.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

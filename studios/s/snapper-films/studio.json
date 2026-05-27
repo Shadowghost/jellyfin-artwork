@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Snapper Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51995",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qTP8gSLNfzPJJ3D24wVA8IwOrBX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "http://snapperfilms.com",
+    "headquarters": "Helsinki, Finland",
+    "placeholder": true
+  }
+]

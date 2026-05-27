@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Consejo Nacional de la Cultura y las Artes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75675",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rGMEX9vRWZzWN7B3i7k6zGbnxhh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "https://www.cultura.gob.cl/consejo-nacional/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "École Cantonale d'Art de Lausanne",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74381",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eLKnDeZj20ntnbGZ1I5JtICANyj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.ecal.ch/fr/100/homepage",
+    "headquarters": "Renens, Lausanne, Switzerland",
+    "placeholder": true
+  }
+]

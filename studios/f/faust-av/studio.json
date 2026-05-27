@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Faust Av",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231108"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

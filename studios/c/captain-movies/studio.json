@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Captain Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23478"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

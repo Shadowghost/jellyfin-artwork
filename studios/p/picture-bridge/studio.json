@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Picture Bridge",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250343"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

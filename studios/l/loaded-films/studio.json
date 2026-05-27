@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Loaded Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107223",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9adJ4yCBE6JRgLoLiNo6u9szwbP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://loadedfilms.jp",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

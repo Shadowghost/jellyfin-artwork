@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Oracle Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110666"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

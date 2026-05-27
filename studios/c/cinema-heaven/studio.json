@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinema Heaven",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121261",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vuSVbXILu5UNlePejAds2hRYb0u.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://cinema.ktalpha.com",
+    "headquarters": "Samsung Boramae Omni Tower, 23, Boramae-ro 5-gil, Dongjak-gu, SEOUL Seoul 07071",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Weltkino",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "132579"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

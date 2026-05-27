@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Les films du 10",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67514"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

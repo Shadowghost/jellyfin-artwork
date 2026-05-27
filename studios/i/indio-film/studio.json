@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Indio Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129793",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sKJtudC2GPfvQa887VK10pDeE5v.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://indio.se/studio",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

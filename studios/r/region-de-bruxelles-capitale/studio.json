@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Région de Bruxelles-Capitale",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "207710"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "placeholder": true
+  }
+]

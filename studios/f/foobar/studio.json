@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Foobar",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240200"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

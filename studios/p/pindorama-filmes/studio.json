@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pindorama Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123936"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://pindoramafilmes.com.br/",
+    "headquarters": "Rio de Janeiro",
+    "placeholder": true
+  }
+]

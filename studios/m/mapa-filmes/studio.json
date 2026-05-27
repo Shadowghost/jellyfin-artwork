@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Mapa Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8565"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "headquarters": "Rio de Janeiro RJ",
+    "placeholder": true
+  }
+]

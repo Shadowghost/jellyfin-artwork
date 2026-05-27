@@ -1,0 +1,13 @@
+[
+  {
+    "name": "WeMake Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185722"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

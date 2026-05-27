@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Record Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160866"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

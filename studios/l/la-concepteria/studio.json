@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Concepteria",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140614",
+        "logo_uri": "https://image.tmdb.org/t/p/original/83J0PY4BAAaTMu43ASpsuJl4KLr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://laconcepteria.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

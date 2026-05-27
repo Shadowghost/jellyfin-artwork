@@ -1,0 +1,16 @@
+[
+  {
+    "name": "G prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230275",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hwa9oUmCWuATEQruUwz8xhv0OOz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TN",
+    "headquarters": "Tunis",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "KCTS Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3030",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9qE1ID398SaX9zYiRiPHdZfPTbt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

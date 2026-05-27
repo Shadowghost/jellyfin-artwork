@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Druid Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101702"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

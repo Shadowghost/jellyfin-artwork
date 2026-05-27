@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Folimage",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8212",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pkWt7XNwx5GssnXmTsXLKNpalaH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.folimage.fr/en/",
+    "headquarters": "Palais consulaire, 3 place Simone Veil, 26000 Valence",
+    "placeholder": true
+  }
+]

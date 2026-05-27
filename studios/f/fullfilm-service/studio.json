@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FullFilm Service",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "284209"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

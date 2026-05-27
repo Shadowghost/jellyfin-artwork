@@ -1,0 +1,16 @@
+[
+  {
+    "name": "8082Audio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "247144",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oE5IuFFD3hYpadhoMBjrZHVOaMZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://www.8082audio.com/",
+    "placeholder": true
+  }
+]

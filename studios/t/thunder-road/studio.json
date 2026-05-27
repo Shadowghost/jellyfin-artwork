@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Thunder Road",
+    "country": "US",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3528",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cCzCClIzIh81Fa79hpW5nXoUsHK.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Opia Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115977",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bfRsInlmZeZUYowIsVyV3jHGiHt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "headquarters": "Trondheim",
+    "placeholder": true
+  }
+]

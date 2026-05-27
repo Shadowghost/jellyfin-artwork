@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ModelTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220743"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

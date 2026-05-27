@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Spiegel TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6298",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2pBvKkc9QlFaopszammMmffGWTT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.spiegel-tv.de",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

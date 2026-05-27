@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fremantle Australia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2838",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3RImJV8qCBtlKD7ZoyVFnaKD9cw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://fremantleaustralia.com/",
+    "placeholder": true
+  }
+]

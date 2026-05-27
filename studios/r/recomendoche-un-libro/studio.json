@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Recoméndoche un Libro",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198384"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

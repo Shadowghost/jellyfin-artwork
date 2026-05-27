@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Taurus Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86386"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.taurusfilmes.com.br/",
+    "headquarters": "Guarulhos SP",
+    "placeholder": true
+  }
+]

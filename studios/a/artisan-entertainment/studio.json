@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Artisan Entertainment",
+    "description": "American independent film distribution company known for The Blair Witch Project; acquired by Lionsgate in 2003.",
+    "country": "US",
+    "type": "distributor",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2188",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f1zrx8bIsS81AHoPQq4riJx68Lt.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Googly Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11150"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Phantom Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7435",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kckDWHAeT7NTAL9CAjq0T7trwLJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "homepage": "http://www.phantoms.in/",
+    "headquarters": "Mumbai, Maharashtra",
+    "placeholder": true
+  }
+]

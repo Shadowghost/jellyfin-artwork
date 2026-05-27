@@ -1,0 +1,13 @@
+[
+  {
+    "name": "R-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18006"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

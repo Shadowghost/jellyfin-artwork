@@ -1,0 +1,16 @@
+[
+  {
+    "name": "La Voie Lactée",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92586",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nf21dROYg1hJ44VF0GJEcLuen03.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.lavoielacteeproductions.com",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Art Fest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1231"
+      }
+    ],
+    "artwork": {},
+    "country": "BG",
+    "homepage": "https://siff.bg/",
+    "headquarters": "Sofia",
+    "placeholder": true
+  }
+]

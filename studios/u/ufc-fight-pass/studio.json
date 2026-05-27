@@ -1,0 +1,17 @@
+[
+  {
+    "name": "UFC Fight Pass",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197945",
+        "logo_uri": "https://image.tmdb.org/t/p/original/s7LDl85aqJrPzqvLlvpneFtgYNp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://ufcfightpass.com",
+    "headquarters": "Las Vegas, Nevada, U.S",
+    "placeholder": true
+  }
+]

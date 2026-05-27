@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Brilliant Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164686",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f4YiwKcpmuNcoHxCUCIWZKABukX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://brilliant.pictures/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

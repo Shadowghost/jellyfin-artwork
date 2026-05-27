@@ -1,0 +1,16 @@
+[
+  {
+    "name": "AniMan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151996",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nN6NEtQLNxbMFYHxM0mHF1CHxgg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.ms-pictures.com/label/animan/index.php",
+    "placeholder": true
+  }
+]

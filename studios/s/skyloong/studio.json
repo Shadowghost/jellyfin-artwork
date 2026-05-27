@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Skyloong",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192218",
+        "logo_uri": "https://image.tmdb.org/t/p/original/MlRDxxA6DW1Jm7gfhpaI0LN1BW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://skyloong.net/",
+    "placeholder": true
+  }
+]

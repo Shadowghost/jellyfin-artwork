@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tiny Giraffe Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215890",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ssspJjIQ6p03mqN6cPQFXiObm6i.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://tinygiraffepictures.com",
+    "headquarters": "New York, NY",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Kassandra-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262935"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

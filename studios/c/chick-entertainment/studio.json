@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Chick Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200406",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oEqFw4aw0nW79QlANulbeuxQshm.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://www.chickent.com"
+  }
+]

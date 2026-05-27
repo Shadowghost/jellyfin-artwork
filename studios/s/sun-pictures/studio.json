@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sun Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7135",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8KsxNPnM0y9Dk3fOcHqKUDw2XUs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "homepage": "https://www.sunpictures.in/",
+    "headquarters": "Chennai, Tamil Nadu, India",
+    "placeholder": true
+  }
+]

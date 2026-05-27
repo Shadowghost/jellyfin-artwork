@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Rollins-Joffe-Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "409"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

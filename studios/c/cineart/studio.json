@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinéart",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19930",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6fuViPKdQxDuJ6qGwqiniAh1X37.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.cineart.be/nl",
+    "headquarters": "Brussels",
+    "placeholder": true
+  }
+]

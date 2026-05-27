@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KTO TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183510",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jZGOExPfpUe6vLVU9vaYB0eD7XL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.ktotv.com/",
+    "headquarters": "KTO TV, 13 rue du 19 mars 1962, 92240 Malakoff, France",
+    "placeholder": true
+  }
+]

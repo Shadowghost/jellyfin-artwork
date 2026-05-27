@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Purple Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3217",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7pqPGvVaoZwKoYQ56WJiPrkZUnw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

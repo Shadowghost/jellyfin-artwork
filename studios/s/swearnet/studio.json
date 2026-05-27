@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Swearnet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42513"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

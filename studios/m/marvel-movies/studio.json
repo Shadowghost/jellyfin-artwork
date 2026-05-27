@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Marvel Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199712"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

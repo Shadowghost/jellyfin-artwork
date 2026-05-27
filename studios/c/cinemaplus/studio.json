@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CinemaPlus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90280"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

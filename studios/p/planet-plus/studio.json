@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Planet Plus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160630",
+        "logo_uri": "https://image.tmdb.org/t/p/original/juIcDrPc3ofFCu71vlQSwcA0sXq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://planetplus.jp/",
+    "placeholder": true
+  }
+]

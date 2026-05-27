@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Art Films Only",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199166"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Raw Nerve",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1631",
+        "logo_uri": "https://image.tmdb.org/t/p/original/SdcaNCxKDs865GTodv6IVVK8Th.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

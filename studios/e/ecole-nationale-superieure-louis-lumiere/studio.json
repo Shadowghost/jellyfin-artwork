@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ecole Nationale Supérieure Louis Lumière",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42609",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hzFAjc2BmJva0NW4LyaULX3MABk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.ens-louis-lumiere.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

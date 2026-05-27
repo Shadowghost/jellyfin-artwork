@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sezer Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100875"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

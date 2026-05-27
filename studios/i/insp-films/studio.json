@@ -1,0 +1,16 @@
+[
+  {
+    "name": "INSP Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142153",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uobNAWGo2zAbV5ZZB2vXGufdaby.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.inspfilms.com",
+    "placeholder": true
+  }
+]

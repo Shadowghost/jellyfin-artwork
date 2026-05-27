@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Les Films 13",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1742",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kxKBr4UuwuVdMhuunZ579vWd5in.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.lesfilms13.com/",
+    "placeholder": true
+  }
+]

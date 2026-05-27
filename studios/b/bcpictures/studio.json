@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BCPICTURES",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205065"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

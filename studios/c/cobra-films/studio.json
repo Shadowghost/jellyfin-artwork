@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cobra Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37535",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vzNk435QC1zSA7DQHUV8v3QXygD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "http://www.cobra-films.be",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Messercola",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141503",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g9EeWELM1LgA5JTe75X1sQdgR86.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://messercola.nl",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

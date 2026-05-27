@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Newfilm Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "186812"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.newfilm.de/",
+    "placeholder": true
+  }
+]

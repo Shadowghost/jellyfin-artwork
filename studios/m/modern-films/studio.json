@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Modern Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143541"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

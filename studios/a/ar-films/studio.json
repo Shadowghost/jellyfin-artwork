@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AR Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11005"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

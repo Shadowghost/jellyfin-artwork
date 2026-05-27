@@ -1,0 +1,14 @@
+[
+  {
+    "name": "production doA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103101"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

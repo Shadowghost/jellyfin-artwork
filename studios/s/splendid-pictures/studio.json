@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Splendid Pictures",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "368"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "WWF España",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80939",
+        "logo_uri": "https://image.tmdb.org/t/p/original/reyIdDf4M6BNii26BGS7w78vwpl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.wwf.es/",
+    "placeholder": true
+  }
+]

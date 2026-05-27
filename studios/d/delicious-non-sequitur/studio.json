@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Delicious Non-Sequitur",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174302"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

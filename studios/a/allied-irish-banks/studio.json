@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Allied Irish Banks",
+    "description": "Irish retail and commercial bank, one of the 'Big Four' commercial banks in Ireland, headquartered in Dublin.",
+    "country": "IE",
+    "type": "other",
+    "colors": [
+      {
+        "name": "AIB Green",
+        "hex": "#0E7B3C"
+      }
+    ],
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "United Channel Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16581"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

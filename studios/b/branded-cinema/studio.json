@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Branded Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103032",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bdiJDXYt7rZPrVRMzQvozdOxrFH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "http://www.brandedcinema.nl",
+    "placeholder": true
+  }
+]

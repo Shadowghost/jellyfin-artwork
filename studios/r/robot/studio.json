@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Robot",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39417"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

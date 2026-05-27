@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Causette prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144795"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

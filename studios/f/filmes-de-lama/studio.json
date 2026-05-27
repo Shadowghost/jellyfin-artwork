@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Filmes de Lama",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160850"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

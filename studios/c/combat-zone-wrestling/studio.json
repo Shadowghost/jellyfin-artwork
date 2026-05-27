@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Combat Zone Wrestling",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "64297",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b5oTnCYf5AiIZIXsKhaiyk3ZzaH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.czwrestling.com/",
+    "headquarters": "Newark, Delaware",
+    "placeholder": true
+  }
+]

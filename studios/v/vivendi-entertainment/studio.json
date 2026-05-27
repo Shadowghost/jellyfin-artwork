@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Vivendi Entertainment",
+    "description": "Defunct American home entertainment subsidiary of Vivendi SA, distributor of independent and family film content.",
+    "country": "US",
+    "type": "distributor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4575"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

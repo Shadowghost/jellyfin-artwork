@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hawkview Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60801"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

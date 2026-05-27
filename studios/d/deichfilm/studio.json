@@ -1,0 +1,15 @@
+[
+  {
+    "name": "deichfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239509"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://deichfilm.de",
+    "placeholder": true
+  }
+]

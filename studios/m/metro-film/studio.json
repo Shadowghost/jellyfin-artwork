@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Metro-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18507"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

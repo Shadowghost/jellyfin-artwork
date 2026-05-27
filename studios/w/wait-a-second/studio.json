@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wait a Second!",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "235075",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4l2SDSEjQaK96ASI1kw9Irtbqsz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.waitasecondfilms.com",
+    "headquarters": "Berlin, Germany",
+    "placeholder": true
+  }
+]

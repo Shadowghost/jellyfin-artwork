@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WerNix Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "278232",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iuqfssjexyZvtCsl6KUGgkYWStx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://wernixstudio.webflow.io",
+    "headquarters": "La Motte Servolex",
+    "placeholder": true
+  }
+]

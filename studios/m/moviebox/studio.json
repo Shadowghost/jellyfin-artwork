@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Moviebox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27269"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

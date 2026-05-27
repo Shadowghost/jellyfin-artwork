@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mestiere Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11559",
+        "logo_uri": "https://image.tmdb.org/t/p/original/shg2TRsosE4Q5ya3veV2L6Ba3TE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.mestierecinema.it/",
+    "headquarters": "Venice",
+    "placeholder": true
+  }
+]

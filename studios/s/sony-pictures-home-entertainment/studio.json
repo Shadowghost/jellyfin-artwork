@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Sony Pictures Home Entertainment",
+    "description": "American home video distribution arm of Sony Pictures Entertainment, distributing films and television series on DVD, Blu-ray, UHD and digital.",
+    "country": "US",
+    "type": "distributor",
+    "homepage": "http://www.sonypictures.com/homevideo/",
+    "headquarters": "Culver City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5388",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i6tbNeVEi7s1uN97s2o0LhEMuF0.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

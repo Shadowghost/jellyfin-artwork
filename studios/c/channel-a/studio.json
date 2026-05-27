@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Channel A",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87210",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8MqKP6o6n0VMeIKc1sP2G8DGnBe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.ichannela.com/",
+    "placeholder": true
+  }
+]

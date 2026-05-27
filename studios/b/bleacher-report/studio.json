@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bleacher Report",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260341"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

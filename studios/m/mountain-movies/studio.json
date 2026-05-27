@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mountain Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216983"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

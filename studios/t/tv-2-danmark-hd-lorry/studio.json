@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TV 2 | Danmark HD (Lorry)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188821",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fft3jrctrZNcgAxgN1w5Givtzip.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://tv2.dk",
+    "headquarters": "Odense",
+    "placeholder": true
+  }
+]

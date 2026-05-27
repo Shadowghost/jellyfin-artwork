@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ARRI Rental",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156834",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i1ZEDECLjBELMVNcjQOH63b2hYn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.arrirental.com",
+    "placeholder": true
+  }
+]

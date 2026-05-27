@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Centro de Capacitación Cinematográfica (CCC)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14171",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p9GWxbK3INIi1RJJBUzVNjmsEkC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://elccc.com.mx/sitio/",
+    "headquarters": "Coyoacán, Ciudad de México",
+    "placeholder": true
+  }
+]

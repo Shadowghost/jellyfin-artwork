@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Eurofilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3505"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

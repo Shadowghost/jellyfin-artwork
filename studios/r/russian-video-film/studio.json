@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Russian video-film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108279"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

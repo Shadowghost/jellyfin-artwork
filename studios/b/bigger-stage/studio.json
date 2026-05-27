@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bigger Stage",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160746"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

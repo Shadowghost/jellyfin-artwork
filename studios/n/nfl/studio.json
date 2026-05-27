@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nfl",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217703"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

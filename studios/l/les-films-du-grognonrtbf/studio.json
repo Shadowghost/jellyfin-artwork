@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films du GrognonRTBF",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5865"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

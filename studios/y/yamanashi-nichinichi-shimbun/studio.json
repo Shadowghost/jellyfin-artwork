@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Yamanashi Nichinichi Shimbun",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97904",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wZ90h4Fnz4lhxwToWPB5i4Svocb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.sannichi.co.jp/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Blinker Filmproduktion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48538",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rAcCFi8KFP4Os3xP9DNLgWrviri.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.blinkerfilm.de/",
+    "headquarters": "Cologne",
+    "placeholder": true
+  }
+]

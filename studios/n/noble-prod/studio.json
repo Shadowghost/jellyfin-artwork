@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Noble Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264235"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

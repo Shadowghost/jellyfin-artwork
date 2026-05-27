@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Coalition Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75380",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4E4RWRfabaViS9qmZOM8V51stwR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://coalitionfilms.com",
+    "headquarters": "Hoboken, New Jersey",
+    "placeholder": true
+  }
+]

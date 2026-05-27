@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Blackbone",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126945"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

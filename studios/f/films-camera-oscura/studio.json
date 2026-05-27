@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Films Camera Oscura",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20222",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9VhDizpOLfmfeNYzQxnD1X4pcxL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://cameraoscurafilms.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

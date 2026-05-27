@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Plain Archive",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84833"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

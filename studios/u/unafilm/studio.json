@@ -1,0 +1,17 @@
+[
+  {
+    "name": "unafilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14547",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ubSOjyWFqQG4E1kaJmvPdOQ52qR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.unafilm.de",
+    "headquarters": "Cologne & Berlin",
+    "placeholder": true
+  }
+]

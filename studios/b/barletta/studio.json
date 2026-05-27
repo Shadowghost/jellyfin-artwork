@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Barletta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118082",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pfFQ6PuZ8oIeMbzX6BQ9dYk8hHJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://barletta.cz",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

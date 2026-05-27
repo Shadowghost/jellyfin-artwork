@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Corpus Fluxus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118276"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

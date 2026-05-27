@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Satai Film",
+    "country": "KZ",
+    "headquarters": "Almaty",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48860",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n6b2S2pVaY2LxhnX3wu4QNzLUYY.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vachon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "68272",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eYpeSD6zheJUmWdOOcs9fyoQQLM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.vachon.com/en",
+    "headquarters": "Sainte-Marie, Quebec",
+    "placeholder": true
+  }
+]

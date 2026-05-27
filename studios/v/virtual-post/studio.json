@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Virtual Post",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "136054"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

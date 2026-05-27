@@ -1,0 +1,13 @@
+[
+  {
+    "name": "WCCO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187118"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fischer Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15135",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oREl1X5ZTUS87Ieskesy353MOnU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "https://fischerfilm.com/",
+    "headquarters": "Linz",
+    "placeholder": true
+  }
+]

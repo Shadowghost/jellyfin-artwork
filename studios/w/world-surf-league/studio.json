@@ -1,0 +1,16 @@
+[
+  {
+    "name": "World Surf League",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203181"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.worldsurfleague.com",
+    "headquarters": "Santa Monica, California",
+    "placeholder": true
+  }
+]

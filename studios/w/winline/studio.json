@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Winline",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180524",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mGpiAU4BaQ42FeZI1BIWqnmkPWP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

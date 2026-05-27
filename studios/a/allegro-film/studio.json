@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Allegro Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "404"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "http://www.allegrofilm.at",
+    "headquarters": "Vienna",
+    "placeholder": true
+  }
+]

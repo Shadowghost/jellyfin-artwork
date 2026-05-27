@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hyde Park Entertainment",
+    "country": "US",
+    "homepage": "https://www.hydeparkentertainment.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1172",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5foKpTGXamv6BP4VwCqeWr5Jsdt.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

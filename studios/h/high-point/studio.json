@@ -1,0 +1,13 @@
+[
+  {
+    "name": "High Point",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101204"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

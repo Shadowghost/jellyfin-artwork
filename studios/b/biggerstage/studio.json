@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BiggerStage",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210190",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pACDwLSNJCaqDwbg8pXUzwr8fZP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "https://biggerstage.com",
+    "headquarters": "Dublin",
+    "placeholder": true
+  }
+]

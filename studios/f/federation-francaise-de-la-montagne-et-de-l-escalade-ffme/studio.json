@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fédération Française de la Montagne et de l'Escalade (FFME)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "190033",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eNfjEVvYEhAVRVgV626YJ9aHXAJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.ffme.fr/",
+    "headquarters": "FFME, 10 Quai de la Marne, 75019 Paris",
+    "placeholder": true
+  }
+]

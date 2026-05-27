@@ -1,0 +1,35 @@
+[
+  {
+    "name": "P.A.WORKS",
+    "description": "Japanese animation studio founded in 2000 in Nanto, Toyama by Kenji Horikawa; known for Hanasaku Iroha, Angel Beats!, Shirobako, Charlotte and Maquia.",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "http://www.pa-works.jp",
+    "headquarters": "Nanto, Toyama",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20867",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8xKcaZSIRdsR616LQ7nMptjkUvg.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "P.A. Works"
+    ],
+    "template": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Film Momentum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112850",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r2AJGoS8KoP4AeozBEe5LTY5BsY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "headquarters": "Mapo, Seoul, South Korea",
+    "placeholder": true
+  }
+]

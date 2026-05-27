@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Audi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110912",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ycPYqqjzHAk97GxBC8Ve2qKKNav.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://audi.es",
+    "placeholder": true
+  }
+]

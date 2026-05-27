@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Prime Video",
+    "description": "American subscription video-on-demand streaming service operated by Amazon, included with Amazon Prime memberships globally.",
+    "country": "GB",
+    "type": "streaming-service",
+    "colors": [
+      {
+        "name": "Prime Blue",
+        "hex": "#00A8E1"
+      },
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30679"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

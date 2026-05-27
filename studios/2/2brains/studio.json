@@ -1,0 +1,17 @@
+[
+  {
+    "name": "2Brains",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154639",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8DQ6wkHtJg2TZEbGjPTMbs5ui1P.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "https://www.2brains.cl",
+    "headquarters": "Santiago",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "GodFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79070"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

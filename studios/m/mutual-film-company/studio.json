@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mutual Film Company",
+    "country": "US",
+    "headquarters": "Hollywood, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "762",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3T7EpKcS13viHu3WzRtQGvi9sTY.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

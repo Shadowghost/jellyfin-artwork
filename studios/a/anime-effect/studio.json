@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Anime Effect",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105222"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

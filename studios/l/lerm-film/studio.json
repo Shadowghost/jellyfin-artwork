@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LERM-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37985"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

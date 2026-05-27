@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Big Band Story",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104088",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sdVqgwpyjeHaWCplwBrWqXiPVdv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.bigbandstory.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

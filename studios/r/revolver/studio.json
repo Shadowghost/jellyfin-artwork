@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Revolver",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101948",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ApzlK7IBadHUaTuWoyFpFFhzWcH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.revolverfilm.it",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

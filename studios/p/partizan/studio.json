@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Partizan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1784",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6qlAB0QJ3Sk2qnPSe9CCPGLzzop.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.partizan.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

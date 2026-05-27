@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Paper Mask",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101016"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

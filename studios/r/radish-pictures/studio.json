@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Radish Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202323",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jGq5fNdUjRegPyCZfHmB2yXkyid.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Sherman Oaks, Los Angeles, California",
+    "placeholder": true
+  }
+]

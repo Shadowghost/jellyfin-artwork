@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ElectroWish Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198303",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bJ9ZkJ0tQ5Qmg2B7iTxWI36eO5v.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

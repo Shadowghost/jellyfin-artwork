@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SHOWROOM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "287652",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5UH7f36xExdJ7pJC76NwthIPBpD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.showroom-live.com/",
+    "placeholder": true
+  }
+]

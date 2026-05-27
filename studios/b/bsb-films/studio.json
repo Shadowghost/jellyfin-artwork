@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BSB Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274837",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ow931yVyDrU6IV6HnP6rp5cTKQK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://bsbfilms.com/",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

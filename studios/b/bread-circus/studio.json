@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bread&Circus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255841",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hYDBGjuShndz1JEVsLgB9McXnqk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "https://www.breadandcircus.ie/",
+    "headquarters": "Dublin",
+    "placeholder": true
+  }
+]

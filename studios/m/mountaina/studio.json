@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MountainA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157532",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dUCUH5Rt8Mq9oG5fucrLPs2oABT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

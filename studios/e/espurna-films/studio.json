@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Espurna Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273371"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Asociace malého fotbalu ČR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214517"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.malyfotbal.cz/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Time Magazine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74362",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qMKMq07U7CXuE8uQoQAGir4w9Xm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "h264",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140114",
+        "logo_uri": "https://image.tmdb.org/t/p/original/698xcYut47M1BexvtGKmKX3Yf0a.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.h264distribution.com",
+    "headquarters": "Montréal, Québec",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Universal Music Group",
+    "country": "US",
+    "homepage": "https://www.universalmusic.com/",
+    "headquarters": "Santa Monica, California, US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9339",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hwEpOrIYH7G4Rolt7s2thYquJnD.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

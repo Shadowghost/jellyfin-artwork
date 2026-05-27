@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Atlantis-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1492",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m1gmSFxJkkITHjbee5dvCakotvP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://atlantis-film.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

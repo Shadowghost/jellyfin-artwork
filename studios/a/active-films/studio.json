@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Active Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23474"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

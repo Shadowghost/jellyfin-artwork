@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zouka",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222550",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ssxhaNGIlcHpMkfORJ8nSWhzXum.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.zouka.nl/",
+    "headquarters": "Rotterdam",
+    "placeholder": true
+  }
+]

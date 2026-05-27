@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mapmaker Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96449",
+        "logo_uri": "https://image.tmdb.org/t/p/original/euFypxSEot742VZZfh2vgM3H8P0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://mapmakerstudio.com",
+    "placeholder": true
+  }
+]

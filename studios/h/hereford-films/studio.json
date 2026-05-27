@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hereford Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80694",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p1lm3kowNWPZggP9IsjNy3cPHAL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.herefordfilms.co.uk",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

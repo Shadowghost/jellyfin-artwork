@@ -1,0 +1,14 @@
+[
+  {
+    "name": "SIC Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16493"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "placeholder": true
+  }
+]

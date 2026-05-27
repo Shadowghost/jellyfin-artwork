@@ -1,0 +1,17 @@
+[
+  {
+    "name": "What's Up Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84335",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lw9gbRShu6K6bZH1TXMZnamwJH3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://whatsupfilms.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

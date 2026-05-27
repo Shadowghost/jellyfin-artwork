@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Meteoriit",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72032",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2cAOKew6pRIMEMpgQTHE6VMhtGm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EE",
+    "homepage": "http://www.meteoriit.ee/",
+    "headquarters": "Tallinn",
+    "placeholder": true
+  }
+]

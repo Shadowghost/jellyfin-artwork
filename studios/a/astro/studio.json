@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Astro",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32823",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1IUZxCxM6iY6KZTJNfxhWjqHekS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MY",
+    "placeholder": true
+  }
+]

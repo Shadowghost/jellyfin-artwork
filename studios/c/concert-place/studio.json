@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Concert Place",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218936"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://concertplace.tv/",
+    "placeholder": true
+  }
+]

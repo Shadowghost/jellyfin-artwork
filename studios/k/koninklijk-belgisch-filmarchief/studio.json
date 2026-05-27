@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Koninklijk Belgisch Filmarchief",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72808"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://cinematek.be/",
+    "headquarters": "Brussels, Belgium",
+    "placeholder": true
+  }
+]

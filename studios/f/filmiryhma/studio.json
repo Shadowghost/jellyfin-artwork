@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Filmiryhmä",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101005"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Austin Film Society",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105089",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bGoILzvpPmIuMVqA8fxCDkRQa3t.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.austinfilm.org/",
+    "headquarters": "Austin, Texas, USA",
+    "placeholder": true
+  }
+]

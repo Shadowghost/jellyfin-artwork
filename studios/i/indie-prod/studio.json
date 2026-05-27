@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Indie Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117585",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rV1qW0357uvpgKFmZQ7RevUHR2D.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

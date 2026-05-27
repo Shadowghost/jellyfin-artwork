@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Drakfilm Produktion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7968",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eC1XrVCSgtfhjk9hF5qVyRzq25r.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://www.drakfilm.se/",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

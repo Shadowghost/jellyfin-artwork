@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Purple Line",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188806"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

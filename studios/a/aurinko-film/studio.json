@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Aurinko Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252435",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cv6FZ9QoSXr2ilw7QYLlmK3d2h1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.aurinkofilm.com/",
+    "headquarters": "Rotsund",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Local Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1123",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u6VJgAZk0JJr6xpsRQP5kDrY1jw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.local-films.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gen Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248259",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m9Th8rZC5j1GScBuY1mOay1DIA9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://gen-studio.ru/",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

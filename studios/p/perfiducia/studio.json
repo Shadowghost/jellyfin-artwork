@@ -1,0 +1,16 @@
+[
+  {
+    "name": "perFiducia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "195904",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8F6UpVorIn0nCFsOR706eTud13w.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.perfiducia.com/",
+    "placeholder": true
+  }
+]

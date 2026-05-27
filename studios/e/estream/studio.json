@@ -1,0 +1,16 @@
+[
+  {
+    "name": "eStream",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173963",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bi9z6lhPJtPRLeJLRNSfC1bijKN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.estream.co.jp/",
+    "placeholder": true
+  }
+]

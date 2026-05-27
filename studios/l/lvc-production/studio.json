@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LVC production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230428"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

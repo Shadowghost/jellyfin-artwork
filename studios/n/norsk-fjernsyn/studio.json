@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Norsk Fjernsyn",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92604",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wygy6mSfBzAaVQ37qyP3LBRvUUt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "http://www.norskfjernsyn.no",
+    "placeholder": true
+  }
+]

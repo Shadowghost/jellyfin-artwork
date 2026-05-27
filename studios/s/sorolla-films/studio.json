@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sorolla Films",
+    "country": "ES",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1995"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

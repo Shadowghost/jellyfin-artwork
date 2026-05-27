@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Headlight",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184123"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

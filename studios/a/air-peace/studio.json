@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Air Peace",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271250",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7C6foJpLa8WajKPaPP5JkHRLUat.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NG",
+    "homepage": "https://flyairpeace.com/",
+    "headquarters": "Lagos",
+    "placeholder": true
+  }
+]

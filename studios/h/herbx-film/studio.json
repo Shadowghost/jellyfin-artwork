@@ -1,0 +1,16 @@
+[
+  {
+    "name": "herbX film",
+    "country": "DE",
+    "homepage": "https://www.herbx.de",
+    "headquarters": "Grünwald",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1635"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

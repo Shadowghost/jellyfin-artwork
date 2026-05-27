@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Featured Creatures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239636"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

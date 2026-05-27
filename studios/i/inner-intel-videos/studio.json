@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Inner Intel Videos",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15551"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

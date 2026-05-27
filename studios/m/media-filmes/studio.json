@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Media Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16276"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "placeholder": true
+  }
+]

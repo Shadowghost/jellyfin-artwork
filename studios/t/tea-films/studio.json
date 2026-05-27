@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Tea Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127274",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wqBuQihNBzVGzxCPIqAzMaPzAKy.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

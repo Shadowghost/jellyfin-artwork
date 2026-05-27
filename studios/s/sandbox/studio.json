@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sandbox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9287",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8MMhF3qfJhg0XpdUTkZ2M4ErVGI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://sandboxland.com",
+    "headquarters": "Whistler, British Colombia",
+    "placeholder": true
+  }
+]

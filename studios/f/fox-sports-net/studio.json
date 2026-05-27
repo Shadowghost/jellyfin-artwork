@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Fox Sports Net",
+    "description": "American group of regional sports networks originally owned by Fox/News Corporation; sold to Sinclair/Diamond Sports in 2019 and rebranded as Bally Sports in 2021.",
+    "country": "US",
+    "type": "cable-network",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "FashionN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179190",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dK8TFFNzWIWfxt6UVDsKwvraY9N.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LateFlix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185555"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

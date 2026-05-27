@@ -1,0 +1,14 @@
+[
+  {
+    "name": "BLAST production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139442"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

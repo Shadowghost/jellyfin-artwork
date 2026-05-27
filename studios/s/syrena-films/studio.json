@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Syrena Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6273",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vqtK0XhAgPV5NWY5SB7PrLTmhBQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://www.syrenafilms.com",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

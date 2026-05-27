@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Deb Movies (IN)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240855"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "B'Tselem",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "132750",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oW6uklG7je12v8vS0b1oTxAvDEe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IL",
+    "homepage": "https://www.btselem.org/",
+    "headquarters": "Jerusalem",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dalmatian Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "227868",
+        "logo_uri": "https://image.tmdb.org/t/p/original/izqGniFYP7qdNrV4dsywtJTCtED.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://www.dalmatianfilms.com",
+    "headquarters": "London",
+    "placeholder": true
+  }
+]

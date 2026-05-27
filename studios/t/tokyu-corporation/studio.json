@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TOKYU CORPORATION",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "294597",
+        "logo_uri": "https://image.tmdb.org/t/p/original/85eaW4T49UIVAEa795fTH2iko9e.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.tokyu.co.jp/",
+    "placeholder": true
+  }
+]

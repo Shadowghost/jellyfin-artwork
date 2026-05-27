@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Arte, Música y Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240524"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

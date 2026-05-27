@@ -1,0 +1,29 @@
+[
+  {
+    "name": "PolyGram",
+    "description": "Dutch multinational entertainment company that operated as a major record label and (via PolyGram Filmed Entertainment) film studio until being absorbed into Universal Music Group / Universal Pictures.",
+    "country": "JP",
+    "type": "record-label",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262989"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

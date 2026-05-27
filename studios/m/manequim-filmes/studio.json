@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Manequim Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181928",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7USVeggfAhupzAgSUOm5PlTlj7K.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

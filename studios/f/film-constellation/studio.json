@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film Constellation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75495",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iHT7CkK5jPZ5pl20z4hU6sYFath.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.filmconstellation.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

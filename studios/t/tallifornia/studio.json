@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tallifornia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123109",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nHuvz6zV0lj6x8qbZ15UM1pjQQp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EE",
+    "homepage": "http://tallifornia.com",
+    "headquarters": "Tallinn",
+    "placeholder": true
+  }
+]

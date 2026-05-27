@@ -1,0 +1,14 @@
+[
+  {
+    "name": "SNS Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116080"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

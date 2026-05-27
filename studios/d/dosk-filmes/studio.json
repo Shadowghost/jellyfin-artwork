@@ -1,0 +1,14 @@
+[
+  {
+    "name": "DOSK Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108889",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mBOAaZa7bagjrGREOaE57rNQ9Y1.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

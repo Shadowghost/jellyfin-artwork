@@ -1,0 +1,17 @@
+[
+  {
+    "name": "National Film Institute Hungary",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212419",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sGDW6vNH6rgUU8QRyL2Kw1GCG0p.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "https://nfi.hu/en",
+    "headquarters": "Budapest",
+    "placeholder": true
+  }
+]

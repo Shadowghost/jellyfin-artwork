@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TakeFive",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200321"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

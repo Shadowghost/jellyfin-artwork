@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Current Time TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111158",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9m4vqLnfjoPeyJteUmi2LZQDJ1c.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://en.currenttime.tv",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

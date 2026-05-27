@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Old Town Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184268",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x2BImyhI05XZ9MY4JTMwjiWlAQf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

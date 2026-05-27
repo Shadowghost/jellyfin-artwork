@@ -1,0 +1,13 @@
+[
+  {
+    "name": "KLCS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42016"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Penny Lane Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123019"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "https://www.pennylane-film.at",
+    "headquarters": "Vienna",
+    "placeholder": true
+  }
+]

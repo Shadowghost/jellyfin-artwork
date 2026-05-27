@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Distribuidora de Filmes Brasileiros",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87253"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

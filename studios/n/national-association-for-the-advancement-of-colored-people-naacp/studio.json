@@ -1,0 +1,17 @@
+[
+  {
+    "name": "National Association for the Advancement of Colored People (NAACP)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222807",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9jZCR0M3fY1Vp0PFoJOZVeVwrt4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://naacp.org/",
+    "headquarters": "New York, NY",
+    "placeholder": true
+  }
+]

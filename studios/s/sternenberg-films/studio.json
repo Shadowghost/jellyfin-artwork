@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sternenberg Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151769",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9OHctABolsmNKAZ1nV5ctqi3sPc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.sternenberg-films.de/",
+    "headquarters": "Cologne, North Rhine-Westphalia",
+    "placeholder": true
+  }
+]

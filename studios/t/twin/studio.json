@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Twin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14608",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bIK6Ag2LdbbAV7LYRqjump11ZWM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.twin2.co.jp/",
+    "placeholder": true
+  }
+]

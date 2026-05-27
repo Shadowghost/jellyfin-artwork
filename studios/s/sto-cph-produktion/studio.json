@@ -1,0 +1,17 @@
+[
+  {
+    "name": "STO-CPH Produktion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53097",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yfjG5PytzffUlodaEAs1rg8fiEN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://www.sto-cph.com",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

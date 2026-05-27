@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ElectroLeague",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215221",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g63pSgwOoimpA9NeHdkgtRIXz0f.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.electroleague.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

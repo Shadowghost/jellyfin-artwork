@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ulule",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160170",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u1i2meYzDjjbm68Q9pRPXaQolrL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://ulule.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

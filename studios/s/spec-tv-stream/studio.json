@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Spec TV Stream",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "281711"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

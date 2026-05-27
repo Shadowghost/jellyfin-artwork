@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Apple TV+",
+    "description": "Apple's streaming television service and brand featuring original films and series.",
+    "country": "US",
+    "type": "streaming-service",
+    "colors": [
+      {
+        "name": "Apple Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Apple White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Apple TV"
+    ],
+    "template": true
+  }
+]

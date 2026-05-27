@@ -1,0 +1,17 @@
+[
+  {
+    "name": "acowsay",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154712",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gCak8Hy5TbUZ95vUBsWdCbjiOmW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.acowsay.com/",
+    "headquarters": "Minneapolis, Minnesota",
+    "placeholder": true
+  }
+]

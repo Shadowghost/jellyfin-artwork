@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KaravanFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234456",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mFxz4KTxR8lWepZtRUunxrlhaKh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://karavanfilm.com/",
+    "headquarters": "Antalya",
+    "placeholder": true
+  }
+]

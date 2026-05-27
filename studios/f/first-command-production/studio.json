@@ -1,0 +1,13 @@
+[
+  {
+    "name": "First Command Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "186412"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

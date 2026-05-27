@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Samsung Electronics",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120688",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4Gqa7WaUCgplyl635Nx8Du4G2j6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.samsung.com",
+    "headquarters": "Suwon, Gyeonggi",
+    "placeholder": true
+  }
+]

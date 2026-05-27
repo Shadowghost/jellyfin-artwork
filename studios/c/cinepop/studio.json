@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cinepop",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109534"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

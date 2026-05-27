@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Video Ranger",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283064"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Atelier de Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102468",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7116YZNSKt5xKXgO9inx6bH0bq8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://atelierdeproduction.com/",
+    "placeholder": true
+  }
+]

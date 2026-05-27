@@ -1,0 +1,14 @@
+[
+  {
+    "name": "SAP11",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95000"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

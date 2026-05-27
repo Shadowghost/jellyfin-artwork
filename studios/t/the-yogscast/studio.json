@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Yogscast",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280180",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7KJEf9z13Khwi6eWQWSmWKeyPrt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.yogscast.com/",
+    "headquarters": "Bristol",
+    "placeholder": true
+  }
+]

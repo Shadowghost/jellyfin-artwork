@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Região Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107821"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

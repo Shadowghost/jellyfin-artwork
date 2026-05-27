@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Collines Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212416",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f7vPtXO5GbyqW6i6lJjY7sRIJ99.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://collines.co/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

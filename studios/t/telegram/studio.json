@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Telegram",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170166"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

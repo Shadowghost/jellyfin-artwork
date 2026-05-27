@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Maximage",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2083"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "http://maximage.ch",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Institute",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240233",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e2Vn57Vv4FeWQaOrq6q474XN5wp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://institute.pictures",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

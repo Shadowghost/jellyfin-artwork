@@ -1,0 +1,13 @@
+[
+  {
+    "name": "balcão filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230893"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

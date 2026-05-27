@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Río en el Mapa",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150702"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

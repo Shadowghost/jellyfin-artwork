@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Endorfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24870",
+        "logo_uri": "https://image.tmdb.org/t/p/original/blj2QS49YMgKh4SGUGF27uySVRe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.endorfilm.cz/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

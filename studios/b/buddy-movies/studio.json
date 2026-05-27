@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Buddy Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103735"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

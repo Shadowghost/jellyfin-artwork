@@ -1,0 +1,13 @@
+[
+  {
+    "name": "EpochTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210079"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmes do Acaso",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "237699"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "YMAC Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108098",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f24gtYbK4v6o9PDfYHwPQT5PWhJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "San Francisco, California",
+    "placeholder": true
+  }
+]

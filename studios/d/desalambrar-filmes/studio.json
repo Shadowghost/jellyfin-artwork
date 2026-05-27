@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Desalambrar Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128342"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.desalambrar.com",
+    "placeholder": true
+  }
+]

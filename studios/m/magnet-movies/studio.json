@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Magnet Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111551"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

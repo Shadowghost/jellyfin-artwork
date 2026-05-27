@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Türk Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150468"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Alliance Films",
+    "country": "CA",
+    "headquarters": "Montreal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2514",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zEyrFF8Nn325PXG0Q9j7my0JqIJ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

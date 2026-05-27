@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kinorob",
+    "country": "UA",
+    "homepage": "https://kinorob.com/",
+    "headquarters": "Kyiv, Ukraine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93035",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hwFOSNz27DeKg7MjwnZMcaDRkNp.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

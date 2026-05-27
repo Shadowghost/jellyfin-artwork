@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Observatory Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91370"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

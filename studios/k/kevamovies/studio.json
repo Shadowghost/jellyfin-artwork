@@ -1,0 +1,13 @@
+[
+  {
+    "name": "KevaMovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81521"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

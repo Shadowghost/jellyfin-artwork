@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Film AB Lux",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95409",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kAhe3aNfeiGu0XRlXUfHi8SK2p7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

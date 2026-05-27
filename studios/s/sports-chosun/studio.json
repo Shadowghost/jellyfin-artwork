@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sports Chosun",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204482",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lHwtZFcgeEfLrZpi50q3Y1c6qCA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://sports.chosun.com/",
+    "headquarters": "Yangcheon, Seoul, South Korea",
+    "placeholder": true
+  }
+]

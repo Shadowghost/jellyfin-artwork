@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Banc Public",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91200"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

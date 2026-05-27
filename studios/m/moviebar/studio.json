@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Moviebar",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96172"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://www.movie-bar.net/"
+  }
+]

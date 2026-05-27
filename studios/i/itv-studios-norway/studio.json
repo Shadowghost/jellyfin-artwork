@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ITV Studios Norway",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81652",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1wxBT3ELvn10doUGZIqcCjZrB0R.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://internal.itvstudios.com/studios/norway",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

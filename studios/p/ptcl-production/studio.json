@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PTCL Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123299"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

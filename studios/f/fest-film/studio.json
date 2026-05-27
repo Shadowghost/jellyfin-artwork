@@ -1,0 +1,13 @@
+[
+  {
+    "name": "fest-film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226735"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

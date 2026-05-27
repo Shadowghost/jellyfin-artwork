@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nomadic Pictures",
+    "country": "CA",
+    "homepage": "https://www.nomadicpictures.com",
+    "headquarters": "Calgary, Alberta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12467",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qxkYfDP05Rrwu8Msgieq6XbCX4K.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

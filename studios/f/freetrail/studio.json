@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Freetrail",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "251094",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hC2uoErxw9PmsHwmaig4B4BLNc.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "http://freetrial.com"
+  }
+]

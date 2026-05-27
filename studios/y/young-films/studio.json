@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Young Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12244",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qTtpoOOCvDq4ypEmxUlQZoUhvVX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.youngfilms.eu/",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

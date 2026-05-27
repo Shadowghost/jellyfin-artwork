@@ -1,0 +1,15 @@
+[
+  {
+    "name": "ORACLE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270528",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4sD38A06ZBROAVGexKEmFQ6FFau.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

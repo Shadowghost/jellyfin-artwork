@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CEPS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270875"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

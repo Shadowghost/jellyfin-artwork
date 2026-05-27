@@ -1,0 +1,15 @@
+[
+  {
+    "name": "5656 Films",
+    "country": "FR",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100853"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Animus Films",
+    "country": "GB",
+    "homepage": "http://www.animusfilms.co.uk",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110726"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

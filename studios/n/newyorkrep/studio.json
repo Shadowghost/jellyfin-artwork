@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NewYorkRep",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191861"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

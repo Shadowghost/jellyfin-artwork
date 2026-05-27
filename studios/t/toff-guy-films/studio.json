@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Toff Guy Films",
+    "country": "GB",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2900"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "CBS Theatrical Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46410",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e5EY64zBCUiAJ0kq6XQFa64DszC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

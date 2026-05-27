@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ubunto Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147259"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

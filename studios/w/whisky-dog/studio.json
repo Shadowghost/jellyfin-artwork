@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Whisky-Dog",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "288060",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yTzbfn0Xneb5WBWs6wtHyc5zNZD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

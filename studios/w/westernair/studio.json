@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Westernair",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89021"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

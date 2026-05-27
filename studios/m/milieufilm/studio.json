@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Milieufilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193664"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.milieufilm.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

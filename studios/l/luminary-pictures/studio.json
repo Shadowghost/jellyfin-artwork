@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Luminary Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187727",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hVhSewR0jkZDg6gLxtzyDXCO9OY.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "headquarters": "Los Angeles"
+  }
+]

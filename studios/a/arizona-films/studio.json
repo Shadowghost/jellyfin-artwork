@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Arizona Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16906",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jZz6a4jRImsklUdEcEVuoJknkno.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.arizonafilms.fr/",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

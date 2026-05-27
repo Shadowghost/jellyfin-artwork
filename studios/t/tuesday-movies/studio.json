@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tuesday Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "288002"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

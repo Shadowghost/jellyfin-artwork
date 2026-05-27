@@ -1,0 +1,17 @@
+[
+  {
+    "name": "New Republic Pictures",
+    "country": "US",
+    "homepage": "http://www.newrepublicpictures.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114732",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tNCbisMxO5mX2X2bOQxHHQZVYnT.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mollywood",
+    "country": "BE",
+    "homepage": "https://www.mollywood.be",
+    "headquarters": "Mol, Antwerp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22071",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b3YwzlhTVkrcv1G6nl8XHJBidZk.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MFA Filmdistribution",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "910"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

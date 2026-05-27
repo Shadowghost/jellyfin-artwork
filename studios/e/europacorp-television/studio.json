@@ -1,0 +1,17 @@
+[
+  {
+    "name": "EuropaCorp Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25930",
+        "logo_uri": "https://image.tmdb.org/t/p/original/62xhmot9suhsKEDXyJgV9XuydHQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.europacorp.com/television/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

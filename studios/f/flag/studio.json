@@ -1,0 +1,17 @@
+[
+  {
+    "name": "flag",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198350",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tLXVEotMczSn2a6A5vDgqJqpMDM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.flag-pictures.co.jp/en/",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

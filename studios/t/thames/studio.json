@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Thames",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216752",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3dZJ7qLNmm0YE2Mlwei3jnJVxrI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.thames.tv",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

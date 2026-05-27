@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fedora Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152469",
+        "logo_uri": "https://image.tmdb.org/t/p/original/54E5fMAheXr3yudKf3lkv4M8by2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://fedora.productions/",
+    "headquarters": "Ciudad de México",
+    "placeholder": true
+  }
+]

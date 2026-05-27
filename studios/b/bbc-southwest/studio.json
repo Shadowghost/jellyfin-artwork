@@ -1,0 +1,26 @@
+[
+  {
+    "name": "BBC Southwest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "282676"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

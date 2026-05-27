@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Planeta kino",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179729"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DEC_Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "288315"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

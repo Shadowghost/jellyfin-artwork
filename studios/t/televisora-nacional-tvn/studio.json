@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Televisora Nacional (TVN)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "207135",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zSadBeU5cAoxdhVhvj8bJ8QveBg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PA",
+    "homepage": "https://www.tvn-2.com/",
+    "headquarters": "Ciudad de Panamá",
+    "placeholder": true
+  }
+]

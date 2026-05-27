@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hrvatski Audiovizualni Centar",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94128",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2omVaLOZ0fHG1jSmQbmbsqTkzWI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HR",
+    "homepage": "http://www.havc.hr",
+    "headquarters": "Zagreb",
+    "placeholder": true
+  }
+]

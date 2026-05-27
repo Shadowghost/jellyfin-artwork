@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wandal Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92295",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xlhYXukL1BauCdB1PUBopqFTIWk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SK",
+    "homepage": "http://www.wandal.sk",
+    "headquarters": "Bratislava, Slovakia",
+    "placeholder": true
+  }
+]

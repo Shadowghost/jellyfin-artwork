@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Filmes Loro",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77000"
+      }
+    ],
+    "artwork": {},
+    "country": "PR",
+    "headquarters": "San Juan",
+    "placeholder": true
+  }
+]

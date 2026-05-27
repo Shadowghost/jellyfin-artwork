@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Nippon TV",
+    "description": "Major Japanese commercial broadcaster headquartered in Tokyo, flagship of the Nippon News Network (NNN); also a key shareholder of Studio Ghibli.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.ntv.co.jp/english",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6755",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bWiM2iY82B32NGmPCOFatgfekIR.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Nippon Television Network Corporation",
+      "NIPPON TV"
+    ],
+    "template": true
+  }
+]

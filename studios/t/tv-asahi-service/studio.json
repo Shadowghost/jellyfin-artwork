@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TV Asahi Service",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203386",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8Hhzw6ma8TXcgz3WHwhkZPEbF0s.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.tv-asahi-service.co.jp/",
+    "placeholder": true
+  }
+]

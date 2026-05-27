@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Marvel HQ",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270421"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.marvel.com/",
+    "headquarters": "Nova York",
+    "placeholder": true
+  }
+]

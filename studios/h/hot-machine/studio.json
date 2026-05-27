@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Hot Machine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75425",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x3S5BZihpMJw9vgZnaURJJ1hYe3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

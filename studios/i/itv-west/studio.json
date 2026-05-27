@@ -1,0 +1,15 @@
+[
+  {
+    "name": "ITV West",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226279",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rrpp9qyNWLzz4xcE56tw17BMmd7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Papillon Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191299",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ffPjPzW8PIDb8bfj1Qh7orIn61C.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.papillonfilms.ca",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

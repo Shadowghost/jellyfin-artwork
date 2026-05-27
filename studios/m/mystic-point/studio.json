@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mystic Point",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200512"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

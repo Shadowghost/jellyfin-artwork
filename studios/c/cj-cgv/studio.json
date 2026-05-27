@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CJ CGV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128333",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cIFX3XS0k5UzJwOi5rvCDlpgzib.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://corp.cgv.co.kr/",
+    "headquarters": "Yongsan, Seoul, South Korea",
+    "placeholder": true
+  }
+]

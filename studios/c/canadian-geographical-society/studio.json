@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Canadian Geographical Society",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "190092",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4o0TOP3n8cAXpW3kXBDTMSLDp3M.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://rcgs.org/",
+    "headquarters": "Ottawa, Ontario",
+    "placeholder": true
+  }
+]

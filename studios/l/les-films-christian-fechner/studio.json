@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Les Films Christian Fechner",
+    "country": "FR",
+    "headquarters": "39, rue des Tilleuls 92100 Boulogne-Billancourt",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "461",
+        "logo_uri": "https://image.tmdb.org/t/p/original/reM5HtbhqjZnefmDSToF0zT0zd7.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

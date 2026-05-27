@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Vermeer-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129803"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "http://www.vermeer-film.com",
+    "headquarters": "Vienna",
+    "placeholder": true
+  }
+]

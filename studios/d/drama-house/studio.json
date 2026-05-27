@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Drama House",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75153",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c1bxm2BUK7rJAVChNzJr8iyWarx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.dramahouse.co.kr",
+    "headquarters": "Mapo, Seoul",
+    "placeholder": true
+  }
+]

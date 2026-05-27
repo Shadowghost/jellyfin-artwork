@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nolita",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67043",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lcpIJu30UucUTE5SCKYD1qFdDHr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://nolita.fr/en/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

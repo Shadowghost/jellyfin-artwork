@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinema Tehran",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217782",
+        "logo_uri": "https://image.tmdb.org/t/p/original/osphulQJAO6Zt8FfZKnfC6CGek4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://cinematehran.nyc/",
+    "headquarters": "New York, New York",
+    "placeholder": true
+  }
+]

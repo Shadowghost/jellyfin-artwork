@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Fox 25 Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "288603"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

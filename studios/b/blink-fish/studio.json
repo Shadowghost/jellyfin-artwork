@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Blink Fish",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "291945"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

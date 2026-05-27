@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fast Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135498"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

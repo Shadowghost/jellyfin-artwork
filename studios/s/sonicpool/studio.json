@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SonicPool",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249386"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Access Media Group",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180911",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cjhKtp7TwO3rIqtGBR3mQOOZN2M.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

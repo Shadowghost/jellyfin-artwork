@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lien du film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162396"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

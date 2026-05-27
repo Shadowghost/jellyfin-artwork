@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Rather Good Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83604",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hjXrpUJnzS6SrwzPmDRkI4ZiLMM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://rathergoodfilm.co.uk",
+    "placeholder": true
+  }
+]

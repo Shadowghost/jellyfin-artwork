@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lardux Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72654",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qAGfpZE53RKgPWyiWYnIUdzpPrb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://lardux.net/sample-page/",
+    "headquarters": "45ter rue de la Révolution, 93100 Montreuil",
+    "placeholder": true
+  }
+]

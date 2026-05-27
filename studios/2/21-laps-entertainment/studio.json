@@ -1,0 +1,29 @@
+[
+  {
+    "name": "21 Laps Entertainment",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2575",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9YJrHYlcfHtwtulkFMAies3aFEl.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

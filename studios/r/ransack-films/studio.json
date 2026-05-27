@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ransack Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "284568"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

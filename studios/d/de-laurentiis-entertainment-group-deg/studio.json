@@ -1,0 +1,29 @@
+[
+  {
+    "name": "De Laurentiis Entertainment Group",
+    "description": "American film production and distribution company founded by Italian producer Dino De Laurentiis; produced and distributed films such as Blue Velvet and Manhunter before going bankrupt in 1988.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "499"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

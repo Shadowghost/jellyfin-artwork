@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Critérion Film",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10563"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

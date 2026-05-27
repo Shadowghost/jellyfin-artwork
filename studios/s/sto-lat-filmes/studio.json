@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sto Lat Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129434",
+        "logo_uri": "https://image.tmdb.org/t/p/original/53dfpkHx49BIPGLJWt3Eza3RA8K.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.tuitamfilmes.com/",
+    "headquarters": "Curitiba, Paraná",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Plantain Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22567"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

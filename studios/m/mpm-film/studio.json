@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MPM Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51399",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8dVx9ih99MoKt9eYs3SpxsNX9gD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.mpmfilm.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

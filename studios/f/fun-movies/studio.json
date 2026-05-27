@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fun Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163400"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

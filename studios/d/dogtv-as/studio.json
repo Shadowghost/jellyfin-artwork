@@ -1,0 +1,17 @@
+[
+  {
+    "name": "doGtv AS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188511",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v0C5VEAetjIeklQZqSl4qPecj08.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "http://www.dogtv.no",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

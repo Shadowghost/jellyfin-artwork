@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Eyjafilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "282246",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bk7w9pfpwoJ3FQ03XVY2y8oc6mH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IS",
+    "homepage": "https://www.eyjafilm.com/",
+    "headquarters": "Reykjavík",
+    "placeholder": true
+  }
+]

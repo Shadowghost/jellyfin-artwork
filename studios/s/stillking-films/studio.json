@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Stillking Films",
+    "country": "CZ",
+    "homepage": "https://www.stillking.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11345",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xhnnHfsqEimD4r0QeUz3GSvcv73.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

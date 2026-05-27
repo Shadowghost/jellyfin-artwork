@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Topshot Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105952",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nHs0bGl0s8voUbrrkzPwbwWwrM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.topshotfilms.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

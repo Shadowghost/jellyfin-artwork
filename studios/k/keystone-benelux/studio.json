@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Keystone Benelux",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210410"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

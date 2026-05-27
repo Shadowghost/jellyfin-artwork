@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Korean Film Archive",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125400",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a3E5QXYsOkDhdH60sXbDXpgcLFe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://eng.koreafilm.or.kr/main",
+    "headquarters": "Mapo, Seoul, South Korea",
+    "placeholder": true
+  }
+]

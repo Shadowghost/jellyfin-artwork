@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SDK Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71391"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

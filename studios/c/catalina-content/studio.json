@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Catalina Content",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155245",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2cJC8NfBiMCjGfG91xmIDpA6Hy8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.catalinacontent.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

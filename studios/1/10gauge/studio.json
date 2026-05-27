@@ -1,0 +1,16 @@
+[
+  {
+    "name": "10GAUGE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289838",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uDj0qJAZ9HVGGGj32YXlnquoSeN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://10gauge.org",
+    "placeholder": true
+  }
+]

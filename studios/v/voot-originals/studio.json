@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Voot Originals",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "132581",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kvtEFAB1xdc5xtc9sSAQQN7r7rb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "homepage": "https://www.voot.com/",
+    "headquarters": "Mumbai, Maharastra",
+    "placeholder": true
+  }
+]

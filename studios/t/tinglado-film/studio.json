@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tinglado Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "47958",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3MKA5fZfTTOzTJUptZBewxeptKV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://tingladofilm.es/",
+    "headquarters": "Garachico, Tenerife",
+    "placeholder": true
+  }
+]

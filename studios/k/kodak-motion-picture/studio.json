@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kodak Motion Picture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8708",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p0ZWw5uHUjTWOd8Bw2gCT3hNrdA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.kodak.com/en/motion/home",
+    "headquarters": "Rochester, New York",
+    "placeholder": true
+  }
+]

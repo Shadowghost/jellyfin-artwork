@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Daily Wire",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120143",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pdT5BouPe8OGeQH9x08cAKsE22R.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Nashville, Tennessee",
+    "placeholder": true
+  }
+]

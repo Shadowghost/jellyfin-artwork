@@ -1,0 +1,13 @@
+[
+  {
+    "name": "crush+lab",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180093"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

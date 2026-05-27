@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Embassy Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112746"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "placeholder": true
+  }
+]

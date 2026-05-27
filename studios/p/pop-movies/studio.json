@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pop Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5690"
+      }
+    ],
+    "artwork": {},
+    "country": "HK",
+    "placeholder": true
+  }
+]

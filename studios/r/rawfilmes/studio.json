@@ -1,0 +1,13 @@
+[
+  {
+    "name": "RAWfilmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231816"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

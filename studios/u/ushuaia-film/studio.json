@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ushuaia Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141187",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ibZr9ooKAXCqPmLzGI2mMj6q0E.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.ushuaiafilm.com/",
+    "placeholder": true
+  }
+]

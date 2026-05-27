@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Grok Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12524"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

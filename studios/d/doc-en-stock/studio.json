@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Doc en Stock",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95834"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://en.docenstock.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

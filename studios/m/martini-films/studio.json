@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Martini Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3312"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.martinifilms.net",
+    "placeholder": true
+  }
+]

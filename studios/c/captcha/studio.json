@@ -1,0 +1,13 @@
+[
+  {
+    "name": "captcha!",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210319"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

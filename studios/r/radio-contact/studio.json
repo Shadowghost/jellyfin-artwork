@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Radio Contact",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "259221",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3792DejOYBCqaiq6ePi3B6rMGZF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "http://radiocontact.be",
+    "placeholder": true
+  }
+]

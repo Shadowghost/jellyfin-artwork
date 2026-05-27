@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dan Films",
+    "country": "GB",
+    "homepage": "http://www.danfilms.com/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1854",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3p1fIgAgsULm8wBTCTGk2mqh6yT.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

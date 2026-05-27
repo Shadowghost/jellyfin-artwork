@@ -1,0 +1,17 @@
+[
+  {
+    "name": "French TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "266548",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rVzjcmSPrbDzW1TuhTGId8RsSIJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.frenchtv.fr/",
+    "headquarters": "78 Boulevard de la République - 92 100 Boulogne-Billancourt",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fundamental Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140228",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nsO0PGU3wY4sJMjIfgD4ZxX36gC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "homepage": "https://www.fundamentalpictures.in/",
+    "headquarters": "Mumbai",
+    "placeholder": true
+  }
+]

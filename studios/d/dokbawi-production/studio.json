@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Dokbawi Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223000"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "placeholder": true
+  }
+]

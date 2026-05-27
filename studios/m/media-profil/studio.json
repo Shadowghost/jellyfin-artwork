@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Media Profil",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189316",
+        "logo_uri": "https://image.tmdb.org/t/p/original/anORaTcVUWHxL5CrMpWKACYGsxT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.mediaprofil.ch/",
+    "headquarters": "Vevey",
+    "placeholder": true
+  }
+]

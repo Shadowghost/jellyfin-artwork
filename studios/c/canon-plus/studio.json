@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Canon Plus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "253603",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xAZUMc51LDqoXunYhuqXsewZAkI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://canonplus.com/",
+    "headquarters": "Moscow, Idaho",
+    "placeholder": true
+  }
+]

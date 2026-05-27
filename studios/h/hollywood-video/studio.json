@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hollywood Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111425"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

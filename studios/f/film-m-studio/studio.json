@@ -1,0 +1,17 @@
+[
+  {
+    "name": "film-m studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113255",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o6cnKnUxR15jYg1DERL49S1Jae1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://m-film.ru/",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

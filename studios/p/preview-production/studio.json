@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Preview Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191066"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.previewproduction.com/",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

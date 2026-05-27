@@ -1,0 +1,24 @@
+[
+  {
+    "name": "7mate",
+    "description": "Australian free-to-air digital multichannel owned by Seven Network targeting male demographics.",
+    "country": "AU",
+    "type": "broadcast-network",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

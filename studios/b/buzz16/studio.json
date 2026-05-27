@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Buzz16",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145855",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nbFl3kJTcAIWnCgGAKT5rXPXMFI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.buzz16.uk",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

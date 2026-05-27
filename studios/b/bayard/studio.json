@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bayard",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123783",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mcERGuMDEyPTTQU5zDGN2mJopd3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.groupebayard.com/",
+    "headquarters": "Montrouge, France",
+    "placeholder": true
+  }
+]

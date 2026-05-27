@@ -1,0 +1,14 @@
+[
+  {
+    "name": "MostFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130146"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "placeholder": true
+  }
+]

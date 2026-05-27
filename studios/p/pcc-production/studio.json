@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PCC Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "246881"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lava",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6722"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

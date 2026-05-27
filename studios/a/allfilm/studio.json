@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Allfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6154",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5YKiuLl1qnTI3ZX5yxF8ZdtQ4GH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EE",
+    "homepage": "http://allfilm.ee",
+    "headquarters": "Tallinn",
+    "placeholder": true
+  }
+]

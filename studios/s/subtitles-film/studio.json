@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Subtitles Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150830"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

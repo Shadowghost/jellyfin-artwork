@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AFM video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "206039"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

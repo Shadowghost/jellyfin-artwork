@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Arenafilm",
+    "country": "AU",
+    "homepage": "https://www.arenafilm.com.au",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14591"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

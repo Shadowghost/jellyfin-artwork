@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinemanifest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115405",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oueZqRUrbPCvwDhWzg5LETIdZIb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://cinemanifest.fi/",
+    "headquarters": "Helsinki, Finland",
+    "placeholder": true
+  }
+]

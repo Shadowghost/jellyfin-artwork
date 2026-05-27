@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MOG Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209269",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A7g3WhW4bu6Y3XBZCQFAXm5G2Mq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://mogfilms.oopy.io/",
+    "placeholder": true
+  }
+]

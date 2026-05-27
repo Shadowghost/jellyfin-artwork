@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MeioTermo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130273",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9hJxkeQNgvXOiDdkZCVbpv3hIuw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "https://www.meiotermo.pt/",
+    "headquarters": "Rua Engenheiro Paulo Barros 12A, 1500-264 Lisboa",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ZUI",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208273",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4zbP2BOJx5glRJf6pcyjgtuGadm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "headquarters": "Shanghai",
+    "placeholder": true
+  }
+]

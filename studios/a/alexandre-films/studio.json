@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Alexandre Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2926",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9c6iLKfw1Ho3ikxkFqz5TPn3Ht.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.alexandrefilms.net",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "BBC Radio 3",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27900",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sCVGDDCcwTpYUPG31pf5ILDZAkl.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "GB",
+    "homepage": "https://www.bbc.co.uk/radio3",
+    "template": true
+  }
+]

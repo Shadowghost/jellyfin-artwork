@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Spark Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10081",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wKHQ5Kr7tIedRPg5eOt0I8ciaye.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://sparkmedia.org/",
+    "headquarters": "Washington, D.C.",
+    "placeholder": true
+  }
+]

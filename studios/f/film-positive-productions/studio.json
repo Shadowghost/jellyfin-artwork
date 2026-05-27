@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film Positive Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63721",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vAatwhqfLCJIu6IKKZX3iuKgG1Q.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "https://filmpositive.hu/",
+    "headquarters": "Budapest",
+    "placeholder": true
+  }
+]

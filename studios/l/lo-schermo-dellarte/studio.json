@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lo schermo dell’arte",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164432"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.schermodellarte.org",
+    "headquarters": "Florence, Italy",
+    "placeholder": true
+  }
+]

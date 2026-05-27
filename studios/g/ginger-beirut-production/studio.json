@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ginger Beirut Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160531",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6r6igejlDN7rWXwZxjnkhbOkP0S.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LB",
+    "homepage": "http://gingerbprod.com",
+    "headquarters": "Beirut",
+    "placeholder": true
+  }
+]

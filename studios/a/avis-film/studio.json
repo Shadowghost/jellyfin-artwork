@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Avis Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2004"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

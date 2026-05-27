@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Les Films de la Passerelle",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82782"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://passerelle.be",
+    "headquarters": "Liège",
+    "placeholder": true
+  }
+]

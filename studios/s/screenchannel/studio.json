@@ -1,0 +1,13 @@
+[
+  {
+    "name": "screenchannel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85351"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

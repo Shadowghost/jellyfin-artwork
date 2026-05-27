@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Cinecolor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1932",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iKiufFjm45R43Ezpn1go97Lg3Pm.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://www.cinecolorfilms.com/"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MBC Gyeongnam",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203371",
+        "logo_uri": "https://image.tmdb.org/t/p/original/s0VLyiluAVdFNOODzAfGj8K2joc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://mbcgn.kr/",
+    "headquarters": "Jinju, South Gyeongsang, South Korea",
+    "placeholder": true
+  }
+]

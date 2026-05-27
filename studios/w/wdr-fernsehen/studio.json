@@ -1,0 +1,29 @@
+[
+  {
+    "name": "WDR Fernsehen",
+    "description": "German public regional television channel operated by Westdeutscher Rundfunk (WDR) for North Rhine-Westphalia, part of the ARD network.",
+    "country": "DE",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69405"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

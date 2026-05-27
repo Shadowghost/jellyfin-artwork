@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Albacrow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126395",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7RHMkymA76lDY4iUOB6M9NAG9yp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.albacrow.info/",
+    "placeholder": true
+  }
+]

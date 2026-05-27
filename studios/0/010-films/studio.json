@@ -1,0 +1,17 @@
+[
+  {
+    "name": "010 Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210678",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wyQywSE1lLFBQJWHN0YCfYIhg8V.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://010films.com/",
+    "headquarters": "Genova",
+    "placeholder": true
+  }
+]

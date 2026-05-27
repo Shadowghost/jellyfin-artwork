@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Red Letter Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121590",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qXZP4mIiERWycAKhLdUZDvTeDkV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.redletterfilms.com",
+    "headquarters": "Surrey, British Columbia",
+    "placeholder": true
+  }
+]

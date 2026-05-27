@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Colorbox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73372"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

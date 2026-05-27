@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lightning Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147457"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

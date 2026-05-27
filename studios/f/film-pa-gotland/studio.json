@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film på Gotland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83831",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zdBVs8QWfBmnFZGUkz9KwyxkbxH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://filmgotland.se/",
+    "headquarters": "Fårösund, Gotland",
+    "placeholder": true
+  }
+]

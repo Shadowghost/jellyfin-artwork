@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Media Master",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222749"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

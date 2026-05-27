@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Panorama Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48076"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

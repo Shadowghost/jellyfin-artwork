@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Amazon Picture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "246611"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

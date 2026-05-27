@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Los Angeles Times",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "268779",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u1pB7TMFvL9dUasCfaOCsTEBWrG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.latimes.com/about",
+    "headquarters": "El Segundo, California",
+    "placeholder": true
+  }
+]

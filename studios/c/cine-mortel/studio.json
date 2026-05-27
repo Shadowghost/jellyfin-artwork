@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine-Mortel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202264"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

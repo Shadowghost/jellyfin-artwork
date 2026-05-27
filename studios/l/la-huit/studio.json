@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Huit",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "43981",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cxDm1Jf73QyMYPrgHenEIR1tH1R.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.lahuit.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

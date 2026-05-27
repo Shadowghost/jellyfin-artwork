@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cumulus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147222"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

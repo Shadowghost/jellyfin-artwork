@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jeonju International Film Festival",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34217",
+        "logo_uri": "https://image.tmdb.org/t/p/original/48h1xtqNLfHHalF8UNrZdQxSdZI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.jiff.or.kr/",
+    "headquarters": "Jeonju, North Jeolla",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cresus prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231383"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

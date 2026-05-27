@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fotogram",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193813",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l5AxnKHrMxdkAH1pKn8y3NAiBlv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://lahuit.com/fr/content/fotogram-postprod",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

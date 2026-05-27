@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Shubert Organization",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4321",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9Y3W5mm1viVge89NTDaa3acZW37.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://shubert.nyc/",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

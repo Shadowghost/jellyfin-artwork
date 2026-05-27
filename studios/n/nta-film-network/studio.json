@@ -1,0 +1,14 @@
+[
+  {
+    "name": "NTA Film Network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111939"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

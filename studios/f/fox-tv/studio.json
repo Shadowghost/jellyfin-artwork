@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Fox Broadcasting Company",
+    "description": "American commercial broadcast television network owned by Fox Corporation.",
+    "country": "US",
+    "type": "broadcast-network",
+    "colors": [
+      {
+        "name": "FOX Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "64026"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

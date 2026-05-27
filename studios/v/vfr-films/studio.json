@@ -1,0 +1,16 @@
+[
+  {
+    "name": "VFR Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "146003"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.vfrfilms.com/",
+    "headquarters": "Los Angeles, California, USA",
+    "placeholder": true
+  }
+]

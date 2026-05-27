@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pravda",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19096"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kartagen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153455",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m50NPU8UEa5wQWiRtVl3EL8acUT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.2p2l.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

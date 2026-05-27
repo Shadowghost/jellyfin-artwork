@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GONZO",
+    "country": "JP",
+    "homepage": "http://gonzo.co.jp",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1077",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1tpNgC6BptieT9oF2LJ7H6pbG6S.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

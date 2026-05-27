@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Get It Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "266175"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

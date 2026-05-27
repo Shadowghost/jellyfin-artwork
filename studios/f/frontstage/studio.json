@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Frontstage",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285759"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

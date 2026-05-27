@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Malo Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202075",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lcRVCh7BFXDh75JIZE4l765vknW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CM",
+    "homepage": "https://malopictures.net/",
+    "headquarters": "Yaoundé",
+    "placeholder": true
+  }
+]

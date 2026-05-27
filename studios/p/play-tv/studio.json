@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Play TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188199"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

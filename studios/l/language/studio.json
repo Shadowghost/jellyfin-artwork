@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Language",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141344"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

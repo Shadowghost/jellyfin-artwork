@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cine Mercury",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14749"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "placeholder": true
+  }
+]

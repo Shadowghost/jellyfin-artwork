@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Nagano Broadcasting System",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111400",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jepB1AQxLUKjs9ManubfTUETE6B.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.nbs-tv.co.jp/",
+    "placeholder": true
+  }
+]

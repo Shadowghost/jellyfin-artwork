@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Stonewall Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "44759"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

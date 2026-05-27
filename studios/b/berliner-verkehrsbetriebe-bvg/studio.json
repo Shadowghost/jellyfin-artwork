@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Berliner Verkehrsbetriebe (BVG)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "254156"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

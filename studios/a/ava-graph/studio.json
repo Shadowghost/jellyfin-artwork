@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ava-Graph",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204409"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "headquarters": "New York City"
+  }
+]

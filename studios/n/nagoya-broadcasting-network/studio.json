@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Nagoya Broadcasting Network",
+    "description": "Japanese television station based in Nagoya, Aichi, affiliated with TV Asahi's All-Nippon News Network (ANN).",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "http://nagoyatv.com",
+    "headquarters": "Nagoya",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81418",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Smithsonian Folkways Recordings",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275359",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4QvwrUayEln7wZlKlGJZqdZXCL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

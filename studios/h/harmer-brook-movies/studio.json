@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Harmer Brook Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "251905"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

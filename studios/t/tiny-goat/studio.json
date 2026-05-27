@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Tiny Goat",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201733"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

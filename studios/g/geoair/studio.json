@@ -1,0 +1,13 @@
+[
+  {
+    "name": "GeoAIR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138822"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

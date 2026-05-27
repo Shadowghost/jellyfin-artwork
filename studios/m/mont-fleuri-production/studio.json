@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mont Fleuri Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123519",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tU4qFvmGQDyvAvr0YPSnZiqewhP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MA",
+    "homepage": "https://montfleuriproduction.com",
+    "headquarters": "Casablanca",
+    "placeholder": true
+  }
+]

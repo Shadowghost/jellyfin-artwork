@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Storywiz Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "146645",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v8CvkJMmvuZDEs4Y0zbeZX6w4Jg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.storywiz.co.kr/",
+    "headquarters": "5, MJ Building #B 1, Bukchon-ro, Jongno-gu, Seoul, Korea",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ahil Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161222",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w03Lj2U4ukhsHC1iNZyuUwZq4xx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LT",
+    "homepage": "https://www.ahil.lt",
+    "headquarters": "Vilnius",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Red Vision production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79001"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

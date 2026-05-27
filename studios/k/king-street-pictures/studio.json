@@ -1,0 +1,13 @@
+[
+  {
+    "name": "King Street Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123412"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

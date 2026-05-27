@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Abandon Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2289"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

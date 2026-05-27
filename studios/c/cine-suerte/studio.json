@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cine Suerte",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15171"
+      }
+    ],
+    "artwork": {},
+    "country": "PH",
+    "placeholder": true
+  }
+]

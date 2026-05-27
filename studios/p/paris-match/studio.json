@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Paris-Match",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238937"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

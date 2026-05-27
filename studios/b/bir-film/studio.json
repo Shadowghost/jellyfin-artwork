@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bir Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82219",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w7DoHqhIOUKeoDsyJ1J7lBaGrTW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.birfilm.net/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

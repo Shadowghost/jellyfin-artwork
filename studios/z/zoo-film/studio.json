@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Zoo Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256435"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

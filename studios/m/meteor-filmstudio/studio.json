@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Meteor Filmstúdió",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120803"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

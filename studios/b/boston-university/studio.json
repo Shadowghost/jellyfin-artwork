@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Boston University",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130190",
+        "logo_uri": "https://image.tmdb.org/t/p/original/58axeSaA2wiQU8Ugm2SJIAeVqBQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

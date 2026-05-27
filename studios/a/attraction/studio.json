@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Attraction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46682",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ybNfe9vMywnjygOODnm7QYw9rvQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://attraction.ca",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Universal Music Austria",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100122"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "placeholder": true
+  }
+]

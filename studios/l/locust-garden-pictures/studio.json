@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Locust Garden Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "263798",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o2qvU3UN0jTnUqRtc5dOW8hwlqi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.locustgarden.com/",
+    "placeholder": true
+  }
+]

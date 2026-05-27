@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Navvaros",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "243762",
+        "logo_uri": "https://image.tmdb.org/t/p/original/upQWP9rjnfKDmIW0IFkhXDssK80.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "homepage": "https://navvaros.com",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Players",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224778"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

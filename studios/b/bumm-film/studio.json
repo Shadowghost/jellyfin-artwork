@@ -1,0 +1,16 @@
+[
+  {
+    "name": "bumm film",
+    "country": "DE",
+    "homepage": "https://bummfilm.de/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201839",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wSqGi74E28iHj1880lWTldOPm3D.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

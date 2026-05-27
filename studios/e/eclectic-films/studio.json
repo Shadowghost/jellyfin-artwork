@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Eclectic Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18938",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3WMhCzUb4fZ0P2tI849AyhArsDF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "headquarters": "Mumbai",
+    "placeholder": true
+  }
+]

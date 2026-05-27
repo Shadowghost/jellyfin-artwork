@@ -1,0 +1,13 @@
+[
+  {
+    "name": "KARO-Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "57566"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

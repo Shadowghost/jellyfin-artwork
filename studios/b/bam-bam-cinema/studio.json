@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bam Bam Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225512",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kt8TAXPQeUgtUHmgv1tCgoYEgUX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "https://bambamcinema.com/",
+    "headquarters": "Porto",
+    "placeholder": true
+  }
+]

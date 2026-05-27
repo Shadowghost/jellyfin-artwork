@@ -1,0 +1,14 @@
+[
+  {
+    "name": "VCI Home Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99375"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

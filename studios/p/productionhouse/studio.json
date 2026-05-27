@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ProductionHouse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280822",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rQCuOCcQnqtVEpK0VRK3yaoBKp2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "http://www.productionhouse.com.tr",
+    "headquarters": "Levent Mah. Sülűn Sok. No: 12",
+    "placeholder": true
+  }
+]

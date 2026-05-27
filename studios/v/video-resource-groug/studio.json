@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Video Resource Groug",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285130"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

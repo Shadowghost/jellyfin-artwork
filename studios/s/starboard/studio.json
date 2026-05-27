@@ -1,0 +1,15 @@
+[
+  {
+    "name": "StarBoard",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130302"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://starboard-pro.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Czech Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212744"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

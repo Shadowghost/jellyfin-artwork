@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sin Sitio Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168243",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vRh4j2W9LgYlLi3V7rdsEQ4yzeo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://www.sinsitiocine.com/",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

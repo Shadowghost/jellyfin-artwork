@@ -1,0 +1,17 @@
+[
+  {
+    "name": "October Media",
+    "country": "CN",
+    "homepage": "https://www.octmedia.com/",
+    "headquarters": "Beijing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153486",
+        "logo_uri": "https://image.tmdb.org/t/p/original/389mBiWxOR04XM8233qcRFfx9TN.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

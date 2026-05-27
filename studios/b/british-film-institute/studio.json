@@ -1,0 +1,39 @@
+[
+  {
+    "name": "British Film Institute",
+    "description": "British charity that promotes and preserves UK filmmaking, founded in 1933, also a national film archive and funder.",
+    "country": "GB",
+    "type": "government-agency",
+    "colors": [
+      {
+        "name": "BFI Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "BFI White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28323"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

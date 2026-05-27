@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FusionFlix Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "228591",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kMWtRKZl0hPeZoNGPzp6h6HNith.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.fusionflix.com/",
+    "headquarters": "Dallas, TX",
+    "placeholder": true
+  }
+]

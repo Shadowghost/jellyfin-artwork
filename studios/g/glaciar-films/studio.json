@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Glaciar Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167749",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b5s6JbLMgAnSRGExnHiv2J1xGl2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "https://www.glaciarfilms.com/",
+    "headquarters": "Santiago",
+    "placeholder": true
+  }
+]

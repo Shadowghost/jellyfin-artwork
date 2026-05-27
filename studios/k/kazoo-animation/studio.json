@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kazoo Animation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241007",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bDmfDm1LdoECox8U8bfK57bvSRK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://kazooanimation.com/",
+    "placeholder": true
+  }
+]

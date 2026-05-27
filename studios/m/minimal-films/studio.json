@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Minimal Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77611"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://minimalfilms.com",
+    "headquarters": "Barcelona, Catalonia",
+    "placeholder": true
+  }
+]

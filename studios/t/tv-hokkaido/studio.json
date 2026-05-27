@@ -1,0 +1,34 @@
+[
+  {
+    "name": "TV Hokkaido",
+    "description": "Japanese commercial television station based in Sapporo, affiliated with the TV Tokyo-run TX Network; the last commercial broadcaster to launch on the island of Hokkaido (October 1989).",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.tv-hokkaido.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184043",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xZZR8YJgZtskxbsTBIudob3PSsk.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Television Hokkaido"
+    ],
+    "template": true
+  }
+]

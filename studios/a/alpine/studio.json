@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Alpine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92345"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

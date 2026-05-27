@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DE-DE-EMA Visual",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120392"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MiniMondo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70702"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

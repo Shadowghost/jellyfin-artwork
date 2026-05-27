@@ -1,0 +1,15 @@
+[
+  {
+    "name": "HBO Family",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89525",
+        "logo_uri": "https://image.tmdb.org/t/p/original/67HEB3J6OEnnuOBdK9NSLFhIZVf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

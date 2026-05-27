@@ -1,0 +1,13 @@
+[
+  {
+    "name": "T5 Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270264"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

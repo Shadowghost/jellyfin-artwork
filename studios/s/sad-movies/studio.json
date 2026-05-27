@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sad Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250591"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

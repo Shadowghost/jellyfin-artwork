@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Answerstudio",
+    "country": "JP",
+    "homepage": "http://www.answerstudio.co.jp",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12305"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

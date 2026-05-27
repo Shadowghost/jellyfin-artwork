@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ndolo Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123018",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oP304p7XtbM3eZjiwJ0PyOicbBB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://ndolofilms.com/",
+    "headquarters": "New York, New York",
+    "placeholder": true
+  }
+]

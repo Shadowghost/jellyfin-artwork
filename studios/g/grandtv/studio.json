@@ -1,0 +1,15 @@
+[
+  {
+    "name": "GrandTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194066",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jJHh8HFeGlFzZwGioR9rYGyRmQ9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TH",
+    "placeholder": true
+  }
+]

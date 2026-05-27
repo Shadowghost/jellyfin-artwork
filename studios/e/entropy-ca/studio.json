@@ -1,0 +1,13 @@
+[
+  {
+    "name": "entropy ca",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "265761"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

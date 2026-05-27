@@ -1,0 +1,15 @@
+[
+  {
+    "name": "AVS-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209829"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

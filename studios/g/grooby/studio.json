@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Grooby",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93851",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rO4dRCIRHxfE156CXGZ0G0zlZlT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, CA",
+    "placeholder": true
+  }
+]

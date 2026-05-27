@@ -1,0 +1,15 @@
+[
+  {
+    "name": "ITC Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7705",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kFwgAgSN5bvyzfq6RXt4OkXLQ31.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "TITUS-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141116"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "placeholder": true
+  }
+]

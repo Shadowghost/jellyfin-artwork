@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Kripke Enterprises",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38398"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

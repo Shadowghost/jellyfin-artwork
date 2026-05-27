@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Edge Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187850"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

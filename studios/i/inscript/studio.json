@@ -1,0 +1,17 @@
+[
+  {
+    "name": "INSCRIPT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117493",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pPudAOyLIRzNvGAyVQpqguRZ8vC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LT",
+    "homepage": "https://www.inscript.lt",
+    "headquarters": "Vilnius",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Stoopid Monkey",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67233",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bMrvWLiGTuUOKnly1UlBDPvuqtL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

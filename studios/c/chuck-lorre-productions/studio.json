@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Chuck Lorre Productions",
+    "description": "American television production company founded by Chuck Lorre, producer of sitcoms including The Big Bang Theory, Two and a Half Men, and Young Sheldon.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://chucklorre.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35504",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e70DaugzSRbTbVEhZV3e1nCofcY.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

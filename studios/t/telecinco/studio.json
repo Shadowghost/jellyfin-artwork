@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Telecinco",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1182",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vuKupgmTNw6VCx7RMEOhLz18LIl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.telecinco.es",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

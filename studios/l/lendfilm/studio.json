@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lendfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198465"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

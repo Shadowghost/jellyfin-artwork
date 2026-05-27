@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Kamer-Ton-Film-Russia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101921",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3gaA5VKUgXqE2NbfM4R0ZgCUcCg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

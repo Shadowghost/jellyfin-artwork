@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Grasværk",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148888",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9wlnfojjpkWPOe2RXVwhbr69IOr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "http://www.grasvaerk.dk/",
+    "placeholder": true
+  }
+]

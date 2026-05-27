@@ -1,0 +1,13 @@
+[
+  {
+    "name": "colonna film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89507"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

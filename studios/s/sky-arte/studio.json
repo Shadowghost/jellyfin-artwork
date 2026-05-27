@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sky Arte",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41019",
+        "logo_uri": "https://image.tmdb.org/t/p/original/88crb1PMbRqa1AnyUcPrBXmz3Fk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://arte.sky.it",
+    "placeholder": true
+  }
+]

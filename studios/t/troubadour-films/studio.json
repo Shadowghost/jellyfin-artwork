@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Troubadour Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19607",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7kOXdpwxiDjsBWf9U6S6VP49Ukj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://troubadour-films.com/fr/acceuil/",
+    "placeholder": true
+  }
+]

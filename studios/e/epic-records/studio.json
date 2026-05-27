@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Epic Records",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7914",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uVRzFVZP6bJIQOkOEegvbzPG2ID.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.epicrecords.com/",
+    "placeholder": true
+  }
+]

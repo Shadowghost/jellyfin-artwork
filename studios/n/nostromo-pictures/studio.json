@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nostromo Pictures",
+    "country": "ES",
+    "homepage": "http://nostromopictures.com",
+    "headquarters": "Barcelona, Catalonia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11068",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jOdUllzDZRFy0tPIFDEwpP4Mpv4.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

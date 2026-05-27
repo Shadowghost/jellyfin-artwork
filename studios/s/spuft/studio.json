@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SPUFT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101778",
+        "logo_uri": "https://image.tmdb.org/t/p/original/plb9PIPsbNCz9qp8SKG5XJQKAXP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://www.gukit.ru/",
+    "placeholder": true
+  }
+]

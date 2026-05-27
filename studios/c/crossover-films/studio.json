@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Crossover Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180293",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mnA9rRlgpbwNSMmiYipochhXAkv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://crossoverfilms.ca",
+    "placeholder": true
+  }
+]

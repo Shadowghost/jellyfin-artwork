@@ -1,0 +1,13 @@
+[
+  {
+    "name": "May Day Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50492"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films du Noveau Monde",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95060"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

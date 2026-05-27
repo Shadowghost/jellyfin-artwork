@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Magnetic Labs",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200059",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q4gItsJvWmKluHx7VPYEhECQ620.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.themagneticlabs.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

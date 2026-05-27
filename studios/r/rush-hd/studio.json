@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Rush HD",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "261207",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iWNJkGmDmdteApbexMY9fAJWrMM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.rushhd.com/",
+    "placeholder": true
+  }
+]

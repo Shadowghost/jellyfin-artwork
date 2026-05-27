@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Chasseurs Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99450",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1S2MRTEExDdKYjNgnNXxRhRThen.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://chasseursfilms.com",
+    "headquarters": "Montréal, Québec",
+    "placeholder": true
+  }
+]

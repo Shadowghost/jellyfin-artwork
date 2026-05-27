@@ -1,0 +1,17 @@
+[
+  {
+    "name": "XYZ Films",
+    "country": "US",
+    "homepage": "http://xyzfilms.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12142",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

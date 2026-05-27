@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MUSE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201118",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c9bIdqwzoXQamAMyRv5mhIoZLnY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TW",
+    "homepage": "https://en.e-muse.com.tw/",
+    "headquarters": "Xinzhuang District, New Taipei, Taiwan",
+    "placeholder": true
+  }
+]

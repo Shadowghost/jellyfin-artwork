@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TV Globo Rio de Janeiro",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201059",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eqq9sRDJkiGjXQRoJ5ksJaugui1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://redeglobo.globo.com/rio/",
+    "headquarters": "Rio de Janeiro, Rio de Janeiro",
+    "placeholder": true
+  }
+]

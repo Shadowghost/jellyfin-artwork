@@ -1,0 +1,15 @@
+[
+  {
+    "name": "CollegeHumor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144407",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b79XLzWsAfJiOvmzk89ZUMAIVfP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

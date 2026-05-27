@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hailstone Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154207",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4WNhIRsOM6YGIzYMPAVKjgv76ab.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.hailstonefilms.com",
+    "headquarters": "Edinburgh, Scotland",
+    "placeholder": true
+  }
+]

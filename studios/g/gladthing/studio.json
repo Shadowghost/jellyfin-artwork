@@ -1,0 +1,13 @@
+[
+  {
+    "name": "GladThing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239072"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

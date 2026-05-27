@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Maspero",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125125",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aEzSuTCRSb1epblgd73pLXkL6o9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EG",
+    "homepage": "https://www.maspero.eg/",
+    "headquarters": "Cairo, Egypt",
+    "placeholder": true
+  }
+]

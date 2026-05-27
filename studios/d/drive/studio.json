@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Drive",
+    "country": "JP",
+    "homepage": "https://www.drive-music.jp",
+    "headquarters": "Suginami City, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123199",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eYfRKOsOKXzL9zau5iKgUmRk8nK.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

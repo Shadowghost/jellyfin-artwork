@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pax-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99114"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

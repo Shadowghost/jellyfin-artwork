@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Macondo Cine Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100199"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

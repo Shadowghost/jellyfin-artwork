@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ushuaïa TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110387",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fJxexB8pz1AidTjsjXmP3BdFMZj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.ushuaiatv.fr",
+    "headquarters": "France",
+    "placeholder": true
+  }
+]

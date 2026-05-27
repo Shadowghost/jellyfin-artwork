@@ -1,0 +1,13 @@
+[
+  {
+    "name": "The Vault",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6032"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

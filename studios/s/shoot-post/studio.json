@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Shoot&Post",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197286",
+        "logo_uri": "https://image.tmdb.org/t/p/original/y7ExmnrLNLOdFQwIrx9qeyJTo39.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.shootpost.se/",
+    "headquarters": "Gothenburg",
+    "placeholder": true
+  }
+]

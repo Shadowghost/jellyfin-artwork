@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Les Films de Françoise",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80146"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

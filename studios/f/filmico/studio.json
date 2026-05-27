@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fílmico",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174747",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gNEZ9qMOvllPaVAWOS5jtZeOszB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.filmico.com.br/",
+    "headquarters": "São Paulo",
+    "placeholder": true
+  }
+]

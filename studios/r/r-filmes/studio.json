@@ -1,0 +1,13 @@
+[
+  {
+    "name": "R Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215108"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

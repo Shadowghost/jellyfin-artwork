@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Silver Screen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73634"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://silverscreen.cz/",
+    "headquarters": "Prague, Czech Republic",
+    "placeholder": true
+  }
+]

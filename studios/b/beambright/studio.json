@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Beambright",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36003"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Svenska Biografteatern",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17620",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e1EieGeoDpBCx8QdIIh4ZnB0bsT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

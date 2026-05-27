@@ -1,0 +1,13 @@
+[
+  {
+    "name": "HumaraMovie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "281357"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

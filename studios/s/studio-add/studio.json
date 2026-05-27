@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Studio Add",
+    "country": "JP",
+    "homepage": "http://st-add.com/",
+    "headquarters": "Sakado, Saitama",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166234"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

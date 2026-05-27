@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CineUpdate",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270091"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

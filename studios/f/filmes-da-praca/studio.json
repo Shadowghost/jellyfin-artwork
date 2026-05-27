@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmes da Praça",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116017"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Superfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7016"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "https://superfilm.at/en",
+    "headquarters": "Zieglergasse 1 A – 1070 Vienna",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Telewizja Polska (Białystok)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208368"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://bialystok.tvp.pl/",
+    "headquarters": "Włókiennicza 16A street 15-464 Białystok",
+    "placeholder": true
+  }
+]

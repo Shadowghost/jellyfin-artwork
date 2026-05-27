@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Filmfly",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158150"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "placeholder": true
+  }
+]

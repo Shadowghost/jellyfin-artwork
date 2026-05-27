@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ronde",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142424",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f3MfLGKqcVjMCzvrr27w6eEPlcF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://ronde.media",
+    "headquarters": "Woolloomooloo, New South Wales",
+    "placeholder": true
+  }
+]

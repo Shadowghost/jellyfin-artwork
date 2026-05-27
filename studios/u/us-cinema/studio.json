@@ -1,0 +1,15 @@
+[
+  {
+    "name": "US Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234904"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://uscinemas.jp/",
+    "placeholder": true
+  }
+]

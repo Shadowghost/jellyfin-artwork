@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Pokémon Company",
+    "country": "JP",
+    "homepage": "https://corporate.pokemon.co.jp/en/",
+    "headquarters": "Roppongi, Minato, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12654",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hBWpNb7x4R77xxltwNtM0ANboW6.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

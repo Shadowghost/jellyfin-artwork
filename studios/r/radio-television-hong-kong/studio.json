@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Radio Television Hong Kong",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29764",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jwSP9m9gvb9fWvmSnIuSg68md04.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HK",
+    "homepage": "https://www.rthk.hk/",
+    "headquarters": "Broadcasting House, 30 Broadcast Drive, Kowloon, Hong Kong SAR",
+    "placeholder": true
+  }
+]

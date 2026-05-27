@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WunderWerk",
+    "country": "DE",
+    "homepage": "https://www.wunder-werk.de/",
+    "headquarters": "Unterföhring",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36357",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zdhANDGx0iptVURkRu6kaq2CRu4.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

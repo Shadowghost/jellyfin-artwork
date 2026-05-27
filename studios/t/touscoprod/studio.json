@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Touscoprod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112002",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2FQ9ov0EsiiBDvtItnqiSZ218iF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.touscoprod.com/",
+    "headquarters": "75018 Paris",
+    "placeholder": true
+  }
+]

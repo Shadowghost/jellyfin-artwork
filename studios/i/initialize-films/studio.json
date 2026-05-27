@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Initialize Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128598"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

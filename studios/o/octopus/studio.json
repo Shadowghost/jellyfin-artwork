@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Octopus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40095",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zT7S6TmxRTpJcAATjk6nzjsIucj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.thisisoctopus.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

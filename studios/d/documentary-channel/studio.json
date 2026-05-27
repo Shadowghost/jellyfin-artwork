@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Documentary Channel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92794",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j7Yc51fekD7LEAcRuGdZ6qnhx0B.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.cbc.ca/documentarychannel",
+    "headquarters": "Ottawa, Ontario",
+    "placeholder": true
+  }
+]

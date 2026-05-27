@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kisi Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "44603",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d96yDTB0qVyxJKgE6hTZggcPErd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IS",
+    "homepage": "http://kisi.is/",
+    "headquarters": "Reykjavík",
+    "placeholder": true
+  }
+]

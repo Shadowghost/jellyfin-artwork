@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Blast! Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2600",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ePDVrW3gJCd3kxi8ucLckJoG3Bu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.blastfilms.co.uk",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

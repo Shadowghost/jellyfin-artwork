@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NHK Educational",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159919",
+        "logo_uri": "https://image.tmdb.org/t/p/original/khNmWG2Pix3FUzYQQlHQl765WSz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.nhk-ed.co.jp/",
+    "placeholder": true
+  }
+]

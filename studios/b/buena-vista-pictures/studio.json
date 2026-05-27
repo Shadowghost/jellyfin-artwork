@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Buena Vista Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

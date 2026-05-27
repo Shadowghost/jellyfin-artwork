@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Picasso Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110853",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n2yGuAS8qo6asOpqsjn5VwFk6St.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

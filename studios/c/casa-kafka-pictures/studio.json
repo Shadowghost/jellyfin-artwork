@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Casa Kafka Pictures",
+    "country": "BE",
+    "homepage": "https://www.casakafka.be",
+    "headquarters": "Brussels",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11924",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3uGsFGMUjLw52rvEllvs2txnJmn.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

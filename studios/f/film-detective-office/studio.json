@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Detective Office",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17200"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

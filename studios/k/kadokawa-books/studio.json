@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Kadokawa Books",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245176"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://kadokawabooks.jp/",
+    "placeholder": true
+  }
+]

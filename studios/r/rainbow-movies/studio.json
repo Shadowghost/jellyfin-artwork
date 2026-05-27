@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Rainbow Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "278988"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

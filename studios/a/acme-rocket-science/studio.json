@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ACME Rocket Science",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104518"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

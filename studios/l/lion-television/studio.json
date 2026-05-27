@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lion Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12746",
+        "logo_uri": "https://image.tmdb.org/t/p/original/unf8CxhcWt8ziwhORuqk41tj8n6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://www.liontv.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

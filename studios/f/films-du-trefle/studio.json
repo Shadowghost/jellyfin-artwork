@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Films du Trèfle",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81515"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

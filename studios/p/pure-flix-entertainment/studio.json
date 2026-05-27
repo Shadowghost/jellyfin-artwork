@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pure Flix Entertainment",
+    "country": "US",
+    "homepage": "https://www.pureflix.com/",
+    "headquarters": "Scottsdale, Arizona , U.S.",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6427",
+        "logo_uri": "https://image.tmdb.org/t/p/original/73gMvgccXNJLd5E6VKJzuHT1Ik0.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

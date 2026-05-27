@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TV Manchete",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "263312"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

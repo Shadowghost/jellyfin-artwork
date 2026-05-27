@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Monday Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122429"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

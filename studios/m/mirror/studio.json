@@ -1,0 +1,13 @@
+[
+  {
+    "name": "mirror",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198555"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

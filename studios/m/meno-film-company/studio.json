@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Meno Film Company",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13505"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Shanghai Animation Film Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6223",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lOxuAoSiKVeePamkUq5VCyUFiPw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://www.ani-sh.com",
+    "headquarters": "Shanghai",
+    "placeholder": true
+  }
+]

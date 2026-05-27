@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lanterna",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "265401"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Migoo Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140202",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6GwgCiSUcoKTN16xfExDM9qCl1f.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.mntnfilm.com/en/p/advanced-search/type:1?term=MIGOO",
+    "headquarters": "Migoo Production, 9 Chemin Vieux Chene, 38240 Meylan",
+    "placeholder": true
+  }
+]

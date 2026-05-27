@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MACK Magic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234069",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zdEFQ0HA7PRNHH1wYUEv7v7cyV2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.mackmagic.eu/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Orange Studio",
+    "country": "FR",
+    "homepage": "http://www.orange-studio.fr",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15433",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9nnaDAbuHwbikxAV1t1BC2Z60GC.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

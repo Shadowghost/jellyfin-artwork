@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Golden Phoenix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5678"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

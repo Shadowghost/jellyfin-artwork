@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Vantis Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79055",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cmFmmPHxatWjlUzrKXVRCtlYEli.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "http://vantispictures.com"
+  }
+]

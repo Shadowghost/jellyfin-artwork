@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Grimaldi production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131281"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

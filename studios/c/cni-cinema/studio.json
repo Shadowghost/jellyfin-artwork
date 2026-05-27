@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CNI Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119505"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Moravské zemské muzeum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152919"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.mzm.cz/",
+    "headquarters": "Brno",
+    "placeholder": true
+  }
+]

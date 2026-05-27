@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Monkey Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116506",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mVnaTqbQ46HWmzUAkLSMrei7PPh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TW",
+    "placeholder": true
+  }
+]

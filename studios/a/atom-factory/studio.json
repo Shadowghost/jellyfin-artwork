@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Atom Factory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39036"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

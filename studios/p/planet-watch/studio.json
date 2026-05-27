@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Planet Watch",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92371"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

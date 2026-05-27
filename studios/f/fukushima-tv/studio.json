@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Fukushima TV",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273214",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a3lzJhlkoH3ghUWoagtdw1azdsm.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

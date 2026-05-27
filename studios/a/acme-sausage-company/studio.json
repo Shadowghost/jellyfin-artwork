@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Acme Sausage Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106939"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

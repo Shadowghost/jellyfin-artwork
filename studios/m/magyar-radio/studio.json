@@ -1,0 +1,13 @@
+[
+  {
+    "name": "magyar rádió",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99897"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

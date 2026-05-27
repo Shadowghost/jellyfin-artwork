@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Berry Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111342"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

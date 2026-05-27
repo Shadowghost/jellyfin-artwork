@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CTRL+ S",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "276751"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

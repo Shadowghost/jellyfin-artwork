@@ -1,0 +1,15 @@
+[
+  {
+    "name": "GoodTimes Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12313",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1GUIuC1Pjk0oOWJuaS42zb9NF43.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

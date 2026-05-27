@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Molecule",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29810"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Thousand Words",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "380",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zyBjj3uoA2WLrAc4yvwAOcuRpms.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

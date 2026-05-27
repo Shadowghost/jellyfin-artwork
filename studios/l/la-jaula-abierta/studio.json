@@ -1,0 +1,15 @@
+[
+  {
+    "name": "La Jaula Abierta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145219",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d8JqlRHRcPp1AQW9OuEJroJJYp4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SV",
+    "placeholder": true
+  }
+]

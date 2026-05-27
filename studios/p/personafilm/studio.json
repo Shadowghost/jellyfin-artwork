@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Personafilm",
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7447"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

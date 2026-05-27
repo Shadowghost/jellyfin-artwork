@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Foggy Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81769",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bI49KGaBvPg8HimgI2KLLuUYMdj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.foggyfilmes.net/",
+    "headquarters": "Sorocaba SP",
+    "placeholder": true
+  }
+]

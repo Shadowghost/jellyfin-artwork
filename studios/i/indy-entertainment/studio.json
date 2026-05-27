@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Indy Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41945",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3Lb6fsbpbXaeOfxtNk1xzn70QB9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.indy-ent.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Wadia Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174888"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "North Star Pictures",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "186151"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

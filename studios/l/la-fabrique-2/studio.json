@@ -1,0 +1,15 @@
+[
+  {
+    "name": "La Fabrique 2",
+    "country": "FR",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7346"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

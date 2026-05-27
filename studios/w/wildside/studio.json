@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wildside",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21246",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e5NWP10OYWCUa0T363WxkNzL78s.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.wildside.it/en/",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

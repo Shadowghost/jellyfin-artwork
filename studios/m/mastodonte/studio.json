@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mastodonte",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111121"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

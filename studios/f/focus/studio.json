@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Focus",
+    "country": "IT",
+    "headquarters": "Milan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119440"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

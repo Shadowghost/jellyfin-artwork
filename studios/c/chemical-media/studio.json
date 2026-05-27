@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Chemical Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123026",
+        "logo_uri": "https://image.tmdb.org/t/p/original/liEam77sb1S515NyvNzeFxRzVZd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "http://chemicalmedia.tv",
+    "headquarters": "Melbourne, Victoria",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DT Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140397",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zTfeVFHHpcJksasM2ILqEXlDooa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://www.dtproduction.ru/",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

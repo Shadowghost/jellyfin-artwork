@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Médiathèque des Trois Mondes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90532"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Regenerate Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93741"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

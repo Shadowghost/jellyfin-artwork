@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BBI",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283273"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

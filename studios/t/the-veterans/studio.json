@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Veterans",
+    "country": "US",
+    "homepage": "https://the-veterans.com/",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200642"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

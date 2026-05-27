@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The StoryBay",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233480",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4i133iLRiGUdDMebTde7eRq0mkY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.storybay.tv/",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

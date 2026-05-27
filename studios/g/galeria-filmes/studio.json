@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Galeria Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133672"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

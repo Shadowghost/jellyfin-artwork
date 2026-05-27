@@ -1,0 +1,15 @@
+[
+  {
+    "name": "atmovie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130168"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://atmovie.tv",
+    "placeholder": true
+  }
+]

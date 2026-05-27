@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Endcrawl",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216690"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

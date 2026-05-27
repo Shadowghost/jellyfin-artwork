@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BRB Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144122",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sR8SZT67TuPICaEzrOv6HUHgU2H.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://studiobrb.com/brb-pictures",
+    "placeholder": true
+  }
+]

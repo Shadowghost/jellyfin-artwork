@@ -1,0 +1,16 @@
+[
+  {
+    "name": "EichbergFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34423"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://eichbergfilm.de/",
+    "headquarters": "Dresden",
+    "placeholder": true
+  }
+]

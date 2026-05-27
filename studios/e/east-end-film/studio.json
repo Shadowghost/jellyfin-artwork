@@ -1,0 +1,17 @@
+[
+  {
+    "name": "East End Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67474",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jLJH9et2WLZ8KZ5BlZYnaKqJ2s1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.eastendfilm.de/",
+    "headquarters": "Stuttgart",
+    "placeholder": true
+  }
+]

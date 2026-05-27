@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Hungarian Filmlab",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "44277"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "http://www.filmlab.hu/en",
+    "placeholder": true
+  }
+]

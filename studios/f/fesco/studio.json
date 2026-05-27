@@ -1,0 +1,16 @@
+[
+  {
+    "name": "FESCO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169828",
+        "logo_uri": "https://image.tmdb.org/t/p/original/199OZWbe7uOo56wS1qpXPwMgzB6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://www.fesco.ru/ru/",
+    "placeholder": true
+  }
+]

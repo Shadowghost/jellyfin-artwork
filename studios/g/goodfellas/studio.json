@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Goodfellas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211595",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zVFJYy3PJIdgfp7H5lDOfaYVcG3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://goodfellas.film",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

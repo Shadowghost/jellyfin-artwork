@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Avrotros",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60439",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wXrkCgSBWhF4cjbztPoWtDtOJqj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.avrotros.nl",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

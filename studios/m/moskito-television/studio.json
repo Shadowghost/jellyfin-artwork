@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Moskito Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70792",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nT1VA68evdeBdh8wIVgRPvjKyTw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "http://www.moskito.fi/",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Fox Telecolombia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6980",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vl8ZrvkRz9j0U67hGVyIyLK3GjM.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "CO",
+    "homepage": "https://foxtelecolombia.com/",
+    "headquarters": "Bogotá, Distrito Capital",
+    "template": true
+  }
+]

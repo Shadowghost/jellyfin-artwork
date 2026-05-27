@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pomona Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203793",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mUNWhrSeXPi2X4yJ2Tdj71IlQxJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.pomonapictures.it/",
+    "placeholder": true
+  }
+]

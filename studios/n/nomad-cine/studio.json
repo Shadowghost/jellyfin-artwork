@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NOMAD Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140445"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

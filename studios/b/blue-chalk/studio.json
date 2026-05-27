@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Blue Chalk",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183460",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dZL3wNp6TIgWy7pLVg0HosJy0Iv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://bluechalk.com/",
+    "headquarters": "Brooklyn, New York, USA",
+    "placeholder": true
+  }
+]

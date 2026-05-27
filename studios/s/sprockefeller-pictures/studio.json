@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sprockefeller Pictures",
+    "country": "US",
+    "homepage": "http://sprockefeller.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92336",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6Xc60wER3i1DfIBzIK1Ot7aI0EC.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

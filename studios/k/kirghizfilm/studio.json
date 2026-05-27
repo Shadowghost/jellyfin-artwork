@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kirghizfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40456",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7aU4xI1sq3ZGXbNsX6uP0Z6VYlU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SU",
+    "headquarters": "Frunze, Kirghiz SSR, USSR",
+    "placeholder": true
+  }
+]

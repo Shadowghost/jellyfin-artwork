@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lilies Films",
+    "country": "FR",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "43649",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5pv3tUlq25IiuMuok57YBZIiKn.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

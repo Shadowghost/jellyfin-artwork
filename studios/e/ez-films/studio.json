@@ -1,0 +1,17 @@
+[
+  {
+    "name": "EZ Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27336",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ceEMmFOaet7uCpHWh122IRPudup.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://ez-films.com",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

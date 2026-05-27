@@ -1,0 +1,14 @@
+[
+  {
+    "name": "TED Ed",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129863"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

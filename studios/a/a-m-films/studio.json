@@ -1,0 +1,14 @@
+[
+  {
+    "name": "A&M Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11043"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

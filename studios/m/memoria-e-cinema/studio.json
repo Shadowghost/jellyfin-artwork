@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Memoria e Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222011"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

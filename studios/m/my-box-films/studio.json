@@ -1,0 +1,17 @@
+[
+  {
+    "name": "My Box Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125339",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1qMAzaB915azuJioe5FtHJXFL9A.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.myboxprod.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

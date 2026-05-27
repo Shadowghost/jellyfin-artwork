@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dwango",
+    "country": "JP",
+    "homepage": "https://dwango.co.jp/",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29672",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e3iSDZHis5wWo18z8cvB5udRctO.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

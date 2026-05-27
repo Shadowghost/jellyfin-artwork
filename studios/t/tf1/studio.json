@@ -1,0 +1,47 @@
+[
+  {
+    "name": "TF1",
+    "description": "French free-to-air television channel, the most-watched private network in France and Europe, owned by TF1 Group.",
+    "country": "FR",
+    "type": "broadcast-network",
+    "homepage": "https://www.tf1.fr/",
+    "headquarters": "Boulogne-Billancourt",
+    "colors": [
+      {
+        "name": "TF1 Blue",
+        "hex": "#0066CC"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tvdb",
+        "id": "260"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "22123",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zPTy6QDAlCKGeAALZoFEL3QAlut.png"
+      },
+      {
+        "provider_name": "imdb",
+        "id": "co0028766"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "tf1",
+    "template": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tout sur l'Ecran",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79185",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yEHGrCo0RTarrZVWMSrcd5gkP1a.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.toutsurlecran.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

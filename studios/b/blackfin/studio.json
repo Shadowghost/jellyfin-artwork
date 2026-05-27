@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Blackfin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141267",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8YGfReeoDjbmzPLZ2Q3uonTe8lg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.blackfin.tv/",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

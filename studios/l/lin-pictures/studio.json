@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lin Pictures",
+    "country": "US",
+    "homepage": "http://linpictures.com",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2723",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rB0dyszYRRR3SAG1tfNRzXoYDYq.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

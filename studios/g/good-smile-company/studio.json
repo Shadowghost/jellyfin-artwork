@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Good Smile Company",
+    "country": "JP",
+    "homepage": "https://www.goodsmile.info/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60197",
+        "logo_uri": "https://image.tmdb.org/t/p/original/D5B8l99tlFJGoMpYJk1kqxYdey.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

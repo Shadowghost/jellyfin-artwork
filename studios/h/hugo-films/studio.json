@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hugo Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2389"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

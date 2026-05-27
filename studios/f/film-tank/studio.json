@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Tank",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15224"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

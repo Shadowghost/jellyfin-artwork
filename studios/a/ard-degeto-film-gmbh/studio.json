@@ -1,0 +1,39 @@
+[
+  {
+    "name": "ARD Degeto Film GmbH",
+    "country": "DE",
+    "homepage": "https://www.degeto.de",
+    "headquarters": "Frankfurt am Main",
+    "providers": [
+      {
+        "provider_name": "imdb",
+        "id": "co0061958"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "986",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qDV8nLH9pjElZSnPmg29mzzNlTo.png"
+      },
+      {
+        "provider_name": "tvdb",
+        "id": "5047"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "ard-degeto-film GmbH",
+    "template": true
+  }
+]

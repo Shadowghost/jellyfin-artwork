@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Tritonafilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192105"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Passerelle Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285368"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

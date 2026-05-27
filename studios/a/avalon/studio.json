@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Avalon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26174",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zXj7grtt7yW8pcaSZM0Wfefy634.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.avalon.me/",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

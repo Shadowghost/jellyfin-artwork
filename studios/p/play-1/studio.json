@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Play+1",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216366",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e0dXdHDxVuUrOdGtu7tOB9978cR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

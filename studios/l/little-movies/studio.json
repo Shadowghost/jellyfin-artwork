@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Little Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255247"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

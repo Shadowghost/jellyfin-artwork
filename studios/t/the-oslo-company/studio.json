@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Oslo Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145880",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7VDNAIGoAIrtRjbmTGQntyvmDEx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://oslocompany.no/",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

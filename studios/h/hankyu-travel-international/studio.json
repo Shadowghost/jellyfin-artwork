@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Hankyu Travel International",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256887",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fYJvkSBXaGzVoJXzUeEc3AqQFgY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.hankyu-travel.com/",
+    "placeholder": true
+  }
+]

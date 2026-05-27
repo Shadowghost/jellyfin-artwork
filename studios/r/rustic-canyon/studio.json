@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rustic Canyon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141609",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oaSkG7iXX4DVUrAmp6qMwRZTY6w.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://rusticcanyonpictures.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

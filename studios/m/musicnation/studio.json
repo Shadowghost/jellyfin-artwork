@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MusicNation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168174"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

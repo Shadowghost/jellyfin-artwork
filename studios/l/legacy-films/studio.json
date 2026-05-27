@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Legacy Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130806"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

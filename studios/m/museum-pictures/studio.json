@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Museum Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150403"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

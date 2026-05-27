@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Shepherd Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270006"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

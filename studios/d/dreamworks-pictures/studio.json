@@ -1,0 +1,29 @@
+[
+  {
+    "name": "DreamWorks Pictures",
+    "country": "US",
+    "headquarters": "Universal City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zcKhWbxFJ4CohZ9dLBMxmOArTVn.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Production Ogi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159521",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a9zMvDWXnds7dMrDiIYApOyaTnt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://ogipro.com/",
+    "placeholder": true
+  }
+]

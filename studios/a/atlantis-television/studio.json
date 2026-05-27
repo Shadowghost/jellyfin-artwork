@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Atlantis Télévision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214684",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yKerq32ItrHilWkGjtUb9WsnKze.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.atlantistv.fr/",
+    "placeholder": true
+  }
+]

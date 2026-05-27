@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BOF Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168738",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n2fBb0xoIBiJOBaq6Fhms7b3iBz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BG",
+    "homepage": "https://bofpictures.com/",
+    "headquarters": "Sofia",
+    "placeholder": true
+  }
+]

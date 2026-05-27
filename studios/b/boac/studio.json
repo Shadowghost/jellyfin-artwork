@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BOAC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157126",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7RF09pCPoacnjydJaJ4tJ2d69Jf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "headquarters": "Speedbird House, Heathrow Airport, England",
+    "placeholder": true
+  }
+]

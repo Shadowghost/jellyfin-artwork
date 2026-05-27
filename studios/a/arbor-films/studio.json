@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Arbor Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2040"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

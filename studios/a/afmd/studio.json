@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AFMD",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12223"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

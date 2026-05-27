@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Húmedo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118292"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "http://www.humedocine.cl",
+    "headquarters": "Concepción, Santiago",
+    "placeholder": true
+  }
+]

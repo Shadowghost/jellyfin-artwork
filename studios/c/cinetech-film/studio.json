@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cinetech Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66154",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ah5aANzBKpb4BRb8ioNHBJuPrbw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GE",
+    "homepage": "http://www.cinetech.com.tr/",
+    "placeholder": true
+  }
+]

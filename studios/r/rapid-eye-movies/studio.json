@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rapid Eye Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60184",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9LyMEzOIP3eyPJkooddqDS2GF5r.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://rapideyemovies.de",
+    "headquarters": "Cologne",
+    "placeholder": true
+  }
+]

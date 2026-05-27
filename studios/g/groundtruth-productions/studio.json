@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Groundtruth Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91011"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

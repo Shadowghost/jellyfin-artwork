@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ShowTime Film (Italia)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18953",
+        "logo_uri": "https://image.tmdb.org/t/p/original/36AK3XpRn5lMgSXTy3EsXbV4y6a.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.showtimefilm.com",
+    "placeholder": true
+  }
+]

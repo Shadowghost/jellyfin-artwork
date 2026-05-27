@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Hip Hop Museum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255749",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xbnPGZdKR2JdXHskHXgevkCFBU5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://thhm.org",
+    "placeholder": true
+  }
+]

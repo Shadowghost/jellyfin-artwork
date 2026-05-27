@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sinemarjen Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200369",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8kooXcFZr0lbIYqjlq3E8JIE30z.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "http://www.sinemarjenfilm.com/",
+    "headquarters": "Diyarbakır",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Perception Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41246"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

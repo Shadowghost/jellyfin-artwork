@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmspectrum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230808"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

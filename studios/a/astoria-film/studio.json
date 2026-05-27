@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Astoria-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130235"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "headquarters": "Vienna",
+    "placeholder": true
+  }
+]

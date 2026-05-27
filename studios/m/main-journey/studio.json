@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Main Journey",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91331",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uYyo3szZqWKn5p2bfAXMXzqVo8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

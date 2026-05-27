@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Películas Plot",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67248"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

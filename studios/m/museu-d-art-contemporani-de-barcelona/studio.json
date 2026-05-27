@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Museu d'Art Contemporani de Barcelona",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234555"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "headquarters": "Barcelona",
+    "placeholder": true
+  }
+]

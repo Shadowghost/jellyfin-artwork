@@ -1,0 +1,16 @@
+[
+  {
+    "name": "California Newsreel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102366"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://newsreel.org/",
+    "headquarters": "San Francisco, CA",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CityMation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41042"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

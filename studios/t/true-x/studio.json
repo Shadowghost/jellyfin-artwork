@@ -1,0 +1,14 @@
+[
+  {
+    "name": "True X",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123432"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

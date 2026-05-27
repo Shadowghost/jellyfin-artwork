@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SHAFT",
+    "country": "JP",
+    "homepage": "http://www.shaft-web.co.jp",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6689",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l96PFbGQ8kUs030SrkYdK4LQklE.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

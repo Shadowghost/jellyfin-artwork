@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mat Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118905"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.mat.cz/matfilm/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

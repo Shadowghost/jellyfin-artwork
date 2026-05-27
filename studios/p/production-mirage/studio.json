@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Production Mirage",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275267"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

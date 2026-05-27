@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FilmVergnuegen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142064",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lU0gJVT0WA2UfvDYiNw9O1Qo85w.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.filmvergnuegen.it/",
+    "headquarters": "Bolzano",
+    "placeholder": true
+  }
+]

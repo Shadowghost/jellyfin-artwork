@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MAGENTFILM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230927"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

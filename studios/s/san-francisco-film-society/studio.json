@@ -1,0 +1,17 @@
+[
+  {
+    "name": "San Francisco Film Society",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "47713",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yg9Rsdm1ybjwLJeAtqwimCrX8nX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://sffilm.org/",
+    "headquarters": "San Francisco, California, United States",
+    "placeholder": true
+  }
+]

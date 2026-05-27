@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Dogfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80811"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://dogfilm.de",
+    "placeholder": true
+  }
+]

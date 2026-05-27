@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kurz-Spielfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193086"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmarium Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100622"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

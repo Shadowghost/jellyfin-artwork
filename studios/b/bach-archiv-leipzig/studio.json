@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Bach-Archiv Leipzig",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260094"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

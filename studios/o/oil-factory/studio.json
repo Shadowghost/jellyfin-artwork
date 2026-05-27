@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Oil Factory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6098"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles",
+    "placeholder": true
+  }
+]

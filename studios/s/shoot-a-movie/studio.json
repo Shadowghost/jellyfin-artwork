@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Shoot a Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "292968"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

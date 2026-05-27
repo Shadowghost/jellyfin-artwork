@@ -1,0 +1,16 @@
+[
+  {
+    "name": "KOJO Entertainment",
+    "country": "AU",
+    "homepage": "https://kojo.com.au/kojo-entertainment/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105250",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yjmSQyzLMxQlZootsxnHkN81ldj.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

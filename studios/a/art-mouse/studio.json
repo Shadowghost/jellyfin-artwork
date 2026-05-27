@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Art Mouse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185423"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

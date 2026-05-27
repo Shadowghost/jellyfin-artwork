@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Bandai Visual",
+    "description": "Japanese anime and film distribution company; merged into Bandai Namco Arts in 2018 and later Bandai Namco Filmworks.",
+    "country": "JP",
+    "type": "distributor",
+    "homepage": "https://www.bandaivisual.co.jp/top/",
+    "headquarters": "Ebisu, Shibuya, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "528",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fO3Aof3lXQclYpBByYC8aneTXwA.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

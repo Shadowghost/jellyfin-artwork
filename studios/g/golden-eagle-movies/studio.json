@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Golden Eagle Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110444"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

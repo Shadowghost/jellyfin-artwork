@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mission Control Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27092",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aGpwBWuKRfx57Mats1JPFsMB4iw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://missioncontrolmedia.net",
+    "headquarters": "Burbank, California",
+    "placeholder": true
+  }
+]

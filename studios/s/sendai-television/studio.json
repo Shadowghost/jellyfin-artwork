@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Sendai Television",
+    "description": "Japanese commercial television station based in Sendai, Miyagi Prefecture, affiliated with Fuji TV and the Fuji News Network.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135680",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zU7JbY0k9I5nF6LEaHVL2IZERV.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

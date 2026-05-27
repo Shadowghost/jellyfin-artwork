@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TFS Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260390"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

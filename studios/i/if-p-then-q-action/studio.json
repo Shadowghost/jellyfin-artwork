@@ -1,0 +1,13 @@
+[
+  {
+    "name": "If P then Q Action",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187907"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

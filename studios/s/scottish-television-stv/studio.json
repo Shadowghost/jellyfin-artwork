@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Scottish Television (STV)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13766",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lyb0s330Tw0fccHNB4SMBUR1IOc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "headquarters": "Glasgow, Scotland",
+    "placeholder": true
+  }
+]

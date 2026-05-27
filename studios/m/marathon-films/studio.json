@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Marathon Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108006",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6qWY7JbIsYNt0603kv60y59whd2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

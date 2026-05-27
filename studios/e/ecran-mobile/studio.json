@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ecran-Mobile",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180311"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "A-NEWS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137906"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.a-newsreport.com/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Kuaishou",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205162",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1BTlTFKdjHQxc8ZzToVnySqaljl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "placeholder": true
+  }
+]

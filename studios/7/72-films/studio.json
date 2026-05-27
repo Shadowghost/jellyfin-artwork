@@ -1,0 +1,17 @@
+[
+  {
+    "name": "72 Films",
+    "country": "GB",
+    "homepage": "https://www.72films.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129921",
+        "logo_uri": "https://image.tmdb.org/t/p/original/22kUlxxXEKK7RNUD4O064yE8SIH.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

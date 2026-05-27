@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Förster-Film",
+    "country": "DE",
+    "headquarters": "Berlin/Hamburg, Germany",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147254"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

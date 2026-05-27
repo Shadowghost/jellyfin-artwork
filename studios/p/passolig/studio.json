@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PassoLig",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "278973",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n1oTjMulfDgN42syDttSm9bIGLV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://passotaraftar.com.tr",
+    "headquarters": "İstanbul, Turkiye",
+    "placeholder": true
+  }
+]

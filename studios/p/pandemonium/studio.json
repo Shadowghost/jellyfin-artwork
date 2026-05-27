@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pandemonium",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155450",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5QNMsdZzvW3BD9HHxnB8VRRj4Bq.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

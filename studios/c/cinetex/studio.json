@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CineTex",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "293235"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Midnight Radio",
+    "country": "US",
+    "homepage": "https://www.midnight-radio.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51593",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qkmCZvtCAbNmRto9RdOd2mRm1IB.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Korea Communications Commission",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218424",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lLxCv86usR3I8M6YdByNHmOdBrE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.kcc.go.kr/",
+    "headquarters": "Gwacheon-si, Gyeonggi-do, South Korea",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tokyo Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53286"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.tokyofilmes.com/",
+    "headquarters": "Porto Alegre RS",
+    "placeholder": true
+  }
+]

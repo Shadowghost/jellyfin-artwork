@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kubefilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78968"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

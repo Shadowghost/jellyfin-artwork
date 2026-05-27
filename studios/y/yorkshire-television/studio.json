@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Yorkshire Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12476",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A8X93JHJONB6YXYYRmYWKajp9lg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

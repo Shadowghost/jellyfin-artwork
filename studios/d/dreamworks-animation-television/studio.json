@@ -1,0 +1,32 @@
+[
+  {
+    "name": "DreamWorks Animation Television",
+    "description": "Television production arm of DreamWorks Animation, producing animated series for streaming and broadcast.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.dreamworks.com/shows",
+    "headquarters": "Glendale, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42141",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3DWUezrpxTqVMW4oKRhzfqJbULK.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

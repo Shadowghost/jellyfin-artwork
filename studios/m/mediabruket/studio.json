@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mediabruket",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67256",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nU1s0hj1y1Hhxy8I0fXic0Up3Od.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://www.mediabruket.se/",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

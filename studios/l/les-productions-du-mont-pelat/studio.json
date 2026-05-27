@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les productions du Mont-Pelat",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193631",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wmLTx2faFglggEOituZ4pcj9WnB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.lesproductionsdumontpelat.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

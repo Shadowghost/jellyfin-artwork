@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Trending arts productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239048"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

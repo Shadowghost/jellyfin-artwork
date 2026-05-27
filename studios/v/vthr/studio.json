@@ -1,0 +1,13 @@
+[
+  {
+    "name": "VTHR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "206101"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Nikola Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93099",
+        "logo_uri": "https://image.tmdb.org/t/p/original/anZyUrl6OmCth1WhHGXbv6Oagd3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "headquarters": "Saint Petersburg, Russia",
+    "placeholder": true
+  }
+]

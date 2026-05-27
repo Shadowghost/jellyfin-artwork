@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Go-Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "297030"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Canarinho Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "298196",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pSjMPkyDmGrG2bhhJIg13EQbe6B.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

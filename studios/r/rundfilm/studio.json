@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RUNDFILM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220619",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5g2txBSd5ZvRcwKNKy99RX00JYc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "https://www.dasrund.com/rundfilm/",
+    "headquarters": "Vienna",
+    "placeholder": true
+  }
+]

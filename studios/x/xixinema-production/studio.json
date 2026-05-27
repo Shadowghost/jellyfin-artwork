@@ -1,0 +1,13 @@
+[
+  {
+    "name": "xixinema production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208777"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

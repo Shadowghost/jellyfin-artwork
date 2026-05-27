@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Seine Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73670",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cukgHBESiAShXZdvQIHenK9ybsW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.seinepictures.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

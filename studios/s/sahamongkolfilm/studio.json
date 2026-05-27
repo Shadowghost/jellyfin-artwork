@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sahamongkolfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4207",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v5BSFwIXQmZEO16bClILNrbv4Kl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TH",
+    "homepage": "http://www.sahamongkolfilm.com",
+    "headquarters": "Bangkok",
+    "placeholder": true
+  }
+]

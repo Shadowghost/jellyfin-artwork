@@ -1,0 +1,14 @@
+[
+  {
+    "name": "The Feature Film One",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "253069"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

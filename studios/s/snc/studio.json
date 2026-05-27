@@ -1,0 +1,14 @@
+[
+  {
+    "name": "SNC",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16670"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

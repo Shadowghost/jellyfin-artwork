@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Create NSW",
+    "country": "AU",
+    "homepage": "https://www.create.nsw.gov.au/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104145",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pXEmryDYZUOHAeb218RcKQgdJ4t.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mr. Mudd",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2130",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g0lqeY2FvhzXcOI6z8RVXbORRUY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.mrmudd.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

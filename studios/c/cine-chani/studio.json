@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cine Chani",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233896",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kJe94bpnJfC74fkHuHbyDai3yig.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DO",
+    "homepage": "http://www.tomatico.net/",
+    "placeholder": true
+  }
+]

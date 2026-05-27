@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Artina Films",
+    "country": "US",
+    "homepage": "https://artinafilms.com",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2394",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sUWGEjxxCU5McOoD2JPrJHDW7K3.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

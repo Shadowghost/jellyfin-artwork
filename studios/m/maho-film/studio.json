@@ -1,0 +1,35 @@
+[
+  {
+    "name": "MAHO FILM",
+    "description": "Japanese anime studio founded in 2017; productions include By the Grace of the Gods and The Vexations of a Shut-In Vampire Princess.",
+    "country": "JP",
+    "type": "production-company",
+    "homepage": "https://mahofilm.com/home-en/",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120332",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yH2UqiQ77X4BkEsl1TdlLknzmrm.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Maho Film"
+    ],
+    "template": true
+  }
+]

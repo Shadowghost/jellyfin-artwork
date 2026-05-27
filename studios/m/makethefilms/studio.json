@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MaketheFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238565",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3zScqmyYS9Zqrf9Gf8SEEL8EHe3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.makethefilms.com/",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

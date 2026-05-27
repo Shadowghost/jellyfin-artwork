@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lavazza",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166756",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sDXiwZzBhjTM4upghbm0dq56gTN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.lavazza.it/",
+    "headquarters": "Torino, Italy",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sundance Now",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181515",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tcMaJTYdftHPPD8ZkVrWSqwjqA8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.sundancenow.com/",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fubar Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93567",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yyvIvQxpyD4kzoLS5uI0mnphXcV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "https://fubarfilm.wixsite.com/fubarfilms",
+    "headquarters": "Dublin",
+    "placeholder": true
+  }
+]

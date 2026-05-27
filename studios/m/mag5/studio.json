@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MAG5",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118730",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lkN2wbFjiq9Otk2HwRstKk52m8y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.mag5.se/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Cup of Tea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "178822",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6TI2prgrGVpS76iuGGhiLh3AhNU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://thecupoftea.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

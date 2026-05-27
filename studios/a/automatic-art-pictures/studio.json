@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Automatic Art Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213639"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

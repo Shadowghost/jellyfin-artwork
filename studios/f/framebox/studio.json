@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FrameboX",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80056"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

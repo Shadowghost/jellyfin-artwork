@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Squeeze",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129671",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bj5imEhE1kQgaZe7lKikdxZwEZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.squeezestudio.com",
+    "placeholder": true
+  }
+]

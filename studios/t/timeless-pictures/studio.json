@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Timeless Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120981",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1dN8LNzCZq1Xq0jAMqNZy32OIyJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://timelesspics.net/",
+    "placeholder": true
+  }
+]

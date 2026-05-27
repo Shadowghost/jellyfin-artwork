@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Super Epic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241475"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

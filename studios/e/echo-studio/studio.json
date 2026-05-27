@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Echo Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140218",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rmqRbG8Pr26Tr53LCCEcFzE6eVi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://echo-studio.eu/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

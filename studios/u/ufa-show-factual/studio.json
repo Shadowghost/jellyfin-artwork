@@ -1,0 +1,17 @@
+[
+  {
+    "name": "UFA Show & Factual",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "59707",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2yREEdDXzdMDRrjC45vhSk11z8r.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.ufa.de/die-ufa/ufa-show-factual",
+    "headquarters": "Cologne",
+    "placeholder": true
+  }
+]

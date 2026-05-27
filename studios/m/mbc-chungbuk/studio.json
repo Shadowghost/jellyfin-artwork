@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MBC Chungbuk",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238933",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qOLUzXYkQlVkfVZCf0IlTPyqOF5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.mbccb.co.kr/",
+    "headquarters": "Cheongju, North Chungcheong, South Korea",
+    "placeholder": true
+  }
+]

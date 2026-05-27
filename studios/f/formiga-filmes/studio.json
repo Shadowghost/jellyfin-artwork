@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Formiga Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201860",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lzmgGF7DIGurWENOl9KOrr8sqkZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

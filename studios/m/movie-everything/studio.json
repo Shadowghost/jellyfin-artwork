@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie Everything",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199696"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MereCinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166356",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2uUf7ssReVqdcUsbmi2xvTBbQdK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.merecinema.net/",
+    "headquarters": "Gangnam, Seoul, South Korea",
+    "placeholder": true
+  }
+]

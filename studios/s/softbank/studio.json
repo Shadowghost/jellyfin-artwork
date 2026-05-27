@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SoftBank",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "287945",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sDpqbyqltF7LIffQatnYv1n5bIr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.softbank.jp/",
+    "placeholder": true
+  }
+]

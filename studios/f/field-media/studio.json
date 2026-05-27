@@ -1,0 +1,13 @@
+[
+  {
+    "name": "field.media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113364"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

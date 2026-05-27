@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Flow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169907",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cFxCmTSUL2ZGFAgLXr1cfNFg8sb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://www.flow.com.ar/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

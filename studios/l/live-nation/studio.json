@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Live Nation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51070"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.livenation.co.uk",
+    "placeholder": true
+  }
+]

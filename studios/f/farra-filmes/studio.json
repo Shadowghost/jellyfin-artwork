@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Farra Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163007",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9MFtlf4jKJtIP52UWnpEUQf0EHG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://farra.media/",
+    "placeholder": true
+  }
+]

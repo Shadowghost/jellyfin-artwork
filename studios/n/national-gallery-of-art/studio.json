@@ -1,0 +1,13 @@
+[
+  {
+    "name": "National Gallery of Art",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191819"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

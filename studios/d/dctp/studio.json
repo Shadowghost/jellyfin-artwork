@@ -1,0 +1,16 @@
+[
+  {
+    "name": "dctp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105136"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.dctp.de/",
+    "headquarters": "Düsseldorf",
+    "placeholder": true
+  }
+]

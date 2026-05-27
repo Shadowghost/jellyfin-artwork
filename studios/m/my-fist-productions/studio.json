@@ -1,0 +1,16 @@
+[
+  {
+    "name": "My Fist Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202321",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aOkQLnJHojRkgBm0hkSYehyaHzb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

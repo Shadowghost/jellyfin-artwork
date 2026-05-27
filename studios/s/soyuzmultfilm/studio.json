@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Soyuzmultfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7501",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hz8piJ9Np1MswUyav0JDNGf42pO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://www.souzmult.com",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

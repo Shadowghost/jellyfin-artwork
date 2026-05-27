@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Double Take Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159167",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r319cUWdZXoSujm4NWSPuTx2KuJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "West Hollywood, California",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "OOTB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200067"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

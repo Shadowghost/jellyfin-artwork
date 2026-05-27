@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Asahi Broadcasting Corporation",
+    "description": "Japanese broadcasting holding company headquartered in Osaka; its TV operations (ABC TV) are a Kansai region key station for TV Asahi's ANN network.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://corp.asahi.co.jp",
+    "headquarters": "Fukushima-ku, Osaka",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4868",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3ExeT4zGXBFU7ei1crOvuzKnc1z.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

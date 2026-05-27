@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Legio Felix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120379",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l1LWjsXuzmIDXceAJraQijM20tV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://legiofelix.com/",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Margo Cinéma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78695"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.margocinema.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

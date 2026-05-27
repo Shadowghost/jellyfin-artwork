@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Regency Enterprises",
+    "country": "US",
+    "homepage": "http://www.newregency.com/",
+    "headquarters": "West Hollywood, California, USA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "508",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4sGWXoboEkWPphI6es6rTmqkCBh.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

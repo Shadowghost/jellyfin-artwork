@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Histodoc",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135094",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ijdZOW28RzIIp26Q7aLMbjcDsMZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.histodoc.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Universitat Pompeu Fabra",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78523",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tlptuYlIEOmXlb4PnuJXj6R4H3A.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.upf.edu/home",
+    "headquarters": "Barcelona, Catalonia",
+    "placeholder": true
+  }
+]

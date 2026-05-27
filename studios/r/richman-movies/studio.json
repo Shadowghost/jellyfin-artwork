@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Richman Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125222"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

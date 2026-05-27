@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Santa Rita Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91850",
+        "logo_uri": "https://image.tmdb.org/t/p/original/z5OWqo79bPVKHeejiLoFdvmfgee.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://santaritafilmes.com.br/",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

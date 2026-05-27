@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Silenzio Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "287142",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xxip4HBDGZcpj5aakFTLa2U8CzK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.silenzio.fr/",
+    "placeholder": true
+  }
+]

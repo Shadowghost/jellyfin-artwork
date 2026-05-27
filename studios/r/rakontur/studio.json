@@ -1,0 +1,17 @@
+[
+  {
+    "name": "rakontur",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6303",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iRIuZOmvuNzPOjsMu9arFVq5jWf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.rakontur.com",
+    "headquarters": "Miami FL",
+    "placeholder": true
+  }
+]

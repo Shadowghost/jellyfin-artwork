@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Wagtail Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110627"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

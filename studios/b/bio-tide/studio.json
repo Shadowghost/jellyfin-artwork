@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Bio-Tide",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101875"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

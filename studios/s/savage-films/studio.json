@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Savage Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21462",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pCgWcVLnHAxz9r7ANKXfWjKjqNj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://savagefilms.net",
+    "headquarters": "Squamish, British Columbia",
+    "placeholder": true
+  }
+]

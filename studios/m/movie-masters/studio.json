@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Movie Masters",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23140"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "placeholder": true
+  }
+]

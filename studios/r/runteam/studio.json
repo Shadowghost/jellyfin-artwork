@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Runteam",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "265"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

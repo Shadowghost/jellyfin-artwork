@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tell Me The Story",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137276",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w7CdUhBHQNhFCCoEXMrXZvXeLSk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "http://www.tellmethestory.ch",
+    "headquarters": "114 Rue de Rhône, Geneva",
+    "placeholder": true
+  }
+]

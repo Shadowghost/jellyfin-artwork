@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ústrední Pujcovna Filmu",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256070"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "placeholder": true
+  }
+]

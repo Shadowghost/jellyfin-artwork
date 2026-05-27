@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Liber",
+    "country": "JP",
+    "homepage": "http://liber-inc.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177456",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3R2QFje9KyUWS39UqJocPvTcNBy.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

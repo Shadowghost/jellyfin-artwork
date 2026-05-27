@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wildcard Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "47241",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o27eXRdHDZOHv0U4IyVudn3C26p.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.wildcardfilms.co.uk/",
+    "headquarters": "Bournemouth, Dorset, England",
+    "placeholder": true
+  }
+]

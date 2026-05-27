@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Wunschfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285421"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

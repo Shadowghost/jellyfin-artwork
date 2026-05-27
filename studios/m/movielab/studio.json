@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Movielab",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150127"
+      }
+    ],
+    "artwork": {},
+    "country": "GR",
+    "placeholder": true
+  }
+]

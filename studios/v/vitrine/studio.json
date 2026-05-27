@@ -1,0 +1,13 @@
+[
+  {
+    "name": "vitrine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "291866"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

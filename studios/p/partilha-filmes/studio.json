@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Partilha Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "207136"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

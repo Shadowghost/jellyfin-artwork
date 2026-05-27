@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ferviente Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210448",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bCqXbGSALQ21ti3XktJT57oqCpr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CO",
+    "homepage": "http://www.fervientefilms.com.co/",
+    "headquarters": "Bogotá",
+    "placeholder": true
+  }
+]

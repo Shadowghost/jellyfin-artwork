@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Filharmonia im. Mieczysława Karłowicza w Szczecinie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "292203"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://filharmonia.szczecin.pl/pl",
+    "headquarters": "Szczecin",
+    "placeholder": true
+  }
+]

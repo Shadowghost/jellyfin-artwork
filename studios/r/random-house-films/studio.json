@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Random House Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26891",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m3SUYQ4MkylJih0W6W0WIm7fycB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "New York",
+    "placeholder": true
+  }
+]

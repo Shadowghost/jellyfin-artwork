@@ -1,0 +1,16 @@
+[
+  {
+    "name": "DocNoteFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117002",
+        "logo_uri": "https://image.tmdb.org/t/p/original/botLROaDBq7gNXZKbGlsxQ95lUY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UA",
+    "homepage": "http://docnotefilms.com/",
+    "placeholder": true
+  }
+]

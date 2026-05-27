@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Minimal Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88616"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

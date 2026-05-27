@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Centre national du cinéma et de l'image animée",
+    "description": "French government agency under the Ministry of Culture responsible for regulating, funding and supporting the cinema and audiovisual industries.",
+    "country": "FR",
+    "type": "government-agency",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264476"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

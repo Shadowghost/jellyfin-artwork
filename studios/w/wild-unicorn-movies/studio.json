@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Wild Unicorn Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224234"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

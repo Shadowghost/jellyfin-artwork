@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MMC Zodiac",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86278",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fF6KocbuZsNUOrR1kjO8uzO21Kf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.mmc-zodiac.de",
+    "headquarters": "Cologne",
+    "placeholder": true
+  }
+]

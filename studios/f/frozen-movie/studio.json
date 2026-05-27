@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Frozen Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285419"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

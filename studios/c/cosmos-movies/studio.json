@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cosmos Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "253690",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c3sSU40IL6ilXY9d9AO7UFdgnCL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "headquarters": "Rajarajeshwari Nagar, Bengaluru",
+    "placeholder": true
+  }
+]

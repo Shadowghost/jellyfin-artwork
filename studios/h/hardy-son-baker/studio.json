@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Hardy Son & Baker",
+    "country": "GB",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73649",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8hQkBDxJDc63VpJS38i6DTURYXk.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

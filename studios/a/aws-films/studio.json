@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AWS Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148993"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

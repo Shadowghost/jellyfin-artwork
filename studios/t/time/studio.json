@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Time",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2402"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films de l'Instant",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98757",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dB49ceFmeQ62gs1sSawtXmbAZUR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.les-films-de-linstant.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

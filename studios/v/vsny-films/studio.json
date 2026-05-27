@@ -1,0 +1,17 @@
+[
+  {
+    "name": "VSNY Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170976",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9FBaI0l2A9fG2cdknAjLE66JQdW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.vsnyfilms.com/",
+    "headquarters": "Brooklyn, New York",
+    "placeholder": true
+  }
+]

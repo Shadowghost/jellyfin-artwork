@@ -1,0 +1,13 @@
+[
+  {
+    "name": "sound.person",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289942"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

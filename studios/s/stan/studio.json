@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Stan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74346",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1akCJMjyZsiS4v3NTJD5Y0LFZ4R.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://www.stan.com.au/",
+    "headquarters": "Sydney",
+    "placeholder": true
+  }
+]

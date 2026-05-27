@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Patagonia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148014",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sh5M67BZcLtrMkyX6sXTcg4ci2z.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.patagonia.com/",
+    "headquarters": "Ventura, California, US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Silex Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58048",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pKKVgdznp7uNjrgGbRa7ot2Jwsn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.silexfilms.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

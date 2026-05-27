@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CF Tide",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170787"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

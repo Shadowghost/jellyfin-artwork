@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Jupiter",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50331"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

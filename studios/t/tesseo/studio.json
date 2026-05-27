@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tesseo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107707",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ua88xnIdgPuO9uX58DVxT8uKucJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://tesseo.com/",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

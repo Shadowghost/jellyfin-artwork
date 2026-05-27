@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fabel Entertainment",
+    "country": "US",
+    "homepage": "https://www.fabelentertainment.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188734",
+        "logo_uri": "https://image.tmdb.org/t/p/original/slz9Q8iaa7S2YnSsHdsVdqH16HE.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

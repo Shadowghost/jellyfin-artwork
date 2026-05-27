@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CarpeDiemFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121343",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tlq6yIHA5CV0rO60AOGEOWYWmkX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://www.carpediemfilm.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fernsehfonds Austria",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40711",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6BdvNJBz95vJiD4sIVOPdKNZCi1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "https://www.rtr.at/de/ffat/Fernsehfonds",
+    "placeholder": true
+  }
+]

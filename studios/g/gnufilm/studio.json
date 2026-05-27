@@ -1,0 +1,16 @@
+[
+  {
+    "name": "GNUFILM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94334"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://www.gnufilm.se/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

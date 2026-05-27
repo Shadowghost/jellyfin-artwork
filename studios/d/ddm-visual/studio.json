@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DDM Visual",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49275"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

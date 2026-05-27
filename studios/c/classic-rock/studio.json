@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Classic Rock",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187024"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

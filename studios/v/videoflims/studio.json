@@ -1,0 +1,13 @@
+[
+  {
+    "name": "VideoFlims",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120847"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

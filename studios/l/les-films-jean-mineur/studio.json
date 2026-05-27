@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Les Films Jean Mineur",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210278",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1YpTg9LMMHoNEOEtB7J6hqYtXNQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Les Films Jean Mineur, Paris, France",
+    "placeholder": true
+  }
+]

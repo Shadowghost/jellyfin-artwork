@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fachhochschule Dortmund",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93139",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jnKNXs1t9svg8VhAar2f8hadXWX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.fh-dortmund.de/",
+    "headquarters": "Dortmund",
+    "placeholder": true
+  }
+]

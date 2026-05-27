@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TOXA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109511",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8lDi4ptt25nzxUToYqT3LrGFEA9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.urbania.media/home",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

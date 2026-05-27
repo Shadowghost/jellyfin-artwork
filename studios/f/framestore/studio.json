@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Framestore",
+    "description": "British VFX and animation studio headquartered in London, known for work on Gravity, Blade Runner 2049, and Marvel films.",
+    "country": "GB",
+    "type": "production-company",
+    "homepage": "https://www.framestore.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13502"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

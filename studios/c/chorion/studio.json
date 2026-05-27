@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Chorion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23821",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n7dXjqYDidCqo62rlmerEqjDwlb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

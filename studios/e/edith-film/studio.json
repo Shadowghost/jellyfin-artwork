@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Edith Film",
+    "country": "FI",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25491"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

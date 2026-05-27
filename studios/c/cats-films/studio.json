@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cats Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "247083",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2tDq3GzsMnq1OGDXfvSrDsxLL3f.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EG",
+    "homepage": "https://catsfilms.com/",
+    "headquarters": "Cairo",
+    "placeholder": true
+  }
+]

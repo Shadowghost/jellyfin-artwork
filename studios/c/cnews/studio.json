@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CNEWS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152407",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lR6WxIx0dTC0XSZymO9FOBeRsSb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://cnews.fr",
+    "placeholder": true
+  }
+]

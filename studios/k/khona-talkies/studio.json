@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Khona Talkies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123630",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bCYGgh7IzhYc7rc0Na7wncTLXl0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BD",
+    "homepage": "http://www.khonatalkies.com/",
+    "headquarters": "Dhaka",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vegas PBS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218642",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p2aLdEAf5RmemBHsJ16j1YIRHk9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.vegaspbs.org/",
+    "headquarters": "Las Vegas, NV",
+    "placeholder": true
+  }
+]

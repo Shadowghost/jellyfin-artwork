@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WAM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112972",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pOsBHTGfbxBZCN2Wh1xjPUSDI8s.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.wamgrp.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

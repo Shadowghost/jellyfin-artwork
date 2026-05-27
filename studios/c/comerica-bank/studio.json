@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Comerica Bank",
+    "description": "American financial services company headquartered in Dallas, Texas; the largest bank holding company headquartered in Texas and one of the 25 largest US banks.",
+    "country": "US",
+    "type": "other",
+    "colors": [
+      {
+        "name": "Comerica Red",
+        "hex": "#C8102E"
+      }
+    ],
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

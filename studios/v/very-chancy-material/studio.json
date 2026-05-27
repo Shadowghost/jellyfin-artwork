@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Very Chancy Material",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128207"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Medialand",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105386",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9ZUWfLhM4g7KgG8Tk2VaezGeBJs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.medialand.com.br",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

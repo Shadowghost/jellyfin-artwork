@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Coming Soon Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86516",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mHmucFUUkbJ7uR1XWrhA77GfiwJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://comingsoonfilms.com/",
+    "headquarters": "Barcelona",
+    "placeholder": true
+  }
+]

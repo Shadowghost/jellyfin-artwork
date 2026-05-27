@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Bizim Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111068"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

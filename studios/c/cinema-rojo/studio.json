@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinema Rojo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "186566",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b0lwc98slZi2wYJ4rvaQnf5l9Wr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://cinemarojo.com/",
+    "headquarters": "Mexico City (Ciudad de México)",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Darkroom",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149799",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yLXU45Q0jpcKDfihOItMFwPp8u.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

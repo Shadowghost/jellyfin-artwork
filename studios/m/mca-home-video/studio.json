@@ -1,0 +1,14 @@
+[
+  {
+    "name": "MCA Home Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139602",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9icLGznaPZRMh1mEKxqnIhWPYPM.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

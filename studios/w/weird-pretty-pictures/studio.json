@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Weird Pretty Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91951",
+        "logo_uri": "https://image.tmdb.org/t/p/original/28f1knucXbDPnZeuFlJIFRPMfNT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "https://www.weirdprettypictures.com/",
+    "headquarters": "Dublin",
+    "placeholder": true
+  }
+]

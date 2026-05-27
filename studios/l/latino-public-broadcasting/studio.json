@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Latino Public Broadcasting",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105516",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j1FgbOz1NFwt6iEhdd05dWwr7Z2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://lpbp.org/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

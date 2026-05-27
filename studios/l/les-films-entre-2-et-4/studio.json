@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Les films entre 2 et 4",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142017"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

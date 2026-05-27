@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Highlight",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

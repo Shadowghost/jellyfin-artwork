@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Admirable Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223032",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zydozVPuk0kySjArtvuI6tVNPPD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.admirablefilms.com/",
+    "headquarters": "Valencia",
+    "placeholder": true
+  }
+]

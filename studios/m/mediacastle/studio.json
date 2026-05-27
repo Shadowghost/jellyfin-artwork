@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MediaCastle",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "178173"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Hollywood Foreign Press Association",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256162",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g6IYxWBq3JBxes0P4pZ3cJzPmyB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

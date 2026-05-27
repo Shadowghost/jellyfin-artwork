@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PlotTwist",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "292645"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Simplicity",
+    "country": "JP",
+    "homepage": "https://www.simplicityinc.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187931",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3KD7UMxXsHz1H8PJ8RqKlExLMv1.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

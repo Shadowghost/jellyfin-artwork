@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Distant Horizon",
+    "country": "ZA",
+    "homepage": "http://www.distant-horizon.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85681",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1GZ94KYANlFvEyt6iUL0O3MAON4.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

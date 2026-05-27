@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Broadcast Nature Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231026"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

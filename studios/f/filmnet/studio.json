@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FILMNET",
+    "country": "IR",
+    "homepage": "https://filmnet.ir/",
+    "headquarters": "Tehran",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18395",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gYbUf9evLBRgZEkrx6XwWfkOLSt.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "C&I entertainment",
+    "country": "JP",
+    "homepage": "http://ci-e.co.jp",
+    "headquarters": "Shibuya, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10764",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6HWsMwT6cNXzsDqeoBTezc7D4VA.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

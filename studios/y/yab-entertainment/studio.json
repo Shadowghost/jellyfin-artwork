@@ -1,0 +1,16 @@
+[
+  {
+    "name": "YAB EntertainMent",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "246440",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qSmG24oRvjKnbVnhFEbP3ST86yx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://yem.jp/",
+    "placeholder": true
+  }
+]

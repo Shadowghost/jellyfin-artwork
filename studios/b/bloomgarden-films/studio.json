@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Bloomgarden Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123553"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

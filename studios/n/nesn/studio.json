@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NESN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173933",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wi8x7SKqGALF4WPCiBth6jNpwdE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://nesn.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nord-Ouest Films",
+    "country": "FR",
+    "homepage": "http://www.nord-ouest.com",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "57752",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2k3j1B8TEbZPQgckP6zh75pIb4s.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

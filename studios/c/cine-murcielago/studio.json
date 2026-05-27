@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Cine Murciélago",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141310",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mEItPOeXbJCQ6P5ylHB0vFm7GWi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "placeholder": true
+  }
+]

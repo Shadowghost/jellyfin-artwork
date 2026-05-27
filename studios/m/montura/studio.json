@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Montura",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187343",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mblS9VMlqDhOYgXHqHNBcLqdRks.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.montura.it/it/",
+    "placeholder": true
+  }
+]

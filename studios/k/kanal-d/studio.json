@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Kanal D",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50591",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8SwLe324RUwQn1YEPpWJpmoGwTe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

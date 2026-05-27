@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Local Open Division",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220607"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

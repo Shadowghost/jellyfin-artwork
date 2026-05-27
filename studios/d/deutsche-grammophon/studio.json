@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Deutsche Grammophon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10707",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cxWvdB6JoV1YVNno4VCg3yceoXG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.deutschegrammophon.com",
+    "headquarters": "Berlin, Germany",
+    "placeholder": true
+  }
+]

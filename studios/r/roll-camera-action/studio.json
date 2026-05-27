@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Roll Camera Action",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155248"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

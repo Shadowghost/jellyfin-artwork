@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Blur Studio",
+    "description": "American computer-animation and visual-effects studio founded by Tim Miller, known for cinematics, commercials, and Netflix's 'Love, Death + Robots'.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://www.blur.com/",
+    "headquarters": "Culver City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10644",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ocLZIdYJBppuCt1rhYEb2jbpt5F.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

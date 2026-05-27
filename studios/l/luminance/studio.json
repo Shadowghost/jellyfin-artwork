@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Luminance",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270539",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hvEv5S6a5EXgGSGZSBdteSxbazh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UA",
+    "homepage": "https://www.luminance.video/",
+    "placeholder": true
+  }
+]

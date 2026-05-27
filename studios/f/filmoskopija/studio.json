@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Filmoskopija",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224962"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "placeholder": true
+  }
+]

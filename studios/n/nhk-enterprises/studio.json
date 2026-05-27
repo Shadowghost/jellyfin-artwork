@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NHK Enterprises",
+    "country": "JP",
+    "homepage": "https://www.nhk-ep.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11376",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lrglrxyGOMRl9KCsmcjmzjjpT2H.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "DVD",
+    "description": "Digital optical disc storage format developed and licensed by the DVD Forum, commonly used for video distribution.",
+    "country": "JP",
+    "type": "other",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162752"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MIS (Museu da Imagem e do Som)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249407"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

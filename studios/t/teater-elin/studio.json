@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Teater Elin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262040",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kGLDzMzZrwj9iGOhkiqWkZCFvmO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.teaterelin.com/",
+    "headquarters": "Uppsala",
+    "placeholder": true
+  }
+]

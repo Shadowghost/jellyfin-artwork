@@ -1,0 +1,29 @@
+[
+  {
+    "name": "BBC Radio 2",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35651",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u2Z7kzR17N23Vj04TIwMsAxl9U1.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "GB",
+    "homepage": "https://www.bbc.co.uk/radio2",
+    "template": true
+  }
+]

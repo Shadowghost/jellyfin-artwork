@@ -1,0 +1,13 @@
+[
+  {
+    "name": "RN-Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130727"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

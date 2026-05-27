@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Gersh Agency",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119112",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7cI2ZlFrKF6VOPEyKrgLaYsNeCs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://gersh.com/",
+    "headquarters": "Beverly Hills, California",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "C-SPAN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "228521"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BD-PRODUCTION",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125988"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

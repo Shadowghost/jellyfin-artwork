@@ -1,0 +1,16 @@
+[
+  {
+    "name": "La Matrice",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129520",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pZRhXrCafwNmdRKPn4r3hfWl1QT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

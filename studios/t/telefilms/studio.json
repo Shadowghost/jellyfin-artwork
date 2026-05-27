@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Telefilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168868",
+        "logo_uri": "https://image.tmdb.org/t/p/original/88MDpKh5ikzMALnlKqFWFhiFibJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://telefilms.com.ar/",
+    "headquarters": "Buenos Aires, Argentina",
+    "placeholder": true
+  }
+]

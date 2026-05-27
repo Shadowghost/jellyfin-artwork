@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FilmHouse Sarajevo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74990",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7QMiYlsfpbuMwqJ8kB8ZfSvSViX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BA",
+    "homepage": "https://filmhouse.ba/",
+    "headquarters": "Sarajevo",
+    "placeholder": true
+  }
+]

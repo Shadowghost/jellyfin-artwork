@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Balboa Productions",
+    "description": "American film and television production company founded by Sylvester Stallone, named after his Rocky Balboa character.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166120",
+        "logo_uri": "https://image.tmdb.org/t/p/original/otEUziHlND4he9VvTtQU2gdULSS.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

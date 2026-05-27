@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Enter Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "232615"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

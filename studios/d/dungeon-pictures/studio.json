@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Dungeon Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "146511"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

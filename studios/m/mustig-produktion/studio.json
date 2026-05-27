@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mustig Produktion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260845",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vK18GGyt1ou7T4kvkcEd9RpWdrq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.mustigproduktion.se",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nómadas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81932",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pmtfY1jVeYSIZenRt5tewUWXrUb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://nomadas.cc/",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

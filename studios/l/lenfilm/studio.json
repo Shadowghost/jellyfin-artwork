@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lenfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10845",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8qh5BEyKYOQ0e81LPbvWHQvyOy5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SU",
+    "homepage": "http://www.lenfilm.ru",
+    "headquarters": "St. Petersburg",
+    "placeholder": true
+  }
+]

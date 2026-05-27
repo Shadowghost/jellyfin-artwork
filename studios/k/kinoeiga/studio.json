@@ -1,0 +1,13 @@
+[
+  {
+    "name": "KinoEiga",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173926"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

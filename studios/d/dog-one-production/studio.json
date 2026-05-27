@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Dog One Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173508"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

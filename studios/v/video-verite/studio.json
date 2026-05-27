@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Video Verité",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111347",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xEK98sgZsu4aMUYzSHVWs05g9C4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://videoverite.tv",
+    "placeholder": true
+  }
+]

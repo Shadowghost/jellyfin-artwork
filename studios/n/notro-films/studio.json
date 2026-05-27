@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Notro Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1937",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rsmHJAb5eTU2gHrzx4GI5W9fjFs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

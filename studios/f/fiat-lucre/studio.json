@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fiat Lucre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88907"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

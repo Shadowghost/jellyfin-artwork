@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Hyphenate Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130011"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

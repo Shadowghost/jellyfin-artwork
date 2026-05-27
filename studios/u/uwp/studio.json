@@ -1,0 +1,13 @@
+[
+  {
+    "name": "UWP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25770"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

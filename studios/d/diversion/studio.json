@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Diversion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121124",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7dPzhmfXQ3aZxuMCpBKTGVfaCPu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TH",
+    "homepage": "https://www.diversion-th.com/",
+    "headquarters": "Bangkok",
+    "placeholder": true
+  }
+]

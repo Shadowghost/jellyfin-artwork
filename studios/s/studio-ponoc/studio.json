@@ -1,0 +1,17 @@
+[
+  {
+    "name": "STUDIO PONOC",
+    "country": "JP",
+    "homepage": "http://www.ponoc.jp",
+    "headquarters": "Musashino, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84493",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c0NLXe9hd1lZdMYHDcx0qEZRw5k.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

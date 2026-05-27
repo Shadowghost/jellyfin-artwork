@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kaliber Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94671",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b2e5G0NF3dav0QLUc6nfnNVEJv7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.kaliberfilm.nl/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

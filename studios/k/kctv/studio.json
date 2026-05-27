@@ -1,0 +1,13 @@
+[
+  {
+    "name": "KCTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105050"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

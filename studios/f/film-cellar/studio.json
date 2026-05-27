@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Cellar",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15012"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

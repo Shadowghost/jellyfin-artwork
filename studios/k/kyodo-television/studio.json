@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kyodo Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10366",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4mnpk4H6P1Kf54M1DvBgyf7bth5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.kyodo-tv.co.jp/",
+    "headquarters": "Tsukiji, Chuo, Tokyo",
+    "placeholder": true
+  }
+]

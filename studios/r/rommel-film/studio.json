@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Rommel Film",
+    "country": "DE",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

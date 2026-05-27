@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Lava Bear Films",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32300"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

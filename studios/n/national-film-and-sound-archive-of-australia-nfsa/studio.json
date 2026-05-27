@@ -1,0 +1,17 @@
+[
+  {
+    "name": "National Film and Sound Archive of Australia (NFSA)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147226",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2vo7KiWQ6y04UJSoa8iMfvDX6ry.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://www.nfsa.gov.au/",
+    "headquarters": "Canberra",
+    "placeholder": true
+  }
+]

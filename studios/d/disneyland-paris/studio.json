@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Disneyland Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121483",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6a6osf6j0zj058QB63FRNh2BgGo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.disneylandparis.com",
+    "headquarters": "Marne-la-Vallée, France",
+    "placeholder": true
+  }
+]

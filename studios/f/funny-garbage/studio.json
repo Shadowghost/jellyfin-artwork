@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Funny Garbage",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138221",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ehOoSjtuvMGsmq6OYxFdwpM6rBR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.funnygarbage.com/",
+    "placeholder": true
+  }
+]

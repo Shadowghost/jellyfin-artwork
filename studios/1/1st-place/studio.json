@@ -1,0 +1,21 @@
+[
+  {
+    "name": "1st PLACE",
+    "description": "Japanese music/talent production company associated with Avex/voice talent management.",
+    "country": "JP",
+    "type": "production-company",
+    "homepage": "http://1stplace.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203140",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7GWSqlkgJZkmlR6wXVh8lWWeS8s.png"
+      }
+    ],
+    "artwork": {},
+    "aka": [
+      "1st Place"
+    ],
+    "placeholder": true
+  }
+]

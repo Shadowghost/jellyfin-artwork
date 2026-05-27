@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Antiprod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70596"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

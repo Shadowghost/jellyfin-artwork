@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tarkiofilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117442",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zVSMNQLodDs6B5ozP7fMIQcZOz3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UY",
+    "homepage": "https://tarkiofilm.com/web/inicio.html",
+    "headquarters": "Montevideo",
+    "placeholder": true
+  }
+]

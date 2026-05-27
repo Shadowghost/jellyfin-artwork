@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gauteng Film Commision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248023",
+        "logo_uri": "https://image.tmdb.org/t/p/original/57X2N8VA1ve1bUwH2I65bN27aRZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ZA",
+    "homepage": "https://gautengfilm.org.za/",
+    "headquarters": "Johannesburg, Gauteng",
+    "placeholder": true
+  }
+]

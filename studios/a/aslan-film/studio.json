@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Aslan Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83334",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f1LtCPevwXsfj3inOcqwN3tiY3E.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

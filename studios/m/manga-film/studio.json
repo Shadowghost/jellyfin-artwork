@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Manga Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1907",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iewCUqwZrf57DwvtaC0Un0M6Ab9.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

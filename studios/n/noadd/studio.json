@@ -1,0 +1,14 @@
+[
+  {
+    "name": "noadd",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192333"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

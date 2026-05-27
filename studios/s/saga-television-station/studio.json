@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Saga Television Station",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256953",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fo43SlMcaXaGtNI8XwizcFAssID.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.sagatv.co.jp/",
+    "placeholder": true
+  }
+]

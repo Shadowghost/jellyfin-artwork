@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Elemental Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84151",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fX3BDVt5C5cyBOs7sWybkX8eLKM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tokyo University of the Arts",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53391",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7aPeLmQjH1EFhqAXWLyyxZ535QA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.geidai.ac.jp",
+    "headquarters": "Tokyo, Japan",
+    "placeholder": true
+  }
+]

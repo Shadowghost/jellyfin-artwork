@@ -1,0 +1,13 @@
+[
+  {
+    "name": "vessel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233432"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

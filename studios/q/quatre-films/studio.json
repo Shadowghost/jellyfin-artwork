@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Quatre Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20221"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

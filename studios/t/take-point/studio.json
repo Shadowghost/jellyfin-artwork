@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Take Point",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58111"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

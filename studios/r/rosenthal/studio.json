@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Rosenthal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "281772",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d1lpOor73rva0WLJIbcvnIvuARd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.rosenthal.cz",
+    "placeholder": true
+  }
+]

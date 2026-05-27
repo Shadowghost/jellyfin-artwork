@@ -1,0 +1,13 @@
+[
+  {
+    "name": "2waytraffic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123502"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

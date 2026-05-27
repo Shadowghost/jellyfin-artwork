@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Circle of Confusion",
+    "country": "US",
+    "homepage": "http://www.circleofconfusion.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23921",
+        "logo_uri": "https://image.tmdb.org/t/p/original/simDvqT8y6jhP530ggUMbikvVKc.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

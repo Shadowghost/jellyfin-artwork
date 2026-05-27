@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Belga Productions",
+    "country": "BE",
+    "homepage": "http://belgaproductions.be",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78298",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9U7x4fLDn8EVEZTc4usYeJV1uHF.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Aeropuerto de Cancún",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255029",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7DtWcSrFuptWapyaGaMLNR5cs3v.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://es.cancunairport.com/",
+    "headquarters": "Cancún",
+    "placeholder": true
+  }
+]

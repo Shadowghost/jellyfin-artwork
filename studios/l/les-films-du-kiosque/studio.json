@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films du Kiosque",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2951",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eKuMbpKtI0T8T4LmPsldgNbCaIE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.filmsdukiosque.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

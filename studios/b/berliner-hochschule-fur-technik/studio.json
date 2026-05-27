@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Berliner Hochschule für Technik",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164302",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eTweN2aKI3AcYRV72S6JUszwBBY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.bht-berlin.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

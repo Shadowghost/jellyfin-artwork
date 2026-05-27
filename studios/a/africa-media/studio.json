@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Africa Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201995",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ktXCzJ6ipDM06ScO96bv8Ek39UQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ZA",
+    "homepage": "https://africa-media.org/",
+    "placeholder": true
+  }
+]

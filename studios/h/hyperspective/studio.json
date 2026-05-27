@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hyperspective",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283238",
+        "logo_uri": "https://image.tmdb.org/t/p/original/obzVF9UtisFSGJsO7de83MLpK8K.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://hyperspective.com/",
+    "headquarters": "Honolulu, Hawaii",
+    "placeholder": true
+  }
+]

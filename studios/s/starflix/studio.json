@@ -1,0 +1,13 @@
+[
+  {
+    "name": "StarFlix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71358"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

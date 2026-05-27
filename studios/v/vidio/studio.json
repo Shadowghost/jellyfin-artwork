@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Vidio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147819",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cJJea1aVUCgO4dcUjAC2uG16enw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "placeholder": true
+  }
+]

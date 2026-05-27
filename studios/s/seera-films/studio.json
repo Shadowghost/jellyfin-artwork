@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SEERA Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "247937",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dqXlnZMGdDMpgBDuRbDEh3BsQPg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://seera-films.org/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

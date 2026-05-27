@@ -1,0 +1,13 @@
+[
+  {
+    "name": "RC Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60302"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

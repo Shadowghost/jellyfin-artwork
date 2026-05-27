@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cinematograph AB",
+    "country": "SE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7445"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

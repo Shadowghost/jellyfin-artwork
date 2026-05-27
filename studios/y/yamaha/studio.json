@@ -1,0 +1,16 @@
+[
+  {
+    "name": "YAMAHA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37943",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1yRTZb2UPuNL7cDpdpUFRvjTIax.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.yamaha.com/ja/",
+    "placeholder": true
+  }
+]

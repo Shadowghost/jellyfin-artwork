@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Das Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245889"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

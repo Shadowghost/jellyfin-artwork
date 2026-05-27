@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Brighton Zoo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "190361"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.brighton-zoo.co.uk/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bad Charm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283738"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

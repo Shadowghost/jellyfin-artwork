@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sino Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94941",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iPTbgYqHZjG78lJYgUOzNlxvLGB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TW",
+    "homepage": "http://www.sinomovie.com/",
+    "headquarters": "Taipei",
+    "placeholder": true
+  }
+]

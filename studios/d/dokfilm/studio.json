@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DOKFILM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "44955",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3PIz9xuSFkFX3ivC9hCmXNAD1TD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.dokfilm.de/",
+    "headquarters": "Potsdam, Germany",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pokeepsie Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32485",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fVXreZkiJTOq1cCi6htSQlPSy7R.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://pokeepsiefilms.com/",
+    "placeholder": true
+  }
+]

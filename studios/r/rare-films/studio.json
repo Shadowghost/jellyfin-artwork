@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Rare Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111245"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

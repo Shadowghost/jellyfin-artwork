@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Rainbow Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10186"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

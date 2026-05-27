@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Windsor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89242"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Paradoxal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102347",
+        "logo_uri": "https://image.tmdb.org/t/p/original/usBWD2PgiljXAxca6oZu2BXhOjh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.paradoxal.net",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

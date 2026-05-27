@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Red Bicycle",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242643",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yEtHQ57A6qyjX3zyiZ6o4p9AZ3O.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.redbicycle.co/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

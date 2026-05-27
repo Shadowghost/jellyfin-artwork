@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Express Sports",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220314"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://exsp.co.jp/",
+    "placeholder": true
+  }
+]

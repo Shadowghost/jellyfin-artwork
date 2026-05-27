@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dexter Studios",
+    "country": "KR",
+    "homepage": "http://dexterstudios.com/",
+    "headquarters": "Mapo, Seoul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103323",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6erRU1smLcM353NKVldsYyAFh56.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

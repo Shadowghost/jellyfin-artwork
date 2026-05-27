@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Brisa Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138093",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cpRbH4FlVMwDz1IpxZTPtxakQFR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://brisafilmes.com/",
+    "headquarters": "Rio de Janeiro",
+    "placeholder": true
+  }
+]

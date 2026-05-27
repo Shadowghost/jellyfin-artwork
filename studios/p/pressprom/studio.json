@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pressprom",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196371",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7OpvqGcu7lZpaBHtS9WIBqalGVj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://www.pressprom.pl/",
+    "headquarters": "Katowice",
+    "placeholder": true
+  }
+]

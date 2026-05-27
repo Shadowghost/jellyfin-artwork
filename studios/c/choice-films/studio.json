@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Choice Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50166",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7quALDl2QahHagPBSmTtwOM0Fw2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.choicefilms.com",
+    "headquarters": "Newburgh, New York",
+    "placeholder": true
+  }
+]

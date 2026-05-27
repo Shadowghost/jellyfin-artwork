@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Turbin Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86301",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a4ixoeNUjGnvIAt6uv2f5wAN4a0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.turbinfilm.no/",
+    "headquarters": "Moss, Norway",
+    "placeholder": true
+  }
+]

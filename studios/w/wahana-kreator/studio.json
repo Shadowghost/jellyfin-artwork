@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Wahana Kreator",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120502",
+        "logo_uri": "https://image.tmdb.org/t/p/original/amEXVH85PjL1rXVwUarvPzzfEGp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "homepage": "http://wahanakreator.com",
+    "placeholder": true
+  }
+]

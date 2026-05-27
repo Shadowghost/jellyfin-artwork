@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Kunst en Kino",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12003"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "placeholder": true
+  }
+]

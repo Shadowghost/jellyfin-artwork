@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Expand Images",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80084"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

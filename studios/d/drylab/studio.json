@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Drylab",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117420",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hB0m2lINRIryHuyw3nzyusYDLsH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.drylab.io/",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

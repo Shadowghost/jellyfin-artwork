@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Magic Picture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18063"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

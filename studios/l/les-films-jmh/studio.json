@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les Films JMH",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137100"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

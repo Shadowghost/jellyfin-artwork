@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Trans500",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165059",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qQvFfm8l4DvHRGjAjbzWBfB2TNA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.trans500.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Something Weird Video (SWV)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70320",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d6Lxy2UpI1P28ooyp6g1wlzBUO4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.somethingweird.com/",
+    "placeholder": true
+  }
+]

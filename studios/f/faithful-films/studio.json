@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Faithful Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "195090",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oD5eMci3HFMBbZ1HlFnnV4nU2to.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

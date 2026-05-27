@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Klio-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177120"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

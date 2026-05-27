@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SAM Content",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201659",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h5b0XQxboBtvleZnxYsUI7wLWAd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://samcontent.com",
+    "headquarters": "Sydney, New South Wales",
+    "placeholder": true
+  }
+]

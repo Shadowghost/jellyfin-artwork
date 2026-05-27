@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Alice in Wonderland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123605"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

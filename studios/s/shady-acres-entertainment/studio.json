@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Shady Acres Entertainment",
+    "description": "American film production company founded by Tom Shadyac, producer of films directed by Shadyac including Bruce Almighty and Evan Almighty.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Universal City, California, USA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rYsaKUrfDoOa2UG846axs4r81Dx.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "name": "100% Halal",
+    "description": "Generic '100% Halal' certification mark/badge used to indicate halal-compliant content or products; not a specific corporate brand.",
+    "type": "other",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6462"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

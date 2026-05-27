@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KHAMENEI.IR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135708",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4CmNJVjejk0I2zTe8Vkm56jKGaU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IR",
+    "homepage": "https://khamenei.ir/",
+    "headquarters": "Ali Khamenei",
+    "placeholder": true
+  }
+]

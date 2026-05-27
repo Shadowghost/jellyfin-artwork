@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Stopline",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81031"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "http://stopline.pt",
+    "headquarters": "Lisboa",
+    "placeholder": true
+  }
+]

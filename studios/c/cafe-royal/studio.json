@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Café Royal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160693",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5OGA0s8sRZ5CfqT6BsyRmc9tO7T.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://caferoyal.art.br",
+    "placeholder": true
+  }
+]

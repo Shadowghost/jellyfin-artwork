@@ -1,0 +1,15 @@
+[
+  {
+    "name": "GB News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216909",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jW8Bkya3DUyCbPVoGPaMN4rqZSM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

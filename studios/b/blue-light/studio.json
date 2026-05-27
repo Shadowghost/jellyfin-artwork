@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Blue Light",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214083"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

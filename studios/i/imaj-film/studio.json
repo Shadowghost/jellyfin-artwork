@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Imaj Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110904",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3MBhI4NaLROtnko4LrRslEOkggN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "http://www.imajonline.com/",
+    "headquarters": "Istanbul, Turkey",
+    "placeholder": true
+  }
+]

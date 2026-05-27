@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sosha Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280944"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

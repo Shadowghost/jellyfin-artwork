@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Third Party Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87233"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.thirdpartyfilms.com",
+    "placeholder": true
+  }
+]

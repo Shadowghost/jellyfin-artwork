@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Artikulacija Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158940",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gcmh6MerPjx0UrbUQ1Y4rhBk3T6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ME",
+    "homepage": "https://artikulacija.me/",
+    "headquarters": "Podgorica",
+    "placeholder": true
+  }
+]

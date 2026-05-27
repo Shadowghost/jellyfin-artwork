@@ -1,0 +1,13 @@
+[
+  {
+    "name": "The Aurelia Project",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161823"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

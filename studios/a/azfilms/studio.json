@@ -1,0 +1,13 @@
+[
+  {
+    "name": "azfilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "267351"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

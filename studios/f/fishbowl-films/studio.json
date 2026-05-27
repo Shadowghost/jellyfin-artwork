@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fishbowl Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121323",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w939ghT33EEXuyNfJeqxRXWkC0h.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.fishbowl-films.com/",
+    "placeholder": true
+  }
+]

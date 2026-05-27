@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Marvy Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147657"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

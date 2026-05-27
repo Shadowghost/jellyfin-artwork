@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Full Day",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205209",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lMXnrOrSTiegcMp54j0kFt2C8A1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://fulldayprod.com/",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Paramount Vantage",
+    "country": "US",
+    "parent_company": "Paramount Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "838",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tcW3UqV46Mdq6GyaS1ydEDocEDF.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

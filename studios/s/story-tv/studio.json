@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Story TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144467",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9RuZ5u3BHwZSkISyDpw2lrttcjS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.storytv.co.kr/",
+    "headquarters": "Goyang, Gyeonggi",
+    "placeholder": true
+  }
+]

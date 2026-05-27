@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Artists Alliance",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4593"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

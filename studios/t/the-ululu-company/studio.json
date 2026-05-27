@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The ULULU Company",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107110",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5ijcseSMyBT45lVLgOC3wfBcGjZ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

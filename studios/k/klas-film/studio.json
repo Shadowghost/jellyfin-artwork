@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Klas Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70098"
+      }
+    ],
+    "artwork": {},
+    "country": "BG",
+    "homepage": "http://www.klasfilm.com",
+    "headquarters": "Sofia",
+    "placeholder": true
+  }
+]

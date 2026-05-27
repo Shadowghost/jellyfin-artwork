@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48575",
+        "logo_uri": "https://image.tmdb.org/t/p/original/OscpCIbffiYUF5uBdCA8eCAwgU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.filmin.es",
+    "headquarters": "Barcelona, Catalonia",
+    "placeholder": true
+  }
+]

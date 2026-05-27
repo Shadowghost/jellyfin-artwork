@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Smoke House Pictures",
+    "country": "US",
+    "homepage": "https://smokehouse-pictures.com",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1782",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nv4AZ5WtnXMgku68e3l5Wc5zWqZ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

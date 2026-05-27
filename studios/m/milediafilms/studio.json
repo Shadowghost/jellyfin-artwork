@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MilediaFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101142"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

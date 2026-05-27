@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Nederlandse Omroepstichting (NOS)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "54900",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yCYeqZosRZFwBNJK4clARa3E4la.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "placeholder": true
+  }
+]

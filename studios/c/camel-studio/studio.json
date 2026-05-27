@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Camel Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130200"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

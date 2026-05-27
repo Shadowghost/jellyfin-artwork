@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pyla Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126383",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yQMBDbZWqZ7Nj72DixW3AA6I3KS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.pylaprod.com/",
+    "headquarters": "Boulogne Billancourt",
+    "placeholder": true
+  }
+]

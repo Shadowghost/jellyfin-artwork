@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Midnight Pulp",
+    "description": "American streaming service operated by Digital Media Rights focusing on cult, horror, action, anime, and exploitation films.",
+    "country": "US",
+    "type": "streaming-service",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107393"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

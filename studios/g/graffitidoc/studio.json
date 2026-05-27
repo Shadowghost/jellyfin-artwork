@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GraffitiDoc",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148076",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1UaFcCowHDHzfAxbJV1ksUw8gnv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.graffitidoc.it",
+    "headquarters": "Torino",
+    "placeholder": true
+  }
+]

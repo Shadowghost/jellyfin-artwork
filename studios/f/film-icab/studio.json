@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film İcabı",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230502",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kvz4wPYoBlNzqYOWGR6rs74MS9r.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.filmicabi.com.tr/",
+    "headquarters": "Ankara",
+    "placeholder": true
+  }
+]

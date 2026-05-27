@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Australian Broadcasting Corporation",
+    "description": "Australia's national public broadcaster, providing television, radio, online, and mobile services.",
+    "country": "AU",
+    "type": "broadcast-network",
+    "homepage": "https://www.abc.net.au/",
+    "headquarters": "Sydney, Australia",
+    "colors": [
+      {
+        "name": "ABC Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "ABC White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1253",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pE2WJeUJBfoit4COoWSRslT9ioj.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

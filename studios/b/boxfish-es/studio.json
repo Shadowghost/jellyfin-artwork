@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Boxfish (ES)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290229",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3Hlw6Ntrju649IbhqHu0d66Lkz6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.boxfishtv.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Weekend Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118425",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e4P5KOmaawkxpyS1Wx6O026l6Vb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.weekendstudio.net",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ikiru Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2875",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3fNapBvM3EHlyL9TxdP5qEOUNeN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.ikirufilms.com",
+    "headquarters": "Barcelona, Catalonia",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Boréales",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8606",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4DjCqjZmIrxnykUJyxHKlvke80L.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.boreales.com",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

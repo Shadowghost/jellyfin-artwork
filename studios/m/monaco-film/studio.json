@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Monaco Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1006"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

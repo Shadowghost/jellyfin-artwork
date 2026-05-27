@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Findingfilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120842"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

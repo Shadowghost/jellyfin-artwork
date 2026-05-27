@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Curious Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85521",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c20EAoyrowat03V7colUeaojCW7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California, USA",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Weydemann Bros.",
+    "country": "DE",
+    "homepage": "http://www.weydemannbros.com",
+    "headquarters": "Cologne",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77230",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tHwowISiUfan11TAcmzi07Z0q0W.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

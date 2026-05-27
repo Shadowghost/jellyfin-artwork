@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Stazione Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209531"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

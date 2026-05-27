@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Jupiter Wall",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80463"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

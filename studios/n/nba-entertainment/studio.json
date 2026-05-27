@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NBA Entertainment",
+    "country": "US",
+    "headquarters": "Secaucus, New Jersey",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4396",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g76GCLOncS4SKIYfhWT70Zo4ypv.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

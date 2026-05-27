@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Generate",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20943"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

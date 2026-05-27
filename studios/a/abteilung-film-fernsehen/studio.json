@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Abteilung Film & Fernsehen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102138"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

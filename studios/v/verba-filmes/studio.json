@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Verba Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199026"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

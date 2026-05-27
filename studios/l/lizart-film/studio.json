@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lizart Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "206208",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5jyLfdgZ7QIQovUwv01fTxTpJvf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

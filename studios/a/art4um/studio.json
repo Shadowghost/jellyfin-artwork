@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Art4um",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242277",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iNvXuufyTAQ4OjaQ4StXluQerZl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.art4um.ch/",
+    "headquarters": "Adliswil, Zurich",
+    "placeholder": true
+  }
+]

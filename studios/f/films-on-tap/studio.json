@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Films on Tap",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "227387"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

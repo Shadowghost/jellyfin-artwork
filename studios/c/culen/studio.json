@@ -1,0 +1,15 @@
+[
+  {
+    "name": "CULEN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200909",
+        "logo_uri": "https://image.tmdb.org/t/p/original/76x1ZHp98pttMswKqje64XxeBnf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

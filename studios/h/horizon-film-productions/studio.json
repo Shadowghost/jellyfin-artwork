@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Horizon Film Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99572",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3isj7Aaml4vofmVenbXptppb3kd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.horizonfilm.nl/",
+    "headquarters": "Admiraal de Ruijterweg 545 1055 MK Amsterdam",
+    "placeholder": true
+  }
+]

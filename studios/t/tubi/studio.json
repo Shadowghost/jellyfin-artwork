@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tubi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153734",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bsgAvAzw5U06P73A3n1pqeFiu4F.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://corporate.tubitv.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

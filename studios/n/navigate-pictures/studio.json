@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Navigate Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226344"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

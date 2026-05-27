@@ -1,0 +1,13 @@
+[
+  {
+    "name": "L Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76290"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

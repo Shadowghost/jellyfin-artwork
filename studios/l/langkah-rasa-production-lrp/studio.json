@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Langkah rasa production (LRP)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "297392"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "name": "DeNA",
+    "description": "Japanese mobile portal and e-commerce company active in gaming, entertainment, and sports.",
+    "country": "JP",
+    "type": "other",
+    "homepage": "https://dena.com/intl/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95336",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xbmbcLZgVioNOZrVN94vJ3H6B8H.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

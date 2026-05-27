@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Films Internacionales",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38290"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

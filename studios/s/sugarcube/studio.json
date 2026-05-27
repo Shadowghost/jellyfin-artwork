@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sugarcube",
+    "country": "KR",
+    "homepage": "https://www.hellosugarcube.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193563",
+        "logo_uri": "https://image.tmdb.org/t/p/original/EMqUEPCMz4g4mvHHgiTgXJXggg.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

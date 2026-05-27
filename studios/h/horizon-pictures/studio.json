@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Horizon Pictures",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "388"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

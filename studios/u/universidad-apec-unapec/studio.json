@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Universidad APEC (UNAPEC)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257942",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x7MeW38npZ00YPH1lpvheDGHXip.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DO",
+    "homepage": "https://unapec.edu.do/",
+    "placeholder": true
+  }
+]

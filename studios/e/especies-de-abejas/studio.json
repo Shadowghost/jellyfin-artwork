@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Especies de Abejas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "244634"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "VONS Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193174",
+        "logo_uri": "https://image.tmdb.org/t/p/original/N01kGqdjH0GsQEy5aC9fVQ27kK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.vons.co.jp/",
+    "placeholder": true
+  }
+]

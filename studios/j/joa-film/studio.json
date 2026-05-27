@@ -1,0 +1,13 @@
+[
+  {
+    "name": "JOA-film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111585"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

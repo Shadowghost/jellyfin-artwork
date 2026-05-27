@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Praça de Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90226"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.pracadefilmes.com.br/",
+    "headquarters": "Porto Alegre RS",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cineteca Bologna",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90329"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

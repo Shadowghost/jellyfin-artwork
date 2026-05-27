@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Paper Street Films",
+    "country": "US",
+    "homepage": "https://www.paperstreetfilms.com/",
+    "headquarters": "New York, New York, United States",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7372",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ouJZliqslZepeihJHqBYWoBNBqR.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

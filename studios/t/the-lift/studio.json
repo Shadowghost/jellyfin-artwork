@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Lift",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79714",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dQfYJjl4wb9RYcD017WPNDbUSnd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://thelift.mx/",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

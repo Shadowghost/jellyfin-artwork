@@ -1,0 +1,14 @@
+[
+  {
+    "name": "KNM",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77154"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

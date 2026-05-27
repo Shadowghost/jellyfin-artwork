@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TOHO-TOWA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "657",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mDBPrBO6hl21KhQOzCVYUBo33zt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://tohotowa.co.jp/",
+    "headquarters": "Tokyo, Japan",
+    "placeholder": true
+  }
+]

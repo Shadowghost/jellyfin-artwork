@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Skyprod",
+    "country": "GP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72425"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

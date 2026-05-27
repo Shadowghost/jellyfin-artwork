@@ -1,0 +1,15 @@
+[
+  {
+    "name": "São Paulo Futebol Clube",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209495",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8UG2ug90ZlYqs6v2siHRgtBaKDE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

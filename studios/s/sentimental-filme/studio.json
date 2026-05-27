@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sentimental Filme",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137771",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bWarxi5gzxdeyfsTChGbrbHlyk3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://sentimental.com.br/",
+    "placeholder": true
+  }
+]

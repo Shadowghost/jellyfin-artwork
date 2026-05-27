@@ -1,0 +1,15 @@
+[
+  {
+    "name": "NHK Publishing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256104"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.nhk-book.co.jp/",
+    "placeholder": true
+  }
+]

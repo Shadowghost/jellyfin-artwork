@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Strange Bird",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "178939",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e1ZgsUs6M1dYi1F6eX1nYbfHxnk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.strangebird.de/",
+    "headquarters": "München",
+    "placeholder": true
+  }
+]

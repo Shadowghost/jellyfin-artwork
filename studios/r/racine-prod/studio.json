@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Racine Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258837"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

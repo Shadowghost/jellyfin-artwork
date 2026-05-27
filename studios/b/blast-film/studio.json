@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Blåst Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131214",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sdD23GeC9Wjzt1JLHGvD1FKtZz4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.blaastfilm.no",
+    "headquarters": "Gurskøy",
+    "placeholder": true
+  }
+]

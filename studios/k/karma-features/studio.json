@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Karma Features",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95099"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

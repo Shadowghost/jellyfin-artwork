@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Einhverfusamtökin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "282248",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nYqyys9ZvXLsPeiRclAz0RkWUaa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IS",
+    "homepage": "https://www.einhverfa.is/",
+    "headquarters": "Reykjavík",
+    "placeholder": true
+  }
+]

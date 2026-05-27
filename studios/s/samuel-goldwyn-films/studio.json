@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Samuel Goldwyn Films",
+    "description": "American film distribution and production company specializing in independent and foreign films.",
+    "country": "US",
+    "type": "distributor",
+    "homepage": "http://www.samuelgoldwynfilms.com",
+    "headquarters": "New York City, NY",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9118",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hvOVrc0yizeMKmWrMWrPceetMEu.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AmegO Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108873",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eV33rhBkBgJyVzvHQPoMC5Iwb5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "http://www.amegofilm.com",
+    "headquarters": "Budapest",
+    "placeholder": true
+  }
+]

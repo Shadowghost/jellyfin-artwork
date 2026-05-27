@@ -1,0 +1,14 @@
+[
+  {
+    "name": "HTB",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101015"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

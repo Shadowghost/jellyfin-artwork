@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pixcom",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41768",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nZodxvfkjT16oaynQO3QQlFHFtV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.pixcom.com/en/",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

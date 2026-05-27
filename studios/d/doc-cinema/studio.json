@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DOC-Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152351",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yIuQnXAxOQDNVgutI8i4maTmkek.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://doccinema.com",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

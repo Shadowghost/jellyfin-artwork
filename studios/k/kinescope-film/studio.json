@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kinescope Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95103",
+        "logo_uri": "https://image.tmdb.org/t/p/original/29BhdB8KcBiO5uVQDMCc1Ch5kFM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://kinescopefilm.de/en",
+    "headquarters": "Bremen",
+    "placeholder": true
+  }
+]

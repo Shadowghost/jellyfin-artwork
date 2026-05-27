@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Teens Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "195083"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

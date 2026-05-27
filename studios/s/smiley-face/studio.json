@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Smiley Face",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120220"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

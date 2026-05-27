@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Professional Fighters League",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240350",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mJFiCSTMtbKdszEbxnT3KHjAghr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://pflmma.com",
+    "placeholder": true
+  }
+]

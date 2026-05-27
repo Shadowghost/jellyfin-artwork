@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mandalay Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3996",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m76hDa0n6oakF6nz3uVUkXU8arP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "parent_company": "Mandalay Entertainment",
+    "placeholder": true
+  }
+]

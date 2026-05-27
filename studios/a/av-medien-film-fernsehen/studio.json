@@ -1,0 +1,16 @@
+[
+  {
+    "name": "AV Medien Film + Fernsehen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130837",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8ey2nQ60uOXxnVCsbW3X80NjSQ7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.avmedien.com/en",
+    "placeholder": true
+  }
+]

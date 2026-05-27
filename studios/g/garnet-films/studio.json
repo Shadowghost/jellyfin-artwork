@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Garnet Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89919",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eG8AvfUprYAOXPb4u8kQ9BoLl4k.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.garnetfilms.com",
+    "headquarters": "Cincinnati, Ohio",
+    "placeholder": true
+  }
+]

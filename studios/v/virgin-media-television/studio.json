@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Virgin Media Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170733",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iMPJYEYjZg1B2k2UAxtrgZibxWP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "https://www.virginmediatelevision.ie",
+    "headquarters": "Dublin",
+    "placeholder": true
+  }
+]

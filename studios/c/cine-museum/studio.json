@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine-Museum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193359"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

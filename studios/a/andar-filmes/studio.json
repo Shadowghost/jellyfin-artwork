@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Andar Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125761"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

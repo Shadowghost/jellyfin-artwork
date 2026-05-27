@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ENSAV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98107"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

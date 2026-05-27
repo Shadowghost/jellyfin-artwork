@@ -1,0 +1,13 @@
+[
+  {
+    "name": "GI. DI. Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245081"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

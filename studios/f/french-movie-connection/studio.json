@@ -1,0 +1,13 @@
+[
+  {
+    "name": "French Movie Connection",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "286635"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

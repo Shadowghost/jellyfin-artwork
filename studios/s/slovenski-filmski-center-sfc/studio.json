@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Slovenski filmski center (SFC)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156935",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1flX3ViePy3bIruKvBvTxBIcnOH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SI",
+    "homepage": "https://www.film-center.si/",
+    "headquarters": "Ljubljana",
+    "placeholder": true
+  }
+]

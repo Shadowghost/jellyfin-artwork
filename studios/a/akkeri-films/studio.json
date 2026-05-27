@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Akkeri Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173333",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qEquaoYBvWrXET6NqtzXJUSKA4M.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IS",
+    "homepage": "https://akkerifilms.com/",
+    "headquarters": "Reykjavík",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Kartoon Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "232962",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qdxf3Ss5oOjn9CnogQxWPJeWKVt.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

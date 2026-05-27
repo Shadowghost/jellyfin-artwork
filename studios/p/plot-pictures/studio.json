@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Plot Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176917"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

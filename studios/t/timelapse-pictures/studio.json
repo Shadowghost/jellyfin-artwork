@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TimeLapse Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77868",
+        "logo_uri": "https://image.tmdb.org/t/p/original/exe5t4haa5xCqdx0v82tVQYQxFE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.timelapsepictures.ca",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

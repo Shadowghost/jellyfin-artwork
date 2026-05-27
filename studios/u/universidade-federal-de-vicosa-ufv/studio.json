@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Universidade Federal de Viçosa (UFV)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "296425",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dlYADkfmrsGwuTK8YM5p6wJFwVa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.ufv.br/",
+    "headquarters": "Viçosa, Minas Gerais",
+    "placeholder": true
+  }
+]

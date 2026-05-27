@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fiction Valley",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107129",
+        "logo_uri": "https://image.tmdb.org/t/p/original/UuHggj4vBKvRxSKoroHWbgISVX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.fictionvalley.nl",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

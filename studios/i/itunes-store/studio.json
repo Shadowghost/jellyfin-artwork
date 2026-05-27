@@ -1,0 +1,24 @@
+[
+  {
+    "name": "iTunes Store",
+    "description": "Digital media store operated by Apple Inc. that launched in 2003 as the iTunes Music Store and expanded to sell movies, TV shows, podcasts, and apps; gradually superseded by Apple Music, Apple TV, and other Apple services.",
+    "country": "US",
+    "type": "distributor",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

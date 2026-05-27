@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Beluga Tree",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104419",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iR254gYRVrSql6UJqLfkL0IG9TJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.belugatree.be/",
+    "headquarters": "Brussels",
+    "placeholder": true
+  }
+]

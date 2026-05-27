@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Obscura",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257103",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ktFQNgQSwmVcLGpimpoPgoyjGPn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.obscurala.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

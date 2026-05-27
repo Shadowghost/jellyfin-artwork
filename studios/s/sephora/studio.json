@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sephora",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103023",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5eNFzl5ZqpEedqrbj9KYNj5VojC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "San Francisco, California",
+    "placeholder": true
+  }
+]

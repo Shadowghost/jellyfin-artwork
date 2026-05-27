@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Strident",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213805",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yhDqCtp501iGersqHvPRG77QJBq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "https://www.stridentmedia.com/",
+    "headquarters": "Dublin; Belfast",
+    "placeholder": true
+  }
+]

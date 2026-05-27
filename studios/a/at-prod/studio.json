@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AT-PROD",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216466"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

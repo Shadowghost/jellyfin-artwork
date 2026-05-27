@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les Films de la Plaine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78117"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

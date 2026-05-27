@@ -1,0 +1,13 @@
+[
+  {
+    "name": "JCS Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119876"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ginkofilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111122"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

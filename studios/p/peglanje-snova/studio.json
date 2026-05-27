@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Peglanje snova",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109920",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5phxSwJiEReCzsSmMzKzPD6Ti7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HR",
+    "homepage": "https://peglanjesnova.com/",
+    "headquarters": "Zagreb",
+    "placeholder": true
+  }
+]

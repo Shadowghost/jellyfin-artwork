@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les Films de l'Ouest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96675"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

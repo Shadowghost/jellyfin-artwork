@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Televizija Zagreb",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27683",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8CdlgpxGOc96xW2BytnE1LFR1HZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HR",
+    "headquarters": "Zagreb",
+    "placeholder": true
+  }
+]

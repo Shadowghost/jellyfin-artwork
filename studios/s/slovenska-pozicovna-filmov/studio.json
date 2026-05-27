@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Slovenská požičovňa filmov",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "265194"
+      }
+    ],
+    "artwork": {},
+    "country": "SK",
+    "headquarters": "Bratislava",
+    "placeholder": true
+  }
+]

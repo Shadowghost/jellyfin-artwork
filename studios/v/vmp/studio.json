@@ -1,0 +1,14 @@
+[
+  {
+    "name": "VMP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12051"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

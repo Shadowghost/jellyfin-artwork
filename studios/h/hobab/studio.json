@@ -1,0 +1,17 @@
+[
+  {
+    "name": "HOBAB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122594",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w7CeTbwg9SmhZVilZXh4Yy1yp6Y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://hobab.se",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

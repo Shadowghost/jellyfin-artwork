@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mean Fish",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "253234"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

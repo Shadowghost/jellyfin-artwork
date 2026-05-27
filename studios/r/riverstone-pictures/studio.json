@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Riverstone Pictures",
+    "country": "GB",
+    "homepage": "http://www.riverstonepictures.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76314",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oFiHo3350Nj7bi6oxYMq3Kp6VGC.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "JaegerBox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239803"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

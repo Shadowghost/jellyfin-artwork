@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Índice Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241071"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

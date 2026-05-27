@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sports Channel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72403"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

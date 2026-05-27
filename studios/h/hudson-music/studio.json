@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hudson Music",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10304"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

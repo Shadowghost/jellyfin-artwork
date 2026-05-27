@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Salamandra Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184524",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eVnQvFsAqzNGgxD7DpZgBGSfc4r.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "https://www.salamandrafilm.com/",
+    "headquarters": "Budapest",
+    "placeholder": true
+  }
+]

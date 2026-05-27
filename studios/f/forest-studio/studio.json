@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Forest Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285756",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g6RmScWSjjRCX8EeJ9xXwss0TDg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "VN",
+    "homepage": "https://forest-studio.vn",
+    "placeholder": true
+  }
+]

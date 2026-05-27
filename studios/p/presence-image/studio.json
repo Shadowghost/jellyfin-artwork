@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Présence Image",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273934",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k7MoY8Ky5eOcxY4IrUlwNENHWDx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "headquarters": "Présence Image, Switzerland",
+    "placeholder": true
+  }
+]

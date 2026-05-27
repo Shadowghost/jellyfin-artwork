@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Spiro Films",
+    "country": "IL",
+    "homepage": "http://www.spiro-films.com",
+    "headquarters": "Tel Aviv, Israel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6472",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vc6kcTUx2MZ2hKeGAb0PCqC3Sys.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

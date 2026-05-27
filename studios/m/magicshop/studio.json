@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MagicShop",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260198",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zyJRMqg7eEiysBhtXVNguyjzU7v.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BG",
+    "homepage": "https://www.magicshoprental.com/",
+    "headquarters": "Sofia",
+    "placeholder": true
+  }
+]

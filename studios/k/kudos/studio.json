@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kudos",
+    "country": "GB",
+    "homepage": "http://www.kudos.co.uk",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3445",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7Jkq08LdnkxhK9M2LHuIOwHFfX8.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

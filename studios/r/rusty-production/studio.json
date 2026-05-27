@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Rusty Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160636"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

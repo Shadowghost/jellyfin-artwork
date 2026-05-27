@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ami Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "237319"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

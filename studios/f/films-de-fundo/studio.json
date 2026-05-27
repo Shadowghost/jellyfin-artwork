@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Films de Fundo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80100"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sky Pictures",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1097"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

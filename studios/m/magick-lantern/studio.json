@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Magick Lantern",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200009"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

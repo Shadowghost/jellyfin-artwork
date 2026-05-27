@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LabKinoRoom",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131215"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

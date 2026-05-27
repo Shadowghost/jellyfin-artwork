@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Siam Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285796",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ksLr68muf2wHsEGYusvh85DJhct.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://siam-films.com/",
+    "placeholder": true
+  }
+]

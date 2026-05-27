@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Greenwolf Corporation",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18151"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

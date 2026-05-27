@@ -1,0 +1,29 @@
+[
+  {
+    "name": "puhutv",
+    "description": "Turkish online video streaming platform offering original series, drama and films, owned by the Doğuş Media Group.",
+    "country": "TR",
+    "type": "streaming-service",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112272"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

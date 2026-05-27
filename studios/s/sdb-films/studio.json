@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SDB Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125381",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fqyj3ATL45iYVHSIprJP1cUy4sG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

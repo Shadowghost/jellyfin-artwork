@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Location Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48066"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

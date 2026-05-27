@@ -1,0 +1,13 @@
+[
+  {
+    "name": "coron_studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202210"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

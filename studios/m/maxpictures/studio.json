@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MAXPICTURES",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217868"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

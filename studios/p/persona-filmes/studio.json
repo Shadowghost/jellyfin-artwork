@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Persona Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200495"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

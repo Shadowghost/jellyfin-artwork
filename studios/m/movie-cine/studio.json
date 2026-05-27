@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie-Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241180"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

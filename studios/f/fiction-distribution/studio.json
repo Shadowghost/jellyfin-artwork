@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fiction Distribution",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133213"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

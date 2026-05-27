@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Flix SKS Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152275",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bFe8I0ik5qgc6hqBlkU8NQDchr6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

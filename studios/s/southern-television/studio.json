@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Southern Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32480",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pFgAR4uEgMVQ1yvc4gVJMXLwhWF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

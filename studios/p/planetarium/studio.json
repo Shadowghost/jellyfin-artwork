@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Planétarium",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239856"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Katzka-Loeb",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3057"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "OBIC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117464",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mz6wsGKEUnBAjBCaFgi8Vm4ylEG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.obic.co.jp/",
+    "placeholder": true
+  }
+]

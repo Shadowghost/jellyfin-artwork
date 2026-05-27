@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Debmar-Mercury",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30588",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9oqo471Fw1R644VE8NwCgHiePY5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.debmarmercury.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hello Sunshine",
+    "country": "US",
+    "homepage": "https://hello-sunshine.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105382",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b94sYzp4YUqi3DqIUnWnfrmxlN.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

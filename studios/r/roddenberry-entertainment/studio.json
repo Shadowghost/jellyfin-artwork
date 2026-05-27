@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Roddenberry Entertainment",
+    "country": "US",
+    "homepage": "https://roddenberry.com",
+    "headquarters": "Sherman Oaks, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51670",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sFDn8bWLh9sE2dPxaa0xUUYL6zS.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

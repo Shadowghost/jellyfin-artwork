@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Denton Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220196",
+        "logo_uri": "https://image.tmdb.org/t/p/original/29YTwNxKsEWKByHb76JX9bWnRdV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Denton, Texas",
+    "placeholder": true
+  }
+]

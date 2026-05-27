@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Cut",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196332",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f7f81OKOb0lo9BJilQAPiDV2P7K.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

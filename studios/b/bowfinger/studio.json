@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bowfinger",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91991",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ngEpBkH7nkFfyCCtvGhhIzPS1xF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.bowfinger.es/en",
+    "headquarters": "Donostia-San Sebastián, Basque Country",
+    "placeholder": true
+  }
+]

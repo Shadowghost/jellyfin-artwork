@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AKT",
+    "country": "GB",
+    "homepage": "https://www.aktv.co.uk",
+    "headquarters": "London",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187548",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c24adzOr4w97DPZAlXIeSBXAU73.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

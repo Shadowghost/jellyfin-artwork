@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Paramount Pictures",
+    "description": "American film studio and one of the 'Big Five' studios; the second oldest film studio still in operation, founded in 1912.",
+    "country": "US",
+    "type": "studio",
+    "parent_company": "Viacom International",
+    "homepage": "https://www.paramountpictures.com/movies",
+    "headquarters": "Hollywood, California",
+    "colors": [
+      {
+        "name": "Paramount Blue",
+        "hex": "#0064FF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Vimala Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100910"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Television South",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239109",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iVjOfQuWxwPgrijMiq9bia42nPa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Big West",
+    "description": "Japanese advertising and production company best known as the licensor of the Macross anime franchise.",
+    "country": "JP",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2869"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

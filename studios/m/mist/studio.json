@@ -1,0 +1,13 @@
+[
+  {
+    "name": "mist",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "276299"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

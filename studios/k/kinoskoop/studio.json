@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kinoskoop",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223764"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

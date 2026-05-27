@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Neue Road Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4503",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d6ZiE6P7MiQfLb0TKljRll836aJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://roadmovies.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

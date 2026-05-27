@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Limite Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218773"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

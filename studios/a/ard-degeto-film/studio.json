@@ -1,0 +1,41 @@
+[
+  {
+    "name": "ARD Degeto Film",
+    "description": "German production and licensing company that is the central programming subsidiary of the ARD public broadcaster, financing and producing primetime films and series.",
+    "country": "DE",
+    "type": "production-company",
+    "homepage": "https://www.degeto.de",
+    "headquarters": "Frankfurt am Main",
+    "providers": [
+      {
+        "provider_name": "imdb",
+        "id": "co0061958"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "986",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qDV8nLH9pjElZSnPmg29mzzNlTo.png"
+      },
+      {
+        "provider_name": "tvdb",
+        "id": "5046"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "ard-degeto-film",
+    "template": true
+  }
+]

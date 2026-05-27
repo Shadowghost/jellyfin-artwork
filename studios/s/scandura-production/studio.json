@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Scandura production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "263657"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

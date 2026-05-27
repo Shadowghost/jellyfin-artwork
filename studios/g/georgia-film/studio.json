@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Georgia-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "186508",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qR0aGfs8GgLITS3LP4ueqwjBRNI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SU",
+    "homepage": "http://georgianfilm.ge/",
+    "headquarters": "Tbilisi, Georgian SSR, USSR",
+    "placeholder": true
+  }
+]

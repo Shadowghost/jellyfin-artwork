@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Signal Station",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "59004"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

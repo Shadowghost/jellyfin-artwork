@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Black Magic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165669",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cZxXUx0W3YX1t0m7hRzXqRrRW80.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://blackmagic-film.com",
+    "headquarters": "Brooklyn, New York",
+    "placeholder": true
+  }
+]

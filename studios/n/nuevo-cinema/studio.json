@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nuevo Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144012"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

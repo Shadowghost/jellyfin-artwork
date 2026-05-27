@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CID-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27244"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

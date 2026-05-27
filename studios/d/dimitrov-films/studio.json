@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Dimitrov Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "292910",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jkLkLBKFIa1qaJW1LU9B42Tca4a.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BG",
+    "placeholder": true
+  }
+]

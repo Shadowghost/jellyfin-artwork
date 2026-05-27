@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BroadwayHD",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103196",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eA1H91t6I1NHTsyDnmEDsk7BZbD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.broadwayhd.com/",
+    "headquarters": "New York, NY",
+    "placeholder": true
+  }
+]

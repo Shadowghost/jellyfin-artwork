@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Faithlife",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165441",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hyW32qHyePeUly5TKvZKPp2tDMI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://faithlife.com",
+    "placeholder": true
+  }
+]

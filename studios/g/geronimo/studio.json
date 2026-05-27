@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Geronimo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126452",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2pCoDVqLDmqqKO3glH1gpLfYKPs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://geronimo.be",
+    "headquarters": "Antwerp",
+    "placeholder": true
+  }
+]

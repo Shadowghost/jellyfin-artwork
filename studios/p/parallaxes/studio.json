@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Parallaxes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94471",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8JvxOCRYpy7vhTDDpeqUYgbLj0R.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.parallaxes.ca",
+    "headquarters": "Quebec City, Quebec",
+    "placeholder": true
+  }
+]

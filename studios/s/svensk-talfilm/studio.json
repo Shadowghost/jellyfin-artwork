@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Svensk Talfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6674",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8ZoH7VyYooTsVrVT3jIcvwzIIxQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "placeholder": true
+  }
+]

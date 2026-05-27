@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Himeros TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177002",
+        "logo_uri": "https://image.tmdb.org/t/p/original/CQWdKXTq9ZNMtw4jvUMrZZAzPM.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

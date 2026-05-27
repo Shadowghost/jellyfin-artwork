@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Terraform Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176522",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tfjNjXOi54Vp7CtcslpIsPgPEOK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Dallas, Texas",
+    "placeholder": true
+  }
+]

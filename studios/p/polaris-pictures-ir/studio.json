@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Polaris Pictures IR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "298638",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nNukudAhA4Qb5LAcrWVrweafqEZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IR",
+    "placeholder": true
+  }
+]

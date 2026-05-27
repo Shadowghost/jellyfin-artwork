@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Entrefilmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84298",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m05UI48QfvHUXrjfTos8wbbmwMb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://entrefilmes.com.br",
+    "headquarters": "Belo Horizonte",
+    "placeholder": true
+  }
+]

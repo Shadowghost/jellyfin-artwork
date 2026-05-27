@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Voxovation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "295435",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hSnv1AhEXSHzk3b1xz6SpaDxZ5I.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.voxovation.com",
+    "placeholder": true
+  }
+]

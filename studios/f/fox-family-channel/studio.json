@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Fox Family Channel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1678",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vWGbI1EzoEDQXSI9dYFJXgOuJN8.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "US",
+    "template": true
+  }
+]

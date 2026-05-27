@@ -1,0 +1,30 @@
+[
+  {
+    "name": "DisneyToon Studios",
+    "description": "American animation studio that produced direct-to-video sequels and theatrical animated films for The Walt Disney Company, closed in 2018.",
+    "country": "US",
+    "type": "studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5391",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o5AcK10ViutenSa4XTD18ClCEWe.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

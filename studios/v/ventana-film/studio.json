@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ventana Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "57317",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3vol4eJ6YPMULoVJrLvixfdbyVe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.ventana-film.de/?id=2&L=1",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

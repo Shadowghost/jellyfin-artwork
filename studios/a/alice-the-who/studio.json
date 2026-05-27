@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Alice the Who",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168314"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Toma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102767",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fO1hw5rO5l9hFv9qj4YEeUYj90I.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "https://latoma.cl/",
+    "headquarters": "Santiago",
+    "placeholder": true
+  }
+]

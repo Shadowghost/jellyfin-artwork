@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rakuten",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128938",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jdDqo0jYls2Z3QzfkgkbEkiFYaN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.rakuten.co.jp/",
+    "headquarters": "Setagaya, Tokyo",
+    "placeholder": true
+  }
+]

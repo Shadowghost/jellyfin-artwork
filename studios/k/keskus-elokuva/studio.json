@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Keskus-Elokuva",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114035"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lightroom",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250436"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

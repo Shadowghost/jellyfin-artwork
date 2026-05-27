@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vesuvius Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203248",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rtKeqyKuZEQlDsp0JKCFRd9SHvt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.vesuviuspictures.com",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Région Poitou-Charentes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76911",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u9wgYEdb6ibtXJw8vIsVlHUiDj6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

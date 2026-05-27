@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Portocabo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98971",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xdBaB8hzyBNcFw7W911bbY3WKB0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.portocabo.com/",
+    "headquarters": "A Coruña",
+    "placeholder": true
+  }
+]

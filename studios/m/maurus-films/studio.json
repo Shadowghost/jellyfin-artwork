@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Maurus Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231550",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xrC7qhVndSVfj7wvw7UEfoojrgB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "headquarters": "Catalunya",
+    "placeholder": true
+  }
+]

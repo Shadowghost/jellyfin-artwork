@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Svensk Kulturfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106807"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "placeholder": true
+  }
+]

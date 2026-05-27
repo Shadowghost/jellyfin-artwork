@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Kemp Company",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "367"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

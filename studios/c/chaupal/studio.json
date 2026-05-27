@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Chaupal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160852",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5Bf3GAyVEnMbs1QsTpD7plSGnnH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

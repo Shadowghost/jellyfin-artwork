@@ -1,0 +1,15 @@
+[
+  {
+    "name": "TVZone Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147002",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aJf7ejdvl72lAWC4zu3XkMxpwwF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "placeholder": true
+  }
+]

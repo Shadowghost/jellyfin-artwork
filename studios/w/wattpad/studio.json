@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Wattpad",
+    "description": "Canadian social-storytelling platform; its Wattpad Webtoon Studios subsidiary develops Wattpad stories into films and TV (After series, etc.).",
+    "country": "CA",
+    "type": "publisher",
+    "homepage": "https://company.wattpad.com",
+    "colors": [
+      {
+        "name": "Wattpad Orange",
+        "hex": "#FF500A"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107108",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5mxc7uNtFOZm2ly0BxixxGPvPlb.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

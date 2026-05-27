@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ukrainian State Film Agency",
+    "description": "Central executive body of the Ukrainian government implementing state policy in cinematography, providing funding for film production in Ukraine.",
+    "country": "UA",
+    "type": "government-agency",
+    "homepage": "https://usfa.gov.ua/",
+    "headquarters": "Kyiv",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "61460",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3yPCkEWvnabeiF8l3sjUBHlRq0j.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

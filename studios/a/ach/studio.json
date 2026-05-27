@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ACH",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3283"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

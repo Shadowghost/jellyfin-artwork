@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Genco Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173787",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9k1GrsZEyxxtGqkr2xSKjkqhThl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.gencopics.com",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

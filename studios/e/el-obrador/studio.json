@@ -1,0 +1,17 @@
+[
+  {
+    "name": "El Obrador",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257758",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gCG975UwWyD0SytoncojCIq3uII.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://el-obrador.com",
+    "headquarters": "Mallorca",
+    "placeholder": true
+  }
+]

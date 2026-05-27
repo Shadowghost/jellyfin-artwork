@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Větrné mlýny",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118612"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.vetrnemlyny.cz/",
+    "headquarters": "Brno, Czech Republic",
+    "placeholder": true
+  }
+]

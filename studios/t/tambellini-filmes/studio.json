@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tambellini Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37400",
+        "logo_uri": "https://image.tmdb.org/t/p/original/HIOAnMyRpW1rACPhX1NB53XG9c.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.tambellinifilmes.com.br/",
+    "headquarters": "Rio de Janeiro, Rio de Janeiro",
+    "placeholder": true
+  }
+]

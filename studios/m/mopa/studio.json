@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MoPA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94117",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3tCuJ4CZO7C8IgA3xoFZDoxSgi0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.ecole-mopa.fr",
+    "placeholder": true
+  }
+]

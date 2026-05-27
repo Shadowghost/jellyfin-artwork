@@ -1,0 +1,16 @@
+[
+  {
+    "name": "FilmWave",
+    "country": "GB",
+    "homepage": "https://filmwave.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85510",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aQcjc9cI0hxZTGv1GAWqpZKY1Pu.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

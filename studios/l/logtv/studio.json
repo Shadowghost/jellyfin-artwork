@@ -1,0 +1,15 @@
+[
+  {
+    "name": "LOGTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290292"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://logtv.com/",
+    "placeholder": true
+  }
+]

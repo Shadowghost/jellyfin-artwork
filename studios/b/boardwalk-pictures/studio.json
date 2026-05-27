@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Boardwalk Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85984",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2CaCVxh0IbjIpLmqvLxyAHBVGaU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://boardwalkpics.com/",
+    "headquarters": "Santa Monica, California",
+    "placeholder": true
+  }
+]

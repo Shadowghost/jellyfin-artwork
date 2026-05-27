@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Blue Flower",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210026"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

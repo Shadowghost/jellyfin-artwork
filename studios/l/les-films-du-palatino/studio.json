@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films du Palatino",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42469"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

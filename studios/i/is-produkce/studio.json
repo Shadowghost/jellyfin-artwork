@@ -1,0 +1,17 @@
+[
+  {
+    "name": "IS Produkce",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118741",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2cGnYaBaCHf4vGIy46M2csSm5tx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://isprodukce.cz/",
+    "headquarters": "Zlín, Czech Republic",
+    "placeholder": true
+  }
+]

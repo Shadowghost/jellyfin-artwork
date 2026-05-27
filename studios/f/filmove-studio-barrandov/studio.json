@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Filmové studio Barrandov",
+    "country": "XC",
+    "headquarters": "Prague",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1931",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5erHhgvym2cTORao8ajtn2gbiTH.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

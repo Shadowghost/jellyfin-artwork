@@ -1,0 +1,15 @@
+[
+  {
+    "name": "BD Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9962"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hoods Entertainment",
+    "country": "JP",
+    "homepage": "http://www.hoods.co.jp/top.html",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25697",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u0AlLAjKiCI42ZeRUIuI8ARuosr.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

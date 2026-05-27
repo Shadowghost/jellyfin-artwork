@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Mimikra",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128000"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

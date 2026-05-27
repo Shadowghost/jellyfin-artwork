@@ -1,0 +1,16 @@
+[
+  {
+    "name": "National Trust",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196173",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qzololvwgm3kg0qM3SN2aMUIXS6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.nationaltrust.org.uk/",
+    "placeholder": true
+  }
+]

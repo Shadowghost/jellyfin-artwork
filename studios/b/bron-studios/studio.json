@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Bron Studios",
+    "description": "Canadian film and television production company that co-produced films including Joker, Bombshell, Greyhound, and Judas and the Black Messiah; filed for bankruptcy in 2023.",
+    "country": "CA",
+    "type": "production-company",
+    "homepage": "http://bronstudios.com",
+    "headquarters": "Burnaby, British Columbia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13240",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aTc07YaNHo8WNgkQSnvLmG6w4nW.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les films au long cours",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49102"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

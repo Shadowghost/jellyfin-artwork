@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mundo Cero",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230423",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vrGKABihKaOeii3xZKcmRX1Qm2Q.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://mundocero.org/",
+    "headquarters": "Bilbao, Biscay",
+    "placeholder": true
+  }
+]

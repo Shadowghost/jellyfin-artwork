@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bam Channel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250886"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

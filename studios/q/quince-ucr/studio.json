@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Quince UCR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264402",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nmyRrW42RtwCWwgBDZvbx4RfwPv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CR",
+    "homepage": "https://quince.ucr.ac.cr/",
+    "headquarters": "Costa Rica",
+    "placeholder": true
+  }
+]

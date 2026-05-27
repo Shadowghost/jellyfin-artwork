@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmgate Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18230",
+        "logo_uri": "https://image.tmdb.org/t/p/original/la7GdaztdxKjJ22IUKn6zHjKKa0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://filmgate-films.com/",
+    "headquarters": "Gothenburg",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ArtParallel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111818"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

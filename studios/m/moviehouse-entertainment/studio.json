@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Moviehouse Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27395",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bTN6ZhXqL632KxNQWNfNq6rdkoW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.moviehouseent.com/",
+    "headquarters": "Hampshire, England",
+    "placeholder": true
+  }
+]

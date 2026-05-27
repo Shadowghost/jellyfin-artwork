@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ChikooFlix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150033",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t6EKQQ3Bs5YAMvaYs2fEEj3Kx2s.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

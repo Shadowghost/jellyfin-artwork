@@ -1,0 +1,13 @@
+[
+  {
+    "name": "bobinsky production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241204"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Aichholzer Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1230"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "http://www.aifilm.com",
+    "headquarters": "Wien, Austria",
+    "placeholder": true
+  }
+]

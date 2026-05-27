@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Promenade",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139887",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gfcvJ3P9dODgAgbAnfak2ABSvwc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "https://promenade.pt/",
+    "headquarters": "Lisbon",
+    "placeholder": true
+  }
+]

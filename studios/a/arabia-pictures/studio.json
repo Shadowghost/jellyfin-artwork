@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Arabia Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230228",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cDsMboQL3Zs7L2uTawySswGmZbc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SA",
+    "homepage": "https://arabiapictures.com/",
+    "headquarters": "Riyadh",
+    "placeholder": true
+  }
+]

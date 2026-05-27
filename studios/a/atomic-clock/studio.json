@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Atomic Clock",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264519"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

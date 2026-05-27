@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Atelier Daruma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175855",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nE2hPfHmNm8ld85ybLIsSwdwio2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.atelierdaruma.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

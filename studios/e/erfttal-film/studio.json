@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Erfttal Film",
+    "country": "DE",
+    "homepage": "http://www.erfttal-film.de/index.php",
+    "headquarters": "Siegburg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2221",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5TutJZB5ZknWZhn9w00t1QoIIK4.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

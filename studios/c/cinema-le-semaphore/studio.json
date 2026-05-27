@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinéma le Sémaphore",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143345",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zujHV69H30Db47YmwWyTq5UwlU0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.cinema-semaphore.fr/",
+    "headquarters": "Nîmes, Occitania",
+    "placeholder": true
+  }
+]

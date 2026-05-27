@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MovieBank",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38618"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

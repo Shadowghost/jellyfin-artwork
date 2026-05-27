@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Wildpath",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199568",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bgi0P20VTLfdtgeAQquQl7gLBy7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

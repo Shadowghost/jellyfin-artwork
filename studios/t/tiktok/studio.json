@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TikTok",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "146543",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vhjGJU4LZdnf63PtvKBw8Y0EjQ2.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://www.tiktok.com",
+    "headquarters": "Global"
+  }
+]

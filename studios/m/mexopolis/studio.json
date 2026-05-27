@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mexopolis",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102272",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wUGctslQ1I4JHzflK43sw05aMJ9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "http://www.mexopolis.com",
+    "placeholder": true
+  }
+]

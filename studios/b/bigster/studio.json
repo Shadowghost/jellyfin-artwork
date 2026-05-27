@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bigster",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185928",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5EiIRmSY8bA0gJxbeUPg4tViooX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.bigster.se/",
+    "headquarters": "Kungsgatan 73 SE-112 27 Stockholm",
+    "placeholder": true
+  }
+]

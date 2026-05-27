@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Imaginary Friends",
+    "country": "GB",
+    "homepage": "https://www.imaginary-friends.co.uk",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82489",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dJgFJSGVCvQejmhBi4iJ1PQkiHg.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

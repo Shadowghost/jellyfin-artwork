@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Biola University",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "61261",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tmpDbOlLbyBz2JkeQUR1XtTAYxm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.biola.edu/",
+    "headquarters": "La Mirada, California",
+    "placeholder": true
+  }
+]

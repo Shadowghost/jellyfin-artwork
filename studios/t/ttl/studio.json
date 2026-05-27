@@ -1,0 +1,14 @@
+[
+  {
+    "name": "TTL",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105725"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

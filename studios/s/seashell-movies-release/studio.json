@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Seashell Movies Release",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18145"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

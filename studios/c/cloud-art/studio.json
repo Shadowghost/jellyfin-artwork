@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cloud Art",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125018",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mX0BRAjBTFGEyL2DygWA2aJYtyE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://www.4wgame.com/",
+    "headquarters": "Tianhe District, Guangzhou, Guangdong Province, China",
+    "placeholder": true
+  }
+]

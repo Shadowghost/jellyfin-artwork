@@ -1,0 +1,16 @@
+[
+  {
+    "name": "bridgeworks",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270548",
+        "logo_uri": "https://image.tmdb.org/t/p/original/istOIe7KTLeUSPiTuNY7C3v0P80.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://thebridgeworks.org/",
+    "placeholder": true
+  }
+]

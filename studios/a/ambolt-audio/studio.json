@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ambolt Audio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129776",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9FPehGqLRHmOnUQXYK2Ip6ZCffD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "http://www.amboltaudio.no/",
+    "headquarters": "Trondheim",
+    "placeholder": true
+  }
+]

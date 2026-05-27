@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Lucasfilm",
+    "description": "American film and television production company founded by George Lucas in 1971; producer of the Star Wars and Indiana Jones franchises; wholly owned by The Walt Disney Company since 2012.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79079"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

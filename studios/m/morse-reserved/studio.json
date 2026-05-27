@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Morse Reserved",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260295"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

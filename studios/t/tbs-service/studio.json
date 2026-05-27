@@ -1,0 +1,14 @@
+[
+  {
+    "name": "TBS Service",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87092"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

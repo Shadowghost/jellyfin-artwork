@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ArtFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169127"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pluragraph",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80109"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

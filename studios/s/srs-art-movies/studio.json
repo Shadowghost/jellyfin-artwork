@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SRS Art Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105407"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

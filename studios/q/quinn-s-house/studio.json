@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Quinn's House",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81276"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

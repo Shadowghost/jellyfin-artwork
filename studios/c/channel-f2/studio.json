@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Channel F2",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111612"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

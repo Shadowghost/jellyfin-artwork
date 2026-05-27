@@ -1,0 +1,17 @@
+[
+  {
+    "name": "10.80 Films",
+    "country": "BE",
+    "homepage": "https://1080films.be/",
+    "headquarters": "Brussels",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114796",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jFViV8mUetlg07kGzYyrsLHTipd.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

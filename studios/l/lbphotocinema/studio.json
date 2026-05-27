@@ -1,0 +1,13 @@
+[
+  {
+    "name": "lbphotocinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219699"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

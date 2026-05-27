@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Move Copenhagen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255121"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://movecph.com",
+    "headquarters": "Copenhagen",
+    "placeholder": true
+  }
+]

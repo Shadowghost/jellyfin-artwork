@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ministerstwo Kultury i Dziedzictwa Narodowego",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72891"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://www.gov.pl/web/kultura",
+    "headquarters": "Warszawa, Mazowieckie",
+    "placeholder": true
+  }
+]

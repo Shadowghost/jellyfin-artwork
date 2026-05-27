@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Thanksgiving Day",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69214"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

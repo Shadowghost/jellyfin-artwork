@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ArkhamFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256864"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "New Atlantis",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8125"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

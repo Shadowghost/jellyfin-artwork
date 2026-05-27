@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FilmCow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290734"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

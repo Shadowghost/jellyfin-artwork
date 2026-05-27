@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NHK Osaka",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171480",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bITGMp9YCUkGlIfBzvcIjEJXs6k.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.nhk.or.jp/osaka/",
+    "headquarters": "Osaka, Japan",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Metar60",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174072"
+      }
+    ],
+    "artwork": {},
+    "country": "HR",
+    "placeholder": true
+  }
+]

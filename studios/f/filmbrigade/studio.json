@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FilmBrigade",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "64707",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wQqyiRmb7AEpxVsDZNHx08WgNv9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.filmbrigade.cz/?lang=en",
+    "headquarters": "Prague, Czech Republic",
+    "placeholder": true
+  }
+]

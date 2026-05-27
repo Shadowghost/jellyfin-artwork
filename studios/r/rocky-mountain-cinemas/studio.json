@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rocky Mountain Cinemas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188344",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zbS0JStCP3sWXoKwc2o5x6cnXbk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "homepage": "https://rockymountaincinemas.com/",
+    "headquarters": "Kollam, Kerala",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Alpha France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6211",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4qfVHURnO8udQaDwlxmzPiMRosb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

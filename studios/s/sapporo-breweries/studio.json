@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Sapporo Breweries",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256890"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.sapporobeer.jp/",
+    "placeholder": true
+  }
+]

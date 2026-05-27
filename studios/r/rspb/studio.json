@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RSPB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180596",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eo7xOBFyZmCiKY8Ofi5Bbu5Y6qi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.rspb.org.uk/",
+    "headquarters": "The Lodge, Edinburgh, Scotland",
+    "placeholder": true
+  }
+]

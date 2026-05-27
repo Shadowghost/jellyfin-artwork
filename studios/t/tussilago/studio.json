@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tussilago",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "57315",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oZL5PVScwDPbQxwsdJdFIBotlS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.tussilago.se/",
+    "headquarters": "Göteborg",
+    "placeholder": true
+  }
+]

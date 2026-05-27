@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sugar23",
+    "country": "US",
+    "homepage": "https://www.sugar23.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120766",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yHuuJYoFfYunIQ5hohT1hGnXTJq.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

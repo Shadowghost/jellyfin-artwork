@@ -1,0 +1,15 @@
+[
+  {
+    "name": "VTech",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144323"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.vtech.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "In-House Catalog",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201917"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mahla Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "136407",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vxOidhSj3TYTPSnVQMSjVggydDc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MZ",
+    "homepage": "http://www.mahlafilmes.com",
+    "headquarters": "Maputo",
+    "placeholder": true
+  }
+]

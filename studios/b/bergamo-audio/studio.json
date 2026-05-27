@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bergamo Audio",
+    "country": "JP",
+    "homepage": "https://bergamo.audio/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173414",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5qdkUCgx8EkvFtqFbIZffORSv6m.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

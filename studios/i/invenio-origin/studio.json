@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Invenio Origin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215202",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lLlTIuMpF6ShqixrtLtZz8zAzgB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AE",
+    "homepage": "https://www.invenioorigin.com/",
+    "headquarters": "Dubai",
+    "placeholder": true
+  }
+]

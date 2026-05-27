@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Anand Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187255"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

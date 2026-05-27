@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Recorded Picture Company",
+    "country": "GB",
+    "homepage": "https://www.recordedpicture.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11561",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8HB3TFUeo83keAPHfFfrNtN2MmA.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

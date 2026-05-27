@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Normal Sauce",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225218",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v3vQTBxxUfdj5JJB4kRlphdp7jv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Beverly Hills, California",
+    "placeholder": true
+  }
+]

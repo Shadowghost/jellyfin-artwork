@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Monday Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15698",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l7s8B50VBDrqqqXNmQU49J8u2GR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "http://mondayfilm.com",
+    "headquarters": "Istanbul",
+    "placeholder": true
+  }
+]

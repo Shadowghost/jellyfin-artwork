@@ -1,0 +1,13 @@
+[
+  {
+    "name": "moinmoin movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126322"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

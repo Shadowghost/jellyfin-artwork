@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Moldova Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13888",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eCzN8ke9naZUbmvRYYplZQT8ouz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MD",
+    "homepage": "http://moldovafilm.md/",
+    "placeholder": true
+  }
+]

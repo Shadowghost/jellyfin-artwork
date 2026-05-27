@@ -1,0 +1,14 @@
+[
+  {
+    "name": "LUP Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "235362"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

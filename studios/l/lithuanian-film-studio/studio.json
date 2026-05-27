@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lithuanian Film Studio",
+    "country": "LT",
+    "homepage": "https://www.lfs.lt/",
+    "headquarters": "Vilnius, Lithuania",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2064",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4cxlmKotK2vAm0TKcGrSGyhxD07.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

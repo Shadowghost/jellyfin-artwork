@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Remembers",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172827",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u1uwRTWA4wOB0ZNm5xm0hDGx6n1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://remembers.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Sunrise",
+    "description": "Japanese animation studio and production enterprise, creator of the Gundam franchise, Cowboy Bebop, Code Geass, and Love Live!; rebranded as the Sunrise label under Bandai Namco Filmworks in 2022.",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "https://www.sunrise-inc.co.jp",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3153",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

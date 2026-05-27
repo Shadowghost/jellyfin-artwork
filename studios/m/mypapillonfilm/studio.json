@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MyPapillonFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241645"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Despensa",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "132001"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

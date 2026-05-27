@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tiempo de San Juan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231332"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

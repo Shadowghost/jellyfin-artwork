@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Barquicinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255013"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

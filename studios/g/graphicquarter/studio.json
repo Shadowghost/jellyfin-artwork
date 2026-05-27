@@ -1,0 +1,13 @@
+[
+  {
+    "name": "GraphicQuarter",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260221"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

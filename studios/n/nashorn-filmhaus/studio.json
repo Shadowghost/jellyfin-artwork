@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Nashorn Filmhaus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99714",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j1pF4dByEZ7N0g5FBiVB2O3OXWG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://nashorn.film",
+    "placeholder": true
+  }
+]

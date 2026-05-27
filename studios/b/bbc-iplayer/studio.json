@@ -1,0 +1,30 @@
+[
+  {
+    "name": "BBC iPlayer",
+    "description": "The BBC's video on demand and live streaming service for UK audiences.",
+    "country": "GB",
+    "type": "streaming-service",
+    "colors": [
+      {
+        "name": "BBC Pink",
+        "hex": "#FF4A98"
+      }
+    ],
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

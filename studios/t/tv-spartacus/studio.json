@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TV Spartacus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113510",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cqGMpJ3nffX2ISInggSXGyWmU86.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

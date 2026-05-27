@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Film Australia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8884"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "placeholder": true
+  }
+]

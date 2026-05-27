@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Ring-Film",
+    "country": "AT",
+    "headquarters": "Vienna",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30059"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

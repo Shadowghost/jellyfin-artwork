@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Best Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72110"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://bestfilm.pl",
+    "headquarters": "Warszawa, Mazowieckie, Poland",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Media Stockade",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114379",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c8EJp9HgO0ee9Mg4geLEavL8tdb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://mediastockade.com/",
+    "headquarters": "Sydney, New South Wales",
+    "placeholder": true
+  }
+]

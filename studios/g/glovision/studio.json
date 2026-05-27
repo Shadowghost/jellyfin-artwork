@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Glovision",
+    "country": "JP",
+    "homepage": "https://www.glovision.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9067"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

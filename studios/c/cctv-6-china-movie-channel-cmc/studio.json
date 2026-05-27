@@ -1,0 +1,15 @@
+[
+  {
+    "name": "CCTV-6 China Movie Channel 电影频道节目中心 (CMC)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85736",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w32leB5UNLUafjwWvrztYHY4rlZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "placeholder": true
+  }
+]

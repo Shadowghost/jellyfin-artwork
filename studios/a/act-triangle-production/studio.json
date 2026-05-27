@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Act Triangle Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75123"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

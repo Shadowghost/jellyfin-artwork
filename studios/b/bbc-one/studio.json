@@ -1,0 +1,30 @@
+[
+  {
+    "name": "BBC One",
+    "country": "GB",
+    "homepage": "https://www.bbc.co.uk/bbcone",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7710",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jgsJ5MPm8dlomIyR9JEoP8IdHHn.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Svet Filma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21651"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

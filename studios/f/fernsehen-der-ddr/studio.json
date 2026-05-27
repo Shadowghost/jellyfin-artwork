@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fernsehen der DDR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23372",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ss43VEAmc5sT5Vixax9szokmn3w.png"
+      }
+    ],
+    "artwork": {},
+    "country": "XG",
+    "homepage": "http://www.fernsehenderddr.de",
+    "placeholder": true
+  }
+]

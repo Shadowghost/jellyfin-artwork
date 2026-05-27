@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Q-Dance",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14709",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zwNCNhQvvPqnCvuLNMdoFpPg4ck.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.q-dance.com",
+    "placeholder": true
+  }
+]

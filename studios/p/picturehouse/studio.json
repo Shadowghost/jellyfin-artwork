@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Picturehouse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52005",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nu35jylrcR3FLDi3jeGrnNV7L58.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://picturehouse.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

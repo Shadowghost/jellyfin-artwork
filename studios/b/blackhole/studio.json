@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Blackhole",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168346"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

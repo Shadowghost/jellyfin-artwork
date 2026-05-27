@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Scala Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48023"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

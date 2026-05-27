@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Moody Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285415"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

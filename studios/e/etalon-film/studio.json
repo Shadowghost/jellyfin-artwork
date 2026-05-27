@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Etalon-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9341"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://www.etalon-film.com",
+    "placeholder": true
+  }
+]

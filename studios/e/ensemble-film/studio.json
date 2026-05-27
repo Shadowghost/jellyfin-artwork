@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ensemble Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166300"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.ensemblefilm.ch",
+    "headquarters": "Zürich",
+    "placeholder": true
+  }
+]

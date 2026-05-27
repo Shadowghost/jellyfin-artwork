@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pacha Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117351",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6oU2awTCPVlPsycKOrxm8ItN79v.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PE",
+    "homepage": "http://www.pachafilms.com/en/",
+    "headquarters": "Lima",
+    "placeholder": true
+  }
+]

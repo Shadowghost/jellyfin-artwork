@@ -1,0 +1,17 @@
+[
+  {
+    "name": "19:30 Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179553",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3QIY2B8ZQ12XXnXcUEC4H8cIlN8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.1930film.com/",
+    "headquarters": "Istanbul",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Serious Business",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76800",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tmhsYGt5ADxq7qWWAd3Yc5PmYtg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.serious.biz",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

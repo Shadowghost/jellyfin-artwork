@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Duet Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11878"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

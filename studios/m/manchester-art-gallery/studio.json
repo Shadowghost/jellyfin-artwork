@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Manchester Art Gallery",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213381"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

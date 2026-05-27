@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Chamonix Experience",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188050",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sSMcbaefLlk7d8L0jWCpxDjnIR7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.chamex.com/fr",
+    "headquarters": "Chamonix Experience, 610 Route Blanche, 74400 Chamonix-Mont-Blanc, France",
+    "placeholder": true
+  }
+]

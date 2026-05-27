@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AT-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130706"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tampa News Force",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "267451"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

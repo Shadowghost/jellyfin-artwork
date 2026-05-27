@@ -1,0 +1,13 @@
+[
+  {
+    "name": "InnerCityProjections",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130147"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

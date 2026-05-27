@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film Horizont",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199211",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hHV6Wmqm1ldK7YswtdnIXrlPTxK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SI",
+    "homepage": "https://www.ihorizont.com",
+    "headquarters": "Ljubljana",
+    "placeholder": true
+  }
+]

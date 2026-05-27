@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Imagen televisión",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177750"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

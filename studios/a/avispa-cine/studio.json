@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Avispa Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85088",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qnNDma5SBL5hWelzctFKPiskOuZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "headquarters": "Santiago",
+    "placeholder": true
+  }
+]

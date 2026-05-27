@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Crea Acción Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176052"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

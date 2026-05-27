@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BEtrained Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71159"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

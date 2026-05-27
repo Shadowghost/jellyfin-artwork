@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Fazekas & Butters",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92828"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

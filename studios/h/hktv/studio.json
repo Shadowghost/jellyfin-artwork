@@ -1,0 +1,17 @@
+[
+  {
+    "name": "HKTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130453",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jqs3BG7p7k2IQD99RdMkJ392LoO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HK",
+    "homepage": "http://www.hktv.com.hk/eng/global/home.htm",
+    "headquarters": "HKTV Multimedia and Ecommerce Centre, 1 Chun Cheong Street, Tseung Kwan O Industrial Estate, Tseung Kwan O, Hong Kong",
+    "placeholder": true
+  }
+]

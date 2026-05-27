@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MBAM Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149782"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

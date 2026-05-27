@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Draw Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "287438"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

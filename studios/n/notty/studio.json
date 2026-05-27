@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NOTTY",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "244524",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rUT38Fm9TqUwxu4c1CVfC8VjFJ9.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://notty.app/",
+    "headquarters": "Mumbai, India"
+  }
+]

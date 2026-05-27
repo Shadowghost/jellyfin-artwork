@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Wonder Project",
+    "country": "IT",
+    "homepage": "https://wonderproject.it/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240601",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aB2czDOuxGsPzhl53vj6veVB4mt.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

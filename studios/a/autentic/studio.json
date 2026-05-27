@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Autentic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115609",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k4N9VeUWiOv0I5wr1hHy5JKbjNM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.autentic.com",
+    "headquarters": "Munich, Germany",
+    "placeholder": true
+  }
+]

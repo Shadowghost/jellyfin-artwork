@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Label Bleu",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82783"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FTP Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148374"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

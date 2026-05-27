@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Disney Channel France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213974",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sWk3695LylXzBoL7aJbpBemS921.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

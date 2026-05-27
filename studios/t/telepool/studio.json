@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Telepool",
+    "country": "DE",
+    "homepage": "http://www.telepool.de",
+    "headquarters": "Munich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "823",
+        "logo_uri": "https://image.tmdb.org/t/p/original/275O5OoKjulWtY1uRHRXaYsrt9I.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

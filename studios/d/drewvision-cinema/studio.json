@@ -1,0 +1,16 @@
+[
+  {
+    "name": "DrewVision Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230213",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wqT8W4aV0KNw0Fy4nWUsrqZDBlw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Wichita, Kansas",
+    "placeholder": true
+  }
+]

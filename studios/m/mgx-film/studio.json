@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MGX Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163349",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hv1yoZLTePnKuRRT9l7ZpFaDmMn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://mgxfilm.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

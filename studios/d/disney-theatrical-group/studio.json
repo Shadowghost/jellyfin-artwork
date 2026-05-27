@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Disney Theatrical Group",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107038",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vQWGWxJQXcK0qyZd26orU7ScUKe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://disneyonbroadway.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Spark Seeker",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123422"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

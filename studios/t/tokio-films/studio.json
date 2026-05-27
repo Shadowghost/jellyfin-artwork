@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tokio Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13073"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

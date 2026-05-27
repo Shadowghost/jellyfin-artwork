@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Blumhouse Productions",
+    "country": "US",
+    "homepage": "https://www.blumhouse.com/film",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3172",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rzKluDcRkIwHZK2pHsiT667A2Kw.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Cinema Solace",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149295",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ftEyOwZQtd0DpIYWNZNiuJ8o3T9.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "headquarters": "South Africa"
+  }
+]

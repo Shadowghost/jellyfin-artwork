@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mouvement",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58642"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

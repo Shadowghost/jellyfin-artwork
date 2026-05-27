@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Magma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7876",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h9j9pwgo6atyvKig3pA5mvYoxNr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.magmafilm.com/de/",
+    "headquarters": "Essen",
+    "placeholder": true
+  }
+]

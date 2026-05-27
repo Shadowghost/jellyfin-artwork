@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Nihon Falcom",
+    "description": "Japanese video game developer based in Tokyo, known for the Ys and The Legend of Heroes (Trails) RPG series.",
+    "country": "JP",
+    "type": "other",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62767",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tE92ehSOG5KdKRSOLUpoXlfKUDB.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

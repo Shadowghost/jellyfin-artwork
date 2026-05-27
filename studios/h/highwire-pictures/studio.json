@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Highwire Pictures",
+    "country": "CA",
+    "headquarters": "Vancouver, British Columbia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4845"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

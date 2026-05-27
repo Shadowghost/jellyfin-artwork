@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Necrostorm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18418",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jBFQBoj8dxi8Niofz8f4weuoS71.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "http://www.necrostorm.com/"
+  }
+]

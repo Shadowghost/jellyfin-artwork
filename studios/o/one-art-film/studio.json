@@ -1,0 +1,17 @@
+[
+  {
+    "name": "One Art Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233900",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gLSgPWXtVS15PH7ENTZh7BRkXc0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://oneartfilm.com/",
+    "headquarters": "Villaverla, Vicenza",
+    "placeholder": true
+  }
+]

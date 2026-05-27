@@ -1,0 +1,13 @@
+[
+  {
+    "name": "U.S. Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180144"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

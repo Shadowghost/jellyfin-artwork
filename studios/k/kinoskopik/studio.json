@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Kinoskopik",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87322"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

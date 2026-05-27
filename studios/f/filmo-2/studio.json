@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmo 2",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140344",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jtCSGkKJ4eonHHROolPL0Exc6yY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://filmo2.com/",
+    "headquarters": "Marseille",
+    "placeholder": true
+  }
+]

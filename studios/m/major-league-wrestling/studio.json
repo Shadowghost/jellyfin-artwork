@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Major League Wrestling",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241364",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wsYcNL9DTEzTuaEiKlOOiixU0FN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://mlw.com/",
+    "headquarters": "Charleston, South Carolina, U.S.",
+    "placeholder": true
+  }
+]

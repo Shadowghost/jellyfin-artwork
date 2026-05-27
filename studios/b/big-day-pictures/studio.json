@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Big Day Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221670",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lf8Y0rmv2YyGj9DweW3tespeKEA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.bigdaypictures.net/",
+    "headquarters": "Austin, Texas",
+    "placeholder": true
+  }
+]

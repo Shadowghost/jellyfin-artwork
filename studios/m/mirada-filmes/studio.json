@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mirada Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145451",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kzXUgA3tGc5wewLj6L8D1PtYp8W.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.miradafilmes.com.br",
+    "headquarters": "Rio de Janeiro RJ",
+    "placeholder": true
+  }
+]

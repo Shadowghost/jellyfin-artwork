@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Walrus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255101"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

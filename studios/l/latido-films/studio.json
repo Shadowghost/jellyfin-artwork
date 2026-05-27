@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Latido Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "61358",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vqUo2fsBmpvM1gpGz58gcxcF3Yd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.latidofilms.com",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

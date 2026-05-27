@@ -1,0 +1,15 @@
+[
+  {
+    "name": "B Cinemas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92728",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zmBDTWWqCABtZWINQLLC90BIuZI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

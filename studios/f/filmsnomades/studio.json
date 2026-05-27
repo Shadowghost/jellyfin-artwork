@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Filmsnòmades",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203093"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.filmsnomades.com",
+    "headquarters": "Barcelona, Catalonia",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Blue Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157720"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

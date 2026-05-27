@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Spanglish Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164782"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GrandPalaisRmn",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239054",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bE4j8CrzKWsn2Z54fjgxyzMbQdx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://grandpalaisrmn.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

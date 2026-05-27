@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les Films de la Commune",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74004"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

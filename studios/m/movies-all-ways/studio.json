@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movies All Ways",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272769"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

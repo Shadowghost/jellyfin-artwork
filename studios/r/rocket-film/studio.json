@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rocket Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220636",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bUH5dDuCSxzkAXubaJQ8mE5Ghue.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.rocketfilm.co.kr/",
+    "headquarters": "Haeundae, Busan, South Korea",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Label Image",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32643"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.label-image.com/",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

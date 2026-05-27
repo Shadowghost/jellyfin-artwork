@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Complete Fiction",
+    "country": "GB",
+    "homepage": "https://www.completefiction.com/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131464",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9Gk6sEs92Eshc1mZm4r2JEebran.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

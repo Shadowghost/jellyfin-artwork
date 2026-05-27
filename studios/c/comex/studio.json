@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Comex",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21735",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hMsIWzkz7kx8EeNocrhgKqJXM9p.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://www.comex.com.mx/",
+    "headquarters": "Guanajuato",
+    "placeholder": true
+  }
+]

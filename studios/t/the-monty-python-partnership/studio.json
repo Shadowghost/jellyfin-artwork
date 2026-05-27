@@ -1,0 +1,14 @@
+[
+  {
+    "name": "The Monty Python Partnership",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12017"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

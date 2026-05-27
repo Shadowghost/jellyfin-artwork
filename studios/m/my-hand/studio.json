@@ -1,0 +1,13 @@
+[
+  {
+    "name": "My Hand",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140405"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

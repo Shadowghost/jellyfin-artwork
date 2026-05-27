@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Er Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123854",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AqNTUnNHlniHl5g0NML0e3zm2n0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Desert",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193029"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

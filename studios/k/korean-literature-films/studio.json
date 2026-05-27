@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Korean Literature Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171213"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "placeholder": true
+  }
+]

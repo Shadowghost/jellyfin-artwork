@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Simon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46953",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xIH1fkJ1vL7mocP0ttx0dI3NTsP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "http://www.limonproduction.com.tr",
+    "placeholder": true
+  }
+]

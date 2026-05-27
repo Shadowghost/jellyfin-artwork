@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Lucky Treehouse",
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112567"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

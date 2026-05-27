@@ -1,0 +1,13 @@
+[
+  {
+    "name": "British Movietonews",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166016"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

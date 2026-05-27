@@ -1,0 +1,16 @@
+[
+  {
+    "name": "APK Cinema Service",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120429"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.apkcs.cz/",
+    "headquarters": "Beroun, Czech Republic",
+    "placeholder": true
+  }
+]

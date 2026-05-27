@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Time-image",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273751"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

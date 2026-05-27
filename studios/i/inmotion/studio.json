@@ -1,0 +1,13 @@
+[
+  {
+    "name": "inMotion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275145"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

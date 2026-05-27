@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Queensland Government",
+    "description": "State government of Queensland, Australia; appears in screen production credits via Screen Queensland funding.",
+    "country": "AU",
+    "type": "government-agency",
+    "colors": [
+      {
+        "name": "Queensland Maroon",
+        "hex": "#7C1234"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "64113"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

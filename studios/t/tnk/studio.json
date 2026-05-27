@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TNK",
+    "country": "JP",
+    "homepage": "http://www.e-tnk.net/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23917",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jC0lW8UHyBNiFUDUXWESna4yUxx.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

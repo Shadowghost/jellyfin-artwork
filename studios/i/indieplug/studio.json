@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Indieplug",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112074",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A9DKWvOT9TNwmF9P2lQQIYEqEo4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.indieplug.net/",
+    "headquarters": "Gangbuk, Seoul, South Korea",
+    "placeholder": true
+  }
+]

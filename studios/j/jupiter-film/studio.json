@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Jupiter-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21808"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Guérilla",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89905",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vFCtBNWYv9EuSGwZmDknd9SOlFh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.laguerilla.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

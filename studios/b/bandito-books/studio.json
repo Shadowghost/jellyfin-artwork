@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bandito Books",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200925"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

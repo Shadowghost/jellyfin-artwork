@@ -1,0 +1,13 @@
+[
+  {
+    "name": "North2north",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40152"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

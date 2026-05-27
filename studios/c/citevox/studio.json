@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Citévox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204808",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1MpTJR0OR63TqADk3WI9GfpKk56.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.film-documentaire.fr/4DACTION/w_liste_generique/S_21785_G",
+    "headquarters": "Citévox, France",
+    "placeholder": true
+  }
+]

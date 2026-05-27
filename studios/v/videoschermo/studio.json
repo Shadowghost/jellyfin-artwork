@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Videoschermo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96667"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

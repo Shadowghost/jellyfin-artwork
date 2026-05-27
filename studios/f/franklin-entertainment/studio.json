@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Franklin Entertainment",
+    "country": "US",
+    "homepage": "https://devonfranklin.com/movies-tv",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "61377",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6IQmmSszsXcxbew25Dgvu3cvmRd.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

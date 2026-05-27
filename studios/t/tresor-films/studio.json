@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Trésor Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120768",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ccHWgGgU03FvvhPNgGmdzddNLTN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.tresorprod.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

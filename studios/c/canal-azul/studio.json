@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Canal Azul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87983",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9BYbSn0fDieTZ74kyItUMcAKAIG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.canalazul.net/",
+    "placeholder": true
+  }
+]

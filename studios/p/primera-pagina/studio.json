@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Primera Pagina",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204460"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

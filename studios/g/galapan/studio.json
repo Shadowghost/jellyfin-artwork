@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Galapan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171255",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mb8qINGPytD4rhJLFCalI08dbSA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.galapan.com/",
+    "headquarters": "Bilbao, Basque Country",
+    "placeholder": true
+  }
+]

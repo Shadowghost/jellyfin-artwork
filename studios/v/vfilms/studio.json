@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Vfilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "294214",
+        "logo_uri": "https://image.tmdb.org/t/p/original/unjdS8VyPYJDiJUXb4bmJEVElry.png"
+      }
+    ],
+    "artwork": {},
+    "country": "VN",
+    "placeholder": true
+  }
+]

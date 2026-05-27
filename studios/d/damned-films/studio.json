@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Damned Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89842",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mhl5Hqvv3SJrzADRMoxjGDudZAY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.damneddistribution.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vogue España",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204151",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v9gSF61PXuGz9gYTNXnCROJodK8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.vogue.es/",
+    "headquarters": "Madrid, Spain",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Floating Harbour",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112733",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fjWc1qJw7Th2PtWRq0NvDcx0m8c.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://floatingharbour.co.uk/",
+    "headquarters": "Bristol, England",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Ciné Sélection",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130107",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rddaDv54Wt3q7gsHX3ePVdee3vi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

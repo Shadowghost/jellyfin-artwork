@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Little Big Story",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109953",
+        "logo_uri": "https://image.tmdb.org/t/p/original/s6V1B5qy7t2do8D3aVYwUZHIwxR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://littlebigstory.fr/en",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

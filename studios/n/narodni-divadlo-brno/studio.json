@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Národní divadlo Brno",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218750"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.ndbrno.cz/",
+    "headquarters": "Brno",
+    "placeholder": true
+  }
+]

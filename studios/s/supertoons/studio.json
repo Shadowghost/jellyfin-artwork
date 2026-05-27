@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SuperToons",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165101",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xVQWTu2K30SqUeOEKoa5Sgh2ijL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://supertoons.com.br/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Seven Summits",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "146308",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a6TMATRiTGwyz8UHqCgxupSsiNQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.seven-summits.com",
+    "placeholder": true
+  }
+]

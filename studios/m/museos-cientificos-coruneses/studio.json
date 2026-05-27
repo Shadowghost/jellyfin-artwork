@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Museos Científicos Coruñeses",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131764"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

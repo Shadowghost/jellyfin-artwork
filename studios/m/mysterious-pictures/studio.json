@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mysterious Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103098",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vRysGkbAJnY9cELHvgTXfTPuPDL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://mysteriouspictures.com",
+    "headquarters": "Atlanta, Georgia",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Kinofilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99191"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

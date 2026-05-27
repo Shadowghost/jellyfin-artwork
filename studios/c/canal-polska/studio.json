@@ -1,0 +1,30 @@
+[
+  {
+    "name": "CANAL+ Polska",
+    "country": "PL",
+    "homepage": "https://pl.canalplus.com/",
+    "headquarters": "Warsaw",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250",
+        "logo_uri": "https://image.tmdb.org/t/p/original/evWKasiElVQywuKv2dI72P9twz8.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

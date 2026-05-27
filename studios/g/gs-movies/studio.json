@@ -1,0 +1,13 @@
+[
+  {
+    "name": "GS Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104085"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

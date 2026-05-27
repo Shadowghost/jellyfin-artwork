@@ -1,0 +1,29 @@
+[
+  {
+    "name": "ABC Signature",
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "236613",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9DTggoZARHzATCRewGRs9XSNOWP.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

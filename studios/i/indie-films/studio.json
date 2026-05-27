@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Indie Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96384",
+        "logo_uri": "https://image.tmdb.org/t/p/original/84azfX8QQASMowCGoZiYO0uy8fH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://www.indiefilms.fi/",
+    "headquarters": "Jääkärinkatu 11 C 46, 00150 Helsinki",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Barbera Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200110"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

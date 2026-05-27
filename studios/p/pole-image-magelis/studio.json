@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pôle Image Magelis",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142985",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A7x8YrUJNm4S8btV1thTBvtOwvC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.magelis.org/",
+    "headquarters": "3 rue de la Charente, 16000 Angoulême",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Straight Up Films",
+    "country": "US",
+    "homepage": "http://www.straightupfilms.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13403",
+        "logo_uri": "https://image.tmdb.org/t/p/original/be3PT29TM4LJzmTpsEAAkfkzffK.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

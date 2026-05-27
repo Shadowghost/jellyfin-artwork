@@ -1,0 +1,13 @@
+[
+  {
+    "name": "WXPN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101260"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

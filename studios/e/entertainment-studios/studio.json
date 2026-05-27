@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Entertainment Studios",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103529",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lnKwAVJntlULY7QW5kvvvB0uhaG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://entertainmentstudios.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mariedamfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141173",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qF261L6HazG7pgCVGz8LQyjSfOA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.mariedamfilm.se/",
+    "headquarters": "Örebro",
+    "placeholder": true
+  }
+]

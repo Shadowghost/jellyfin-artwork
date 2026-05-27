@@ -1,0 +1,15 @@
+[
+  {
+    "name": "The French Connection",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20800"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.thefrench.fr",
+    "placeholder": true
+  }
+]

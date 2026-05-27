@@ -1,0 +1,15 @@
+[
+  {
+    "name": "truTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121893",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6ZYdybtc2faJ8l11YjEyx2ITz3N.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

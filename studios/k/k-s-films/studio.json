@@ -1,0 +1,17 @@
+[
+  {
+    "name": "K & S Films",
+    "country": "AR",
+    "homepage": "http://www.ks-films.com/?lang=en",
+    "headquarters": "Buenos Aires",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21914",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iF5QYCtPLuwkU90jWdjrul25d71.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

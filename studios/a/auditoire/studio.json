@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Auditoire",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "265935"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

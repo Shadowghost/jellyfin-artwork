@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Alpine Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10397"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Echo Bridge",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111922"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

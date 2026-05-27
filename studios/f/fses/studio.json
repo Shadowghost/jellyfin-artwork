@@ -1,0 +1,15 @@
+[
+  {
+    "name": "FSES",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "291784"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://fses.or.jp/",
+    "placeholder": true
+  }
+]

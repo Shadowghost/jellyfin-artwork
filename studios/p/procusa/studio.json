@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Procusa",
+    "country": "ES",
+    "headquarters": "Madrid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8015"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

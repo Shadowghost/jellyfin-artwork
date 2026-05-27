@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Favoritfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130038"
+      }
+    ],
+    "artwork": {},
+    "country": "XC",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Platforma Filma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13339"
+      }
+    ],
+    "artwork": {},
+    "country": "LV",
+    "placeholder": true
+  }
+]

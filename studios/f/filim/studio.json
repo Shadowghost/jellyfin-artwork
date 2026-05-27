@@ -1,0 +1,13 @@
+[
+  {
+    "name": "filim",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98930"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

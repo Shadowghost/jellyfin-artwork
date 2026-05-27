@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Valve",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14253",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j07sJ4YZ5C0MLBNsaRxjIQkPw9l.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Bellevue, Washington",
+    "placeholder": true
+  }
+]

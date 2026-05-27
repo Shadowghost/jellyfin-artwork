@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ricochet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58017",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v2298PUs5qLZBFGK2SDjiP5uNv2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.ricochet.co.uk",
+    "headquarters": "Brighton, England",
+    "placeholder": true
+  }
+]

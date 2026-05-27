@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TVBS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175133",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pjE1iRUSro0bXM3w9XbZ2lGo6Ab.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TW",
+    "homepage": "http://www.tvbs.com.tw/",
+    "headquarters": "臺灣",
+    "placeholder": true
+  }
+]

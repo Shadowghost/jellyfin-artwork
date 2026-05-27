@@ -1,0 +1,16 @@
+[
+  {
+    "name": "COSPACE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248323",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v3D9XlLoLGEtqKaE55YzV2xhd9I.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://cospace.cc/",
+    "placeholder": true
+  }
+]

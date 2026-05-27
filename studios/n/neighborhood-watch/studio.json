@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Neighborhood Watch",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22700",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tQQa3NfcOlmMpG0is5JGFQYn48q.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://neighborhoodwatch.tv/",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

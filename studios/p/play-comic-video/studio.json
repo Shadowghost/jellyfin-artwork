@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Play Comic Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "251819"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

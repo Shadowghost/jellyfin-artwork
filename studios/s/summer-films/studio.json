@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Summer Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113845",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iVN3aHDSwHR8e3fiWITxsRjS57D.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://summerfilms.es/",
+    "headquarters": "Seville",
+    "placeholder": true
+  }
+]

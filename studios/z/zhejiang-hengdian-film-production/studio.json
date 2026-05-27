@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Zhejiang Hengdian Film Production",
+    "description": "Chinese film studio in Hengdian, Zhejiang Province; one of the largest film studios in the world, dubbed China's Hollywood.",
+    "country": "CN",
+    "type": "studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6836"
+      }
+    ],
+    "artwork": {},
+    "aka": [
+      "Hengdian World Studios"
+    ],
+    "placeholder": true
+  }
+]

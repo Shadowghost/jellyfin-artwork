@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Twin Cities Public Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24982",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7QEPsLccAEMQBksE9bgJSycH6A.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.tpt.org/",
+    "headquarters": "Saint Paul, Minnesota, United States",
+    "placeholder": true
+  }
+]

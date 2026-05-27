@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Scenarios USA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98905"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WFE Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115134",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Qb0hhQsGmKz222U2j6kEjAYNXe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://wfeproductions.com/en/",
+    "headquarters": "Brussels",
+    "placeholder": true
+  }
+]

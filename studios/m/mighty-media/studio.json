@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Mighty Media",
+    "country": "TW",
+    "homepage": "https://www.mightymedia.com.tw/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42377"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

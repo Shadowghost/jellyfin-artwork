@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ImFakeStation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139338"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

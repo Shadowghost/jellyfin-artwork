@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Role Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230223"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "placeholder": true
+  }
+]

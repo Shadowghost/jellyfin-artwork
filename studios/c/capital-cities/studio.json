@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Capital Cities",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8969"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

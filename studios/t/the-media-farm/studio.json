@@ -1,0 +1,14 @@
+[
+  {
+    "name": "The Media Farm",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109730"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

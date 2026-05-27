@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Picture Magic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106239"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "movie inc",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12498"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Toy Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120869",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nXn3K7Ig7rS36qc7i7XUtDoXKCl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UA",
+    "homepage": "http://www.toycinema.com.ua/",
+    "headquarters": "Kyiv, Ukraine",
+    "placeholder": true
+  }
+]

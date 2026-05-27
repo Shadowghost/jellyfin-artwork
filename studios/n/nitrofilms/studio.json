@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NITROFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86826",
+        "logo_uri": "https://image.tmdb.org/t/p/original/loqcv9bZuD1WfnBovOW7Y3Bbbm2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.nitrofilms.ca",
+    "headquarters": "Longueuil, Quebec",
+    "placeholder": true
+  }
+]

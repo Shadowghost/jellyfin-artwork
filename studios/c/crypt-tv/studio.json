@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Crypt TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121966",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2liT5RQTqImh2SHOlR3j9mdUMKE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://crypttv.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

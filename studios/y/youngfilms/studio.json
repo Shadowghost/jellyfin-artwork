@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Youngfilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86575"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.youngfilms.de",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

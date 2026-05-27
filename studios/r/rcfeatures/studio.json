@@ -1,0 +1,13 @@
+[
+  {
+    "name": "RCFeatures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101403"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

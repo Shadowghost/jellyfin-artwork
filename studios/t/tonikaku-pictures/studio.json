@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tonikaku Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123907"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

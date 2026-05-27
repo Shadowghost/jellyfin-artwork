@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TC Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50995",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bznek7Sy4NYpDigv7Va6hfin8vj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://tcfilmes.com.br/",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmes do Horizonte",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225269"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

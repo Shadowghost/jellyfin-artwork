@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Universal Cartoon Studios",
+    "description": "American animation studio, subsidiary of Universal Pictures, producer of direct-to-video sequels and animated TV series; formerly known as Universal Cartoon Studios.",
+    "country": "US",
+    "type": "studio",
+    "headquarters": "Glendale, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5556",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qtdp2UWJNleyYy6ur7DDgPYUxqz.png"
+      }
+    ],
+    "artwork": {},
+    "aka": [
+      "Universal Animation Studios"
+    ],
+    "placeholder": true
+  }
+]

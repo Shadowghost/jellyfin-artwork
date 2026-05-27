@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mobile Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173243"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

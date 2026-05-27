@@ -1,0 +1,15 @@
+[
+  {
+    "name": "AnimatiC",
+    "country": "JP",
+    "headquarters": "Chiyoda, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81208"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

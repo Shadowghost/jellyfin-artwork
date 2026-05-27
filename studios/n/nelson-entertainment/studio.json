@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Nelson Entertainment",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "365",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3InSlF0bcc5zuObBGMQpDoSCjYV.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

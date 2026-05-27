@@ -1,0 +1,14 @@
+[
+  {
+    "name": "A List Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "288560"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "JK Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208006"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "LUKASCOPE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256281",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9UOz14oQz0zkWXYjbF1D3EuwlCs.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "http://www.lukascope.com"
+  }
+]

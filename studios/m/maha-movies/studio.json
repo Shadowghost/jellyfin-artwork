@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Maha Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183285"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

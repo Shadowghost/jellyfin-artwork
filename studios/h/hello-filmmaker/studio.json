@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hello Filmmaker",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123268"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "StukTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144949",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5emGZSG97C1NVt4Owps7ZKxCkUi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://stuk.tv/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Arena di Verona",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81724"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.arena.it/arena/en",
+    "headquarters": "Verona, Italy",
+    "placeholder": true
+  }
+]

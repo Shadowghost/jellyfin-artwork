@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Warner Bros. Entertainment France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12001",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aTaT8zDTec2FNLkIaVVRlUUPYSH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.warnerbros.fr",
+    "placeholder": true
+  }
+]

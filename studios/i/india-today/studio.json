@@ -1,0 +1,16 @@
+[
+  {
+    "name": "India Today",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "178695",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5l3wwj4JansmwlGlEE4gQ6fSPPu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "homepage": "https://www.indiatoday.in/",
+    "placeholder": true
+  }
+]

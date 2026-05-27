@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Genco Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86617",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xoh9vGYbYdloJh2IwMO1pczA9ab.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://gencofilm.com/",
+    "placeholder": true
+  }
+]

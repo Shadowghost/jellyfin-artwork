@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ROLL2",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250504",
+        "logo_uri": "https://image.tmdb.org/t/p/original/npGKM1m0b4IrJ0JjvusVlTtBD8F.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.roll2.co.jp/",
+    "placeholder": true
+  }
+]

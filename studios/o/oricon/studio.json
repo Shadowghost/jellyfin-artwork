@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Oricon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85491"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

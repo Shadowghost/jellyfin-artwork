@@ -1,0 +1,14 @@
+[
+  {
+    "name": "cinefromage",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218089"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "http://www.cinefromage.com"
+  }
+]

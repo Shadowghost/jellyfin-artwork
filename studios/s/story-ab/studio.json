@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Story AB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14803",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uPtAlOlAL3RHWg4xc5nMPfkKjWS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://story.se/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Produits Frais",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "146840",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8iUNTeaR7fRxZFA4K97e1BALnyv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://lesproduitsfrais.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

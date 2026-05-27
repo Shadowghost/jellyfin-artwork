@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Monkeypuzzle Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116106",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5IMZnfVcfWVDUjBMKYbzF6lN80O.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.monkeypuzzlecinema.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "France Animation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51894",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5MzegO5DwTgaoVKmWgLekEhA79z.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.mediatoon-distribution.com/fr/accueil/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

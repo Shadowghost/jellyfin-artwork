@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Philadelphia Flyers",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217556"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Philadelphia, Pennsylvania",
+    "placeholder": true
+  }
+]

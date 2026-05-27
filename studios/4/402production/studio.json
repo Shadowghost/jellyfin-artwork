@@ -1,0 +1,13 @@
+[
+  {
+    "name": "402production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "247027"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

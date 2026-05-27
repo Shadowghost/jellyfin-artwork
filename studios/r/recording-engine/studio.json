@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Recording Engine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117954"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MONACA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196145",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i6dhfF8nlEDAWHsOipyqiOlfRRf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.monaca.jp/",
+    "headquarters": "Nakahara, Kawasaki",
+    "placeholder": true
+  }
+]

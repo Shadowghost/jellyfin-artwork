@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Paramount Home Entertainment",
+    "description": "Home media distribution arm of Paramount Pictures, releasing the studio's catalog on physical media and digital platforms worldwide.",
+    "country": "US",
+    "type": "distributor",
+    "headquarters": "Hollywood, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6548",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rlm70Ypcfis5L6Q7MlWxhW7IbCy.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

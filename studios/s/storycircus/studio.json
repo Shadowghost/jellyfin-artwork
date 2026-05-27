@@ -1,0 +1,17 @@
+[
+  {
+    "name": "StoryCircus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "132821",
+        "logo_uri": "https://image.tmdb.org/t/p/original/brX8uIIw3r7F1a9Ew2uHN7HjhRL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://storycircus.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

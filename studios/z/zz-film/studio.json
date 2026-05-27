@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ZZ-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1008"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Al Jazeera English",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52228",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bQcDSkWOCFOWBDPyx2vC7ROt6j5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "QA",
+    "homepage": "https://www.aljazeera.com",
+    "headquarters": "Doha",
+    "placeholder": true
+  }
+]

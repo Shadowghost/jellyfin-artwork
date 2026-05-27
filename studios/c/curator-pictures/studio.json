@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Curator Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89199"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

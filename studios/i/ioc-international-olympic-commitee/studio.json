@@ -1,0 +1,17 @@
+[
+  {
+    "name": "IOC - International Olympic Commitee",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101233",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9sq8LW4JriBwrTherBfRQGq5QUh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://olympics.com/ioc",
+    "headquarters": "Lausanne",
+    "placeholder": true
+  }
+]

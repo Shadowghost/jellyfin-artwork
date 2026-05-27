@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lesflicks",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180430",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AheDHPoYsSW9ffT9Ls8cbMM44ip.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://lesflicks.com/",
+    "placeholder": true
+  }
+]

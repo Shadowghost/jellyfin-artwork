@@ -1,0 +1,35 @@
+[
+  {
+    "name": "YLE",
+    "description": "Finland's national public broadcasting company, operating multiple television and radio channels and the Yle Areena streaming service.",
+    "country": "FI",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5975",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vvjgoKygWWYZvYyidT3RmOCq5If.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Yle (Yleisradio)"
+    ],
+    "template": true,
+    "homepage": "https://yle.fi",
+    "headquarters": "Helsinki"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Greengrass Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "265110"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

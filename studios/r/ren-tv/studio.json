@@ -1,0 +1,17 @@
+[
+  {
+    "name": "REN TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81997",
+        "logo_uri": "https://image.tmdb.org/t/p/original/otfBTkUJTyZnn82pvq6kxJNdQEk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://ren.tv/",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

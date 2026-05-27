@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Filmpunkt",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94045"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.filmpunkt.com/de/home/",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

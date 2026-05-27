@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Georges Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110289",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qDkSawsQ4MygQhWn1PKFu2mCKbe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.georgesfilms.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

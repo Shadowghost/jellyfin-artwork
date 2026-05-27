@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Artemis",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151520"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

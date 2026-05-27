@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kiné",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58777",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qzticUrKOrmrsjyehxNZVrX9JPs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://doc.kine.it/wp/en",
+    "headquarters": "Bologna",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Media Team",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123501",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uzGAj5W7xv7pJCNvxvMIQ2OAuBL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.mediateamgo.com/",
+    "placeholder": true
+  }
+]

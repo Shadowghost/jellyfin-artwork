@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Weltfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51666",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jFrQ2vAaevoPqqbmpr2JnFIj7C5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.weltfilm.com/index.php/en",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "MNET",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79202",
+        "logo_uri": "https://image.tmdb.org/t/p/original/27L3mIFurEV4VoIuSAE9m3xnfwM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Endemol Portugal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92509",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aAtA3fg5HqtrJkasa2eSIeTCPcI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "http://www.endemol.pt",
+    "headquarters": "Lisbon, Portugal",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BUF",
+    "country": "FR",
+    "homepage": "https://buf.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26064",
+        "logo_uri": "https://image.tmdb.org/t/p/original/51tvARMVinVvdzttDRODYAUdgiY.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

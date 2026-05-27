@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NHNZ",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "57836",
+        "logo_uri": "https://image.tmdb.org/t/p/original/915oPkcr7dM3cQ7gIoKdqwXWU6s.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NZ",
+    "homepage": "https://www.nhnz.tv",
+    "placeholder": true
+  }
+]

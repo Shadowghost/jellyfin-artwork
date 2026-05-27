@@ -1,0 +1,13 @@
+[
+  {
+    "name": "The cat",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213127"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

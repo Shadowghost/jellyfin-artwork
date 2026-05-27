@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FUBOT Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12898"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

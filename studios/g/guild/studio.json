@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Guild",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1214"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

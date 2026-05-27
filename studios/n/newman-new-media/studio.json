@@ -1,0 +1,13 @@
+[
+  {
+    "name": "newman new media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240604"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

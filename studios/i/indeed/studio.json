@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Indeed",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230372",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q11R9ygexrvcEeXx57DgqEK5pfr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.indeed.com/",
+    "headquarters": "Austin, Texas",
+    "placeholder": true
+  }
+]

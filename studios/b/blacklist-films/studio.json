@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Blacklist Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216273"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

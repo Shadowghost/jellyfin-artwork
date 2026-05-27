@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Random Pictures Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256477"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

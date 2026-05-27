@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Puerto Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102762"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

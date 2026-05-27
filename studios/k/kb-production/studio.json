@@ -1,0 +1,14 @@
+[
+  {
+    "name": "KB Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120939"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "placeholder": true
+  }
+]

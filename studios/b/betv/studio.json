@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BeTV",
+    "country": "BE",
+    "homepage": "http://www.betv.be",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24430",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7ZIwXTA5QVD6feybiITOL6OYJPJ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

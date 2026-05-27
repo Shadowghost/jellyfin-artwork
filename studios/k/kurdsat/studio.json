@@ -1,0 +1,15 @@
+[
+  {
+    "name": "KurdSat",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113912"
+      }
+    ],
+    "artwork": {},
+    "country": "IQ",
+    "homepage": "http://www.kurdsat.tv/",
+    "placeholder": true
+  }
+]

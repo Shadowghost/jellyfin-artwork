@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Real-Film",
+    "country": "DE",
+    "headquarters": "Hamburg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2050"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

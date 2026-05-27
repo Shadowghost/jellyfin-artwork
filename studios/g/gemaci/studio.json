@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Gémaci",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1111"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

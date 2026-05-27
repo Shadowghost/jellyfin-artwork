@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film Five",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131334",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vjLjHOsSFEj2A0xtM53DtIxy2ST.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.filmfive.net",
+    "headquarters": "Heidestraße 54, 10557 Berlin",
+    "placeholder": true
+  }
+]

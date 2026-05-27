@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Django Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "146106",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eW8K469XBEJdaHtzgLe2r0IxZim.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://django-film.co.jp",
+    "placeholder": true
+  }
+]

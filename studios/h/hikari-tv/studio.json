@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hikari TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120239",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lLIL1azriJIU21h8U33rmVyNuES.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.hikaritv.net/",
+    "headquarters": "〒170-6025 東京都豊島区東池袋3-1-1 サンシャイン60 25階",
+    "placeholder": true
+  }
+]

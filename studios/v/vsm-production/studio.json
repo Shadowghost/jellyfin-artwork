@@ -1,0 +1,13 @@
+[
+  {
+    "name": "VSM Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250703"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

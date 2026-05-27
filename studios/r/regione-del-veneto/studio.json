@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Regione del Veneto",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50373"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

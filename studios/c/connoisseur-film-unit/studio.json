@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Connoisseur Film Unit",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224191"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Artio Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275321",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7JvLYx2VSuMrA9ILfZegrcFQxPl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IS",
+    "homepage": "https://www.artiofilms.com/",
+    "headquarters": "Reykjavík",
+    "placeholder": true
+  }
+]

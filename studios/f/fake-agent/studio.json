@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fake Agent",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126114"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

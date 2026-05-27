@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Al Jazeera Balkans",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103091",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8Um5PIJ510tHN32BXqjUt7SwSIP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BA",
+    "homepage": "http://balkans.aljazeera.com",
+    "headquarters": "Sarajevo",
+    "placeholder": true
+  }
+]

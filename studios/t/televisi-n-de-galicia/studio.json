@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Televisión de Galicia",
+    "description": "Galician-language public regional television broadcaster in Spain, owned by the Corporación Radio e Televisión de Galicia.",
+    "country": "ES",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "267974"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

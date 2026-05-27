@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Erta Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123958"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

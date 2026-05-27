@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Poisk",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242580",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wneYWIi7PJ6Y6tKO6JdDWJcpcCn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SU",
+    "placeholder": true
+  }
+]

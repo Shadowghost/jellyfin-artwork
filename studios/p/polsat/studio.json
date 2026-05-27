@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Polsat",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21303",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iRswDaMLcipfyG8qSk4iLLjRQIq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://www.polsat.pl",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

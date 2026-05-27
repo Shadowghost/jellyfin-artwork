@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Buff Connection",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76135"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Vault Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "263207"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

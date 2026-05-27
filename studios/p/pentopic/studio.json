@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pentopic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205966",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bCPEx2USRq9a3s6uPBkYzmWYrDp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://pentopic.com/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

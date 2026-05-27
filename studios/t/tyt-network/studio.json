@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TYT Network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193118",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yyUBGVu87V32BonQ2y1s34KTgZ8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://tyt.com/home",
+    "placeholder": true
+  }
+]

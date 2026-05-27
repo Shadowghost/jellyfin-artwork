@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CinemaNativo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79246"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

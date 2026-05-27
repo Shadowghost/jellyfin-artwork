@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Imperial War Museums",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107971",
+        "logo_uri": "https://image.tmdb.org/t/p/original/41MbzYgni2yh7GTjzYfX7w2b8GH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.iwm.org.uk",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

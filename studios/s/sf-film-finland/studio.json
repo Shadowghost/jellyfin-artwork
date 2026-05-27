@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SF Film Finland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42621"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "http://www.sffilm.fi/",
+    "headquarters": "Helsinki, Finland",
+    "placeholder": true
+  }
+]

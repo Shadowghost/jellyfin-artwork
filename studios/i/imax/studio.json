@@ -1,0 +1,41 @@
+[
+  {
+    "name": "IMAX",
+    "description": "Canadian-American company specializing in motion picture technologies and large-format film production, exhibition, and post-production.",
+    "country": "CA",
+    "type": "distributor",
+    "colors": [
+      {
+        "name": "IMAX Blue",
+        "hex": "#0058A3"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3447",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yBdvUlunhXyUowuy0XaEPuBtYTo.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "IMAX Corporation"
+    ],
+    "template": true,
+    "homepage": "https://www.imax.com/",
+    "headquarters": "Mississauga, Ontario"
+  }
+]

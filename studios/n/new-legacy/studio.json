@@ -1,0 +1,14 @@
+[
+  {
+    "name": "New Legacy",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "939"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

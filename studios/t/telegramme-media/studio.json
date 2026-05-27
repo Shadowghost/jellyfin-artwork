@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Télégramme Média",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113484"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

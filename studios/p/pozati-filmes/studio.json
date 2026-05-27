@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pozati Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89453"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://filmes.pozati.com/",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

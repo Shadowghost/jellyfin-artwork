@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FilmOnFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275230"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Frida Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75962",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nZ40hIbYiR6FWjVRTT0F2hPTjJA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.fridafilms.com",
+    "headquarters": "Santiago de Compostela, Galicia",
+    "placeholder": true
+  }
+]

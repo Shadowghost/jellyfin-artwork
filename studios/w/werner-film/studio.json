@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Werner Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200250",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tILYlpIz4b5mZpUCr24SOo79ZNc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.wernerfilm.com",
+    "placeholder": true
+  }
+]

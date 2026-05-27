@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Seven Arts Productions",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "516",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ibZFDcpmcpY0emmO8mo1HCenlGk.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

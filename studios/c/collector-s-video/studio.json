@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Collector's Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12908"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

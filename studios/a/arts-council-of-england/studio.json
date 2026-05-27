@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Arts Council of England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "718",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fnLOZ8Eufk81K0pSI547IrcTHKQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.artscouncil.org.uk/",
+    "headquarters": "Manchester, England",
+    "placeholder": true
+  }
+]

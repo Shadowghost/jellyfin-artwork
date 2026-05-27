@@ -1,0 +1,17 @@
+[
+  {
+    "name": "LAVAlabs Moving Images",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229674",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o6NnmLrYvVIwSqlyhk8an3F7rVw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://lavalabs.de/",
+    "headquarters": "Düsseldorf, North Rhine-Westphalia",
+    "placeholder": true
+  }
+]

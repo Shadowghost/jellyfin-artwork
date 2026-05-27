@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinéma Defacto",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7823",
+        "logo_uri": "https://image.tmdb.org/t/p/original/48TJ35Nr82qLhJ9rcGrGStIshqi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.cinemadefacto.com",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

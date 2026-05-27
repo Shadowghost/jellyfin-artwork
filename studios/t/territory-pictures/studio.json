@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Territory Pictures",
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150069",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4Pj8XRoZTZ7JAWJRWoU46r5VkwF.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

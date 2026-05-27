@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TBS",
+    "country": "JP",
+    "homepage": "https://www.tbs.co.jp",
+    "headquarters": "Akasaka, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1393",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lUACMATs6jcscXIrzNCQzbvNVN5.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

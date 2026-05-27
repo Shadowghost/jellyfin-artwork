@@ -1,0 +1,13 @@
+[
+  {
+    "name": "cinema ticket",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94684"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

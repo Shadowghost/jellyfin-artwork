@@ -1,0 +1,17 @@
+[
+  {
+    "name": "UT Film Institute",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17189",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7zqsH4UnGdwJn9EwM1dtwxerdgc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://rtf.utexas.edu/",
+    "headquarters": "Austin, Texas",
+    "placeholder": true
+  }
+]

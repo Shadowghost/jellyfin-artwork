@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mediaset",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1677",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dI1xprCsOhTe1MSJcW0TEn9McrG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.mediaset.it/corporate",
+    "headquarters": "Cologno Monzese",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Reader's Digest Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111027"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

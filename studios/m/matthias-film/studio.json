@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Matthias-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73993",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g7O2gDDIAPDywM6vUTlzPDe0pGe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.matthias-film.de/",
+    "headquarters": "Stuttgart",
+    "placeholder": true
+  }
+]

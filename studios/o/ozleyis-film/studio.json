@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Özleyiş Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100088"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

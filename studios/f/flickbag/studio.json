@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FlickBag",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130518"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Atlantic Productions",
+    "country": "GB",
+    "homepage": "http://atlanticproductions.tv",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8172",
+        "logo_uri": "https://image.tmdb.org/t/p/original/z8wiYrvJAwbm2jcPSj8qVqWh4RP.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

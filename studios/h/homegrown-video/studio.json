@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Homegrown Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "64700",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jSD3ZyHv10QoTLJl33D54A11jXy.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

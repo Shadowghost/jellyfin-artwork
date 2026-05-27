@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sincro Producción de Imagen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10109"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://sincrovideo.es/en/index.php",
+    "headquarters": "Donostia-San Sebastián, Basque Country",
+    "placeholder": true
+  }
+]

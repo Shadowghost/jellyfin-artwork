@@ -1,0 +1,13 @@
+[
+  {
+    "name": "miko-film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

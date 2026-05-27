@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Alice",
+    "country": "JP",
+    "homepage": "https://aliceinc.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210473",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yPhSK3Q1Y5rMbUFAYI1hzysDHyh.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sonan Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193472",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dCfwsyjjOQNmOhK1stGOWmVWqIG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.sonanfilmes.com/",
+    "placeholder": true
+  }
+]

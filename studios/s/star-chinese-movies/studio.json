@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Star Chinese Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90440"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "placeholder": true
+  }
+]

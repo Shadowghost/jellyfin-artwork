@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Le-LoKal Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91121",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mkdUuRldQ402UBx8ZZZJbJVFx4w.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.lelokalproduction.com",
+    "placeholder": true
+  }
+]

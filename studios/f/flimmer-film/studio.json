@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Flimmer Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35484",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1vN2vYcH4OZl49r4S8Bc3nzdODB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.flimmerfilm.no/",
+    "headquarters": "Bergen, Norway",
+    "placeholder": true
+  }
+]

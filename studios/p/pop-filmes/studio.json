@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pop Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131504"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

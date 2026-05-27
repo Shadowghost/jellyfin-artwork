@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bark Bark",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199101",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rHwqeGSXR0q0de6DMuUF2EUCuLM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://barkbark.com/",
+    "placeholder": true
+  }
+]

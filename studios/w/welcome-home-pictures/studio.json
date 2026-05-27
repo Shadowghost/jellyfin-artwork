@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Welcome Home Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66754",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aox5K9oyCiXJAqX9Wly28QjCPR3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.welcomehomepictures.com",
+    "placeholder": true
+  }
+]

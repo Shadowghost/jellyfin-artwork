@@ -1,0 +1,17 @@
+[
+  {
+    "name": "LAZONA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4601",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ymx6MkzgrWY5Ozb8vhkWYMAPtJG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://lazona.eu/en/",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Noticias Ciudad Rodrigo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222037"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "These Pictures",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142310",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qE1D1x3pfhDXYwR227R1fVXfIUV.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

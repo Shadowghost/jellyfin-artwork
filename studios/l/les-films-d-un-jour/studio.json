@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films d'un Jour",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116071",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bIiULtcXju3Ut2utfJgeG4c7rNH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.filmsdunjour.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

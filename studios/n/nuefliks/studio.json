@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NueFliks",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149989",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jmakqcdLk4rqVUcpOcvo6bVvW2E.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "homepage": "https://nuefliks.com/",
+    "placeholder": true
+  }
+]

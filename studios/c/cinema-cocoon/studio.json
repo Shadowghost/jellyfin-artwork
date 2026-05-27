@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cinema Cocoon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252542",
+        "logo_uri": "https://image.tmdb.org/t/p/original/26GMmdvzZGcwFpBwsjxfzqyqgLD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BD",
+    "headquarters": "Dhaka",
+    "placeholder": true
+  }
+]

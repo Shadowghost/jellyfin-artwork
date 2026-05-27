@@ -1,0 +1,13 @@
+[
+  {
+    "name": "RQC Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "61381"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

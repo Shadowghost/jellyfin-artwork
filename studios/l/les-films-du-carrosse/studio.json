@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Les Films du Carrosse",
+    "country": "FR",
+    "headquarters": "Paris, France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3cWJikm9MdWCMKdatuk8gDTa5xy.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

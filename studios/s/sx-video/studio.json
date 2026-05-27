@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SX Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6703",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vDLruUcqvLZRLTY9P0vWl440YCB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.sxvideo.com/",
+    "headquarters": "3470 Adams Ave San Diego, CA 92116",
+    "placeholder": true
+  }
+]

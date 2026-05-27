@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Raspail Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18425"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

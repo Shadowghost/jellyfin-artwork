@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Forum des Images",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193317"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

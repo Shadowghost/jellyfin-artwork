@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Movie Bucket",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197292"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

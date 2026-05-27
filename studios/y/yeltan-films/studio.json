@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Yeltan Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241249",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rIsksKqU2D08gOyp4lsoHbl5E4j.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://yeltan.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

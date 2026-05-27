@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Stay Luck",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210295",
+        "logo_uri": "https://image.tmdb.org/t/p/original/crlOyHfa28wxXQUC0NvUkEWY6aU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://stay-luck.com/",
+    "placeholder": true
+  }
+]

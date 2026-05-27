@@ -1,0 +1,17 @@
+[
+  {
+    "name": "knockonwood",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112678",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5mYH8QbuyHgLNurcgaKNqD1TQ6Y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://knockonwood.jp",
+    "headquarters": "Jingumae, Shibuya, Tokyo",
+    "placeholder": true
+  }
+]

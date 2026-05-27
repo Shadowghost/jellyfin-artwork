@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Totem Atelier",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175106",
+        "logo_uri": "https://image.tmdb.org/t/p/original/84FIZpHxV4PFLxFt0hIj5ofifK7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.totem-films.com/totem/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

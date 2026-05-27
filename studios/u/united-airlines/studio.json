@@ -1,0 +1,14 @@
+[
+  {
+    "name": "United Airlines",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109351"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

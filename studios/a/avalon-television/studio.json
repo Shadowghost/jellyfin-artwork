@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Avalon Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4316",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7B9nsj17Yux1t2H8DrdH8W4wXhm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://avalontelevision.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

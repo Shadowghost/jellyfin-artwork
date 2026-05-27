@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Copa Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80324",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AjNvLByYd2t6JUP134xT1Yc6uXD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://copastudio.com/",
+    "headquarters": "Rio de Janeiro, Brazil",
+    "placeholder": true
+  }
+]

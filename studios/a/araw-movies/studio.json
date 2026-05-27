@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Araw Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179840"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

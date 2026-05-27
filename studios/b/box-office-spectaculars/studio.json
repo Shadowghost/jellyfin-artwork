@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Box Office Spectaculars",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4758"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

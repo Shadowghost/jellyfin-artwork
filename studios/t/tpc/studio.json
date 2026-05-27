@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TPC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20312",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iYmytRQt5jqlBIEaMQ0Cb6iAHh8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.tpc.us/",
+    "headquarters": "El Segundo, California",
+    "placeholder": true
+  }
+]

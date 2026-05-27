@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Novemberfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103314",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8b8R8uWwaeInvv1lHuVFoF8skSQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "http://www.novemberfilm.no/",
+    "placeholder": true
+  }
+]

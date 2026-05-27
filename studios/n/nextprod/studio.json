@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NextProd",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256927",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8ia5IAdPlXscrWDsOhynYzjxZVG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "2 RUE DU GAL ALAIN DE BOISSIEU 75015 PARIS",
+    "placeholder": true
+  }
+]

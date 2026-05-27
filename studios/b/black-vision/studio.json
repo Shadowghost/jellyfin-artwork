@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Black Vision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161014",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4CxnS5E0AfdxYzIkB9yV8pFyUhz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

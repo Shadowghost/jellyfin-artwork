@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Go Betweeners",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "284242",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5pSufQXYAi4dYczfLZURLLmGBcn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://thegobetweeners.com/",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

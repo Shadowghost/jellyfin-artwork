@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BFI Film Academy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128463",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jjfAJcukBNAUDpHuJDVq3UIzpYB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.bfi.org.uk/bfi-film-academy-opportunities-young-creatives",
+    "headquarters": "London, UK",
+    "placeholder": true
+  }
+]

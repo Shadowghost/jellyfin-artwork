@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Quarta-feira Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "251803",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7r6SVKO8DRRpDa5H8ubpf3hcHFf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://quartafeirafilmes.com/",
+    "headquarters": "São Paulo, SP",
+    "placeholder": true
+  }
+]

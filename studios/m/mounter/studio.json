@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mounter",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "266766"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

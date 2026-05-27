@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nine Hours",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "227641",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oX3s6MJ8yJU9QUNYQhyXtjmGlZA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://ninehours.org",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Xpost",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256140"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

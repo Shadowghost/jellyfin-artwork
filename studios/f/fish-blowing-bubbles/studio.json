@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fish Blowing Bubbles",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50448",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lnlajcX2bQOdE1ZySFwQpsgakZS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.fishblowing.com/",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

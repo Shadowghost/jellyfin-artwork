@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pause Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80902"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

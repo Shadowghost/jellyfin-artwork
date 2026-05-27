@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Sony Computer Entertainment",
+    "description": "Sony video game and digital entertainment company that develops the PlayStation brand of consoles, games and services; renamed Sony Interactive Entertainment in 2016.",
+    "country": "JP",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30794",
+        "logo_uri": "https://image.tmdb.org/t/p/original/14dfdpGLgh7dRVR7EkXX8oFCF8g.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

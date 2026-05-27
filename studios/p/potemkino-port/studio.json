@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Potemkino Port",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94106",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2zBLCk8moo8GhFIG5gyQH1jNcvW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.potemkino.com/",
+    "headquarters": "Lint, Antwerp",
+    "placeholder": true
+  }
+]

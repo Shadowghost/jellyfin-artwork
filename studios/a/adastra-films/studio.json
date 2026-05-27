@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Adastra Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87038",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hn9S9PimxwmeTd0oII6ecurKw2x.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.adastra-films.com",
+    "headquarters": "Cannes",
+    "placeholder": true
+  }
+]

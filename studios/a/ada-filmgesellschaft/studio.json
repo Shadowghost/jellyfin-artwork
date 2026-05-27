@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ada-Filmgesellschaft",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200801"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

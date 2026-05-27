@@ -1,0 +1,13 @@
+[
+  {
+    "name": "UCI Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117135"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

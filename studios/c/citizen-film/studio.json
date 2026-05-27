@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Citizen Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230181",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9bjMEufvWqfNp1ZpO9c9Vc9sdxf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://citizenfilm.org/",
+    "headquarters": "San Francisco",
+    "placeholder": true
+  }
+]

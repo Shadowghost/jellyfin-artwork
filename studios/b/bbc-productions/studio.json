@@ -1,0 +1,29 @@
+[
+  {
+    "name": "BBC Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158991",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nVcmCWSbd0SLMdZerAPvwkArzim.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "GB",
+    "headquarters": "London, England",
+    "template": true
+  }
+]

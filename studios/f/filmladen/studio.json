@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Filmladen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "914"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Krater",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180453",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g7bFkeH9eAhcGoUgc34m36aK6rt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.kraterfilms.be/",
+    "headquarters": "Gent",
+    "placeholder": true
+  }
+]

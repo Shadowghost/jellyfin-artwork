@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Georgia O'Keeffe Museum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205459",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kPCVeFXgXftqBIBMUTvzX7oVWl3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.okeeffemuseum.org/",
+    "headquarters": "Santa Fe, New Mexico",
+    "placeholder": true
+  }
+]

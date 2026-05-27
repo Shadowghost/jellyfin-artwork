@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mediamanager",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272812"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

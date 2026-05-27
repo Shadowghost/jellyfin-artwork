@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Un Film à la Patte",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127305"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.unfilmalapatte.fr/en",
+    "headquarters": "Strasbourg",
+    "placeholder": true
+  }
+]

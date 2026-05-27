@@ -1,0 +1,32 @@
+[
+  {
+    "name": "MAPPA",
+    "description": "Japanese animation studio known for series including Attack on Titan: The Final Season, Jujutsu Kaisen, and Chainsaw Man.",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "https://www.mappa.co.jp/",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21444",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wSejGn3lAZdQ5muByxvzigwyDY6.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "pinlight",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "64650"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

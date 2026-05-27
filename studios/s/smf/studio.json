@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SMF",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192192"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

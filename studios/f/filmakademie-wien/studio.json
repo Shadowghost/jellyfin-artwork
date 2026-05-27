@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmakademie Wien",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73113",
+        "logo_uri": "https://image.tmdb.org/t/p/original/muxz73bzgGWez395FlXsHdDFLCd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "https://www.filmakademie.wien/",
+    "headquarters": "Vienna",
+    "placeholder": true
+  }
+]

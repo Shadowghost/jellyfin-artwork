@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Gallo Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170209"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "placeholder": true
+  }
+]

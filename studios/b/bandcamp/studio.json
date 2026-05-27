@@ -1,0 +1,13 @@
+[
+  {
+    "name": "bandcamp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "190517"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

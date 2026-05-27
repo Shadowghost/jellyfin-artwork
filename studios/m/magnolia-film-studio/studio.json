@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Magnolia Film Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120210"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

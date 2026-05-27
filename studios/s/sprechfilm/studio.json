@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sprechfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217111"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MAM FILM",
+    "country": "JP",
+    "homepage": "https://mam-film.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "286628",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f09reZIYCaJ3qL7Rvnp5T3rwGP4.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

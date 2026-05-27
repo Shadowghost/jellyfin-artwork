@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Copper",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177630",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fznZTOlwNFVBID1Fob1UFPXR3AO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.wearecopper.us",
+    "placeholder": true
+  }
+]

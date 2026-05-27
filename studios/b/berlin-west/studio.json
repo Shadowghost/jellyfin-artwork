@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Berlin-West",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38288"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

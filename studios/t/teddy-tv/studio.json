@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Teddy TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71193",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k1PZtid5a3Lbqze2vfaHyLfwnvF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.teddytv.no/",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

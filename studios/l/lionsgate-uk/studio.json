@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lionsgate UK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175700",
+        "logo_uri": "https://image.tmdb.org/t/p/original/45f1kfTY94FdfGMljWHTMocnSbm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.lionsgatefilms.co.uk",
+    "placeholder": true
+  }
+]

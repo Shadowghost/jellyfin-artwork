@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wildling Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94525",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qxEhxuaApqR7GaYMJ5eyfKgQofd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://wildlingpictures.com",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BSB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7102",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dVMf5qfBDzhYioWkUD6UysKiS8y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.sky.com/",
+    "placeholder": true
+  }
+]

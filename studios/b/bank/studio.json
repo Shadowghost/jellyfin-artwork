@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bank",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "277333"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "cine-connect",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145597",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yXB9n0Qrv6h88fH3GIEAtZGroPb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.cineconnect.com/",
+    "headquarters": "Cologne",
+    "placeholder": true
+  }
+]

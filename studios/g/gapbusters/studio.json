@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GapBusters",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112442",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kgCQLJxqmymgg3WR5E7vjvCAqqH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.gapbusters.be/",
+    "headquarters": "Liège",
+    "placeholder": true
+  }
+]

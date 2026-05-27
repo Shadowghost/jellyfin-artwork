@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Erman Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4902",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h1Ss11xFUU1c0IDXeJTxA0SHEq0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "http://ermanfilm.com",
+    "headquarters": "Gazeteci Erol Dernek Sokak Erman Han, No: 5/5 Beyoğlu / İSTANBUL",
+    "placeholder": true
+  }
+]

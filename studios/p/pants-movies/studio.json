@@ -1,0 +1,13 @@
+[
+  {
+    "name": "pants movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200333"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

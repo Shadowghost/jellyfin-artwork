@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Feever Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223706",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ck9d75s7c6tEgZEmJCWlpsp6VvU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "headquarters": "Rio de Janeiro RJ",
+    "placeholder": true
+  }
+]

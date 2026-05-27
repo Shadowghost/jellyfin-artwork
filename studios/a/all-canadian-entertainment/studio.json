@@ -1,0 +1,17 @@
+[
+  {
+    "name": "All Canadian Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111905",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vy9oeQcc7yTd5d9Nmeif23mdFL4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://acefun.ca/",
+    "headquarters": "Ontario, Canada",
+    "placeholder": true
+  }
+]

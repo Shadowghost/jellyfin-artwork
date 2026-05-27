@@ -1,0 +1,15 @@
+[
+  {
+    "name": "OddLot Entertainment",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3263",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fvQzPr1XM8wq0qp8Rt7Z68rdhAZ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

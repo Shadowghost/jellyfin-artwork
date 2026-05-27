@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BAF Berlin Animation Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87859",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nkn7mGWhTU3rZkgt89fweK0rduI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.baf-film.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Waiting Room Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222424"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

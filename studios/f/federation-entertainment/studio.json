@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Federation Entertainment",
+    "country": "FR",
+    "homepage": "http://fedent.com",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51866",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8mkxHszsINLrOGEwqLBIP6p9ive.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

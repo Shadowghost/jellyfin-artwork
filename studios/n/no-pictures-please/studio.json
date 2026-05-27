@@ -1,0 +1,17 @@
+[
+  {
+    "name": "No Pictures Please",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144811",
+        "logo_uri": "https://image.tmdb.org/t/p/original/986j1XDFQPfYLRLLp4fxcPSlYTA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.nopicturesplease.nl/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

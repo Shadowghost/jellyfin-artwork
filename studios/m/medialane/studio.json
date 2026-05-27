@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MediaLane",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147030",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pPPkRdP2FYWChuOtbL3EB26OIKm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.medialane.nl/en/",
+    "placeholder": true
+  }
+]

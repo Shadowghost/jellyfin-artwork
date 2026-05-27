@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Torneos",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121256"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://www.torneos.com/es/",
+    "headquarters": "Buenos Aires, Argentina",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Times Brasil",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "244540",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aZgajeTvopQ03K87YrwDx7RIhxG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

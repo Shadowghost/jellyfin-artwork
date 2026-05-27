@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Sveafilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17511"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

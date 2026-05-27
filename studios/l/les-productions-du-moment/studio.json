@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Les productions du moment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108015"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "headquarters": "Saint-Basile-le-Grand, Quebec",
+    "placeholder": true
+  }
+]

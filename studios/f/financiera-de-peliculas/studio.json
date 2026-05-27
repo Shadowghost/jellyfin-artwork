@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Financiera de Películas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89343"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

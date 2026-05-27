@@ -1,0 +1,39 @@
+[
+  {
+    "name": "France 4",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tvdb",
+        "id": "107"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "33928",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1OyEVJAJYzSLmPg44rPY8vhQMmL.png"
+      },
+      {
+        "provider_name": "imdb",
+        "id": "co0148003"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "france-4",
+    "template": true,
+    "homepage": "https://www.france.tv/france-4/",
+    "headquarters": "Paris, France"
+  }
+]

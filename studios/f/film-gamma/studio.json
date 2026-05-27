@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Film Gamma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140825"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Portal Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131091",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j9ymmTwGPAG24WPkZjiWVGg2URy.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

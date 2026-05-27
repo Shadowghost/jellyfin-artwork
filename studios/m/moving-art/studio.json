@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Moving Art",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123912"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

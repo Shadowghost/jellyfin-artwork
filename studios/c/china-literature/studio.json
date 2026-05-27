@@ -1,0 +1,17 @@
+[
+  {
+    "name": "China Literature",
+    "country": "CN",
+    "homepage": "https://www.yuewen.com/",
+    "headquarters": "Shanghai",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115127",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lEA4MJ3zsi4RojFvNl4aw6t5okF.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

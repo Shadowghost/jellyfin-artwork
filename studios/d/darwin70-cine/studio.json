@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DARWIN70 CINE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117552",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pxJfEklu2xCPRjWpLjbZQXazmSO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://darwin70.com",
+    "headquarters": "Buenos Aires Madrid",
+    "placeholder": true
+  }
+]

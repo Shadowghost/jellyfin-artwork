@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ça tourne production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97450"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

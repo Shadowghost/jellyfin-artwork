@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Heartbeat Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139516"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

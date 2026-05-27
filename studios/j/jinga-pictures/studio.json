@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Jinga Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119260",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7GmFMlscBaJKWmfOFyINuleUnaJ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "http://www.jingapictures.com"
+  }
+]

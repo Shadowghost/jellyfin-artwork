@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bourke Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167461",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ou13pzVLAIioKOl3uE7MlMLu1ud.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://www.bourkefilms.com/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

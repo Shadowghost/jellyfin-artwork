@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SeeThink Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3151",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uhWN2lLe4EOuIdiaizZD5HWbB5o.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://seethink.com",
+    "headquarters": "New York City",
+    "placeholder": true
+  }
+]

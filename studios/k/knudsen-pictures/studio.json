@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Knudsen Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129632",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jzb3kMZoduZpmah196QmW9ACGMg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.knudsenpictures.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

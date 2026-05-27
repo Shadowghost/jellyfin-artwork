@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BookLive",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210105",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iDU7pNnywnlySoggvNh9hkzgutc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.booklive.co.jp/",
+    "headquarters": "Minato, Tokyo",
+    "placeholder": true
+  }
+]

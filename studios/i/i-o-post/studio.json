@@ -1,0 +1,17 @@
+[
+  {
+    "name": "i/o post",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33214",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qZItdzmDoVvPF5thCG2dDZmnS4X.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://iopost.cz",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

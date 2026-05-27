@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Harvest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35518"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

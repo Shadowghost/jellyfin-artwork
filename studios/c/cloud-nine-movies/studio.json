@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cloud Nine Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7990",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rZZfG8iqtSuJwkIzuNCUq3xtNkD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "headquarters": "Chennai, Tamilnadu, India",
+    "placeholder": true
+  }
+]

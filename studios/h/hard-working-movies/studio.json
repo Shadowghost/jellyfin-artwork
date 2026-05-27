@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hard Working Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110994",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Vb6ZSuCtUiKh0rDpQl6YJ5PnQd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.hardworkingmovies.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

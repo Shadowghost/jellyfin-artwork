@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Penrose Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31795",
+        "logo_uri": "https://image.tmdb.org/t/p/original/okjok55EyMOx4snFgPEurgbfx6r.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.penrosefilm.de",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

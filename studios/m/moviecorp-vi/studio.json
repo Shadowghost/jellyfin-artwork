@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Moviecorp VI",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45300"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

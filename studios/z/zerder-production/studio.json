@@ -1,0 +1,13 @@
+[
+  {
+    "name": "zerder production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "243795"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

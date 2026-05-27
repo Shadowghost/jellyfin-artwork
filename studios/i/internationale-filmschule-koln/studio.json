@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Internationale Filmschule Köln",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2057",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pDOPquzbk3wsNKMwFWZbOlqzG3v.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.filmschule.de/de",
+    "headquarters": "Schanzenstraße 28 51063 Köln, Germany",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NoEm Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180321"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

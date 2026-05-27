@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Scary Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252014"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

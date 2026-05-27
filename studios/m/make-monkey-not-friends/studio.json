@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Make monkey not friends",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275861"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

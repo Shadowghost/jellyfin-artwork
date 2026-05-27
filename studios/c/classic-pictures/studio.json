@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Classic Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7836"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

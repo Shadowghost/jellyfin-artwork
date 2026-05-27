@@ -1,0 +1,13 @@
+[
+  {
+    "name": "VPS prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180623"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

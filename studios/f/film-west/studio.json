@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Film West",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90664"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

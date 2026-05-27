@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films du Poisson",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2426",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ebQiHrVpqSs93D3A6eEDy9OFO52.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.filmsdupoisson.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

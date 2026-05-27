@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Gimme Five Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3099"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

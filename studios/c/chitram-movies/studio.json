@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Chitram Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72910"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

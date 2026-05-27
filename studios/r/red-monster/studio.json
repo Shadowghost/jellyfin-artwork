@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Red Monster",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115195"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "https://redmonster.at/?lang=en",
+    "placeholder": true
+  }
+]

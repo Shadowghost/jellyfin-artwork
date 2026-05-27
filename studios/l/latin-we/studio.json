@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Latin We",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151055"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

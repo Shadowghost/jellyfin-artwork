@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Grand Canyon University",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "253385",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9wdcER1ZfMOBiiOu2bcHzIuT57X.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.gcu.edu/",
+    "headquarters": "Phoenix, Arizona",
+    "placeholder": true
+  }
+]

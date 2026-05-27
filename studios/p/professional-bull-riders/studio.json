@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Professional Bull Riders",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192340",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iw1LxObFZCjChgAbOjhtg0mg2nO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://pbr.com",
+    "headquarters": "Pueblo, Colorado",
+    "placeholder": true
+  }
+]

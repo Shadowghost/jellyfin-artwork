@@ -1,0 +1,16 @@
+[
+  {
+    "name": "USA Films",
+    "country": "US",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "987",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zwL7Va6Pbwfi02zoFWL4H6GS5qG.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Gravis",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224149",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vZI8mRjqbWPEXOQeTbdhhohrymx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://graviss.co.jp/",
+    "placeholder": true
+  }
+]

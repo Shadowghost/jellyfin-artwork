@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Glance Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "279616"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

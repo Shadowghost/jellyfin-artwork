@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ZEROUM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280580",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6JS6XbSLsjZscEojwfoo4dJVZRz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.zeroum.co.jp",
+    "placeholder": true
+  }
+]

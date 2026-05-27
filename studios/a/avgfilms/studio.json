@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AVGFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170865"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

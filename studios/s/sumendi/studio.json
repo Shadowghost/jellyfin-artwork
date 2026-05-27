@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sumendi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171256",
+        "logo_uri": "https://image.tmdb.org/t/p/original/y8BnMmAPzDRXeaVYzOKT2vdLDqy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://sumendi.eus/",
+    "headquarters": "Barcelona",
+    "placeholder": true
+  }
+]

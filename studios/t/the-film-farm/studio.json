@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Film Farm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22884",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ytdX9tFAGyfcISVi6d9feNCBcwT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.thefilmfarm.ca",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

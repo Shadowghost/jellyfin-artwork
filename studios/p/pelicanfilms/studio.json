@@ -1,0 +1,13 @@
+[
+  {
+    "name": "pelicanfilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72798"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

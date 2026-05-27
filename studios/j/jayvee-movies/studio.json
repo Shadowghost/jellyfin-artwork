@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Jayvee Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165423"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

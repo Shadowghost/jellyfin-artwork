@@ -1,0 +1,31 @@
+[
+  {
+    "name": "This is That Productions",
+    "description": "American independent film production company founded by Anthony Bregman, Ted Hope, and Anne Carey, producing arthouse films.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10059",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3Z2MZzMW9gUyZAhHKhFIUqF1hwx.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Good Mojo Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199742"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

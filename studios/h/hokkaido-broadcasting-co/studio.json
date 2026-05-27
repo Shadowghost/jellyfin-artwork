@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Hokkaido Broadcasting Co., Ltd.",
+    "description": "Japanese commercial broadcaster headquartered in Sapporo, Hokkaido; affiliate of Japan News Network (TBS).",
+    "country": "JP",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283898",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uyooftnDWsIgkmwkQInAepnOALi.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Storefront Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60600"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

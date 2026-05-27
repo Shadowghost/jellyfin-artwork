@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Experimentalcinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111290",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3TGB2Qs1tA8qw4LPY7wmJtK5WOP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://experimentalcinema.wixsite.com/",
+    "headquarters": "Russia",
+    "placeholder": true
+  }
+]

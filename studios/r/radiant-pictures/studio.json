@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Radiant Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217113",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fFSeUafShLNgcmbgeSWM6vulk77.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "headquarters": "Beijing",
+    "placeholder": true
+  }
+]

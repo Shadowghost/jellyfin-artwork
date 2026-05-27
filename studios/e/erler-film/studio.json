@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Erler Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16499",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d4Y5soaQuCLFbZaqwjAkbBzj9e3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "http://www.erlerfilm.com",
+    "headquarters": "Istanbul",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "French Football Federation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107819",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7YRtPi9Pq8tad4Tm1xpnm0TyIZi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.fff.fr",
+    "placeholder": true
+  }
+]

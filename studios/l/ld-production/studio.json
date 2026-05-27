@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LD-Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "288761"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

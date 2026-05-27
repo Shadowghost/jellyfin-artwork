@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Consul Filmverleih",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119251"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

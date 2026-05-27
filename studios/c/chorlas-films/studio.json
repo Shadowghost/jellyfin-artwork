@@ -1,0 +1,15 @@
+[
+  {
+    "name": "chorlas films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221877",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mQp4EkHHjuUmvvqwLCGQtZi3q4M.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

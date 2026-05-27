@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Smithsonian Channel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18894",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rFr30k0B8DgdZtPHjzAtQIJ3XDH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.smithsonianchannel.com/",
+    "headquarters": "Washington, D.C., U.S.A.",
+    "placeholder": true
+  }
+]

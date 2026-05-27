@@ -1,0 +1,17 @@
+[
+  {
+    "name": "APG Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271757",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8loOJTNqByECQsWxWLEdG4KWEGw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://apgpictures.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Querosene Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49756",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tdQjfoqkGV9JMFm5PWHhRioYxn3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://querosene.tv",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

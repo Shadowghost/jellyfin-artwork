@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Mongol-film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238419"
+      }
+    ],
+    "artwork": {},
+    "country": "MN",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Upstream",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155839",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gfAMyk3HeRrVxxEwWkGnA7YpKcg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PH",
+    "homepage": "https://upstream.ph/",
+    "placeholder": true
+  }
+]

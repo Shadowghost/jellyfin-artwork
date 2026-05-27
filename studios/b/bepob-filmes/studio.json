@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bepob Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230205"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "KG Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201954",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1vpcfmZqNsPnMkw9PQvbBCuGs2E.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "placeholder": true
+  }
+]

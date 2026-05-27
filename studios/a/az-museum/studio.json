@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AZ Museum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211765"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "fajr",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107597"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

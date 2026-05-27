@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Indigo Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35420",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p6Ncciy2GyyyB2DDTUfS2iPW1wL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.indigofilms.com/",
+    "headquarters": "San Rafael, California",
+    "placeholder": true
+  }
+]

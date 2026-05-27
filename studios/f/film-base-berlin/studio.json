@@ -1,0 +1,17 @@
+[
+  {
+    "name": "film base berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12988",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gkF74xzvBtr0x2qAhKMVGW1gbU5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.filmbaseberlin.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

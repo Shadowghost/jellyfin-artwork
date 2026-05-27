@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ITV Studios France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117235",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j9tXdw2t53GS7tl2wIVFSLmxmuq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://itvstudiosfrance.fr",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Les Films du 24",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17311",
+        "logo_uri": "https://image.tmdb.org/t/p/original/saew2RWH6qetZyd0AfVoTxUZCRt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Neuilly-sur-Seine",
+    "placeholder": true
+  }
+]

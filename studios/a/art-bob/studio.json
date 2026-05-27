@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Art & Bob",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111749",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zueyXlRJUuBOQvTkXUrEiISRn6W.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://www.artbob.se/",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

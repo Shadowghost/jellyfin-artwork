@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Escuela Ecran",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222014",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3wgDCrcPo1uN020yOYSKRZqZH3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PE",
+    "homepage": "https://escuelaecran.com/",
+    "headquarters": "Lima",
+    "placeholder": true
+  }
+]

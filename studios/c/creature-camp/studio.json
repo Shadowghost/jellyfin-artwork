@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Creature Camp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231153"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

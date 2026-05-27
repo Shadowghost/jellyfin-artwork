@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Citrus Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113737"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

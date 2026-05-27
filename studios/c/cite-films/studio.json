@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cité Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7811"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.citefilms.com/mosaique.php?genre=completed",
+    "headquarters": "Neuilly sur Seine",
+    "placeholder": true
+  }
+]

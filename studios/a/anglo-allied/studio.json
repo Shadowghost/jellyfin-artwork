@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Anglo Allied",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1900"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "blankNegatives",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250251"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

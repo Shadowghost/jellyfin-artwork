@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rosa Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16421",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A5ZNlCF9yzcIqmvD8WQtHK9htg8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "https://www.rosafilmes.com/",
+    "headquarters": "Lisboa",
+    "placeholder": true
+  }
+]

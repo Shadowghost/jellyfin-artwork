@@ -1,0 +1,15 @@
+[
+  {
+    "name": "ITN Source",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16989",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tNPRPE1476jreCXl11gpMvUnXNk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

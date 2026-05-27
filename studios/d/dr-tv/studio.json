@@ -1,0 +1,30 @@
+[
+  {
+    "name": "DR TV",
+    "description": "Television service of DR (Danmarks Radio), the Danish public-service broadcaster; DRTV is also DR's streaming/on-demand platform.",
+    "country": "DK",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "639",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fNhXK0DtWWGh7Diy10kPvKPLk5h.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

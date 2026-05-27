@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Nat Geo Wild",
+    "description": "Pay television channel from National Geographic Partners focused on wildlife and nature programming.",
+    "country": "US",
+    "type": "cable-network",
+    "homepage": "http://channel.nationalgeographic.com/wild/",
+    "headquarters": "Washington, District of Columbia, USA",
+    "colors": [
+      {
+        "name": "National Geographic Yellow",
+        "hex": "#FFCC00"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177898",
+        "logo_uri": "https://image.tmdb.org/t/p/original/onwO6Mf6JjLrE1ef1hvDDUhYnxz.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

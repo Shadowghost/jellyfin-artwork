@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Inspiring Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151169",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vqyPDsWJ0xBqpJy9qh6tRf1Tzlx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.inspiringfilmsllc.com/",
+    "headquarters": "Lititz, Pennsylvania",
+    "placeholder": true
+  }
+]

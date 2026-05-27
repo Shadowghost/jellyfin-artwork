@@ -1,0 +1,13 @@
+[
+  {
+    "name": "OCG",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229299"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

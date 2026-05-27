@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Link production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125758"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://linkproduction.linkagency.fr/",
+    "headquarters": "Boulogne Billancourt",
+    "placeholder": true
+  }
+]

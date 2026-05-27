@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmmaker Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191668",
+        "logo_uri": "https://image.tmdb.org/t/p/original/82afpyDmEuFfnflOnLdkWfIqZxR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MY",
+    "homepage": "http://filmmaker.com.my/",
+    "headquarters": "Kuala Lumpur",
+    "placeholder": true
+  }
+]

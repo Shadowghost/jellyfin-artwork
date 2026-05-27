@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MetFilm Sales",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256925",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l1dZ2FS7pkBOLJPf6OzoOkwwLpT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.metfilmstudio.com/sales",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

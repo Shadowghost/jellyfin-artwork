@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Zentropa International Berlin",
+    "country": "DE",
+    "homepage": "http://www.zentropaberlin.com/",
+    "headquarters": "Berlin, Germany",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118001"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films de l'Arlequin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42765",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gFr0hFU857cktTimsiRDGtFe3Ld.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.filmsdelarlequin.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

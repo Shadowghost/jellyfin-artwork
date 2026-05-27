@@ -1,0 +1,15 @@
+[
+  {
+    "name": "La Maison Garage",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123001"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.lamaisongarage.fr",
+    "placeholder": true
+  }
+]

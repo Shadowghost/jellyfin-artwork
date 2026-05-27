@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Knockout Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202002"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

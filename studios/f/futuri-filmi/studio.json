@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Futuri filmi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124784"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "http://www.futurifilmi.fi/",
+    "headquarters": "Isokyrö, Finland",
+    "placeholder": true
+  }
+]

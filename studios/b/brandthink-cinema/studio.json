@@ -1,0 +1,15 @@
+[
+  {
+    "name": "BrandThink Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200627",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cJulCM1P7VIKh0abAsPlkOSyocm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TH",
+    "placeholder": true
+  }
+]

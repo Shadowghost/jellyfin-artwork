@@ -1,0 +1,13 @@
+[
+  {
+    "name": "News of the Day",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273333"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

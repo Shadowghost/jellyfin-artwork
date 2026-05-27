@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MovieBrats Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79197",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w9sEuXHlyfa3ZO9VqFK10TGGKdV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://moviebratspictures.com/",
+    "headquarters": "Erfurt, Thuringia",
+    "placeholder": true
+  }
+]

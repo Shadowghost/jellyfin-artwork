@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Région Bourgogne-Franche-Comté",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125664",
+        "logo_uri": "https://image.tmdb.org/t/p/original/odLCf11c4q2Jj5WrJSEb0H48TCT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.bourgognefranchecomte.fr/",
+    "headquarters": "Dijon",
+    "placeholder": true
+  }
+]

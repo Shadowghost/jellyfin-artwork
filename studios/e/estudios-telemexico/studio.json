@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Estudios TeleMéxico",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120870",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dMYLtwOxqQWZGlNqO3Cefp7MEZU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://estudiostelemexico.com/",
+    "placeholder": true
+  }
+]

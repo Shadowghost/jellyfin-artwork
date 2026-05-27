@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Comic Relief",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73533"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

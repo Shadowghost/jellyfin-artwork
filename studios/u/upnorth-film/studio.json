@@ -1,0 +1,17 @@
+[
+  {
+    "name": "UpNorth Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101445",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fmuOeyRA1MmtZHksuKeARURHcqF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://upnorthfilm.no",
+    "headquarters": "Oslo",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "EPISCOPE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205952",
+        "logo_uri": "https://image.tmdb.org/t/p/original/388yk5xwocvxFMvNZoUkNu5Lj6L.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://episcope.co.jp/",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

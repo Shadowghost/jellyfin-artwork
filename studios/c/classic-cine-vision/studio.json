@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Classic Cine Vision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250433"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

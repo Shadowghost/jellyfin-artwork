@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tabiki Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210674",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bxIMDLC3T8FCZxq3eI9LmeNe1Nb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://tabikifilm.nl/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

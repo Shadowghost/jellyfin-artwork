@@ -1,0 +1,17 @@
+[
+  {
+    "name": "C-Films Deutschland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "65993",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bMLJQZXK4nGKzZAjHPkJouladSa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://c-films.de/en",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

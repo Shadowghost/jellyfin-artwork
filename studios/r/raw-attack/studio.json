@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Raw Attack",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128556",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5RrgjjrSniGXsRWOxcUzrRLffjx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.rawattack.com/",
+    "placeholder": true
+  }
+]

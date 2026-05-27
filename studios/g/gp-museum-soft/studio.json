@@ -1,0 +1,16 @@
+[
+  {
+    "name": "GP Museum Soft",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5980",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hAS6kavYvNODeyyeKjfWOKw5J8h.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.gp-museum.com/",
+    "placeholder": true
+  }
+]

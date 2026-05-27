@@ -1,0 +1,17 @@
+[
+  {
+    "name": "l’atelier documentaire",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127455",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g43BiHeXJvFibvuLFVT4zmpmYd9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.atelier-documentaire.fr/",
+    "headquarters": "Bordeaux",
+    "placeholder": true
+  }
+]

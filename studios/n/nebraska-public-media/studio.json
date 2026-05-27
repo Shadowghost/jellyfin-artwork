@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nebraska Public Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200629",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uybXPuE1XsdWfODHwYsR1b4cGx7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://nebraskapublicmedia.org",
+    "headquarters": "Lincoln, NE",
+    "placeholder": true
+  }
+]

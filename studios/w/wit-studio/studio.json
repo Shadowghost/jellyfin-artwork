@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Wit Studio",
+    "description": "Japanese animation studio founded in 2012 as a subsidiary of IG Port; produced the first three seasons of Attack on Titan, Vinland Saga S1, Ranking of Kings, and Spy x Family (with CloverWorks).",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "http://witstudio.co.jp",
+    "headquarters": "Musashino, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31058",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1vwZPG0zMVRvThCY8Lljh0ppxQo.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "WIT STUDIO"
+    ],
+    "template": true
+  }
+]

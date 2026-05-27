@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Municipality of Alimos",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "282279",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vqte4HZZPwmExW76W3jvVxvikip.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GR",
+    "homepage": "https://alimos.gov.gr/",
+    "headquarters": "Alimos",
+    "placeholder": true
+  }
+]

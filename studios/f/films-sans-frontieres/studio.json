@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Films sans frontières",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148078",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9MVkJjbi1zkazBuB5ZtvG3VEako.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.films-sans-frontieres.com/",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

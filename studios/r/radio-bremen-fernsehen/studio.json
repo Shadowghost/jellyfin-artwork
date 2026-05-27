@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Radio Bremen Fernsehen",
+    "description": "Television service of Radio Bremen, the public broadcaster for the German state of Bremen and a member of the ARD network; contributes programming to Das Erste.",
+    "country": "DE",
+    "type": "broadcast-network",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

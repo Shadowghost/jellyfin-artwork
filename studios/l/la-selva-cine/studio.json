@@ -1,0 +1,16 @@
+[
+  {
+    "name": "La Selva Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158209",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tsP1D6QJyA3kZyjpoGZSI0KLLK2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CO",
+    "headquarters": "Medellín",
+    "placeholder": true
+  }
+]

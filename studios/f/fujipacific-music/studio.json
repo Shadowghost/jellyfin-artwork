@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fujipacific Music",
+    "country": "JP",
+    "homepage": "https://www.fujipacific.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255384",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qWEht1NmJFiITQLCieC1iLL0O65.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

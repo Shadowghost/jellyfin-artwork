@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cassandra Cinematografica",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98052"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

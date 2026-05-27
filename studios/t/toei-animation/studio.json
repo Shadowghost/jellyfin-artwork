@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Toei Animation",
+    "description": "Japanese animation studio owned by Toei Company, producer of Dragon Ball, One Piece, Sailor Moon, and other major anime franchises.",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "http://corp.toei-anim.co.jp",
+    "headquarters": "Nerima, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5542",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ayE4LIqoAWotavo7xdvYngwqGML.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

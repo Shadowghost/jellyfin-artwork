@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CinemaStreet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71054"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Billboard",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113576",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tU96NEjcI6QMtNXgpKPzwGvH5sM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.billboard.com/",
+    "placeholder": true
+  }
+]

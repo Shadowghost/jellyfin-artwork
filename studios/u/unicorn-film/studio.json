@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Unicorn Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32192"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

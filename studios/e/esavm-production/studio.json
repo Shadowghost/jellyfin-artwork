@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ESAVM Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285115"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

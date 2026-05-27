@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SelectNext",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151529"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lacuna Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28440",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e3ZD4E99pmgmsu5HueHJpiSJ5ap.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.lacuna.film/",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

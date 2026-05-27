@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Amare",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215185",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6liBQt7pVbG41ZOXtLrJQyoX3xd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.amare.nl",
+    "headquarters": "The Hague, Netherlands",
+    "placeholder": true
+  }
+]

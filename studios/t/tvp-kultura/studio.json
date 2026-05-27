@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TVP Kultura",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255168",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p78tmDTKBJsWzBlPrCnMBtFqhxh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://tvpkultura.tvp.pl/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

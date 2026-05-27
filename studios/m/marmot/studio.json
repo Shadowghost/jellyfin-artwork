@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Marmot",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104594",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hr0nLWCUHKwI0drTyOaPgJ16I8o.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

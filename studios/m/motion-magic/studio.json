@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Motion Magic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162911",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bpulbAIOw3U3MJu2RWM3agLEaxM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://www.shmds.com/index.html",
+    "headquarters": "Shanghai, China",
+    "placeholder": true
+  }
+]

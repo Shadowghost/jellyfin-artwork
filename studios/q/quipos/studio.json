@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Quipos",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151912",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oONsGHiPZvAi4rzqP3FlCWq0Sqv.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

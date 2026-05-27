@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Jornal Correio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270586"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ERA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9090"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

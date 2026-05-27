@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Word Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150024"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

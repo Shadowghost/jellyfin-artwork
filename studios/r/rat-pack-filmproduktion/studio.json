@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rat Pack Filmproduktion",
+    "country": "DE",
+    "homepage": "http://www.ratpack-film.de",
+    "headquarters": "Munich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5754",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lYPqogOigbGMmErpSBBn2SnVypQ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

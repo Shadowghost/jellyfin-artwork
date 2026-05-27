@@ -1,0 +1,15 @@
+[
+  {
+    "name": "La Chauve Souris",
+    "country": "FR",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2360"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

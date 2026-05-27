@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Media Offline",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113458"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.mediaoffline.cz/",
+    "headquarters": "Prague, Czech Republic",
+    "placeholder": true
+  }
+]

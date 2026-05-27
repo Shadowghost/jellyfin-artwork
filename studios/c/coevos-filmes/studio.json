@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Coevos Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2425",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aEMVBMhtibEb0LdirbR9qScTjHm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.coevos.com.br/",
+    "headquarters": "Rio de Janeiro RJ",
+    "placeholder": true
+  }
+]

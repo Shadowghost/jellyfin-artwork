@@ -1,0 +1,16 @@
+[
+  {
+    "name": "XY Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157480",
+        "logo_uri": "https://image.tmdb.org/t/p/original/saXNwMBAmhDoOcaffgEubhqasLR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Essen/Munich",
+    "placeholder": true
+  }
+]

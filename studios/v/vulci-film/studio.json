@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Vulci Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120303"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

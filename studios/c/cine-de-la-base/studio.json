@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine de la Base",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25966"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

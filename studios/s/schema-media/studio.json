@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Schema Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101267"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

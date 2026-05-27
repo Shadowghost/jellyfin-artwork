@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Princess Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17094",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vzwqInC0VPs2eSLBAWz2GjvPFMf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://princess.net.au",
+    "headquarters": "Prahran, Victoria",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Time-Life Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10726",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gzG5OWvwJEzSd8EJuXbB60bc5R0.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

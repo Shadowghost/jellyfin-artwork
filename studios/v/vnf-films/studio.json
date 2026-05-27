@@ -1,0 +1,13 @@
+[
+  {
+    "name": "VNF FILMS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233126"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

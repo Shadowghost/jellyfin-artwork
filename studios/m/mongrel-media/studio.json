@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mongrel Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "64740",
+        "logo_uri": "https://image.tmdb.org/t/p/original/N9CoGbHpYbA93wogwbKGN3MhDh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.mongrelmedia.com/",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

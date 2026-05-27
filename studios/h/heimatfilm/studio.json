@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Heimatfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1588",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uoQ6idaav4dKMipOfjrc1lCJbhP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.heimatfilm.biz/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

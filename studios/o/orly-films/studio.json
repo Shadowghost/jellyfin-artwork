@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Orly Films",
+    "country": "FR",
+    "headquarters": "Paris, France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "354"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

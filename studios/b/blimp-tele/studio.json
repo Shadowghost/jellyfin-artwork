@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Blimp Télé",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111188",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jeSeXnbGhyLz8yOuOHzHFmWVIj4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://blimp.tv",
+    "headquarters": "Longueuil, Québec",
+    "placeholder": true
+  }
+]

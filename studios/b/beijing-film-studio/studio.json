@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Beijing Film Studio",
+    "country": "CN",
+    "headquarters": "Beijing,China",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "708"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

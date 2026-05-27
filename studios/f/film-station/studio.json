@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Station",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183606"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

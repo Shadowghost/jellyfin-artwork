@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Darkroom Records",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "281504",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dA2j4MdFjmcs9T8Vwpx6RtKRMRM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.darkroomrecords.com",
+    "placeholder": true
+  }
+]

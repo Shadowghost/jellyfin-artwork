@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kino Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17829",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7lZU96hRoJeJYwp8r6m3Vwa90Nk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://kinofilms.jp/",
+    "placeholder": true
+  }
+]

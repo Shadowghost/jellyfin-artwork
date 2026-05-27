@@ -1,0 +1,33 @@
+[
+  {
+    "name": "20th Century Fox Television",
+    "description": "American television production company, a unit of Disney Television Studios; renamed 20th Television in 2020.",
+    "country": "US",
+    "type": "production-company",
+    "parent_company": "20th Century Fox",
+    "homepage": "https://20thtv.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1556",
+        "logo_uri": "https://image.tmdb.org/t/p/original/31h94rG9hzjprXoYNy3L1ErUya2.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

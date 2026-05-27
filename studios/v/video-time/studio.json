@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Video Time",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248900"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

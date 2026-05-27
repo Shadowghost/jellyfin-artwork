@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Huanyu Film and Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110510",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gXgZZmYPtkj75tuZuYa4FYb70KG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://www.huanyutv.com/index-en.html",
+    "placeholder": true
+  }
+]

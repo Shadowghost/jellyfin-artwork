@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PalmStar Media",
+    "country": "US",
+    "homepage": "http://www.palmstar.com",
+    "headquarters": "Wayne, Pennsylvania",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24277",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mRSBVNNL2lZvJKVGjlxeUQVRc6X.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "yellow bird production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150004"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

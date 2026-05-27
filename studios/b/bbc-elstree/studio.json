@@ -1,0 +1,15 @@
+[
+  {
+    "name": "BBC Elstree",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241340",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8X4KdtpSksl6FdRU7OI5O0u7K0O.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

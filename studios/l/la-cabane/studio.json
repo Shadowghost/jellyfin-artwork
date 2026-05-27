@@ -1,0 +1,16 @@
+[
+  {
+    "name": "La Cabane",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138551",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ktZQkecaXYkuzD4bIlUbh3XCnD8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

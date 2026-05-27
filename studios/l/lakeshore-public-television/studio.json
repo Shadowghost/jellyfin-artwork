@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lakeshore Public Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29599",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1acq277m1iqmWEXIfm8cxlZIQwZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://lakeshorepublicmedia.org",
+    "headquarters": "Merrillville, Indiana",
+    "placeholder": true
+  }
+]

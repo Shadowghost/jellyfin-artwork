@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MACRO",
+    "country": "US",
+    "homepage": "https://www.staymacro.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79426",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8aEC7xem9YwHNCDojSFEPQgoFC3.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "June Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172061",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1mTGZfOHTclhsgMOW0qfUb9bWAn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://junefilms.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

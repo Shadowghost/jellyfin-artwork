@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WestEnd Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20782",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tTfJjcJHmVPBbPv3q1ATtaX5mFf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.westendfilms.com",
+    "headquarters": "Harrow",
+    "placeholder": true
+  }
+]

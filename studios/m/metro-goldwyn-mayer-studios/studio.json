@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Metro-Goldwyn-Mayer Studios",
+    "country": "GB",
+    "headquarters": "Borehamwood, Hertfordshire, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5579",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p3vXYhkpbws0QrdSAwI98ONX7Po.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

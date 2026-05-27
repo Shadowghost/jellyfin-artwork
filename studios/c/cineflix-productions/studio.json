@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cineflix Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32205",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dQmrjj3YjGoXlulrQu6IHPf5Vmj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.cineflixproductions.com",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

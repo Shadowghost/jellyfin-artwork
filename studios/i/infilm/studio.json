@@ -1,0 +1,17 @@
+[
+  {
+    "name": "InFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118641",
+        "logo_uri": "https://image.tmdb.org/t/p/original/umE0tbdQy4zwHOBpYLuvlDLw18R.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.infilm.cz/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "King Bee",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176572",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AeyCEPFV4XQKM3iPgJlSIHVNlH1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.mediabank.co.jp/label.php?id=23",
+    "placeholder": true
+  }
+]

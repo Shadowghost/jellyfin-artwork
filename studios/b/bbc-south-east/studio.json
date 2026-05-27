@@ -1,0 +1,28 @@
+[
+  {
+    "name": "BBC South East",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "265181",
+        "logo_uri": "https://image.tmdb.org/t/p/original/roo8okWZGq1Ku4EcMO3LmMpRBao.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "GB",
+    "template": true
+  }
+]

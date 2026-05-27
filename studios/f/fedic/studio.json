@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FEDIC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182000"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

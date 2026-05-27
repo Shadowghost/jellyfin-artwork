@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Agora Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15316",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8vhiICXCGJcoGJwn590vhCn3r9E.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MA",
+    "homepage": "https://agora-films.com/",
+    "headquarters": "Casablanca",
+    "placeholder": true
+  }
+]

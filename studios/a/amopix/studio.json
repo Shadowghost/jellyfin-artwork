@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Amopix",
+    "country": "FR",
+    "homepage": "https://amopix.com/",
+    "headquarters": "Strasbourg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122125",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8zUJP4URxf0t2l96xvDbqm5vqGf.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

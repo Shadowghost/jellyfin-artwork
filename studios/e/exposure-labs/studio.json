@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Exposure Labs",
+    "country": "US",
+    "homepage": "https://www.exposurelabs.com/",
+    "headquarters": "Boulder, CO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89145"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

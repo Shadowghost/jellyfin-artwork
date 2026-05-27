@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cine Plus Filmproduktion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16052",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zuTtCXQa9NWiUnydXdpNIr9DDcn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://cineplusfilm.de/en",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

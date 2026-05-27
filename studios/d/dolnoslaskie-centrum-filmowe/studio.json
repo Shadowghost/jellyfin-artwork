@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dolnośląskie Centrum Filmowe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167232",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mnlIk81XfahQNdrCDUf3ieHJseb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://dcf.wroclaw.pl/",
+    "headquarters": "Wrocław",
+    "placeholder": true
+  }
+]

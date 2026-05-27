@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Inventario de Cine Español Conservado",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239526"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

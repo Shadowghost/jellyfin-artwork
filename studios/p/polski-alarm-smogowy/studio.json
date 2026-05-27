@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Polski Alarm Smogowy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "293305"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://polskialarmsmogowy.pl",
+    "placeholder": true
+  }
+]

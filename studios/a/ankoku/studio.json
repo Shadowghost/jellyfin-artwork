@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Ankoku",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "251348",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eCpBnp81BX0P3hW0sSVjwYrTbgW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

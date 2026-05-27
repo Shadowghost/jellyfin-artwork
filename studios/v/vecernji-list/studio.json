@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Večernji list",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102330"
+      }
+    ],
+    "artwork": {},
+    "country": "HR",
+    "placeholder": true
+  }
+]

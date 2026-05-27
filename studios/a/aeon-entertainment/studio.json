@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Aeon Entertainment",
+    "description": "Production company; limited public information available.",
+    "country": "JP",
+    "type": "production-company",
+    "homepage": "https://www.aeoncinema.com/company/",
+    "headquarters": "Minato, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99252",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fve0Ela7CSWpi73FSGvnxa91kcB.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

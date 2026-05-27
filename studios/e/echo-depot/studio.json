@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Echo Depot",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187586"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

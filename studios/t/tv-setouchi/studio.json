@@ -1,0 +1,34 @@
+[
+  {
+    "name": "TV Setouchi",
+    "description": "Japanese commercial television station based in Okayama, serving Okayama and Kagawa prefectures as a TX Network (TV Tokyo) affiliate.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.webtsc.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167227",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oebirLiyS4pt4qaHVnkgSLsGGoI.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "TV Setouchi Broadcasting"
+    ],
+    "template": true
+  }
+]

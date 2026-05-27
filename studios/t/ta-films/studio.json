@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ta Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210543",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pTkIzoYXwEJhKRV08zXn3I4C3GC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AE",
+    "homepage": "https://tafilms.ae/",
+    "headquarters": "Dubai",
+    "placeholder": true
+  }
+]

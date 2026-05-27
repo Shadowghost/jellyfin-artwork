@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Picturescope",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97227",
+        "logo_uri": "https://image.tmdb.org/t/p/original/TB29N3GwejQMAXYrs6pS7N6hOb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ZA",
+    "homepage": "https://www.picturescope.com",
+    "headquarters": "Cape Town",
+    "placeholder": true
+  }
+]

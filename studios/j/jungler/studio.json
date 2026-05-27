@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Jungler",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223203"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

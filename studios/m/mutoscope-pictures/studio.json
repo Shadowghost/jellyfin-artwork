@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mutoscope Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202028"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

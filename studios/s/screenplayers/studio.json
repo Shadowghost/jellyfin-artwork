@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ScreenPlayers",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "251082"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

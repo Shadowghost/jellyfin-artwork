@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cinefilmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93261"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

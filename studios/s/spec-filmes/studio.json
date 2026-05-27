@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SPEC Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187576"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

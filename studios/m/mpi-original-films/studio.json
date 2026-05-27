@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MPI Original Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177490",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fx7nd360yTtQtTCWzL078wsbCg2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.thempi.org/films",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

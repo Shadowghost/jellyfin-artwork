@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Domestic Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76421",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2h8aHHt9pSVedgfSvU13CLFfpjz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "headquarters": "Bucharest",
+    "placeholder": true
+  }
+]

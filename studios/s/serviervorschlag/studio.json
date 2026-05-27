@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Serviervorschlag",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "228416"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

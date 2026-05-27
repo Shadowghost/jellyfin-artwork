@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmes Casa",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188869",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wEqDom1AghfEPK3jWqWSQUJ22T7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PR",
+    "homepage": "https://www.filmescasapr.com/",
+    "headquarters": "San Juan, PR",
+    "placeholder": true
+  }
+]

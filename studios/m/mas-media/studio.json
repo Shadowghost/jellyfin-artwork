@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MAS-media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145501"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

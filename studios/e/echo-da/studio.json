@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Echo DA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75716"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

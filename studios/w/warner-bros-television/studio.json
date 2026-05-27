@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Warner Bros. Television",
+    "country": "US",
+    "homepage": "https://www.warnerbros.com/tv",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1957",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pJJw98MtNFC9cHn3o15G7vaUnnX.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

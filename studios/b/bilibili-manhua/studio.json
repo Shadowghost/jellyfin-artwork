@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bilibili Manhua",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234432",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mq5KUuBiTinw6BFKThBLqAb9HX4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://manga.bilibili.com/",
+    "headquarters": "Shanghai, China",
+    "placeholder": true
+  }
+]

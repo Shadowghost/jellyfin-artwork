@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DTC Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214143"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

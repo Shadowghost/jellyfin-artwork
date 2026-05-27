@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LUX Moving Image",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129625"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

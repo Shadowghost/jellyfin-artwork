@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films du printemps",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123571",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3js5G5BxeQBgiSvclSdKJAGK4rU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://lesfilmsduprintemps.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

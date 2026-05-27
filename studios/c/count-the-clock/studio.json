@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Count the Clock",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191403",
+        "logo_uri": "https://image.tmdb.org/t/p/original/edzFeyXEgadnubzSuUqEtwXCpTS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://counttheclock.com",
+    "headquarters": "Los Angeles, CA",
+    "placeholder": true
+  }
+]

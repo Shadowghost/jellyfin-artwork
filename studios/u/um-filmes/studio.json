@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Um Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142680",
+        "logo_uri": "https://image.tmdb.org/t/p/original/693SvZ5lCHvBPGqJ73qtZ2NM03N.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://umfilmes.com.br/",
+    "placeholder": true
+  }
+]

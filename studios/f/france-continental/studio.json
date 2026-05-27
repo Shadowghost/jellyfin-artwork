@@ -1,0 +1,14 @@
+[
+  {
+    "name": "France-Continental",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86464"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

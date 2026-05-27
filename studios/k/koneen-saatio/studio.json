@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Koneen Säätiö",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154313",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qFoJFfHp4mXoz3AxWekklYrVJxN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://koneensaatio.fi",
+    "placeholder": true
+  }
+]

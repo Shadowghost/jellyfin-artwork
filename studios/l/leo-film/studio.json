@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Leo-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32476"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

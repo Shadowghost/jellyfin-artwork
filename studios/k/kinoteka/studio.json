@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kinoteka",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81059",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p3lbf14P9DmlCVyAcj9hfVgF85f.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HR",
+    "homepage": "https://kinoteka.hr/",
+    "headquarters": "Zagreb",
+    "placeholder": true
+  }
+]

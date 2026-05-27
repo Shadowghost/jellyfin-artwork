@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TGA Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104452",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zu6dvKHLzhX6oSNsDE0EoFPMe2k.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.tga.fr/",
+    "headquarters": "Tours",
+    "placeholder": true
+  }
+]

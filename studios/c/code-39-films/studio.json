@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Code 39 Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83498"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

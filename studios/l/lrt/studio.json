@@ -1,0 +1,17 @@
+[
+  {
+    "name": "LRT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "57070",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n9lWAxrMTx5y37qLukEb1oXIYpW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LT",
+    "homepage": "https://www.lrt.lt",
+    "headquarters": "Vilnius",
+    "placeholder": true
+  }
+]

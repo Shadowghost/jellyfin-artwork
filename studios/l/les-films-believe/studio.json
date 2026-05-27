@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les films Believe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205518",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1iiKja7t2Bk0triJzzcSomhnrPn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://lesfilmsbelieve.com/",
+    "headquarters": "Guelph, Ontario",
+    "placeholder": true
+  }
+]

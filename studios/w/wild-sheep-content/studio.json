@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wild Sheep Content",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182404",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mVtv0azdyGrRJ8sj2wPoXenbF9L.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.wildsheepcontent.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

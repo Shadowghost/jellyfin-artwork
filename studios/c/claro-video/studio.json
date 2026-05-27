@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Claro Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160583",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pasQ1l8JfYn0EZbwSem8AFAGLW1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PE",
+    "homepage": "https://www.clarovideo.com/",
+    "headquarters": "Lima",
+    "placeholder": true
+  }
+]

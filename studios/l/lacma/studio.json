@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LACMA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122409"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

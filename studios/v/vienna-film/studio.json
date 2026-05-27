@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Vienna Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69901"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "placeholder": true
+  }
+]

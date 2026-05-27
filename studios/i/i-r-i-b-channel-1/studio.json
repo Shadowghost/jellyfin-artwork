@@ -1,0 +1,15 @@
+[
+  {
+    "name": "I.R.I.B. Channel 1",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127562",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mjaTiRHIe3rgcj9om0UzoRn04xH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IR",
+    "placeholder": true
+  }
+]

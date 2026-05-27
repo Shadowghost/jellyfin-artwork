@@ -1,0 +1,15 @@
+[
+  {
+    "name": "WirFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "47503"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.wirfilm.de/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Eurociné",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4799"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.eurocine.net/",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

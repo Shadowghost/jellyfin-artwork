@@ -1,0 +1,16 @@
+[
+  {
+    "name": "PREMIUM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123311",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cor81zKVxxnWNj8rWWqVyYXed0N.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://premium-beauty.com",
+    "placeholder": true
+  }
+]

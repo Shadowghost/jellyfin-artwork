@@ -1,0 +1,13 @@
+[
+  {
+    "name": "emb filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270645"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

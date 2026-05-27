@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Balsa Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285814",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1t2JX6oUtrKm6Ms9Wlg4VI5IF7c.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "http://www.balsafilms.com/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

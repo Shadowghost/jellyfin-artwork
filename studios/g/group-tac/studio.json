@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Group TAC",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5397",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ufEcABqc3fK5ehfwueZ684svd4N.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

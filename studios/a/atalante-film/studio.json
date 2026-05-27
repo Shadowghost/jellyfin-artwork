@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Atalante Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12981",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j5x0ssE6gSrz7Z8UhbjmoqGwTut.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://atalante-film.de/",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

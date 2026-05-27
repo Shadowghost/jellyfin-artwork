@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Base Zero",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204774",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jy4skProWZsbiq8r7W3h6PAMdOz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://basezero.film/",
+    "headquarters": "Torino",
+    "placeholder": true
+  }
+]

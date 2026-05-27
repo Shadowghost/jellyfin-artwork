@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Ojo Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30281",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8fYzrExbkRC4uW60ROnmUYh5khH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

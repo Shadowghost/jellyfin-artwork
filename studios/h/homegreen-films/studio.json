@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Homegreen Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8041",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ewR2yugip7hKSDKjYrQSWIb9j9w.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TW",
+    "headquarters": "Taipei",
+    "placeholder": true
+  }
+]

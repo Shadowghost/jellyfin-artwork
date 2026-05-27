@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BAFP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201028"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

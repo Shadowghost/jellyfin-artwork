@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Root Strata",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150518"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

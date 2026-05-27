@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bungeisha",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275464",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qypYon8dZf70Vqz32aH9L95sXTm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.bungeisha.co.jp/",
+    "placeholder": true
+  }
+]

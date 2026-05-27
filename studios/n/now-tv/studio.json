@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Now TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198965",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o0P4Kaxs1bbcCp68sW4fbT1deHI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HK",
+    "placeholder": true
+  }
+]

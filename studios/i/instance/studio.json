@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Instance",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255988"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

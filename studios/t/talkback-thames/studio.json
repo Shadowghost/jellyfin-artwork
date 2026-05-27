@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Talkback Thames",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5645",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bKcQzzCVVeqgby86hAqKm5iVuzi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

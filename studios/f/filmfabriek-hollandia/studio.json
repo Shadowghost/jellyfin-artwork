@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Filmfabriek-Hollandia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102429",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9n6WQxDFeqMZJMVDXNiVhQvvlke.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "placeholder": true
+  }
+]

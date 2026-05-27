@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Oriental DreamWorks",
+    "country": "CN",
+    "headquarters": "Shanghai",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76266",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iWn5yo47iLurqotd3EfkAROdtxr.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

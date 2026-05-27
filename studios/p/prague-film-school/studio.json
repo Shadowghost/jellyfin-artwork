@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Prague Film School",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167832",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iMbHsXRDCrdVsRr4k8xlkwJlM99.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.praguefilmschool.cz/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

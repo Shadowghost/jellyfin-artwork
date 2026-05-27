@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Casablanca Filmworks",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15058",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iFXMQHthpibxASzdZFoa41fHFmX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

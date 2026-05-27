@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KEICA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193480",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oe9HHg3OPWFpMVMfcu1p2VNplOy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.keica.jp/",
+    "headquarters": "Tsurumi, Yokohama, Kanagawa",
+    "placeholder": true
+  }
+]

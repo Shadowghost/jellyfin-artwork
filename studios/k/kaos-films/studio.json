@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kaos Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48511",
+        "logo_uri": "https://image.tmdb.org/t/p/original/s1SdauimBTWstbskDE6yu3P44yn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "http://www.kaos-films.com",
+    "headquarters": "Brussels",
+    "placeholder": true
+  }
+]

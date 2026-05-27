@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Play Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249265"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

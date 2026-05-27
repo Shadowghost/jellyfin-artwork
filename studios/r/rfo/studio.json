@@ -1,0 +1,13 @@
+[
+  {
+    "name": "RFO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123002"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

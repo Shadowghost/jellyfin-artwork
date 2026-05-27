@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ellistoppcinemas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241000"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

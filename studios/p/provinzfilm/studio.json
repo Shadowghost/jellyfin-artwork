@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ProvinzFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89874"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films du Bilboquet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103606",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lqG6wxp78BX0j1P0fBAQoa22CzU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://lesfilmsdubilboquet.fr",
+    "headquarters": "Gouvieux",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Musee de L'Homme",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89869"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

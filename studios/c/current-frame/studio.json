@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Current Frame",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "298668"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

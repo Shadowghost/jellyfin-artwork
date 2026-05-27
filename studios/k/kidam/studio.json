@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kidam",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87032",
+        "logo_uri": "https://image.tmdb.org/t/p/original/71mp8rPAXpFdEOrcCUetcui3WUC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.kidam.net",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

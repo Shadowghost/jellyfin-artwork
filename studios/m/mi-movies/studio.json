@@ -1,0 +1,14 @@
+[
+  {
+    "name": "MI Movies",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107284"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

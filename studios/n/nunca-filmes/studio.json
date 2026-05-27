@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nunca Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214330"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

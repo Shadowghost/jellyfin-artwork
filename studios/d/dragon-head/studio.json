@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dragon Head",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "295616",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iYywqfA8XGNLCulepFDI93l18T3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://dragonhead.pl/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

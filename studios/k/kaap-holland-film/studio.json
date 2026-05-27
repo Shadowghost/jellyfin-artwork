@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kaap Holland Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67254",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oV4xUvzWljGW1QVAa8qR2INNyN7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "http://www.kaaphollandfilm.nl/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

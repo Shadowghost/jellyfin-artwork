@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Medcom",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60405"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

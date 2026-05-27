@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Delphi Films",
+    "country": "US",
+    "homepage": "https://www.delphicinema.com/home",
+    "headquarters": "Pacific Northwest, United States",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4267",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cw6C1E64Ckf5jV8ppAIz9gHaho4.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

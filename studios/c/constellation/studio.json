@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Constellation",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25021"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

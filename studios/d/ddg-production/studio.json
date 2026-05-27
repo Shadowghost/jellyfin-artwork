@@ -1,0 +1,14 @@
+[
+  {
+    "name": "DDG Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94510"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Les Films du Tricycle",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96385"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.lesfilmsdutricycle.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

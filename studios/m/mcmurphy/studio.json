@@ -1,0 +1,17 @@
+[
+  {
+    "name": "McMurphy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182778",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yw7dnL0G2p4tgmPIh3RtMIcQfIE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://mcmurphy.tv/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

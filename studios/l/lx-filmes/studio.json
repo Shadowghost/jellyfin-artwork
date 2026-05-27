@@ -1,0 +1,17 @@
+[
+  {
+    "name": "LX Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16646",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eFtgxfMp7vRzV20NdcQ899jP2Ji.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "http://lxfilmes.com",
+    "headquarters": "Vila Velha de Ródão",
+    "placeholder": true
+  }
+]

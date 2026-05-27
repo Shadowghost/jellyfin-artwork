@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Seven Islands Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96412",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pFBcEh2NpdjJRtH5Tpqukr0up6V.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://7ifilm.com/",
+    "headquarters": "Las Palmas",
+    "placeholder": true
+  }
+]

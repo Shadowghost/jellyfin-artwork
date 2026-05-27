@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Merlet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "281771",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2duWlTUqFV8XUxLA6S5KemZp8tS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://merlet.cz",
+    "placeholder": true
+  }
+]

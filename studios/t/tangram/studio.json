@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TANGRAM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86282",
+        "logo_uri": "https://image.tmdb.org/t/p/original/z8wv6nLaKepgYfVVUdNjU7yuTwq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.tangramfilm.com",
+    "placeholder": true
+  }
+]

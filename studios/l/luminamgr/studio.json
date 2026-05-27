@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LuminaMgr",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209666"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

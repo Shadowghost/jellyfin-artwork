@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gorgon Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162568",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sxob0zidqViXooZ6aVauzCdW69s.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.gorgonpictures.com",
+    "headquarters": "Fukuoka Japan",
+    "placeholder": true
+  }
+]

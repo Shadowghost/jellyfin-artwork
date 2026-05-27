@@ -1,0 +1,16 @@
+[
+  {
+    "name": "S-Cute",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189440",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wcP5UDc5Ce6rdUa58CJ4YaHtJs3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.s-cute.com/",
+    "placeholder": true
+  }
+]

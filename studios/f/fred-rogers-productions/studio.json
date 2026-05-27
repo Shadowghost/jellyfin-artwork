@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fred Rogers Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96314",
+        "logo_uri": "https://image.tmdb.org/t/p/original/duDVheD7es5jALxdQa3CQyf8izS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.fredrogers.org",
+    "headquarters": "Pittsburgh, Pennsylvania",
+    "placeholder": true
+  }
+]

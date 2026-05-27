@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hollywood Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23510"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

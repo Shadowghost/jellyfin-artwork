@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CineStageFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "207537"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Amarena Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213276",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8y4iQg2yikpOGE8AmZM01rwvWQB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.amarenafilm.it/",
+    "headquarters": "Naples",
+    "placeholder": true
+  }
+]

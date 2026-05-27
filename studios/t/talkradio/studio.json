@@ -1,0 +1,13 @@
+[
+  {
+    "name": "talkRADIO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "132091"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

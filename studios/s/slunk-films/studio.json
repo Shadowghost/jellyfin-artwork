@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Slunk Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223369",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gfwTdUYsMzGBgcBhov0wBQ3VsZQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.slunkfilms.com/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

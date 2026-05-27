@@ -1,0 +1,13 @@
+[
+  {
+    "name": "EuroContinental",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203015"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CDC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130122"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

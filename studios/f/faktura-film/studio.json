@@ -1,0 +1,17 @@
+[
+  {
+    "name": "faktura film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126566",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6JcNzjzwrG7FrOIHPxFkjLQKpVJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.fakturafilm.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

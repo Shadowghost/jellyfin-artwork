@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sixteen Films",
+    "country": "GB",
+    "homepage": "http://www.sixteenfilms.co.uk",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12695",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pZg9WqHoiUqhCzoMwGTcPI6Bs3d.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

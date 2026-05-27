@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Moviehouse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131421"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

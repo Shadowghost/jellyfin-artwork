@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Today Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245409",
+        "logo_uri": "https://image.tmdb.org/t/p/original/63dghlNwkbatYwII2CR6e5KLgI0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://todaypictures.creatorlink.net/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Primitive Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108003"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

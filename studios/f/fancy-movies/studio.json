@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fancy Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165478"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

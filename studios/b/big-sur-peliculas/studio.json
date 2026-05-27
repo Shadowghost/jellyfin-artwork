@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Big-Sur Películas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181537",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1XOuhV0I8dWZpzm71Jn4cYQZqwF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CO",
+    "homepage": "http://www.bigsurpeliculas.com/",
+    "headquarters": "Bogota",
+    "placeholder": true
+  }
+]

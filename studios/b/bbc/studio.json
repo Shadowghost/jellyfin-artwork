@@ -1,0 +1,45 @@
+[
+  {
+    "name": "BBC",
+    "description": "United Kingdom's public service broadcaster, the world's oldest national broadcaster; includes BBC Studios, BBC Films, and many subsidiary divisions.",
+    "country": "GB",
+    "type": "broadcast-network",
+    "colors": [
+      {
+        "name": "BBC Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "BBC White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3324",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "British Broadcasting Corporation (BBC)"
+    ],
+    "template": true,
+    "homepage": "https://bbc.co.uk",
+    "headquarters": "Broadcasting House, London, England"
+  }
+]

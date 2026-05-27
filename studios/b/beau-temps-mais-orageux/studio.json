@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Beau temps mais orageux",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "297567"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

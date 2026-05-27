@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fast Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76776"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

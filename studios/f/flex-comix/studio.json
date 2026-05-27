@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Flex Comix",
+    "country": "JP",
+    "homepage": "https://flex-comix.jp",
+    "headquarters": "Chiyoda, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210006",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rmM9sCsz8j2ctRlm3V9YDvfhFlO.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

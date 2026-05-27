@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Beacon Pictures",
+    "description": "American independent film production company founded by Armyan Bernstein, known for films such as Air Force One, The Hurricane, and Bring It On.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://beaconpictures.com/",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10157",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iMTZBY3vbW1PMKbdVh50j1Z21WU.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

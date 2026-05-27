@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LeonMovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183069"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

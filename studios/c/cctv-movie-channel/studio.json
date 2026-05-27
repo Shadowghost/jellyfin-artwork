@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CCTV Movie Channel（废弃）",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25659"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

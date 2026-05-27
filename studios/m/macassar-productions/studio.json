@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Macassar Productions",
+    "country": "FR",
+    "homepage": "https://en.macassarproductions.com",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88902",
+        "logo_uri": "https://image.tmdb.org/t/p/original/48RWqWpUvvtYQBcdyAmLFbaTByv.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

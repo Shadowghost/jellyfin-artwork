@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Videodrom",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70309"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

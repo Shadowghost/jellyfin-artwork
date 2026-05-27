@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SHOOT'n'POST",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252840",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aUDLh2Cd48libuzEFnhHfcJofpn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.shootnpost.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

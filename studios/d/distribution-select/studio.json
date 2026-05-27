@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Distribution Select",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40488"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

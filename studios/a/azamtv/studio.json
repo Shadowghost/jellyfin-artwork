@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AzamTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202475",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vC81oT9BVE7hVQ3YNJR4C0TB378.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TZ",
+    "homepage": "https://azamtv.co.tz/",
+    "headquarters": "Dar Es Salaam",
+    "placeholder": true
+  }
+]

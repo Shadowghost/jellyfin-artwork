@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Video Graph",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "244083"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

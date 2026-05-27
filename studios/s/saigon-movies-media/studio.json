@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SaiGon Movies Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109637"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

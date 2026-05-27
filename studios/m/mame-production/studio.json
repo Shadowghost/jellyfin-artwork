@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mame Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "244625"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

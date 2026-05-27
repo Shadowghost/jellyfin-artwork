@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Animal Casting Time",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "236000"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "placeholder": true
+  }
+]

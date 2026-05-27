@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bitter Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63349",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dcUSkPxHyTlAQey6ioH4ZmUMKKA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.bitterfilms.com",
+    "headquarters": "Austin, Texas",
+    "placeholder": true
+  }
+]

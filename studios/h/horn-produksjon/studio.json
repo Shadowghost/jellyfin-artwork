@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Horn Produksjon",
+    "country": "NO",
+    "headquarters": "Oslo, Norway",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80631"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

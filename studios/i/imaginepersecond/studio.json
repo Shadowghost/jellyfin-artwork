@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ImaginePerSecond",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126279"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

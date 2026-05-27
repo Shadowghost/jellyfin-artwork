@@ -1,0 +1,16 @@
+[
+  {
+    "name": "INDYCAR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220325"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.indycar.com",
+    "headquarters": "Indianapolis, Indiana",
+    "placeholder": true
+  }
+]

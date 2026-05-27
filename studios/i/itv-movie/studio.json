@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ITV Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143021"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.itvmovie.it",
+    "headquarters": "Milan",
+    "placeholder": true
+  }
+]

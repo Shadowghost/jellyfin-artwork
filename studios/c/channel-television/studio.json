@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Channel Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175233",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tD3SfywEhmeUC6fYRp1LhdFSTzR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

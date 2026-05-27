@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Secret Lab",
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216234",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1ZkjwNsOXnKYwSNyoysuKVAXXyM.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

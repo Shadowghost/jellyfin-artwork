@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Strange Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80055"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GEEK PICTURES",
+    "country": "JP",
+    "homepage": "https://geekpictures.co.jp/en",
+    "headquarters": "Shibuya, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75346",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dNpakQpQTE1ODwq92F6oWB7UYMN.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

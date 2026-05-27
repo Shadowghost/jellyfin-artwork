@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gaman Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169025",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6V432hkXOMa8cflqD3izOotxTvz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://www.gamancine.com.ar/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

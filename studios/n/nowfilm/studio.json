@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NOWFILM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20811",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jnGViIMPqocZWBCE3dSzgJ3HS4Z.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.nowfilm.co.kr",
+    "headquarters": "Mapo, Seoul, South Korea",
+    "placeholder": true
+  }
+]

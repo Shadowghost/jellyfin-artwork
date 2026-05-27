@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinerain",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182866",
+        "logo_uri": "https://image.tmdb.org/t/p/original/z87POWQHFiLYNRhavztBzL72h1C.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://www.cinerain.fi/",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

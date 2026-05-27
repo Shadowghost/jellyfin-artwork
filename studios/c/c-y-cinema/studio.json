@@ -1,0 +1,16 @@
+[
+  {
+    "name": "C&Y Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16327"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://cycinema.ca",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

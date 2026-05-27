@@ -1,0 +1,16 @@
+[
+  {
+    "name": "GoodPlanet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86226",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A6rrC8wwpXfrpZHPVNffvYNXJ3I.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.goodplanet.org",
+    "placeholder": true
+  }
+]

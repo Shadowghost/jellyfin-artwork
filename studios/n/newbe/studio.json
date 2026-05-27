@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NewBe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95066",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nq3NEerPLK248znZDFqrlamNRn3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://newbe.nl",
+    "placeholder": true
+  }
+]

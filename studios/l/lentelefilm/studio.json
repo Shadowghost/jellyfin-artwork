@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lentelefilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8192",
+        "logo_uri": "https://image.tmdb.org/t/p/original/94hIRFCuSVrpCGMeabDrLIDuAX7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SU",
+    "headquarters": "Leningrad, RSFSR, USSR",
+    "placeholder": true
+  }
+]

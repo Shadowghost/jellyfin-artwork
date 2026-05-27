@@ -1,0 +1,17 @@
+[
+  {
+    "name": "New Morning",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45246",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sB0f5WJ3g0JjHdUsbfkmU2vaYoA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.newmorning.com/accueil?langue=en",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

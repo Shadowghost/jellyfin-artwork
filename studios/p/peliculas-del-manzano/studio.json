@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Películas del Manzano",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97920"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

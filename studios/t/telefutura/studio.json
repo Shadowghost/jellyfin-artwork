@@ -1,0 +1,14 @@
+[
+  {
+    "name": "TeleFutura",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256128"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

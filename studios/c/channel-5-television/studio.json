@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Channel 5 Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169424",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nKIugQDc6LSPr9KR006e0R2IAqJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

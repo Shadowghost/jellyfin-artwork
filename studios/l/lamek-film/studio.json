@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Lamek Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99297",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zdtQR0apCLV8eI0cMraOAXe1ouY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lupa Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85991",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gnB8mZ7UiCTTxWRCCnrPYkUF2ja.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.lupafilmes.com/",
+    "headquarters": "Porto Alegre RS",
+    "placeholder": true
+  }
+]

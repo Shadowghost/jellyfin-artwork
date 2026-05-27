@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Seed&Spark",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51838",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vGdhQd0kJ4JN6a0a2mGSwFANuEo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.seedandspark.com",
+    "placeholder": true
+  }
+]

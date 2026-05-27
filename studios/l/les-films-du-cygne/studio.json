@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les Films du Cygne",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48095"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

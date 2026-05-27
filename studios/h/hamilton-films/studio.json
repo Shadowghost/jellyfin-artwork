@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Hamilton Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120234"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

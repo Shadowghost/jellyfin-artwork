@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Brave Books",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "263605"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

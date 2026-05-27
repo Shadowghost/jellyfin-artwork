@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cinépix Film Properties",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38374",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xOpTPzrGorDGJuB5TgYKmSYzCAS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "headquarters": "Montreal",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Play Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13592"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

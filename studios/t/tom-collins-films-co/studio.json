@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tom Collins Films & Co",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223359",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7yOtKkgcBhqHSqwKyHxCvRSFw1v.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.tomcollins.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

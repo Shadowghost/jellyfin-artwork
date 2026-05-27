@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Philo Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48862"
+      }
+    ],
+    "artwork": {},
+    "country": "ZA",
+    "homepage": "http://www.philofilms.co.za",
+    "headquarters": "Johannesburg",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Argentina Sono Film",
+    "country": "AR",
+    "headquarters": "Buenos Aires",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10823",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5glJerTQOZwY3RSCz0ZqENuyx85.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

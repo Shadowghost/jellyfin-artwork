@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Balus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240057",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ig07eChJrMSFWClvIi9ksojNlCc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://balus.co",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

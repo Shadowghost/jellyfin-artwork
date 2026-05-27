@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Trino Motion Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112900",
+        "logo_uri": "https://image.tmdb.org/t/p/original/meBhXD9pkiINeBQSlgucCyefVRe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NG",
+    "homepage": "https://trinomp.com/",
+    "headquarters": "Lagos",
+    "placeholder": true
+  }
+]

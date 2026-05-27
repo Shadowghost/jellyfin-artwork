@@ -1,0 +1,13 @@
+[
+  {
+    "name": "American Artists",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42001"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

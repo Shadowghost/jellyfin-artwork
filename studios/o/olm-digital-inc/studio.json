@@ -1,0 +1,30 @@
+[
+  {
+    "name": "OLM Digital, Inc.",
+    "description": "Japanese digital production studio and division of OLM, Inc., providing CGI and digital effects for anime including the Pokemon series.",
+    "country": "JP",
+    "type": "studio",
+    "headquarters": "Wakabayashi, Setagaya, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233003"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

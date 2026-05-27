@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Chocolate Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101895",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kYPBSTw3yJUL78CoGggeru8e8Sh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.chocolatefilmes.com.br/",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

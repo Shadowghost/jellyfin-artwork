@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NHN PlayArt",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234951",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ug1TsWFY1OiEgqM9gzgGxbuWHhS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.nhn-playart.com/en/",
+    "placeholder": true
+  }
+]

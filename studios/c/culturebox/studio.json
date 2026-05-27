@@ -1,0 +1,15 @@
+[
+  {
+    "name": "CultureBox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98521",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oEITfJnXJbWIJ8TgkF4kJJvRwtv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

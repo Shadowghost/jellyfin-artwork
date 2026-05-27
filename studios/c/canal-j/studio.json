@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Canal J",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84405",
+        "logo_uri": "https://image.tmdb.org/t/p/original/snGlIJw1CGhPJtPJZEgKuBAaenQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.canalj.fr/",
+    "placeholder": true
+  }
+]

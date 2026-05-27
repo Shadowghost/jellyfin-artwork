@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bauza TV & Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "269357",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8yEiSbWIPMa1GkrDIrx9EsgdHeB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://bauza.pl/",
+    "headquarters": "Trzebnica",
+    "placeholder": true
+  }
+]

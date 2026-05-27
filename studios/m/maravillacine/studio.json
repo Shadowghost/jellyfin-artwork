@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MaravillaCine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92205",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hF6IPspVk9h6pdzerRHsVE4unJ2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://maravillacine.com.ar/",
+    "placeholder": true
+  }
+]

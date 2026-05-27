@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Unicorn Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76572",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v139EYVUE9J7JXQ2LwJ9Qv3vTzL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://www.unicornfilms.com.au/",
+    "headquarters": "Melbourne, Victoria",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "One America",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10655"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

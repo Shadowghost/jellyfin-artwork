@@ -1,0 +1,42 @@
+[
+  {
+    "name": "EA Sports",
+    "description": "Division of Electronic Arts that develops and publishes sports video games, including the FIFA/EA Sports FC, Madden NFL, and NHL franchises.",
+    "country": "US",
+    "type": "other",
+    "homepage": "https://www.ea.com/sports",
+    "headquarters": "Redwood City, California",
+    "colors": [
+      {
+        "name": "EA Sports Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "EA Sports White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "244516",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ffH8MySg36wRIPXWTapIYDY0Zn1.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

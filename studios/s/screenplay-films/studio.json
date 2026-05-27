@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Screenplay Films",
+    "country": "ID",
+    "homepage": "http://www.screenplayfilms.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78913",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xiyU8x4nbIPxoTMlWwINHDcu5CA.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

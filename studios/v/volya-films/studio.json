@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Volya Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "47606",
+        "logo_uri": "https://image.tmdb.org/t/p/original/piOBwOvOjlHgi5KarCwGC8INSJT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.volyafilms.com/",
+    "headquarters": "Rotterdam",
+    "placeholder": true
+  }
+]

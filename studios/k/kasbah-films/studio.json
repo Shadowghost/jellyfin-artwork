@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kasbah Films",
+    "country": "MA",
+    "homepage": "https://kasbah-films.com/",
+    "headquarters": "Tangier",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122446",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l7L9HPjyUPHFK6cxLLO2LovXorh.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

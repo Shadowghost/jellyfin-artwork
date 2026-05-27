@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Grove Street Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111321"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

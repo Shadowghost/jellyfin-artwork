@@ -1,0 +1,16 @@
+[
+  {
+    "name": "HTC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210349",
+        "logo_uri": "https://image.tmdb.org/t/p/original/opVoB9Wd61GZbGETFoWJvtgBlIh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TW",
+    "homepage": "https://www.htc.com/",
+    "placeholder": true
+  }
+]

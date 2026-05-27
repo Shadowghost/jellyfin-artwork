@@ -1,0 +1,13 @@
+[
+  {
+    "name": "National Football League (NFL)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86402"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

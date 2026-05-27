@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MCOT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86401"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

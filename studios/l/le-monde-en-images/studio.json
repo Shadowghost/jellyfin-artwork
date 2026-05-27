@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Le Monde en Images",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63238"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Pony Canyon Enterprise",
+    "country": "JP",
+    "homepage": "https://www.pce.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170262"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

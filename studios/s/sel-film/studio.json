@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sel Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255130"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

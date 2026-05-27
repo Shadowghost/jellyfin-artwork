@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Story Front",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60929"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

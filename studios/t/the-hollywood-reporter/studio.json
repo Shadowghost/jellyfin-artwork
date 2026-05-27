@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Hollywood Reporter",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67735",
+        "logo_uri": "https://image.tmdb.org/t/p/original/alDzOb2GDdaNTxI62jIm6K5xEaT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.hollywoodreporter.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

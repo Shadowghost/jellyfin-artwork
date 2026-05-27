@@ -1,0 +1,13 @@
+[
+  {
+    "name": "pôle d'images",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119211"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

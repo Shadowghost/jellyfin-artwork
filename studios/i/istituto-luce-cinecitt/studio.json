@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Istituto Luce Cinecittà",
+    "description": "Italian public film organisation devoted to the production, distribution and conservation of cinematic works and historical archives.",
+    "country": "IT",
+    "type": "government-agency",
+    "homepage": "http://www.cinecitta.com",
+    "headquarters": "Rome",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "317",
+        "logo_uri": "https://image.tmdb.org/t/p/original/HJj0J9Tk6AGcLpL4O7mI3bsccM.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

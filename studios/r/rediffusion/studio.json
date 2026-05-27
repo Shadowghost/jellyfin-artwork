@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Rediffusion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "57908"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DutchCulture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "284215"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

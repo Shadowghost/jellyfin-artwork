@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SiKino",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205333"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

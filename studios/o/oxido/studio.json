@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Óxido",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140798",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dHZKQ9ijipYjRCgCVDSQ7ROCKmX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://oxido.io/",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

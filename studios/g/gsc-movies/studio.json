@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GSC Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73116",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e2AlBT99qX1aetlguHDMMRsXhYo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MY",
+    "homepage": "https://www.gscmovies.com.my",
+    "headquarters": "Petaling Jaya, Selangor",
+    "placeholder": true
+  }
+]

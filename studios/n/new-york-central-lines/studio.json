@@ -1,0 +1,13 @@
+[
+  {
+    "name": "New York Central Lines",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94873"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

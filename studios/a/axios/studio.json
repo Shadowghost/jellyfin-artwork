@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Axios",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110119",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oNbPvs3V8T2JCVzPffjFinYuJ2o.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://axios.com",
+    "placeholder": true
+  }
+]

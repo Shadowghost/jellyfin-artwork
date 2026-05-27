@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Chimples Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220210",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pxm3tUeHnSHnMiaIdQwY3P3QkgL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.kit-and-arran.com/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les films du Préau",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84192"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

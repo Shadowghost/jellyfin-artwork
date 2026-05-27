@@ -1,0 +1,13 @@
+[
+  {
+    "name": "letsplay.team",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "293372"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fukushima Central Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274102",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9PlnYhXawmcwGFiNN8TL21VjBQT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.fct.co.jp/",
+    "placeholder": true
+  }
+]

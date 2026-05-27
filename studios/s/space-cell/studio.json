@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Space Cell",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242200",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Tp5lpNmRdBAAOZApYQh6RL3jig.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.spacecellfilm.com/",
+    "placeholder": true
+  }
+]

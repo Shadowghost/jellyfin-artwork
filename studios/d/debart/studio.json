@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DeBart",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2519"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

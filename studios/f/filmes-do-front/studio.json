@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmes do Front",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164020"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bird Flight Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88000",
+        "logo_uri": "https://image.tmdb.org/t/p/original/497DJq7Ubt548TIK0InNMB2oTFG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://www.birdflightfilms.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Bons Clients",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108980",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dOLuWxizTZZP5NOrhkln2KC5Xt6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.lesbonsclients.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

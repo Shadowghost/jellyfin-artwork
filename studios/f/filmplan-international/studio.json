@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Filmplan International",
+    "country": "CA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6160"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

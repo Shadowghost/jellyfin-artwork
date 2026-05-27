@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Campfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40358",
+        "logo_uri": "https://image.tmdb.org/t/p/original/21aGOJEjlY5YBZ5USpNdmD9iYKX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "https://campfilm.eu/",
+    "headquarters": "Budapest",
+    "placeholder": true
+  }
+]

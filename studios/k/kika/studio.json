@@ -1,0 +1,34 @@
+[
+  {
+    "name": "KiKa",
+    "description": "German children's television channel operated jointly by ARD and ZDF, broadcasting commercial-free children's programming.",
+    "country": "DE",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50519",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1dtumlarEVXeYX1BrUFS9qLoG2Z.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "KiKA (Der Kinderkanal von ARD und ZDF)"
+    ],
+    "template": true,
+    "homepage": "https://www.kika.de"
+  }
+]

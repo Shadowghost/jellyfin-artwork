@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Capibara",
+    "country": "JP",
+    "homepage": "https://capibara.jp",
+    "headquarters": "Chiyoda, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217643",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cLN0MeCRghCfpc0yQyFK5orCcqP.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

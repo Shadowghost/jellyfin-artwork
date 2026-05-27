@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Tosca-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "279321"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

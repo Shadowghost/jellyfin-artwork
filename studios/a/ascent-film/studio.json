@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ascent Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52455",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cgfr4IAVy0BMnadBApZK1D4JgAx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.ascentfilm.com",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

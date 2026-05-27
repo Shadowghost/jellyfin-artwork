@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Horizon Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270072"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "United King Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7690NQfOfnbvrY3vFgyMO2Pc8WS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IL",
+    "homepage": "http://www.unitedking.co.il",
+    "headquarters": "Ramat-Asharon",
+    "placeholder": true
+  }
+]

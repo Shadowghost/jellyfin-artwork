@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LPLM Produktion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221443"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Polski Western",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75958"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

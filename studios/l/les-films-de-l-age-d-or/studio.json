@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films de l'Âge d'Or",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260314"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Maximum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200707"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

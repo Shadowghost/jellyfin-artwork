@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Malibu Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103220"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

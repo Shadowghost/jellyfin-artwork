@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Submerge Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179540"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

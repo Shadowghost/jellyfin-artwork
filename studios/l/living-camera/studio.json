@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Living Camera",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1007"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

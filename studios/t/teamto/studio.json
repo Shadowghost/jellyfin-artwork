@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TeamTO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33089",
+        "logo_uri": "https://image.tmdb.org/t/p/original/duXAF2LB2BgSFJ3CqRxQJUyM5js.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.teamto.com/",
+    "headquarters": "105 boulevard MacDonald, 75019 Paris",
+    "placeholder": true
+  }
+]

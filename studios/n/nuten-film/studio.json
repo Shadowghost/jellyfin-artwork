@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nuten film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133801",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zWSnTrNUzJsuNt6VMu0TV6ApYn0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.nutenfilm.no/",
+    "headquarters": "Stavanger",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Filmhuset",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17593"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

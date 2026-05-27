@@ -1,0 +1,16 @@
+[
+  {
+    "name": "YouTube Music",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167365",
+        "logo_uri": "https://image.tmdb.org/t/p/original/prR0mlxE7ZgSCYNM8D1qQzDLMW9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://music.youtube.com/",
+    "placeholder": true
+  }
+]

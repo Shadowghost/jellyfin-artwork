@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Poudrière",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12037",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i2F3Oitr5AqFyPO8XGwIFTG40yk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.poudriere.eu/en",
+    "headquarters": "La Cartoucherie, rue de Chony 26500 Bourg lès Valence",
+    "placeholder": true
+  }
+]

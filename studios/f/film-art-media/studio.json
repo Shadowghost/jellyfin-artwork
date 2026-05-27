@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Film Art Media",
+    "country": "AU",
+    "homepage": "https://www.filmartmedia.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36733"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

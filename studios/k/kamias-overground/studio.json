@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kamias Overground",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79869",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g04PVMd5Dc8bQpq7v0S7pTVHrfN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PH",
+    "homepage": "http://kamiasoverground.com/",
+    "headquarters": "Quezon City",
+    "placeholder": true
+  }
+]

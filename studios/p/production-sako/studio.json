@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Production SAKO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201186"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

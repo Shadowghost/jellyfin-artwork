@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nordic Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "243771",
+        "logo_uri": "https://image.tmdb.org/t/p/original/37S13sFWzcityjaPAeDzDZl08CM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://nordicfilms.fi/",
+    "headquarters": "Kausala, Iitti",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Bad Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19344"
+      }
+    ],
+    "artwork": {},
+    "country": "GR",
+    "placeholder": true
+  }
+]

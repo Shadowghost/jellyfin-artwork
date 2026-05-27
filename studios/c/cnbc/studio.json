@@ -1,0 +1,38 @@
+[
+  {
+    "name": "CNBC",
+    "description": "American business and financial news television network owned by NBCUniversal.",
+    "country": "US",
+    "type": "news",
+    "homepage": "https://www.cnbc.com",
+    "headquarters": "Englewood Cliffs, New Jersey",
+    "colors": [
+      {
+        "name": "CNBC Blue",
+        "hex": "#005EB8"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28408",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qpy7eyOuyxk99mWmq9qjzM3ocZk.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Muse Entertainment",
+    "description": "Canadian independent film and television production and distribution company based in Montreal.",
+    "country": "CA",
+    "type": "production-company",
+    "homepage": "http://www.muse.ca",
+    "headquarters": "Montreal, Quebec",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6438",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hQVRii7CRnfG0rowSEc6ibt2Pke.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

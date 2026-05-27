@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Production Générale de Films (PROGEFI)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "243337"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Favorita Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238075",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4886k7BAZOIdQiaGK2XQ0Ft8gzS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "headquarters": "Palermo",
+    "placeholder": true
+  }
+]

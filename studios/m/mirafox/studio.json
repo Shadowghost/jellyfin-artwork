@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mirafox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117392",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wZpfdAJRtPMuiOCAzpMJgphSqZw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SK",
+    "homepage": "http://mirafox.sk/",
+    "placeholder": true
+  }
+]

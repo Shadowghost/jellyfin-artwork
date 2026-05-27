@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mirai Kojo",
+    "country": "JP",
+    "homepage": "https://mirai-kojo.net/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171312",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vpl5E2sv3r1eRkzkMBj1tvt1vUw.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

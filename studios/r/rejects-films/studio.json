@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Rejects Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90880"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

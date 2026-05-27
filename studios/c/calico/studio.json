@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CALICO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "186379",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rvNKwewFwkmVMmkqTNyOITb6NvX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.calico.la/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

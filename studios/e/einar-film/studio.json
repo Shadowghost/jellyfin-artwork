@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Einar Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181942",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3cOq9Lncp6ntaNRKEz44Llb8o7H.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://einarfilm.no",
+    "headquarters": "Oslo",
+    "placeholder": true
+  }
+]

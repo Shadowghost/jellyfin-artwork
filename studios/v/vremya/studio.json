@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Vremya",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203006"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

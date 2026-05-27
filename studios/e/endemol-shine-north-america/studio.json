@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Endemol Shine North America",
+    "description": "American television production company, formerly the U.S. arm of Endemol Shine Group; absorbed by Banijay Americas after the 2020 acquisition.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://www.endemolshine.us",
+    "headquarters": "Hollywood, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35587",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k9a0975MfqCXRuGKCsOw8Kei2nt.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

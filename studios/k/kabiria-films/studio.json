@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kabiria Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120393",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6jmETaIhdeyqSFFAR8HBtDC5jM9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://kabiriafilms.es/",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

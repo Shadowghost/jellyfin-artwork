@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Temple Hill Entertainment",
+    "country": "US",
+    "homepage": "https://www.templehillent.com",
+    "headquarters": "West Hollywood, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12292",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5J93SHsuvIV32AE9oSbMi02pqw9.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

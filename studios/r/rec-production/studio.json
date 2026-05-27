@@ -1,0 +1,13 @@
+[
+  {
+    "name": "REC Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168040"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

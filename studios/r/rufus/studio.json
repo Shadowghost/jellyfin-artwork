@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Rufus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202711"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "placeholder": true
+  }
+]

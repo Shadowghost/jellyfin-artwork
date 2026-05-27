@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Geno Studio",
+    "country": "JP",
+    "homepage": "https://genostudio.co.jp",
+    "headquarters": "Suginami, Tokyo Prefecture, Japan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104682",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i87rCY8dRbWWgW3o9jnwWE5qa3Z.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

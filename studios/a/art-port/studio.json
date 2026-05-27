@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Art Port",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15509"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.artport.co.jp/index.html",
+    "headquarters": "Shibuya, Tokyo",
+    "placeholder": true
+  }
+]

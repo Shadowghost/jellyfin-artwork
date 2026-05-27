@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sofá Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196177",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2wm4RBbls36VnvkBzfvJ4v9zE3o.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.sofafilmes.com.br/",
+    "placeholder": true
+  }
+]

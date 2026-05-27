@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Rapi Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7872",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5zodgZbBTlY5PAviS6KxOCyOlGH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "homepage": "https://rapifilms.com/",
+    "placeholder": true
+  }
+]

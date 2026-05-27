@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Soureh Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73715",
+        "logo_uri": "https://image.tmdb.org/t/p/original/82lGO3foTmMrhzNjOBS2sJG5pJc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IR",
+    "homepage": "http://sourehcinema.org",
+    "headquarters": "Tehran",
+    "placeholder": true
+  }
+]

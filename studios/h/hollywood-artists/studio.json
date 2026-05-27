@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hollywood Artists",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203175"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

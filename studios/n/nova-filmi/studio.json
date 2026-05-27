@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Nova-Filmi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196856"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MallorcaDocs",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179506"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://mallorcadocs.org",
+    "headquarters": "Palma de Mallorca, Balearic Islands",
+    "placeholder": true
+  }
+]

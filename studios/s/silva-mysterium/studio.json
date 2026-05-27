@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Silva Mysterium",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48091",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rP6V5q5Y2CAe3j4SV800kXTatFp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "http://www.silvamysterium.fi",
+    "headquarters": "Helsinki, Finland",
+    "placeholder": true
+  }
+]

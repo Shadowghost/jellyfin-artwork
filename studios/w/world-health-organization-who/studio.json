@@ -1,0 +1,17 @@
+[
+  {
+    "name": "World Health Organization (WHO)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128238",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8GuDhMPJXe7RhR1Mn0G1rWBlF5U.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.who.int/",
+    "headquarters": "Genebra",
+    "placeholder": true
+  }
+]

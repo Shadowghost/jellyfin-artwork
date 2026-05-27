@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Thick Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117621",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nPU4btpDVwmfwgfeAy7fVArTbpw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.thick.media",
+    "headquarters": "New York",
+    "placeholder": true
+  }
+]

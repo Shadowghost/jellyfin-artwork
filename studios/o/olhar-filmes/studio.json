@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Olhar Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260076",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1jIgb76yuE4aZb8PaODiIgv2AgQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Westga News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198960"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

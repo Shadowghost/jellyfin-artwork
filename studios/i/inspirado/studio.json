@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Inspirado",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264938",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zvLPwhjHpHQFDSLkHS6hTEiGuMe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://inspirado.tv/",
+    "headquarters": "Albuquerque, New Mexico",
+    "placeholder": true
+  }
+]

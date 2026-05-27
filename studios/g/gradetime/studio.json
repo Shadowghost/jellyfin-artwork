@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Gradetime",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "265990"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "SWR/Arte",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99085"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.swr.de",
+    "placeholder": true
+  }
+]

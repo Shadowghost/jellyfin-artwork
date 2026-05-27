@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SRS Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "64599"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

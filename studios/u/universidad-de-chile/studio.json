@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Universidad de Chile",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150520"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "headquarters": "Santiago de Chile",
+    "placeholder": true
+  }
+]

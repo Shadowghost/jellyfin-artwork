@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Poissons Volants",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53693",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wqClBYEzL4bc1TG5FLxhgvmQe5L.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.poissonsvolants.com/",
+    "headquarters": "Villeneuve-lès-Avignon",
+    "placeholder": true
+  }
+]

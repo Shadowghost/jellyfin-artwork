@@ -1,0 +1,17 @@
+[
+  {
+    "name": "River Road Entertainment",
+    "country": "US",
+    "homepage": "http://www.riverroadentertainment.net/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1246",
+        "logo_uri": "https://image.tmdb.org/t/p/original/s0doRYEVWp3a4Y4Cg7R4fE9cwov.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

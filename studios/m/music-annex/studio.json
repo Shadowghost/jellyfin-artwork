@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Music Annex",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180164"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

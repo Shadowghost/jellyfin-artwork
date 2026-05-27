@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Milliyet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252851",
+        "logo_uri": "https://image.tmdb.org/t/p/original/16QM8ZTX4BVbp55iiZiCiuPitST.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

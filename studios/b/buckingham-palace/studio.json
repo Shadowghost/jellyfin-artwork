@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Buckingham Palace",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250648"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

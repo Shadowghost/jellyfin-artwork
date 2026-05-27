@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Clemi Cinematografica",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4420",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pXxqTCJMn9dgFUsANd2eCZxRDEa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.cdifilm.it/",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

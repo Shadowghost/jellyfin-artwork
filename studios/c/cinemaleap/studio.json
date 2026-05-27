@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CinemaLeap",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256115"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

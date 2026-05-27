@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Absinthe Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2758",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7FmWAdPdIF2DOeyyLaeoaCNE46G.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "http://www.absinthe-films.com",
+    "headquarters": "Zürich",
+    "placeholder": true
+  }
+]

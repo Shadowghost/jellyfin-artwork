@@ -1,0 +1,15 @@
+[
+  {
+    "name": "SP Filmes de São Paulo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152575"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.spfilmes.com.br/",
+    "placeholder": true
+  }
+]

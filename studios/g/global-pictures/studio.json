@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Global Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1978"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

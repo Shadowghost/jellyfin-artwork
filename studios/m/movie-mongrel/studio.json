@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie Mongrel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157355"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

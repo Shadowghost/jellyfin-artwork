@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinema Fantasma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113122",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b0aKMzmFidLiDMh2uJHBMtopwp2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://www.cinemafantasma.com",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

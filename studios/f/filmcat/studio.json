@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmcat",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145358"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

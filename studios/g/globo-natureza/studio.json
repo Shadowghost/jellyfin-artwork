@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Globo Natureza",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192377",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5NiWIeTQ1g160OS8oIDIg56SpP9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://g1.globo.com/meio-ambiente/globo-natureza/",
+    "placeholder": true
+  }
+]

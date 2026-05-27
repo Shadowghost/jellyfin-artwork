@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pyramid Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103523",
+        "logo_uri": "https://image.tmdb.org/t/p/original/s5Ltmj9KgQKV4tbNnQXIiI4DrW0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.pyramidpicturesonline.com",
+    "headquarters": "Atlanta, Georgia",
+    "placeholder": true
+  }
+]

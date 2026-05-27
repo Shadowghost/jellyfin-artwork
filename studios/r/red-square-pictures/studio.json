@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Red Square Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52084",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7Lggb9CBDA0n9mvfFvt4CQ1XD4C.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://redsquarepictures.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

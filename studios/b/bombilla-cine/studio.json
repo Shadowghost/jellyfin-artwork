@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bombilla Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144864",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qkQvscYlHizqvRmKyKEYBV3Yqp6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://bombillacine.com/en/",
+    "headquarters": "Cordoba",
+    "placeholder": true
+  }
+]

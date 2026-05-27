@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Donmar Warehouse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108306",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i2FJvIAHd9NYpFcSiHDY6RA3hTf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.donmarwarehouse.com/",
+    "headquarters": "41 Earlham Street, Seven Dials, London",
+    "placeholder": true
+  }
+]

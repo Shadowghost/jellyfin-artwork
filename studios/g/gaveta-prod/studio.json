@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Gaveta prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257462"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

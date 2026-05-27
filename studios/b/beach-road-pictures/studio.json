@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Beach Road Pictures",
+    "country": "AU",
+    "homepage": "https://beachroad.com.au/",
+    "headquarters": "Cremorne, New South Wales",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175504",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wwIc8APHfYjHlhxi0CFx1ZkNoaM.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

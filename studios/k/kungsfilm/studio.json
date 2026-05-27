@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kungsfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10213",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h167JFxw7LFenlawU5n8KHtvYaT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

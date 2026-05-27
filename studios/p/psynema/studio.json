@@ -1,0 +1,16 @@
+[
+  {
+    "name": "PSYNEMA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204251",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1VZXATlcjo6OB6ZDBq3DexwMnoO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "headquarters": "Paris, France.",
+    "placeholder": true
+  }
+]

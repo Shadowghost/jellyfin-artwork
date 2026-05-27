@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cor Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141905",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iuia7LidXzQIJDpKlpO2KiSGl0Y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.corfilmes.com.br/",
+    "headquarters": "Brasília, Brazil",
+    "placeholder": true
+  }
+]

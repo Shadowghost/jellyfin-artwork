@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Critical Environmental data",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "263821"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

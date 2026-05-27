@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Walk on the Sunnyside",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129626",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1G4mNRgsJL7t2QJM0N0XQs8LX0C.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.walkonthesunnyside.com",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

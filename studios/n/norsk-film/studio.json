@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Norsk Film",
+    "country": "NO",
+    "headquarters": "Bærum, Norway",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12984"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

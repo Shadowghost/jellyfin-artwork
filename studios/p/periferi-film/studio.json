@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Periferi Film",
+    "country": "TR",
+    "homepage": "https://www.periferifilm.com/",
+    "headquarters": "İstanbul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153526",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cLl7fQa2i3qBogjgnECEWHG4z6y.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

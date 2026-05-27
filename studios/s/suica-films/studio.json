@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Suica Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109457",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pYEbj8odvX8Yckezf2XZQuDuouj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://suicafilms.com/en/home",
+    "headquarters": "Valencia",
+    "placeholder": true
+  }
+]

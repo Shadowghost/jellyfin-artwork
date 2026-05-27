@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Black Forest Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1394",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5oajl0tnd3cO58l88PV3VKfXoRu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.black-forest-films.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

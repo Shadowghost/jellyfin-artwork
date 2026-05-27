@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Cinergi Pictures Entertainment",
+    "description": "American film production company founded by Andrew G. Vajna, known for films like Tombstone, Die Hard with a Vengeance, and Evita.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1504",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yVAJJ4TgnV1FsDmLh6h5ZNJd0vf.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

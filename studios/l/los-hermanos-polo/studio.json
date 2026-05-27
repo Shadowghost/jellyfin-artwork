@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Los Hermanos Polo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210195",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lvJJQUDBEPJvU5HNlsZ1Pa1Z9jV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://loshermanospolo.com/",
+    "headquarters": "Valencia",
+    "placeholder": true
+  }
+]

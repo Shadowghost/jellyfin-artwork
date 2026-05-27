@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film Jam",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122233",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rjV2pMt8EbOrTYMa2guvy1FrnCf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LT",
+    "homepage": "https://filmjam.eu/",
+    "headquarters": "Vilnius",
+    "placeholder": true
+  }
+]

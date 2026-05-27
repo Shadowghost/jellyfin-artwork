@@ -1,0 +1,16 @@
+[
+  {
+    "name": "DMLS TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98866",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3kCOX88VCNgihulR3SRTbZjRw3D.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

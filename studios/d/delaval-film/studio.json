@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Delaval Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82926",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xe2ZuyisFxSj824M2aSKic9sENX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.delavalfilm.com/",
+    "headquarters": "Manchester, England",
+    "placeholder": true
+  }
+]

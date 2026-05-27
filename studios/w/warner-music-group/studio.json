@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Warner Music Group",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12700",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1oyIA1tQWgAbARPsqMFUUjESRpB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.wmg.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

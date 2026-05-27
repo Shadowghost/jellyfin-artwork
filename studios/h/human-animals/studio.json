@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Human Animals",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234789",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dYa7m2mLi2d3swA5VG7Dis5W5rA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

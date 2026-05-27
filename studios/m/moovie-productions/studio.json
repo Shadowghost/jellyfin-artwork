@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Moovie Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149319",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mGKBzw8BssPlzRPLGULV6Wgewyi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.moovie.one/",
+    "placeholder": true
+  }
+]

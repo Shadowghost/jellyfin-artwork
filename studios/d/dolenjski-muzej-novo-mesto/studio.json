@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Dolenjski muzej Novo Mesto",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211611"
+      }
+    ],
+    "artwork": {},
+    "country": "SI",
+    "headquarters": "Novo Mesto",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "GreenScreen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119556"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tiger Nest Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89231",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m1ZkgePPUfLOoaaEsAeCyG9tWAf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://tigernestfilms.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Paws",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4569",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gpc5vn0dBR4N5MKNGxiUxWD98rD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Albany, Indiana",
+    "placeholder": true
+  }
+]

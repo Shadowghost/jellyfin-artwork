@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Newsreel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "132780"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.twn.org/",
+    "headquarters": "New York, New York, USA",
+    "placeholder": true
+  }
+]

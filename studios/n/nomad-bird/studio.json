@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nomad Bird",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230995"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

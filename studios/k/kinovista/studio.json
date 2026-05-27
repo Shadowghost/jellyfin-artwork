@@ -1,0 +1,15 @@
+[
+  {
+    "name": "KinoVista",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103580"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://kinovista.com/",
+    "placeholder": true
+  }
+]

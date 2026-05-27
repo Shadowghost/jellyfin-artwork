@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Benchmark Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191565",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wQJrEW8CLDLiLbZeu4Mc1eScLUa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://benchmarkpic.com/",
+    "headquarters": "Beijing",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cine Studio Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3239"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "placeholder": true
+  }
+]

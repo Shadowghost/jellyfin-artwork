@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Light Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73510",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pvr1YqgB5i4pKivXCLJCZw1KvsN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PH",
+    "homepage": "http://www.thelightcinema.tv",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "West Park",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197200",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8ZGy8LOmPcMpmA0e7JOjWPQkgFs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NZ",
+    "homepage": "https://www.thisiswestpark.com/",
+    "headquarters": "Auckland",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ego Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85171",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1O7e8sk2hazDqDdK59ZehQHQQ7g.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LV",
+    "homepage": "http://www.egomedia.lv",
+    "headquarters": "Riga",
+    "placeholder": true
+  }
+]

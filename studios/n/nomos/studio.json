@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nomos",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108119"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

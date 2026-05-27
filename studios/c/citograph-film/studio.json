@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Citograph-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188012"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

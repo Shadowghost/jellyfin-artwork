@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sputnik Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128122",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a2951FTuLr0oSdxkt74SKceaXs6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.sputnikmedia.be/",
+    "headquarters": "Berchem",
+    "placeholder": true
+  }
+]

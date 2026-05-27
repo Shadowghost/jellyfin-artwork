@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sphere",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119565"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

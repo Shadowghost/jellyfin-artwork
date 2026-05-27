@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Paintbox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122261"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Zap Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "235740"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

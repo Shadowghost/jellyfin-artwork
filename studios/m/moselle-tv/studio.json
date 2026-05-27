@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Moselle TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98330",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uHtI1jZLbnm0BwQmTwaE9oNnKUK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://moselle.tv",
+    "headquarters": "Woippy",
+    "placeholder": true
+  }
+]

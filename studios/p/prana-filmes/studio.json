@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Prana Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90934",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fUkFSE2hzqpFiUUUCvG3yNgdwLx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.pranafilmes.com.br/",
+    "headquarters": "Porto Alegre RS",
+    "placeholder": true
+  }
+]

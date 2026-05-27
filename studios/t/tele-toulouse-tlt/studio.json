@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Télé Toulouse (TLT)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229484",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mnkP05UHs7hm4p7MiU54QHLC7tE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Capitol Films",
+    "country": "GB",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "826",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aqiR1prl8N00FfkC4FCJWsOpZIy.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

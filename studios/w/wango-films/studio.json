@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wango Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40157",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b5QIOxFGZcZCKPlvfUYzaESABKv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.wangofilms.com",
+    "headquarters": "Los Angeles & Toronto",
+    "placeholder": true
+  }
+]

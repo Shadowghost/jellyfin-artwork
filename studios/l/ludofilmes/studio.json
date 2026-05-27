@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LudoFilmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149896"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

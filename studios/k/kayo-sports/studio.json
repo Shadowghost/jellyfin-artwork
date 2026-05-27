@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kayo Sports",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210296",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mbNz9BgwfXSmyrbec6ykeem4vk7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://kayosports.com.au/",
+    "headquarters": "Gore Hill, New South Wales, Australia",
+    "placeholder": true
+  }
+]

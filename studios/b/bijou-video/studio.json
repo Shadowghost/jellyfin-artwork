@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bijou Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81243",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ovjrBDLzLkcJS70JX9hUwms7MWb.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "http://www.bijouworld.com",
+    "headquarters": "1455 West Irving Park Rd, Chicago, IL"
+  }
+]

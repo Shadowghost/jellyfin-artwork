@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ONO",
+    "country": "ES",
+    "headquarters": "Madrid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40789",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3Zbrq8lqKpI783HxSPnt85VkmDp.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

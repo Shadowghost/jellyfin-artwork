@@ -1,0 +1,13 @@
+[
+  {
+    "name": "GET Orient Express Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173533"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

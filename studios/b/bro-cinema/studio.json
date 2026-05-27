@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BRO Cinema",
+    "country": "PT",
+    "homepage": "https://www.brocinema.com/en/cinema/work/",
+    "headquarters": "Lisbon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125049",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pXPj0HsFjcvv8OINE4yVgB0AXst.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

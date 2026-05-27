@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Netflix Animation",
+    "description": "American animation studio operating as the in-house animation production unit of Netflix.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.netflixanimation.com",
+    "headquarters": "Los Angeles, California",
+    "colors": [
+      {
+        "name": "Netflix Red",
+        "hex": "#E50914"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171251",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qfwTkx9c3sHJ4gUwyazE2x1E9hP.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

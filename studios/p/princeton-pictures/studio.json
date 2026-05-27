@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Princeton Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "235706"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

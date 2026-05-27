@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Les Films Monceau",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119350",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9cN16pXrShjqVtHN7h7OZN6pDps.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Les Films Monceau, 75008 Paris, France",
+    "placeholder": true
+  }
+]

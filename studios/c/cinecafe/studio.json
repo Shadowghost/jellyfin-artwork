@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CineCafe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220975"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

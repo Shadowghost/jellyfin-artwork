@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Färgfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158240",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lW8WFlzRyZHgPQWc9HYMBBmCOEu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://fargfilm.se/",
+    "headquarters": "Östra Lyckan 12, 302 51 Halmstad",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Poke Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125864"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

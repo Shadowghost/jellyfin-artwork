@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Anoki",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258028",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c0dqpBjvsaVyimUjf1o9VO1s7K8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://anoki.fr",
+    "headquarters": "Toulouse",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "WACS News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285400"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

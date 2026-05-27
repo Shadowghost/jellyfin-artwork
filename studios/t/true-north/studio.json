@@ -1,0 +1,17 @@
+[
+  {
+    "name": "True North",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150021",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lYB9vdwgRaRE5f492fHz1niI6YF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.truenorth.tv",
+    "headquarters": "Leeds, England",
+    "placeholder": true
+  }
+]

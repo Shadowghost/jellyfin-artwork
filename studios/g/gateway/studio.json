@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Gateway",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214591"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

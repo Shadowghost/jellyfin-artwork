@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Koenig Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198209",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rLjxR9L7ahg0bvwRuuxM2eMEpMW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

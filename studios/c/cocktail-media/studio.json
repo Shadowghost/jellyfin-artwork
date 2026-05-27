@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cocktail Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106577",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ApiPXwAiIOkGPJpO1pAQS2MSD4J.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.cocktailmedia.co.kr/index.php",
+    "headquarters": "243 Digital-ro Guro-gu, Seoul, South Korea",
+    "placeholder": true
+  }
+]

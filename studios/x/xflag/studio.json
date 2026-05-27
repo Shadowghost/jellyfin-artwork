@@ -1,0 +1,16 @@
+[
+  {
+    "name": "XFLAG",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98032",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mHe9KIisghzNAEDH0HW3HWw2lcg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://xflag.com/",
+    "placeholder": true
+  }
+]

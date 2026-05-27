@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fremantle Mexico",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180187",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7OwtRpQAFKU3KWA7InBg3h3PxqI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://fremantle.mx",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

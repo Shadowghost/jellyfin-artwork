@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cinemassacre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13429",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ah0III7SMoV8NWVLNQpCHiqLfcv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://cinemassacre.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmtroopers",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200004"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

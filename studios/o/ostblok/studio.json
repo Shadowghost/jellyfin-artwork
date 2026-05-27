@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ostblok",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109922"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "http://www.ostblok.org/",
+    "headquarters": "Wien",
+    "placeholder": true
+  }
+]

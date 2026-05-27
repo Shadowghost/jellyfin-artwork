@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Blacked Raw",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103790",
+        "logo_uri": "https://image.tmdb.org/t/p/original/82lmcOG5wGF8fcRVRNAk1lbjjqd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

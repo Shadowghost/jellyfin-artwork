@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Oregon Public Broadcasting",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18075",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jGLWx0DuoKpyy99uMptoU8tF5wj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.opb.org",
+    "headquarters": "Portland, OR",
+    "placeholder": true
+  }
+]

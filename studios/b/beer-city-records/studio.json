@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Beer City Records",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92005",
+        "logo_uri": "https://image.tmdb.org/t/p/original/snQaF9U9XYJdkB9r5SpK72lSQeC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

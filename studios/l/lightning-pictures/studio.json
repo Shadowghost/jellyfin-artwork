@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Lightning Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4233"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

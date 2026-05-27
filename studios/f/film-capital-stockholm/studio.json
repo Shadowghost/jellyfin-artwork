@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film Capital Stockholm",
+    "country": "SE",
+    "homepage": "https://filmcapitalstockholm.se/",
+    "headquarters": "Stockholm, Sweden",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33821",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fygjYD07KphyW2zrcpFxk1J2SzE.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

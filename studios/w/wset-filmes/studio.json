@@ -1,0 +1,16 @@
+[
+  {
+    "name": "WSET Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93584"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.wsetfilmes.com/",
+    "headquarters": "Rio de Janeiro RJ",
+    "placeholder": true
+  }
+]

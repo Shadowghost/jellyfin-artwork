@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Start Motion Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19961"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

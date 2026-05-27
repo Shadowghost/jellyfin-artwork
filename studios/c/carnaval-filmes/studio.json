@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Carnaval Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142359",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fCblfSrQb6PkiQRHeFr9ooQsHX8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://carnavalfilmes.com.br/",
+    "headquarters": "Recife - PE",
+    "placeholder": true
+  }
+]

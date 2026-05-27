@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cineline EDelivery",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "251363",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2oI0XgKsKVMT85RNMdOGCATduEP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://www.cineline.pl/en/edelivery",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

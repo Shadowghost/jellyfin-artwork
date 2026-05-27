@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CHEF Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "297133"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

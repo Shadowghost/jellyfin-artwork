@@ -1,0 +1,15 @@
+[
+  {
+    "name": "SCRAP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256250"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.scrapmagazine.com/",
+    "placeholder": true
+  }
+]

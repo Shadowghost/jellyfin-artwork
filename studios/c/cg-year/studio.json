@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CG Year",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115329",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a2oi6w1yTyTycbHPrP5eLJBBgDS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://cgyear.com.cn/",
+    "placeholder": true
+  }
+]

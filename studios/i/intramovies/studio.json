@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Intramovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69698",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sjMvqt0ENICFR06e2IBDI7FUbW1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.intramovies.com/",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

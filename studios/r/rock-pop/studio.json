@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Rock & Pop",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164818",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w07RwA9WXqWLRowSG23nqjyo71o.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "headquarters": "Santiago",
+    "placeholder": true
+  }
+]

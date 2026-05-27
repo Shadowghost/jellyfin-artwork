@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Aniventure",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142311",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aexrPIItAbXLEUGB9Dp1Kqwhhwc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.aniventure.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TelevisaUnivision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "247878",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l5JPZK6eFLsrDi41I4Jg5jnnAc4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://corporate.televisaunivision.com",
+    "headquarters": "Miami, Florida",
+    "placeholder": true
+  }
+]

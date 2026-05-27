@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Upstream Flix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161680"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

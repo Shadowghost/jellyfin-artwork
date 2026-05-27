@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Filmtank",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41570"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.filmtank.de/en",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

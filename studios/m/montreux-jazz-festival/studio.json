@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Montreux Jazz Festival",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11701",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4E9qm7BLUlZCXx8T4uuwNQmlBeX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.montreuxjazzfestival.com/en",
+    "headquarters": "Montreux",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cineworx Filmproduktion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77097",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7slEVNK6sLXl49uJgZ06o6SLQZM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://cineworxfilmproduktion.ch",
+    "headquarters": "Zürich",
+    "placeholder": true
+  }
+]

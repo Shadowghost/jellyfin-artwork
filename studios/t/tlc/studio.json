@@ -1,0 +1,15 @@
+[
+  {
+    "name": "TLC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15995",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fC67EXOiEXLkhe9DPdSVXQ5C1Za.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

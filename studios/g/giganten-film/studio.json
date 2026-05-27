@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Giganten Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179966",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nLO4wdRzsQ4Mnb7Z2FGccvS8lSZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://gigantenfilm.de",
+    "placeholder": true
+  }
+]

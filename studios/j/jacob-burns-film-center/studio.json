@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jacob Burns Film Center",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114368",
+        "logo_uri": "https://image.tmdb.org/t/p/original/K0WslqOLmgw1o3hQ0BXUEUE6VB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://burnsfilmcenter.org",
+    "headquarters": "Pleasantville, NY",
+    "placeholder": true
+  }
+]

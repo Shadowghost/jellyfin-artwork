@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DocTrain",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226167"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

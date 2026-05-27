@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NiteLite Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "265154",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jAI3g4TaN6S3qojockfwZhwsSii.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://nitelitepictures.com",
+    "placeholder": true
+  }
+]

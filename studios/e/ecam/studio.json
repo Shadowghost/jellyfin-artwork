@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ecam",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28016",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zHoaupvjWluNcDZQYuOlVkEwotC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://ecam.es",
+    "headquarters": "Pozuelo de Alarcón, Madrid",
+    "placeholder": true
+  }
+]

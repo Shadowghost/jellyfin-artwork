@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Carlton-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18324"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

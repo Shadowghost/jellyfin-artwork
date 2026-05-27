@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jumonji",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138676",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1oI9jT5Y908O8ro7bQhNPBUETyx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.jumonji.biz/",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

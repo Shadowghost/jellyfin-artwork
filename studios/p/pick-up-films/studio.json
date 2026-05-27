@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pick Up Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167516"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Berlin Minimal Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226120"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

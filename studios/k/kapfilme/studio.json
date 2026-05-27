@@ -1,0 +1,17 @@
+[
+  {
+    "name": "kapFilme",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158033",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ywY97HEyEI6ELfCAquzY7VMpHbK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://kapfilme.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

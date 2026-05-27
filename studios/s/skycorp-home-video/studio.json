@@ -1,0 +1,14 @@
+[
+  {
+    "name": "SkyCorp Home Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123517",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t7UIvKNsfeo3SjkL0NDH6HcllNY.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

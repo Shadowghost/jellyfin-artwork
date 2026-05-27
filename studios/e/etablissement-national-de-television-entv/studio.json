@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Établissement National de Télévision (ENTV)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75116",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sXVtODFB1De5N9AnuNTKD47MiOb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DZ",
+    "homepage": "https://www.entv.dz/accueil",
+    "headquarters": "21, boulevard des Martyrs. 16109 Alger, Algérie",
+    "placeholder": true
+  }
+]

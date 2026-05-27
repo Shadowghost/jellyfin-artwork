@@ -1,0 +1,14 @@
+[
+  {
+    "name": "VIS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125586",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6gOEKQP41YSSzdLgL67FHhuXGdG.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

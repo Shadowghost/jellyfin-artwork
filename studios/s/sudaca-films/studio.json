@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sudaca Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182011",
+        "logo_uri": "https://image.tmdb.org/t/p/original/siG7yZ7LhrQ0pNLMwjJxetiypVy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "VE",
+    "homepage": "https://sudacafilms.com",
+    "headquarters": "Caracas",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "France 5",
+    "country": "FR",
+    "homepage": "https://www.france.tv/france-5/",
+    "providers": [
+      {
+        "provider_name": "tvdb",
+        "id": "108"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "24033",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dZ7shHqHbMAD05hQPzYgz5OAKwl.png"
+      },
+      {
+        "provider_name": "imdb",
+        "id": "co0088445"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "france-5",
+    "template": true
+  }
+]

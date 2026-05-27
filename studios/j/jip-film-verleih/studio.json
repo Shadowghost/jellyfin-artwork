@@ -1,0 +1,17 @@
+[
+  {
+    "name": "jip film & verleih",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208880",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xOWMLj7TbZibpgFxXzZHchgYhXY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://jip-film.de/",
+    "headquarters": "Frankfurt, Hesse",
+    "placeholder": true
+  }
+]

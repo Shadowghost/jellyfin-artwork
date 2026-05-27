@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Leevandia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101601",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5xDYVeYsFsMCJNAp7t2Ef7t0ePk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://www.leevandia.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ShadowMachine",
+    "country": "US",
+    "homepage": "https://www.shadowmachine.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81667",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Am06MBFNH0OLe3m5MEhdyIFeYWh.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

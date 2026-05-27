@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Filmdirekt",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100108"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.filmdirekt.eu/",
+    "headquarters": "Vimmerby",
+    "placeholder": true
+  }
+]

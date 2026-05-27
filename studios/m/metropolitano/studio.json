@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Metropolitano",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85076"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

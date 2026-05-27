@@ -1,0 +1,13 @@
+[
+  {
+    "name": "koyinta production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230475"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

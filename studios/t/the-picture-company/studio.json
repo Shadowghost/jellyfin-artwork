@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Picture Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99132",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oKjgNvaMndJiBmcngrSWPWb8VYO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Glendale, California",
+    "placeholder": true
+  }
+]

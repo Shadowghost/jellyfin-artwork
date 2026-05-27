@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Highland Film Group",
+    "country": "US",
+    "homepage": "http://www.highlandfilmgroup.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76991",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pQjdvbv4y9yuIDSHDEHc9ijJKaS.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

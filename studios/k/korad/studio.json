@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Korad",
+    "country": "KR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100556"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

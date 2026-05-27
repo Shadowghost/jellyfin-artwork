@@ -1,0 +1,15 @@
+[
+  {
+    "name": "TV Tupi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83040",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hYyMxPniIu9xdQ1Q5Q9XsqG4tS1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

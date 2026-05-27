@@ -1,0 +1,13 @@
+[
+  {
+    "name": "IP-Verity",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20288"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

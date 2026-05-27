@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmzeugs",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271508"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie Pro",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21973"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Koliba Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96965",
+        "logo_uri": "https://image.tmdb.org/t/p/original/riwxHwM1vF2wErAn5IHsWWyxcL7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "http://kolibafilm.com.tr",
+    "placeholder": true
+  }
+]

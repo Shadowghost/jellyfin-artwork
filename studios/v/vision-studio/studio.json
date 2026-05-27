@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Vision Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171286",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cuACGjUtqeO7si2L7UFr1ZxHs0S.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.visionstudio.it",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Internet Archive",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199033",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1rhMZFAiESM8CAI6f8QebOT25wN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://archive.org",
+    "headquarters": "Richmond District, San Francisco, California, U.S",
+    "placeholder": true
+  }
+]

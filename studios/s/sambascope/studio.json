@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sambascope",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121720"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

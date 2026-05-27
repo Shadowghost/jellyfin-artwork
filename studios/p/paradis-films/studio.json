@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Paradis Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b1zTOpnNn5g0nHjhpn3Dx17QaoP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://paradisfilms.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

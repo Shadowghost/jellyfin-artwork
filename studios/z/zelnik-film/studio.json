@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Zelnik-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30321"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "lonely planet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189538"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

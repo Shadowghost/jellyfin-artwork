@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rohfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18485",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q49Qk6zMyhWVjowLXlpoboONqHx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://rohfilm-productions.com/",
+    "headquarters": "Leipzig",
+    "placeholder": true
+  }
+]

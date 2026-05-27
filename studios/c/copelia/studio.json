@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Copelia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270706"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

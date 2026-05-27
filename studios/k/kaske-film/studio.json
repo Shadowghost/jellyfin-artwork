@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kaske Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139455",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b6GYE2lUUWDFuEPicvnywFKWPXt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.kaskefilm.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

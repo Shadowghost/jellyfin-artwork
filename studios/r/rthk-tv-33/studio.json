@@ -1,0 +1,16 @@
+[
+  {
+    "name": "RTHK TV 33",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "235341",
+        "logo_uri": "https://image.tmdb.org/t/p/original/awXYgqA0aQvZeklBM4lMQ0uEL67.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HK",
+    "homepage": "https://www.rthk.hk/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Degel Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133320",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sr9MeVFBCjPjZvRFRp3cWcDXK6C.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Jokers Films",
+    "country": "FR",
+    "homepage": "https://www.thejokersfilms.com/",
+    "headquarters": "16 Rue Notre Dame de Lorette, 75009 Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88455",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fjTsx46gQwXR83NGYMlB7ez4q9f.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

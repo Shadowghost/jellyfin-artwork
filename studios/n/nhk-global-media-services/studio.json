@@ -1,0 +1,15 @@
+[
+  {
+    "name": "NHK Global Media Services",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101591",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xDfI62tQtP1UcepwmyiJa9nQmPg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

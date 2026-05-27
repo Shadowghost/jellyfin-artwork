@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Estonian Film Institute",
+    "country": "EE",
+    "homepage": "https://www.filmi.ee/",
+    "headquarters": "Uus st. 3, Tallinn, Estonia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74635",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c2tRRTOeyjiFUxyJ5LNnIlSTRX.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

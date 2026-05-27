@@ -1,0 +1,17 @@
+[
+  {
+    "name": "seriousFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85212",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qIxFahRmNORWPLd7EbSYq3GXi42.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "http://www.seriousfilm.nl",
+    "headquarters": "Rotterdam, South Holland",
+    "placeholder": true
+  }
+]

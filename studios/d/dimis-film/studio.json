@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DiMiS Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109009"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MS-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94077"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

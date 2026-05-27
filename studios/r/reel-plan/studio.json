@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Reel Plan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153427",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gO7jCX2VRaNVfQetszNrKBrAVCr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://reelplan.com",
+    "headquarters": "Washington, DC",
+    "placeholder": true
+  }
+]

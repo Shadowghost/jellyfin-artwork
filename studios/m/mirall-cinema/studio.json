@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mirall Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "227662",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dtyZLvHDZJiCkHeFbkwzurtnXRi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://www.mirallcinema.com/",
+    "headquarters": "Guadalajara",
+    "placeholder": true
+  }
+]

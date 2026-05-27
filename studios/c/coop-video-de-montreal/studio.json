@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Coop Vidéo de Montréal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20181",
+        "logo_uri": "https://image.tmdb.org/t/p/original/51PVTqYHBEl5AFJKwjT4uPsslpq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://coopvideo.ca",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

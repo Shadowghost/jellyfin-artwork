@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Lonely Island",
+    "country": "US",
+    "homepage": "http://www.thelonelyisland.com/",
+    "headquarters": "American Canyon, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53808",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6nnIZAKEXVKwZtuzfbv5gLeHvp2.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

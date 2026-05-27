@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ground Control Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160202"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

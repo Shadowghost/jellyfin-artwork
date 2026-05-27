@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Skellig Rock",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87721",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6R1A42rLmNDX6gyRn3VzK8Q8xHq.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

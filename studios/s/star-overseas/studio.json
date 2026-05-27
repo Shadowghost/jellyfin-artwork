@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Star Overseas",
+    "country": "HK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3477"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

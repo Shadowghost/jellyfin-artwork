@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Liman Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143014",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jg15dvoQFLpWNIEd0jXIHjaGZwK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "http://www.limanfilm.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pimienta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24513",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tW8mCKX6JgFyPAZjszZ3scCTqZk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PR",
+    "homepage": "https://www.pimienta-co.com/",
+    "headquarters": "San Juan",
+    "placeholder": true
+  }
+]

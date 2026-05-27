@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Strange Production KB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257991"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

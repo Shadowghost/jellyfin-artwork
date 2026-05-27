@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Running Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130699"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

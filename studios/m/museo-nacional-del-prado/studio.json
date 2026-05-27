@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Museo Nacional del Prado",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191969"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.museodelprado.es/en",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

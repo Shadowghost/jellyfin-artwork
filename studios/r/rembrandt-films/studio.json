@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Rembrandt Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48424"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.rembrandtfilms.com/rembrandtanimation.html",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

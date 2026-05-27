@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Dom Film",
+    "country": "DE",
+    "headquarters": "Cologne",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "681"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

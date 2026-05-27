@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Duskwater",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240112",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pP4TaGL7Zw7dkfFcC0pwwENo0oa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://duskwaterfilms.com/",
+    "headquarters": "Barcelona",
+    "placeholder": true
+  }
+]

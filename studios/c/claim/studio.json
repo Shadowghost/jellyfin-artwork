@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Claim",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168043"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

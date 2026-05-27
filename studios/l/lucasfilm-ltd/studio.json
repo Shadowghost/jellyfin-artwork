@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lucasfilm Ltd.",
+    "country": "US",
+    "homepage": "https://www.lucasfilm.com",
+    "headquarters": "San Francisco, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tlVSws0RvvtPBwViUyOFAO0vcQS.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

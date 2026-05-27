@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Animals Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233220"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

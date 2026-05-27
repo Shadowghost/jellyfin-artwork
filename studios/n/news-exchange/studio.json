@@ -1,0 +1,13 @@
+[
+  {
+    "name": "News Exchange",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72021"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Chicago Motion Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118225"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://chicagomotion.com",
+    "headquarters": "Chicago, US",
+    "placeholder": true
+  }
+]

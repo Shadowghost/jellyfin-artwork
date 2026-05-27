@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kino Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3082"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

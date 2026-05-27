@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Wildfremd Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123793"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

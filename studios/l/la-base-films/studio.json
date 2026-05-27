@@ -1,0 +1,13 @@
+[
+  {
+    "name": "La base films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280643"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dugong Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74065",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2zMkXdiEX16WDRft4ebKqcgAxu0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.dugong.it/",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

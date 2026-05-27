@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kinoproduction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "440",
+        "logo_uri": "https://image.tmdb.org/t/p/original/z10otS2BrUXXlIH5zGBP5dnhTPe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "http://kinoproduction.fi/",
+    "headquarters": "Helsinki, Finland",
+    "placeholder": true
+  }
+]

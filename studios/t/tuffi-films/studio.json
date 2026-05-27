@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tuffi Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33380",
+        "logo_uri": "https://image.tmdb.org/t/p/original/clYqCO5abrqHIZtw5PYE5MupdMw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "http://www.tuffifilms.com",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

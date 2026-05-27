@@ -1,0 +1,42 @@
+[
+  {
+    "name": "ESPN",
+    "description": "American multinational sports broadcasting network; ESPN Films is its documentary and film production unit, known for the 30 for 30 series.",
+    "country": "US",
+    "type": "cable-network",
+    "homepage": "https://www.espn.com",
+    "headquarters": "Bristol, Connecticut",
+    "colors": [
+      {
+        "name": "ESPN Red",
+        "hex": "#D90000"
+      },
+      {
+        "name": "ESPN Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17037",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w9le4FUeXVlKLfnlkuk1djRrena.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

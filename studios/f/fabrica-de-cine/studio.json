@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fábrica de Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "54537",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rEIubqCkwnFwP3otyumq8nKra7Z.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "http://www.fabricadecine.com/index",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Oscar Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149764",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A7xJa9KFykyusQKn3jyQ0yJ4Vws.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EG",
+    "homepage": "https://oscarpictures.com/en/",
+    "headquarters": "Cairo",
+    "placeholder": true
+  }
+]

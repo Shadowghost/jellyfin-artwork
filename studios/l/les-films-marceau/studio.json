@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les Films Marceau",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2260"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

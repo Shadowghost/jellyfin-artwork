@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Barakuda Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180230",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c7PpqOTBFr63U1tuVuSJG9FUG7G.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

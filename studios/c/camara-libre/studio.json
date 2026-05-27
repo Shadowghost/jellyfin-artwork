@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cámara libre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116622"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

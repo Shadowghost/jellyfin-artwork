@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Aurum Film",
+    "country": "PL",
+    "homepage": "http://aurumfilm.pl",
+    "headquarters": "Warsaw",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "54732",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9Wq8UhFmqgwTaps9RIFSaxZJZie.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

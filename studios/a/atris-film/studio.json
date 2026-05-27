@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Atris Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116250",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vpn3yGPBgKFElPcq15nwRkQV28C.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://atrisfilm.com/",
+    "headquarters": "Wachtberg",
+    "placeholder": true
+  }
+]

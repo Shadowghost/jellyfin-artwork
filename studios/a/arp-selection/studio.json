@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ARP Sélection",
+    "country": "FR",
+    "homepage": "http://www.arpselection.com",
+    "headquarters": "Roubaix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3NcJ66KlMs1s6yOh0AMSLMvhtSV.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

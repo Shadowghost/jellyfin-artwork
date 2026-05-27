@@ -1,0 +1,16 @@
+[
+  {
+    "name": "StrayCats",
+    "country": "JP",
+    "homepage": "https://straycats.co.jp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215257",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zaDabgG3mq2B65A0R99yNWq2kg6.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

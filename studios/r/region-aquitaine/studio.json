@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Région Aquitaine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41258"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

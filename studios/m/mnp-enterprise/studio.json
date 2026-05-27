@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MNP Enterprise",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8110"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

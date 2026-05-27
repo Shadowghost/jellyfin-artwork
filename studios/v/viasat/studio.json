@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Viasat",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70295"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.viasat.se/",
+    "placeholder": true
+  }
+]

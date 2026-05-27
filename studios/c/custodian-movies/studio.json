@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Custodian Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225062"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.custodian.es/",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

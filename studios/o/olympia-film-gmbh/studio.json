@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Olympia-Film GmbH",
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "400"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

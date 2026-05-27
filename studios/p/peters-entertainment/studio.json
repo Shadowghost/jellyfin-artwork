@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Peters Entertainment",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16774",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uD6Ls0FSJwo13ekpz91s1TRpkGq.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

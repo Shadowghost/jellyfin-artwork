@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vidicom Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88098",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gtQtufT5tFzRdwijKwmQGOHWBzi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://vidicom-tv.com/en",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

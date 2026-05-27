@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TVPerú",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159310",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iPngIO9mfRghnJTYqaDYvTgq4gW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PE",
+    "homepage": "https://www.tvperu.gob.pe",
+    "headquarters": "Lima",
+    "placeholder": true
+  }
+]

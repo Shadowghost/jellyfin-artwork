@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Centro de Cine Experimental",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150748"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "headquarters": "Santiago, Chile",
+    "placeholder": true
+  }
+]

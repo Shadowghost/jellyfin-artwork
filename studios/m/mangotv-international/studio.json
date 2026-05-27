@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MangoTV International",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "298647",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vwOgByjEprYCZ3O34Bm3kvIhxzJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://w.mgtv.com/",
+    "headquarters": "Changsha City, China",
+    "placeholder": true
+  }
+]

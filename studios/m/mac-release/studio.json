@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mac Release",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "178476"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Films.Dance",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164328"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

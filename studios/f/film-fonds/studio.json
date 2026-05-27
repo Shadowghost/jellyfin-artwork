@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Film Fonds",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7326"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

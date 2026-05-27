@@ -1,0 +1,15 @@
+[
+  {
+    "name": "TOS",
+    "country": "NL",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52437",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4Xj4yEfcqPHZJKm3QYrJH0q1OlE.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

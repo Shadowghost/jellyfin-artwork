@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Blackfin Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90981",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xs39gd9OHDvoUQu8VUz6fYbQ2Fo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.blackfin.cc/",
+    "headquarters": "Paris (formerly Beijing)",
+    "placeholder": true
+  }
+]

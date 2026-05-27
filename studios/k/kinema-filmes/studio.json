@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kinema Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "136307"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "rvkino.ru",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "297197",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fnPxGpSR9DbYOz17oRLuH1SrBAo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://rvkino.ru/",
+    "headquarters": "Москва",
+    "placeholder": true
+  }
+]

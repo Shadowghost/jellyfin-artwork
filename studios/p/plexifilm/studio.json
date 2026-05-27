@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Plexifilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12121"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.plexifilm.com/",
+    "placeholder": true
+  }
+]

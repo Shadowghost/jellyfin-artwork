@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio KAI",
+    "country": "JP",
+    "homepage": "https://st-kai.jp/",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125523",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jE5kEho5Dd2XxSOBzPOz7zuF4Y2.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

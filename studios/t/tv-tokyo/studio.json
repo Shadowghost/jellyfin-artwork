@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TV Tokyo",
+    "country": "JP",
+    "homepage": "https://www.tv-tokyo.co.jp",
+    "headquarters": "Roppongi, Minato",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3034",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jnuO8pZNEBLEq5YaOP1f5OkmG91.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

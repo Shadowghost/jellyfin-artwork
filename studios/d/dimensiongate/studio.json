@@ -1,0 +1,16 @@
+[
+  {
+    "name": "DimensionGate",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270846",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oBxigI3CRctXSwtiyKrqUjlT4od.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.dimensiongate.com",
+    "placeholder": true
+  }
+]

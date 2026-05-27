@@ -1,0 +1,14 @@
+[
+  {
+    "name": "LisFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234935"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

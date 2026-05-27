@@ -1,0 +1,15 @@
+[
+  {
+    "name": "DinoVision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107255",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cxRBJ9OfFKlo6ca8sJJmCc21KVn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

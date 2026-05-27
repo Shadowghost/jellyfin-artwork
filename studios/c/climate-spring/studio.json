@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Climate Spring",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241427",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8mEwJWHiWwiDcf6mufNpn6u6LvY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.climate-spring.org/",
+    "headquarters": "Barbican, England",
+    "placeholder": true
+  }
+]

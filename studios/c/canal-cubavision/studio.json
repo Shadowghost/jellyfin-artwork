@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Canal Cubavisión",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280294",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tj1DyFgMgbPy3IP18s1Z3pzCHQa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CU",
+    "homepage": "https://www.tvcubana.icrt.cu/cartelera-de-la-tv-cubana/cubavision",
+    "headquarters": "Havana",
+    "placeholder": true
+  }
+]

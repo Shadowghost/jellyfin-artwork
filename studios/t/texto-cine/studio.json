@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Texto Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "259340"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

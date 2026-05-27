@@ -1,0 +1,13 @@
+[
+  {
+    "name": "GoldFlix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150036"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

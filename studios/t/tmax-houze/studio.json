@@ -1,0 +1,15 @@
+[
+  {
+    "name": "TMAX Houze",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223395",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fEznzOuP4025FjI78N3W6SF2XbB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "placeholder": true
+  }
+]

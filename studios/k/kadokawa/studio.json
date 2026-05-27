@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KADOKAWA",
+    "country": "JP",
+    "homepage": "https://ir.kadokawa.co.jp/global",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2073",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

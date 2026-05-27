@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Aalto Studios",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116039",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7rNWwJHUlnj1TY2dD5CCT3FeIfL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://studios.aalto.fi/",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

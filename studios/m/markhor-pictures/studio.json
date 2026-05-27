@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Markhor Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193661",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5OkEISYgowjzht54mrEisVYDQCR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.markhorpictures.com/",
+    "headquarters": "Toronto",
+    "placeholder": true
+  }
+]

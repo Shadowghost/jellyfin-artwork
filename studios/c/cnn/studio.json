@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CNN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184839",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m7Ru1PEVnGGv1lTGrKWDUkM1JkR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://cnn.com",
+    "headquarters": "Atlanta, Georgia",
+    "placeholder": true
+  }
+]

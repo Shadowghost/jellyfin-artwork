@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Distillery",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226604"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

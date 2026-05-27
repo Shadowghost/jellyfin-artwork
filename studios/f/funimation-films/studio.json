@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Funimation Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168856",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bIxHmcVmPmVWnuvQ2R3Sjhk0d4K.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.funimationfilms.com",
+    "placeholder": true
+  }
+]

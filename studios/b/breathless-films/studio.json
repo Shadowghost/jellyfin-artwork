@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Breathless Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151560",
+        "logo_uri": "https://image.tmdb.org/t/p/original/leMi9drruOP66EzMUtHdU8QJ7zc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://breathlessfilms.cz/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Openvizor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87695",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sjpEjY4eYHXb7nFbFBBE8BdRGKJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.openvizor.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Appu Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48070"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

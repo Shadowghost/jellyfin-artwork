@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AGADIC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119362",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3VMbHWa9xwWBaIN311GmXXxtJI9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.agadic.gal/",
+    "headquarters": "Santiago de Compostela",
+    "placeholder": true
+  }
+]

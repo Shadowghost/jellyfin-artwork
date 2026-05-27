@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Visualsuspects",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202117"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.visualsuspects.es",
+    "headquarters": "Barcelona, Catalonia",
+    "placeholder": true
+  }
+]

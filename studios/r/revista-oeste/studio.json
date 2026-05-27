@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Revista Oeste",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201802",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wOrSZwIrO3iTR7UhO04i0xmOZkN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://revistaoeste.com/",
+    "headquarters": "São Paulo, São Paulo",
+    "placeholder": true
+  }
+]

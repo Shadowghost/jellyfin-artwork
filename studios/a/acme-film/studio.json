@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ACME Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127021"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "citadel picture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60905"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

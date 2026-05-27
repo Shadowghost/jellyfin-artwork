@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Filmselskapet AFF",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130831"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "http://www.filmselskapet.no/Start.html",
+    "placeholder": true
+  }
+]

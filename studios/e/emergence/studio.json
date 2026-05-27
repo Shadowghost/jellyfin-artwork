@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Emergence",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75452",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eKofGReuPmS5DrigaK85cqh6pfA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.emergencearts.com/",
+    "headquarters": "Houston, Texas",
+    "placeholder": true
+  }
+]

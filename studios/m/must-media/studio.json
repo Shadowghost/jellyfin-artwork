@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Must Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94473",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qdgS6zJPgqwEyG5L44W2Uoy1BbB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.mustmedia.ca",
+    "placeholder": true
+  }
+]

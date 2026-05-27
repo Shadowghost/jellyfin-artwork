@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mélisande Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85860",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uyWWrnB5hQ9qFbfbcJ6wJ7hyUfw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.melisandefilms.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

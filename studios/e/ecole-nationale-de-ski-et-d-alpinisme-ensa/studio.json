@@ -1,0 +1,17 @@
+[
+  {
+    "name": "École Nationale de Ski et d'Alpinisme (ENSA)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "253437",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A8SyzmTet4Q9MFZaOCrTFXGiuJa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.ensm.sports.gouv.fr",
+    "headquarters": "35 Rte du Bouchet, 74400 Chamonix-Mont-Blanc, France",
+    "placeholder": true
+  }
+]

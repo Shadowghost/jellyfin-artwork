@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Compagnie Cinématographique",
+    "country": "BE",
+    "homepage": "https://www.panacheproductions.be/en",
+    "headquarters": "Saint-Gilles",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12406",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e89tcj2PpfFffwA0etxuGftj0YU.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

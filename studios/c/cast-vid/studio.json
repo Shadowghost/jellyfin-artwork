@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cast vid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238189"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

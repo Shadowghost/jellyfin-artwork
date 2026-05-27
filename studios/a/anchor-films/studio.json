@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Anchor Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216359",
+        "logo_uri": "https://image.tmdb.org/t/p/original/erFi5Rf1gfNgze7h2MiltkRhISZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "homepage": "https://www.anchorfilms.ro/",
+    "headquarters": "Bucharest",
+    "placeholder": true
+  }
+]

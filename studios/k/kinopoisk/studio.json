@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kinopoisk",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "293648",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5pUvmTSnTS0vpCpTdIiRTKUPC2z.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://www.kinopoisk.ru/",
+    "placeholder": true
+  }
+]

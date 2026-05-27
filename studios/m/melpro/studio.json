@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MelPro",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200218"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

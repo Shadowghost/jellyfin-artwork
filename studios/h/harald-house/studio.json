@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Harald House",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116832",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7u1cpcWz7fXJ9nSFtuCt3wHidvr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.haraldhouse.com/",
+    "headquarters": "Antwerp",
+    "placeholder": true
+  }
+]

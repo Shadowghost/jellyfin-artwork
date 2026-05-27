@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CineWild",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140578"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

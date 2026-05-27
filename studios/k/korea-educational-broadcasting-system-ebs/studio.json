@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Korea Educational Broadcasting System (EBS)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10464",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bibwqB8U1QGwotLpX4QL4dvisxG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://about.ebs.co.kr/kor/main/index",
+    "headquarters": "Goyang, Gyeonggi, South Korea",
+    "placeholder": true
+  }
+]

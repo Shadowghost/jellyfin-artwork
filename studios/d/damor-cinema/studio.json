@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Damor Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79172",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qvtCMgfwcnkR8Vm4lJ3H3UgjMa6.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://www.damorcinema.com/",
+    "headquarters": "Thiruvananthapuram"
+  }
+]

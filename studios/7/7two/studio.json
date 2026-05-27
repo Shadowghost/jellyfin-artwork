@@ -1,0 +1,29 @@
+[
+  {
+    "name": "7two",
+    "description": "Australian free-to-air digital television channel owned by the Seven Network, broadcasting lifestyle and classic programming.",
+    "country": "AU",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18303"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Newstapa",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112196",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t7iLYzrj825rY7CqEG7xS4IUOOB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://newstapa.org/",
+    "headquarters": "Jung, Seoul, South Korea",
+    "placeholder": true
+  }
+]

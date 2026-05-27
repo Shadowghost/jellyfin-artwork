@@ -1,0 +1,16 @@
+[
+  {
+    "name": "RTVC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123235"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.rtvc.es",
+    "headquarters": "Santa Cruz de Tenerife",
+    "placeholder": true
+  }
+]

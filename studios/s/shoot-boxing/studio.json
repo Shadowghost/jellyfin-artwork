@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Shoot Boxing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255360",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tqADyyRWI8979HSa6DVsvh5VaSE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://shootboxing.org",
+    "placeholder": true
+  }
+]

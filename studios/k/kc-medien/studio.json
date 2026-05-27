@@ -1,0 +1,15 @@
+[
+  {
+    "name": "KC Medien",
+    "country": "DE",
+    "headquarters": "Ludwigsburg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22182"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

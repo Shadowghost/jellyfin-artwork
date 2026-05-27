@@ -1,0 +1,33 @@
+[
+  {
+    "name": "SKY Perfect JSAT",
+    "description": "Japanese satellite communications and broadcasting company, largest satellite operator in Asia, operates SKY PerfecTV! direct-broadcast satellite TV service.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175543",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u5bnQ8GNJnbI8gZCMCUei5PxcdB.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "SKY Perfect JSAT Group"
+    ],
+    "template": true
+  }
+]

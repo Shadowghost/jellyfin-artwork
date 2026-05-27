@@ -1,0 +1,14 @@
+[
+  {
+    "name": "NC Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204002"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

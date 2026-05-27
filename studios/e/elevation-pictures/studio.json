@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Elevation Pictures",
+    "description": "Canadian film distributor and production company based in Toronto, distributing films from major studios across Canada.",
+    "country": "CA",
+    "type": "distributor",
+    "homepage": "https://www.elevationpictures.com",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82552",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cLEXKtCpRQs0meQwT7HK6u3QmRH.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

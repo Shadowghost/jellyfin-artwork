@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Jarama Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32166"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

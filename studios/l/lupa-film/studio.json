@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lupa Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45489",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h9pjnrYbpEqWwPZDEyJfUzHFCG9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://lupa-film.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

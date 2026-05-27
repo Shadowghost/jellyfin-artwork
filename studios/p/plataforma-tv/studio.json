@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Plataforma TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201923",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sstbNvsEqJST1vHYVzk43D6m8O6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "placeholder": true
+  }
+]

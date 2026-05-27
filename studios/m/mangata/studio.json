@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mångata",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125060",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9giIHcLFMEQhYByHBvPB2ZuQSM8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://dauid.com/mangata",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

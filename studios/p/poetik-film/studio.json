@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Poetik Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182376",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kGvGIgHYUx1WMG859I1DgFvp5aa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://poetikfilm.com/",
+    "headquarters": "Rochefort",
+    "placeholder": true
+  }
+]

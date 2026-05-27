@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Caméra One",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6454",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nmLFbZsv3x3hr6x0LcL40KqKKIj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.camera-one.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

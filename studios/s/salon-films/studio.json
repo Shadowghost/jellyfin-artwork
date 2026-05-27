@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Salon Films",
+    "country": "TH",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105748"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

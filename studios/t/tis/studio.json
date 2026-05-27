@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TIS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173993",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zMuVoyz7c8ZmT5v9GCGiikHRe4j.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.tis.co.jp/",
+    "placeholder": true
+  }
+]

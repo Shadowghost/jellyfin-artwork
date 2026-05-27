@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Finnish Film Foundation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2396",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v0U7OZwjgv2vmiHbS2HNqjX9MEc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "http://ses.fi/en/home/",
+    "placeholder": true
+  }
+]

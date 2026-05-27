@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Douban",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149128"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

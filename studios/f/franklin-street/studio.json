@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Franklin Street",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90445"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

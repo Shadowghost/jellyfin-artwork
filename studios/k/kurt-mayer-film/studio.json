@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kurt Mayer Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72911",
+        "logo_uri": "https://image.tmdb.org/t/p/original/s1qkPAmEoyGg4psXaiWRF55nhyH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "https://www.kurtmayerfilm.com",
+    "headquarters": "Wien",
+    "placeholder": true
+  }
+]

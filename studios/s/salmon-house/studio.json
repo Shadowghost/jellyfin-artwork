@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Salmon House",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107415",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tF2G1y1L0liQM7ilJhQRVRtCXjQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TH",
+    "placeholder": true
+  }
+]

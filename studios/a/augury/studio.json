@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Augury",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217962"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

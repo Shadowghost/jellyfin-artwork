@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Popcast Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "297859"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

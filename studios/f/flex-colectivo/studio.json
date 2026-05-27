@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Flex Colectivo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180868",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jANBBRQbswxEBz9O01RD0ATgkYH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.flexcolectivo.com/home",
+    "placeholder": true
+  }
+]

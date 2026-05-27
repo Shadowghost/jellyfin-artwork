@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Orange Polska",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "54733",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kTHYCmbAbITXhOhyAv6dBD4Gp37.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://www.orange.pl",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

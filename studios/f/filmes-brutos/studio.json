@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Filmes Brutos",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102792"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

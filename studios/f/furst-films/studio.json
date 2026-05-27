@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Furst Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3135"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

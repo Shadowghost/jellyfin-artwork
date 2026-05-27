@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie Magic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92866"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

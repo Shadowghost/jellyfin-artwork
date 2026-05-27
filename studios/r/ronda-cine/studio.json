@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ronda Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "287439"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "http://rondacine.com",
+    "headquarters": "Santiago",
+    "placeholder": true
+  }
+]

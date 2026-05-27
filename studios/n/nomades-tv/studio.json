@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nomades TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110170",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dZKR8WyVvrF68JuzUMTgEVfPXzl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.nomades.tv",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

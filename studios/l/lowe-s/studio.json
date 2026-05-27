@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Lowe's",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198661",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rjJxZ1re3koumOe6ziDhTHkBvhV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "B-retta Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280772",
+        "logo_uri": "https://image.tmdb.org/t/p/original/94Qjbf4Xn5n7fy0Te8my1hISKg7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.b-retta.se/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

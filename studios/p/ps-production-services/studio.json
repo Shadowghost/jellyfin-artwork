@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ps production services",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98637"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

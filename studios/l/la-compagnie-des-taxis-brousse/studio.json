@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Compagnie des Taxis-Brousse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37107",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kZk5reYTCCXdGcorE1ZruEoQKYc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.cie-taxibrousse.com/en",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

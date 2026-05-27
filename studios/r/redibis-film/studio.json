@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Redibis Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145943",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vDoGyvR20qqjgQQtucWe5DD6xUl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.redibisfilm.it/en",
+    "headquarters": "Turin",
+    "placeholder": true
+  }
+]

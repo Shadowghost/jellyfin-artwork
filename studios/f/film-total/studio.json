@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Film-Total",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143408"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "placeholder": true
+  }
+]

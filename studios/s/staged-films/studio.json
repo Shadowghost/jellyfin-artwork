@@ -1,0 +1,13 @@
+[
+  {
+    "name": "staged films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151003"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Load Germany",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182642"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

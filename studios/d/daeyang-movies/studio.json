@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Daeyang Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17082"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

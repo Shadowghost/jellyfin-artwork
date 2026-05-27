@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bonnierförlagen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123256",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1d0CwDF4NQ74NAoK62WYbTIVI5N.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.bonnierforlagen.se/",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

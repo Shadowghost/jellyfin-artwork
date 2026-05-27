@@ -1,0 +1,17 @@
+[
+  {
+    "name": "deepwater films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "235684",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gzz0RMJJlkpo0kelkpTQt0yxSWs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://dwfilms.de",
+    "headquarters": "Dortmund",
+    "placeholder": true
+  }
+]

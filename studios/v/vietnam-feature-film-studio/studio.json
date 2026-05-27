@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Vietnam Feature Film Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21300"
+      }
+    ],
+    "artwork": {},
+    "country": "VN",
+    "placeholder": true
+  }
+]

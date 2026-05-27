@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Plattform Produktion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8483",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lKMQtwKjBzhOvmylMImqzPazKwz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://www.plattformproduktion.se",
+    "headquarters": "Göteborg, Sweden",
+    "placeholder": true
+  }
+]

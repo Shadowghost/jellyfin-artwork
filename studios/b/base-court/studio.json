@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Base-Court",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117174"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

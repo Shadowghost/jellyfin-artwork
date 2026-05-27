@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Uninflected Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123106"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

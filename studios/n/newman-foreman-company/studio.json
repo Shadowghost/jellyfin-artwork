@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Newman-Foreman Company",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12443"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "STB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100724",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7UAvLVV9qR1WqOh199WclykX9cX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UA",
+    "homepage": "https://www.stb.ua",
+    "headquarters": "Kyiv",
+    "placeholder": true
+  }
+]

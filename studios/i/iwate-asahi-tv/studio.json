@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Iwate Asahi TV",
+    "description": "Japanese commercial television broadcaster in Iwate Prefecture, affiliated with TV Asahi's All-Nippon News Network.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273745",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7X7EZOUy2IGqYvcBhzghuucvRwk.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Iwate Asahi Television"
+    ],
+    "template": true,
+    "homepage": "https://www.iat.co.jp/"
+  }
+]

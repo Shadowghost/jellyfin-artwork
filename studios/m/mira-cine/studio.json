@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mirá Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126722"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

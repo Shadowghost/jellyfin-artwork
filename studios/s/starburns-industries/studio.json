@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Starburns Industries",
+    "country": "US",
+    "homepage": "https://www.starburnsindustries.com",
+    "headquarters": "Burbank, California, USA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32542"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

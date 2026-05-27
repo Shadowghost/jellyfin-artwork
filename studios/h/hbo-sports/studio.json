@@ -1,0 +1,15 @@
+[
+  {
+    "name": "HBO Sports",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6751",
+        "logo_uri": "https://image.tmdb.org/t/p/original/giPzzhPdiNloiuwo7qLagRn5uGH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

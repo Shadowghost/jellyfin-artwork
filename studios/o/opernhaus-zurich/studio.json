@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Opernhaus Zürich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72207",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7byBXARpA1q58s4C36qx7b2cDlu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "headquarters": "Zürich",
+    "placeholder": true
+  }
+]

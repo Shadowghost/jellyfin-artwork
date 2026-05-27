@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Good",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211096"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

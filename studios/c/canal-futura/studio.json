@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Canal Futura",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96000",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jDt9jNuwz2ymxwFsbTlGsaisqI9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.futura.org.br/",
+    "headquarters": "Rio de Janeiro, RJ",
+    "placeholder": true
+  }
+]

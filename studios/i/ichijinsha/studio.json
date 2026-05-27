@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ichijinsha",
+    "country": "JP",
+    "homepage": "https://www.ichijinsha.co.jp/",
+    "headquarters": "Shinjuku, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92585",
+        "logo_uri": "https://image.tmdb.org/t/p/original/T97RLdI4nkSllgozMDuvveWHL6.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

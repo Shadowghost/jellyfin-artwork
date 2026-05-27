@@ -1,0 +1,17 @@
+[
+  {
+    "name": "L’Équipe Explore",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82311",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xYbJdr56nqjYl08iHLSHxcShErt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.lequipe.fr/explore/",
+    "headquarters": "L’Équipe , 40-42 Quai du Point du Jour - 92100 Boulogne-Billancourt, France",
+    "placeholder": true
+  }
+]

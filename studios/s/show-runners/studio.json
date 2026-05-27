@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Show Runners",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166080",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nb4gVKVozMxmuebk1WqeAbYQ0CJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "placeholder": true
+  }
+]

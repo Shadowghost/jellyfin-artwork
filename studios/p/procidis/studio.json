@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Procidis",
+    "country": "FR",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82592",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jR93UNROiVEZnu4Etp69obKCeCQ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

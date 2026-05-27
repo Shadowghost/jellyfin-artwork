@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Command Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79295"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

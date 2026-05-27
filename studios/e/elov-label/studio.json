@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ELOV-Label",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "296270"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "noside",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149499",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3S2udOQwOoJNzS1i9dE9lApySLK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.noside.fr/",
+    "headquarters": "94, rue Saint-Lazare 75009 PARIS",
+    "placeholder": true
+  }
+]

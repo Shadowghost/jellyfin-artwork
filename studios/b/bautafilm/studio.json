@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bautafilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77441",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1ZgiOmS5UMMcbvo5yIN30s9qybs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://bautafilm.se/",
+    "headquarters": "Umeå, Sweden",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Interscience Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52776"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.intersciencefilm.de/home.html",
+    "headquarters": "Heidelberg, Germany",
+    "placeholder": true
+  }
+]

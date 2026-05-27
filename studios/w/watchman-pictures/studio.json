@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Watchman Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123491"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

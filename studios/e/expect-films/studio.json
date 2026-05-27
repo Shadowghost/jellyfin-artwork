@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Expect Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "136650",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uC1MZsledPxUfEeUmAIcOaeAErG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "http://expectfilms.com/",
+    "headquarters": "Oslo",
+    "placeholder": true
+  }
+]

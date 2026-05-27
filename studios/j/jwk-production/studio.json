@@ -1,0 +1,17 @@
+[
+  {
+    "name": "JWK Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "268424",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rNbbAfRnpisEFxCGWdIzSaEqZpl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://jwkproduction.com/",
+    "headquarters": "Songpa, Seoul, South Korea",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Seven",
+    "country": "BE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127648"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Media Station",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "299434",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xQZ98k82WeVBeaJfEcHKNl2Icd3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.km-produce.com",
+    "placeholder": true
+  }
+]

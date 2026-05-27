@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Premium Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150152"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.premium-films.com/",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

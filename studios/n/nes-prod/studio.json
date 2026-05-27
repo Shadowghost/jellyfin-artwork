@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NES Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209598"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

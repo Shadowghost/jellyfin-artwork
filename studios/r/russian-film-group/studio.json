@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Russian Film Group",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74107",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bzWURboFPnv8EfXIfnxILVOMyGC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://rusfilmgroup.com",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

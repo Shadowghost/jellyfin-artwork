@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Making Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5974",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vgPUbUDwVGL1ruiPv2KFtjh75UD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://www.mamo.fi",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

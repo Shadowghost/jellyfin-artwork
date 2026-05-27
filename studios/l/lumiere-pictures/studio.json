@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lumière Pictures",
+    "country": "GB",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25129",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9kyYRk8aHbIdJCIj3cLh1f6FTXR.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

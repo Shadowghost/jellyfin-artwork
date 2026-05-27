@@ -1,0 +1,13 @@
+[
+  {
+    "name": "WMTv17",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135136"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BFMTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100531",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mEx5pX1AFjQRZhyqfD5Oj7IuUqU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://bfmtv.com",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pollywog Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102719",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nl18a9fHKCmhBqmN6pcU5wY3AhF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.pollywogfilms.com",
+    "headquarters": "New York, New York",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Arctic Film Norway",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289208",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lbpK1bjQmaxGAOlWKphBLjLac7T.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://arktiskfilmnorge.no/",
+    "headquarters": "Bodø",
+    "placeholder": true
+  }
+]

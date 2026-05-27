@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wilma Film",
+    "country": "CZ",
+    "homepage": "http://www.wilmafilm.cz",
+    "headquarters": "Prague, Czech Republic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8990",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pW8lFFCl01KEb6HEIz4LididoLl.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

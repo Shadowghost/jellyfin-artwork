@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Estonian Public Broadcasting (ERR)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45345",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fb5rZB6gnthrxAeIYlRutKdGzV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EE",
+    "homepage": "https://www.err.ee/",
+    "placeholder": true
+  }
+]

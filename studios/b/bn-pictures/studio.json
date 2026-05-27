@@ -1,0 +1,35 @@
+[
+  {
+    "name": "BN Pictures",
+    "description": "Japanese animation studio spun off from Sunrise in 2015, focused on family and children's anime IPs.",
+    "country": "JP",
+    "type": "production-company",
+    "homepage": "http://www.bn-pictures.co.jp",
+    "headquarters": "Shimoshakujii, Nerima, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74440",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mf1nS1bfySc1XM5EmPZp4qsAOoy.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Bandai Namco Pictures"
+    ],
+    "template": true
+  }
+]

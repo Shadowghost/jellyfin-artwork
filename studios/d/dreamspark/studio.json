@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dreamspark",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "282538",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xpmRJmMClmiVW5ZUdS0KSWV65Ff.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.dreamspark.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

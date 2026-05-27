@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Menuet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4232",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5uY5oqgSEUvzfmn8xC4eqGVU0s5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "http://www.menuet.be/en/",
+    "headquarters": "Ghent",
+    "placeholder": true
+  }
+]

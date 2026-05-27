@@ -1,0 +1,36 @@
+[
+  {
+    "name": "FOX",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tvdb",
+        "id": "1305"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "264307"
+      },
+      {
+        "provider_name": "imdb",
+        "id": "co0070925"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "fox",
+    "template": true
+  }
+]

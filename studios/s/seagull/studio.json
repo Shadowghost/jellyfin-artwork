@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Seagull",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "261386"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Filmium",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119253"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://filmium.cz",
+    "headquarters": "Brno",
+    "placeholder": true
+  }
+]

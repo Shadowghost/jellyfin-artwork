@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Duplass Brothers Productions",
+    "country": "US",
+    "homepage": "http://www.duplassbrothers.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1974",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t8p2PpDBJo282a5TTr6Ln0wVkMZ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Chiller Films",
+    "description": "Independent film distribution division of the NBCUniversal-owned Chiller horror channel, specializing in indie horror and thriller releases.",
+    "country": "US",
+    "type": "distributor",
+    "homepage": "http://chillertv.com/",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12671",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gCrdOAUPvebAKry9oPU1HAK5c1E.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

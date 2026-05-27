@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Shivhans Pictures",
+    "country": "US",
+    "homepage": "http://shivhans.com/",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33603",
+        "logo_uri": "https://image.tmdb.org/t/p/original/K1SdQd49Kx3QRx0djfHbzeotCz.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Picturize",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "292204"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

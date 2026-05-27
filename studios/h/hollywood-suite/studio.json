@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hollywood Suite",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217835",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yj3RbC2d0X6socys7YITCGeSKYv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://hollywoodsuite.ca/",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

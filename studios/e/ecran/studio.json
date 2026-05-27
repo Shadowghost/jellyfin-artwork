@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ecran",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73044"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

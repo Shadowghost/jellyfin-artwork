@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ciné-film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194332"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

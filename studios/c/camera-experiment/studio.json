@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Camera Experiment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "59216"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

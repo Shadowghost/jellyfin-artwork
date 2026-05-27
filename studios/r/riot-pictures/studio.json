@@ -1,0 +1,13 @@
+[
+  {
+    "name": "RIOT Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201027"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

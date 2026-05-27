@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Epo-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1833",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6Ot5X5xRv0PvZ9cUUD5ZymSruLi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "http://www.epofilm.com/en",
+    "headquarters": "Vienna",
+    "placeholder": true
+  }
+]

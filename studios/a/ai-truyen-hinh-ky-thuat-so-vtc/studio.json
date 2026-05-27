@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Đài Truyền hình Kỹ thuật số VTC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289681",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aiQEfDa4aT6wVZbeVblZbyF7R2z.png"
+      }
+    ],
+    "artwork": {},
+    "country": "VN",
+    "homepage": "https://portal.vtc.gov.vn",
+    "placeholder": true
+  }
+]

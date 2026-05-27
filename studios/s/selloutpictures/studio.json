@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SellOutPictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75882"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

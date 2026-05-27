@@ -1,0 +1,16 @@
+[
+  {
+    "name": "DCG Plus",
+    "country": "KR",
+    "headquarters": "Yongsan, Seoul, South Korea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11431",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sXqbqN9cr10QmmqeIWm1sIG93mf.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "M-Net",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113027"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cuba Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187136",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oo1EQsZuZwTfmOMK9uhHgnwqde8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EE",
+    "homepage": "https://cuba.ee/",
+    "placeholder": true
+  }
+]

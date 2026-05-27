@@ -1,0 +1,13 @@
+[
+  {
+    "name": "For Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111247"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

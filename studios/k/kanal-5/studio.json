@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kanal 5",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10538",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dbiDOAbAszBQmXqewxwI0NYOvwM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

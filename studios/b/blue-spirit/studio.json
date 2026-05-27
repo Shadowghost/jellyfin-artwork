@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Blue Spirit",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42171",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yTvfCUChMCmeEbjWNyIFGwgiXQE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.spirit-prod.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

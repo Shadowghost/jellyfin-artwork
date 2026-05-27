@@ -1,0 +1,35 @@
+[
+  {
+    "name": "shondaland",
+    "description": "American production company founded by Shonda Rhimes, known for Grey's Anatomy, Scandal, How to Get Away with Murder, and Bridgerton.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.shondaland.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34209",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rYt8Q3nYxyE4YBLmVojvoKvIROv.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Shondaland"
+    ],
+    "template": true
+  }
+]

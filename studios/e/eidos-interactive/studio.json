@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Eidos Interactive",
+    "description": "British video game publisher acquired by Square Enix in 2009 and later rebranded as Square Enix Europe; known for Tomb Raider, Hitman, and Deus Ex.",
+    "country": "GB",
+    "type": "production-company",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "rotonda32",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "287288",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cXwNZvwZphqCcazCFf2v28i1Hir.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://rotonda32.com",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

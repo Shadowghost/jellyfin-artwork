@@ -1,0 +1,13 @@
+[
+  {
+    "name": "plue.film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226250"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

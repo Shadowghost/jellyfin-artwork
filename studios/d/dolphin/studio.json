@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Dolphin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106097"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

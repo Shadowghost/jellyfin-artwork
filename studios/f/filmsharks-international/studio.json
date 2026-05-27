@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FilmSharks International",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173584",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xNG9wXucEeuesWG6azyP0mcLTCT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://www.filmsharks.com",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

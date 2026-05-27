@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CMK Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260096"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

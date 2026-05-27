@@ -1,0 +1,17 @@
+[
+  {
+    "name": "A&O Buero",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "47332",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3CK2subPtQvE4ysQd4RaCHjnqZK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://a-o-buero.de/",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

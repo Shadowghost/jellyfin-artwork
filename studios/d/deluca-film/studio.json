@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Deluca Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71356",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5LmqPcB8ptlAFHMZsvC9yCXsdpj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "http://www.deluca-film.dk/",
+    "placeholder": true
+  }
+]

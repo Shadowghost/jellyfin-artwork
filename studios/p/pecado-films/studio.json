@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pecado Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "65429",
+        "logo_uri": "https://image.tmdb.org/t/p/original/26HUYHCV4YHUCp3hRrOXiTBmJf5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://pecadofilms.com",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

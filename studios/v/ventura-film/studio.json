@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ventura Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10358",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pvgiWovEFHYoOO49V7arAhitWTM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "http://venturafilm.ch/en",
+    "headquarters": "Meride, Ticino",
+    "placeholder": true
+  }
+]

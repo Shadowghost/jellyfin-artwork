@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Animax Broadcast Japan",
+    "country": "JP",
+    "homepage": "https://www.animax.co.jp/",
+    "headquarters": "Minato, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173908",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ozIYsP32g0ckOd7e2EqUTNpTwUE.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

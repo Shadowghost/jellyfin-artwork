@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Celestial Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75096",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sVRXJQWsP0tmFtM8PWASMzvRANo.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

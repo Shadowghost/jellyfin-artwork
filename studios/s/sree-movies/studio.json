@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sree Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111937"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

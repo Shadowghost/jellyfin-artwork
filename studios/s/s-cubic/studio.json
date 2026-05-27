@@ -1,0 +1,14 @@
+[
+  {
+    "name": "S-CUBIC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201313"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

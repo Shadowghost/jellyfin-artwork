@@ -1,0 +1,16 @@
+[
+  {
+    "name": "EE-Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5687",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4yax88F0OUFOxUI5AW42QDpXyJg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://www.eemedia.cn/",
+    "placeholder": true
+  }
+]

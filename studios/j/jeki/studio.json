@@ -1,0 +1,17 @@
+[
+  {
+    "name": "jeki",
+    "country": "JP",
+    "homepage": "https://www.jeki.co.jp",
+    "headquarters": "Shibuya, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8157",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pEqcMX1aG3JvtDgfh2wNZJLCcb4.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Centre National pour le Développement du Sport",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210986",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gxjGtGPIFUnZYXkPmH470OkXOah.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.agencedusport.fr/",
+    "headquarters": "CNDS, 69-71 Rue du Chevaleret, 75013 Paris, France",
+    "placeholder": true
+  }
+]

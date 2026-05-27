@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Astrakan Films",
+    "country": "US",
+    "homepage": "https://astrakanfilms.com/",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159009",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tHJ6sd7k4Fwrh82nVQ70fwR4TOp.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

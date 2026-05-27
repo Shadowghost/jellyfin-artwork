@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Team Todd",
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "598"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

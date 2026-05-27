@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Vaka",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285541",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rKsOhNa64yv2GXE77CrinIM9ijf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.vaka.co.jp",
+    "placeholder": true
+  }
+]

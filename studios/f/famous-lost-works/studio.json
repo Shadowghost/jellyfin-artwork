@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Famous Lost Works",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100891"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

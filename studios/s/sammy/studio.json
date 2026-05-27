@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sammy",
+    "country": "JP",
+    "homepage": "https://www.sammy.co.jp/english/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36342",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3xYrMZn6SrupK4R83EUgNPjzqj4.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

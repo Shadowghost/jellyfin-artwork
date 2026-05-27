@@ -1,0 +1,32 @@
+[
+  {
+    "name": "OSN",
+    "description": "Pay television network in the Middle East and North Africa formed from the merger of Orbit and Showtime Arabia.",
+    "country": "AE",
+    "type": "streaming-service",
+    "homepage": "https://www.osn.com/",
+    "headquarters": "Dubai",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210541",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fjK6FNOciAA7UnDE5ANaGzCSpGT.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

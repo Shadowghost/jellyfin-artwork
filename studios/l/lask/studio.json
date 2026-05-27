@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Läsk",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145674",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x4jBMNJ5ofskOfRyLhJ3WBpP01D.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.laskfilm.se/",
+    "headquarters": "Sala",
+    "placeholder": true
+  }
+]

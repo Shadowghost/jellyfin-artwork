@@ -1,0 +1,13 @@
+[
+  {
+    "name": "STS Channel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5631"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

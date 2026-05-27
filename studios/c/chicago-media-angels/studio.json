@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Chicago Media Angels",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123192",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fX1W5MurtT9DxfB3nqphJefpJ5g.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.chicagomediaangels.com",
+    "headquarters": "Chicago, Illinois",
+    "placeholder": true
+  }
+]

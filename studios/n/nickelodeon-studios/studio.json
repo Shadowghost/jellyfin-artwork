@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Nickelodeon Studios",
+    "description": "American television and film production studio of Nickelodeon, the children's cable network owned by Paramount Global.",
+    "country": "US",
+    "type": "studio",
+    "colors": [
+      {
+        "name": "Nickelodeon Orange",
+        "hex": "#FF6600"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272153"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

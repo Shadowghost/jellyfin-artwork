@@ -1,0 +1,15 @@
+[
+  {
+    "name": "The Kyoto Shimbun",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256936"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.kyoto-np.co.jp/",
+    "placeholder": true
+  }
+]

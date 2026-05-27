@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Moviestore Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35839"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

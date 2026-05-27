@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NAXOS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77605"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

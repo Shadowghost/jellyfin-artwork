@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bromo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78974",
+        "logo_uri": "https://image.tmdb.org/t/p/original/18KamdSg2HyCiuMEgcDb9jF6AzM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.bromo.com",
+    "headquarters": "Woodland Hills, California. USA",
+    "placeholder": true
+  }
+]

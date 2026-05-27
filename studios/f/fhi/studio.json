@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FHI",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100228"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

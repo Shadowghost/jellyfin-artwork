@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vezfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121500",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5uN88a9tHaFI7cVbvwTeZNFkBku.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.vezfilm.org/",
+    "headquarters": "Via Fondazza 17 40125 Bologna",
+    "placeholder": true
+  }
+]

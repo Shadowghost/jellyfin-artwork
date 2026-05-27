@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Erma-Film",
+    "country": "AT",
+    "headquarters": "Vienna",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2122"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

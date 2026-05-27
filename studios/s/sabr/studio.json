@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SABR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "251079"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

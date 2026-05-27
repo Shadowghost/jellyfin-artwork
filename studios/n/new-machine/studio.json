@@ -1,0 +1,13 @@
+[
+  {
+    "name": "New Machine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4069"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

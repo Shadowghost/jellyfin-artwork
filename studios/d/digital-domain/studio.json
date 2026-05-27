@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Digital Domain",
+    "description": "American visual effects and digital production company founded by James Cameron, Stan Winston, and Scott Ross.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.digitaldomain.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31825"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

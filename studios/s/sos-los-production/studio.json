@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sos-Los production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285826"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

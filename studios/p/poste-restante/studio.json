@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Poste Restante",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153108",
+        "logo_uri": "https://image.tmdb.org/t/p/original/saMtpazlBGBPh3SFjajs7MSGT5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "https://posterestante.hu/",
+    "headquarters": "Budapest",
+    "placeholder": true
+  }
+]

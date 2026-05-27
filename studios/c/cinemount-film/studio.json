@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinemount Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170601"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

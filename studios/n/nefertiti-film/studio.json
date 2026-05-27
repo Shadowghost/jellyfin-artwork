@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nefertiti Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "68131",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hNCfPQsVIxf7qmM0ffQcZOpmJTX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.nefertitifilm.it/",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

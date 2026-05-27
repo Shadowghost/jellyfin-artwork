@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sea Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200206"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

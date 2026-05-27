@@ -1,0 +1,17 @@
+[
+  {
+    "name": "eddy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91403",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a1vPtWR482znfPhGDufoarPv8p1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.eddy.tv",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

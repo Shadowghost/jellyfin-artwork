@@ -1,0 +1,28 @@
+[
+  {
+    "name": "ZDF/3sat",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "237290",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ybY4aLZxf7jcFDizkFTntgTjsQr.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "DE",
+    "template": true
+  }
+]

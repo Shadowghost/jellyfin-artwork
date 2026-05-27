@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Production Center of Andrei Konchalovsky",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "43051",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9CPz5qqPS0qbcU5CqoLIkIiqJST.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://www.pc.konchalovsky.ru/",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

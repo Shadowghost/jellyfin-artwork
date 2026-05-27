@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Aurum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70601"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

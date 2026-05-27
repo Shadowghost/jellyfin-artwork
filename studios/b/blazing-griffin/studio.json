@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Blazing Griffin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91387",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vPv6frwqFKqydMLFtoHdcYeUo5r.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://www.blazinggriffin.com",
+    "headquarters": "Glasgow, Scotland",
+    "placeholder": true
+  }
+]

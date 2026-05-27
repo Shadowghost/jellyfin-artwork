@@ -1,0 +1,17 @@
+[
+  {
+    "name": "REIRS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224124",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eu2otVrHFBMCk4UYp5ihOSjfOH6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.reirs.co.jp/",
+    "headquarters": "Nihonbashi, Chuo, Tokyo",
+    "placeholder": true
+  }
+]

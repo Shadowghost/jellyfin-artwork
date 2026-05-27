@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Enciende TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139900"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

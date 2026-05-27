@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Havelock Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106595",
+        "logo_uri": "https://image.tmdb.org/t/p/original/s7IV2zDIk7DZYZQeGJc63tOocSH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.havelockfilms.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

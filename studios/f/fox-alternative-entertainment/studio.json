@@ -1,0 +1,29 @@
+[
+  {
+    "name": "FOX Alternative Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156646",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lIymzqHrqgQNfJuFabS72mpqu3R.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "template": true
+  }
+]

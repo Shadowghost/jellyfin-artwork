@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PRPL",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72900",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1GjwC6BHLBrZMRYlPeKYT4IHmIb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "http://www.prpl.nl",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

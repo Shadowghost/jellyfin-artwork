@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Freemantle",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273671"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

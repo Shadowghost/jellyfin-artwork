@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Eurospot",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155158"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

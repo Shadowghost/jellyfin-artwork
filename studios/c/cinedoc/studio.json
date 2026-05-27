@@ -1,0 +1,13 @@
+[
+  {
+    "name": "cinedoc",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93077"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

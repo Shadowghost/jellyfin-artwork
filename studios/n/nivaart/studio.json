@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NivaArt",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "277116",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sB5eyPUOR9izO4I2tjer4gN4sDB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "headquarters": "Montreal, Québec",
+    "placeholder": true
+  }
+]

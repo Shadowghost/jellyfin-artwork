@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pro Wrestling Guerrilla",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42404",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7456ol5mDg2k7JBrGD9AFTBAGVt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://prowrestlingguerrilla.com/",
+    "headquarters": "Los Angeles, California, U.S.",
+    "placeholder": true
+  }
+]

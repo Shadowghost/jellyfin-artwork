@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Twisted Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218251",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mh5Z6DDAfCILkQn2BDwrcj5qMbA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

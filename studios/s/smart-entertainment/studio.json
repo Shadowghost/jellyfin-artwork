@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Smart Entertainment",
+    "country": "US",
+    "homepage": "http://smartentertainment.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "44783"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

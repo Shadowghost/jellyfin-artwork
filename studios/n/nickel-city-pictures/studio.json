@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nickel City Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110723",
+        "logo_uri": "https://image.tmdb.org/t/p/original/27Od860h9Xc7gDS3Pph6yRlUyBI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://nickelcitypictures.com",
+    "headquarters": "Beverly Hills, California",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "LivePhish",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249099",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5vULDTLJpCEfMC5h2gE3dwXrMWI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.livephish.com",
+    "placeholder": true
+  }
+]

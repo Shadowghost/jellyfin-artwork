@@ -1,0 +1,13 @@
+[
+  {
+    "name": "winstonepictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150058"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

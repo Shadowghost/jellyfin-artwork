@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Gotlands Filmfond",
+    "country": "SE",
+    "homepage": "http://www.gotlandsfilmfond.se/",
+    "headquarters": "Visby, Sweden",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8995"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

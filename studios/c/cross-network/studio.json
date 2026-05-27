@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cross Network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "227141"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Eranadan Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103582"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

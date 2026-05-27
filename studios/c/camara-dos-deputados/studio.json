@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Camara dos deputados",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289682"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

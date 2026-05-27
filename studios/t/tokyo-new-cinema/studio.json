@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tokyo New Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60388",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sSjUlhAd9H8DXGEprLrsyGzXKme.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://tokyonewcinema.com/",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

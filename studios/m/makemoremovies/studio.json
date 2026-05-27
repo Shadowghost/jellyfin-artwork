@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MakeMoreMovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80001"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

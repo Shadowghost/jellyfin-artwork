@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Inner City Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "64829"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://innercityfilms.com",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

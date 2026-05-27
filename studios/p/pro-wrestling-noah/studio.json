@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pro Wrestling NOAH",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141961",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4dLAvpipRELKffiuSSQGXp6e4iv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://noah.co.jp",
+    "headquarters": "Shinjuku, Tokyo, Japan",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Live Here Now",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108104",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dQzmHgklr4f3VxVtj15MhLpHXlc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.liveherenow.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

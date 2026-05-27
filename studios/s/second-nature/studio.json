@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Second Nature",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172676",
+        "logo_uri": "https://image.tmdb.org/t/p/original/11gihFqs2uerIhSIxGzD420vcFB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://sena.la",
+    "placeholder": true
+  }
+]

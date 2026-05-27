@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WiiBER",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224096",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kW39u61OcZmJ23jfysUxrhx7rV1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://wiiber.com/",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

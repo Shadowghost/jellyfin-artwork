@@ -1,0 +1,16 @@
+[
+  {
+    "name": "L'Illustroscope",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "207392",
+        "logo_uri": "https://image.tmdb.org/t/p/original/baBJ0oSM1ViNkmwKnEGbNPJPDOi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.illustroscope.com",
+    "placeholder": true
+  }
+]

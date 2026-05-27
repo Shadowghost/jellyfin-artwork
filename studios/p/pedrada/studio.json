@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pedrada",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250736",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hA3BeUNmQn5nntq6fOc7Tw46O7w.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "https://pedrada.pt/",
+    "headquarters": "Porto",
+    "placeholder": true
+  }
+]

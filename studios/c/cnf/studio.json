@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CNF",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104526",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j8CrXcUWcnhiVVpbNHailmTNg6b.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://www.cnf.ru/",
+    "placeholder": true
+  }
+]

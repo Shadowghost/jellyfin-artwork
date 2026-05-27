@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Tulip Television",
+    "description": "Japanese commercial television station serving Toyama Prefecture, affiliated with Japan News Network (JNN/TBS).",
+    "country": "JP",
+    "type": "broadcast-network",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Tulip Television Inc."
+    ],
+    "template": true
+  }
+]

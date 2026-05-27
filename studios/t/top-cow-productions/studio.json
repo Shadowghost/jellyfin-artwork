@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Top Cow Productions",
+    "country": "US",
+    "homepage": "https://topcow.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2528",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5OZP2dM6B6wBXfwadqk0TJBBPJP.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

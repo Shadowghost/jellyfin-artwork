@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Weather Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289486"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Filmarks",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167373",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pLcgG5jnXRgUhhyjpcfrjXP3jS3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://filmarks.com/",
+    "placeholder": true
+  }
+]

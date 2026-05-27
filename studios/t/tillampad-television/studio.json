@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tillämpad Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "236120",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gPKNBAg3TQ6kxw3wkbBbls9MUeJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://ttv.se/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

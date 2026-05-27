@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Chambre aux fresques",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129323",
+        "logo_uri": "https://image.tmdb.org/t/p/original/282TONGncZTe8FuI3R1gBgwpB1r.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://chambreauxfresques.com/",
+    "headquarters": "Pindray",
+    "placeholder": true
+  }
+]

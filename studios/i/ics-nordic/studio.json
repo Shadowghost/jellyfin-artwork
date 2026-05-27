@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ICS Nordic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "243776",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gSmqvtscVyORlpt1QEMhjrpHBNt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://icsnordic.com/",
+    "headquarters": "Tampere, Finland",
+    "placeholder": true
+  }
+]

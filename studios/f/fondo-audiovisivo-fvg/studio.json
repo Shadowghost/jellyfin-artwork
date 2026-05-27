@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fondo Audiovisivo FVG",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181576",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ymPyuyaX987UuTueWLMrZUslEgs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.audiovisivofvg.it/",
+    "headquarters": "Udine",
+    "placeholder": true
+  }
+]

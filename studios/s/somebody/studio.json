@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Somebody",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273999"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://somebody-tv.com",
+    "placeholder": true
+  }
+]

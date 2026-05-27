@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Audience Network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90492",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tmhbFiRpgJFSmza9GTQam8ICyHp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "El Segundo, California",
+    "placeholder": true
+  }
+]

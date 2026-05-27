@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Blockbuster Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86532"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

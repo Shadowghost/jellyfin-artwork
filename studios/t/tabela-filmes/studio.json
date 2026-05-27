@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tabela Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150291"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

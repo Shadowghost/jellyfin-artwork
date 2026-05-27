@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Finlandia Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111432"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "headquarters": "Helsinki, Finland",
+    "placeholder": true
+  }
+]

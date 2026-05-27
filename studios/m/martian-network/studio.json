@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Martian Network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271244",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lDDE8RswGAWt8XiikPlSs7HZCLQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://martian.network/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

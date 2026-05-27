@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Good Complex",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260327",
+        "logo_uri": "https://image.tmdb.org/t/p/original/72LhEAyy5Y2f9PZyjoLb5saEsaQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.goodcomplex.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Isabella Films B.V.",
+    "description": "Dutch independent film production company founded by Els Vandevorst, producing arthouse and international co-production films.",
+    "country": "NL",
+    "type": "production-company",
+    "homepage": "https://www.isabellafilms.com/",
+    "headquarters": "Amsterdam",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "814"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

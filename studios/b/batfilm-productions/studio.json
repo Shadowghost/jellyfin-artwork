@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Batfilm Productions",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "432"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

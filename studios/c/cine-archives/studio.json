@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ciné-Archives",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158166"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.cinearchives.org/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

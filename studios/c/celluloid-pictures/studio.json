@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Celluloid Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192623"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

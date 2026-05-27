@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Off Camera Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123789",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kSfI86pw0LxtWhflXxmX0V9fHNQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

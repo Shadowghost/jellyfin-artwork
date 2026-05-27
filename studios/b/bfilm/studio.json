@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BFILM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106250",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ecPjeP6WwC3wZXidVOgnIaREzXZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SK",
+    "homepage": "http://www.bfilm.sk",
+    "placeholder": true
+  }
+]

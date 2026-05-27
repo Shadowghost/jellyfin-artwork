@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mother Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49973",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vIrNgmSLK73dIvH9Mjd1SNl4Guu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.motherproduction.fr",
+    "placeholder": true
+  }
+]

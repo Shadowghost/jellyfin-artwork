@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Zona de Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197749"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

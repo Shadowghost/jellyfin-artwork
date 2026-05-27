@@ -1,0 +1,14 @@
+[
+  {
+    "name": "CIC Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101798",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5so4m14tTlqbHxRTElbJ4WRyvlv.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

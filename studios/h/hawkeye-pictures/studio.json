@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hawkeye Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51615",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7kRlmKnoTAS80v2xk3znsHKApVH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.hawkeyepicturesinc.com/",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

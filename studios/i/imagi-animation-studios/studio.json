@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Imagi Animation Studios",
+    "description": "Hong Kong-based computer animation studio known for TMNT (2007) and Astro Boy (2009).",
+    "country": "HK",
+    "type": "studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3463",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qaGJfosWnFh9Qs07iM6A5xcyYOt.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

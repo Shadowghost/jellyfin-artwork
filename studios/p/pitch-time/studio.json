@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pitch Time",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258046"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

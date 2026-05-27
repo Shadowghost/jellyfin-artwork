@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BUG FILMS",
+    "country": "JP",
+    "homepage": "https://www.bugfilms.jp/",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189810",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9iZClXWd6qYG4UCQbexGF2m1XRm.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

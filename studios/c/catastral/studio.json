@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Catastral",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "232853"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

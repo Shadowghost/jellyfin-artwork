@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cypress Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "57228"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

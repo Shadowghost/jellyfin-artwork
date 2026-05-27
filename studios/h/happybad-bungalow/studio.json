@@ -1,0 +1,17 @@
+[
+  {
+    "name": "HappyBad Bungalow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210611",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5qihNNDTXPNDNxTZxfvBpyFXP0B.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://happybadbungalow.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

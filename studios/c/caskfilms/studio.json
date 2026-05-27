@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CASKFILMS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220457",
+        "logo_uri": "https://image.tmdb.org/t/p/original/weP8nt6wjuAVfAZyq7kxmuL2JCK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.caskfilms.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

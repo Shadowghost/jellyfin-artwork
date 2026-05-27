@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DRAMAcube",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85312"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

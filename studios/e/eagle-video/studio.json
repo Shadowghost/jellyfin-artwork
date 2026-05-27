@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Eagle Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108427",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AtgKuC7ZtTJ2afYRkfz1XuJlvF1.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

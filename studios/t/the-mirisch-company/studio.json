@@ -1,0 +1,14 @@
+[
+  {
+    "name": "The Mirisch Company",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

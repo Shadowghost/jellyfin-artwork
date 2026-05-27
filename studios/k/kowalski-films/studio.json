@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kowalski Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13287",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q5O8pR0bgbYoCYrVYT2G0TodDC4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.kowalskifilms.es",
+    "headquarters": "Donostia-San Sebastián, Basque Country",
+    "placeholder": true
+  }
+]

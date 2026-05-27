@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ASK Kodansha",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "61695"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

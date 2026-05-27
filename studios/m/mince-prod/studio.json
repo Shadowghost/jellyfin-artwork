@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mince Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250056"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

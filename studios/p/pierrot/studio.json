@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pierrot",
+    "country": "JP",
+    "homepage": "http://pierrot.jp",
+    "headquarters": "Mitaka, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3234",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

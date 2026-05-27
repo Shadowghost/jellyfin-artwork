@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Eureka Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60206"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NS Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4161"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

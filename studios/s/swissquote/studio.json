@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Swissquote",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168421"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

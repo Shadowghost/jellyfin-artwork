@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Local Motion Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140511"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

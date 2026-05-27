@@ -1,0 +1,16 @@
+[
+  {
+    "name": "IndieFlip",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108780",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7iOFTFhE71V5KSncv07n2DVe6Ia.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://indieflipmedia.com",
+    "placeholder": true
+  }
+]

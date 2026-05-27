@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Citizen Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26784",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p3qLEuW57lelJkmC9TIuwIYgsg3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://citizenpictures.com/",
+    "headquarters": "Boulder, Colorado",
+    "placeholder": true
+  }
+]

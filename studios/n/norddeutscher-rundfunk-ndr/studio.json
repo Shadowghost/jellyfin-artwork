@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Norddeutscher Rundfunk",
+    "description": "Public broadcasting service for the German states of Lower Saxony, Hamburg, Schleswig-Holstein, and Mecklenburg-Vorpommern; member of the ARD network.",
+    "country": "DE",
+    "type": "broadcast-network",
+    "homepage": "https://www.ndr.de",
+    "headquarters": "Hamburg",
+    "colors": [
+      {
+        "name": "NDR Blue",
+        "hex": "#003C8C"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7201",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ljV8ZT3CIYCEIEDlTyBliXJVCZr.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

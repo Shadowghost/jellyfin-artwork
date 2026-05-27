@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Duende Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46209",
+        "logo_uri": "https://image.tmdb.org/t/p/original/z1NBFpH6cJX19JcRdJBRGUX7Jse.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.duendepictures.com/",
+    "headquarters": "New York, New York",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "IRAQI CINEMA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153953",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8pepa1EwGLG8Y4XVpPE9ZNFAeXG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IQ",
+    "homepage": "https://iraqicinema.net",
+    "headquarters": "Baghdad, Iraq",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Shine America",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215547",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bLfxRVYgDEFMPI5G2Kwezw3YsOr.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

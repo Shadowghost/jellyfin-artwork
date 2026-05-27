@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Air Control",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102163",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fKEGDG3GbOacDo8Kzg2rv6Sznnu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.i-dol.tv",
+    "placeholder": true
+  }
+]

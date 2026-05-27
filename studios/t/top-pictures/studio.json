@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Top Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91148"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

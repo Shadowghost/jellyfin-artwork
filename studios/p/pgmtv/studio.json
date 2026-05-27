@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PGMTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113176",
+        "logo_uri": "https://image.tmdb.org/t/p/original/41Gbfgy1FdfLMdWMDXivFqxwX8x.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.pgmtv.co.uk",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

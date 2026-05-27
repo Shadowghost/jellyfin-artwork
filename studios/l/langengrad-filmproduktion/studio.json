@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Längengrad Filmproduktion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202824",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gkj3e6MCak2O9jJQFsulNNZsHMM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.laengengrad-filmproduktion.de/",
+    "headquarters": "Cologne",
+    "placeholder": true
+  }
+]

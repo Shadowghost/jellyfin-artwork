@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SentArte",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200032"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

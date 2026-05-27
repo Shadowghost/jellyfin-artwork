@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Champion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10526"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

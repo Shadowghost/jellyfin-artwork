@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dinosaures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233504",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h91n9ew4hjjqm3mEPqxrKdK5Bvj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://dinosaures-sarl.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

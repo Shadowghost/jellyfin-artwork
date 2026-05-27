@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Films Populaires",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63574"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

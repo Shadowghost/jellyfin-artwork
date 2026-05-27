@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Magic Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "47178",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xAM2F6X6hMST98md6TsXIe2YFTM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.magicfilms.us/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

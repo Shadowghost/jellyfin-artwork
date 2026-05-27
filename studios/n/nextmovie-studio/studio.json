@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nextmovie Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100315"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

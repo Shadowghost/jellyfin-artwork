@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Wolf Entertainment",
+    "country": "GB",
+    "homepage": "https://www.wolf-entertainment.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155503"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

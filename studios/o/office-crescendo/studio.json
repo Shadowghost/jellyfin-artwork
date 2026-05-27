@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Office Crescendo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14625",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kgDY8gC5UQ33IHDRTrheMfNsvXg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.crescendo.co.jp/",
+    "placeholder": true
+  }
+]

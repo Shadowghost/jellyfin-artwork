@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Panoptikon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160100"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

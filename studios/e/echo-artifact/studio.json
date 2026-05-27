@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Echo Artifact",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223903"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

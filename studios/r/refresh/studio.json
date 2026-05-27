@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Refresh",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89813"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Oinc Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245629"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

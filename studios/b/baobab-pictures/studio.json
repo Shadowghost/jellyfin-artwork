@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Baobab Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239475",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9V7tq7a5wCK6dHc4NoM6QKKyrY7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KE",
+    "homepage": "https://baobab-pictures.com/",
+    "placeholder": true
+  }
+]

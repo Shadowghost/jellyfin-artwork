@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ZAP! Factory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270926"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

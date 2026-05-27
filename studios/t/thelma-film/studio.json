@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Thelma Film",
+    "country": "CH",
+    "homepage": "http://thelmafilm.ch",
+    "headquarters": "Undervelier, Switzerland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8472",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1W54BW7b0KZW0QoU55OPr9Sjde5.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

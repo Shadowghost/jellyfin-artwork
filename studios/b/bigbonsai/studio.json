@@ -1,0 +1,16 @@
+[
+  {
+    "name": "bigBonsai",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183537",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wv8kWm0K6v8JEwXI8N6Nfgto1fd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.bigbonsai.com.br/",
+    "placeholder": true
+  }
+]

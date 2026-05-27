@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Les Films Hatari",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15530",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lmuCG8tJjtTueFouWvcig3OpwT1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

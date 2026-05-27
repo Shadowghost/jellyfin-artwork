@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les films du Bocal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "268225"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

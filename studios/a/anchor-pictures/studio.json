@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Anchor Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191390",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dBe2vNTiC5mQXKyef7yBI5jSTE1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://anchorpictures.com",
+    "headquarters": "Portland, OR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FLX",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25297",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eBEOs6T0nVa8RKWmZbBWIvc4daL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://flx.se/",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

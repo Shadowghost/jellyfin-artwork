@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Liberty University",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27611",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zNHdTKhGdjll7W0YcYgrMOxm7mc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

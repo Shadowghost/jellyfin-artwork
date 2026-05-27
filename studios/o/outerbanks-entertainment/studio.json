@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Outerbanks Entertainment",
+    "description": "American television production company founded by Kevin Williamson, known for Dawson's Creek, The Vampire Diaries, and The Following.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2180",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gWKrSLAo06z8IDvP1WemvbvDwtB.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

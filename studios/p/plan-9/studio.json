@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Plan 9",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125614",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qKgQZkGs9fwcw3yRFDtqiYPApRL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://plan9.ru/ru/",
+    "placeholder": true
+  }
+]

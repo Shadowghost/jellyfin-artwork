@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Equipo Tierra",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220045",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vs8J6Cfb2oqPxd5vQENFzUrTx5v.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://equipotierra.myportfolio.com",
+    "headquarters": "Rosario, Argentina",
+    "placeholder": true
+  }
+]

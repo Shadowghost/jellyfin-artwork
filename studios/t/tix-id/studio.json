@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TIX ID",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264227",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8U8KGisydLYcYGgV399Wn1ZQNwb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "homepage": "https://www.tix.id",
+    "placeholder": true
+  }
+]

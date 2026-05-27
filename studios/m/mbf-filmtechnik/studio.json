@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MBF Filmtechnik",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16710",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ntnfNBFYBlkwHEanCOEKexyoxvO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://mbf.de/en",
+    "placeholder": true
+  }
+]

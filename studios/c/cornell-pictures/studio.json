@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cornell Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13783"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

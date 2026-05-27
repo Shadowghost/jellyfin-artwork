@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bighit Music",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "288111",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fJOljiPejLyT9IS6oprDpbhMhg7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://ibighit.com",
+    "headquarters": "Yongsan, Seoul",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SRS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88052"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

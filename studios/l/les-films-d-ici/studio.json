@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films d'Ici",
+    "country": "FR",
+    "homepage": "http://www.lesfilmsdici.fr",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76921",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dkPpGhEL2uQ5bmNDAqSZRFp894g.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

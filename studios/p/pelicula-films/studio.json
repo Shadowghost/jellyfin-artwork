@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Pelicula Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46965"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "headquarters": "Glasgow, Scotland",
+    "placeholder": true
+  }
+]

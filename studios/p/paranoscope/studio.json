@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Paranoscope",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "259004"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

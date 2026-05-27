@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Les Films de Mon Oncle",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95150"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://jacques-tati.com/fmo/",
+    "placeholder": true
+  }
+]

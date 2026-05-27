@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Foro Shakespeare",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127807"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

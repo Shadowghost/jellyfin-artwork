@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Argo Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74786",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6nvsBCFjBi7ExgArmw05tUw9YpL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BG",
+    "homepage": "https://argofilm.eu/",
+    "headquarters": "Sofia",
+    "placeholder": true
+  }
+]

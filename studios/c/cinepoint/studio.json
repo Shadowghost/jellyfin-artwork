@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cinepoint",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133292"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://cinepoint.cz/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

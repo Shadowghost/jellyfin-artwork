@@ -1,0 +1,13 @@
+[
+  {
+    "name": "In-scram",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87527"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

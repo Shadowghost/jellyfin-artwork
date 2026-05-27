@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fisuals",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220205",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3h7XROTvchTlzNPT5t8ZCTCUS6b.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://fisuals.com/",
+    "headquarters": "Rotterdam",
+    "placeholder": true
+  }
+]

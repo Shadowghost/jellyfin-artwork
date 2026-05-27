@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tiki Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9153"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

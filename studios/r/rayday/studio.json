@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Rayday",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100002"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

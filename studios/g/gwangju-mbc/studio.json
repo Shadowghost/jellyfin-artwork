@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gwangju MBC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197428",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aUc8yZ4Lh7eQCJBcKu5Eey6gu7c.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://kjmbc.co.kr/",
+    "headquarters": "Nam, Gwangju, South Korea",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "name": "XL Recordings",
+    "description": "British independent record label founded in 1989, home to artists including Adele, The Prodigy, Radiohead, and The xx.",
+    "country": "GB",
+    "type": "record-label",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98719"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

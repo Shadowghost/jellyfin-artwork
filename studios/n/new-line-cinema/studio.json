@@ -1,0 +1,16 @@
+[
+  {
+    "name": "New Line Cinema",
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2ycs64eqV5rqKYHyQK0GVoKGvfX.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

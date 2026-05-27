@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ChevalDeuxTrois",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83960",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g05tvJBUn60CxdF0bSxTi2XTDej.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://chevaldeuxtrois.com",
+    "headquarters": "Boulogne Billancourt, France",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "RedPeter Films",
+    "country": "KR",
+    "headquarters": "Mapo, Seoul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103875",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b4VEWBV2hgvrXts7VlAcnkZTLwM.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

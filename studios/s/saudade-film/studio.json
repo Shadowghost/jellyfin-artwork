@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Saudade Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122665",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rZx57tohH5JcRZuH4iJJbJBaHIS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://saudadefilm.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

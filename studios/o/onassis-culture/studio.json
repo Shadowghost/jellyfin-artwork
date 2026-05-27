@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Onassis Culture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187189",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b8VsxJSjrPfnyR7XYPmRRhDjZn7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GR",
+    "homepage": "https://www.onassis.org/culture/onassis-culture",
+    "headquarters": "Athens",
+    "placeholder": true
+  }
+]

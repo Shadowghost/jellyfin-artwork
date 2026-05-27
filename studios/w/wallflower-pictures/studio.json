@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Wallflower Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202412"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

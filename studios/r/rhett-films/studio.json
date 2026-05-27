@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Rhett Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230737",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xtpvWrqaHYXV02BT9bXAJnh4Abt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

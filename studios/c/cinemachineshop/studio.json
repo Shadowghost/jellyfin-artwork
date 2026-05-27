@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinemachineshop",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238334",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ro2InZqG15MJqjZiqiv069T9iYQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.cinemachineshop.com/",
+    "headquarters": "Dallas, Texas",
+    "placeholder": true
+  }
+]

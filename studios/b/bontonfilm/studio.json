@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bontonfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29079",
+        "logo_uri": "https://image.tmdb.org/t/p/original/syD6xJ3GjYaaQYaFetG8zuYyuv6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.bontonfilm.cz/",
+    "headquarters": "Prague, Czech Republic",
+    "placeholder": true
+  }
+]

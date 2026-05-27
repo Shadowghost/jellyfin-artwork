@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Love Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150104"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

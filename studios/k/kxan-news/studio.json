@@ -1,0 +1,13 @@
+[
+  {
+    "name": "KXAN News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264512"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

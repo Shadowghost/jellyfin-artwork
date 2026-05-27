@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nostalgie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189251",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xdN6NqKaltfWZ9T1iuGz1QTppVd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.nostalgie.fr/",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

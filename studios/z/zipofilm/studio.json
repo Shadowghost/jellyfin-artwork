@@ -1,0 +1,13 @@
+[
+  {
+    "name": "zipofilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42525"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

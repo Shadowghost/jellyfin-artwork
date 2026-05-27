@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Radiant Film",
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

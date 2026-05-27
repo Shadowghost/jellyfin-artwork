@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Peninsula Films",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "682"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Dark Horse Cinemas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105460",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9Z54bgOdzFvUF5S5oAlc96vDUJh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

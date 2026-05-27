@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wondery",
+    "country": "US",
+    "homepage": "https://wondery.com",
+    "headquarters": "West Hollywood, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158303",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5moUKtjrLuFa27rh0WxHJgc9m9Q.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

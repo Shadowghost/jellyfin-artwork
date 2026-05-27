@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Hi-Tops Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97517",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1Op0Wmfjw0eUHGtTm6CNpOwMT5l.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Acqua alta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154477",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uw6Np5YIvmBTTPvPWHsRbK2YssB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.acquaalta.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

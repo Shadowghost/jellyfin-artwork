@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MJÖLK Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85769",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4ZUokeiAx9bzuXEWy7nzboLicMl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "http://mjolkmovies.com/",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

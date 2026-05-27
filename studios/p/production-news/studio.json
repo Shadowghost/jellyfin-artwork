@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Production News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166197"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

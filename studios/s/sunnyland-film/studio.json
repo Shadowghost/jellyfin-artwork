@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sunnyland Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122613",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9czdZVht6AV7ziI5ARzFnIctNkw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CY",
+    "homepage": "https://sunnylandfilm.com/",
+    "headquarters": "Limassol",
+    "placeholder": true
+  }
+]

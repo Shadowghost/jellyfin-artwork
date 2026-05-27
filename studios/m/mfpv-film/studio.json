@@ -1,0 +1,15 @@
+[
+  {
+    "name": "MFPV Film",
+    "country": "DE",
+    "headquarters": "Schönefeld",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

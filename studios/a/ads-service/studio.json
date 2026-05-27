@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ADS Service",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133076"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

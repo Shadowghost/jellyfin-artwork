@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SBT Brasília",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198963",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xpGlZAB62OqJFZd1CX47TcsZlVS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.sbt.com.br/brasilia/",
+    "headquarters": "Brasília, Distrito Federal, Brazil",
+    "placeholder": true
+  }
+]

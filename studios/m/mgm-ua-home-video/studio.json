@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MGM/UA Home Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209296",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iHZaGS8QdjKamuSpzwsXREDMCmQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Santa Monica, California",
+    "placeholder": true
+  }
+]

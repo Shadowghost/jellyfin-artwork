@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Patron Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233511",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6HTVr5cMscDFqwst6y1GsCbGXTW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

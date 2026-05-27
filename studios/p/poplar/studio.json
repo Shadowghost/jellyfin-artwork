@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Poplar",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172748",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jCy6vJN1QCrWsxmIfdoGcM0p3nj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.poplar.co.jp/",
+    "placeholder": true
+  }
+]

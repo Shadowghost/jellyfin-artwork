@@ -1,0 +1,16 @@
+[
+  {
+    "name": "One Cool Films",
+    "country": "HK",
+    "homepage": "http://www.onecool.com",
+    "headquarters": "Hong Kong",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69437"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

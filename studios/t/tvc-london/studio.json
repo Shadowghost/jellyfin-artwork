@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TVC London",
+    "country": "GB",
+    "headquarters": "London",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15255",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nLeEbOEZ3weAyc0P1HQ83dosLV4.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

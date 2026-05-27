@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Atelier de Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157827",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lf6crBOcMKMskOPu7H5L5IGHRFg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "homepage": "https://www.atelier-de-film.ro/",
+    "headquarters": "Bucharest",
+    "placeholder": true
+  }
+]

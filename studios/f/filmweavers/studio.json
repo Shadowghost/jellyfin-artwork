@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmweavers",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210299"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

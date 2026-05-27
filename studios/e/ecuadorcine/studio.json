@@ -1,0 +1,13 @@
+[
+  {
+    "name": "EcuadorCine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115880"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

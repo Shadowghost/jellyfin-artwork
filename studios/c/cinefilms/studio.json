@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CineFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24282"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

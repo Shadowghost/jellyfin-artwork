@@ -1,0 +1,29 @@
+[
+  {
+    "name": "DIY Network",
+    "description": "American cable channel focused on home improvement and do-it-yourself projects; replaced by Magnolia Network in 2022.",
+    "country": "US",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148918"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

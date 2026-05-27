@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Look at Sciences",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76117",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6GBfBiE0nz6kgkNdTku3ls8ZYii.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://site.lookatsciences.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "madfilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "261495"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

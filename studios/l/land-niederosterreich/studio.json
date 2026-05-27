@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Land Niederösterreich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39826",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sHXIoQPN8MAK2lMA5426AzHd2ek.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "https://www.noe.gv.at/",
+    "headquarters": "St. Pölten",
+    "placeholder": true
+  }
+]

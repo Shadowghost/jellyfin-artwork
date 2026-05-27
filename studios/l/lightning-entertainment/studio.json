@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lightning Entertainment",
+    "country": "US",
+    "homepage": "https://lightning-ent.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3256",
+        "logo_uri": "https://image.tmdb.org/t/p/original/46DvwRN1HzydHqQo2Wx01YzMXMi.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

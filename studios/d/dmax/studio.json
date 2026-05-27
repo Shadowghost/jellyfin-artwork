@@ -1,0 +1,15 @@
+[
+  {
+    "name": "DMAX",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4471",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sekWRXrSt31ZKIlE5tRwY8GA0YU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

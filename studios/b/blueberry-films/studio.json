@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Blueberry Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60501"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

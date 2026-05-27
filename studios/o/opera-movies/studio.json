@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Opera Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90817"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "headquarters": "Kolkata, West Bengal",
+    "placeholder": true
+  }
+]

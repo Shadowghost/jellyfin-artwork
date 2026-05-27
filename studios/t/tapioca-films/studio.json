@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Tapioca Films",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12000"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

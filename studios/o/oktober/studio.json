@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Oktober",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7079",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m4er9bvkoHHgELav4HPgMDlq3MP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "http://oktober.fi/",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

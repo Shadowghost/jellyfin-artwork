@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FunMeter",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171222",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Al6vKedRp0sCmOPCfC61IQeDfCs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.funmetermedia.com/",
+    "headquarters": "Sacramento, California",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nintendo of America",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "279795",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3pfeJAKmVMkgNBklqxq9YljGilf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.nintendo.com/us",
+    "headquarters": "Redmond, Washington",
+    "placeholder": true
+  }
+]

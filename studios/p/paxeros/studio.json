@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Paxeros",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134572",
+        "logo_uri": "https://image.tmdb.org/t/p/original/scMrYmBZyHjx0zz6yUHciFh0Pbo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.paxeros.co",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

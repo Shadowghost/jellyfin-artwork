@@ -1,0 +1,13 @@
+[
+  {
+    "name": "KS2 Cinéma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23000"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

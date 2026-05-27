@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Delphine Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185464",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nQmA9iM0nsVdB386wxqCYHyUMy0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.delphinefilms.com/",
+    "headquarters": "Arcadia",
+    "placeholder": true
+  }
+]

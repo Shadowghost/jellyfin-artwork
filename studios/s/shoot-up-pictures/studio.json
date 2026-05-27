@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Shoot Up Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111149"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

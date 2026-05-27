@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SRG Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180291"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

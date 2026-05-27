@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Artiflix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210720"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

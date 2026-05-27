@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Synchro Image",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "64021"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

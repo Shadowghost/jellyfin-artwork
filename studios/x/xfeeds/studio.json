@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Xfeeds",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234243"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

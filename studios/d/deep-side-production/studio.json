@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Deep Side Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7133",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fEZKg40QDm0CjA2FeDFXArJmzfv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.deepside.cz",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

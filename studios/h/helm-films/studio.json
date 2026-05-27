@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Helm Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233245"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

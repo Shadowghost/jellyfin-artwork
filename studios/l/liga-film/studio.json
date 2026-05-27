@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Liga-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144483"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

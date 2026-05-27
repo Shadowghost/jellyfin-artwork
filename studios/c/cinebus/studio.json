@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CINEBUS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211305"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Vacek-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21302"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

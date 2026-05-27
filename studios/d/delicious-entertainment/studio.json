@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Delicious Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199346",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o8es7fgN20VqszJhfb6IeXEeUQ8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

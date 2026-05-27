@@ -1,0 +1,17 @@
+[
+  {
+    "name": "uFilm",
+    "country": "BE",
+    "homepage": "https://www.umedia.eu/production/",
+    "headquarters": "Bruxelles, Belgique",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8676",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5u4GmXn4QMU39GQxGZoGfNtQ23r.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

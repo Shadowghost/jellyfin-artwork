@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Left/Right",
+    "country": "US",
+    "homepage": "https://leftright.tv/",
+    "headquarters": "New York City",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35713",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hDWeo4RKwI6JjRLwHg9dVdaRHbd.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

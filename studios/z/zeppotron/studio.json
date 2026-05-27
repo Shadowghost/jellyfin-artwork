@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zeppotron",
+    "country": "GB",
+    "homepage": "https://www.zeppotron.com",
+    "headquarters": "London, UK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18663",
+        "logo_uri": "https://image.tmdb.org/t/p/original/khiCshsZBdtUUYOr4VLoCtuqCEq.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

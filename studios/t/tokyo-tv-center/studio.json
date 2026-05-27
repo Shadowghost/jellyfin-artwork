@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Tokyo TV Center",
+    "country": "JP",
+    "homepage": "http://www.telecen.ne.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151001"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sciencefilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119249"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

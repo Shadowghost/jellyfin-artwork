@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Mandalay Entertainment",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1236",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xkxmDvj3JKohTqHB7QZZIhAqSS2.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

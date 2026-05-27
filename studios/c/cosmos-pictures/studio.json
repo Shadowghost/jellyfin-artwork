@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cosmos Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250904",
+        "logo_uri": "https://image.tmdb.org/t/p/original/meLk2PMFeXyUqiYzdVjXWOgoAS4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.cosmos-eizou.com",
+    "placeholder": true
+  }
+]

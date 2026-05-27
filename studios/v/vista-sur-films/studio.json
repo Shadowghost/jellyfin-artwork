@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vista Sur Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92248",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7FXFnpWBSsEUcWqNiZNPLMO5rUi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://vistasurfilms.com.ar/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

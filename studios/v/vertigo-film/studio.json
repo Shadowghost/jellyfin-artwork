@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vertigo Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13586",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p1USwYCAPW7A7Lt6SZmgxr87Pmu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.vertigofilm.it",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

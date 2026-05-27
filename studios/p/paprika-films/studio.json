@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Paprika Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11010",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lNGhXPAxxNSMHgdJLm2Qu0yTJZR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.paprikafilms.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

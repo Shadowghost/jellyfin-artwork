@@ -1,0 +1,15 @@
+[
+  {
+    "name": "RTL Play",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264002"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "http://rtlplay.be",
+    "placeholder": true
+  }
+]

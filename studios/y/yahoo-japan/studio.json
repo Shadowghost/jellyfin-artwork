@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Yahoo! Japan",
+    "description": "Japanese internet company operating Japan's largest web portal; occasionally a production committee member or distributor for film and anime properties.",
+    "country": "JP",
+    "type": "other",
+    "colors": [
+      {
+        "name": "Yahoo Japan Red",
+        "hex": "#FF0033"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7542",
+        "logo_uri": "https://image.tmdb.org/t/p/original/15mlqcBV6kxXSUbPvqxpeMMtzae.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

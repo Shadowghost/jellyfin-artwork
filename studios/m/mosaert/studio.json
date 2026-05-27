@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mosaert",
+    "country": "BE",
+    "homepage": "https://mosaert.com/",
+    "headquarters": "Brussels, Belgium",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117922",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2DHyThmEVnsD4pHFDAva0BXINk5.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

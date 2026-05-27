@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cattleya",
+    "country": "IT",
+    "homepage": "https://www.cattleya.it/",
+    "headquarters": "Rome",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10102",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hdJq0LbqmBx6FJqnfTtfqvAsAkV.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

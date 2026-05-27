@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Movement Content",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "292212",
+        "logo_uri": "https://image.tmdb.org/t/p/original/brMW0DcTmk25LYi9rApSNemoG1j.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.movementcontent.com/",
+    "headquarters": "Seattle, Washington",
+    "placeholder": true
+  }
+]

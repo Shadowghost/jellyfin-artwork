@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Back2Back Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226928"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

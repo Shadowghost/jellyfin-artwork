@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine Arte",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77215"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Moon Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240646"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

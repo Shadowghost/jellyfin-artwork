@@ -1,0 +1,13 @@
+[
+  {
+    "name": "kindle films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144321"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Wildwood Enterprises",
+    "country": "US",
+    "headquarters": "Provo, Utah",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "316",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AjLnvitW6m0n1wp3ElezITDDb4x.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

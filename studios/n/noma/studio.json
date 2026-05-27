@@ -1,0 +1,17 @@
+[
+  {
+    "name": "noma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "254498",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1F8w8HaiATpFJW1iveiLaIyBUNh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://noma.dk/",
+    "headquarters": "Copenhagen",
+    "placeholder": true
+  }
+]

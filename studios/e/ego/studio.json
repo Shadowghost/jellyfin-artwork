@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ego",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250309"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

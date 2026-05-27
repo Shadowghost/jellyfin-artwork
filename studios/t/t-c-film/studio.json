@@ -1,0 +1,17 @@
+[
+  {
+    "name": "T&C Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5414",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n4en5473XwdNOmu1BmlCXDzPGGL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "http://tcfilm.ch/?lang=en",
+    "headquarters": "Zurich",
+    "placeholder": true
+  }
+]

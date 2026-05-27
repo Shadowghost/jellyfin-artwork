@@ -1,0 +1,16 @@
+[
+  {
+    "name": "RIZIN Fighting Federation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245969",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uQ1P4jxiRaKMTfXWYTm5rbEVICf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://jp.rizinff.com",
+    "placeholder": true
+  }
+]

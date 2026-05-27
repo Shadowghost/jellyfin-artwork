@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Hostel",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17793"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

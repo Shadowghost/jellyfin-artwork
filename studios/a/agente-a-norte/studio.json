@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Agente a Norte",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71559",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dCDwVJ09QgljteIEyUIE6Jts0ft.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "https://agenteanorte.com/",
+    "headquarters": "Porto",
+    "placeholder": true
+  }
+]

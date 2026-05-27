@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gigi Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7499",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wz3wmwDfoVomvWFAoSKFGMvmVUe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.gigifilms.net",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

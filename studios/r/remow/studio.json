@@ -1,0 +1,16 @@
+[
+  {
+    "name": "REMOW",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202952",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1lkaaSq1FCx1KtnFuGcAYV7zHRy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.remow.com/en/",
+    "placeholder": true
+  }
+]

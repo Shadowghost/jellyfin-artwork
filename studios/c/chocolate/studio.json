@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CHOCOLATE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153765",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aOXLMR1DZF0pgY7gKMVORdHECO4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://chocolate-inc.com/",
+    "headquarters": "Jingumae, Shibuya, Tokyo",
+    "placeholder": true
+  }
+]

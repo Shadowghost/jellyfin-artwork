@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ExitFactory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105756"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "placeholder": true
+  }
+]

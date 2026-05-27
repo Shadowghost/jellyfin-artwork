@@ -1,0 +1,35 @@
+[
+  {
+    "name": "VIZ Media",
+    "description": "American manga publisher and anime distributor based in San Francisco, licensing properties such as Naruto, One Piece, and Bleach for North America.",
+    "country": "US",
+    "type": "publisher",
+    "homepage": "https://www.viz.com",
+    "headquarters": "San Francisco, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6687",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qEypYzIjq1XfcD5tXuGPULyPSz3.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Viz Media"
+    ],
+    "template": true
+  }
+]

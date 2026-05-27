@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Discovery Network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250920"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

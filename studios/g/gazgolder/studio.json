@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Gazgolder",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113473",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jSq0GAhsXGsFUnNsc7NbphwOJVW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://gazgolder.com/",
+    "placeholder": true
+  }
+]

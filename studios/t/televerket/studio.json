@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Televerket",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264993",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5ZiYsxV314Oy7Qz8cb8S3OSMI6H.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

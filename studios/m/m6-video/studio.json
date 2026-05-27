@@ -1,0 +1,16 @@
+[
+  {
+    "name": "M6 Vidéo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119833",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cJcmhzj0YXpqq1nckP9r9Nqukxb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Neuilly-sur-Seine",
+    "placeholder": true
+  }
+]

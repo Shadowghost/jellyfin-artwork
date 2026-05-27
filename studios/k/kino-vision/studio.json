@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Kino Visión",
+    "country": "ES",
+    "headquarters": "Madrid, Spain",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "353"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

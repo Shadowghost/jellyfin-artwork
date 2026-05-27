@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hong Kong Police Force",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "268395",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1opY69vbPFMZLoFKyHWKbc2a0q5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HK",
+    "homepage": "https://www.police.gov.hk/ppp_en/index.html",
+    "headquarters": "Wan Chai, Hong Kong SAR, China",
+    "placeholder": true
+  }
+]

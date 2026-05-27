@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Annonce",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6063"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

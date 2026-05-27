@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Perimeter Institute",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113333",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8sfz5FGnOnJf4fL0EqP009kKMNz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.perimeterinstitute.ca",
+    "headquarters": "Waterloo, Ontario",
+    "placeholder": true
+  }
+]

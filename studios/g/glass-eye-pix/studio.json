@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Glass Eye Pix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1360",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lqVvISZwlXQpEl27erWszcPdPsR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://glasseyepix.com/",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

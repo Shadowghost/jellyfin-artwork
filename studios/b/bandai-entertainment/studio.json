@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Bandai Entertainment",
+    "description": "American anime licensing and distribution arm of Bandai (later Bandai Namco), which ceased new acquisitions in 2012; the global parent Bandai Namco Entertainment continues operations.",
+    "country": "US",
+    "type": "distributor",
+    "headquarters": "Cypress, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120107",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i3ORj2fTuLWigiqIop3OB1bklkh.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

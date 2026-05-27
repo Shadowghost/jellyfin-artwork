@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cinema General Enterprise (CGE)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283234"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

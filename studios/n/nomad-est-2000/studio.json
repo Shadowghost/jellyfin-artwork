@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NOMAD Est.2000",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238448",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oshDcc6w5lge2hzba2esTqnmVdu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CM",
+    "homepage": "https://www.nomadpfr.com/",
+    "headquarters": "Yaoundé",
+    "placeholder": true
+  }
+]

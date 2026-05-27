@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Prospero Pictures",
+    "country": "CA",
+    "homepage": "http://prosperopictures.com",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2844",
+        "logo_uri": "https://image.tmdb.org/t/p/original/80lJ1OQzjWXI99Hj1VgUO3vu2qi.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

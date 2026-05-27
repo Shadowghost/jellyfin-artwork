@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Europictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80296"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.europictures.it/",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

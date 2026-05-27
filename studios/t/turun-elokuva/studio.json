@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Turun Elokuva",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241731"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "placeholder": true
+  }
+]

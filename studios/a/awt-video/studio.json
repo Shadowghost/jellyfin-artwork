@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AWT Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129550"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

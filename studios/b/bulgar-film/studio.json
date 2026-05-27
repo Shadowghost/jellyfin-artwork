@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Bulgar Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "268814"
+      }
+    ],
+    "artwork": {},
+    "country": "BG",
+    "placeholder": true
+  }
+]

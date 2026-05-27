@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NoBul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250220"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

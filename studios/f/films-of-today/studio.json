@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Films of Today",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106434"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

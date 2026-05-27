@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Durandal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "246707",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iIv6uIPmYjBErJC2C7Jmhwq458V.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://durandal.amebaownd.com/",
+    "placeholder": true
+  }
+]

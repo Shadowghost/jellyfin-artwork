@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Yellow Fish",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10632"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "placeholder": true
+  }
+]

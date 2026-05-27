@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ArtCam",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75290"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

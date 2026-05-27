@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Visagem Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191479",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dKHkoyib7SgfsAVOsxzybvcX2HY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://visagemfilmes.com/",
+    "placeholder": true
+  }
+]

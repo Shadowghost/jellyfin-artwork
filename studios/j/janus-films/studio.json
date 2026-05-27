@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Janus Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "533",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yhjt5QW0JINvDPwdMBDMYnvlMKF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.janusfilms.com/",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

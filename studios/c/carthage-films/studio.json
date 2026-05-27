@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Carthage Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120905"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

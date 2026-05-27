@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sepia Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10969",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hosgwAUsiimlKgxvE42NRMNa107.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://sepiafilms.com",
+    "headquarters": "Vancouver, British Columbia",
+    "placeholder": true
+  }
+]

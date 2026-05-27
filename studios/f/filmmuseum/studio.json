@@ -1,0 +1,13 @@
+[
+  {
+    "name": "filmmuseum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100955"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

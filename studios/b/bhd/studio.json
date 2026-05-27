@@ -1,0 +1,15 @@
+[
+  {
+    "name": "BHD",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "132392",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f52cbQOuWYN50jyecHKyh5GwT0N.png"
+      }
+    ],
+    "artwork": {},
+    "country": "VN",
+    "placeholder": true
+  }
+]

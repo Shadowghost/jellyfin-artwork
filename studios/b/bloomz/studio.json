@@ -1,0 +1,15 @@
+[
+  {
+    "name": "BloomZ",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216348",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l76UCmADuKLBIgswFDCdvAZBtUD.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

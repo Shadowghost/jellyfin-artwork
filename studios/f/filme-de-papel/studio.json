@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Filme de Papel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38224"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

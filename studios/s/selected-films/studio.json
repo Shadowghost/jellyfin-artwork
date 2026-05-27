@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Selected Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123735"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

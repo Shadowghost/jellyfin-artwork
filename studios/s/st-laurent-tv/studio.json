@@ -1,0 +1,17 @@
+[
+  {
+    "name": "St Laurent TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112160",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vxN4VCVHXBcLfUIvAGu0SzgffUM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://stlaurent.tv",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

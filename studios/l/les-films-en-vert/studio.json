@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les films en vert",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "235919"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

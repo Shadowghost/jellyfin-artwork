@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Manga Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112527",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wpaRrxZh71XzD9KWVBPLKmI0rez.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SA",
+    "homepage": "http://manga.com.sa",
+    "placeholder": true
+  }
+]

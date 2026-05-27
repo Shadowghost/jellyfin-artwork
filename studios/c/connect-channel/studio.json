@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Connect Channel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175325"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

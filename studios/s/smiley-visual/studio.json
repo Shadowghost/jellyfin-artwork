@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Smiley Visual",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274550"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

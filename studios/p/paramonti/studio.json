@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Paramonti",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138412",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l5np5VnhpR0YJfVbmgNcZoz1Wio.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.paramonti.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

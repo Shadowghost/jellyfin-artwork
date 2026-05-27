@@ -1,0 +1,17 @@
+[
+  {
+    "name": "National Theatre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16355",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tWuPpLrD2urqKPXIit4VLTHWvgK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.nationaltheatre.org.uk",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

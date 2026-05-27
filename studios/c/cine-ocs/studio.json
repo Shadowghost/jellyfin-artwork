@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Cine+ OCS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234479",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hoHN2AyxgZ0XCF6gvSBEk57nzjd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

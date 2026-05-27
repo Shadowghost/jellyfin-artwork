@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SP production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "294619"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

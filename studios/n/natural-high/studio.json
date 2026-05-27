@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Natural High",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127233",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wdiJp7nRvfnG3FHvOf4fTPrQE3V.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.naturalhigh.co.jp",
+    "placeholder": true
+  }
+]

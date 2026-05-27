@@ -1,0 +1,13 @@
+[
+  {
+    "name": "WeatherHunters",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "288983"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

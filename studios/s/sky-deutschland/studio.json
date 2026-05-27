@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sky Deutschland",
+    "country": "DE",
+    "homepage": "http://www.sky.de",
+    "headquarters": "Unterföhring",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62274",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1CN2IC17eLZZWV13X2rO4304dGG.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

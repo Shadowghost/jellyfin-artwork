@@ -1,0 +1,14 @@
+[
+  {
+    "name": "AM Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24189"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

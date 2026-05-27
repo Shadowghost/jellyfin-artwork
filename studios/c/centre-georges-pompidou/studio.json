@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Centre Georges Pompidou",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12998",
+        "logo_uri": "https://image.tmdb.org/t/p/original/naSCIDEqnFuEttggDVgZIMtgxzz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.centrepompidou.fr/",
+    "headquarters": "Centre Georges Pompidou, Place Georges-Pompidou, 75004 Paris, france",
+    "placeholder": true
+  }
+]

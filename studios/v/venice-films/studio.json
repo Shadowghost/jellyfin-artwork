@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Venice Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72381"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

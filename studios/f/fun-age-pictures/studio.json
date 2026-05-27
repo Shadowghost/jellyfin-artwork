@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fun Age Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100127",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d65b4AlGT5tXW7zzNiSkqvXutQc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://www.kaixinmahua.com.cn",
+    "headquarters": "Beijing",
+    "placeholder": true
+  }
+]

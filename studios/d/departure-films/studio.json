@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Departure Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167521",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1Ed5FvkheI3njfH2ZjL9jue8oMM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.departure-films.com/",
+    "headquarters": "New York, NY",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mark Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209884"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

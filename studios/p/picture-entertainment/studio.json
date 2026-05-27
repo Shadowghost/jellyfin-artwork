@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Picture Entertainment",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233038"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

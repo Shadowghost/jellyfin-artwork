@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Channel 4 Television",
+    "country": "GB",
+    "homepage": "https://www.channel4.com/",
+    "headquarters": "Leeds, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5778",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2loyoQweDxvotH3AknfL2zhsthg.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

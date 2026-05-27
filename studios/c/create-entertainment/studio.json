@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Create Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50089",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iSA0rYKALKzzFEMb4WVSMod0EYK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.createentertainment.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

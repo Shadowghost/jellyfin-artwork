@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zola Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93200",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hYL55TNReAFUf4agzkrvV92z6fS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://zola.pro.br/",
+    "headquarters": "Rio de Janeiro RJ",
+    "placeholder": true
+  }
+]

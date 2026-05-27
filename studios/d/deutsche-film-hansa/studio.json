@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Deutsche Film Hansa",
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28290"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

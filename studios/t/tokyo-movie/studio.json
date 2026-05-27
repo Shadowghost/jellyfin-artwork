@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Tokyo Movie",
+    "description": "Japanese animation studio originally founded as Tokyo Movie in 1964 (later Tokyo Movie Shinsha and TMS Entertainment); a Sega Sammy subsidiary known for Lupin III, Detective Conan, Anpanman, and Sonic the Hedgehog animations.",
+    "country": "JP",
+    "type": "production-company",
+    "homepage": "http://www.tms-e.co.jp",
+    "headquarters": "Nakano, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7164",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vHsaqTkQ2ZTbdqrCA272YahoVlg.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "TMS Entertainment"
+    ],
+    "template": true
+  }
+]

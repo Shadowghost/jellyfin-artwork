@@ -1,0 +1,17 @@
+[
+  {
+    "name": "F Comme Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11778",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rIiLv4yt20WOQAk1HD1EvLOfDgh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://fcommefilm.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Paradox Universe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110989",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gBvtvmI72QHMIMu1mXcqpi729pE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.paradoxuniverse.net",
+    "placeholder": true
+  }
+]

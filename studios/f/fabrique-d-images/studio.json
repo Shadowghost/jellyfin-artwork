@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Fabrique d'images",
+    "country": "LU",
+    "homepage": "http://www.fabrique-d-images.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50164"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

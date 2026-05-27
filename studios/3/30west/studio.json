@@ -1,0 +1,17 @@
+[
+  {
+    "name": "30WEST",
+    "country": "US",
+    "homepage": "http://30west.com",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104363",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tKIimrvYUH02D4km00lCEDUYvIF.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

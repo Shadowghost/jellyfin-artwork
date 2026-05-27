@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Big Breakfast",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77895",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p4ySwImDSCR0gI0sQCAFtqxaVMr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.bigbreakfast.com/",
+    "headquarters": "Beverly Hills, California",
+    "placeholder": true
+  }
+]

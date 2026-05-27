@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Thema Production",
+    "country": "LU",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42004"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

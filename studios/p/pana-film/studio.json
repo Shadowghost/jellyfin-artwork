@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pana Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58135",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1o1yIEtI1Fpwiq8it884t2szo0A.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "http://www.panafilm.com/tr/",
+    "placeholder": true
+  }
+]

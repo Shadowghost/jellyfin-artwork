@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Cinémathèque Française",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20116",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qWEOTzHiZNWnyp1b3PYB1X63vfy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.cinematheque.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

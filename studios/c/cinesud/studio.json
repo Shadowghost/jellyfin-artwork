@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CineSud",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17780"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://cinesud.nl/",
+    "headquarters": "Heerlen",
+    "placeholder": true
+  }
+]

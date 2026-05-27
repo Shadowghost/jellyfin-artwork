@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pájaro",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154079"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "https://pajaro.cl",
+    "headquarters": "Santiago de Chile",
+    "placeholder": true
+  }
+]

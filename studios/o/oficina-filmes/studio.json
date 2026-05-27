@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Oficina Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200378"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

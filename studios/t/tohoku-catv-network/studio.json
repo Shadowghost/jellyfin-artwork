@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tohoku CATV Network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271922",
+        "logo_uri": "https://image.tmdb.org/t/p/original/itEuiEwEei7XP3jF1aSMMMuhyyM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.tcatv.co.jp/",
+    "placeholder": true
+  }
+]

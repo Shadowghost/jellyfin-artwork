@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bold Film Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "190209",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8qXf3s4LodOMbtovxCystzctF1B.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "homepage": "https://boldfilmstudio.ro/",
+    "headquarters": "Bucharest",
+    "placeholder": true
+  }
+]

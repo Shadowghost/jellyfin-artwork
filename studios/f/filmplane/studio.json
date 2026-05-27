@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmplane",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87148"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

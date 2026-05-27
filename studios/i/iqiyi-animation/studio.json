@@ -1,0 +1,16 @@
+[
+  {
+    "name": "iQIYI Animation 爱奇艺动漫",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "246951",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fH5JlzTejgW7UFEceg8i7lWK9LV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://www.iqiyi.com/dongman/",
+    "placeholder": true
+  }
+]

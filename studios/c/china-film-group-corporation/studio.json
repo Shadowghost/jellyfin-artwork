@@ -1,0 +1,17 @@
+[
+  {
+    "name": "China Film Group Corporation",
+    "country": "CN",
+    "homepage": "https://www.chinafilm.com/",
+    "headquarters": "Beijing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2270",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7osqu50JpFIh0klZU0s1CrnNqcc.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

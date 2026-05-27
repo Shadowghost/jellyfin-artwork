@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Boxxer",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183119",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zB2RuYUqXNKVh8gziDZKAyufsXV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.boxxer.com/",
+    "headquarters": "Altrincham",
+    "placeholder": true
+  }
+]

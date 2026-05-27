@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Loterie Romande",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162850"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

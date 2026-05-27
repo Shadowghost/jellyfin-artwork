@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Timefixer",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193100"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

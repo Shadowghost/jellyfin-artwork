@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Current Entertainment",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "972"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

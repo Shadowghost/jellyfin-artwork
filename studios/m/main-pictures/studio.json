@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Main Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153077"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

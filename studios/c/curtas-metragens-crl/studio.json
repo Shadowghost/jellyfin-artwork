@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Curtas-Metragens, CRL",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85264"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "https://www.curtas.pt",
+    "placeholder": true
+  }
+]

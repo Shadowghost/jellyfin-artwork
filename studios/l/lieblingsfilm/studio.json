@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lieblingsfilm",
+    "country": "DE",
+    "headquarters": "Munich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13535",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i4RHbgBZnE2GcjiKqncBhydInIk.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

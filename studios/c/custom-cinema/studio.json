@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Custom Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "237329"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

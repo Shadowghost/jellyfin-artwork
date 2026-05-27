@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Productions Balthazar",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73125",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xXjvCSEmXsjExhVRvJgS1QXKUrc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.balthazarprod.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

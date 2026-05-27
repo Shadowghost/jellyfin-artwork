@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bankable",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11774"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

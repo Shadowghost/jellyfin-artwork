@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Studio Palette",
+    "country": "JP",
+    "homepage": "https://studiopalette.net/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149361",
+        "logo_uri": "https://image.tmdb.org/t/p/original/diee3I0ss3V4QCtStowmbjCYOI4.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

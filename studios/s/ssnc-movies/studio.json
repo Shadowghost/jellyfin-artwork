@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SSNC Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152203"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

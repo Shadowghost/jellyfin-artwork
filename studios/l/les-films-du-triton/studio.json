@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les films du Triton",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148158"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

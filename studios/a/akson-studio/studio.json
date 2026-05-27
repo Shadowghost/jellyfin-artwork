@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Akson Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10826",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nnXr9tDsIU7uGjVOFrjsSK2jYuY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://www.aksonstudio.pl/en",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

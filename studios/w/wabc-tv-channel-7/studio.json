@@ -1,0 +1,14 @@
+[
+  {
+    "name": "WABC-TV Channel 7",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "178629"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

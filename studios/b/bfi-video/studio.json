@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BFI Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15277"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

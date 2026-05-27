@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GREC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80377",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pPNcRQqJ5JF2iHn6NsDAPEQUoss.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.grec-info.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

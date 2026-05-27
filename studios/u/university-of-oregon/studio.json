@@ -1,0 +1,15 @@
+[
+  {
+    "name": "University of Oregon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149901",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7tHmDG4jKS7rH7MjJG805WVWOF3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

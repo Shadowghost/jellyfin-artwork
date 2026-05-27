@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NFP Distribution",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123628"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

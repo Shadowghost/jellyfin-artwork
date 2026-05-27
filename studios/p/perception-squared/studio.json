@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Perception Squared",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212012"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

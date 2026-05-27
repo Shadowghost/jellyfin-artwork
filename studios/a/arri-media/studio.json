@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ARRI Media",
+    "description": "German cinema equipment and services group founded by August Arnold and Robert Richter in Munich in 1917, known for ARRI cameras and lighting.",
+    "country": "DE",
+    "type": "other",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258395"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "ARRI"
+    ],
+    "template": true
+  }
+]

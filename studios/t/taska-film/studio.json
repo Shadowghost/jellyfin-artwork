@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Taska Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6162",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ra1wla9Ubim8l26uqSs5UZU0cWE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EE",
+    "homepage": "https://taska.ee/",
+    "placeholder": true
+  }
+]

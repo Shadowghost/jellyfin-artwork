@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mozinet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87855",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qVpGa9KViXQfKKrh9tdWMWibzDS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "https://mozinet.hu/",
+    "headquarters": "Budapest",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Exile",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175576",
+        "logo_uri": "https://image.tmdb.org/t/p/original/97cuLmTVxOKMnYxcoqyJpBWgOP3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://exilecontent.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

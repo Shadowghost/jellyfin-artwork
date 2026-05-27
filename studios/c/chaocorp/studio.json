@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Chaocorp",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7766",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rwBbDJAlUC0mAVnO02APsy0O80T.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

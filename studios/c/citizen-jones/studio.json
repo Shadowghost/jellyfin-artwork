@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Citizen Jones",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24630",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8dkVc0keRzrbL72pL6tPyKzjVwC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.citizenjones.com",
+    "placeholder": true
+  }
+]

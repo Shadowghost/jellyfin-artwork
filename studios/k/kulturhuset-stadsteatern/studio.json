@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kulturhuset Stadsteatern",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4981",
+        "logo_uri": "https://image.tmdb.org/t/p/original/z5U3ocPibrevmrUrhTnQU0iIx6i.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://kulturhusetstadsteatern.se/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

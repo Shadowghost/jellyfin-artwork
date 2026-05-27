@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Videosystem",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191530"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

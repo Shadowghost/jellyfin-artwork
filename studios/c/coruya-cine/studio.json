@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Coruya Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134586",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eGBMR6E7GQj8NL5LIceTelBfj7j.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://coruyacine.com.ar/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

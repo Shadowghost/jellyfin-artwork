@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Universal Pictures Corporation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

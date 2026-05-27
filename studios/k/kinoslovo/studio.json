@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Kinoslovo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21179"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://www.kinoslovo.com/",
+    "placeholder": true
+  }
+]

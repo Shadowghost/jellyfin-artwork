@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Hot Bear",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150259",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vRI20XZp02guXiJBmqVDjNcKvXX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.mediabank.co.jp/label.php?id=8",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Newsy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105753"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

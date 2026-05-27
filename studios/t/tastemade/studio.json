@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tastemade",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109306",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cxwR5yewhGVrwa5MJZ1zDLSLmHc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.tastemade.com",
+    "headquarters": "Santa Monica, California",
+    "placeholder": true
+  }
+]

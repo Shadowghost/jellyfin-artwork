@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Mar Vista Productions",
+    "description": "American film and television production and distribution company specializing in family and TV-movie content, acquired by Fox/Tubi in 2022.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://www.marvista.net",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6679",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r3r7qbHKgo8N0yr7r1TjLmzLXfQ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "MarVista Entertainment"
+    ],
+    "template": true
+  }
+]

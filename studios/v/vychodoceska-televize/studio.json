@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Východočeská Televize",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110852",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tXcKwgY3gZRRwg0pYSplItyifjj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.vzpravy.cz",
+    "headquarters": "Pardubice",
+    "placeholder": true
+  }
+]

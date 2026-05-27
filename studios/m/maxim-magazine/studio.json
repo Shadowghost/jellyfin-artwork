@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Maxim",
+    "description": "International men's magazine featuring articles on style, women, entertainment, and lifestyle.",
+    "country": "US",
+    "type": "publisher",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159857"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

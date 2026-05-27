@@ -1,0 +1,13 @@
+[
+  {
+    "name": "crabstix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92362"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

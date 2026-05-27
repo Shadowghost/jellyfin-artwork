@@ -1,0 +1,13 @@
+[
+  {
+    "name": "OH Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110129"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

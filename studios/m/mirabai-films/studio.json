@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mirabai Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iASOYficVcY1QpUOySacOWfrObX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.mirabaifilms.com",
+    "placeholder": true
+  }
+]

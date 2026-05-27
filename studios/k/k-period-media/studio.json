@@ -1,0 +1,17 @@
+[
+  {
+    "name": "K Period Media",
+    "country": "US",
+    "homepage": "https://www.kperiodmedia.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50498",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zTSRlzyDZX287q289qb4pghILyI.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

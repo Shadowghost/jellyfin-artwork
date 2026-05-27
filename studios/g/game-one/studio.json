@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Game One",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "178621",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gSYMlHiuGuNwUNnoOZlDBcT3pOZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.gameone.net/",
+    "headquarters": "Neuilly-sur-Seine, Hauts-de-Seine, Île-de-France, France",
+    "placeholder": true
+  }
+]

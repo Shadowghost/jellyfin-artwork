@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kaplan Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74992"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "http://www.kaplanfilm.com/en/",
+    "headquarters": "Istanbul",
+    "placeholder": true
+  }
+]

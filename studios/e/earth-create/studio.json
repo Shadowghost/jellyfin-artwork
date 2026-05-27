@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Earth Create",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42820"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

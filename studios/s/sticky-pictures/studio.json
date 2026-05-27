@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sticky Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85433",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lToKjpdDNEi29nE5kQyPw7ualrZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "http://www.stickypictures.tv/",
+    "headquarters": "Sydney, New South Wales",
+    "placeholder": true
+  }
+]

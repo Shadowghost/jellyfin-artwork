@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Great Oaks Entertainment",
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2173",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tvcLdY0u2hJjacYkoItfEuUNt4k.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

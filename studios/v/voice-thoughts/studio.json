@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Voice Thoughts",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18515"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

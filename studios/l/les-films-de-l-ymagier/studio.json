@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Les films de l'Ymagier",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "291809"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://filmsdelymagier.org",
+    "placeholder": true
+  }
+]

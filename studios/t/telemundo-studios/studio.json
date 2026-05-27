@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Telemundo Studios",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21123",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u4XmLMMAWxMOYeqHHJE7fPnA7jt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Miami, Florida, USA",
+    "placeholder": true
+  }
+]

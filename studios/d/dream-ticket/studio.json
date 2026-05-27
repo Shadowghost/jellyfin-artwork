@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Dream Ticket",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141385",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bGjoAHjYxuVH0Tj0b4rqeub8qC0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.dt01.co.jp",
+    "placeholder": true
+  }
+]

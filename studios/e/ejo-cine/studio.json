@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ejo Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "295408",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pZKBNi7KApwE8UIkwOTxUBPhE4u.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RW",
+    "homepage": "https://ejocine.com/",
+    "headquarters": "Kigali",
+    "placeholder": true
+  }
+]

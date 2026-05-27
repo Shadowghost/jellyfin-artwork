@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Channel One Russia",
+    "description": "Russia's principal state-owned television channel, headquartered at Ostankino Technical Center in Moscow; known as ORT from 1995 to 2002 and as Channel One since.",
+    "country": "RU",
+    "type": "broadcast-network",
+    "homepage": "https://www.1tv.ru/",
+    "headquarters": "Moscow, Russia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1039",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vTDwphEW5Ikiqu6UxrRCzhfFcVo.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

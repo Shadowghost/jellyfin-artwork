@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Confluential Films",
+    "country": "US",
+    "homepage": "https://www.confluentialfilms.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82857",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rp8g1y3wVKWfyQ21uWuzxKJ5bQn.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

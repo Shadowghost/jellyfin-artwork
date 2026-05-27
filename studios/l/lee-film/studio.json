@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lee Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34883",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9uQ1pa2X5TTD2ufBQyGYgUD7xrv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.leefilm.co.kr/gnuboard4/",
+    "headquarters": "Seongdong, Seoul",
+    "placeholder": true
+  }
+]

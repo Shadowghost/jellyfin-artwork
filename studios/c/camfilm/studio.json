@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CamFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258256"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

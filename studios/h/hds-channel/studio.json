@@ -1,0 +1,13 @@
+[
+  {
+    "name": "HDS Channel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100258"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MOE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149629",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wVeMjtN2yfl3Bv2Q2rbWKVnpNai.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.moe.studio/",
+    "headquarters": "Sotokanda, Chiyoda, Tokyo",
+    "placeholder": true
+  }
+]

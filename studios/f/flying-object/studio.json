@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Flying Object",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166305"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

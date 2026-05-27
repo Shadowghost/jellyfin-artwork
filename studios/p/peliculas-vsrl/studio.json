@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Películas VSRL",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "265285"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

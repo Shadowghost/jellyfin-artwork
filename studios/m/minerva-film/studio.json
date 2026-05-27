@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Minerva Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "movieguide",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115203"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

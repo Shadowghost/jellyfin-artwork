@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sentimentalfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116802",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pDD11g6xLx1o1u0kP9FSF0DvoM4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SK",
+    "homepage": "http://www.sentimentalfilm.com/",
+    "headquarters": "Bratislava, Slovakia",
+    "placeholder": true
+  }
+]

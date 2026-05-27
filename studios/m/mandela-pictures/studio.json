@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Mandela Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "232723",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kQIGfHGxuYWVTt3VS4EThHfI60k.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "placeholder": true
+  }
+]

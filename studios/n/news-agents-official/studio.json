@@ -1,0 +1,13 @@
+[
+  {
+    "name": "News Agents Official",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "293857"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

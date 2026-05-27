@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Existir Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144903"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pro Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28851",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tflWcQmOCgHCQDGDTFrdzpkSpDW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BG",
+    "homepage": "https://pro-cinema.com/",
+    "headquarters": "Sofia",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Initial Groupe",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22240"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "OCN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129506",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mDIVOVThsIu6IxaWNaNGUtgHJ02.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://ocn.tving.com/ocn/",
+    "headquarters": "Mapo, Seoul, South Korea",
+    "placeholder": true
+  }
+]

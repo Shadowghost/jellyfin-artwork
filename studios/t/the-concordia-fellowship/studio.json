@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Concordia Fellowship",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200976",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qLwFIbYYHMoAQG4NftdwytYNBWk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://concordia.studio/the-concordia-fellowship",
+    "placeholder": true
+  }
+]

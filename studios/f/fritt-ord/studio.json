@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fritt Ord",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123320",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j2P5auvMdyWiMZlT4xnVxPG4cJu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://frittord.no",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KBS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74238",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9wDgX5ryoIZr4LLxZ261S7DAvBW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.kbs.co.kr",
+    "headquarters": "Yeongdeungpo, Seoul",
+    "placeholder": true
+  }
+]

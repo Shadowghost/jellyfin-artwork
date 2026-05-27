@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Gaumont-British News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214257"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

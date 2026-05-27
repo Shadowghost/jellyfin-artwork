@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Le Petit Jardin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218693",
+        "logo_uri": "https://image.tmdb.org/t/p/original/etlZTN3ofC4jE4LoBL0GlPqA6o3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

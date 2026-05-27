@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wanda Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7529",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9Y99ZxJW2a9ApMIW37YODzzjf7f.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.wandafilms.com",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

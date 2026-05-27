@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Rainbow",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110770"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

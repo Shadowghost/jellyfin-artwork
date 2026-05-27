@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Stragli Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213205"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

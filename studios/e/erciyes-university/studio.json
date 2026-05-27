@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Erciyes University",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42433",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4bjqK2kLTBj76rZwOxp3jWsitQc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

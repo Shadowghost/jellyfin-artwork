@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Malvalanda",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51922",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qg6uglSnzIsfMz9MyyO69wCDxA7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://malvalanda.com",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

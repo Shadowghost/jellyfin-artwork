@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Dirty Puppet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183381"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

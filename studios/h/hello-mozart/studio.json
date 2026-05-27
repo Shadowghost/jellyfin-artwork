@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hello Mozart",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158336"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

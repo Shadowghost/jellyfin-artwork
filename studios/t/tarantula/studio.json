@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tarantula",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8471",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rfmlWuH9lxt9pgQetWbNwZKSXvZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "http://www.tarantula.be",
+    "headquarters": "Liège, Belgique",
+    "placeholder": true
+  }
+]

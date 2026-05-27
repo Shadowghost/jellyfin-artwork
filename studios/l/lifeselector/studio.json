@@ -1,0 +1,16 @@
+[
+  {
+    "name": "LifeSelector",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172828",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4WrvOX0pEyTadCse1Vu5Y9r7tlH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://lifeselector.com/",
+    "placeholder": true
+  }
+]

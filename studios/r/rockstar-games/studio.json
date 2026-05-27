@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rockstar Games",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120044",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pmmk2C9JlphvHYoV2VFYb2xU5ff.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.rockstargames.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

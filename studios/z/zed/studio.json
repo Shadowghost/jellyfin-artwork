@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ZED",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16888",
+        "logo_uri": "https://image.tmdb.org/t/p/original/di3Bw89NYi83N769K6wYnqqSFHS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.zed.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

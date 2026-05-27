@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lumiere Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119718"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.lumierefilm.cz/",
+    "headquarters": "Prague, Czech Republic",
+    "placeholder": true
+  }
+]

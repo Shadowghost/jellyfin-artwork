@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NHN comico",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "284879",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vcLBZkCNeza5ryRyDOUar7fqhZS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.nhn-comico.com/",
+    "placeholder": true
+  }
+]

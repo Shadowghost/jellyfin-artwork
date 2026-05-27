@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Corp",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110335",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aRe6aAyjFoSW8KIqA8YdOznfDq4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://lesitedelacorp.com/en/",
+    "headquarters": "Montréal, Québec",
+    "placeholder": true
+  }
+]

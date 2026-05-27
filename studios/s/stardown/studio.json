@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Stardown",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170513"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

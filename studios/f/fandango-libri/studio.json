@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fandango Libri",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151128"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

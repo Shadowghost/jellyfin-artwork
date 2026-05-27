@@ -1,0 +1,17 @@
+[
+  {
+    "name": "YGP-FILM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181623",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mmdLZR8i2wtYJTm5xqQGppH4IDY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://www.ygpfilm.com/",
+    "headquarters": "Changsha",
+    "placeholder": true
+  }
+]

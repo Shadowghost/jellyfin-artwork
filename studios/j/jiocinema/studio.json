@@ -1,0 +1,13 @@
+[
+  {
+    "name": "JioCinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210025"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

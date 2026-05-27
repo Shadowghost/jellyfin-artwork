@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Manila Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85790"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.manilafilms.com",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

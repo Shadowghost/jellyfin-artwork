@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MEMORY",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34777",
+        "logo_uri": "https://image.tmdb.org/t/p/original/slfGgHfiKJsHjoeAhfLykCflt6h.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://memory.is",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

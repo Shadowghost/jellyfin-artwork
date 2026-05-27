@@ -1,0 +1,16 @@
+[
+  {
+    "name": "KOMPAGNIET",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180749",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gEoxh5q6EElCtlHqSYkjZdV5URh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://www.kompagniet.dk/",
+    "placeholder": true
+  }
+]

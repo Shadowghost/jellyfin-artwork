@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Soundsmove",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214678",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uc2l8P7tFLEj2lmuIKWtC2xc2kf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.soundsmove.com/",
+    "placeholder": true
+  }
+]

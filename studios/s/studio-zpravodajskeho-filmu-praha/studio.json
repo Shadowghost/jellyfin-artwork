@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Studio zpravodajského filmu Praha",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155849"
+      }
+    ],
+    "artwork": {},
+    "country": "XC",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

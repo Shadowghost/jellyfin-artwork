@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Edison Studios",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18758",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fe3cMUJLhbkTM9PDxdDA8hQpAxp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "New York City",
+    "placeholder": true
+  }
+]

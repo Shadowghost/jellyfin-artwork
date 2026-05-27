@@ -1,0 +1,13 @@
+[
+  {
+    "name": "GalaCollection",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158065"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

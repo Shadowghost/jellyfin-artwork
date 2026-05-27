@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Museo Reina Sofía",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199263"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.museoreinasofia.es/en",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

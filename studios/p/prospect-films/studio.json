@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Prospect Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182831"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

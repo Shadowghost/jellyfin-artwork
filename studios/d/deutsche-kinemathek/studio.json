@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Deutsche Kinemathek",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111513"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

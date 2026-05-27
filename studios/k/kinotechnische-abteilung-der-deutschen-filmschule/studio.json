@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Kinotechnische Abteilung der Deutschen Filmschule",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200803"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

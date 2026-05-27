@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Zerkalo Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119290"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

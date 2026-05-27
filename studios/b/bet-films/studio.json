@@ -1,0 +1,15 @@
+[
+  {
+    "name": "BET Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114117",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j1Em78GVfapaWFOxi7kvE0O8f4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

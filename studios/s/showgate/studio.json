@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Showgate",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "291103"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

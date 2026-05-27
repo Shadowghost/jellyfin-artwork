@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MED CINE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217763",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7gYE4jgIvHX5YIwGdlFbUeVpqAs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://www.medcine.dk/",
+    "headquarters": "Præstø",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Floréal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205586",
+        "logo_uri": "https://image.tmdb.org/t/p/original/imOmU9m0WyLN4vSc8rp1ewnXlab.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://floreal.io/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

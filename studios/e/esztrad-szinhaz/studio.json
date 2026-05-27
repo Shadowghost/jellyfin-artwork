@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Esztrád Színház",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112246",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9CryqJI6nxgBIC5tK9GBTLqP4XU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "http://esztradszinhaz.hu",
+    "headquarters": "Budapest, Hungary",
+    "placeholder": true
+  }
+]

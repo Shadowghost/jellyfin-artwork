@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Visualize The Audio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144837"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

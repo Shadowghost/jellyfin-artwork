@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Quiet Motion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113582",
+        "logo_uri": "https://image.tmdb.org/t/p/original/39nTgRYMyu86MN1E8GcKtBcYVsN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://quietmotion.com/en-us/",
+    "headquarters": "Montréal, Québec",
+    "placeholder": true
+  }
+]

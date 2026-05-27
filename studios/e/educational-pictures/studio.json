@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Educational Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21769"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

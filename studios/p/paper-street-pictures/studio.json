@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Paper Street Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89269",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pKWk2XfT9xoHYdGKW1Bac7hFvrz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.paperstreetpictures.com/",
+    "headquarters": "Austin, Texas",
+    "placeholder": true
+  }
+]

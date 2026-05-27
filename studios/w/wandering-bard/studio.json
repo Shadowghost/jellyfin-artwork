@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Wandering Bard",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116863"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

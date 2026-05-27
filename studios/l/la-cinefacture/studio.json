@@ -1,0 +1,14 @@
+[
+  {
+    "name": "La Cinéfacture",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16017"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

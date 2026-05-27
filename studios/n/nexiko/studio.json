@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nexiko",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94274",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zr8bp7lgzFZOjFQqUHeYto7nDdf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.nexiko.com/",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

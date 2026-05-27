@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FIRECRACKER works",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "294363",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tVb7IDcfrqXzg8zt00nJyZ5yIA4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.firecrackerworks.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

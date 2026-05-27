@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Bandai Channel",
+    "description": "Japanese anime streaming and video-on-demand service operated by Bandai Namco.",
+    "country": "JP",
+    "type": "streaming-service",
+    "homepage": "https://www.b-ch.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27721"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

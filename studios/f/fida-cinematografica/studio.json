@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Fida Cinematografica",
+    "country": "IT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

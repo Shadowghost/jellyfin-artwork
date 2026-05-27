@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Samsh production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "268574"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

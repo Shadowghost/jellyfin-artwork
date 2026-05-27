@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bobs Videos",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204004"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

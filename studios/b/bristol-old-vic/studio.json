@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bristol Old Vic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42148",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7bVderKf6ebTLLZMp8no2Jrv70K.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://bristololdvic.org.uk/",
+    "headquarters": "King Street, Bristol, England",
+    "placeholder": true
+  }
+]

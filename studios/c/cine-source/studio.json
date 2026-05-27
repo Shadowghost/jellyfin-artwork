@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cine-Source",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77468"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

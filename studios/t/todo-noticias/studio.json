@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Todo Noticias",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231748"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

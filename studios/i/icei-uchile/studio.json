@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ICEI Uchile",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29030",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wAWBxg5Z50ANp4SKAiPUlZR5zLB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "http://www.icei.uchile.cl",
+    "headquarters": "Santiago",
+    "placeholder": true
+  }
+]

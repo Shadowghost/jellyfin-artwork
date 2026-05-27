@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Richmond Pictures",
+    "country": "GB",
+    "homepage": "http://www.richmond-pictures.com/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215964",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hgueKTQkSwc6r7rNfMaC155E1bl.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Brasileira Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101258"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.brasileirafilmes.com/",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

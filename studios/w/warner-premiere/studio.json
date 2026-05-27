@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Warner Premiere",
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4811",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7xym5CnL4LcMPaWpp51cN1v73AR.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pelican Capture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242860"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

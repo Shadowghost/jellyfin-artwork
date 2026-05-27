@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Simple Alien",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87088",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4vr7OJeJnVFviSdkn24gMuTMzGQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://simplealien.com/",
+    "headquarters": "Brooklyn, New York",
+    "placeholder": true
+  }
+]

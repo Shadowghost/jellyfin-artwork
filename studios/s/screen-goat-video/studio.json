@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Screen Goat Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255074",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6drnT9iWAqCZTD7ia83Wbc9FjjQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.screengoatvideo.com/",
+    "headquarters": "Atlanta, Georgia",
+    "placeholder": true
+  }
+]

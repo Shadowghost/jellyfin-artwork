@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Amazonas Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241374"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

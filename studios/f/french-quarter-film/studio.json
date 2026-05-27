@@ -1,0 +1,17 @@
+[
+  {
+    "name": "French Quarter Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50513",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8VNsqHaGFgHADJU0f3qKub22WXR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://www.frenchquarter.se/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

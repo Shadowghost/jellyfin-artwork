@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Make Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100796"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

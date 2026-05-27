@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Playskool",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156317",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8unBGWQudevONMV5Zc2BdF60LPD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.playskool.com",
+    "placeholder": true
+  }
+]

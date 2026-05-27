@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Rare Books",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264971"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

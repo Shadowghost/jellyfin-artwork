@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Gazeta Polska",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229517"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

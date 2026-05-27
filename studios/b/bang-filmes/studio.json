@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bang Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100614"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.bangfilmes.com.br/",
+    "headquarters": "Rio de Janeiro RJ",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hollands Licht",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149287",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zQqJiTU3XIlQTsTIzkyjSNqHAad.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.hollandslichtproducties.nl/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

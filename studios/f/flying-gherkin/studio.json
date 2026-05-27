@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Flying Gherkin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105224"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

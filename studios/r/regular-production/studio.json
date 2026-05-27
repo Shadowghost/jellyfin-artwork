@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Regular Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177176",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wzGPCbmoNDhwKDhsxtRSgoAjib0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "18, rue Fourcroy, 75017 Paris, France",
+    "placeholder": true
+  }
+]

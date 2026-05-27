@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Silex Animation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124231",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qhTDdolNjNbPY7jrXYhOEbkKeda.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.silexfilms.com/animation/",
+    "headquarters": "101 rue de Bordeaux, 16000 Angoulême",
+    "placeholder": true
+  }
+]

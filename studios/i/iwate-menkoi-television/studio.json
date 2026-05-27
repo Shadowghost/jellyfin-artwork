@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Iwate Menkoi Television",
+    "description": "Japanese commercial television broadcaster in Iwate Prefecture affiliated with the Fuji News Network.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.menkoi-tv.co.jp/top.html",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256950",
+        "logo_uri": "https://image.tmdb.org/t/p/original/20HAUojTA26vnWJ8oTYTfAsSU1v.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Movies Angels",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271225"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

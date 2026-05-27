@@ -1,0 +1,15 @@
+[
+  {
+    "name": "The Disco Factory",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170335"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

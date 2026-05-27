@@ -1,0 +1,16 @@
+[
+  {
+    "name": "New Metric Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73948",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yaJzqApUyueuyWYRLV4XkvaRoU6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://newmetricmedia.com",
+    "placeholder": true
+  }
+]

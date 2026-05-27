@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Jokebox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "276778"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

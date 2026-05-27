@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Partisan Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "68781",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lXdAgfMFvgoyo57jqkXOJ5yG2JC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://partisanpictures.com",
+    "placeholder": true
+  }
+]

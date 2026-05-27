@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Motion Picture Flow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "286700"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

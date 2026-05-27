@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Toric Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217348",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qXSY2UQ6SNOgwVzp6C298LNnbTF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://toricfilms.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

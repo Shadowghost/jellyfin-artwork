@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Prime Shots",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160230",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8d8CTOqzD8GsMuXHlj39iDKUj0s.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "homepage": "http://www.primeshots.app",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mandarina Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106852",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qmFJbAEPUd3dpVa5M1cijXrbUTE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://mandarinacine.com/",
+    "headquarters": "Ciudad de México",
+    "placeholder": true
+  }
+]

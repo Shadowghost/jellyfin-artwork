@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Salt Film Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103132",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dodjplWQwBkuzNBQTGvb13UiHcl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://saltstudio.ru/",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

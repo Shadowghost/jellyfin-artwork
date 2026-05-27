@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lucky Cat",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180656"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

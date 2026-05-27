@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Rio de Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264768"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

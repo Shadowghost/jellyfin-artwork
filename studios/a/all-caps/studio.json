@@ -1,0 +1,16 @@
+[
+  {
+    "name": "all caps",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183346",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gyIgYNrQoTunIUTED9GGCHP1lm9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

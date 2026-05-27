@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mosaico Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239706"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

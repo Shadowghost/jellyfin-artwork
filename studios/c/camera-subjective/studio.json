@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Caméra Subjective",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21893",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pe8d7HY0lzdSorteDL13Mj6VxwI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://camerasubjective.com/",
+    "placeholder": true
+  }
+]

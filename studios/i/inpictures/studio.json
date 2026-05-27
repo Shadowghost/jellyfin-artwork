@@ -1,0 +1,13 @@
+[
+  {
+    "name": "InPictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12912"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Boxfish TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108974",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9vPsxqono9q96jIWn7fm3IJyFw2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://boxfishtv.com",
+    "placeholder": true
+  }
+]

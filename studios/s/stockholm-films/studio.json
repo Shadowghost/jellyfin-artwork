@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Stockholm Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233118"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

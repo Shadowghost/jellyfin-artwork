@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lewis Pictures",
+    "country": "KR",
+    "headquarters": "Gangnam, Seoul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62312",
+        "logo_uri": "https://image.tmdb.org/t/p/original/47mqvkK7RV5OOyqqPWtgdd5pOvZ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

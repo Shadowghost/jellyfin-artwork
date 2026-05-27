@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Studio Wildcard",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152883",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jkzHzSovYPKWC7RUzVZhTrdV7iA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.studiowildcard.com/",
+    "placeholder": true
+  }
+]

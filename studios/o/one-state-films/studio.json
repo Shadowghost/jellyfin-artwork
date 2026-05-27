@@ -1,0 +1,16 @@
+[
+  {
+    "name": "One State Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107040",
+        "logo_uri": "https://image.tmdb.org/t/p/original/BWKyO8ZamR4BTmWL6lWhrqZlaL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://onestatefilms.com",
+    "placeholder": true
+  }
+]

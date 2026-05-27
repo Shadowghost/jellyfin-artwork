@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Panther-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96604"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

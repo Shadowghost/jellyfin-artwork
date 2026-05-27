@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Livre Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262820"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

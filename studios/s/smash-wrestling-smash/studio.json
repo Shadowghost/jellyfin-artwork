@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Smash Wrestling (Smash)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118344",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Zl4IOLC1uHdaJ1zEYPK6cIlNeA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://smash-wrestling.com/",
+    "headquarters": "Toronto, Ontario, Canada",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Miramax",
+    "description": "American film and television production and distribution company founded by Bob and Harvey Weinstein, currently jointly owned by beIN Media Group and Paramount.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.miramax.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m6AHu84oZQxvq7n1rsvMNJIAsMu.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

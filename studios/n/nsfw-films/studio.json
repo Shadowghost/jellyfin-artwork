@@ -1,0 +1,15 @@
+[
+  {
+    "name": "NSFW Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106671"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.nsfwfilms.com/",
+    "placeholder": true
+  }
+]

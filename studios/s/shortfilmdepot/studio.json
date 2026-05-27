@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Shortfilmdepot",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "286537"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

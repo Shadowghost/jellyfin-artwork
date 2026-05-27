@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Itochu",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192423",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vm05HaBy7iZAeOkna5eiIiEsY8J.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.itochu.co.jp/ja/",
+    "placeholder": true
+  }
+]

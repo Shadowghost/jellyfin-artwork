@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Dodge",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187779"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

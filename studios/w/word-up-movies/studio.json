@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Word up movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218078"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

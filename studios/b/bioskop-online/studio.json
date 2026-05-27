@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bioskop Online",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160594",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tZfkYWWCe2QYt8GQAL7gJugNeIF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "homepage": "https://bioskoponline.com/",
+    "placeholder": true
+  }
+]

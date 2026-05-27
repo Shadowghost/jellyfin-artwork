@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Salida MAPA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "277215",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kx47tPsRXMb4CNWXSqUPuWwXTmj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PH",
+    "headquarters": "City of Baybay, Leyte",
+    "placeholder": true
+  }
+]

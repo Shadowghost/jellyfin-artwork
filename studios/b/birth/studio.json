@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BIRTH",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189049",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dqxOzIsW1JqQfnC2az4nd6JF1iC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://birth.tv",
+    "headquarters": "Paris, Ile de France",
+    "placeholder": true
+  }
+]

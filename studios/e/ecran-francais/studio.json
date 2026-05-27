@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Écran Français",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26132"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

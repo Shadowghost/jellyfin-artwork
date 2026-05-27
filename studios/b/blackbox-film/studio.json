@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Blackbox Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85451"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "http://www.blackboxfilm.at/blackbox",
+    "headquarters": "Vienna",
+    "placeholder": true
+  }
+]

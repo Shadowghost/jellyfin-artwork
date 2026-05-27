@@ -1,0 +1,14 @@
+[
+  {
+    "name": "StarzPlay",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160095",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1yBA8zseLYdizLIX0ap1kecCMdw.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

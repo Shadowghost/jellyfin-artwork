@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MUCO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "292288",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aStY4OGjwLud43lEfzM0XsOsNkb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://muko.kr/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Buffalo Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46655",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7827Xo06PadcZRrNkkKlapO7c92.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://buffalopictures.co.uk",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

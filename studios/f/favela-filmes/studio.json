@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Favela Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90083",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uKydbths8XWFhmLCKSGTJAL6Zla.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.favelafilmes.com.br/",
+    "placeholder": true
+  }
+]

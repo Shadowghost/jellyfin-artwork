@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Yolo Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283968"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

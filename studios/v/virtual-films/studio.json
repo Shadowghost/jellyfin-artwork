@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Virtual Films",
+    "description": "American film financing and production company founded by Benjamin Waisbren that co-financed Warner Bros. titles such as The Assassination of Jesse James and 10,000 BC.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2366"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

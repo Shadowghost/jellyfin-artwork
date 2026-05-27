@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fresdeval Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10004",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r6Bprkld2i52Skm04KMN1YxCbzl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.fresdevalfilms.com",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

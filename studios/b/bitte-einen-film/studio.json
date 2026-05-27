@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BITTE EINEN FILM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258124",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rJWwUSYn6y8E5ptJQn8Uwi2AHDX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://bitteeinenfilm.com/",
+    "headquarters": "München",
+    "placeholder": true
+  }
+]

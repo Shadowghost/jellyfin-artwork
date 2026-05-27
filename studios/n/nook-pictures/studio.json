@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nook Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211522"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

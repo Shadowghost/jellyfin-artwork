@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Fukui TV",
+    "description": "Japanese regional commercial television station based in Fukui Prefecture; affiliate of Fuji Network System / FNN.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.fukui-tv.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129534",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mb8FmPnl6fr9333PvVd1rC9f4h7.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Fukui Television Broadcasting"
+    ],
+    "template": true
+  }
+]

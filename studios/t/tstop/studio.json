@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TSTOP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18725"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BoxFort",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185311"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

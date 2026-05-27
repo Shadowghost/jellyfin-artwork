@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ban Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101661"
+      }
+    ],
+    "artwork": {},
+    "country": "HR",
+    "placeholder": true
+  }
+]

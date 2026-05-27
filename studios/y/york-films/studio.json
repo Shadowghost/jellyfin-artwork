@@ -1,0 +1,15 @@
+[
+  {
+    "name": "York Films",
+    "country": "US",
+    "homepage": "https://yorkfilmsnyc.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105330"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

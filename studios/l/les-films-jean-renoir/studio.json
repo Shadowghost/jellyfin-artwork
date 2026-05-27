@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Les Films Jean Renoir",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70359"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

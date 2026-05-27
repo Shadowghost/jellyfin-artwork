@@ -1,0 +1,16 @@
+[
+  {
+    "name": "JS Pictures",
+    "country": "KR",
+    "homepage": "http://jspictures.tv",
+    "headquarters": "Mapo, Seoul, South Korea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29249"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

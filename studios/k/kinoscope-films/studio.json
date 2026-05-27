@@ -1,0 +1,13 @@
+[
+  {
+    "name": "kinoscope films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "207773"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

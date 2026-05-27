@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lamb-Garden",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45678"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

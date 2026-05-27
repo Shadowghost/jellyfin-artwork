@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Anagram Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17537",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hKeCdBnom18Q2W92Uprfnkf2QJm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://anagram.se/",
+    "headquarters": "Lund, Sweden",
+    "placeholder": true
+  }
+]

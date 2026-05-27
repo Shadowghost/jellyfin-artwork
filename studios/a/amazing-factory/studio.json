@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Amazing Factory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117631",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nH4H2xfO1wqPpDxyS7ADfoR3vPh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.amazingfactory.com/",
+    "headquarters": "Vancouver",
+    "placeholder": true
+  }
+]

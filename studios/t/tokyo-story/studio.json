@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tokyo Story",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97219"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.tokyo-story.com",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

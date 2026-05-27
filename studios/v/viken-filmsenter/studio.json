@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Viken Filmsenter",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112709",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5o3gjZ2UCTbLAyYnWSlAE5kpO7U.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://vikenfilmsenter.no/",
+    "headquarters": "Drammen",
+    "placeholder": true
+  }
+]

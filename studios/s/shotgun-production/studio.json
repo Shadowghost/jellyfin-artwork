@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Shotgun Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163780",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qnA1APSy2pSH2o7bgIJFzIZFAcN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://shotgunprod.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

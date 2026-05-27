@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KIT Film Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99796",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9mf2AFZUoQP4ovnNiSOg7SKJjZa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://gpm-kit.ru/",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

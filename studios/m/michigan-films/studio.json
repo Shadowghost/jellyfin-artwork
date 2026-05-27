@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Michigan Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87031",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lXqLNf7ttr1AIchNgDh27ueMsPf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://michiganfilms.be/",
+    "headquarters": "Brussels",
+    "placeholder": true
+  }
+]

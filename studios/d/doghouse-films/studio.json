@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Doghouse Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111071",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lzFLHCniDDOFDV8OrkErZyFZI1b.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LU",
+    "homepage": "http://doghousefilms.eu",
+    "headquarters": "Differdange",
+    "placeholder": true
+  }
+]

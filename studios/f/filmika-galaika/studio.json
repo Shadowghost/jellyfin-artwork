@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmika Galaika",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120861",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aqAXSIXBOHZzA13hw45ztQup60X.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://filmikagalaika.com/",
+    "headquarters": "A Coruña, Galicia",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Firecracker Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12709",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f53sVugHrIjRSXJNxZHywmBSKkR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.firecrackerfilms.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

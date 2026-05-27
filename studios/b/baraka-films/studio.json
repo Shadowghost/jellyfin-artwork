@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Baraka Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100505",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m0ECwYG2LB3W5Rnhpan8BW97NpQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.barakaflims.com",
+    "placeholder": true
+  }
+]

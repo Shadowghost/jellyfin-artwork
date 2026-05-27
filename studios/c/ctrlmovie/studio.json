@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CtrlMovie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75160"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

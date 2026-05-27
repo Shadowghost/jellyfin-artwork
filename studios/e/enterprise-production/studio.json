@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Enterprise Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160265",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nscbaNmaHzbzxPqsaeGHnEoWPLJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KZ",
+    "homepage": "https://enterpro.kz/",
+    "placeholder": true
+  }
+]

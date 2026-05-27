@@ -1,0 +1,13 @@
+[
+  {
+    "name": "project alpha",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161959"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

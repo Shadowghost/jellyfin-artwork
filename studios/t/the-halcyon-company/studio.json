@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Halcyon Company",
+    "country": "US",
+    "homepage": "https://thehalcyoncompany.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4021",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xSgwmjXQfVWRRLPRDvbFnnNqlbC.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

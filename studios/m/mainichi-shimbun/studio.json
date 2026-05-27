@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mainichi Shimbun",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5069",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8xUODmM7J0kGFon6U7ejdUGAJmj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.mainichi.co.jp/",
+    "headquarters": "Chiyoda, Tokyo",
+    "placeholder": true
+  }
+]

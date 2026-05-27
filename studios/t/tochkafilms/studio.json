@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tochkafilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229364",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f4uAf6KVxGnZrtDVTL5eg528543.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://www.tochkafilms.ru/",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

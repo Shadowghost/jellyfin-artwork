@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Totally Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256843"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

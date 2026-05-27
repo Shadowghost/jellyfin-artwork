@@ -1,0 +1,32 @@
+[
+  {
+    "name": "NHK",
+    "description": "Japan's public broadcaster, operating multiple terrestrial, satellite, and international television and radio channels and their subsidiary NHK Enterprises.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "294771"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "NHK (Japan Broadcasting Corporation)"
+    ],
+    "template": true
+  }
+]

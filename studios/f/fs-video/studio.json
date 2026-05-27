@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FS Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224362"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Laguna Pacific",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115305",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bL5UBpzILDqwwxVzccgxDqQfOLI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "West Hollywood, California",
+    "placeholder": true
+  }
+]

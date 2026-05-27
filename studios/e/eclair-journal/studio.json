@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Éclair-Journal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1769"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

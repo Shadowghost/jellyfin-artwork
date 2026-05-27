@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cocinor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "512"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

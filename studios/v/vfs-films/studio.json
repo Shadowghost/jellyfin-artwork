@@ -1,0 +1,16 @@
+[
+  {
+    "name": "VFS Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63249"
+      }
+    ],
+    "artwork": {},
+    "country": "LV",
+    "homepage": "http://vfs.lv",
+    "headquarters": "Riga",
+    "placeholder": true
+  }
+]

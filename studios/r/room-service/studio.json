@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Room Service",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "261891"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

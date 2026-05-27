@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Doga Kobo",
+    "description": "Japanese animation studio founded in 1973, known for anime series including Yuru Yuri, New Game!, and Plastic Memories.",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "http://dogakobo.com",
+    "headquarters": "Nerima, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41996",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4Rw2mRqA8JOf8qec6pVF57U65me.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

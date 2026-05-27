@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinereach",
+    "country": "US",
+    "homepage": "http://cinereach.org",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12219",
+        "logo_uri": "https://image.tmdb.org/t/p/original/brOqEF7bpecJ4Jn1EmcRgoJTMZz.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fortune Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113527",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zcMtmm9AHfIip1GLDuQ5ks5DFLl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://fent.jp/",
+    "placeholder": true
+  }
+]

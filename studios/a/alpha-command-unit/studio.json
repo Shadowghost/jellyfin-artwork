@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Alpha Command Unit",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "246404"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

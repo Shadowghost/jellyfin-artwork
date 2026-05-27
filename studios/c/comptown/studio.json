@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CompTown",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208039",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mIVX04tUSRIY9RfvPbmhmLjEuEK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.comptown.co/",
+    "headquarters": "Suginami, Tokyo",
+    "placeholder": true
+  }
+]

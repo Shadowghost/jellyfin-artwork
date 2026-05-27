@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Muzeum Warszawy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "292821"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

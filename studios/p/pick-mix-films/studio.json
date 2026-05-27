@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pick & Mix Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51123"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

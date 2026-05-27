@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Filmways Pictures",
+    "description": "American film and television production company active from 1952 to 1982, producer of The Addams Family and Beverly Hillbillies; acquired by Orion Pictures.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1138",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nFDryQEdl7eVjJuXoaT4Vw88xgz.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

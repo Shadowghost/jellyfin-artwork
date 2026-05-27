@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Vintage Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35561"
+      }
+    ],
+    "artwork": {},
+    "country": "IS",
+    "homepage": "http://www.vintagepictures.is/",
+    "placeholder": true
+  }
+]

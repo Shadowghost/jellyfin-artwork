@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Interamericana",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94259"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Sarnoff TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "291856",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q9Tuwz8in4MYoXiImKDILMUb1Js.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

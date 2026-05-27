@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Netflix",
+    "description": "American subscription video-on-demand and production company, the largest global streaming service and a major producer of original films and TV.",
+    "country": "US",
+    "type": "streaming-service",
+    "homepage": "https://www.netflix.com",
+    "headquarters": "Los Gatos, California",
+    "colors": [
+      {
+        "name": "Netflix Red",
+        "hex": "#E50914"
+      },
+      {
+        "name": "Black",
+        "hex": "#221F1F"
+      },
+      {
+        "name": "White",
+        "hex": "#F5F5F1"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "anidb",
+        "id": "54015"
+      },
+      {
+        "provider_name": "imdb",
+        "id": "co0144901"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "178464",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tyHnxjQJLH6h4iDQKhN5iqebWmX.png"
+      },
+      {
+        "provider_name": "tvdb",
+        "id": "535"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "netflix",
+    "template": true
+  }
+]

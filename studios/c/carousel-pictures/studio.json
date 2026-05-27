@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Carousel Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108736",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hWjyrPZZlB1HYh0CNAyM9OewBwr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.carouselpictures.ca",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

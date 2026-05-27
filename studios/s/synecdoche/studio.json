@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Synecdoche",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72670"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.synecdoche.fr/",
+    "headquarters": "8, rue Étienne Marcel, 75002 Paris",
+    "placeholder": true
+  }
+]

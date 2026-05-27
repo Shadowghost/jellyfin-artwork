@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TOPPAN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180419",
+        "logo_uri": "https://image.tmdb.org/t/p/original/947W63GcJvuKMpexHPST3q0bNej.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.toppan.com/",
+    "placeholder": true
+  }
+]

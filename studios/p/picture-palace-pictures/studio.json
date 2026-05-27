@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Picture Palace Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "47256",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cY35r14vdubSlmunJtoJ85HWTsY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://picturepalacepictures.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

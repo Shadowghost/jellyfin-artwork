@@ -1,0 +1,16 @@
+[
+  {
+    "name": "FAP TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "288249",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dJuv52cQcpATtCVI7KPf3cYobKY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "VN",
+    "homepage": "https://faptvmedia.com",
+    "placeholder": true
+  }
+]

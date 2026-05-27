@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Vine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "178110"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

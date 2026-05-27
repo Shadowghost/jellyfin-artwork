@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Caffeine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240017"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

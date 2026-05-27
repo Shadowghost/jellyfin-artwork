@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Florida Factual",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214880",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7NMYDjeSS7DZTY1Z5p0ziYkawO3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://floridafactual.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Chicken & Egg Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75170",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mKw4pn8URnhzV5UDVpbovehWJ8d.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://chickeneggfilms.org/",
+    "placeholder": true
+  }
+]

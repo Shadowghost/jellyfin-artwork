@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les films du Lézard",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173308"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

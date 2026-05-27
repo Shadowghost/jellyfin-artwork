@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Trovare Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245863"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Berlin-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32655"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

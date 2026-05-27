@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PKM Filmproduktion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258325",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kKDLBHCMKqbwPlPHRCRwXKiYOsZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "https://www.pkmfilm.com/",
+    "headquarters": "Klagenfurt am Wörthersee",
+    "placeholder": true
+  }
+]

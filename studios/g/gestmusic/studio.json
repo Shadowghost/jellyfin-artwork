@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gestmusic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96641",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zyOkMTdn2tyueZ1oLmN9s41ODxc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.gestmusic.es",
+    "headquarters": "Barcelona, Catalonia, Spain",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lucky Bob",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196047",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lK17dkRvUWRszIaMSCLERiqZsvK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://luckybob.pl/",
+    "headquarters": "Bydgoszcz, Kujawsko-Pomorskie",
+    "placeholder": true
+  }
+]

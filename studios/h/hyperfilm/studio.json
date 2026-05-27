@@ -1,0 +1,13 @@
+[
+  {
+    "name": "HyperFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220053"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

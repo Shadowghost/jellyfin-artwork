@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Cible Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245743"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

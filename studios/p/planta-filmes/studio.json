@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Planta Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "246690"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

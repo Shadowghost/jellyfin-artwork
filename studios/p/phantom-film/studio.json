@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Phantom Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "44989",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uKIK2nhEzHwdwPgj1qZlTS0jNc5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://phantom-film.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "BBC Arts",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12935",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rml1bBbFJ33HE0rTrkNpuFVfpAQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

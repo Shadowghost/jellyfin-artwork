@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Filmhaus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4565"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

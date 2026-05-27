@@ -1,0 +1,14 @@
+[
+  {
+    "name": "HWIC Filmworks",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90024",
+        "logo_uri": "https://image.tmdb.org/t/p/original/34o0JwyNxeICajABAn5OSjdOlp0.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

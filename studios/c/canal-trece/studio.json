@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Canal Trece",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255580",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8IfmgIR65d3Z9wDstlT8IZMGcGW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CO",
+    "headquarters": "Bogotá, Colombia",
+    "placeholder": true
+  }
+]

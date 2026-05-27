@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TVA Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12567",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3DyEznBXXfh3cvp5MCJXWH4gzhi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.tvafilms.ca",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Finanziaria Cinematografica Italiana (FICIT)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73426"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

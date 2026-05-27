@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jane Goodall Institute",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225100",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6tGnGdI6WduImsKNNdcbJ3ktq6a.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://janegoodall.org/",
+    "headquarters": "Washington, D.C.",
+    "placeholder": true
+  }
+]

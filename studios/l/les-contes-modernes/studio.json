@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Contes Modernes",
+    "country": "FR",
+    "homepage": "https://www.lescontesmodernes.fr/",
+    "headquarters": "Bourg-lès-Valence, Drôme",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121045",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hPpfekiqg9VyIA69BvIcbcoXhaf.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "World Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114136"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

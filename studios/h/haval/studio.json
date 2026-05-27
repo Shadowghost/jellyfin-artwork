@@ -1,0 +1,15 @@
+[
+  {
+    "name": "HAVAL",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118213",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mCkUTgy3a1tLdmxgHPA54aPKpCn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Incomplete Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123968"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://incompletepictures.com/",
+    "placeholder": true
+  }
+]

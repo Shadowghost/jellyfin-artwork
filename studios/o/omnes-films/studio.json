@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Omnes Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122661",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j4Y7gPm22IKsgqJX3rBrhVlgkkL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.omnesfilms.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

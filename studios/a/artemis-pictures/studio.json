@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Artemis Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "190403",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oUcDD3dbwTY8sWfndPSoX1vdb5d.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.artemis-pics.com/",
+    "headquarters": "New York & Los Angeles",
+    "placeholder": true
+  }
+]

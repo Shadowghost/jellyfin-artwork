@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Wish/Art Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159805",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lpHiYfjJAegmTu2DQR3JJDQLtIP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://wish-art-films.com",
+    "placeholder": true
+  }
+]

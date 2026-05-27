@@ -1,0 +1,16 @@
+[
+  {
+    "name": "KBSU",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103180",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xvgNRrkgfbfo1YT8dInxUKKz8uT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://kbsu.ru/",
+    "placeholder": true
+  }
+]

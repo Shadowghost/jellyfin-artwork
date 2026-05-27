@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nexus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290368"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

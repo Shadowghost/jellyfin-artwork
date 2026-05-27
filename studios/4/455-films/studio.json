@@ -1,0 +1,17 @@
+[
+  {
+    "name": "455 Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7525",
+        "logo_uri": "https://image.tmdb.org/t/p/original/47usCASaQHoo0OHVarFhBlY0wz6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.455films.com/",
+    "headquarters": "Hollywood, California, United States",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cats Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172384"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

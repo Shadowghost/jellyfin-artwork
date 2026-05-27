@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Manga Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90325"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

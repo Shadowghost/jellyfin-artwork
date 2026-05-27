@@ -1,0 +1,16 @@
+[
+  {
+    "name": "DaKINO Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11192",
+        "logo_uri": "https://image.tmdb.org/t/p/original/efQJey0ecJwa1LGkRLHrWMLZnFd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "headquarters": "Bucharest",
+    "placeholder": true
+  }
+]

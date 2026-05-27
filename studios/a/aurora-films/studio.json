@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Aurora Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7059",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xVFZ1RvZNvAMe7vGH8369fNW0bP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.aurorafilms.fr",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

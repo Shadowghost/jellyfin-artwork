@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Double Dream",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152809",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bdtAEMJpIaVW78c78POabARpotx.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

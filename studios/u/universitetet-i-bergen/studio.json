@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Universitetet i Bergen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131250",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d0JGGIQorYZNDy4UfGCESum2B1V.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.uib.no/",
+    "headquarters": "Bergen",
+    "placeholder": true
+  }
+]

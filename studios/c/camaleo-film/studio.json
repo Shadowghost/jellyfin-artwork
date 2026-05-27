@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Camaleo Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152885",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r5FrL52tTZ60Qdt7BNRRNP8Szws.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.camaleocinema.it/it/home/",
+    "headquarters": "Roma",
+    "placeholder": true
+  }
+]

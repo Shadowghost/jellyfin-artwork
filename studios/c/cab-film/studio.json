@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CAB Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238888"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://cab-film.io",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

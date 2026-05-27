@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vigie Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205669",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tQiAHJUg5MarZTJkdq3onPEccc2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.vigie-production.com/",
+    "headquarters": "Marseille",
+    "placeholder": true
+  }
+]

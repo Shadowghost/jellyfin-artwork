@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Fred Berner Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89312"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

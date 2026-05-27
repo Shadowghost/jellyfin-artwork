@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Televisión Nacional de Chile",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75686",
+        "logo_uri": "https://image.tmdb.org/t/p/original/edyWZcduu9EC9Mr4v8TK8Mhhqxj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "http://tvn.cl",
+    "headquarters": "Santiago",
+    "placeholder": true
+  }
+]

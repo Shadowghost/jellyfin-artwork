@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Madonna",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20673",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mnCx3Nhp5P2qOr2T2kpBe67U531.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.madonna-av.com/",
+    "placeholder": true
+  }
+]

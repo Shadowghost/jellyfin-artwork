@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Películas Imaginarias",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198042"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

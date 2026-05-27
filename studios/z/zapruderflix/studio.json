@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ZapruderFlix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154842"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

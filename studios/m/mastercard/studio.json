@@ -1,0 +1,15 @@
+[
+  {
+    "name": "MasterCard",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134284"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.mastercard.ru/",
+    "placeholder": true
+  }
+]

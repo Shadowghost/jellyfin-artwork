@@ -1,0 +1,13 @@
+[
+  {
+    "name": "docMovie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98421"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tvonly",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147090"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ukbar Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8680",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lTvO3MFX5eogjWEpWmLUipxeKVi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "http://www.ukbarfilmes.com",
+    "headquarters": "Lisboa",
+    "placeholder": true
+  }
+]

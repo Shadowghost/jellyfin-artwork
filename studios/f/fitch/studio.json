@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fitch",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124581",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aT2CqEmX1Y0fcdlxAZDUjgSL95R.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.fitch-av.com",
+    "placeholder": true
+  }
+]

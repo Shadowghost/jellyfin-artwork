@@ -1,0 +1,13 @@
+[
+  {
+    "name": "i-tvshows",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255689"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

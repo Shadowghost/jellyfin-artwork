@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Concordia University",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135535",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gMoXUftoSMrWSNifbVxTdMepSEE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.concordia.ca/",
+    "placeholder": true
+  }
+]

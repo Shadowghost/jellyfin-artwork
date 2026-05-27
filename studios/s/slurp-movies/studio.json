@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Slurp Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241889"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

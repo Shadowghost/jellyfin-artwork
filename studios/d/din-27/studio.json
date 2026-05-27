@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DIN 27",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111768"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

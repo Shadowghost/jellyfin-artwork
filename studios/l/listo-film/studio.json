@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Listo Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33338"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "placeholder": true
+  }
+]

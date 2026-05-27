@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Gezetfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30502"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Citytv",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153974",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p102FhmRQUJMASyPMNCtlefVxWx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.citytv.com",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

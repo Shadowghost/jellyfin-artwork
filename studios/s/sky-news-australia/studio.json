@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Sky News Australia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176310",
+        "logo_uri": "https://image.tmdb.org/t/p/original/edCUVgojPJyheOlbTIdYoIQjrU1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Région Provence Côte d'Azur",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2318"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "RAINN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93672",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4dmvDrAiekiiigJVZjr0jtmY6Tq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.rainn.org",
+    "placeholder": true
+  }
+]

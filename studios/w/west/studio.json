@@ -1,0 +1,13 @@
+[
+  {
+    "name": "West",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "261900"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

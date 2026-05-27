@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Národní divadlo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103344"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.narodni-divadlo.cz/en",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Moviehouse Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72788"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

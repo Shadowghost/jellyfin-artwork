@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Seven Elephants",
+    "country": "DE",
+    "homepage": "https://www.seven-elephants.de/",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193794",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dCqlaYEQ4ErPKoGxYUQZmTcYqhb.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

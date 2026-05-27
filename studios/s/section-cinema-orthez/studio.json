@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Section Cinéma Orthez",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "266927",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iyHvRrUgFoXXKIvvvvJ1Gh9T8yf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Orthez",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nashe Kino",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46939",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ui0aY1K8PqGL97loUiFpo33KvZc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://nkino.ru/",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

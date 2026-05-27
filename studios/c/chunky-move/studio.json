@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Chunky Move",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205119"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

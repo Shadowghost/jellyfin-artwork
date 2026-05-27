@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pinkmovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210872"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

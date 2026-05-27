@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fondazione MAST",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221806",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fo5w6HyWVhQVTLGPmaxraykpUs5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.mast.org/",
+    "headquarters": "Bologna",
+    "placeholder": true
+  }
+]

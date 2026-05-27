@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kuznitsa",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166104",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cTFm04eOYFTYD8s794tUqBdSFRz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://kuznitsa.media",
+    "placeholder": true
+  }
+]

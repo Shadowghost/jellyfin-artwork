@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Videotomia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150764",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b8u0DtLODa8ItgbwjhqOX3B6isP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://videotomia.com.ar",
+    "placeholder": true
+  }
+]

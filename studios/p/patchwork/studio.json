@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Patchwork",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238779"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

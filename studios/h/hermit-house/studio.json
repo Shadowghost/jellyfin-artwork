@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Hermit House",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "190425"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

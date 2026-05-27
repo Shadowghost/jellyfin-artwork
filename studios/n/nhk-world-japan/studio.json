@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NHK WORLD-JAPAN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194092",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dnoNljXZQkHQubzaqME1mFRRBgJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www3.nhk.or.jp/nhkworld",
+    "placeholder": true
+  }
+]

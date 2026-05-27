@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Filmsquad",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166380",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w7jeLWAWm7lPzfIWDjYVIupbHNt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "http://filmsquad.hu/en/",
+    "placeholder": true
+  }
+]

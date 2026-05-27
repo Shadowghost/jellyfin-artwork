@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Dog Day Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77713",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3ydDmL01cvUXqVJWo05YglDsgC2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://dogdayfilms.com",
+    "placeholder": true
+  }
+]

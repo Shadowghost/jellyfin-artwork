@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pirate Movie Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4920"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "http://pirate-movie-production.com",
+    "headquarters": "Innsbruck, Tyrol",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Film Representations",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48423"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

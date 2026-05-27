@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Indiana University",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104074",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fEiBXFtNJMykJRsfp8MWGbwv4f1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

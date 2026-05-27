@@ -1,0 +1,14 @@
+[
+  {
+    "name": "SUMA production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175107"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "placeholder": true
+  }
+]

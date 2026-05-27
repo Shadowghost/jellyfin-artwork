@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Acme Rocket Fuel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141998"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

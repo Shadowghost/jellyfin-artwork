@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Exemplary Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157114"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

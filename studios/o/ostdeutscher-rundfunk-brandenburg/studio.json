@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Ostdeutscher Rundfunk Brandenburg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85146",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2eG5vjJHl7woTbaqjVuWHcNHtGU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

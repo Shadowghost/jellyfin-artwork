@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Asteroide",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97830"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

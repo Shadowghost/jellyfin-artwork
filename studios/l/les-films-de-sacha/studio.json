@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films de Sacha",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111429"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

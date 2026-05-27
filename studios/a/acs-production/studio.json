@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ACS Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218611"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

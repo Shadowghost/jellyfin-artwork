@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Plot Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157861"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

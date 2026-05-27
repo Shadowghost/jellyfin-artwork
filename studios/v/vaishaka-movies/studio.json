@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Vaishaka Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18474"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

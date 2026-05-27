@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Gascoin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18060"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

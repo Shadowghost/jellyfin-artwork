@@ -1,0 +1,16 @@
+[
+  {
+    "name": "KM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139314",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r4oqKh3qqBJkZpcpCo5IqHIozc1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://kmprod.fr",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Third Man Records",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51083",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8QBMjrhxiXcZ9J0QmXUHK9s8euF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://thirdmanrecords.com",
+    "headquarters": "Nashville, Tennessee",
+    "placeholder": true
+  }
+]

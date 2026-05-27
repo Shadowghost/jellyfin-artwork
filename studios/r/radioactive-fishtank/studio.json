@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Radioactive Fishtank",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123134"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

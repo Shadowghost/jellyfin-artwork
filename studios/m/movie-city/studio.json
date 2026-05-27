@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie City",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63560"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

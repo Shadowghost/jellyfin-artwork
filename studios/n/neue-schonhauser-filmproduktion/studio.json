@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Neue Schönhauser Filmproduktion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20326",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nHlxIRE028LcJc6rOAjK12OwA54.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://neueschoenhauser.de",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

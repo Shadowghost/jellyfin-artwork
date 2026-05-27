@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Metropolitan Filmexport",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16419",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8HbaRV1gwW9FTHFvl31tpwGFleK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://metrofilms.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

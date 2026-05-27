@@ -1,0 +1,14 @@
+[
+  {
+    "name": "D-Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "251207"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

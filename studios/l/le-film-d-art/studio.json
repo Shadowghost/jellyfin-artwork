@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Le Film d'art",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1573",
+        "logo_uri": "https://image.tmdb.org/t/p/original/igpg8TFkFaoNNtBB6y4fgsW5XJc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

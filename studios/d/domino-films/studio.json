@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Domino Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34000",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h1StHv8SrIQI0DOB8z53UDwCO7S.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

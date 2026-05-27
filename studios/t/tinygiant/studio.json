@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tinygiant",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217122",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yvL2vLmhuiW8cq5BxCRGTBTuJAN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://tinygiant.tv/",
+    "headquarters": "Brooklyn, New York",
+    "placeholder": true
+  }
+]

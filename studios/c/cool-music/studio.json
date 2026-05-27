@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cool Music",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1022"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

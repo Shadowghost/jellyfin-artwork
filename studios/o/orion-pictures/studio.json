@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Orion Pictures",
+    "description": "American film production and distribution company, historically behind Best Picture winners Amadeus, Platoon, Dances with Wolves and The Silence of the Lambs, now a label under Amazon MGM Studios.",
+    "country": "US",
+    "type": "studio",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41",
+        "logo_uri": "https://image.tmdb.org/t/p/original/em0rOXVRu3qprWZCx58uDDV2fze.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

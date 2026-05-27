@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SPVision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51785"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

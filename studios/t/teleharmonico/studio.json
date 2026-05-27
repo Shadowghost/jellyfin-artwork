@@ -1,0 +1,13 @@
+[
+  {
+    "name": "teleharmonico",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250825"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Red Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252392"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

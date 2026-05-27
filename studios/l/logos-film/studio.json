@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Logos Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36226",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g3iNdE6witLRcb8p6iQKvweAM9Q.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.logosfilm.co.kr/index.php",
+    "headquarters": "Gangnam, Seoul, South Korea",
+    "placeholder": true
+  }
+]

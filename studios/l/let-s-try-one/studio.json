@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Let's Try One",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162645",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4LV1g1tcXeHVZKLkoecB6v6zuC3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.letstryone.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

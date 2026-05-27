@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Florida Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147947",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3CenyOu7CDwx2yPqp8lxUgukj4y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.floridatv-entertainment.de/#TV",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

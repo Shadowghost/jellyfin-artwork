@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Little Dragon Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113345",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nEzvhhl0uiLJ65vdAlBhlEuX6T2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

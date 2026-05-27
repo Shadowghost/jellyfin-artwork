@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ManifestoFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91704"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Southern Cross Ten",
+    "description": "Australian regional television network, a Network 10 affiliate operating in regional Queensland, New South Wales and Victoria until rebranding in 2016.",
+    "country": "AU",
+    "type": "broadcast-network",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Bruxelles Capitale",
+    "description": "Federal region of Belgium comprising 19 municipalities including the city of Brussels; commonly funds and supports Belgian film productions.",
+    "country": "BE",
+    "type": "government-agency",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72497"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Brussels-Capital Region"
+    ],
+    "template": true
+  }
+]

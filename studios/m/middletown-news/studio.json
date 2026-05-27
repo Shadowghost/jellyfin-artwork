@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Middletown News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103515"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

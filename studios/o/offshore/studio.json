@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Offshore",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52116",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8PX9wy2BxFA7ISBBUxUPPNbVf5C.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.offshore.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

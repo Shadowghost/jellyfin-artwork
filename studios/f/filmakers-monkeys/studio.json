@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Filmakers Monkeys",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230902",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xbfiH9e9L1bfJBZ8IapmMCsNV7h.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://filmakersmonkeys.com",
+    "placeholder": true
+  }
+]

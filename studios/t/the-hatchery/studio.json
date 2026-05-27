@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Hatchery",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7613",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gculJ4InOxw8E9aQ7nqorDxG2Us.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "placeholder": true
+  }
+]

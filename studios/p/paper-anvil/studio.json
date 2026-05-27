@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Paper Anvil",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218232",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bfp3Hc4qUMUn2CEKovTnwqEd4Ht.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.paper-anvil.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

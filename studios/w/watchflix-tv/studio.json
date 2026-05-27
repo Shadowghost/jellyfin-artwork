@@ -1,0 +1,13 @@
+[
+  {
+    "name": "WATCHFLIX TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201402"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

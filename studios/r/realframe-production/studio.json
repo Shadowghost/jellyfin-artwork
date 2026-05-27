@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Realframe production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165566"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

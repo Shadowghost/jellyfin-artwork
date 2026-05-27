@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Little Stranger",
+    "country": "US",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26402",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1BFbFgEhD1tJShFTYPNt87q99rD.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

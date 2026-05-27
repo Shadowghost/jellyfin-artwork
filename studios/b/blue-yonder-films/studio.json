@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Blue Yonder Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49126",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9wy3BrMQ6afX6rqPc4I03k2lRuA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "La Forma Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140207"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "https://formacine.com/",
+    "placeholder": true
+  }
+]

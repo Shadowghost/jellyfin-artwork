@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Intrinsic Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20100",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sZ1vYvQWxVgQRUgJLv96pxcFrwX.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

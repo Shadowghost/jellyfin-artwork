@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Hub Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180302",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iGHBdl3b2htqsdV0YI6EvvyT6lB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://thehubfeatures.com/",
+    "headquarters": "Basel",
+    "placeholder": true
+  }
+]

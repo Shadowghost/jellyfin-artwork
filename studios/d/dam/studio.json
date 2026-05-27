@@ -1,0 +1,14 @@
+[
+  {
+    "name": "DAM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183746",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AbrHHGXb1oFJshkFSTvOqO0cQIX.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

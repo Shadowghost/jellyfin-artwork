@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Purin Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123568",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ksokydHO08gNsR8W2Vh3j7i4xse.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TH",
+    "homepage": "https://www.purinpictures.org/aboutus",
+    "headquarters": "Bangkok",
+    "placeholder": true
+  }
+]

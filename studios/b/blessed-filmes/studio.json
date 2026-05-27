@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Blessed Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168869",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u7zQh4HwH1pejUtaRHLbMFyC1TO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

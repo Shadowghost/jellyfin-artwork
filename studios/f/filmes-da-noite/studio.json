@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Filmes da Noite",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172062"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

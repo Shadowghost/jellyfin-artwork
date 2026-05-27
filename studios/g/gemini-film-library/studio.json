@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Gemini Film & Library",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171329"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

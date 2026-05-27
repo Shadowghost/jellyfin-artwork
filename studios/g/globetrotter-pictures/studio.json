@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Globetrotter Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128961",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ru4ki22fuJmjaw0M7PCZ23pebZY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://globetrotterpictures.com",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Frima",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165136",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4mkDO2XcS4PdH4AXGkv35FAEZMo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.frimastudio.com/en/",
+    "headquarters": "Quebec City, Quebec",
+    "placeholder": true
+  }
+]

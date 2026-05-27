@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Soccer Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90809"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

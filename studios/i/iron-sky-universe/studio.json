@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Iron Sky Universe",
+    "country": "FI",
+    "homepage": "http://ironsky.net/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78095",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nBKrtrLJmC8nfucMOKewZchzKJh.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

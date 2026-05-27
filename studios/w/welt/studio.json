@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Welt",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118699",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vwRFENNv8h0ZLRJbjcyWNxNbX3g.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.welt.de",
+    "headquarters": "Berlin, Deutschland",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "walter production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185056"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

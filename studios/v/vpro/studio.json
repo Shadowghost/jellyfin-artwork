@@ -1,0 +1,17 @@
+[
+  {
+    "name": "VPRO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239",
+        "logo_uri": "https://image.tmdb.org/t/p/original/96hCWEsfmTZQsoUap0CcG21qaA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.vprobroadcast.com",
+    "headquarters": "Hilversum",
+    "placeholder": true
+  }
+]

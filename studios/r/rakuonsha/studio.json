@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Rakuonsha",
+    "country": "JP",
+    "headquarters": "Sumiyoshi-cho, Shinjuku, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "244119"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

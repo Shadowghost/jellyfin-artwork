@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ici Centre Val de Loire",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99570",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yWSwE54YlP9r2KNmlioiAn7yC7Y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Orléans",
+    "placeholder": true
+  }
+]

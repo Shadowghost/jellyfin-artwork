@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Prisma Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155911",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hHqytK6u6SYrSHsq6fgViBUZ8YX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "placeholder": true
+  }
+]

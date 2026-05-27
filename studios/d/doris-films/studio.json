@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Doris Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170357",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qAJS2SY6FAT8O5BT6CWkzzADjVR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "headquarters": "Liverpool",
+    "placeholder": true
+  }
+]

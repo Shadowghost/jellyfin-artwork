@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cine Mosaic",
+    "country": "US",
+    "homepage": "http://www.cinemosaic.net",
+    "headquarters": "New York City, New York, USA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21864"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Freyja Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "286737",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5kTdYBmmgSHqg625qavwdsCkRXG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://wearefreyjafilms.com",
+    "placeholder": true
+  }
+]

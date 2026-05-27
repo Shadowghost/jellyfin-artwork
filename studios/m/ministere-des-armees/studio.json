@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ministère des Armées",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151018",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9w5fZX47lnO75WLpoYj1Fdrc0zy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.defense.gouv.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

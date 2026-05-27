@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Importfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23074"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

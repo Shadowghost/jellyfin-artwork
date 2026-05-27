@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Libkow-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99036"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

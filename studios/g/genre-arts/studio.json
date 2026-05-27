@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Genre Arts",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114276"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

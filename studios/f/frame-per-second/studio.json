@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Frame Per Second",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158840",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b75gmbJoVPdO5u9c6vBLrf12JWi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BD",
+    "placeholder": true
+  }
+]

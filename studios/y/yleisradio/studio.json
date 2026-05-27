@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Yleisradio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "269523"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

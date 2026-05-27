@@ -1,0 +1,32 @@
+[
+  {
+    "name": "UFA Fiction",
+    "description": "German production company within UFA GmbH, specializing in fiction TV and film productions.",
+    "country": "DE",
+    "type": "production-company",
+    "homepage": "http://www.ufa-fiction.de",
+    "headquarters": "Potsdam",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24307",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xJo66MG6C99FeO81ddXVswjEmSB.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

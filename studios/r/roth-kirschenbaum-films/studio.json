@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Roth-Kirschenbaum Films",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105052",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v0s09QaxgCrrXrbz2LctvSfRKRi.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

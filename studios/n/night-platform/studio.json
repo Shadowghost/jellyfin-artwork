@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Night Platform",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220253",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bQ04Oaec2CQsK6TUXcpEPxbrZJg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.nightplatforminc.com/",
+    "placeholder": true
+  }
+]

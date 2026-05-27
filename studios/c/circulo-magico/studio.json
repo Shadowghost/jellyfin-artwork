@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Círculo Mágico",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80050"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

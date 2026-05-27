@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinetrip",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262007"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

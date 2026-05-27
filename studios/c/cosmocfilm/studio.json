@@ -1,0 +1,13 @@
+[
+  {
+    "name": "cosmocfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245586"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

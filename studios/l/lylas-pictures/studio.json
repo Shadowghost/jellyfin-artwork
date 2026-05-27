@@ -1,0 +1,16 @@
+[
+  {
+    "name": "LYLAS Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107514",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f2PwAwZWOIoys9s1OuwecCwdcMj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.lylaspictures.com",
+    "placeholder": true
+  }
+]

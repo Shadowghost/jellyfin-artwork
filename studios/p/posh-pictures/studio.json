@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Posh Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214061"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

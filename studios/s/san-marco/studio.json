@@ -1,0 +1,14 @@
+[
+  {
+    "name": "San Marco",
+    "country": "IT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25287"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

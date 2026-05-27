@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Chilevisión",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154651",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nZAblk9dd36BmwuPoK61Tb2xHTQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "https://www.chilevision.cl",
+    "headquarters": "Santiago",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NEUESUPER",
+    "country": "DE",
+    "homepage": "https://neuesuper.de/en/",
+    "headquarters": "Munich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28444",
+        "logo_uri": "https://image.tmdb.org/t/p/original/10tdmGEeklEvvgECcCqt7ScsqNX.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

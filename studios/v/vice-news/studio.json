@@ -1,0 +1,13 @@
+[
+  {
+    "name": "VICE News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142976"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

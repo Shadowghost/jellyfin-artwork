@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bounce TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165662",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3mLyttklYa1zWSP9VR7xwypNwe2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.bouncetv.com/",
+    "placeholder": true
+  }
+]

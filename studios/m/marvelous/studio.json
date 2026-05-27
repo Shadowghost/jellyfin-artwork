@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Marvelous",
+    "country": "JP",
+    "homepage": "https://www.marv.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169858",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1IjKiiE3uuh7PheIdX1ogmayPHG.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

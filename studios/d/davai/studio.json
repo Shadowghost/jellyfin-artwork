@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DAVAI",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116251",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6uqyDt3Zeu5rwo1ciInsFikkMl9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://davai.ca",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Zen Mountain",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5520"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

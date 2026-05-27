@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Teatro dell'Opera di Roma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128019"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.operaroma.it/",
+    "headquarters": "Rome, Italy",
+    "placeholder": true
+  }
+]

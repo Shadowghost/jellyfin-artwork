@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Seden Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99099"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

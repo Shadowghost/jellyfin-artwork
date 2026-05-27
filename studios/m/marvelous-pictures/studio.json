@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Marvelous Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163484",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1vboJzukKPLa6gDdcK6xeRElaQO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.marvelouspictures.co.uk/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

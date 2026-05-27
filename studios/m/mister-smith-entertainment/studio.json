@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mister Smith Entertainment",
+    "country": "GB",
+    "homepage": "https://mistersmithent.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100125",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7hfV6fYqdBxfL8BbgcRTM2hNNqH.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

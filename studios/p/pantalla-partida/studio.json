@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pantalla Partida",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55205",
+        "logo_uri": "https://image.tmdb.org/t/p/original/assW75ccKbB7KtnyTkQDLSklODo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://pantallapartida.es",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

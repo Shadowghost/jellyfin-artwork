@@ -1,0 +1,15 @@
+[
+  {
+    "name": "La Courte Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199466",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dQ9tVh9gW1HC5MU37qJIEvBhzdU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

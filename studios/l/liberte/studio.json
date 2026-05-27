@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Liberté",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "293253",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u2WOgoS4ngCEMfRl4KrTTiYBWxX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://www.liberte.fi/",
+    "headquarters": "Kasarmikatu 2, 00140 Helsinki, Finland",
+    "placeholder": true
+  }
+]

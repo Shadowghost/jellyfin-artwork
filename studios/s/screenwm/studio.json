@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ScreenWM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "294570"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

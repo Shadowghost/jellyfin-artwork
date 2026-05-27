@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Prefeitura de Campos dos Goytacazes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "282085",
+        "logo_uri": "https://image.tmdb.org/t/p/original/74rr7BRxrAwDYZWcCISayhQT4jS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.campos.rj.gov.br",
+    "headquarters": "Campos dos Goytacazes, RJ",
+    "placeholder": true
+  }
+]

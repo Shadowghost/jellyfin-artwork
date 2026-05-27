@@ -1,0 +1,17 @@
+[
+  {
+    "name": "3Cat",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211922",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jXI0xZEJabWaYtfqWxXyKuJJxzX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.ccma.cat/3cat/",
+    "headquarters": "Barcelona, Catalonia",
+    "placeholder": true
+  }
+]

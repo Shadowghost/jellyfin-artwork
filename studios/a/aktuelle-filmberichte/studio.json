@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Aktuelle Filmberichte",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153361"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

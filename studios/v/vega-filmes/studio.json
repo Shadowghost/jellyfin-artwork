@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Vega Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108440"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.vegafilmes.com.br",
+    "placeholder": true
+  }
+]

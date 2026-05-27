@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Die Gesellschaft DGS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121108",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eZ1CY8FUSCeVKzGU6wSTFCz1AUb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://die-gesellschaft.de/",
+    "headquarters": "Cologne",
+    "placeholder": true
+  }
+]

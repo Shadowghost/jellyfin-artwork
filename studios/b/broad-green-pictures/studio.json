@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Broad Green Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49389",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3rOhrdjnUHsf0GPa66b9KyR2MUx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.broadgreen.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

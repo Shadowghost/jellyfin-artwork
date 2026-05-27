@@ -1,0 +1,17 @@
+[
+  {
+    "name": "OIMA Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77102",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tQMyp6YMi8mV5Yf89Kci7LMD2aD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PY",
+    "homepage": "https://oima.tv/",
+    "headquarters": "Asunción",
+    "placeholder": true
+  }
+]

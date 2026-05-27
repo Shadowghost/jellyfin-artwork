@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Wanderhouse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "206301"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

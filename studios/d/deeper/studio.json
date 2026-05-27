@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Deeper",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120963",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sJEr7RbySN9IMp1Qzo7F5ZVqrdF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://deeper.com",
+    "placeholder": true
+  }
+]

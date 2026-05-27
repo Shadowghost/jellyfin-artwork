@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Regione Lombardia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90654"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Opengate",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272041"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

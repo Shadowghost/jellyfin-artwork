@@ -1,0 +1,17 @@
+[
+  {
+    "name": "whiz movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "279331",
+        "logo_uri": "https://image.tmdb.org/t/p/original/blLGUvaxGdZQKlj1W4A50eV06Bj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://whizmovies.com",
+    "headquarters": "Pfäffikon, Zürich",
+    "placeholder": true
+  }
+]

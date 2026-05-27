@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Dallas Museum Of Art",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124578"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

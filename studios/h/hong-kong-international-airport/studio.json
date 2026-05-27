@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Hong Kong International Airport",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250218"
+      }
+    ],
+    "artwork": {},
+    "country": "HK",
+    "homepage": "https://www.hongkongairport.com/",
+    "placeholder": true
+  }
+]

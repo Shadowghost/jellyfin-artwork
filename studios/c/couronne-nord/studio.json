@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Couronne Nord",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96451",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kOFGD0xg4i3PG0QtPi9GZulDdcq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.couronnenord.ca",
+    "placeholder": true
+  }
+]

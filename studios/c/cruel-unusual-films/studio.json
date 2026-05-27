@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cruel & Unusual Films",
+    "country": "US",
+    "homepage": "http://cruelfilms.com/",
+    "headquarters": "Pasadena, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9995",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mAIGhOYhN4N2N0F7p4dbKhgXf3l.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

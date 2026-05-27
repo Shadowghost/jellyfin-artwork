@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Garena VN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "297148",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cGpkzSaU0IhsRBDqrWE2gDZCm76.png"
+      }
+    ],
+    "artwork": {},
+    "country": "VN",
+    "homepage": "https://www.garena.vn/",
+    "placeholder": true
+  }
+]

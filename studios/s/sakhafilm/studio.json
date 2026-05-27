@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sakhafilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75178",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qQ5saSp0OOBtrnq0yXtjiuJdgKu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://sakhafilm.ru/",
+    "headquarters": "Yakutsk, Sakha Republic",
+    "placeholder": true
+  }
+]

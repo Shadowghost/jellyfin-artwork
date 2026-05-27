@@ -1,0 +1,13 @@
+[
+  {
+    "name": "GardenMovies-EasyMovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211476"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

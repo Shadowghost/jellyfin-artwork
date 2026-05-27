@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Audiovizuálny fond",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191292",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8k7WWrjzRsTK9Pe39YDoEtpi8wZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SK",
+    "homepage": "https://www.avf.sk/",
+    "headquarters": "Bratislava, Slovenská republika",
+    "placeholder": true
+  }
+]

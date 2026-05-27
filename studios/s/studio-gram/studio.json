@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Studio Gram",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120836"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

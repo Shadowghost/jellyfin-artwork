@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Summit Entertainment",
+    "description": "American film production and distribution label of Lionsgate, best known for The Twilight Saga, John Wick, and Now You See Me franchises.",
+    "country": "US",
+    "type": "studio",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "491",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

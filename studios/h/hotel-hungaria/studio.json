@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hotel Hungaria",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96870",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Aqgaxvl8qtWnYwHzazr9L7RvzGt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.hotelhungaria.be/",
+    "headquarters": "Herent",
+    "placeholder": true
+  }
+]

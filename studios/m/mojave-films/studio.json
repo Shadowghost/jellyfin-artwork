@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mojave Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234076"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

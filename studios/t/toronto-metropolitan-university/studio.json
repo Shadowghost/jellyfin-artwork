@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Toronto Metropolitan University",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96056",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o2VlzDYQZyqPnaXx5dyyQ0I1ML1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.ryerson.ca/",
+    "headquarters": "Toronto, Ontario, Canada",
+    "placeholder": true
+  }
+]

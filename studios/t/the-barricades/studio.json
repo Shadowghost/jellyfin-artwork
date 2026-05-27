@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Barricades",
+    "country": "DE",
+    "homepage": "http://www.the-barricades.com",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166136",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bnXhVMb4vjz0QtqlmwYlQLMMYsg.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

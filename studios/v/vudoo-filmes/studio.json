@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Vudoo Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197761",
+        "logo_uri": "https://image.tmdb.org/t/p/original/87kbhwO3gSKA2oidjl6BHYbdM7R.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://vudoofilmes.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Important Flowers",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213665"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

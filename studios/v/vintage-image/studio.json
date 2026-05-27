@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Vintage Image",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102802"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Great Escape",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205516",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tx6QPkhCXKhOr18hAhPGvT4hZDE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.greatescape.world/",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

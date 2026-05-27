@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Atlantic Records",
+    "description": "American record label founded in 1947 by Ahmet Ertegun and Herb Abramson, now a subsidiary of Warner Music Group.",
+    "country": "US",
+    "type": "record-label",
+    "homepage": "https://www.atlanticrecords.com",
+    "headquarters": "New York City, New York",
+    "colors": [
+      {
+        "name": "Atlantic Red",
+        "hex": "#E2231A"
+      },
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "65827",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ztmpPuqN85InzAin8A3u0woCvbk.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

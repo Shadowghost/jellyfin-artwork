@@ -1,0 +1,30 @@
+[
+  {
+    "name": "AMC Networks International Iberia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122678",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eibONHTEwYEcEq4DOxN2FvKaWFW.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "ES",
+    "homepage": "https://amcnetworks.es/",
+    "headquarters": "Barcelona",
+    "template": true
+  }
+]

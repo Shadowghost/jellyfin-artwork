@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Walt Disney Television",
+    "description": "Division of The Walt Disney Company responsible for its television operations, including ABC, Disney Channel, FX, and other television assets.",
+    "country": "US",
+    "type": "production-company",
+    "parent_company": "Walt Disney Pictures",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "670",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rRGi5UkwvdOPSfr5Xf42RZUsYgd.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

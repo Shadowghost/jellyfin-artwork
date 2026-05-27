@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Pathé Live",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95917"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.pathelive.com",
+    "placeholder": true
+  }
+]

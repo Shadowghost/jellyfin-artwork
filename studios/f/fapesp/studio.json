@@ -1,0 +1,14 @@
+[
+  {
+    "name": "FAPESP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131617"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

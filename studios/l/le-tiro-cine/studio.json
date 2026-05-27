@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Le Tiro Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113463",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e3dNEEDqp0l5HvJWpSwCrw1naDS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://www.letirocine.com/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

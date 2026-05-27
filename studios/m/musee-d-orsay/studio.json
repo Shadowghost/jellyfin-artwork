@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Musée d'Orsay",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2381",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hmzO0vmTZjfGoMoS5pykenpmHWH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.musee-orsay.fr/en",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

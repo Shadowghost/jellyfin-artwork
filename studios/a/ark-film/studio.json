@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ARK-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24346",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bHux65ez7JBVT0QSqUkkvjTY3ZE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

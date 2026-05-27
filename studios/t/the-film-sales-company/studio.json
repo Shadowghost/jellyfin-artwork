@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Film Sales Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "227268",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o6PJaB2qf8sg3uTvvEzmAd8UOYO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.filmsalescorp.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Fox News",
+    "description": "American multinational conservative news and political commentary cable channel, owned by Fox Corporation.",
+    "country": "US",
+    "type": "news",
+    "colors": [
+      {
+        "name": "Fox News Blue",
+        "hex": "#003366"
+      },
+      {
+        "name": "Fox News Red",
+        "hex": "#B71C1C"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33754"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Arts Florissants",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79626",
+        "logo_uri": "https://image.tmdb.org/t/p/original/evt7rNSFXOHCMyDb3Pj1CqjASvE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.arts-florissants.com",
+    "headquarters": "Théâtre de Caen, France",
+    "placeholder": true
+  }
+]

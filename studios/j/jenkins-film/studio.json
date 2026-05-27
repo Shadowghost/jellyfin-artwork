@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Jenkins Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225931"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

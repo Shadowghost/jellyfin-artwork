@@ -1,0 +1,13 @@
+[
+  {
+    "name": "My Pet Flamingo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "288473"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

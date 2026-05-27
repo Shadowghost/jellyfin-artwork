@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Centre d'Art Contemporain de Genève",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107871",
+        "logo_uri": "https://image.tmdb.org/t/p/original/503irS8ysitatRqimavhpsWKD4S.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://centre.ch/en/",
+    "headquarters": "Geneva, Switzerland"
+  }
+]

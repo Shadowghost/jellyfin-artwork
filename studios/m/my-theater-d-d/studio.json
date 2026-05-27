@@ -1,0 +1,16 @@
+[
+  {
+    "name": "My Theater D.D.",
+    "country": "JP",
+    "homepage": "https://www.mytheaterdd.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150946",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nPJkczQVqcahJpt7jFtTgZeGiYN.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

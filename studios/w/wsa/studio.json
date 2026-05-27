@@ -1,0 +1,13 @@
+[
+  {
+    "name": "wsa",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241587"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Altofilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115407",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eWu9VGD5sUExsvNQTtxt6AyytgO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://www.altofilm.se/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Candlelight Media",
+    "description": "Family-friendly media production and distribution company specializing in faith-based and family entertainment.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://candlelightmedia.com",
+    "headquarters": "Orem, Utah",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6343",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8poirmC5GDAKaVO7JzZOb4WlNxJ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

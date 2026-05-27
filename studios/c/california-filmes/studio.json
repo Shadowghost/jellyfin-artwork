@@ -1,0 +1,14 @@
+[
+  {
+    "name": "California Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257597"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

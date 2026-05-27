@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Universum Film (UFA)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "811"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true,
+    "country": "DE",
+    "homepage": "https://www.universumfilm.de",
+    "headquarters": "München"
+  }
+]

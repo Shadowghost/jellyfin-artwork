@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Gamba Image",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "246605"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "name": "The Open University",
+    "description": "British public distance learning and research university; co-produces educational and documentary television programming with the BBC, often credited on-screen at the end of episodes.",
+    "country": "GB",
+    "type": "other",
+    "homepage": "https://www.open.ac.uk/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29377",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vA03q1cWhKFwxXOjmqDmTKMgNK7.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Banda Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140637"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

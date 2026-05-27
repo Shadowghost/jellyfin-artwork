@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Microscope",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204538"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

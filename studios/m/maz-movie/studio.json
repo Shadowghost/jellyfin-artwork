@@ -1,0 +1,17 @@
+[
+  {
+    "name": "maz&movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196577",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oo76MS37kFGBHQlTSDeEVTM302G.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://maz-movie.com/home-en/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

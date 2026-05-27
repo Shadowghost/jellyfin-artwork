@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Beeldbrigade",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "277051"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://beeldbrigade.nl",
+    "placeholder": true
+  }
+]

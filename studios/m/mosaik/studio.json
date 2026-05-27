@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mosaik",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38108"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

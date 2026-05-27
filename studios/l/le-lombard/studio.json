@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Le Lombard",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90869",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lpGOtrtdTErZ5yHxouYNRWlt6tZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.lelombard.com/",
+    "headquarters": "Bruxelles",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PhotoCineRent",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "254479"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Odessa Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116414"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

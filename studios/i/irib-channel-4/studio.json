@@ -1,0 +1,13 @@
+[
+  {
+    "name": "IRIB Channel 4",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "195197"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

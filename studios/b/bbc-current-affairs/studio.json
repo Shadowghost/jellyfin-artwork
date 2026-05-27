@@ -1,0 +1,14 @@
+[
+  {
+    "name": "BBC Current Affairs",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169941"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

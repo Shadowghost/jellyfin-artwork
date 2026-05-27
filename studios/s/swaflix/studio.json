@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Swaflix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180017"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

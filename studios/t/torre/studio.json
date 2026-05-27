@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Torre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "68409"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Musashi University",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240399"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.musashi.ac.jp",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

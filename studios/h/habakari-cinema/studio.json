@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Habakari Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41377",
+        "logo_uri": "https://image.tmdb.org/t/p/original/22E6xNsopONQ43Z06tWp6Ym7b4Y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

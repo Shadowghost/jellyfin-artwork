@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Blueskyview",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272183"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

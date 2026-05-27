@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Artworks Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104762",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vu56YuxJAJcfR6Kkw4QbyxYMqy8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://artworks.ru/",
+    "placeholder": true
+  }
+]

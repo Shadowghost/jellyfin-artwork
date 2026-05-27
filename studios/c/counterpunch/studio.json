@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CounterPunch",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239232"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

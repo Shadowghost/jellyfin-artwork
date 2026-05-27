@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BMC TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262319",
+        "logo_uri": "https://image.tmdb.org/t/p/original/GIKNUSdPU7xVNrcnhgaIEZNgvV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://thebmc.co.uk/en",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Première Heure",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70449"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.premiere-heure.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

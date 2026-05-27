@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Meter/Jarowskij",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272339",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ayRfT4SI1qNyk3OPmniduXz1C0k.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

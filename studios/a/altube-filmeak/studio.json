@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Altube Filmeak",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92027",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xYmtWTWRU0F0gl8dhwYCXdhkseE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://altubefilmeak.com/en",
+    "placeholder": true
+  }
+]

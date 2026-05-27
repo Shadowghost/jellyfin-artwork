@@ -1,0 +1,16 @@
+[
+  {
+    "name": "WeShort",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226005",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bCGfq6lgWSMRitn3i6t2oJjQieO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://weshort.com",
+    "placeholder": true
+  }
+]

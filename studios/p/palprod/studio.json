@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Palprod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191688",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n10CyzrSpXSzZqzoJSVGGCNzecX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.palprod.ch/",
+    "headquarters": "Palprod, Rue du Bourg 20, Martigny-Bourg, Switzerland",
+    "placeholder": true
+  }
+]

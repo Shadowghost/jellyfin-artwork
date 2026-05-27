@@ -1,0 +1,16 @@
+[
+  {
+    "name": "IFC Productions",
+    "country": "US",
+    "headquarters": "New York City, New Yrok",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26468",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d6FzZaLRy1Lbmj0ySIQ5dCpN0rp.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

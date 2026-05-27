@@ -1,0 +1,17 @@
+[
+  {
+    "name": "arthrofilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102755",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w9S4Y7v0seV8xLNT8qu71lMvX1g.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.arthrofilm.com",
+    "headquarters": "Oxford, England",
+    "placeholder": true
+  }
+]

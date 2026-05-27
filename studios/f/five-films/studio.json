@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Five Films",
+    "country": "IT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "387"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

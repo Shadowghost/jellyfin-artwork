@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Move Movie",
+    "country": "FR",
+    "homepage": "http://movemovie.net",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3500"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

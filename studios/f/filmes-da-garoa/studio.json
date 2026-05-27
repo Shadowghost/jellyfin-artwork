@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Filmes da Garoa",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104119"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.filmesdagaroa.com.br/",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

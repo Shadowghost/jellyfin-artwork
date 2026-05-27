@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Hulu",
+    "description": "American subscription streaming service majority-owned by The Walt Disney Company.",
+    "country": "JP",
+    "type": "streaming-service",
+    "colors": [
+      {
+        "name": "Hulu Green",
+        "hex": "#1CE783"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "292412",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5rWmEsTEYFKdoJdhPiNMVuLdhDb.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true,
+    "homepage": "https://ha-lu.jp/en",
+    "headquarters": "東京都港区赤坂7-4-7 シェ・イレーヌビル 2F"
+  }
+]

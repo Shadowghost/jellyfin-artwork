@@ -1,0 +1,17 @@
+[
+  {
+    "name": "L’Heure d’été",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "227235",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kq1GHwO3VL2Hczv2UZNqlWkfmwX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.lheuredete.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

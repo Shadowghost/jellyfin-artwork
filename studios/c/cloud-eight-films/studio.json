@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cloud Eight Films",
+    "country": "GB",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6707",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5bJmjTayNNSJt1VTEKDpXFM04H1.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

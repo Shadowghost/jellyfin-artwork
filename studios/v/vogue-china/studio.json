@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vogue China",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168768",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v9gSF61PXuGz9gYTNXnCROJodK8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://www.vogue.com.cn/",
+    "headquarters": "Beijing, China",
+    "placeholder": true
+  }
+]

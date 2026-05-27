@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Vsauce",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138634",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2B8wlIKD3lGz7Cd6mtNYBxkNDNK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.vsauce.com/#/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine Truco",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200255"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

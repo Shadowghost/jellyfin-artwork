@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ETC Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197001",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uRlS9zHYBaLQV1shKs8Io6YU9Yu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://etcfilmes.com.br/",
+    "placeholder": true
+  }
+]

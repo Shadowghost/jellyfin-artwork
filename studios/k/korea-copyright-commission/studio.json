@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Korea Copyright Commission",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205043",
+        "logo_uri": "https://image.tmdb.org/t/p/original/78dZ4tNuZeLWEYLq9ORZSJOidiX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.copyright.or.kr/eng/main.do",
+    "headquarters": "Jinju, South Gyeongsang, South Korea",
+    "placeholder": true
+  }
+]

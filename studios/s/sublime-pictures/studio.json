@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sublime Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270395"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Saltmill",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3430"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

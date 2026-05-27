@@ -1,0 +1,17 @@
+[
+  {
+    "name": "+Galeria",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111151",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6tLVvZZN8YyfBDE0bUXHvJNeisX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.maisgaleria.com.br/",
+    "headquarters": "São Paulo",
+    "placeholder": true
+  }
+]

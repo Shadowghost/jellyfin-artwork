@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Renderlah Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168516"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

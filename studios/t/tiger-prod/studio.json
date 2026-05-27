@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tiger Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225160"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

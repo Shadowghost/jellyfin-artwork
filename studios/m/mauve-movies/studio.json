@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mauve Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "235177"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cachorro Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124193"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Mynavi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "296831"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.mynavi.jp/",
+    "placeholder": true
+  }
+]

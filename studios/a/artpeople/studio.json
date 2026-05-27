@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ArtPeople",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12568",
+        "logo_uri": "https://image.tmdb.org/t/p/original/z8Wa2gNFpaiezCY6IKR3fwolAJB.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

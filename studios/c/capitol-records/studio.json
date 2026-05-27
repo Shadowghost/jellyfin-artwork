@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Capitol Records",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7150",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6wf9IWd1MKS3UR5cKVj5MMcyZcQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://capitolrecords.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

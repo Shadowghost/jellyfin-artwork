@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sektor Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33717",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xaBLBAnYp6crrrsF7UZLV3LhZb2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MK",
+    "homepage": "http://sektor.com.mk/",
+    "headquarters": "Skopje",
+    "placeholder": true
+  }
+]

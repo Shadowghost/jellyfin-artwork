@@ -1,0 +1,17 @@
+[
+  {
+    "name": "game1",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199423",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7gzTfck9FxYkWgTWOyLuxL4gthg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://game1.com/",
+    "headquarters": "Santa Monica, California",
+    "placeholder": true
+  }
+]

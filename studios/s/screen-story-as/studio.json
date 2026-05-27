@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Screen Story AS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131072",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sC05Eb3I2Wp67axcaLxzcMOtSbs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://screenstory.no",
+    "placeholder": true
+  }
+]

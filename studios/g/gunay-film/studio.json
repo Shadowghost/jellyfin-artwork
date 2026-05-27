@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Günay Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250905"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

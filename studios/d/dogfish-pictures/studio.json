@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Dogfish Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12650",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nGzVgMmnnaArZG3Dw1Qxmke37vH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Teatro alla Scala",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26664",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tmdslqWvUZVJoSmVD142vpD6845.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.teatroallascala.org/",
+    "headquarters": "Milan, Italy",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Join-Hero",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212200"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

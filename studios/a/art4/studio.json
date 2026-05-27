@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Art4",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123894"
+      }
+    ],
+    "artwork": {},
+    "country": "SK",
+    "homepage": "https://www.art4.sk/",
+    "headquarters": "Bratislava",
+    "placeholder": true
+  }
+]

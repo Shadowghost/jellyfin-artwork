@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lire3Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230080"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

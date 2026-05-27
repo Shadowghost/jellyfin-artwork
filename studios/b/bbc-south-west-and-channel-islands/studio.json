@@ -1,0 +1,28 @@
+[
+  {
+    "name": "BBC South West and Channel Islands",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160974",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zPrh7EImD0MIFdIVOLszReWJDc.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "GB",
+    "template": true
+  }
+]

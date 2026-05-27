@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Take25 Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26750"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

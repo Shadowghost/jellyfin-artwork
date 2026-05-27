@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cinema Arsenal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118553"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.cinemaarsenal.cz/",
+    "headquarters": "Prague, Czech Republic",
+    "placeholder": true
+  }
+]

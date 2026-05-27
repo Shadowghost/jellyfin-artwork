@@ -1,0 +1,15 @@
+[
+  {
+    "name": "FilmSystrene",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133395"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "headquarters": "Oslo",
+    "placeholder": true
+  }
+]

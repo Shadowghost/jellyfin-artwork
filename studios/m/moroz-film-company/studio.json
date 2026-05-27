@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Moroz Film Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158463",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wgzfLnXig3KT0B6Mmym0zeBOK1X.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://morozfilm.ru/",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

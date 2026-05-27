@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Flix Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140291"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

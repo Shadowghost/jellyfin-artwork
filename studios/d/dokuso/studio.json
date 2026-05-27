@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Dokuso",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196891",
+        "logo_uri": "https://image.tmdb.org/t/p/original/epH16V3DzLIKSfVKWCvD0kHNnCx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gretchenfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165756",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kZBJ7fEFnItyDo2TaAIWyDlnovs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://gretchenfilm.com/",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

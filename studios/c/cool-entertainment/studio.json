@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cool Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "296167",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AbyD2g4ePCEVDHUFHtXq6DBqgzy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.coolwave.co.jp/",
+    "placeholder": true
+  }
+]

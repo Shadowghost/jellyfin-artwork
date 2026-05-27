@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Book of Shadows",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197107"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

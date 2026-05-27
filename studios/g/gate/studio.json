@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Gate",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221476"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

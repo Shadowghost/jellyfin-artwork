@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Crisol Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154794",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v7r5c2D0SjkSapyK8kQoackjMFK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.crisolfilmes.com/",
+    "placeholder": true
+  }
+]

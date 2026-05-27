@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Magma Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210546"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "https://www.magmacinema.com/",
+    "headquarters": "Budapest",
+    "placeholder": true
+  }
+]

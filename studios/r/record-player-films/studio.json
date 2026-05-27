@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Record Player Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174231",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pzVptQBeICpxnz0j7C3sLQaqwtI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.recordplayerfilms.com",
+    "placeholder": true
+  }
+]

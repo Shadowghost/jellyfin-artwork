@@ -1,0 +1,14 @@
+[
+  {
+    "name": "NBS",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256831"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

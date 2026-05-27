@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DEFA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280780",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bDdeZdCvlm67f3t2tbs7sNFtJxm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.defa-stiftung.de",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Notes",
+    "country": "JP",
+    "homepage": "http://www.typemoon.com/index.html",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60494"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Salty Pictures",
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42053",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q7VNAacEiPVzsgCrqtaMooxiPz.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

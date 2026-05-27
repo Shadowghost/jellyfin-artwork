@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Big Movie Zoo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154368",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zIJoMv9FsH5rzqv479nSV2Ed45F.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "homepage": "https://bigmoviezoo.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AMP",
+    "country": "US",
+    "homepage": "https://www.amp-film.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142217",
+        "logo_uri": "https://image.tmdb.org/t/p/original/myKZ3ROp8E7e65od6f8w5PRcAcH.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "humusfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225535"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

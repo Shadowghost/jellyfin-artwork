@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Beta Movies Visuals",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260808"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

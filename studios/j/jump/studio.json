@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Jump",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203666",
+        "logo_uri": "https://image.tmdb.org/t/p/original/IbYKIlAo6regVyE0UILNvX2lQp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

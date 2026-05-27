@@ -1,0 +1,15 @@
+[
+  {
+    "name": "PODCASTERNA.production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "295626",
+        "logo_uri": "https://image.tmdb.org/t/p/original/QM4x6UgzSYTxaRDnyc1KkFNuyN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UA",
+    "placeholder": true
+  }
+]

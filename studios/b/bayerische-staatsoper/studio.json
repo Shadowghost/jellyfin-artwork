@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bayerische Staatsoper",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37841"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.staatsoper.de/en",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

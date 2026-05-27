@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fondo Nacional de la Cultura y las Artes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77095",
+        "logo_uri": "https://image.tmdb.org/t/p/original/85EK6HS1YzQMXXpMVahFTC43GQA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PY",
+    "homepage": "http://www.fondec.gov.py",
+    "placeholder": true
+  }
+]

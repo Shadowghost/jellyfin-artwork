@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bandits Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110288",
+        "logo_uri": "https://image.tmdb.org/t/p/original/78FknNRX9G6R7dDUetpdmo5CJYa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://banditsproduction.com",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

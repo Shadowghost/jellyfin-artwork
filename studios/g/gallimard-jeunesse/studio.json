@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Gallimard jeunesse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179700"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

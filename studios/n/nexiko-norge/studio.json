@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nexiko Norge",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147698",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9oQQQBGTOGqQcQ80pdVEKCYiQbv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "http://www.nexiko.com/",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

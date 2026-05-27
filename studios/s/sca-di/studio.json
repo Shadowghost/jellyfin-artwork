@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SCA-DI",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "288712"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

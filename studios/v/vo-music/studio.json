@@ -1,0 +1,16 @@
+[
+  {
+    "name": "VO Music",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208030"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://vo-music.com/?lang=en",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

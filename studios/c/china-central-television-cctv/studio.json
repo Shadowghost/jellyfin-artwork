@@ -1,0 +1,25 @@
+[
+  {
+    "name": "China Central Television 中央电视台 (CCTV)",
+    "description": "State-owned national television broadcaster of the People's Republic of China, operating dozens of channels under the China Media Group.",
+    "country": "CN",
+    "type": "broadcast-network",
+    "colors": [
+      {
+        "name": "CCTV Red",
+        "hex": "#E60012"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231600"
+      }
+    ],
+    "artwork": {},
+    "aka": [
+      "China Central Television"
+    ],
+    "placeholder": true
+  }
+]

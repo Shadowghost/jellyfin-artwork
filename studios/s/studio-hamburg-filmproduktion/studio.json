@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio Hamburg Filmproduktion",
+    "country": "DE",
+    "homepage": "https://www.studio-hamburg.de/",
+    "headquarters": "Hamburg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "680",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2GQ81QeLGGR9qnYhqGuDoYdsPw4.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

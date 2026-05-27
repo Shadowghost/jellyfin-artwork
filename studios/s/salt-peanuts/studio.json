@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Salt Peanuts",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26743"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

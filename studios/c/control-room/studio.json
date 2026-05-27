@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Control Room",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22900"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ixtlan Productions",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "525",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lBHEvKOxh6jXpv5u5QKkCrNLkvW.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

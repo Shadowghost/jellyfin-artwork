@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Raw Feed",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3295"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

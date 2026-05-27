@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Micromundo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84325",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tm68t765UdiRFmXvDceVsnxddNa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "https://www.micromundo.cl",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Film Institute",
+    "country": "DK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225876"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

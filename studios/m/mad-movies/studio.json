@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mad Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177351"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.mad-movies.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

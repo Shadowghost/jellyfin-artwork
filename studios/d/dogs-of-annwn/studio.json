@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dogs Of Annwn",
+    "country": "GB",
+    "homepage": "https://dogsofannwn.com",
+    "headquarters": "Wales",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45873",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bjdXEUC3VldEcjAbchnaDlMqrr8.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Praesens-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "483",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uL6KIolH7ehyNrfvpKr83YpyCC2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "http://www.praesens.com",
+    "headquarters": "Zürich",
+    "placeholder": true
+  }
+]

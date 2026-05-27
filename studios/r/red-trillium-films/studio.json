@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Red Trillium Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170040",
+        "logo_uri": "https://image.tmdb.org/t/p/original/flIw12vgdq09ctsBd1SOXphV1OU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.redtrilliumfilms.com/",
+    "headquarters": "Toronto",
+    "placeholder": true
+  }
+]

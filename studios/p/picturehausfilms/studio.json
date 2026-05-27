@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PictureHausFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119899",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7wmInc248LRur3tnGgXXK7JSFrR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.picturehausfilms.com",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

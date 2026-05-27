@@ -1,0 +1,17 @@
+[
+  {
+    "name": "UProduction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147640",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hZlXTKjQRe6LeJTmQRQLRWVKtMO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.uproduction.fr",
+    "headquarters": "Bordeaux",
+    "placeholder": true
+  }
+]

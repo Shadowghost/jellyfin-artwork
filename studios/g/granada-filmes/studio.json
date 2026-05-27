@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Granada Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230102"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

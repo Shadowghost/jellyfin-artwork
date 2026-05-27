@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Trouper",
+    "country": "US",
+    "homepage": "http://alexwinter.com/trouper-productions",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "43613",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rZULr7iPxB79LbyYeVZqi88TRsj.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Opus Film",
+    "country": "PL",
+    "homepage": "http://www.opusfilm.com",
+    "headquarters": "Łódź",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6477",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tn6i5FOfcfCrYR3zviZVvYdolwu.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

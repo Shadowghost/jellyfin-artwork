@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Neramitnung Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170213",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8f90dMTDLQU4yjPhwHrEUFdWMyV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TH",
+    "homepage": "https://neramitnungfilm.com/",
+    "headquarters": "Bangkok",
+    "placeholder": true
+  }
+]

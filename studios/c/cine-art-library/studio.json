@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine Art Library",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74254"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

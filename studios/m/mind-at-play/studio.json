@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mind at Play",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200055"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

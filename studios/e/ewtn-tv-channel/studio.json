@@ -1,0 +1,13 @@
+[
+  {
+    "name": "EWTN TV Channel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "269006"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

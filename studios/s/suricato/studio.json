@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Suricato",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69976",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rjaWiqkTZq0qgzbhyN8rJLdcBMW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "https://suricato.cl",
+    "placeholder": true
+  }
+]

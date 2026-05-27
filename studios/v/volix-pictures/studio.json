@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Volix Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214403",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mp7WvUB35oAFmW0xCa7Xt0Xyquj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "homepage": "https://volix.co.id/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Show TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202773",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h6Zq6Y91m7SdzUxIGIHsAFjnnpn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.showtv.com.tr/",
+    "headquarters": "Talimhane, Beyoğlu, Istanbul",
+    "placeholder": true
+  }
+]

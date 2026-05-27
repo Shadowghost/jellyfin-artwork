@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FireWater Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108000"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

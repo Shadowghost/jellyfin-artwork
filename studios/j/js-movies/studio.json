@@ -1,0 +1,13 @@
+[
+  {
+    "name": "JS-Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "298054"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

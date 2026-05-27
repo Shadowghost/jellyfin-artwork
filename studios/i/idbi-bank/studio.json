@@ -1,0 +1,24 @@
+[
+  {
+    "name": "IDBI Bank",
+    "description": "Indian commercial bank under the ownership of Life Insurance Corporation; not a media entity per se, but appears in production credits for some Indian films.",
+    "country": "IN",
+    "type": "other",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

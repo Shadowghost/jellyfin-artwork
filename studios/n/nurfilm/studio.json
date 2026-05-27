@@ -1,0 +1,13 @@
+[
+  {
+    "name": "nurfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110475"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

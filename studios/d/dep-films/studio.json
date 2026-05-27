@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DEP Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233849",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aX5UySLRotX4Au7LPnDi9jucxFR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.depfilms.com/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

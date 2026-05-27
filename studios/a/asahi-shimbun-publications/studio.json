@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Asahi Shimbun Publications",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256518",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uPuMhB29FiGCDJ7ucGBKXUc79SZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://publications.asahi.com/",
+    "placeholder": true
+  }
+]

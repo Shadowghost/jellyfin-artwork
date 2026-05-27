@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Espacial Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200701"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

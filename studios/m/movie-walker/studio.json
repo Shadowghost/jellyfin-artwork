@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Movie Walker",
+    "country": "JP",
+    "homepage": "https://moviewalker.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170125",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aQ07cYAVuJCmfuCeiaDnmmhdibk.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

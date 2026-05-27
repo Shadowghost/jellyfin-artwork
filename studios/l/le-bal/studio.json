@@ -1,0 +1,17 @@
+[
+  {
+    "name": "LE BAL",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153085",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xksYNGY2stlw20TfIM7Iutl02l1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.le-bal.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

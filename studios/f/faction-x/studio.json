@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Faction X",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "186079"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

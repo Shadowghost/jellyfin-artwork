@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmlink",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49316"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

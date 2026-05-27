@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Discovery world",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "244355"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

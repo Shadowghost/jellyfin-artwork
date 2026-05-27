@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MEN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53581",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4Sdgue9T47bhXoIL0MneayoTkkU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Las Vegas, Nevada, U.S.",
+    "placeholder": true
+  }
+]

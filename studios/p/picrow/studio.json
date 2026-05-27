@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Picrow",
+    "country": "US",
+    "homepage": "https://picrow.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20581",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6w8pqlbdJmHPV7d7KP0xPEnYaSV.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

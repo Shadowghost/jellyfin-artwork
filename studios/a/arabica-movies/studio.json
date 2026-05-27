@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Arabica Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15304"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

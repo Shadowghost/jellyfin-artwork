@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Bayern-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "251487"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Augsburg",
+    "placeholder": true
+  }
+]

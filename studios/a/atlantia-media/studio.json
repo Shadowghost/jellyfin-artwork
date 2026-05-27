@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Atlantia Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115055",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p72tLLyf9yqlLyIBcc3lNVgsRNE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://atlantiamedia.es/",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

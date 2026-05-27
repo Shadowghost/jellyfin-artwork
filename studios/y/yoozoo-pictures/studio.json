@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Yoozoo Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74555"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://pictures.yoozoo.com/",
+    "placeholder": true
+  }
+]

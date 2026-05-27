@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ScanFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152284"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

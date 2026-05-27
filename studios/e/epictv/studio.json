@@ -1,0 +1,17 @@
+[
+  {
+    "name": "EpicTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199297",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p70EL9gq2rYtFORDuNNDr7T87YF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://epictv.com",
+    "headquarters": "EpicTV, 30 Avenue du Dr Jacques Arnaud, 74300 Cluses, France",
+    "placeholder": true
+  }
+]

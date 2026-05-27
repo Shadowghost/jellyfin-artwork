@@ -1,0 +1,17 @@
+[
+  {
+    "name": "HAKA Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185426",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6oyseq4GsmylsGJhoeLyhi4IHU5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://www.hakafilms.com/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "netd",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218733",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ndtI7JIiPF9AgxbRZUyrz3YKSON.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.netd.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

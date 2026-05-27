@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Russia-K",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "65961",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AsclP6964QPtRyomh38vXku6Oxc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://vgtrk.ru/tvkultura",
+    "placeholder": true
+  }
+]

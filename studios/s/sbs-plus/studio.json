@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SBS Plus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115705",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yxTp5v8XKaBYvjHW6X5AMExEpV6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://sbsplus.sbs.co.kr",
+    "headquarters": "Mapo, Seoul, South Korea",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Flycatch",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "206910"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

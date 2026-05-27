@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Shoot at Site",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "268153"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

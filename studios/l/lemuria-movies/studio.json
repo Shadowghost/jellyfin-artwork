@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Lemuria Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "195584"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

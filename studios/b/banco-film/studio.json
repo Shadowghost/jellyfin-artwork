@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Banco Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12773"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

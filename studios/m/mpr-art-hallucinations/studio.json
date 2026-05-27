@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MPR ART Hallucinations",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188426"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Point",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99226"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

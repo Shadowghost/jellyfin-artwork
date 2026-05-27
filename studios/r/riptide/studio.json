@@ -1,0 +1,13 @@
+[
+  {
+    "name": "RipTide",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "261104"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nix Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204796"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Presidio Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230021"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cité Beur",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123864",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ofTa2BbWcpjJ6JWOA1VqZBhgu4g.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.citebeur.com",
+    "headquarters": "28 Rue des Sentiers 75002 Paris",
+    "placeholder": true
+  }
+]

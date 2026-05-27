@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinema-Drama",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239405"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

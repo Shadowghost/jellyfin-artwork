@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fortune Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19044"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

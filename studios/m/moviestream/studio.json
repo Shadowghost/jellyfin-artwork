@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Moviestream",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109083"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

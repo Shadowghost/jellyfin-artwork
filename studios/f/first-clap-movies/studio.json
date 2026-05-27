@@ -1,0 +1,14 @@
+[
+  {
+    "name": "First Clap Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104625"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

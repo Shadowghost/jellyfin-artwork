@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Submerge Recordings",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192223"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

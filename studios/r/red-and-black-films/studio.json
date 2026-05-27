@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Red And Black Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241581",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mo7VLkpm48YP5iniNaw5eig14iN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

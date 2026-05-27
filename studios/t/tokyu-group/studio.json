@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tokyu Group",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11739",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ejsAva7ootZfUDjnk7ieicCav2D.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://tokyugroup.jp/",
+    "placeholder": true
+  }
+]

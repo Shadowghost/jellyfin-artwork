@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Shakespeare's Globe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21276"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

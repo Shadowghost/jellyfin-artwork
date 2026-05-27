@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Provident Films",
+    "country": "US",
+    "homepage": "https://providentfilms.org",
+    "headquarters": "Franklin, Tennessee",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3291"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

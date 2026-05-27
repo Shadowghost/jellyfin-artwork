@@ -1,0 +1,38 @@
+[
+  {
+    "name": "France TV",
+    "providers": [
+      {
+        "provider_name": "tvdb",
+        "id": "17865"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "64473",
+        "logo_uri": "https://image.tmdb.org/t/p/original/535oHsLdgwsyKo7VGSeEYjmUQ8T.png"
+      },
+      {
+        "provider_name": "imdb",
+        "id": "co0125554"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "france-tv",
+    "template": true,
+    "country": "FR",
+    "homepage": "https://www.france.tv/france-o/"
+  }
+]

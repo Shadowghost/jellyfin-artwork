@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TUF",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23393"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

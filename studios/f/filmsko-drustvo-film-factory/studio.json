@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmsko društvo Film Factory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108447",
+        "logo_uri": "https://image.tmdb.org/t/p/original/13Yd35SF2Av3TDkE7cGYwM3LjCN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SI",
+    "homepage": "http://filmfactory.si",
+    "headquarters": "Maribor",
+    "placeholder": true
+  }
+]

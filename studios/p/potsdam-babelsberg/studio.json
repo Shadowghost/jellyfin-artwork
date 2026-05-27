@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Potsdam-Babelsberg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "294870"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "headquarters": "Potsdam"
+  }
+]

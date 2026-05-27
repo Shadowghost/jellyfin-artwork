@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TV Shinshu Broadcasting",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188522",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c1DHoE2ZhPBDcrVPQdtQy2enTDJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.tsb.jp/",
+    "placeholder": true
+  }
+]

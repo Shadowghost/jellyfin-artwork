@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Argonon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99553",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9Ib4iGvcLLCsvvS1FfskgFRSZ24.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://argonon.com/",
+    "headquarters": "London, UK",
+    "placeholder": true
+  }
+]

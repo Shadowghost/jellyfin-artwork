@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Radiotelevisiun Svizra Rumantscha",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182981",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mjYKJS9CliJqmpn6bYZ2SiCqiAy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "http://www.rtr.ch/",
+    "headquarters": "Chur",
+    "placeholder": true
+  }
+]

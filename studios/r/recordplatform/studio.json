@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Recordplatform",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174600"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

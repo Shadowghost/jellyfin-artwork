@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Double Dare You",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101082",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zjAYU6sUmYaeFeJ1yWeaqzsWAz8.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

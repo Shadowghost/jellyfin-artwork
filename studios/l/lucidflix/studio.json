@@ -1,0 +1,16 @@
+[
+  {
+    "name": "LucidFlix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224303",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vrAJkjymDeR5yalCvkk5libmkKi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://lucidflix.com/",
+    "placeholder": true
+  }
+]

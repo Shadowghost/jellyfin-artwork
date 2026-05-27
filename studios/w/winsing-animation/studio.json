@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WinSing Animation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230070",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cfEhVarKdWuuh77cVK4EeF0YLOt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://winsing.net/",
+    "headquarters": "Guangdong",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LCDP Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245723"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

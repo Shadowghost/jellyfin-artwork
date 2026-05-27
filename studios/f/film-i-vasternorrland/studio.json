@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film i Västernorrland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131537",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Ae2N1PS5qKcxIK6AS1KR6jDqZG3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://filmvasternorrland.se/",
+    "headquarters": "Norra Järnvägsgatan 10, 852 31 Sundsvall, Sweden",
+    "placeholder": true
+  }
+]

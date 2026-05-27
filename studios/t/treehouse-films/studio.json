@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Treehouse Films",
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86985",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3YMLaFqeXaQvtg62V0eDQxfqhaV.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

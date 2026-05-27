@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Daro Film Distribution",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80713",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7pcqQVviN7Uao9B1h850ek65EPJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MC",
+    "homepage": "https://www.daro-films.mc/",
+    "headquarters": "Monaco City",
+    "placeholder": true
+  }
+]

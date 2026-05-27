@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Flare Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90219",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q1zjFnBBwZrQjy1dVtnvdwo7VWh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.flare-film.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

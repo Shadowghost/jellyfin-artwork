@@ -1,0 +1,26 @@
+[
+  {
+    "name": "USA Sports Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222470"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

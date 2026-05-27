@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Picseyes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100623",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lh10QWAjQtO09wca2vK7fqiUqYX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://picseyesfilms.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ed.moviedirectors",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62039"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Tidal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53646",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7NI0HtygKdNXKyUvEaooc4aypPZ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://tidal.com"
+  }
+]

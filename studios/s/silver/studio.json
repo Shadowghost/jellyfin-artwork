@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Silver",
+    "country": "JP",
+    "homepage": "http://www.silver-game.net/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116765"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Miles Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63784",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ecb8LcbexpA6Hes3D9AG447d9Bv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "homepage": "http://milesfilms.net/en/",
+    "placeholder": true
+  }
+]

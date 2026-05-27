@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Vilarejo Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117915",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3txRQwSgg0DcjH8sRi2iHpNrZPk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "headquarters": "Recife",
+    "placeholder": true
+  }
+]

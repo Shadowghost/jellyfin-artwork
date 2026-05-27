@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Paramount Television",
+    "description": "American television production company and division of Paramount Pictures, owned by Paramount Global.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.paramountpictures.com/television",
+    "headquarters": "Hollywood, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "228633",
+        "logo_uri": "https://image.tmdb.org/t/p/original/of4mmVt6egYaO9oERJbuUxMOTkj.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Paramount Television Studios"
+    ],
+    "template": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Skye Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260705",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dyzeXcGP59yTXtjoSpN0uus0Dcg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.skye-films.com/",
+    "headquarters": "Isle of Skye, Scotland",
+    "placeholder": true
+  }
+]

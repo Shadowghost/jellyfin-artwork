@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bleecker Street",
+    "country": "US",
+    "homepage": "https://bleeckerstreetmedia.com",
+    "headquarters": "New York, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167986",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xtZztkvakekloKHF857Hy8ttAs8.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

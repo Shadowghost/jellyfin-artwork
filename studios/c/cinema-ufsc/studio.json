@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinema UFSC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120791"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

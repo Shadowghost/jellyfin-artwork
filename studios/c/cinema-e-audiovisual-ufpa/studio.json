@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cinema e Audiovisual - UFPA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203685",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7bMX9p1bw9WAmF1azo6rdC1eHUh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "headquarters": "Belém, Pará",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DUB filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "259865"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

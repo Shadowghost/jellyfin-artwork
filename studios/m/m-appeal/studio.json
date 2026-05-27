@@ -1,0 +1,17 @@
+[
+  {
+    "name": "M-Appeal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77676",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m9PelNZ3XLMOalJTmpXZHOlHIOd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://m-appeal.com",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

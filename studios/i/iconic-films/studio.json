@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Iconic Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283715",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oZXir0gWhg3xQXYzgfv5hvcBTA6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GR",
+    "homepage": "https://iconicfilms.gr",
+    "placeholder": true
+  }
+]

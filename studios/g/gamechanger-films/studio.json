@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gamechanger Films",
+    "country": "US",
+    "homepage": "http://gamechanger-films.com",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35562",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wE4mjcC6MWffVY5Xo2Lpjt3wyAF.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "LM Media",
+    "country": "DE",
+    "homepage": "https://www.lmmedia-berlin.com",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114678",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d8rUvXy3pM4heBhDDmZCZTdwaGa.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

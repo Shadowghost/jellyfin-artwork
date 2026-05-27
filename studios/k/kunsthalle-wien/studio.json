@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kunsthalle Wien",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "294005"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

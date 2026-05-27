@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Inspired Dragon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "251020",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3X0aXAN4B5OleobdoZra0XFmc7N.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "placeholder": true
+  }
+]

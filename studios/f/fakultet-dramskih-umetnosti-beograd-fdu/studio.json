@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fakultet Dramskih Umetnosti Beograd (FDU)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63904",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fKDAYIJat7fpbWnjgdHchpg5AbQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "homepage": "https://fdu.bg.ac.rs/",
+    "headquarters": "Belgrade",
+    "placeholder": true
+  }
+]

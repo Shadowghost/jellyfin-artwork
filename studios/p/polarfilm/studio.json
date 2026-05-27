@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Polarfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102550"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

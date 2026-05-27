@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Joe Smith Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200427"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Detroit, Michigan",
+    "placeholder": true
+  }
+]

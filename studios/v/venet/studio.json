@@ -1,0 +1,13 @@
+[
+  {
+    "name": "VENET",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91747"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

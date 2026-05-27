@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Le Film Russe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280956"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

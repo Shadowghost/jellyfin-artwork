@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Immersive Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110503"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Picture Farm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2973"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

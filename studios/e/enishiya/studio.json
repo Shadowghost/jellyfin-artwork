@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ENISHIYA",
+    "country": "JP",
+    "homepage": "http://www.enishiya-inc.co.jp/",
+    "headquarters": "Nakano, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165500",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7bjX7wBCWo3w9xzEFW0VXTQ2cnt.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

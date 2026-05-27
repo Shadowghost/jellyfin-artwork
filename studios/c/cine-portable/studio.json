@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine Portable",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86085"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

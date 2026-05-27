@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Novel Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "43262"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

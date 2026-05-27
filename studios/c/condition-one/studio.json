@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Condition One",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114173"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

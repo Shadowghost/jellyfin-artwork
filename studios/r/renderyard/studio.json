@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Renderyard",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241150"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

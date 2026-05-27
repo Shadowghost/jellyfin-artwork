@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BravoStudios",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225603",
+        "logo_uri": "https://image.tmdb.org/t/p/original/czjeTqtDgnA1AxHAdm9nMyA2xeQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.bravostudios.es/",
+    "headquarters": "Murcia, España",
+    "placeholder": true
+  }
+]

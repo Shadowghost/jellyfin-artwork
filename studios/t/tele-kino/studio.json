@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Tele kino",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256528"
+      }
+    ],
+    "artwork": {},
+    "country": "MN",
+    "placeholder": true
+  }
+]

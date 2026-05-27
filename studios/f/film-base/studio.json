@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Base",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72987"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

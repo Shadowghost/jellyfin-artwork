@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245722"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

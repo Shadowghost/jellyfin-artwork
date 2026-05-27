@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jackhead",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127865",
+        "logo_uri": "https://image.tmdb.org/t/p/original/swn7iSUHdHG5QFF3ykbv4o7gaIu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://jackhead.de",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

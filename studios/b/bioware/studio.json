@@ -1,0 +1,31 @@
+[
+  {
+    "name": "BioWare",
+    "description": "Canadian video game developer known for RPGs including Mass Effect and Dragon Age; subsidiary of Electronic Arts.",
+    "country": "CA",
+    "type": "production-company",
+    "homepage": "https://www.bioware.com",
+    "headquarters": "Edmonton, Alberta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12461"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

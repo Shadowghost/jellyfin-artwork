@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lucky8 TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110968",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bZKnukYKNZf2BsKQYsrdzBj8Gnx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.lucky8.tv",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

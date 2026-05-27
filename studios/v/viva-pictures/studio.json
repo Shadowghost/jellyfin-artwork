@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Viva Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1034",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mh7myQPU0nABSgTDmLMruTRdjk7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://vivafilmco.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

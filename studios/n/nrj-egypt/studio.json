@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NRJ Egypt",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224750",
+        "logo_uri": "https://image.tmdb.org/t/p/original/em7r8r1hL38R2qsLzQpy7K2w6ih.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EG",
+    "homepage": "https://nrj.com/",
+    "placeholder": true
+  }
+]

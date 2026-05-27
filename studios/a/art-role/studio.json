@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Art Role",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152749"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

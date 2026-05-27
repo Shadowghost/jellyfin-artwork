@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tiny Horse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104553",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gJa0EvzsbvgRvzjDMzUJ7SW5CZB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.tinyhorse.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

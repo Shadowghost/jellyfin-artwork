@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fu Works",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12046",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wauD5HrRmaR5TdQr0ylGTLyifpQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "http://www.fuworks.nl",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

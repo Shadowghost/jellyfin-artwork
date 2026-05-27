@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Caneo Films",
+    "country": "FR",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19690"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "GEMO Olomouc",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262024"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.gemo.cz/",
+    "headquarters": "Olomouc",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Secure Mode",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "286328"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

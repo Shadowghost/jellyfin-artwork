@@ -1,0 +1,16 @@
+[
+  {
+    "name": "El Despacho",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234673"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://eldespacho.ar",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

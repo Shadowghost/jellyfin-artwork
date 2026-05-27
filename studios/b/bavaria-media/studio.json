@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bavaria Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23367",
+        "logo_uri": "https://image.tmdb.org/t/p/original/563OldzvtvbhnHMoz7MbRyyLcV6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.bavaria-film.de/rights-distribution/tochtergesellschaften/bavaria-media",
+    "placeholder": true
+  }
+]

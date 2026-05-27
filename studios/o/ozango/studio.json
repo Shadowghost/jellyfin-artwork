@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ozango",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121165",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sbaGDdsqqFu9bjfEEzhJUIM9cnS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.ozango.eu",
+    "headquarters": "Strasbourg",
+    "placeholder": true
+  }
+]

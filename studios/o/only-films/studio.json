@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Only Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198261"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

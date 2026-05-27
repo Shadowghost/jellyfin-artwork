@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mystery Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203392",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9NApPukOhlHj45EorXJgoKTEs9Q.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.mysterypictures.co.kr/",
+    "headquarters": "Seocho, Seoul, South Korea",
+    "placeholder": true
+  }
+]

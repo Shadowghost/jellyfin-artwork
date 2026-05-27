@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les films Bleus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144193"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

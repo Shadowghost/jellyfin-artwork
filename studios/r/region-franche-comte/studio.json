@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Région Franche-Comté",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26158"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "La Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184720"
+      }
+    ],
+    "artwork": {},
+    "country": "PR",
+    "placeholder": true
+  }
+]

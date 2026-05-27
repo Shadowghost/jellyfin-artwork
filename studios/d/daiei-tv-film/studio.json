@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Daiei TV-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111757",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fi4iI0kFBPxPIWqXFlM47J7quZz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.daiei-tv.com",
+    "placeholder": true
+  }
+]

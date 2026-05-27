@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Club Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224829",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kI5K1zheii6cYqrYLJ3buHqMNpl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://www.clubmedianetwork.com/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

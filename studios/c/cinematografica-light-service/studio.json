@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinematografica light service",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "246126"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

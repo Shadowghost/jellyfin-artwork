@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lloyd-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29528",
+        "logo_uri": "https://image.tmdb.org/t/p/original/onlWdjLbH0SiTg4FTmiJSDmdMx7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

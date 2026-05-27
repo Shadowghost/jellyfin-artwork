@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Film United",
+    "country": "CZ",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91030"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

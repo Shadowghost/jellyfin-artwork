@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Siegen Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242725",
+        "logo_uri": "https://image.tmdb.org/t/p/original/s6zaghNV4FGJfqWG2KftUMEEidM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://siegenfilm.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

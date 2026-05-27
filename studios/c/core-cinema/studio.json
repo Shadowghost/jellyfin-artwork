@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Core Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124100"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

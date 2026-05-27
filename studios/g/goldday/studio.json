@@ -1,0 +1,14 @@
+[
+  {
+    "name": "GoldDay",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129200"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

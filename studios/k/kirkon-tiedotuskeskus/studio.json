@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Kirkon Tiedotuskeskus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213605"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "placeholder": true
+  }
+]

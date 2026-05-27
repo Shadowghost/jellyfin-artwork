@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MovieSide",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "265420"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

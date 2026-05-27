@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Failsafe Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125869",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8H1pD5MeUGztwowGTdrQBYGSvYB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "https://failsafe.film/",
+    "headquarters": "Dublin",
+    "placeholder": true
+  }
+]

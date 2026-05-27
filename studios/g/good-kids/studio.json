@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Good Kids",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210381",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7wMTFekx6j0afWHWAYWN8XefLwb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "https://www.goodkids.tv/",
+    "headquarters": "Budapest",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Haus der Kunst",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73497"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

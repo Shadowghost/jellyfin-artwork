@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ZotFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260923"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

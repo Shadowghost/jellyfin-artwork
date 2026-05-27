@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Patchuli Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "281650"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

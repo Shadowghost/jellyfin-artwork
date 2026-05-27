@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Peregrine",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11272"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

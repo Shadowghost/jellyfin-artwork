@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FilmBros",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51748",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8T8WHTUutN5XsZ8emr1YxTZvfK9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "http://www.filmbros.no",
+    "headquarters": "Hamar, Norway",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Just Vision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7911",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jbUK8rM7hCYEH1azVtJBRf5MN4d.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://justvision.org",
+    "headquarters": "Washington, D.C.",
+    "placeholder": true
+  }
+]

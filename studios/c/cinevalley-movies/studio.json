@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CineValley Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209301"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

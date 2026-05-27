@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KEYEAST",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15975",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ewSxMJt8IeFHSOqfyKn1scZoOur.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.keyeast.co.kr",
+    "headquarters": "Gangnam, Seoul",
+    "placeholder": true
+  }
+]

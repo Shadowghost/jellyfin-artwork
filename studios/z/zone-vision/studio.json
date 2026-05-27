@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Zone Vision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135549"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

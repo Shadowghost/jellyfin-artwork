@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Circe Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181036"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

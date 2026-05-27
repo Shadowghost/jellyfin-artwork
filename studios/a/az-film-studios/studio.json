@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AZ Film Studios",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82774",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8zRDewTqfb9iaBO7pBMzwMMcMfa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://azfilmstudios.com/",
+    "headquarters": "Los Angeles",
+    "placeholder": true
+  }
+]

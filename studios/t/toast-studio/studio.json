@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Toast Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "57578",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tOdMOv8M4Rh7fM5GjSdzUGpBjq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.gotoast.ca/en/",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

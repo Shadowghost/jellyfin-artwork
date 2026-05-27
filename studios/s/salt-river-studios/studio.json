@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Salt River Studios",
+    "country": "ZA",
+    "homepage": "https://www.saltriverfilmstudios.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120082"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

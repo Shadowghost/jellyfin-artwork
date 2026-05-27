@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Somewhere Pictures",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176196"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

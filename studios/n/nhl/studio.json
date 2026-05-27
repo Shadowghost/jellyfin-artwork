@@ -1,0 +1,39 @@
+[
+  {
+    "name": "National Hockey League",
+    "description": "Professional ice hockey league in North America with 32 teams across the United States and Canada; the premier ice hockey league in the world.",
+    "country": "US",
+    "type": "other",
+    "colors": [
+      {
+        "name": "NHL Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "NHL Orange",
+        "hex": "#F47A38"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94986"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

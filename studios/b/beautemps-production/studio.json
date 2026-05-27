@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Beautemps production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203315"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

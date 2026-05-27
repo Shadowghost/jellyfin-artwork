@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Central Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18130"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Südwestfunk",
+    "description": "Former German public broadcaster for southwest Germany (Rhineland-Palatinate and Baden), part of ARD; merged with Süddeutscher Rundfunk in 1998 to form SWR.",
+    "country": "DE",
+    "type": "broadcast-network",
+    "headquarters": "Freiburg im Breisgau",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13983",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wTYO3w8PawspS95VYwsHcajmI0t.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

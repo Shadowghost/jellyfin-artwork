@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Gala Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101866"
+      }
+    ],
+    "artwork": {},
+    "country": "BG",
+    "headquarters": "Sofia",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Venom Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11076",
+        "logo_uri": "https://image.tmdb.org/t/p/original/woVX7fJFD3FKmT430o4nHNjx2e8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "http://www.venom.ie/",
+    "headquarters": "Ranelagh, Dublin, Ireland",
+    "placeholder": true
+  }
+]

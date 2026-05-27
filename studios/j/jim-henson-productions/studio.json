@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Jim Henson Productions",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2504",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yxP3Gnk7sm7rACmDj0InTjXZw8R.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

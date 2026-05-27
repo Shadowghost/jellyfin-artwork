@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Discourse Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "146096"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

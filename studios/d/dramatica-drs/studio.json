@@ -1,0 +1,13 @@
+[
+  {
+    "name": "dramatica (DRS)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192627"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

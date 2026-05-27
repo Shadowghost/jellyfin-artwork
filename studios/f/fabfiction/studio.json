@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FabFiction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200084"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

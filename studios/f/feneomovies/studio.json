@@ -1,0 +1,15 @@
+[
+  {
+    "name": "FeneoMovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157304",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8EeHfc6S0KFiYg5Gzvtuy0mKQMD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

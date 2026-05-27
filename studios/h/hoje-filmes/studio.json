@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Hoje Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126087",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aI2glDrgQ6QI19Ot1XH3eG2u8Sy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

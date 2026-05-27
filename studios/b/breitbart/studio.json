@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Breitbart",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180867",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aq8eNyDLnERIdO5A54qPlZkXkID.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.breitbart.com/",
+    "placeholder": true
+  }
+]

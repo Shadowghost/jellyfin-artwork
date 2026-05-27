@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Budapest Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26445"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "headquarters": "Budapest",
+    "placeholder": true
+  }
+]

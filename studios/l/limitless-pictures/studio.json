@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Limitless Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240515",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pwIJxpqMcVTpdEGGBBXZcxCtlNw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://limitless-pictures.com",
+    "placeholder": true
+  }
+]

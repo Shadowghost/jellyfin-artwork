@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Telenormfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53938",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7jK70caJvKH35atrPuSeTyQHlNk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://telenormfilm.de/",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

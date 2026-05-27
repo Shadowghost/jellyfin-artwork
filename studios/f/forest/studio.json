@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Forest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217346"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

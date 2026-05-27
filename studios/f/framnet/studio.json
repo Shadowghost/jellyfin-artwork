@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Framnet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40430"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

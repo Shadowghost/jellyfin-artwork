@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PAT Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99931"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

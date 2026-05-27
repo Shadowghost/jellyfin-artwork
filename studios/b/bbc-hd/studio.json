@@ -1,0 +1,37 @@
+[
+  {
+    "name": "BBC HD",
+    "description": "High-definition television channel operated by the BBC from 2006 to 2013, replaced by BBC Two HD.",
+    "country": "GB",
+    "type": "broadcast-network",
+    "headquarters": "London, England",
+    "colors": [
+      {
+        "name": "BBC Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161115",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d1iQlbHJAupXh5oEo4zpRtM09vc.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

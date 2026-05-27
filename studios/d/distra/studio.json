@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Distra",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32210"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

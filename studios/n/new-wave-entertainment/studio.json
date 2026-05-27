@@ -1,0 +1,17 @@
+[
+  {
+    "name": "New Wave Entertainment",
+    "country": "US",
+    "homepage": "http://nwe.com",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2953",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yktBfQDFq75HtbHjhRkwj1nsZX7.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

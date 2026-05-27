@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Acme Film Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116131",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bttonE5MlbwvcGqLEuVnX1zENhL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "http://www.theacmefilmcompany.com",
+    "placeholder": true
+  }
+]

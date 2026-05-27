@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BOOM! Studios",
+    "country": "US",
+    "homepage": "http://www.boom-studios.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122178",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fDbVQowlf20UGZUTFIxNRMVkB8W.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Telling Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58855",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zNYxAObHLGxxTm8osnMNhcBxnhY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.tellingpictures.com",
+    "placeholder": true
+  }
+]

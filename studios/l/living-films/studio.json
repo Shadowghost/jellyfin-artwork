@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Living Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2877",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a1pn9aou2NsfB7QJVNAUOsE8LqR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TH",
+    "homepage": "http://www.livingfilms.com/",
+    "headquarters": "Chiang Mai",
+    "placeholder": true
+  }
+]

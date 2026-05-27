@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Animate Film",
+    "country": "JP",
+    "homepage": "https://www.animate.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13064"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

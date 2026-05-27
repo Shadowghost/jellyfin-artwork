@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Yucaipa Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12005"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

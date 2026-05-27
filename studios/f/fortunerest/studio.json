@@ -1,0 +1,13 @@
+[
+  {
+    "name": "fortunerest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213832"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

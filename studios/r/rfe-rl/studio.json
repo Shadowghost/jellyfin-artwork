@@ -1,0 +1,16 @@
+[
+  {
+    "name": "RFE/RL",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106491",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zfKCwR4LRaLiUdutQpAV0AeVWdS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.rferl.org/",
+    "placeholder": true
+  }
+]

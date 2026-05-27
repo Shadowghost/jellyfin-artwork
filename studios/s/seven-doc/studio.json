@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Seven Doc",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42098",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fOc6P2mnJQbIWSc6Ms37w8uYo3C.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.sevendoc.com",
+    "headquarters": "Seven Doc, 10 Rue Henri Bergson, 38100 Grenoble, France",
+    "placeholder": true
+  }
+]

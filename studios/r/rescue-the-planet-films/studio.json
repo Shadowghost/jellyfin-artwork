@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rescue the Planet Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240175",
+        "logo_uri": "https://image.tmdb.org/t/p/original/49VcP6nQQmUt0Nko66E69JeO0AB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GT",
+    "homepage": "https://www.rescuetheplanet.org/",
+    "headquarters": "Guatemala City",
+    "placeholder": true
+  }
+]

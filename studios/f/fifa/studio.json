@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FIFA+",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173298",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dUCm0lAEz4Amdsk97q233xjKE49.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.fifa.com/fifaplus/",
+    "headquarters": "Zürich",
+    "placeholder": true
+  }
+]

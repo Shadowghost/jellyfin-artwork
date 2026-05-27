@@ -1,0 +1,14 @@
+[
+  {
+    "name": "WSJ Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223310"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

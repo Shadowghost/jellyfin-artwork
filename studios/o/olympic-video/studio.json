@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Olympic Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128603"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

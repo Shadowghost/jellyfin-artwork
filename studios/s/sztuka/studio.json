@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sztuka",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202273"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

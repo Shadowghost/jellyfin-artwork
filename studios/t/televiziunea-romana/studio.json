@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Televiziunea Română",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73926",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fQtClxlHLBnPdlV5HBPi0Tzj38d.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "placeholder": true
+  }
+]

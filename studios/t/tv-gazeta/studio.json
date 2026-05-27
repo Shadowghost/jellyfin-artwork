@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TV Gazeta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106351"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

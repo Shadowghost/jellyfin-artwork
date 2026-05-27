@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Garin Workshop",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123456",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8eRQ0MhNOg0LgHMrSX5gQtLf9sG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "headquarters": "Jakarta",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Art City",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194988",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7To6y1YTyWWB6Dd3WqrMJrhSIZh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IQ",
+    "homepage": "https://www.artcityiq.com/",
+    "headquarters": "Baghdad",
+    "placeholder": true
+  }
+]

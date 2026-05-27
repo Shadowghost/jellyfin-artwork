@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Komuna",
+    "country": "CS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "653"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DJMovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114976"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

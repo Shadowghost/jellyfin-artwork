@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films de L'Etranger",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88412",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zXlsf6gUwDdZnYMHlbGeJnMaSkp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.lfetranger.fr/",
+    "headquarters": "Strasbourg, France",
+    "placeholder": true
+  }
+]

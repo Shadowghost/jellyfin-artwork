@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hacienda Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "136463",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fEeNymOJ5Q48Sn4mNgD1HlE39U7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://hacienda.no/",
+    "headquarters": "Oslo",
+    "placeholder": true
+  }
+]

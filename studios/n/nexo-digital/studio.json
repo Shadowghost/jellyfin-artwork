@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nexo Digital",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41020",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8bTFt8ZXSvrmMO16T3kQvX2yViT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.nexodigital.it",
+    "headquarters": "Milan",
+    "placeholder": true
+  }
+]

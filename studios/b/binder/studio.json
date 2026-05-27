@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Binder",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166076"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

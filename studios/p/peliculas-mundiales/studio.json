@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Películas Mundiales",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106160"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

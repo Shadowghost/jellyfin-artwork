@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Salt Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22055"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

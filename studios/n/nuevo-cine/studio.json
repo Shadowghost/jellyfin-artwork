@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Nuevo Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26595"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

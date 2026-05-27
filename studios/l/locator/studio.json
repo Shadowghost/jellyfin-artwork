@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Locator",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "293606"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

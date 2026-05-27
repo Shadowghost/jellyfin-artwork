@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bortom Tid & Rum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250123"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

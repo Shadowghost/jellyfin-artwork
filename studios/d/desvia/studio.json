@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Desvia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13003",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jK7gXeEQvnuJufZBmwBeSRPfeP9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://en.desvia.com.br/",
+    "headquarters": "Recife, Pernambuco",
+    "placeholder": true
+  }
+]

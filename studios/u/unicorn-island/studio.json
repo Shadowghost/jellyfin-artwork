@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Unicorn Island",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123626"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.unicornisland.com",
+    "placeholder": true
+  }
+]

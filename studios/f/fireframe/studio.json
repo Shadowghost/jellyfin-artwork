@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fireframe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198339",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bpIvSe6VjcMMYQVS8ealauDHzen.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "http://fireframe.fi/",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

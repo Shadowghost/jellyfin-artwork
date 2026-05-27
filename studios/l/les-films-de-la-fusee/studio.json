@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Les Films de la Fusée",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94313",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6d4xwwK7t0QFMuR3vSRjrcvHa9G.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://lesfilmsdelafusee.com",
+    "placeholder": true
+  }
+]

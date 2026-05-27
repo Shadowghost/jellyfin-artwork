@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lick Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123695"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

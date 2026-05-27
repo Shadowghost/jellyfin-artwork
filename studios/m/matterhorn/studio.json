@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Matterhorn",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102319"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

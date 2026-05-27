@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Artisans du Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72551",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rNloA4FjzBYryTnc13ANVWolRUp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://artisansdufilm.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MovieMakers",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17538",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jj2wM3UJIcKjDLlfahYnG8qLl8V.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://www.moviemakers.se/",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

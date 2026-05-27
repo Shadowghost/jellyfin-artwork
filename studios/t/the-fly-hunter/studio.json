@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Fly Hunter",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151020",
+        "logo_uri": "https://image.tmdb.org/t/p/original/prLjorMho5qUILOV1FAPMvXYTDU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://theflyhunter.es",
+    "placeholder": true
+  }
+]

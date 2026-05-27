@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine en Movimiento",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222502"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

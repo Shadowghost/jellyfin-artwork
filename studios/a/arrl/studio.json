@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ARRL",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95228"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

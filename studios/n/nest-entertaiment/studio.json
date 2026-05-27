@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nest Entertaiment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196677"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

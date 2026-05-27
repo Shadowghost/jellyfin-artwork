@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmoteca Cine Arte Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184558"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

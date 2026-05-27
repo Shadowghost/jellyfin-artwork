@@ -1,0 +1,16 @@
+[
+  {
+    "name": "HFBK Hamburg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95509",
+        "logo_uri": "https://image.tmdb.org/t/p/original/69BeEFSGTGtELLDc6EmerrBINPl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

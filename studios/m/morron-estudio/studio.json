@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Morrón Estudio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230603",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r96phHlem5beJBjHDvte8R6nrNl.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://www.morronestudio.cl/"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Rock Paper Scissors",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "61131"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://makemake.com/rock-paper-scissors/",
+    "headquarters": "Santa Monica, California",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "La Fabrique",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8207",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bpRMgSXme9kr20DJmxSlTm5RaIA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

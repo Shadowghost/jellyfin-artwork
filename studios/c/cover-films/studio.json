@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cover Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152853",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6bAJkp0d24xFxQ2GuZ0LtJHZXxD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://hervehubert.tv/fr/cover-films-2/",
+    "placeholder": true
+  }
+]

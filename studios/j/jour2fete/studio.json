@@ -1,0 +1,17 @@
+[
+  {
+    "name": "jour2fête",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73552",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l6yuBMYHwyLU72HHlW9rknLtzeH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.jour2fete.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

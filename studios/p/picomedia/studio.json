@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Picomedia",
+    "country": "IT",
+    "homepage": "https://www.picomedia.it/",
+    "headquarters": "Rome",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94785",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u1DBUwYHOPsbTB7ZTqmg2kwfRQU.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

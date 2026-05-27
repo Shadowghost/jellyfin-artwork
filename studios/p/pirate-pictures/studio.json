@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pirate Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95056",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9olRwqXDkScs1s3xLfhNI44Si1s.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.piratepictures.net",
+    "headquarters": "Saint Charles, Missouri",
+    "placeholder": true
+  }
+]

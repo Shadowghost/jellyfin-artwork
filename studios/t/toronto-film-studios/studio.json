@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Toronto Film Studios",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10168"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

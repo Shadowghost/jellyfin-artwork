@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Alma Art",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223658",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uhk91gQ9koJVVBc2YChFAeYY3Ic.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.koccc.kr/",
+    "headquarters": "Gimpo, Gyeonggi, South Korea",
+    "placeholder": true
+  }
+]

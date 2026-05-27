@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinebruto",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31043",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tnvEiXxWOa3gqIw4IsVDGY4Xfgv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://www.cinebruto.com/",
+    "headquarters": "Buenos Aires, Argentina",
+    "placeholder": true
+  }
+]

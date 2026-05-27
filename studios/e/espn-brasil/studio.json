@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ESPN Brasil",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "68013",
+        "logo_uri": "https://image.tmdb.org/t/p/original/giGGjdUouGoQki7LAIvhAzXdjbN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "headquarters": "São Paulo, São Paulo",
+    "placeholder": true
+  }
+]

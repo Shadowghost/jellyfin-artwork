@@ -1,0 +1,15 @@
+[
+  {
+    "name": "TVer",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249045",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r4fVTNS9N1dlYZV1AKs2hM7KqPM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

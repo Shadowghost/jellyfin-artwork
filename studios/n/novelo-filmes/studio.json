@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Novelo Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122549",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pDt4km0bWfCdLRxrbgYsYQAXdqw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.novelofilmes.com.br",
+    "placeholder": true
+  }
+]

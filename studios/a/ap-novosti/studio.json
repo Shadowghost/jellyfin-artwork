@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AP Novosti",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107135"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

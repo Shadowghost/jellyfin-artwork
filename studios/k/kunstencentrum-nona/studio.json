@@ -1,0 +1,17 @@
+[
+  {
+    "name": "kunstencentrum nona",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217929",
+        "logo_uri": "https://image.tmdb.org/t/p/original/37vvqObmRe7DWVnfRqpvr2WRBXO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.nona.be/",
+    "headquarters": "Mechelen",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "spotlight",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131594"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

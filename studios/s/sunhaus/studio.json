@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SunHaus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289996",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mpW1J0TUTw3ZI83c6aUJzf1yu1e.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://sunhaus.us/",
+    "placeholder": true
+  }
+]

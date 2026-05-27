@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Chokolat",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14816",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3Ju33Sc8RuZyHg9ItWf1awNKpuI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.chokolat.ca",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

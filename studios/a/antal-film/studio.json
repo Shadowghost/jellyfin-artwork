@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Antal Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90031"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

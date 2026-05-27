@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fresh Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29924",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rRiZvBMdu2zN4UARzNYyrAdaq0w.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://fresh-film.com/",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

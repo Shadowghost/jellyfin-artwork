@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Art Theatre Guild",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9181",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hObQEBMY8Es6ajSlVeBEIdqbuSK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

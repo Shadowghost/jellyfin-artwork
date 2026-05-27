@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hype Film",
+    "country": "RU",
+    "homepage": "https://www.hypepro.tv",
+    "headquarters": "Moscow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71156",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jnYrp67FATgZgyP5Qvy9VgxvBR.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

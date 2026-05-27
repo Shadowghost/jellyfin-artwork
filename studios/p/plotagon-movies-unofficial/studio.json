@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Plotagon Movies (unofficial)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "244363"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

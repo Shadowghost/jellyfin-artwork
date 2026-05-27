@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Terraform",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "139976"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "19 Entertainment",
+    "description": "British entertainment management and production company founded by Simon Fuller, known for the Idol franchise and managing the Spice Girls.",
+    "country": "GB",
+    "type": "production-company",
+    "headquarters": "London",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26456"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

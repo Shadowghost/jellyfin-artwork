@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CiBy 2000",
+    "country": "FR",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pyiNvPJYGz4W2SImgULoG2sn4y4.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

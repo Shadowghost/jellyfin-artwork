@@ -1,0 +1,13 @@
+[
+  {
+    "name": "mink production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177428"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

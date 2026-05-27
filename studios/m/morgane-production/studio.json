@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Morgane Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20442",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bJdNEHt2r5D3hVolSLN9UP1azi0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.morgane-groupe.fr",
+    "headquarters": "Neuilly-sur-Seine",
+    "placeholder": true
+  }
+]

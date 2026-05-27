@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Viktorijos filmai",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275682"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

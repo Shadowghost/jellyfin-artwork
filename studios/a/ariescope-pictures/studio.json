@@ -1,0 +1,15 @@
+[
+  {
+    "name": "ArieScope Pictures",
+    "country": "US",
+    "homepage": "http://ariescope.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3960"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

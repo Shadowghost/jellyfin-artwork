@@ -1,0 +1,16 @@
+[
+  {
+    "name": "La Fabrique de Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2673",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kgqoT0BfqE1vWEXuliWoAsglH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

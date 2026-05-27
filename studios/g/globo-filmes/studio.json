@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Globo Filmes",
+    "description": "Brazilian film production company, the film division of the Grupo Globo media conglomerate.",
+    "country": "BR",
+    "type": "production-company",
+    "homepage": "http://globofilmes.globo.com/en/",
+    "headquarters": "Rio de Janeiro, Rio de Janeiro",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13969",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pFh6R6D4wpztG5aSblu14TtrR57.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

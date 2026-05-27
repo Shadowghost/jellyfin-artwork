@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinétévé",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11331",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wcHhcw58wms26ejFLx1unYDT37n.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://cineteve.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Riesgo cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "293901"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

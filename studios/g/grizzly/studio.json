@@ -1,0 +1,16 @@
+[
+  {
+    "name": "GRIZZLY",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125686",
+        "logo_uri": "https://image.tmdb.org/t/p/original/supW1CgAWNA52JLYZGlxEN0XIoZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://grizzly.co.jp",
+    "placeholder": true
+  }
+]

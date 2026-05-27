@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio Munka",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45475",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1V0CgkIcyMTfOWeke2dVM4O5hYI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://www.munkstudio.eu",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Aerofilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71262",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sQed0e4gZ0o8C1WmTcNnSiQO6sU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.aerofilms.cz",
+    "headquarters": "Prague, Czech Republic",
+    "placeholder": true
+  }
+]

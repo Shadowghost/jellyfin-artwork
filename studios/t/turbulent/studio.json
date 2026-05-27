@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Turbulent",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120918",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lp3f3t0Px7RvUIueXbLiL4GTOaW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.turbulent.ca",
+    "placeholder": true
+  }
+]

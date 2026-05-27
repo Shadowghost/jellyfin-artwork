@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Willy Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99288"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

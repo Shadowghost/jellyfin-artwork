@@ -1,0 +1,13 @@
+[
+  {
+    "name": "my little airport",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192305"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

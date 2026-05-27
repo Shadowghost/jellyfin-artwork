@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Caleidoscopio Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77228",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lkeSFy1CBC7um4yb4dJYCfD9dyD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EC",
+    "homepage": "http://www.caleidoscopiocine.com/",
+    "headquarters": "Quito, Ecuador",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "CineFilipino",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172600"
+      }
+    ],
+    "artwork": {},
+    "country": "PH",
+    "homepage": "http://www.cinefilipino.com/",
+    "placeholder": true
+  }
+]

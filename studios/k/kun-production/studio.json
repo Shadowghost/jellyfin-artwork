@@ -1,0 +1,13 @@
+[
+  {
+    "name": "KUN Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225601"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

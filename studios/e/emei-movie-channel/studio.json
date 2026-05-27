@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Emei Movie Channel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138793"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

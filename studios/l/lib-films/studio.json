@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Lib Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262751"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

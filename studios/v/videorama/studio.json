@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Videorama",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17969",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w4vS1okdYswXsOvG1kvYvjBcN0z.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Essen",
+    "placeholder": true
+  }
+]

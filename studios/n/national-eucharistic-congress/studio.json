@@ -1,0 +1,16 @@
+[
+  {
+    "name": "National Eucharistic Congress",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273617",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wMWLeQ1JflwjMetgHZpDtaBSfF0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.eucharisticcongress.org",
+    "placeholder": true
+  }
+]

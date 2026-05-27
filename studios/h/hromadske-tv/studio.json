@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hromadske TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84156",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1IfZ4rvezJxhyXGmf6XkAujeVp0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UA",
+    "homepage": "https://hromadske.ua/",
+    "headquarters": "Kyiv, Ukraine",
+    "placeholder": true
+  }
+]

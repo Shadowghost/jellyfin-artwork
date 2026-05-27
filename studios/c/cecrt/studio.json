@@ -1,0 +1,14 @@
+[
+  {
+    "name": "CECRT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110521"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

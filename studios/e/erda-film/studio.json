@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Erda-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94275"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

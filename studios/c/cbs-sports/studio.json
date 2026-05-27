@@ -1,0 +1,30 @@
+[
+  {
+    "name": "CBS Sports",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110640",
+        "logo_uri": "https://image.tmdb.org/t/p/original/y8LsBGbqyBTNaTCrhZ4pwC3fOj9.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "US",
+    "homepage": "https://www.cbssports.com",
+    "headquarters": "Manhattan, New York City, New York",
+    "template": true
+  }
+]

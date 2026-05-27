@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Okinawa Television Broadcasting",
+    "country": "JP",
+    "homepage": "https://www.otv.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271660",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gRUUO3lBYddcSqQPfFruXVDAlv2.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

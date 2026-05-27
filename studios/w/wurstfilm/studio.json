@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Wurstfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37693"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.wurstfilm.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

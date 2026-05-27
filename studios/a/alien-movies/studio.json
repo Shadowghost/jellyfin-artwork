@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Alien movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219072"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Authorized Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8748"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

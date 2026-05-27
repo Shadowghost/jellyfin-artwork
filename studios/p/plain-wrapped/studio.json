@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Plain Wrapped",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31691"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

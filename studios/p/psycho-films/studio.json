@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Psycho Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72080",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2W7Ja4jQqEBpgdxrReGxh7I5shA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.psychofilms.org/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

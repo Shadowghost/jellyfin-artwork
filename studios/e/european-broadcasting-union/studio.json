@@ -1,0 +1,32 @@
+[
+  {
+    "name": "European Broadcasting Union",
+    "description": "Alliance of public service media organisations across Europe and beyond, headquartered in Geneva; producer of the Eurovision and Euroradio networks and the Eurovision Song Contest.",
+    "country": "CH",
+    "type": "other",
+    "homepage": "https://www.ebu.ch/home",
+    "headquarters": "Geneva",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97577",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d6wrMvIaKxF66EDRagGc7q8hP3Z.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

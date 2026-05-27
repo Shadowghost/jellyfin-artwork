@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Kultfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213843"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

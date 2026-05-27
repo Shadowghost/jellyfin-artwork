@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Guild",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166393"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

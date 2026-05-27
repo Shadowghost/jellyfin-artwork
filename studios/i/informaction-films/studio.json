@@ -1,0 +1,17 @@
+[
+  {
+    "name": "InformAction Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32365",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hOG3Bu053jQdbokXu4KNlCmFBfE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.informactionfilms.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

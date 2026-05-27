@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie Start",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135231"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

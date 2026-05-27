@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lumanes Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200227",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tZOUqVy1DcjQE3lvKNBa6yRga4Q.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.lumanesfilm.com",
+    "placeholder": true
+  }
+]

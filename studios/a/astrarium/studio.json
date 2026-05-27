@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Astrarium",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214811"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

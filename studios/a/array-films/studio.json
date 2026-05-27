@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Array Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201003"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "kickfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193076"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

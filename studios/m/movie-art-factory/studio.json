@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Movie Art Factory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135330",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q8DV7OcAHdPkg3UqGoqyDtsVn5x.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

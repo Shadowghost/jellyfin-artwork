@@ -1,0 +1,13 @@
+[
+  {
+    "name": "kymas production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170099"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

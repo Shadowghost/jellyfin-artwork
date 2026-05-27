@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Happy Place",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119158"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://happyplace.tv",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

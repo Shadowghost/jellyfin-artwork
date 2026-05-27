@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Metr",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104695",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A4HeS24zk9LBzocXIZlgBe1pwEf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://www.studiometr.org/",
+    "placeholder": true
+  }
+]

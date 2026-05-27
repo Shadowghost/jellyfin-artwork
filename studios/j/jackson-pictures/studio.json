@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Jackson Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171235"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

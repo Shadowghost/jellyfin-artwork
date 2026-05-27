@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Scottish Screen",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "698"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

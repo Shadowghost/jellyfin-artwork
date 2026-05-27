@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Prospect Park",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19776"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

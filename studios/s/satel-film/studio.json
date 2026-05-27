@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Satel Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1440",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tTPVO2jX1Zy5UhLRyqywA0BZvwR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "http://www.satel.at",
+    "headquarters": "Vienna",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SoloCine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83593"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

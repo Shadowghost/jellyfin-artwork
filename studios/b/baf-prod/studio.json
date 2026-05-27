@@ -1,0 +1,14 @@
+[
+  {
+    "name": "BAF Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "146987"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

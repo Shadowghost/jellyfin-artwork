@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Def Jam Recordings",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203319",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n2s65rcyXMBy5dcNbBgobcr7HQb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.defjam.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

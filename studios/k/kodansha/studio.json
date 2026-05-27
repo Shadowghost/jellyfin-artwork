@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Kodansha",
+    "description": "Largest Japanese publishing company, known for manga magazines (Weekly Shonen Magazine, Morning) and many internationally distributed manga and light-novel series.",
+    "country": "JP",
+    "type": "publisher",
+    "homepage": "https://www.kodansha.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "59118",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9nTCEBgGaaI5swkv8gy2vny0Mb5.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

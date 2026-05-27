@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Paramount Network",
+    "description": "American pay television channel owned by Paramount Global, launched in 2018 as a rebrand of Spike; home of Yellowstone and other Paramount-branded programming.",
+    "country": "ES",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161449"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true,
+    "homepage": "https://www.paramountnetwork.es"
+  }
+]

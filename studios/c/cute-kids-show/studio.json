@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cute Kids Show",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200611",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f8eMVBqpndCy66pRRGRlTxeSkyg.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Loco Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197639",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aPBQBCB9OJxw1qmpSViN4d7G04Q.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.loco-films.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

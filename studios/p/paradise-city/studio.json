@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Paradise City",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28360",
+        "logo_uri": "https://image.tmdb.org/t/p/original/juWn38bElYfPvCCu8OUR1ovDBbO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://weareparadise.city/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

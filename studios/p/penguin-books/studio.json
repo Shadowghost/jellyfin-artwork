@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Penguin Books",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19261"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

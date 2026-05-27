@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Super Channel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11577",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rqGf031msXZRkHeoRu0nRlI8vW8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.superchannel.ca",
+    "headquarters": "Edmonton, Alberta",
+    "placeholder": true
+  }
+]

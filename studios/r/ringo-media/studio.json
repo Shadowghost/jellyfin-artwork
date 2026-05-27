@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ringo Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100054",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hlwa2QnV7npmlxv8dMB49O23qZT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.ringomediabcn.com/",
+    "headquarters": "Barcelona",
+    "placeholder": true
+  }
+]

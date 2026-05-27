@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BOOTLEG",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38750",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oSQmWMlAu8F9tha2PLVDE6Q8y3M.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.ms-pictures.com/label/bootleg/index.php",
+    "placeholder": true
+  }
+]

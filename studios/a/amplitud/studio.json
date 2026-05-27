@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Amplitud",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "132432"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

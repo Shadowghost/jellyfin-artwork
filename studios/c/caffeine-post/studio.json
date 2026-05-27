@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Caffeine Post",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230417",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2l3dQOz21BQ89VD6vMaSzYUmXAl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://caffeinepost.com/",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

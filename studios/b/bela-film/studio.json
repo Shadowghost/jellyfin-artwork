@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bela Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "44451",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u2UB1terN70KgFofITHCNZs3ZYd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SI",
+    "homepage": "https://belafilm.si/",
+    "headquarters": "Ljubljana",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Huayi Tencent Entertainment",
+    "country": "HK",
+    "homepage": "http://www.huayitencent.com/en/home.aspx",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89488",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kibkB00vtupDUoWEh1pu2TuzgWD.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

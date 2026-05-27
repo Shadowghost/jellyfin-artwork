@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Matéria Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224180"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

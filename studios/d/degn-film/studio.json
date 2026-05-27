@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Degn Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144287",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6ZItgAiyUpzkIPiXVQZCYgeDnVI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "http://www.degnfilm.at/",
+    "headquarters": "Grödig",
+    "placeholder": true
+  }
+]

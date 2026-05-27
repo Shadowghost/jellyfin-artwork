@@ -1,0 +1,13 @@
+[
+  {
+    "name": "EMA Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264146"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

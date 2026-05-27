@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Little Window Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200424"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kinocompany",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10877"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://www.kinocompany.fi/",
+    "headquarters": "Helsinki, Finland",
+    "placeholder": true
+  }
+]

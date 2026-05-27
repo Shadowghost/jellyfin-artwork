@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Screencrib",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221502",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wmLlMKiANCchAE4bceOpQEWd9Sc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.screencrib.com/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NEDpictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93042"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

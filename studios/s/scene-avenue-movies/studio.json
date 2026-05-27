@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Scene Avenue Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120003"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

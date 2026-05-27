@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Katapult",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180202"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

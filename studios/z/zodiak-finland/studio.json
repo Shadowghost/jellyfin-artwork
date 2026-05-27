@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zodiak Finland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33392",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fGssrRK2bkiH9TvgaSziBwmq42v.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://zodiakfinland.fi",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

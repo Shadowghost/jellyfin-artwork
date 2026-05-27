@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Logan Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51194",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wf6h4zzM9Vs2T6oxIm30nK8B9ed.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.loganpictures.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

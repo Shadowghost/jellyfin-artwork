@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Crossmedia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256422",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8wkAYkjqQ7MmC3YLnX9y8sAOiVA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://cross-media.jp/",
+    "placeholder": true
+  }
+]

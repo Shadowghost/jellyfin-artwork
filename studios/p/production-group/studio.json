@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Production Group",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40250"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

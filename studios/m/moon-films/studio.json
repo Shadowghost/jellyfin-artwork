@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Moon Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238027",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3LvtIS4wgU0tvfLlX792U2kKC6h.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://moonfilms.tv/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

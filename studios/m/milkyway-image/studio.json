@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Milkyway Image",
+    "country": "HK",
+    "homepage": "http://www.milkywayimage.com",
+    "headquarters": "Kwun Tong, Kowloon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2135",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jGaDO6Tl9OWWlcPCbIQC98NmiyQ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

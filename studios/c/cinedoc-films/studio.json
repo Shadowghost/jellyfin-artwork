@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cinédoc Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96071"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.cinedoc.fr/",
+    "headquarters": "Annecy",
+    "placeholder": true
+  }
+]

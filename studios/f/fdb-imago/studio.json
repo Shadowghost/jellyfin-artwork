@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FDB Imago",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115805"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

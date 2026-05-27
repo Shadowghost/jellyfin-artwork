@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Storm City Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144005",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2sXp9GLU94rmU9ERpfJbX5Fm5Ne.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.stormcityfilms.com/",
+    "headquarters": "New York, New York",
+    "placeholder": true
+  }
+]

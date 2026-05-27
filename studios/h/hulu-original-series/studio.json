@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Hulu Original Series",
+    "description": "Branding for original scripted and unscripted programming produced for the Hulu streaming service.",
+    "country": "US",
+    "type": "streaming-service",
+    "colors": [
+      {
+        "name": "Hulu Green",
+        "hex": "#1CE783"
+      }
+    ],
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

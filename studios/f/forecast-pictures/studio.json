@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Forecast Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12686",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AmhtyqkOEpLBqE1MSKHWFoQHVTx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://forecastpictures.free.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

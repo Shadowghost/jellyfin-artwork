@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Roc Nation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87268",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xHP91igtvutWF987tkAA9bQ3H5l.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://rocnation.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

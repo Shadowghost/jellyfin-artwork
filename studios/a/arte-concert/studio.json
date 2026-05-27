@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ARTE Concert",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102793",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kNELUhi9Tnyw8Od01236QYErqHF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.arte.tv/fr/videos/arte-concert/",
+    "placeholder": true
+  }
+]

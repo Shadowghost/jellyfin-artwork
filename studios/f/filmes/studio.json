@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2410"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

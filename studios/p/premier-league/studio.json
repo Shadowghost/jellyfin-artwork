@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Premier League",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120747"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

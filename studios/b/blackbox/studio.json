@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Blackbox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147050"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://theblackbox.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

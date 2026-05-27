@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Atípica Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7342",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qwoTW4lWPqIvHS7qFWUKClVWkeK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://atipicafilms.com",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

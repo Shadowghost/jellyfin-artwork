@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Flute Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169950",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bnM4d5btAZPCQKU08hm4p6eEMbZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.flutefilm.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

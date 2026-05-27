@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sony Music Labels",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192382",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kkr8hShm17AecruOLPHuBxDfUdK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.sme.co.jp/company/groupcompanies/sml/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Starling Films",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23126"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Opera Australia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39594",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hmC9vTikkj4tYe350OpbSJTrgn8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://opera.org.au/",
+    "placeholder": true
+  }
+]

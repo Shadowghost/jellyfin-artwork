@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SMS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58164"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

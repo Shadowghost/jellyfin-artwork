@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Home Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10966",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qrnBLPtq9exZ5TKpheGFp1GnQkq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://homefilms.mx/",
+    "headquarters": "Ciudad de México",
+    "placeholder": true
+  }
+]

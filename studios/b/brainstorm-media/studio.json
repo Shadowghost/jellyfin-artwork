@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Brainstorm Media",
+    "description": "American independent film distribution and production company based in Los Angeles, known for theatrical and digital releases of indie features and documentaries.",
+    "country": "US",
+    "type": "distributor",
+    "homepage": "http://www.brainmedia.com",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11658",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hDKTXUEj1BR3Istbh2Zu5GOYvej.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

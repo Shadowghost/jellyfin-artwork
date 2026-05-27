@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Clique Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "47495",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nJ9WvVgIp5RpX1mYBqlPyD6fLGl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://clique-pictures.com",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

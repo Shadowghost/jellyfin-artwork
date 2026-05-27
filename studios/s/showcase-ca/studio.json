@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Showcase (CA)",
+    "description": "Canadian English-language specialty cable channel owned by Corus Entertainment, broadcasting feature films and edgy dramatic programming.",
+    "country": "CA",
+    "type": "cable-network",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Showcase (Canada)"
+    ],
+    "template": true
+  }
+]

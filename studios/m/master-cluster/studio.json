@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Master Cluster",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217837"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

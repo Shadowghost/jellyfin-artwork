@@ -1,0 +1,15 @@
+[
+  {
+    "name": "South Sydney Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200552",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nYrAFUFyRd4u8jsuFHipHG0IY0W.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "placeholder": true
+  }
+]

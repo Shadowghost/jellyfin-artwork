@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fivestar Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76422"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

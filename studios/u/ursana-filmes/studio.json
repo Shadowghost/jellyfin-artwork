@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ursana Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189389",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7Lt9SlbfkknvSmocdvBIbxjRpF8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.ursanafilmes.com/en",
+    "placeholder": true
+  }
+]

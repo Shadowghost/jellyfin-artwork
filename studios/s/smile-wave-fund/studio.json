@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Smile Wave Fund",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209091",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4jUoqpwvB6uAZZ3K1yEenMv8Gmh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://smile-wave.org/",
+    "placeholder": true
+  }
+]

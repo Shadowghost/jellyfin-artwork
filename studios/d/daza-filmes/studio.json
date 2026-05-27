@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Daza Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86034",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bZo9glWEI5FF7O9LFFVn8eKkUfv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://dazafilmes.com.br/",
+    "headquarters": "Rio de Janeiro RJ",
+    "placeholder": true
+  }
+]

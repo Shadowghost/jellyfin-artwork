@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LakeFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196391"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

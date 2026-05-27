@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Metromuster",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85504"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Arcadia",
+    "country": "AU",
+    "homepage": "https://www.thisisarcadia.com/",
+    "headquarters": "108 Endsleigh Avenue  Orange NSW 2800  Australia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22369",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t8rD6rglTCGUX6R0CeaaMlNTB6A.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio Film Bilder",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73885",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1cvK5w3mzTuFMbZtstHgtJphNc9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.filmbilder.de/",
+    "headquarters": "Stuttgart",
+    "placeholder": true
+  }
+]

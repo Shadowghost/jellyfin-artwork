@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MEO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202120"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

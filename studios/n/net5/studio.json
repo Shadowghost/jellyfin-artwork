@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Net5",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "146306",
+        "logo_uri": "https://image.tmdb.org/t/p/original/enPgbKDxkxLls6y35EdybjnZIji.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.net5.nl",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Ghost Corps",
+    "description": "American film and television production company devoted to the Ghostbusters franchise, founded by Ivan Reitman and Dan Aykroyd.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Culver City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84042",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hbln3zGw1R6mkfRETOaUbRuAJSI.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Eldorado Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200703",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9JnFXPDYw3ApzNqlKihzDG2liLb.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

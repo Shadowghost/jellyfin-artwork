@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Légende Films",
+    "country": "FR",
+    "homepage": "http://www.legende.fr",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22997",
+        "logo_uri": "https://image.tmdb.org/t/p/original/niPdWsCgM1HoAEnh3Z200V4nDIo.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pampa Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34259",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qUcQmkCRJA3jjxqZBlJybWRmTsI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://www.pampafilms.com.ar",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

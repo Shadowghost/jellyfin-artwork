@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Radix",
+    "country": "JP",
+    "homepage": "http://www.radix-net.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250132",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cnHxLOH6hvxoa5bXPK6G0jak8Ui.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

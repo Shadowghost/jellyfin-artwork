@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Musicbank",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96877"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

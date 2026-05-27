@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ITV",
+    "country": "GB",
+    "homepage": "http://www.itv.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3448",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dcA8JDfnnQPMaq8lv2CCiYrNe0S.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

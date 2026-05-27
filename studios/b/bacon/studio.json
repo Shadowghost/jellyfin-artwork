@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bacon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37251",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cm5artJfDk59F41dDOrnYMx0kC8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://baconproduction.com",
+    "headquarters": "Oslo",
+    "placeholder": true
+  }
+]

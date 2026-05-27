@@ -1,0 +1,15 @@
+[
+  {
+    "name": "FINCH",
+    "country": "AU",
+    "homepage": "https://finchcompany.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102450"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

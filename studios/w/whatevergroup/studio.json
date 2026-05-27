@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Whatevergroup",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189220"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "placeholder": true
+  }
+]

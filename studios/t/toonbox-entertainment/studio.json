@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Toonbox Entertainment",
+    "description": "Canadian/Russian animation studio behind The Nut Job theatrical franchise and television animation work.",
+    "country": "CA",
+    "type": "production-company",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20790",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qYFxsUDLRqdGSE1iDsLBJhxPeky.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

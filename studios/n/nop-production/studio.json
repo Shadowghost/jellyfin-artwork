@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nop Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "282443"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

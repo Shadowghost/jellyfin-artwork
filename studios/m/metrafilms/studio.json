@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MetraFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10694",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vKBor8qoX7Z6zhd7gmn4ADHO245.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://www.metrafilms.ru",
+    "placeholder": true
+  }
+]

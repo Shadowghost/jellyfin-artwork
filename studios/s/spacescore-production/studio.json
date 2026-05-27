@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Spacescore Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191916"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

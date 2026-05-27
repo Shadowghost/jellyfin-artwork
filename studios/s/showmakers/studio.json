@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ShowMakers",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102509"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

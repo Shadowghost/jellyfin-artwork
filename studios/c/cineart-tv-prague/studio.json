@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cineart TV Prague",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24860",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lsocLEGyTX7agkfApaBef36tIrL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

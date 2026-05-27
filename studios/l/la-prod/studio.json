@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85063",
+        "logo_uri": "https://image.tmdb.org/t/p/original/68hy1l1EWAVzzwrxIt8uAIwYTkw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MA",
+    "homepage": "https://laprod.ma/",
+    "headquarters": "Casablanca",
+    "placeholder": true
+  }
+]

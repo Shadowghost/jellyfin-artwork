@@ -1,0 +1,16 @@
+[
+  {
+    "name": "WNL",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185752",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zxDGvnuaBwzuq6fc8LBMwjMz2KR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://wnl.tv",
+    "placeholder": true
+  }
+]

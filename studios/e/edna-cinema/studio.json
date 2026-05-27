@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Edna Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205261",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lhTJLdq5stBX352unSrges78Yzy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "headquarters": "Sant Cugat del Vallès, Catalonia",
+    "placeholder": true
+  }
+]

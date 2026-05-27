@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MLP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130904"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Atmo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "227712"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

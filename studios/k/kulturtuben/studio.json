@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kulturtuben",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16270",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4JfRxyZFEkm7oLqH2rljUtWOyBZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://kulturtuben.se/",
+    "headquarters": "Gothenburg, Sweden",
+    "placeholder": true
+  }
+]

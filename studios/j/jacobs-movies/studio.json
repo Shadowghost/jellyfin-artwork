@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Jacobs Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106500"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

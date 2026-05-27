@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pervoe Kino Film Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135227",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wv00iAcn952q7N7u3PQ8c0IaOEF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://pervoe.ru/",
+    "placeholder": true
+  }
+]

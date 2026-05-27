@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hungry Man",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76008",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3gLJ7UHh65hFpgemDviFnmmJzxB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://hungryman.com/",
+    "headquarters": "New York, New York",
+    "placeholder": true
+  }
+]

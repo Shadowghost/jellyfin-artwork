@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Red Hat Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "65788"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cine-Relation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209832"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NatureLab",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208713",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6txxpEfU97RgMo9eVVI1MNxCgAO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.naturelab.co.jp/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "French Art",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "65668",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qHpNaCy2IGoTdyQkI2eD972E7Va.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

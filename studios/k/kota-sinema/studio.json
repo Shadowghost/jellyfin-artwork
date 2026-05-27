@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kota Sinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89007"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

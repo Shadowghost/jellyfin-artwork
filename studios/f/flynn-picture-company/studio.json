@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Flynn Picture Company",
+    "country": "US",
+    "headquarters": "West Hollywood, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34081"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

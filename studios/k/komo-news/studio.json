@@ -1,0 +1,13 @@
+[
+  {
+    "name": "KOMO News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167063"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ici Occitanie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155792",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g65V0vFQhNYk2Q2pyEn87TWE1yU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Toulouse",
+    "placeholder": true
+  }
+]

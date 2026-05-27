@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Wattson Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283056"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

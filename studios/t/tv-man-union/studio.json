@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TV Man Union",
+    "country": "JP",
+    "homepage": "https://www.tvu.co.jp",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12424",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nBer3gCkrK5yCG3Q0sJhFSuwZIk.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Movioca",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108807",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cpbcPwrzE9bROYlOXLVWg4GbHor.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.movioca.com",
+    "placeholder": true
+  }
+]

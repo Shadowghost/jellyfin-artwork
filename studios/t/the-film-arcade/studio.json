@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Film Arcade",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "61901",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4WrRs5KcWWAgn7RiK9MPo3rJKGE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://thefilmarcade.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

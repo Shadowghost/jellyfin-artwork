@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Roma Production House",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250384",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bwkXbT1yMsqNdLPKDBeauvnxvWx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

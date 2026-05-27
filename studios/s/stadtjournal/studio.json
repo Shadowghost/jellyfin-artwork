@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Stadtjournal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200798"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

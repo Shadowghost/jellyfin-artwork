@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Production ASOBI",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188906"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

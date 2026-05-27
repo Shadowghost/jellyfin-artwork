@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DBM Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121233",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1ZgP8pkUHTwWKcakaDoc9c9zrpU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://dbmfilm.com/dbmfilms/",
+    "headquarters": "Towson",
+    "placeholder": true
+  }
+]

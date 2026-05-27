@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Apply the Message",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264075"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

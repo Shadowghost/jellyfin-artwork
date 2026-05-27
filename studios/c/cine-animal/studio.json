@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine Animal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115901"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

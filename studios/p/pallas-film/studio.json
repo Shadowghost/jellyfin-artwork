@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pallas Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "789",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rQ0fru0nm1oCsz2npnAgXEl11AH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.pallasfilm.de/en/",
+    "headquarters": "Halle (Saale), Saxony-Anhalt",
+    "placeholder": true
+  }
+]

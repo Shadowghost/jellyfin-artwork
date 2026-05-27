@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fjord Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169265",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ff7BwnT6Y4bad9UuDzGnGUNY4eu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://fjordfilms.ca",
+    "headquarters": "Montreal",
+    "placeholder": true
+  }
+]

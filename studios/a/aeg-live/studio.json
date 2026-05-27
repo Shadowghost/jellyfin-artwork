@@ -1,0 +1,15 @@
+[
+  {
+    "name": "AEG Live",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87041",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cDpmlbyCOzJsiFjd8d1BTEs7vjq.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

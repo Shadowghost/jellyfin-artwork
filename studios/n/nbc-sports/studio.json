@@ -1,0 +1,29 @@
+[
+  {
+    "name": "NBC Sports",
+    "description": "Sports programming division of the American broadcast television network NBC, covering events including the Olympics, NFL Sunday Night Football, NASCAR, the NHL and Premier League.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204066"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Aeroplan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173232",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ryQ6IAwKxAtRXsR8UZ3bvdWCCho.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://www.aeroplanstudios.com/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

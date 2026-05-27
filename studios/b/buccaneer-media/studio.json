@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Buccaneer Media",
+    "country": "GB",
+    "homepage": "https://www.buccaneermedia.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67602",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dzDIlSd8V9LOPdc8m8HVjh5Zwl8.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

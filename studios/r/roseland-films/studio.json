@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Roseland Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36142",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mJ7ROcyWjsDbDqpqfJuQYo7zKx7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.roselandfilms.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

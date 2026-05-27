@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Temel Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117368"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "343 Industries",
+    "description": "American video game developer and managing studio of the Halo franchise, owned by Microsoft; rebranded to Halo Studios in 2024.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "https://www.343industries.com",
+    "headquarters": "Redmond, Washington",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48856",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gyEyIXqnVkOxjbASaWthewkjGgI.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

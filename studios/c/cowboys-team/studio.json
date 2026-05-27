@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cowboys team",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204512"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

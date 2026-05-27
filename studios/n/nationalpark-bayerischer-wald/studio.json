@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nationalpark Bayerischer Wald",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208020",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pSJRidoPgBU4sQXaT71w4gC2Ip6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.nationalpark-bayerischer-wald.bayern.de/",
+    "headquarters": "Grafenau",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Eureka Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128809"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TVG",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10050",
+        "logo_uri": "https://image.tmdb.org/t/p/original/SowPJ8W5Gy6OgyAFyWnv4KjcPo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.crtvg.es/tvg",
+    "headquarters": "Santiago de Compostela",
+    "placeholder": true
+  }
+]

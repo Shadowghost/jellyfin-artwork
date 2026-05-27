@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Avex",
+    "description": "Japanese entertainment conglomerate headquartered in Tokyo encompassing the Avex Trax record label, Avex Pictures (anime production/distribution) and Avex Entertainment (talent management/live events).",
+    "country": "JP",
+    "type": "record-label",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134289"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Avex Group"
+    ],
+    "template": true
+  }
+]

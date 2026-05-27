@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ukrtelefilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24299",
+        "logo_uri": "https://image.tmdb.org/t/p/original/og5NAjyJNIr82YMwb11vk8qZjeq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SU",
+    "headquarters": "Kyiv, Ukrainian SSR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hammer Film Productions",
+    "country": "GB",
+    "homepage": "http://www.hammerfilms.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1314",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gQBluDqe6dc2ZdzfJbabEHoSGoG.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

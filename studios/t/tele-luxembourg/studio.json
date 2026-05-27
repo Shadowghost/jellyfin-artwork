@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Télé-Luxembourg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260112",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uGqsb1GbxLlhA87verJN83oa0vG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LU",
+    "homepage": "http://rtl.lu",
+    "placeholder": true
+  }
+]

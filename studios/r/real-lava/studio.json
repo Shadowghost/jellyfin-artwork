@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Real Lava",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168486",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wJIDzf771eSmtSRjBMi8vJBWz8t.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://reallava.com/",
+    "placeholder": true
+  }
+]

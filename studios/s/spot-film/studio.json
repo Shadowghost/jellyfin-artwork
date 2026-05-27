@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Spot Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210547",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1Jcyl3ion4Tnlg7HG7uowQ3goSV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "homepage": "http://www.spotfilm.ro/",
+    "headquarters": "Cluj-Napoca",
+    "placeholder": true
+  }
+]

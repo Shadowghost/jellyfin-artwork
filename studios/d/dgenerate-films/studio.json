@@ -1,0 +1,13 @@
+[
+  {
+    "name": "dGenerate Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45561"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

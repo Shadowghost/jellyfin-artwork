@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Girelle",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110952",
+        "logo_uri": "https://image.tmdb.org/t/p/original/smSNpy7VyibJrIRyo2PvsHXdXdM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.girelle.fr",
+    "placeholder": true
+  }
+]

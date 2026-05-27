@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Eastwest filmdistribution",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80157"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Timon Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201505"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

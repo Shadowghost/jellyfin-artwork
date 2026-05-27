@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Rainbow Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91956",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1gnpUaOxoisGj5DcLIinSsutWLJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "headquarters": "Barcelona",
+    "placeholder": true
+  }
+]

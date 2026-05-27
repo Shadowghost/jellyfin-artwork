@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pep Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100256"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

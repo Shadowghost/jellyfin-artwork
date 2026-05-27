@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sun Target",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63108"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Newman/Tooley Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16791"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

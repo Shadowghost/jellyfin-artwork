@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Région Picardie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160406",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yY6zXBavUFkb0P95NzVHw59Igso.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

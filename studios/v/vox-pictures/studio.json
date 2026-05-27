@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Vox Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85944",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k3AXBPeNGTCQ3uFXpJFBSSkm3w3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.voxpictures.co.uk",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Softbank Ventures",
+    "description": "Early-stage venture capital arm of SoftBank Group, originally founded as SoftBank Ventures Korea, that has invested in entertainment and tech companies across Asia.",
+    "country": "KR",
+    "type": "other",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10922"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "SoftBank Ventures Asia"
+    ],
+    "template": true
+  }
+]

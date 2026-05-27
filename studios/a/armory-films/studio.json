@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Armory Films",
+    "country": "US",
+    "homepage": "https://www.armoryfilms.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35849",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bHYIJoy2ri7crfHugwR0AdF3qdM.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

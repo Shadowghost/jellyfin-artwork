@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Seoul Metropolitan Office of Education",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134587",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mEY9NzjePVZJhefUb70RIfqst1Q.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.sen.go.kr/main/services/index/index.action",
+    "headquarters": "Jongno, Seoul, South Korea",
+    "placeholder": true
+  }
+]

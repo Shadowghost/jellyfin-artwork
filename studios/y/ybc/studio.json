@@ -1,0 +1,16 @@
+[
+  {
+    "name": "YBC",
+    "country": "CY",
+    "homepage": "http://cybc.com.cy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78940",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hQ0xUt56yjIHjKUbwqL7lF8lGot.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

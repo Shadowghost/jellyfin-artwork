@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nexo Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230725"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

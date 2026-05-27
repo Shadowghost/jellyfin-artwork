@@ -1,0 +1,15 @@
+[
+  {
+    "name": "MUVI.cz production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115594"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "headquarters": "Prague, Czech Republic",
+    "placeholder": true
+  }
+]

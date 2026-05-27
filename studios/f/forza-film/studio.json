@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Forza Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225481",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hMQPmyEHodaxEt1XAlTzAWIEtwg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://forzafilm.ru/",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

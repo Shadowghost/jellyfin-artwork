@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WSS playground",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "282625",
+        "logo_uri": "https://image.tmdb.org/t/p/original/27JEwB1UfbY9SnAl9vspcFHXCPf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://whysoserious.jp/",
+    "headquarters": "Tokyo, Japan",
+    "placeholder": true
+  }
+]

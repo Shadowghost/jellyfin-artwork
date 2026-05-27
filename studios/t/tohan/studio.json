@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tohan",
+    "country": "JP",
+    "homepage": "https://www.tohan.jp/english/",
+    "headquarters": "Shinjuku, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145105",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oFUDvCLCRmAXlGqjmwO8CN33ygl.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

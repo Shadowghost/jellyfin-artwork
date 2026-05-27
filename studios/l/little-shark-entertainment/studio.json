@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Little Shark Entertainment",
+    "country": "DE",
+    "homepage": "https://www.littleshark.de",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "736"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

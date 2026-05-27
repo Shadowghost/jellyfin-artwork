@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Glasshaus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "244139",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oYE0DD8b1DPI2r1vwUOsTAYiksq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.glasshauspresents.com/",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

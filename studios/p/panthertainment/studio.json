@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Panthertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193338",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9VYFyH7cp6TUu2slJTV1G8ftx7B.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://panthertainment.com/",
+    "placeholder": true
+  }
+]

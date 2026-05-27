@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Video Home Library",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117533"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

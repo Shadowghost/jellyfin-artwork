@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Babosa Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84996",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vZmsKexvwFNjjznk8H6aongYyXf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PY",
+    "homepage": "https://www.lababosacine.com/",
+    "headquarters": "Asunción",
+    "placeholder": true
+  }
+]

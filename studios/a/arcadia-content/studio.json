@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Arcadia Content",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123319"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

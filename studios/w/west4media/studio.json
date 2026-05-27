@@ -1,0 +1,17 @@
+[
+  {
+    "name": "West4Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175000",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kRKyM6OTI0Yjkc7h1O0Bcokfaga.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "https://west4.media",
+    "headquarters": "Vienna, Austria",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "IAC Films",
+    "description": "American film production company, subsidiary of IAC, known for producing films directed by Woody Allen including Blue Jasmine and Midnight in Paris.",
+    "country": "US",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93105",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ryjDQ04FlVYVW30Eok3t5V5Gx8T.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Sarıkaya Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99690",
+        "logo_uri": "https://image.tmdb.org/t/p/original/meVDJpiJnpbTIXKlBlXl2twHusC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

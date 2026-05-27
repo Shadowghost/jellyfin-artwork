@@ -1,0 +1,35 @@
+[
+  {
+    "name": "M6",
+    "providers": [
+      {
+        "provider_name": "tvdb",
+        "id": "135"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "157431"
+      },
+      {
+        "provider_name": "imdb",
+        "id": "co0037417"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "m6",
+    "template": true
+  }
+]

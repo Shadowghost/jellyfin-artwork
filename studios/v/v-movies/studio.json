@@ -1,0 +1,14 @@
+[
+  {
+    "name": "V-Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "284356"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

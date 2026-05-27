@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mimesis Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117757",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qF5tbJOK8ppkY08ESKlGtj6762t.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://mimesis.cz",
+    "headquarters": "Prague, Czech Republic",
+    "placeholder": true
+  }
+]

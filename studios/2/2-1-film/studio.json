@@ -1,0 +1,17 @@
+[
+  {
+    "name": "2:1 Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18241",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dkGRn6wYyjgE14UehpMeKiNM5FG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "http://www.2zu1film.com/",
+    "headquarters": "Zürich",
+    "placeholder": true
+  }
+]

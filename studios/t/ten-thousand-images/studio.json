@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ten Thousand Images",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84349",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bBMg2MlRf7EddA3F6wCQTxdrxGz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "http://www.tenthousandimages.no",
+    "headquarters": "Nesoddtangen",
+    "placeholder": true
+  }
+]

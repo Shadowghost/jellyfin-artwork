@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Big Fish Films",
+    "country": "GB",
+    "homepage": "http://www.bigfishfilms.co.uk",
+    "headquarters": "Belfast, Northern Ireland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3352"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Set Oceano filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238762"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

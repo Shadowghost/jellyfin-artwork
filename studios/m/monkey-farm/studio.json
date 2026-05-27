@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Monkey Farm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120217"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

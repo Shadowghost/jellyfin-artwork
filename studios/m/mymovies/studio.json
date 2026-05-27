@@ -1,0 +1,14 @@
+[
+  {
+    "name": "MYmovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174209"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les films de la Mouche",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160254"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

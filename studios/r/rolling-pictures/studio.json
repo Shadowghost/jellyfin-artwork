@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rolling Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117603",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nA62WOk6Y9dkUk98dKZqRjdM6oP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.rollingpictures.cz/",
+    "headquarters": "Prague, Czech Republic",
+    "placeholder": true
+  }
+]

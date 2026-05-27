@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mallorca Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144336",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jmWGBMrwMGzs9XV5INjIxZK8h9a.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.mallorcavideo.es/mallorca-video-english",
+    "headquarters": "Palma de Mallorca",
+    "placeholder": true
+  }
+]

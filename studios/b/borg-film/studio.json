@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Borg-film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14934"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Cha Cha Chá",
+    "country": "MX",
+    "headquarters": "Mexico City",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1720"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

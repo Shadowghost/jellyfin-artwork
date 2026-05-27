@@ -1,0 +1,17 @@
+[
+  {
+    "name": "leftvision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185113",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qMEQIehg9TaogsVA8T6QLH8WC39.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.leftvision.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

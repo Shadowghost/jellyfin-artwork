@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Doozer",
+    "country": "US",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23672",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a0sVfKvMT1d55p2XJXPpRfm7rRh.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

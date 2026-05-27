@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mormon Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "146360"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

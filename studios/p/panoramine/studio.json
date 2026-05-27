@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Panoramine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283417"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Longshot",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101583"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DocsMX",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159007",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rXApEbUWEo6M2H7p1LexeurNoOQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://docsmx.org/",
+    "headquarters": "Ciudad de México",
+    "placeholder": true
+  }
+]

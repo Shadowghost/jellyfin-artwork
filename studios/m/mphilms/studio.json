@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MPhilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92588",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nOF88nAHdTFGWCfNwGqZLx66yxM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SK",
+    "homepage": "http://www.mphilms.sk/",
+    "headquarters": "Bratislava, Slovakia",
+    "placeholder": true
+  }
+]

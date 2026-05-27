@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sight Unseen Pictures",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99963",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wi5JP4jpVBeb9qK97nhICkMurNZ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

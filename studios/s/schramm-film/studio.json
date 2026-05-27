@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Schramm Film",
+    "country": "DE",
+    "homepage": "http://www.schrammfilm.de",
+    "headquarters": "Berlin, Germany",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

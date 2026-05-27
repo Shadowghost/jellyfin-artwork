@@ -1,0 +1,16 @@
+[
+  {
+    "name": "IMAX Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224057",
+        "logo_uri": "https://image.tmdb.org/t/p/original/noO8w1VhQvSUZ2srPiNlCtNjAHc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

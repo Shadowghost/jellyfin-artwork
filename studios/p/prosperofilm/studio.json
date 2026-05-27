@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ProsperoFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89474",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3A4eSq3DKeHbaeiSt8JFIkTjjxo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "headquarters": "Budapest",
+    "placeholder": true
+  }
+]

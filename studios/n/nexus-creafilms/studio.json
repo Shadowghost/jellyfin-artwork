@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nexus CreaFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231250",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5sdqtfBrZK8m2k9uZ8Y8jwOUQGU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://nexuscreafilms.com/",
+    "headquarters": "Murcia",
+    "placeholder": true
+  }
+]

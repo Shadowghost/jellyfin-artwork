@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Monkey Time Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105928",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mKlmABf9ZmTOfqEKxjKwN6pvPqY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://monkeytimemedia.net",
+    "placeholder": true
+  }
+]

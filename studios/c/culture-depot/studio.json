@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Culture Depot",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124754",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gnuXrjplOgln5rYNzfCS8j6SYs7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.culturedepot.kr/",
+    "headquarters": "Yongsan, Seoul, South Korea",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Moonriver TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159590",
+        "logo_uri": "https://image.tmdb.org/t/p/original/keM5jjHkTOMh3X65GbbtFaNWHqs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.moonrivertv.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

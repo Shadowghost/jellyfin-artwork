@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pokémon USA",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167156"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

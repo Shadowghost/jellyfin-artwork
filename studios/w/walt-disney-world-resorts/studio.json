@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Walt Disney World Resorts",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158079",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xuJoMk8XFP90SLtPzMy33oRO056.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "US",
+    "homepage": "https://disneyworld.disney.go.com/",
+    "headquarters": "Bay Lake and Lake Buena Vista, Florida, United States",
+    "template": true
+  }
+]

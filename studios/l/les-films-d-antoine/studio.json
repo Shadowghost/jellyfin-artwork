@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films d'Antoine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25539",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iET65WhLTBVFlOvkyX6seCkEyKa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://lesfilmsdantoine.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

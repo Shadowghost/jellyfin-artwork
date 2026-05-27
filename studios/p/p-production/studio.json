@@ -1,0 +1,17 @@
+[
+  {
+    "name": "P Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85853",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3tKuzh18O4hABkU0i0FBhoaMWMi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://p-production.jp/",
+    "headquarters": "Suginami, Tokyo, Japan",
+    "placeholder": true
+  }
+]

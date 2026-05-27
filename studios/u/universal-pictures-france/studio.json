@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Universal Pictures France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1546"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.universalpictures.fr/",
+    "parent_company": "Universal Pictures",
+    "placeholder": true
+  }
+]

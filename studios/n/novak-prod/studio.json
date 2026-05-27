@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Novak Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7465",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e28RwIpRcOSFaeKkzLQBzvMXbK0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "http://novakprod.be",
+    "headquarters": "Brussels",
+    "placeholder": true
+  }
+]

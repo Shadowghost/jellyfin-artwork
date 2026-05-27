@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Jolie Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128822",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bmtetqJig0voYynfNrdf2kaX0cW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://lajolieprod.com/",
+    "headquarters": "Clamart",
+    "placeholder": true
+  }
+]

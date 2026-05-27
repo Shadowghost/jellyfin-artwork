@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Kylin Pictures",
+    "country": "CN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94431"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Island Records",
+    "description": "British-Jamaican record label founded by Chris Blackwell, known for artists including Bob Marley, U2, and Amy Winehouse.",
+    "country": "US",
+    "type": "record-label",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70224",
+        "logo_uri": "https://image.tmdb.org/t/p/original/myPQo7uj08sTuOYr6LoMkN2sADT.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

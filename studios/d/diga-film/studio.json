@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Diga-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "235784"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

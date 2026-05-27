@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Penguin Lab",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "277868",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7mko5wwDi0vW3G9g2H13nl5puUs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HK",
+    "homepage": "https://penguinlab.net/",
+    "placeholder": true
+  }
+]

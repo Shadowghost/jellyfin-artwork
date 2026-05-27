@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Hitchhiker Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119093"
+      }
+    ],
+    "artwork": {},
+    "country": "SK",
+    "homepage": "http://www.hitchhikercinema.sk/?lang=en",
+    "headquarters": "Bratislava, Slovakia",
+    "placeholder": true
+  }
+]

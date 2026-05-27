@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TrifoleMovie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238667"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

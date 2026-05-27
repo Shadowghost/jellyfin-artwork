@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Modern Magic",
+    "country": "US",
+    "homepage": "https://modern-magic.co",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184287",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yH5Zbs5SaOiXCazdQwrt00vK9Pj.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

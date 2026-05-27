@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Alab View Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119772"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

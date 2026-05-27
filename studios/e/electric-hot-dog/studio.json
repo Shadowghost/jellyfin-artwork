@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Electric Hot Dog",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157329",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ePTA7uHqE4k0exCefnacgljxjD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.hotdogbuzz.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

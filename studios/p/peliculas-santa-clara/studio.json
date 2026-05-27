@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Peliculas Santa Clara",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123481"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "placeholder": true
+  }
+]

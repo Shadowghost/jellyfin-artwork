@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Add Word Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56879"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "placeholder": true
+  }
+]

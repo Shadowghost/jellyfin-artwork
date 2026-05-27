@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RTR Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164891",
+        "logo_uri": "https://image.tmdb.org/t/p/original/86F42Xi9i5bfSHG2ocizgzcBLV5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.rtrmedia.com/",
+    "headquarters": "Toronto, Ontario, Canada",
+    "placeholder": true
+  }
+]

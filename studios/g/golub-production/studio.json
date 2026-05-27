@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Golub production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255469"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Harvard University",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "59193",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cOmMbaCHae8zneoL0hQ68tKuZfI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

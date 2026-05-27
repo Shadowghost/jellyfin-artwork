@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Perro Azul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147717",
+        "logo_uri": "https://image.tmdb.org/t/p/original/96bLJuSYllh3jHAHD4uiGVA1OYd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://perroazul.tv",
+    "headquarters": "Escandón, Alcaldía Miguel Hidalgo, Mexico City",
+    "placeholder": true
+  }
+]

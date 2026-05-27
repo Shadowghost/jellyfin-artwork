@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Local Time",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210160"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Blackstone Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172107"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

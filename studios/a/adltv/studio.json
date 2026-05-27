@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ADLTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121513",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2k2sAvoWs8gGA7KiVdLr0AqKDUw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.adltv.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

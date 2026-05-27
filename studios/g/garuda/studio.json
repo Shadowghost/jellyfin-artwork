@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Garuda",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "251043"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "placeholder": true
+  }
+]

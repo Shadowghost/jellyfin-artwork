@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Zone Interdite",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199914"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

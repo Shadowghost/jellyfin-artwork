@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Anonymous Content",
+    "description": "American entertainment and media company that produces film, television and commercial content, founded by Steve Golin.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://www.anonymouscontent.com",
+    "headquarters": "Culver City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10039",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b8w4LldQolMKiLZw4FQJBcXSDGI.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

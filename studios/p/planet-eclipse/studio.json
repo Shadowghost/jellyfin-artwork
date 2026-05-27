@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Planet Eclipse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98395"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

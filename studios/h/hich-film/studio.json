@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hich Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115056",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b1B1pzcJIDqrFoxqyoN5c3r9E7e.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IR",
+    "homepage": "https://hichfilm.com/",
+    "headquarters": "Tehran",
+    "placeholder": true
+  }
+]

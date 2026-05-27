@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Composition 8",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123140"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

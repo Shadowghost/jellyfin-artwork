@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Movieplan.net",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250582"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

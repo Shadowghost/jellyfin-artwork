@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MFOSE Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271299"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Interior Field",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202910"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "3D Sparrow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108966",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8Qlld6vEMokTvsIsOLyvYFYVP25.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://3d-sparrow.com",
+    "placeholder": true
+  }
+]

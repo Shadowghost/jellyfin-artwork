@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine Provincia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129175"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

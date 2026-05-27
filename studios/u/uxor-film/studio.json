@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Uxor Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111723",
+        "logo_uri": "https://image.tmdb.org/t/p/original/abplzSEfwaH149kEpSnQ3LqLlCS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.uxorgroup.it/",
+    "headquarters": "Rome, Italy",
+    "placeholder": true
+  }
+]

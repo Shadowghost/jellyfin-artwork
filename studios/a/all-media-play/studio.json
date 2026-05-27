@@ -1,0 +1,13 @@
+[
+  {
+    "name": "All Media Play",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "43904"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

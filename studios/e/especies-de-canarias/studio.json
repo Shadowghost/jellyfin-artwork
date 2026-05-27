@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Especies de Canarias",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189361"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

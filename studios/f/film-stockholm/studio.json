@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film Stockholm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163135",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6F7XSpRgFLTXH66LAoBPIPrAetu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.filmstockholm.se/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Videocine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7570",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gW8dfVtl1JsGIiLnvglea1OHHVr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://videocine.com.mx/",
+    "headquarters": "Coyoacán, Ciudad de México",
+    "placeholder": true
+  }
+]

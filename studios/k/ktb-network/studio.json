@@ -1,0 +1,14 @@
+[
+  {
+    "name": "KTB Network",
+    "country": "KR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "710"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

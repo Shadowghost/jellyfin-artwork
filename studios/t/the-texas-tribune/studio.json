@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Texas Tribune",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217338",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u0qE5pBIyMh8KLb7z1zY3WQ3VaB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.texastribune.org/",
+    "placeholder": true
+  }
+]

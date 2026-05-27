@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Protón Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121847",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iGWnyum2Ikoy9MJYYeQXR2qn9cM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://protoncine.com/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

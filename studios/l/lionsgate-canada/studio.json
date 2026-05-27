@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lionsgate Canada",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256670",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oEHYrIm0XPI8MlAOeJ7kXrRc0V.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.lionsgate.com/canada",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

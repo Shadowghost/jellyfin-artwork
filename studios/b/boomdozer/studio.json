@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Boomdozer",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109020"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

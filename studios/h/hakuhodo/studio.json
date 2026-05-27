@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Hakuhodo",
+    "description": "Japanese advertising and communications company, the second-largest advertising agency in Japan; Hakuhodo DY Media Partners is its media-buying subsidiary and a major financier of Japanese film and anime.",
+    "country": "JP",
+    "type": "other",
+    "homepage": "https://www.hakuhodo.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13411",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5pzxTy7lWRCiruCNzwqtIYB3N43.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

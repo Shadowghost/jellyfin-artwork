@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ICTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14242",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1zbhvR6IwJVaJovNunW2lKK3Gd5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UA",
+    "homepage": "https://ictv.ua/",
+    "headquarters": "Kyiv",
+    "placeholder": true
+  }
+]

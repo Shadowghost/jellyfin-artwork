@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CTM Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91183",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vhtXN56Qz1heiqIN1ZVPDrHkMIN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://ctm.nl/",
+    "headquarters": "Hilversum, Noord-Holland",
+    "placeholder": true
+  }
+]

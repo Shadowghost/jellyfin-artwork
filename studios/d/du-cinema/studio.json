@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Du Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209878",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6pQT5nkred4ym9tLuN5DtB1h65g.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "placeholder": true
+  }
+]

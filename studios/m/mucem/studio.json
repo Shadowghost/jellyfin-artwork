@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mucem",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120110"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.mucem.org",
+    "headquarters": "Marseille",
+    "placeholder": true
+  }
+]

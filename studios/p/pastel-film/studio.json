@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pastel Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100337",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6P4ghZv1v9IH76xD3R6TjHizCZo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "http://www.pastelfilm.tv",
+    "headquarters": "Istanbul",
+    "placeholder": true
+  }
+]

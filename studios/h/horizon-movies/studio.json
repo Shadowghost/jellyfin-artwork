@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Horizon Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159654"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

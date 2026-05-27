@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WSKG",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167405",
+        "logo_uri": "https://image.tmdb.org/t/p/original/70cIW1aOWk5ICi3DQoA69nNCwAH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.wskg.org/",
+    "headquarters": "Vestal, NY",
+    "placeholder": true
+  }
+]

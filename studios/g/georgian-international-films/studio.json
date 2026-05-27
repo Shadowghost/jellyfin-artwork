@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Georgian International Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24264",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vktPOaLSymLXYg7GF0NcrLz7B7k.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GE",
+    "homepage": "https://www.gi-films.com/",
+    "placeholder": true
+  }
+]

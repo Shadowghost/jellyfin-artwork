@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Adventure Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36765"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://adventurepictures.co.uk",
+    "headquarters": "London",
+    "placeholder": true
+  }
+]

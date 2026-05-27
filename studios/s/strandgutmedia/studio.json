@@ -1,0 +1,13 @@
+[
+  {
+    "name": "strandgutmedia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120100"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

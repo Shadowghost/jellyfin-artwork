@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NRJ Belgique",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257711",
+        "logo_uri": "https://image.tmdb.org/t/p/original/elnUnQaJGptBruqG6o1J5cPelQC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.nrj.be/",
+    "headquarters": "Brussels",
+    "placeholder": true
+  }
+]

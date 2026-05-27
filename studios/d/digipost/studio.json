@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Digipost",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "190525",
+        "logo_uri": "https://image.tmdb.org/t/p/original/95yFl77hCeFj5bUlPrMmhhwK8cj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NZ",
+    "placeholder": true
+  }
+]

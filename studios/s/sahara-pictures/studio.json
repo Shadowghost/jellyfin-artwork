@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sahara Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179453",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x3zNZi8B6vF5cBHaOsoK0kCq5Ps.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://saharapictures.net/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Wolf Haus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169481",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u6O3nRQ6XEgHdXS4uVcseSyutZ3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.wolfhausfilm.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "All Channel Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184228"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

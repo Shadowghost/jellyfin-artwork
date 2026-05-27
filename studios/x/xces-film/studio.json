@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Xces Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213979",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c1p45obpyjxdvSjQGf1I2ReMKrB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://xcesfilm.com/",
+    "placeholder": true
+  }
+]

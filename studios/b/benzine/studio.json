@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Benzine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84744"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "headquarters": "Namur",
+    "placeholder": true
+  }
+]

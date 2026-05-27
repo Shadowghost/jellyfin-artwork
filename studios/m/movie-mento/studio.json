@@ -1,0 +1,16 @@
+[
+  {
+    "name": "movie.mento",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "281675"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.moviemento.it",
+    "headquarters": "Bolzano",
+    "placeholder": true
+  }
+]

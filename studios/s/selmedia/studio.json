@@ -1,0 +1,15 @@
+[
+  {
+    "name": "SelMedia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91223",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gxwsXv4tLavsuTRmm2hIL5jNLMy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EG",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Taodue Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45724",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zLt1ZhD6h1XZJnZ1SKlBnxS1VPH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.taodue.it/",
+    "headquarters": "Roma",
+    "placeholder": true
+  }
+]

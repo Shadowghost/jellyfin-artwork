@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Celador Films",
+    "country": "GB",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3573",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cA8YIHjFbWVSxJMnAkKvLYGegSS.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

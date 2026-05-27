@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Feed Me Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180987"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Network Movie Köln",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71699"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.networkmovie.de/en/",
+    "headquarters": "Köln",
+    "placeholder": true
+  }
+]

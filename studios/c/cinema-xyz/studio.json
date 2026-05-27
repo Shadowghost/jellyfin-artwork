@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cinema XyZ",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137500"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

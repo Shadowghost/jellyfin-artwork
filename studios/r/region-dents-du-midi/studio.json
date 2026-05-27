@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Region Dents du Midi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "281001",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4qVGvLkRUYSA4SGwjsQB4VUZxY6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.regiondentsdumidi.ch/",
+    "headquarters": "Val d'Illiez, Switzerland",
+    "placeholder": true
+  }
+]

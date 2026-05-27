@@ -1,0 +1,16 @@
+[
+  {
+    "name": "FilmHub",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116855",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d7NXOUAUlMcvEMyiutnn3qgV5n4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://filmhub.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PiperFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "228664",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rKNzL97WA26KnyeUUycdJDggxLq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.piper.film/",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gakken",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82652",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cRaVyV2ZMJaFDUiLnPXa7KfDEvX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.gakken.co.jp/",
+    "headquarters": "Shinagawa, Tokyo, Japan",
+    "placeholder": true
+  }
+]

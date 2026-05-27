@@ -1,0 +1,17 @@
+[
+  {
+    "name": "perfectmotion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116911",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9mK6pb8iphmoGCmXMkXUUmz3u1O.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://perfectmotion.tv",
+    "headquarters": "Brighton, England",
+    "placeholder": true
+  }
+]

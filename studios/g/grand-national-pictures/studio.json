@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Grand National Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5999"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

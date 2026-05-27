@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Rule/starger",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94026"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

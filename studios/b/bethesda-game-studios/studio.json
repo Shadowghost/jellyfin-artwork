@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Bethesda Game Studios",
+    "description": "American video game development studio known for The Elder Scrolls, Fallout, and Starfield franchises.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "https://bethesdagamestudios.com",
+    "headquarters": "Rockville, Maryland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137613",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g1zUaSoWV1yQhUBFPnmbO5tL7oI.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

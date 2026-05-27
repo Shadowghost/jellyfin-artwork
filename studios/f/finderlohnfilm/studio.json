@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FinderlohnFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86771"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

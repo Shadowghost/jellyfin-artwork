@@ -1,0 +1,15 @@
+[
+  {
+    "name": "BoomStudio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240006",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wJtkLBJX1O0Sle6qihLj1sthB07.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BPR production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "284961"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

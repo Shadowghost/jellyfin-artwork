@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Poetastros",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96241",
+        "logo_uri": "https://image.tmdb.org/t/p/original/88iWHYlPj0BAjgiuOa5ztx1NwEw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "http://poetastros.com/",
+    "headquarters": "Santiago, Chile",
+    "placeholder": true
+  }
+]

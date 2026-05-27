@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PixelArc",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256639",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1pQi0FUNaII6UbDkGQWDvnV1ZiX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.pixelarc.net/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

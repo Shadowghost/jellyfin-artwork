@@ -1,0 +1,14 @@
+[
+  {
+    "name": "SPOT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256259"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

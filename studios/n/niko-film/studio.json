@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NiKo Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22028",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sL5udH4n7YbCuHJ4XxUyliWTJw9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.nikofilm.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

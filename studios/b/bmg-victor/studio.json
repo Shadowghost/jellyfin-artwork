@@ -1,0 +1,14 @@
+[
+  {
+    "name": "BMG Victor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180110"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cypher prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "282917"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

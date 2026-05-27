@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Sky Cinema",
+    "country": "IT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21649",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6Ji6E59Wt9O4VA6nqwAd6RW7ijs.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

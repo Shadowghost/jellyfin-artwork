@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Blinding Edge Pictures",
+    "description": "American film and television production company founded by director M. Night Shyamalan, producer of Split, Glass, Old, and the Apple TV+ series Servant.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Berwyn, Pennsylvania",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12236",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bVu0qQm4GujSTCvZZz9S3rHDczA.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

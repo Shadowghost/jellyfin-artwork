@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Salon Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "61770",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wDfXpZ2UirsqQ79BN12oGohBjSZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://www.salonpictures.co.uk",
+    "placeholder": true
+  }
+]

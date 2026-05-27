@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ayuntamiento de Madrid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "246607",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oYKOJecKAu9LU0iXCByWmQeY1qu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.madrid.es",
+    "placeholder": true
+  }
+]

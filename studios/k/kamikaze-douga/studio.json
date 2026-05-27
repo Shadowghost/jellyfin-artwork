@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kamikaze Douga",
+    "country": "JP",
+    "homepage": "https://www.kamikazedouga.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93154",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vTNoVe4tBhY1hshuVVF7fA2RbSD.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

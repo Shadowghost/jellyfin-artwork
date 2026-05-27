@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Evil Angel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6463",
+        "logo_uri": "https://image.tmdb.org/t/p/original/grmpZ4NIZJmm0cuoydz4XXuwhoI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.evilangel.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

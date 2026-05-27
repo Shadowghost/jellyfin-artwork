@@ -1,0 +1,14 @@
+[
+  {
+    "name": "UAC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271105"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

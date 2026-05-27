@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Staxus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22162",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hWtKO6kqQNG7CWly03fqGtmHOqP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://staxus.com/trial/",
+    "placeholder": true
+  }
+]

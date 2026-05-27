@@ -1,0 +1,17 @@
+[
+  {
+    "name": "UCV Televisión",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231741",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qVtsPh0x2DWL3ENZMd3nLEIHcQC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "https://ucvtv.cl/",
+    "headquarters": "Viña del Mar",
+    "placeholder": true
+  }
+]

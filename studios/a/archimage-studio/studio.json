@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ArchImage Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9310"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

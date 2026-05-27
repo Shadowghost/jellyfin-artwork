@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nice Dissolve",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16262",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e2FLBrOFuBUATlyFKHWB7pqnsPt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://nicedissolve.com/",
+    "headquarters": "Brooklyn, New York",
+    "placeholder": true
+  }
+]

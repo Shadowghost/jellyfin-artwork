@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Daewon Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "298513"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "placeholder": true
+  }
+]

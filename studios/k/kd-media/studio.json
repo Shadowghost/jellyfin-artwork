@@ -1,0 +1,15 @@
+[
+  {
+    "name": "KD Media",
+    "country": "KR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86720",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xQqvfWbf1KnwsiueqbyTWK46Jas.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TTS Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216336",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ws3UzDMZnwY5EtggnrlNLuoYATA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "headquarters": "Gading Serpong, Tangerang",
+    "placeholder": true
+  }
+]

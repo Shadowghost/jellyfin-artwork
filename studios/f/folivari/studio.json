@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Folivari",
+    "country": "FR",
+    "homepage": "https://folivari.com",
+    "headquarters": "Montrouge",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89705",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9lUhHbMr32wzkDgaOMNrzIu66YC.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

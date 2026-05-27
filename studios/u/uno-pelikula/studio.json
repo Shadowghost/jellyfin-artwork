@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Uno Pelikula",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229361",
+        "logo_uri": "https://image.tmdb.org/t/p/original/d2uDUmaZTzuJAklyoXjj9j3yyw5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PH",
+    "placeholder": true
+  }
+]

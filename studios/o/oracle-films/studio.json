@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Oracle Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102983"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

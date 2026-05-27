@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Metro",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75250"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "UNC-TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113629",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bNTjDkN9pTSLEGeod6NVSImjkz5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.unctv.org",
+    "headquarters": "Research Triangle Park, Durham, NC",
+    "placeholder": true
+  }
+]

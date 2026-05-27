@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Museo de Pontevedra",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106202"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

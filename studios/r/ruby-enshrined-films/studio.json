@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ruby Enshrined Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "268235",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tTmIIXrSnakYiedn76Qe2zXJIc4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

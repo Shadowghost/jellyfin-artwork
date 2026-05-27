@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Kamalam Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27058"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

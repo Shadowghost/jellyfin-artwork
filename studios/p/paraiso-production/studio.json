@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Paraíso Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "59460",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bVx3FFeLnkV3jEuMcq5SRd0KBvm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://paraisoproduction.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

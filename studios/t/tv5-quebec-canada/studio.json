@@ -1,0 +1,15 @@
+[
+  {
+    "name": "TV5 Québec Canada",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85752",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5KU8oRvXX9I1bWdiATsSlYqx6em.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

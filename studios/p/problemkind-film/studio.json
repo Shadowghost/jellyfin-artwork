@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Problemkind Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217501"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.problemkindfilm.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

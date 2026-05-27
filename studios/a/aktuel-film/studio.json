@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Aktuel Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160928"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

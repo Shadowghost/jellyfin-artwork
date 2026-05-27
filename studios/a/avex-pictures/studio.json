@@ -1,0 +1,16 @@
+[
+  {
+    "name": "avex pictures",
+    "country": "JP",
+    "homepage": "https://avex-pictures.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55938",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ku5PUEwBjUx8XaYikgaXRVLIMbb.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

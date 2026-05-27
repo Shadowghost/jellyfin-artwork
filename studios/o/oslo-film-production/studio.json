@@ -1,0 +1,13 @@
+[
+  {
+    "name": "oslo film production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250037"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

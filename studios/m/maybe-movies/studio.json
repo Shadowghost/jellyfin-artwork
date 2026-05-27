@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Maybe Movies",
+    "country": "FR",
+    "homepage": "http://maybemovies.com",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27350",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eb7RokgOJarHrvBD5G9QKE9seKr.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

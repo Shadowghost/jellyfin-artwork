@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Feuilleton Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255796"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Neue Deutsche Filmgesellschaft",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20521",
+        "logo_uri": "https://image.tmdb.org/t/p/original/umPV6gEtvSiqGuNyXAuuXdGZRYe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.ndf.de/",
+    "headquarters": "Unterföhring",
+    "placeholder": true
+  }
+]

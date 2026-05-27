@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Siam Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24463"
+      }
+    ],
+    "artwork": {},
+    "country": "TH",
+    "placeholder": true
+  }
+]

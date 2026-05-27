@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Gnom-Tonfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30880"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

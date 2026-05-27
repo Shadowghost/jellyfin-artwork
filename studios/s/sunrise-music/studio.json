@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sunrise Music",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174400",
+        "logo_uri": "https://image.tmdb.org/t/p/original/897kuOWuai2mANQtlBipQ6oJlMY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://sunrise-music.co.jp/",
+    "placeholder": true
+  }
+]

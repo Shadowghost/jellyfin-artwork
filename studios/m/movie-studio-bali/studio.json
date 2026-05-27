@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Movie Studio Bali",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102972",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7ASWYyZB8yrD9056qk4dz2UliNj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "homepage": "https://www.moviestudiobali.com",
+    "placeholder": true
+  }
+]

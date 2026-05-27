@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mango Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72405"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

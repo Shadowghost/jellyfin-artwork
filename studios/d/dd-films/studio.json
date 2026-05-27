@@ -1,0 +1,14 @@
+[
+  {
+    "name": "DD Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125102",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AkH85JcuLNL0KprlRUa69s9gUoo.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

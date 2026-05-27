@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Triodos Bank",
+    "description": "Dutch ethical bank focused on sustainable investments; occasionally credited as a film co-financier in European productions through Triodos MeesPierson Sustainable Investment.",
+    "country": "NL",
+    "type": "other",
+    "homepage": "https://www.triodos.com/",
+    "headquarters": "Utrecht",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29570",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8zUOYJ9sSq5SWsQhZ6rrdEveN4Z.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

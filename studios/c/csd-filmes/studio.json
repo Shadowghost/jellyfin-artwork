@@ -1,0 +1,13 @@
+[
+  {
+    "name": "csd filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233719"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

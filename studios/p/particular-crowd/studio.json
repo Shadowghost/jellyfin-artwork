@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Particular Crowd",
+    "country": "US",
+    "homepage": "https://www.particularcrowd.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119056",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vbhwOf0TQ4z12GIytYGWmhPJAOz.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

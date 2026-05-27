@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Haus Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176073",
+        "logo_uri": "https://image.tmdb.org/t/p/original/et6HGFjs9czgfKyeCGnCA6mWKJ9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.hauspictures.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmakademie Baden-Württemberg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "296",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oPCnyumoJtIedjQoQin6zSSHkv8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.filmakademie.de/",
+    "headquarters": "Ludwigsburg",
+    "placeholder": true
+  }
+]

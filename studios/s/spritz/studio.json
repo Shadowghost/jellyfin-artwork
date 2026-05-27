@@ -1,0 +1,13 @@
+[
+  {
+    "name": "spritz",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123253"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

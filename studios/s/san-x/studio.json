@@ -1,0 +1,17 @@
+[
+  {
+    "name": "San-X",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179139",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ofI1ScwOS5qSPGlleGNyncMOFzX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.san-x.co.jp/",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

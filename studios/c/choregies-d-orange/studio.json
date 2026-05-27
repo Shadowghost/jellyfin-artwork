@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Chorégies d'Orange",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79629",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v7fR8ZLKHXaVPeGycWTE5ogQNpn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.choregies.fr/",
+    "headquarters": "Orange",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Album Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "244201"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

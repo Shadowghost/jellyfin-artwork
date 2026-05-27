@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Lost City",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80971"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

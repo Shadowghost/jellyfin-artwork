@@ -1,0 +1,16 @@
+[
+  {
+    "name": "START Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215620",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t1JcFZ8YRJvom3szXaDtm7CtsiE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

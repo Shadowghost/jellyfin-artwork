@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Concert Hotspot",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147158"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

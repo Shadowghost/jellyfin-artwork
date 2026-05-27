@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Something Arbitrary",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217042"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "New York, New York",
+    "placeholder": true
+  }
+]

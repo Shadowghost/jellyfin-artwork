@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3921",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n9mFExi3q5F1IFoFgKdm8dfJ6wP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.thefilm.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

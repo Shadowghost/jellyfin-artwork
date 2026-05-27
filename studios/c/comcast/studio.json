@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Comcast",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29335",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fUDAcbBjbpO5QmSxro6PJwvRqSm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://corporate.comcast.com/",
+    "headquarters": "Philadelphia, Pennsylvania, USA",
+    "placeholder": true
+  }
+]

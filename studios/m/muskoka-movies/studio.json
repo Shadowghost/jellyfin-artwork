@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Muskoka Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250058"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

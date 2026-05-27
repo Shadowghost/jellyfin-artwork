@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Production du Tigre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22074"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

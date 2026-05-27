@@ -1,0 +1,17 @@
+[
+  {
+    "name": "New Japan Pro-Wrestling",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20586",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4f94wrozPi4a61Ft6tKpSE3r8g7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.njpw1972.com/",
+    "headquarters": "Shinagawa, Tokyo, Japan",
+    "placeholder": true
+  }
+]

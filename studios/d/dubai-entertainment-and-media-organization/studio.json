@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Dubai Entertainment and Media Organization",
+    "description": "Dubai government media body overseeing entertainment and media activities; closely associated with Dubai Media Incorporated, the official media organisation of the Government of Dubai.",
+    "country": "AE",
+    "type": "government-agency",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84790"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Dubai Entertainment and Media Organisation"
+    ],
+    "template": true
+  }
+]

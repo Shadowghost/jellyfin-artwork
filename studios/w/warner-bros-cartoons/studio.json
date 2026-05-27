@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Warner Bros. Cartoons",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8298",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r6cuEYq7DqrHCNVa7vSanTS0cuw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "placeholder": true
+  }
+]

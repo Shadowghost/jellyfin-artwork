@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cosmic Cat",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "207983",
+        "logo_uri": "https://image.tmdb.org/t/p/original/brMVUEHweQyKexeOjdZebb1nMTM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.cosmiccatfilms.com/",
+    "headquarters": "Glasgow, Scotland",
+    "placeholder": true
+  }
+]

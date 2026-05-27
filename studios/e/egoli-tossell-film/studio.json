@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Egoli Tossell Film",
+    "country": "DE",
+    "homepage": "http://www.egolitossell.com",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2254",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4OQ25tiNECBBRDUhfC5ACa1vOIR.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

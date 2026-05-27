@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BookShorts",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225605"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

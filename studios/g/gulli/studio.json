@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gulli",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127699",
+        "logo_uri": "https://image.tmdb.org/t/p/original/y5uOq0KzTduQfn8B4LFZuo2fpnm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.gulli.fr",
+    "headquarters": "Neuilly-sur-Seine",
+    "placeholder": true
+  }
+]

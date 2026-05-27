@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LAFS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "195279"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

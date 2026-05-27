@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Image Field",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122909"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

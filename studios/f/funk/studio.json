@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Funk",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111979",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f46vFQtoGaLQgTFGmZTZdC6ZP17.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://funk.net",
+    "headquarters": "Stuttgart",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "INDI FILM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41653",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xUpb9kIB7024PW0PW55NHmfAV6D.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://indifilm.de/",
+    "headquarters": "Stuttgart",
+    "placeholder": true
+  }
+]

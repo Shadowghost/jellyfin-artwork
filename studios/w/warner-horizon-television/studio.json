@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Warner Horizon Television",
+    "description": "American television production unit of Warner Bros. Television Studios; produces scripted and unscripted/reality programming including The Bachelor franchise and Pretty Little Liars.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.warnerbros.com/studio/divisions/television/warner-horizon-television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29347",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eJjnf008uDj3LZ3Fu8M8FKCkl6N.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

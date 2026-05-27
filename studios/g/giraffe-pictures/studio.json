@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Giraffe Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95425",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AbMalyMcfqq8uFuzv2rwszdyui6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SG",
+    "homepage": "https://www.giraffepictures.asia/",
+    "headquarters": "Kallang",
+    "placeholder": true
+  }
+]

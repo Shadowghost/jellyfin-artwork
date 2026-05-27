@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Suitable Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100411"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Mister Lister Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50080"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://www.misterlisterfilms.com",
+    "headquarters": "Los Angeles, California"
+  }
+]

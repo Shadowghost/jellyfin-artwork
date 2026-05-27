@@ -1,0 +1,13 @@
+[
+  {
+    "name": "american standard time",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103596"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

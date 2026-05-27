@@ -1,0 +1,17 @@
+[
+  {
+    "name": "M&T Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289191",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eZsY1BF3TjVp8uNq4AY5FZ68qXc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "VN",
+    "homepage": "http://mtpictures.vn",
+    "headquarters": "Ho Chi Minh City, Vietnam",
+    "placeholder": true
+  }
+]

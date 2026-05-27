@@ -1,0 +1,14 @@
+[
+  {
+    "name": "General Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76002"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

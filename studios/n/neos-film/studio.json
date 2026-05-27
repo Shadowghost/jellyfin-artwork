@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NEOS Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48348",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r1PIddVvmDoFrRZjQBZ6H2bGr3K.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.neosfilm.de/",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

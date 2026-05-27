@@ -1,0 +1,13 @@
+[
+  {
+    "name": "HIL-Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230028"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

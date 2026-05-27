@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Metafilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "136825",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bXOR1Q8HE6Vnrrsqy2OOrVHpzWR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "https://metafilm.at/en/homepage",
+    "headquarters": "Vienna",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "IKnews",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15385"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

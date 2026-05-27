@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Anchor Light",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99983",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fOmV58eqJrqeuUar6d9DS7RMRV4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.anchorlight.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

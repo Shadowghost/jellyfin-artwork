@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Nord-Ouest Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "615"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

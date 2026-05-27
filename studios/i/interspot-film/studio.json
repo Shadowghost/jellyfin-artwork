@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Interspot Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75803",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2fFaF4eRAIMnSAap2Ci0Wky6zzb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "https://www.interspot.at/",
+    "headquarters": "Vienna",
+    "placeholder": true
+  }
+]

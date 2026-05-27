@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jarowskij",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4510",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j9dMjGc4GHwSL0fx1iEtxz05qrV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.jarowskij.se",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

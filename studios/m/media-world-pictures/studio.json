@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Media World Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165367",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jFdVKwMPk9g7aI1iFB5hQ6TBhoc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://www.mediaworld.com.au",
+    "placeholder": true
+  }
+]

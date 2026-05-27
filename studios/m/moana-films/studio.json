@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Moana Films",
+    "country": "FR",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77550",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ewSUQIJIWTAXxqjZOBdNz6MDqPf.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

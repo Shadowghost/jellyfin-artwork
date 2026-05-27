@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Institut des Arts de Diffusion - IAD",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126674",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aR2Mm90bRnbtGNHhjVYTf6fsyNG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.iad-arts.be/",
+    "headquarters": "Rte de Blocry 5, 1348 Ottignies-Louvain-la-Neuve, Belgique",
+    "placeholder": true
+  }
+]

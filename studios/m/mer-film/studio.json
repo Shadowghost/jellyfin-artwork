@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mer Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21979",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pVdOYVNJracFdcEsDihqz3VSZ0U.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.merfilm.no/",
+    "headquarters": "Tromsø",
+    "placeholder": true
+  }
+]

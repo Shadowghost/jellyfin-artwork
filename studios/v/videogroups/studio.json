@@ -1,0 +1,13 @@
+[
+  {
+    "name": "VideoGroups",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73181"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

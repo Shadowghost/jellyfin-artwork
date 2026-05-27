@@ -1,0 +1,17 @@
+[
+  {
+    "name": "VRIZA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154749",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pIbzxSjYs1TO3FRRLTirPTmlGy1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://vriza.org/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

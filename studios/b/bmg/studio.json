@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BMG",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48626",
+        "logo_uri": "https://image.tmdb.org/t/p/original/NXZ7dlZxJjMUE1Hh8ZIpIrLMsQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.bmg.com",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

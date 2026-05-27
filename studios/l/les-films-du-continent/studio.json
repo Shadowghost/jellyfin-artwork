@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films du Continent",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183369",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Ao3YRnxWxytOwfEvC9hWyM2qLDX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CI",
+    "homepage": "https://www.lesfilmsducontinent.com/",
+    "headquarters": "Abidjan",
+    "placeholder": true
+  }
+]

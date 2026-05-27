@@ -1,0 +1,16 @@
+[
+  {
+    "name": "France 3 Alsace",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11315",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pxDaJTg4KMQgr1yNtWHkj3I7Yx3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Strasbourg",
+    "placeholder": true
+  }
+]

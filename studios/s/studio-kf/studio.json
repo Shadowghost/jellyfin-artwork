@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio KF",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271751",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a2ZQrRiVHjyuMBybgPZNzSsX2PF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.studiokf.cz/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Alert Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49691"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.alertfilm.no/",
+    "headquarters": "Oslo",
+    "placeholder": true
+  }
+]

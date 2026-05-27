@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Devisio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "227743",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aXsjVGz5WY7GUxdivWXzjQ1QdWE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.devisiopictures.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

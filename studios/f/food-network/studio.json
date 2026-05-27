@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Food Network",
+    "description": "American basic cable channel dedicated to food-related programming, owned by Warner Bros. Discovery.",
+    "country": "US",
+    "type": "cable-network",
+    "colors": [
+      {
+        "name": "Food Network Red",
+        "hex": "#ED1C24"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219979"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

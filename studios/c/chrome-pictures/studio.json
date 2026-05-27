@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Chrome Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203436",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8PXNNKuSXWGUsSLe77j9IUUzwZ3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "homepage": "https://www.chromepictures.in/",
+    "headquarters": "Mumbai, Maharashtra",
+    "placeholder": true
+  }
+]

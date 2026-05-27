@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Spira",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107052",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AoD2U5Mi0sCjZjN72kxS26uT2CH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

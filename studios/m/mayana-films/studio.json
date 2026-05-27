@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mayana Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260711",
+        "logo_uri": "https://image.tmdb.org/t/p/original/awTvEZo3nBpq1wDt7DgaBW8R9VC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://mayana.film/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

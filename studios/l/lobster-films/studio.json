@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lobster Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "57585",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4ihpCz9d24N4TFqSFEWZ18xQCKI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.lobsterfilms.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

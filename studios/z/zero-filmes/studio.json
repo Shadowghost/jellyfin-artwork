@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Zero Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201508"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

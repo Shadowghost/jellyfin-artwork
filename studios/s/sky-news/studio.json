@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Sky News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100498",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yNWPX0pJRQyQt5SLRxb3uDeK5TT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

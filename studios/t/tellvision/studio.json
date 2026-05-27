@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tellvision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "189451",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8lNEf43hmFvVhwmsu5YFaIunZRM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.tellvision.de/",
+    "headquarters": "Munich, Germany",
+    "placeholder": true
+  }
+]

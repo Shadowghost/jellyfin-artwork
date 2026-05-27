@@ -1,0 +1,14 @@
+[
+  {
+    "name": "LovelyMachine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111288"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Les Films du Chat Sauvage",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116615"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.chatsauvagefilms.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

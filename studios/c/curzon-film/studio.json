@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Curzon Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "288898",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7Lh8KkI2znpNQdpvf1WpQwtyJXl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://film.curzon.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

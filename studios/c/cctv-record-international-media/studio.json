@@ -1,0 +1,15 @@
+[
+  {
+    "name": "CCTV Record International Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111015",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Af5KJyfW08KQn4CvNBS8gn5suny.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "placeholder": true
+  }
+]

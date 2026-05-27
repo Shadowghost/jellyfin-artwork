@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pulsar Content",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169707",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9VoUjQO1R7DCgp1SeqwFnzLWIzt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.pulsarcontent.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

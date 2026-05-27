@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hanmaek Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72666"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FocusFox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128330",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j5YMevr8nQPCY7J5WbkuAS3EQqm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "https://focusfox.hu/",
+    "headquarters": "Budapest",
+    "placeholder": true
+  }
+]

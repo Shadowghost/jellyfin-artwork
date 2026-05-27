@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kenno Filmi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167335",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ApeTXUq7ynlxU300MempTExfo7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://kennofilmi.com/",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

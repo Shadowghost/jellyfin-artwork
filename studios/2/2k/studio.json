@@ -1,0 +1,30 @@
+[
+  {
+    "name": "2K",
+    "country": "US",
+    "homepage": "https://www.2k.com/",
+    "headquarters": "Novato, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181160",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bfngnSWlPGca8MZG2veYx4JYgOz.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

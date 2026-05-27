@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Babka Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226473",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h5Ri7dtczYeF7UYJjXbzexJgrtr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

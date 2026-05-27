@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Münchhausen",
+    "country": "EE",
+    "homepage": "https://www.munchhausen.ee/",
+    "headquarters": "Tallinn",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90714",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2VLD5mDMMnIkPLNkb6uQy7k09eM.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

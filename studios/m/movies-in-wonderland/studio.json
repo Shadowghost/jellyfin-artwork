@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movies in Wonderland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250149"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

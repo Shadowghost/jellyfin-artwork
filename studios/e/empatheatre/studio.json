@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Empatheatre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "293610",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6xVrcdIlTqc0WreoybUFCWKc0jb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ZA",
+    "homepage": "https://www.empatheatre.com/",
+    "headquarters": "Johannesburg, South Africa",
+    "placeholder": true
+  }
+]

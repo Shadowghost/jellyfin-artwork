@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Maya Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165972",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3AdaqKpDi9QGmCnWs8WhNVbymYP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://mayafilmes.com.br/",
+    "headquarters": "Manaus, AM",
+    "placeholder": true
+  }
+]

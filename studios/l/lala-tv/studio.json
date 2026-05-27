@@ -1,0 +1,16 @@
+[
+  {
+    "name": "LaLa TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280010",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9D1FfFgpF8vHhePqokpL0fkwpby.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.discoveryjapan.jp/lalatv/",
+    "placeholder": true
+  }
+]

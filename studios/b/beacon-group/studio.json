@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Beacon Group",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105967"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Middle of Nowhere",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283520",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uOIbyBOMOvozELdskEpfBhuNgT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Europe Media Nest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113817",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pJDTmaw7YYAV5tqTz5lemul1bev.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://medianest.net",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

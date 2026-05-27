@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bonfire",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1878"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

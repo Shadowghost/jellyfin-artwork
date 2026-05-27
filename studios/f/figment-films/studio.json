@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Figment Films",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "359"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

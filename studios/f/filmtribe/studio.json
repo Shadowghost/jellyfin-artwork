@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Filmtribe",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12425"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "vodafone",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78490",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7ciSjdIL8E4jeZ7ORGKprCTC3km.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://www.vodafone.com"
+  }
+]

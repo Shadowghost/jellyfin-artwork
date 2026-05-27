@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmfabriq",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110516",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zzmQ06hSAGSvBu8xiwRQOuFSCMu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "http://www.filmfabriq.hu/",
+    "headquarters": "Budapest",
+    "placeholder": true
+  }
+]

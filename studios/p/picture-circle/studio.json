@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Picture Circle",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39168"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

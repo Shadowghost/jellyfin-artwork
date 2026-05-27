@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Les Films du phare",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137099"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

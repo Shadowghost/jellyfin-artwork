@@ -1,0 +1,13 @@
+[
+  {
+    "name": "VS Service",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140176"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films Velvet",
+    "country": "FR",
+    "homepage": "https://www.lesfilmsvelvet.com",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7117",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mVAjfnm0GI1V6ZHiGjq4HNH9xiA.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

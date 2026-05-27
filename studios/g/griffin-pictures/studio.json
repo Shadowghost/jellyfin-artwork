@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Griffin Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229811",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i9wWvPA816PcIBhu2DKWoolxeb9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://griffinpictures.co.uk/",
+    "headquarters": "Nottingham, England",
+    "placeholder": true
+  }
+]

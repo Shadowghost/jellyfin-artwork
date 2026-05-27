@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Polygram Entertainment",
+    "description": "Music and entertainment company originally founded as part of Philips/Siemens; PolyGram Filmed Entertainment produced and distributed films from the 1980s-90s before being absorbed into Universal in 1999; the PolyGram Entertainment brand was revived by UMG in 2018.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.polygramentertainment.com/",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127499",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zTchoLvjEs5MvY8fEd8rSiAIhYh.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "PolyGram Entertainment"
+    ],
+    "template": true
+  }
+]

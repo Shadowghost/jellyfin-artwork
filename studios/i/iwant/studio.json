@@ -1,0 +1,15 @@
+[
+  {
+    "name": "iWant",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "288435",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5qJy3KozZ3WswUmn8RPhLkMKbHS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PH",
+    "placeholder": true
+  }
+]

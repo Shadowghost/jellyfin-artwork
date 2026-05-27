@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Palomar College Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127998",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cctm4rotliuJvAUYEWFbQWynAbd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.palomar.edu/pctv/",
+    "headquarters": "San Marcos, CA",
+    "placeholder": true
+  }
+]

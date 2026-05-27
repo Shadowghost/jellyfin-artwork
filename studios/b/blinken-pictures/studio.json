@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Blinken Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215711",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j7bVGCME3eVNOqiFlO9W1WbkuK9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

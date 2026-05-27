@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Art et Cinéma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52546"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

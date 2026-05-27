@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Next Spot",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248729"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

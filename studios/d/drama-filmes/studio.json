@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Drama Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "43310"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.dramafilmes.com.br/",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

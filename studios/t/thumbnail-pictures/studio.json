@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Thumbnail Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108449"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

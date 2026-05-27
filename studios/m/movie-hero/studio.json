@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie Hero",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170198"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

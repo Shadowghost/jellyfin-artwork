@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Zola tv",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100456"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

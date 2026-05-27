@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Superprod Animation",
+    "description": "French animation production studio based in Paris and Angoulême, producing animated series and feature films for children and family audiences.",
+    "country": "FR",
+    "type": "production-company",
+    "homepage": "https://superprodanimation.net/en/",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63540",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7xQ00vsbxc8qZeeOeam3teObjfU.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "kunstencentrum BUDA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80731",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vP3JWYvqQzPdsOKuKg0ORgZcRoU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.buda.be/",
+    "headquarters": "Kortrijk",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Kučera film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118600"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fresh TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "64827",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nyxFOtRRUWNDRllU1cwJ5LnuucO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.freshtvinc.com",
+    "headquarters": "Toronto, Ontario, Canada",
+    "placeholder": true
+  }
+]

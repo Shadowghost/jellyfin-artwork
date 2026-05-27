@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Stop Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56251"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

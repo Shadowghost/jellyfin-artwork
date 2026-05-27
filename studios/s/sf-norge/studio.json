@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SF Norge",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2888"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "http://sfnorge.no/",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

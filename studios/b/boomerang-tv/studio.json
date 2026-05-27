@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Boomerang TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49394",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ksCltAjQsrjENzm9bbaA7Y9Rgr1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.grupoboomerangtv.com/es",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

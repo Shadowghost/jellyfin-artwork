@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kometa Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160432",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ntorO1ENCoeCnnA1F7HeWS2oZ7U.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.kometafilms.com/",
+    "headquarters": "Orléans, Centre-Val de Loire",
+    "placeholder": true
+  }
+]

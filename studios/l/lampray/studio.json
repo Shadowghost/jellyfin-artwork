@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lampray",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80494",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bC4d4qOR0PmLqTGFyLpKKUKGkFF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.lampray.se/",
+    "headquarters": "Umeå",
+    "placeholder": true
+  }
+]

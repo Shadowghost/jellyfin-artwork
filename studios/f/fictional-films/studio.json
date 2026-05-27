@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fictional Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "227104"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

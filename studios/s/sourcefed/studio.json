@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SourceFed",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66837"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

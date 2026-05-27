@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Torus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5383"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.torus-gmbh.de/index.php?lang=english",
+    "headquarters": "Cologne",
+    "placeholder": true
+  }
+]

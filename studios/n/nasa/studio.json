@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NASA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48698",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g93vV2z8Oh6xoTU3VJGBotsc02N.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.nasa.gov",
+    "headquarters": "Washington, D.C.",
+    "placeholder": true
+  }
+]

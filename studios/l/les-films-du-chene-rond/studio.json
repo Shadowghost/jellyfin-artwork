@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films du Chêne Rond",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234455",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jYRoOT69fPEuzAMxPkhVixacaxD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.chene-rond-films.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

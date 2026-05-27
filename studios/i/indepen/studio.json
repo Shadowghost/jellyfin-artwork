@@ -1,0 +1,17 @@
+[
+  {
+    "name": "indepen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205311",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5DIo3BNpYhzR5XrwvXCHxnJKV4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://indepen.eu/",
+    "headquarters": "Rotterdam",
+    "placeholder": true
+  }
+]

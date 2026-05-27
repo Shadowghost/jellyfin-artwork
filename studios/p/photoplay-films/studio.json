@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Photoplay Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86411",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oRdxwW4M4JnXHOIuCS3ldSoeW3D.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://photoplay.co"
+  }
+]

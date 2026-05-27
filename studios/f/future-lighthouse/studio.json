@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Future Lighthouse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107637",
+        "logo_uri": "https://image.tmdb.org/t/p/original/60ntZnZbJnQuaemWP3MRHWPdHBL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

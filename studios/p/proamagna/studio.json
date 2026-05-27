@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Proamagna",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76059",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uq2QnHyVStgDmBZpauDVX4RQhNc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://proamagna.com/",
+    "headquarters": "Sevilla, Spain",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "tv asahi",
+    "aka": [
+      "TV Asahi"
+    ],
+    "country": "JP",
+    "homepage": "https://www.tv-asahicontents.com/en/?top=on",
+    "headquarters": "Minato",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9300",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9sSD1XufVCJWAadNiC9Mwu994VD.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

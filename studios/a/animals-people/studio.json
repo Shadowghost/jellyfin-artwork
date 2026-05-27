@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Animals & People",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "254490"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

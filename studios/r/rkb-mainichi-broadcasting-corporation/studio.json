@@ -1,0 +1,31 @@
+[
+  {
+    "name": "RKB Mainichi Broadcasting Corporation",
+    "description": "Japanese television and radio station based in Fukuoka, affiliated with the JNN (TBS) network.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://rkb.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12385",
+        "logo_uri": "https://image.tmdb.org/t/p/original/piV4KOvWfuxhZUkDbdb5ZWDEpRJ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

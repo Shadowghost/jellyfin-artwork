@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Timecode",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "266452"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

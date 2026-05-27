@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TF1 Films Production",
+    "country": "FR",
+    "headquarters": "Boulogne-Billancourt",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "356",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9tW5wZEGotn1Ei5pErA88m47XiD.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

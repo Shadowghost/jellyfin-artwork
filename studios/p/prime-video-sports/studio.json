@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Prime Video Sports",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188671",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pI7dt4rEQQM7eYMqxqp46LNgNcf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

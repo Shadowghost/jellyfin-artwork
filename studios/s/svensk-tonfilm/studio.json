@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Svensk Tonfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159692",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kfwfiBQTBPVznqbFH8iP2gku51C.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

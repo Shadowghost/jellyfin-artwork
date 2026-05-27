@@ -1,0 +1,13 @@
+[
+  {
+    "name": "RTP 2",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153019"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

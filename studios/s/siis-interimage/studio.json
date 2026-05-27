@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SIIS-INTERIMAGE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89409"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

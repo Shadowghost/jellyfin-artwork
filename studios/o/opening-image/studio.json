@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Opening Image",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224123"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Neon Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76791",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6jaJi1n0ntrOvVh2i3byRdvhTEW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://neon-films.co.uk/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

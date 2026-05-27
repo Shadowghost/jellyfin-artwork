@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PFF Partners",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63339",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qk9GgyuoSi94tYn8CHgfJE2Hpu4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://pff.jp/",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

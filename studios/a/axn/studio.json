@@ -1,0 +1,42 @@
+[
+  {
+    "name": "AXN",
+    "description": "International pay television channel owned by Sony Pictures Entertainment, focused on action, adventure, and thriller programming.",
+    "country": "JP",
+    "type": "cable-network",
+    "colors": [
+      {
+        "name": "AXN Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "AXN White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "47391",
+        "logo_uri": "https://image.tmdb.org/t/p/original/svgU6ufnJXm8oIF38aaLYKUnpBW.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true,
+    "homepage": "https://www.ax-on.co.jp/en/",
+    "headquarters": "Minato, Tokyo"
+  }
+]

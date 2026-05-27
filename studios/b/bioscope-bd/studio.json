@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bioscope (BD)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159575",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jdMGGSJMFtvxywA5c9nIU1zKeEd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BD",
+    "homepage": "https://www.bioscopelive.com",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BluntVision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192412"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

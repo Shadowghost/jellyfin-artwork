@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Moriz Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99152"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

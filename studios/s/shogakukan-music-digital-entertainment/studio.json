@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Shogakukan Music & Digital Entertainment",
+    "country": "JP",
+    "homepage": "https://www.smde.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90500"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

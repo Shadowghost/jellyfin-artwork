@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Esmetric",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196374",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l1XUdyCoI6mCsXjqOxH7ZwSzmuD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://www.esmetric.pl/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

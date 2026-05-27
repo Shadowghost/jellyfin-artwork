@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bombenprodukt",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111711",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vStUcSPk3LUjn1IradlyVW3vE9G.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://bombenprodukt.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

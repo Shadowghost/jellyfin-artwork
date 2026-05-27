@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Kennedy Miller Mitchell",
+    "description": "Australian film and television production company founded by George Miller and Byron Kennedy in 1978; producer of the Mad Max franchise, Happy Feet and Babe.",
+    "country": "AU",
+    "type": "production-company",
+    "headquarters": "Sydney, New South Wales",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28382",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eaQ9IuuaSNBeSdocdtGLvhXAHfg.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

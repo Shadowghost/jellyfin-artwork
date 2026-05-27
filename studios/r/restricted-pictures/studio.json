@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Restricted Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262354"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

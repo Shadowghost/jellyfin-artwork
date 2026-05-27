@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Bauhaus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46349",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qTW40rn6NIQgu0X5zUasFYCP3ar.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

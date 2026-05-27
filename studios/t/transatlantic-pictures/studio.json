@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Transatlantic Pictures",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1554"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

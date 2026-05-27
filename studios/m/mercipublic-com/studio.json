@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MerciPublic.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222104",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AsZ1PU2qvNMzyguY6ogOvmahQqf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.mercipublic.com",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

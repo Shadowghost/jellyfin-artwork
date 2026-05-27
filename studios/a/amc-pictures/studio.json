@@ -1,0 +1,14 @@
+[
+  {
+    "name": "AMC Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2800"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "We TV Network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289090",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7X2DGzgSMWcJ7zG7RSCdbQHzAEw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.wetv.com/",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

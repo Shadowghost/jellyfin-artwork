@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Barthfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201853"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.barth-film.de/",
+    "headquarters": "Düsseldorf",
+    "placeholder": true
+  }
+]

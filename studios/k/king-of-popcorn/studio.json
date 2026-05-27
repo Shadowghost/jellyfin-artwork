@@ -1,0 +1,13 @@
+[
+  {
+    "name": "King of Popcorn",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111003"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

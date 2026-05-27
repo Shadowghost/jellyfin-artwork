@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Alice Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260925"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

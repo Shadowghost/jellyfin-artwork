@@ -1,0 +1,16 @@
+[
+  {
+    "name": "One Animation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108476",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9HqiBM6Bm7SremNtfyaPVVqzuI4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SG",
+    "homepage": "http://oneanimation.com",
+    "placeholder": true
+  }
+]

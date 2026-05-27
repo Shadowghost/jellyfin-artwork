@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Pantelion Films",
+    "description": "American film production and distribution company, a joint venture between Lionsgate and Televisa, targeting Latino audiences in the United States.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.pantelionfilms.com/",
+    "headquarters": "Santa Monica, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58399",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zhTPxItVCkuxXKicMPIvPOv1AsW.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

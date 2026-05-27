@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Metrodome Distribution",
+    "description": "British independent film distribution company; released theatrical and home-entertainment titles in the UK until going into administration in 2016.",
+    "country": "GB",
+    "type": "distributor",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22913"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

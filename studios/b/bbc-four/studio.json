@@ -1,0 +1,41 @@
+[
+  {
+    "name": "BBC Four",
+    "description": "British free-to-air television channel owned by the BBC, focused on cultural, documentary, music and current affairs.",
+    "country": "GB",
+    "type": "broadcast-network",
+    "homepage": "https://www.bbc.co.uk/bbcfour",
+    "colors": [
+      {
+        "name": "BBC Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "BBC White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16630",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xEjkqz7Ow5tTMUx715YDdvEBAgi.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Time",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "136434"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

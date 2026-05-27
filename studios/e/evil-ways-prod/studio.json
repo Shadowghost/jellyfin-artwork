@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Evil Ways Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145130"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

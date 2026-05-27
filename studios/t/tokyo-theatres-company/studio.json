@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tokyo Theatres Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12497",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4PHn85b0fJBmzWcpIksvKGluyLW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.theatres.co.jp/",
+    "headquarters": "Chuo",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Alerta Amarilla",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "299201"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

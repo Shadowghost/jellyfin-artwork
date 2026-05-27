@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Picture Park",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5450"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

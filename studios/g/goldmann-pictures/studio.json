@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Goldmann Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12006"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

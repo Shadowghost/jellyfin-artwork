@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Éclectic Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103837",
+        "logo_uri": "https://image.tmdb.org/t/p/original/34Mo8BnKFhQXaq2sKJcMgceULgO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.eclectic.fr",
+    "headquarters": "Boulogne-Billancourt",
+    "placeholder": true
+  }
+]

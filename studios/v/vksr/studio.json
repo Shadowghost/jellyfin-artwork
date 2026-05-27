@@ -1,0 +1,16 @@
+[
+  {
+    "name": "VKSR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101779",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p9Wx4zJw8AI3Vp46KydNbFy5Cuy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://www.kinobraz.ru/",
+    "placeholder": true
+  }
+]

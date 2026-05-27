@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Block Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127063"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

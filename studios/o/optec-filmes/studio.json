@@ -1,0 +1,17 @@
+[
+  {
+    "name": "OPTEC Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8515",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3uEitBbM8U4MXswQvQ4WK91m2Xo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "https://www.optecfilmes.com/",
+    "headquarters": "Lisbon",
+    "placeholder": true
+  }
+]

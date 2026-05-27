@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Replay Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39222"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

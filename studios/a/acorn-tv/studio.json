@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Acorn TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212651",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xzrHiDSO2IlFrBZZ6aKnSjxIwIJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Woodland Hills, California",
+    "placeholder": true
+  }
+]

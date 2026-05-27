@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Les Films du Cap",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22976"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.lesfilmsducap.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

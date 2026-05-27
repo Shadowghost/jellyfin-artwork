@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Persian Hive",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214001"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

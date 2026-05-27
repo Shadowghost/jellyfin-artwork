@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinémathèque de Bretagne",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191177"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

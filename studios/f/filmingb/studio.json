@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FilmingB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223079",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wOexmJhvAc9FqvRGMncIuunHMGs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.filmingb.de/",
+    "headquarters": "Bernau bei Berlin",
+    "placeholder": true
+  }
+]

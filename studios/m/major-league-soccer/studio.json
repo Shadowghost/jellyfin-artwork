@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Major League Soccer",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210091",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mrx1BaOtLcLE5rpflaB9qNhzh90.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.mlssoccer.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

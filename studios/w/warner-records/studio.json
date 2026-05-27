@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Warner Records",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70001",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7AQxiEeD8u7kOXpJnRuvENXdWTR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.warnerrecords.com/",
+    "placeholder": true
+  }
+]

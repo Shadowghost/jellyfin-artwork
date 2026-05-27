@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fedora Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83453"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

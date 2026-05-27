@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Morning Bird Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209897",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pH1YZoMdfjjXmdDgEoSWbnYAkXt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.morningbirdpictures.com/",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

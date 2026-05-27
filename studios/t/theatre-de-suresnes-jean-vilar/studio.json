@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Théâtre de Suresnes Jean Vilar",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147421",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6VTDwKZMu7eLnNOwrsyX1fSxsmd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.theatre-suresnes.fr/",
+    "headquarters": "Suresnes, France",
+    "placeholder": true
+  }
+]

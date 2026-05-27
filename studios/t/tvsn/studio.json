@@ -1,0 +1,30 @@
+[
+  {
+    "name": "TVSN",
+    "description": "Australian home shopping television channel broadcasting in Australia and New Zealand, owned by Direct Group; airs on Foxtel and free-to-air digital platforms.",
+    "country": "GB",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10981",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uBOORwaSssHz9Hi2dDPrZsPeO1R.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

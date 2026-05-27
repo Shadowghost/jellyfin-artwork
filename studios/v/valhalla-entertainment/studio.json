@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Valhalla Entertainment",
+    "description": "American film and television production company founded by Gale Anne Hurd, known for The Walking Dead and various action/sci-fi productions.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.valhallamotionpictures.com",
+    "headquarters": "Hollywood, Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73036",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1gMrlkgIuNWkuigpF5EsCfkaczk.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

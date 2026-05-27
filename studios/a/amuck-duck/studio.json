@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Amuck Duck",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67893",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5cSbDB9i9IdZuzzqmjxkycn4sRz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

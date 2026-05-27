@@ -1,0 +1,15 @@
+[
+  {
+    "name": "EB-Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155746"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.eb-video.com",
+    "placeholder": true
+  }
+]

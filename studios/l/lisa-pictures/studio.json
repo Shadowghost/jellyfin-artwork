@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lisa Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107565",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2G2rh1ijcbwikdr6u6WPmBcA7XT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://lisapictures.com",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

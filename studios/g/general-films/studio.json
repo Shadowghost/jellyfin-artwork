@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Général Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42156"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "placeholder": true
+  }
+]

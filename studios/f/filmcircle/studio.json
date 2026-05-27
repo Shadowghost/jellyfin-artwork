@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmcircle",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25000"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

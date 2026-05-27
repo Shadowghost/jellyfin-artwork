@@ -1,0 +1,17 @@
+[
+  {
+    "name": "revista PLACAR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "269314",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2GiZCGqbpMRrA0oAo8qCuApJIUM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.placar.com.br",
+    "headquarters": "São Paulo, SP, Brasil",
+    "placeholder": true
+  }
+]

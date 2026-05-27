@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Comic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234561"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

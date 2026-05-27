@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Rede Manchete",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97822"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BBB Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239149",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wY92dPU1sWrlXRIv8B0IMdBDjwk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://bbbproduction.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

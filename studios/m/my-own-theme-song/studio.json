@@ -1,0 +1,13 @@
+[
+  {
+    "name": "My Own Theme Song",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "237381"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FlopPictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "247832"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

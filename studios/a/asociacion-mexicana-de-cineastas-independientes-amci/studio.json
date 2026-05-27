@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Asociacion Mexicana de Cineastas Independientes (AMCI)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78873",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eI0QeJXwy3XZ4dzlFaO0B4bUIqf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://www.amci.edu.mx",
+    "headquarters": "Mexico City, Mexico",
+    "placeholder": true
+  }
+]

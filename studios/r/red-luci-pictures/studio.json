@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Red Luci Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221900"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

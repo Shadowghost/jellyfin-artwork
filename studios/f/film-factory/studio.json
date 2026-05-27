@@ -1,0 +1,14 @@
+[
+  {
+    "name": "film.factory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55908"
+      }
+    ],
+    "artwork": {},
+    "country": "BA",
+    "placeholder": true
+  }
+]

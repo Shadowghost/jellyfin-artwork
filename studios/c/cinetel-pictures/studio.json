@@ -1,0 +1,14 @@
+[
+  {
+    "name": "CineTel Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17067"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

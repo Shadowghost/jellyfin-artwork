@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PYPO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100593"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

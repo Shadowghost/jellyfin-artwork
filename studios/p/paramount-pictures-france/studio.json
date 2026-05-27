@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Paramount Pictures France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6248",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5mbcgU2u9FwGVHYvkUsEpCTSyP7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.paramountpictures.fr/",
+    "placeholder": true
+  }
+]

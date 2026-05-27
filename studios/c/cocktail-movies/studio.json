@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cocktail Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256805"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

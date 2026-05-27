@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Red Elephant",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212599",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4LWh97E6Zofn8yozyjGmdCwzoMg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://www.redelephant.mx/",
+    "headquarters": "Ciudad de México",
+    "placeholder": true
+  }
+]

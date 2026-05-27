@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Latvijas Televizija",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118793",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AckxUfY5wGZjKNnbiWDKubqxX8t.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LV",
+    "homepage": "https://ltv.lsm.lv/lv",
+    "headquarters": "Riga",
+    "placeholder": true
+  }
+]

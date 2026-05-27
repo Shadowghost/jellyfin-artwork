@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Den Norske Filmskolen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93055",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iJTqDs0J9x7qjBAgU4mq8JhRGmj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "http://www.filmskolen.no",
+    "headquarters": "Lillehammer",
+    "placeholder": true
+  }
+]

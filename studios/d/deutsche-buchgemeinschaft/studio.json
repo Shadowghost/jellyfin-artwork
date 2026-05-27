@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Deutsche Buchgemeinschaft",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31514"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Darmstadt",
+    "placeholder": true
+  }
+]

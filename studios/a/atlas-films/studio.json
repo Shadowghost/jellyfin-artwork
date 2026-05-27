@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Atlas Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34526",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wB84SoAeyNC1MKOU4Gvz8Bc4jKu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.atlasfilms.com",
+    "placeholder": true
+  }
+]

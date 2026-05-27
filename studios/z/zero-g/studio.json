@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zero-G",
+    "country": "JP",
+    "homepage": "https://zerog2.jp",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109854",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9rjW9KehnPKHh9CNu7s8IbQXRN5.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

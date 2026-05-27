@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Squelch Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "244467"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio Globus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103068",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3Cpvx2zbyEvabcubSlhgvLiSW0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://globus-film.com/ru",
+    "headquarters": "St. Petersburg",
+    "placeholder": true
+  }
+]

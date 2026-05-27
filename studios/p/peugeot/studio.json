@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Peugeot",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5178",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qDSbkfaZ5ufmI0NMKnIEfkGMOgS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.peugeot.com/",
+    "headquarters": "Sochaux, France",
+    "placeholder": true
+  }
+]

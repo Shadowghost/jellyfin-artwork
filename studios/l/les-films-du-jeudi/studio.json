@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les Films du Jeudi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "54259"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Barbosa Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127694",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uVnC9cObAvz6fmUsHmqLu38G47b.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.barbosafilm.no/",
+    "headquarters": "Oslo",
+    "placeholder": true
+  }
+]

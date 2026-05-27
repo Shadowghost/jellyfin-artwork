@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Exchange",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25140",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6SeV4YCwyIDktJlvrVwiEDSLovF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.theexchange.ws",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

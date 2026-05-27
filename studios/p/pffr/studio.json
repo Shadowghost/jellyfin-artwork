@@ -1,0 +1,15 @@
+[
+  {
+    "name": "PFFR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20112",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3N6td1WWMtX7BPj5ja2U2mLJUQT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

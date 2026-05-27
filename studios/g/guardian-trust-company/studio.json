@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Guardian Trust Company",
+    "country": "CA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "542"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

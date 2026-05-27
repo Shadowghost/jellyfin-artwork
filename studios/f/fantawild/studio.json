@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fantawild",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200503",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lCHoMUzKtkc8PYeFKF843lFvjWK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://www.fantawild.com",
+    "headquarters": "Nanshan District, Shenzhen",
+    "placeholder": true
+  }
+]

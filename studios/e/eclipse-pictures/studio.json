@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Eclipse Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130220"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

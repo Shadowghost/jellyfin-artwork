@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sentai Filmworks",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33751",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2caA5Y2tdgi69L61uQnrpCIjwde.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.sentaifilmworks.com/pages/about",
+    "headquarters": "Houston, Texas",
+    "placeholder": true
+  }
+]

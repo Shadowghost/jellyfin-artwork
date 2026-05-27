@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Labfan Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122067"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

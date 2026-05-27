@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sculpture",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264073"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

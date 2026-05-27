@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Mega Film",
+    "country": "IT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1406"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

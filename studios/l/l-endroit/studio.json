@@ -1,0 +1,17 @@
+[
+  {
+    "name": "L'Endroit",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169966",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zvkPcqGwCHdeoT67jGXEidYQg2Z.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://lendroit-films.com/",
+    "headquarters": "Chamonix-Mont-Blanc",
+    "placeholder": true
+  }
+]

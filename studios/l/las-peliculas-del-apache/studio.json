@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Las películas del Apache",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134015"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Grand Marble",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62374",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m38pxguzKNndq1756V2Qgoi8Dpx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://grandmarble.com/",
+    "placeholder": true
+  }
+]

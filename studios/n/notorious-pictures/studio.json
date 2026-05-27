@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Notorious Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10529",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3P74tUWqYr3bB2RXGcyBzJijQHb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.notoriouspictures.it",
+    "headquarters": "Roma",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Filmes da Matriz",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117311"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

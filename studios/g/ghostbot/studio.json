@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ghostbot",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113435"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

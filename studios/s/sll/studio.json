@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SLL",
+    "country": "KR",
+    "homepage": "https://www.sll.co.kr",
+    "headquarters": "Mapo, Seoul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164046",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q7SpPvg2sJGRMZ5X4ba123eU4Qf.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

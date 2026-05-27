@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Jain Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "268916"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

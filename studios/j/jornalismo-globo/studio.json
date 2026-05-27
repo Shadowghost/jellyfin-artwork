@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jornalismo Globo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203962",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8Ms0fy2oqeB2sKvYxKeIEseqdW1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://redeglobo.globo.com/",
+    "headquarters": "Rio de Janeiro, RJ",
+    "placeholder": true
+  }
+]

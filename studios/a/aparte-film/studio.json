@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Aparte Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17281",
+        "logo_uri": "https://image.tmdb.org/t/p/original/17pP7l5vNh1wvbvTIR5lhGYDoAp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "homepage": "https://apartefilm.net",
+    "headquarters": "Bucharest",
+    "placeholder": true
+  }
+]

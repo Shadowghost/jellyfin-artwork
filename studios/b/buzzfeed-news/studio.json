@@ -1,0 +1,14 @@
+[
+  {
+    "name": "BuzzFeed News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108746",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aBpbc2rqklhUZlhm739SN6crvl8.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

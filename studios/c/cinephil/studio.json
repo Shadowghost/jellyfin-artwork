@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinephil",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2632",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mjODzq9dGsSKGBR2DZSzEFMcGeL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IL",
+    "homepage": "https://cinephil.com",
+    "headquarters": "Tel Aviv-Yafo",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Picture Palace",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7782"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

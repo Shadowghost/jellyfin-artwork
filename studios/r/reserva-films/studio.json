@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Reserva Films",
+    "country": "MX",
+    "homepage": "https://reservafilms.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211169"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

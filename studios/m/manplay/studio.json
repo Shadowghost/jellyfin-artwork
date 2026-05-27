@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ManPlay",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8901"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

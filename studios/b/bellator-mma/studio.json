@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bellator MMA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137623",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9DpGs3DwptZlVndUPzothiHyOyG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://bellatormma.com",
+    "placeholder": true
+  }
+]

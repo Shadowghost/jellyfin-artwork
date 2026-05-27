@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Paris Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53105",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rn9sEaA8cXurMyd8HnWkhv8KLqi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.parisfilmes.com.br/",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

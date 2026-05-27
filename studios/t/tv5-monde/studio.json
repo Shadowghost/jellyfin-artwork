@@ -1,0 +1,32 @@
+[
+  {
+    "name": "TV5Monde",
+    "description": "International French-language television network broadcasting worldwide, run by a consortium of public broadcasters from France, Belgium, Switzerland, Canada and Quebec.",
+    "country": "FR",
+    "type": "broadcast-network",
+    "homepage": "http://www.tv5monde.com",
+    "headquarters": "Paris, France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20662",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rxfxm2P7zJdUsXB9d5Zrg9DOXfd.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Catch the Sun",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100020"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

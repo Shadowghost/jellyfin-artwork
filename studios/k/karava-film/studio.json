@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KARAVA Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "286099",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8NgrY4z7to4GL4bmHZqz60YMf2I.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://karavafilm.se/",
+    "headquarters": "Veberöd, Skåne",
+    "placeholder": true
+  }
+]

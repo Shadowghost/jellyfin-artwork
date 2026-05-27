@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rotating Planet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96876",
+        "logo_uri": "https://image.tmdb.org/t/p/original/upLg67oVfve2FwIsW3oGwFjlP5n.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.rotatingplanet.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

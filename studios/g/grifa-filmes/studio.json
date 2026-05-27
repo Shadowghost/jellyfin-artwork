@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Grifa Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102207",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5vPnsD3tZCLBPFpxGrcmuhS2tsK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.grifafilmes.com",
+    "headquarters": "São Paulo",
+    "placeholder": true
+  }
+]

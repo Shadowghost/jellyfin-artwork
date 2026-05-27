@@ -1,0 +1,14 @@
+[
+  {
+    "name": "International Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3257"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

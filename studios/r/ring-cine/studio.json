@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Ring Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86274"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "http://ringcine.com/",
+    "placeholder": true
+  }
+]

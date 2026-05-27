@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cumbia Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210447",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a7iNvNyEZ5Um39Lq0EPg2tINe3F.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CO",
+    "homepage": "https://cumbiafilms.com/",
+    "headquarters": "Cartagena, Bolívar",
+    "placeholder": true
+  }
+]

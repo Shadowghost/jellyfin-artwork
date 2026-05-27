@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ketnet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83064",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qOS4uj4tFon7IUHvp09QRMTaUIm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.ketnet.be/",
+    "headquarters": "Brussel",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Spikeball",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220611"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

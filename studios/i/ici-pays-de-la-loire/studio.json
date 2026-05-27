@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ici Pays de la Loire",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239666"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://france3-regions.francetvinfo.fr/pays-de-la-loire/",
+    "headquarters": "Nantes",
+    "placeholder": true
+  }
+]

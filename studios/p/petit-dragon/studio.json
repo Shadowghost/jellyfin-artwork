@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Petit Dragon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98061"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.petitdragon.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

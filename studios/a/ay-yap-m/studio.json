@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ay Yapım",
+    "country": "TR",
+    "homepage": "https://ayyapim.com",
+    "headquarters": "Istanbul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "43853",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pAQVKxBUMbbeasH41x874EjtsSA.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Cobra Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7547",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pHFCZRfrJLe7xDPe5AWlqGLifae.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

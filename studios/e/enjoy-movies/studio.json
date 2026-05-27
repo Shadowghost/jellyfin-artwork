@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Enjoy Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9340",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Pih8qdFRi0R21REdsb9NtaCdex.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://enjoy-movies.ru/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ken-On",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97846",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fHZXuHhuo37iyzRFtvQPW6E3wnC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.ken-on.co.jp/",
+    "placeholder": true
+  }
+]

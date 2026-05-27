@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cara Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76195"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

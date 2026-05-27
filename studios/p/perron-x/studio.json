@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Perron X",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233897",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qGGtqAEMxLUKbW9MWfRlEpc9yxw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://perronx.com/",
+    "headquarters": "Basel",
+    "placeholder": true
+  }
+]

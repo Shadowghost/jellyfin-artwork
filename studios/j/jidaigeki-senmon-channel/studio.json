@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Jidaigeki Senmon Channel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121506",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m6APjdhLoiAI2CEnLf05q887WuQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.jidaigeki.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "JammeyMovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110721",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uyoVzspXpW4OuVHl36PsCnQWnzF.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

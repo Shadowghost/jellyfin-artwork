@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lexicon NY",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203933",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sYoktvESfes9xeWE8t6EzvVYNlr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.lexiconnewyork.com",
+    "headquarters": "New York, New York",
+    "placeholder": true
+  }
+]

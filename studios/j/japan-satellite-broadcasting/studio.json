@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Japan Satellite Broadcasting",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5350"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

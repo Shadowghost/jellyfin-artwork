@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lisa",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280854",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n2we4WOkCph15qcRFfAI19jrcaT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.thelisawebsite.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Films de France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27658"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

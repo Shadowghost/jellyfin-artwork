@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Picture House",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140421"
+      }
+    ],
+    "artwork": {},
+    "country": "LV",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Playtime Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "54843",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fNx9b6RjiQ8aEneWTy7tvuIpM1R.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://playtimemovies.com",
+    "headquarters": "Barcelona, Catalonia",
+    "placeholder": true
+  }
+]

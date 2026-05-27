@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Conexión Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82406"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

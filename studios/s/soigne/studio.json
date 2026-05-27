@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Soigne",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224212",
+        "logo_uri": "https://image.tmdb.org/t/p/original/88W2hvQ8t88YaDEU0cSv9yctdHw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.soigne.co.jp/",
+    "placeholder": true
+  }
+]

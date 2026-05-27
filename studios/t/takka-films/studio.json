@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Takka Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154081",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3qXmQtRbC5naMGQ3VR9FyWelb8e.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://takkafilms.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

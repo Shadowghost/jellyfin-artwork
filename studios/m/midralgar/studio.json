@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Midralgar",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156679",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k5vh2vAXRRX5wMC9qxVxJgW71bd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.midralgar.fr",
+    "headquarters": "Bordeaux",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "redthread.films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "251957"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

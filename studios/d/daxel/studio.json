@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DAXEL",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225089",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g2DdqSxJNOzr9uoEwAcOcSi6DRQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.daxel.co.jp",
+    "headquarters": "Nakamura, Nagoya, Aichi",
+    "placeholder": true
+  }
+]

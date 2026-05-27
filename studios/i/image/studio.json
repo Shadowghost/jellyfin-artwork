@@ -1,0 +1,16 @@
+[
+  {
+    "name": "image",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "228301",
+        "logo_uri": "https://image.tmdb.org/t/p/original/29HdeSBspnEjVQ3IkpoOc1c7aJ6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.img.co.jp/",
+    "placeholder": true
+  }
+]

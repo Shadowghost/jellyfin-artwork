@@ -1,0 +1,17 @@
+[
+  {
+    "name": "LG",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49695",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5CCh14JyhXi8JxkBI3CAXmAHpQe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.lg.co.kr/",
+    "headquarters": "Yeongdeungpo, Seoul",
+    "placeholder": true
+  }
+]

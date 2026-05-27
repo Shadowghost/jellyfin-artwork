@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films du Nord",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11903",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e8sXjxPt3Ysnmg0dZZuaEvlDgJH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.lesfilmsdunord.com",
+    "headquarters": "Lille",
+    "placeholder": true
+  }
+]

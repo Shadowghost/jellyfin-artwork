@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Box Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103016"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

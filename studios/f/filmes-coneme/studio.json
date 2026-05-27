@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmes Conéme",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "146894",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l756bknMIW3JKOfoSqpj9RhvNgK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://coneme.red/",
+    "headquarters": "Miami, Florida",
+    "placeholder": true
+  }
+]

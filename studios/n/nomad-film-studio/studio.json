@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Nomad Film Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127181"
+      }
+    ],
+    "artwork": {},
+    "country": "BA",
+    "placeholder": true
+  }
+]

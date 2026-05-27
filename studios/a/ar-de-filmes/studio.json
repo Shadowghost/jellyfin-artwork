@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ar de Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28195",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vZZFoeY1RlQDlidjvK0rSyUTVSA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "http://www.ardefilmes.org/",
+    "headquarters": "Lisboa",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Maroma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14896",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5fp39VzCEQb5k1EgjoiEZ59ENa1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://lamaroma.com/",
+    "headquarters": "Ciudad de Mexico, Mexico",
+    "placeholder": true
+  }
+]

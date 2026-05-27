@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Rosenguez Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101112",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zt9KnL3FEfDiFV2CCuAp3kgqMNC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.rosenguezproductions.com",
+    "placeholder": true
+  }
+]

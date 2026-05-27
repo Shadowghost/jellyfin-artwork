@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Falabracks",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123176",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1xfVfLus4m7J7LkbuPM4yPy4Aqp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://falabracks.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

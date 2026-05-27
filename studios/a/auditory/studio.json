@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Auditory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197287",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wCvvHFHgp0QRIn1TWHPct4Aktnh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.auditory.se/",
+    "headquarters": "Gothenburg",
+    "placeholder": true
+  }
+]

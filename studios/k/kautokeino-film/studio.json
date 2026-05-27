@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Kautokeino Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102126",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7cnySFRn7XjFLrlFpBcIrkMgFML.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "placeholder": true
+  }
+]

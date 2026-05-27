@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Yousee",
+    "description": "Danish cable television, broadband internet, mobile and IPTV provider owned by TDC/Nuuday.",
+    "country": "DK",
+    "type": "other",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148665",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mh72MbYRpwzmS6KX07NekDToARq.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "YouSee"
+    ],
+    "template": true
+  }
+]

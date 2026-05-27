@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Aramos Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135436",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4B3xLSierSSePQkwtiMAT3YDpJn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://aramoscine.com.ar/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

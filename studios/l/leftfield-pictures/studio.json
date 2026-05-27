@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Leftfield Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23610",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fPlRSFrjrGAmdclHeGsScrDX1aC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://leftfieldpictures.com",
+    "placeholder": true
+  }
+]

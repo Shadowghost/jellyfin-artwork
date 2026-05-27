@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cartel Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101259"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.cartelfilmes.com/",
+    "headquarters": "Porto Alegre RS",
+    "placeholder": true
+  }
+]

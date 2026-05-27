@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Midwest Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31702"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

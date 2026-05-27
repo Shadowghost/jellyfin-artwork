@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Muppets",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197727"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://henson.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

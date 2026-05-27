@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zinc",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194477",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4epaEfUBBbjoBvgo99dunfqcARN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://zinc.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

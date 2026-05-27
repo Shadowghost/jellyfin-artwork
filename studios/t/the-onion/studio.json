@@ -1,0 +1,31 @@
+[
+  {
+    "name": "The Onion",
+    "description": "American satirical digital media company publishing news satire and producing video content; produced shows such as Onion News Network.",
+    "country": "US",
+    "type": "publisher",
+    "homepage": "https://theonion.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13672",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5Wvn6oEchtYmUxH4IgKYfeDc6NN.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

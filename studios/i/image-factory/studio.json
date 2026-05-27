@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Image Factory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127634"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

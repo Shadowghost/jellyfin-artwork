@@ -1,0 +1,13 @@
+[
+  {
+    "name": "bekind production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131748"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "WLOS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239924"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Wieden+Kennedy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89220",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9W5MDec3UgwEjqrHdUre8bq2jiy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.wk.com/",
+    "placeholder": true
+  }
+]

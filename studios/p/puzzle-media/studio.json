@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Puzzle Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75636",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jUQhyzTEuxjPy5QURtQipfCA5NT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.puzzlemedia.fr",
+    "headquarters": "Puzzle Media SARL, 39 quai des Grands Augustins, 75006 Paris, France",
+    "placeholder": true
+  }
+]

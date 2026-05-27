@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Doorman",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58052"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Chateau Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233441",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fAMeDngPJ5cuWYIMj1RZczczZDf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://chateauproduction.myportfolio.com/home",
+    "placeholder": true
+  }
+]

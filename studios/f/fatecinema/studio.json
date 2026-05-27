@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FateCinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205820"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

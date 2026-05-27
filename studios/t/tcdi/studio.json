@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TCDI",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "246942"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

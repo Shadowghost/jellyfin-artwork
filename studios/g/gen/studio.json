@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Gen",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104942"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

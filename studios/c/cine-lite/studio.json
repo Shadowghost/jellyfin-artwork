@@ -1,0 +1,13 @@
+[
+  {
+    "name": "cine-lite",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222733"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

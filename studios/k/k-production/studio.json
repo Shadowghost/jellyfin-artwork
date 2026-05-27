@@ -1,0 +1,15 @@
+[
+  {
+    "name": "K-Production",
+    "country": "KR",
+    "homepage": "https://www.k-production.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104647"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

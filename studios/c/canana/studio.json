@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Canana",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1719",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nCCpnwdybGqektBEjqpz6WX0cbF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "http://www.canana.net",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

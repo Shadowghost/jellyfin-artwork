@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TranformArte Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289020"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Projet Kinomada",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45233",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m3pQLrdUTVXaAF99tDgIgKVPCnz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.kinomada.org",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

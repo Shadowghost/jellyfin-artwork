@@ -1,0 +1,29 @@
+[
+  {
+    "name": "DramaFever",
+    "description": "American streaming video service that distributed K-dramas and other international content; acquired by Warner Bros. and shut down in 2018.",
+    "country": "US",
+    "type": "streaming-service",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36219"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

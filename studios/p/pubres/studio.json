@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PubRes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79194",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8oMbGTDI42i6v4e11AjHcgJHp73.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SK",
+    "homepage": "http://www.pubres.sk/",
+    "headquarters": "Bratislava",
+    "placeholder": true
+  }
+]

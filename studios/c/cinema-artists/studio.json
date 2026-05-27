@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinema Artists",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14070"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

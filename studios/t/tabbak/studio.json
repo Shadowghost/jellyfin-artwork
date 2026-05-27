@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tabbak",
+    "country": "RU",
+    "headquarters": "Russia, Moscow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1040",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A2L91XUbTm6FWQD631oOQ0HxuTb.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

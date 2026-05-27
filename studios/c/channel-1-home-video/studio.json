@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Channel 1 Home Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "263219"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

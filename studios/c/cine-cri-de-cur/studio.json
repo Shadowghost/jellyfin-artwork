@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ciné Cri De Cœur",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41828",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3KgsaFQqAKQdX3AUMtY9ycBKDL4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.cridecoeur.be",
+    "headquarters": "Antwerp",
+    "placeholder": true
+  }
+]

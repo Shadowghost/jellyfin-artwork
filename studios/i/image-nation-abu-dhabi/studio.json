@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Image Nation Abu Dhabi",
+    "description": "Emirati film and television production and finance company based in Abu Dhabi, co-producing international and Arabic-language content.",
+    "country": "AE",
+    "type": "production-company",
+    "homepage": "https://imagenationabudhabi.com/",
+    "headquarters": "Abu Dhabi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6736",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cdCAYeb3K3Ajhn1tfXHPSfT1KzB.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

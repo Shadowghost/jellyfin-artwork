@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WildBrain",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222081",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3T071NDUPfiV2LrTwdDHcRIO1P9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.wildbrain.com",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

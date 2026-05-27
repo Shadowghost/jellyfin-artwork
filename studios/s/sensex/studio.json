@@ -1,0 +1,15 @@
+[
+  {
+    "name": "SenseX",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "238408",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4h9ikaU7Qm41mzqY0zS7uULH4so.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://sensex.com"
+  }
+]

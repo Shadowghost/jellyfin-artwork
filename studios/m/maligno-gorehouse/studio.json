@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Maligno Gorehouse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184311",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1SKmlO4xeqgNvbBSjhRD1oEzMor.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "http://maligno.mx/",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

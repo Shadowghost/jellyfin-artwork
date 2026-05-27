@@ -1,0 +1,16 @@
+[
+  {
+    "name": "LEO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "190449",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aOTvNUwHH4Mhi8B7QVw67QyHVUW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.leo-leo-leo.com/",
+    "placeholder": true
+  }
+]

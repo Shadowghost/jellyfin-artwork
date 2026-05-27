@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films de l'Après-Midi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6669",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c33aVgKEOenOIYySDxuNlH6R0J7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.films-am.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

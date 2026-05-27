@@ -1,0 +1,14 @@
+[
+  {
+    "name": "New Film Production",
+    "country": "IT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "41789"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

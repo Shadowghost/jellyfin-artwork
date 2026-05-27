@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ArtShot",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171692",
+        "logo_uri": "https://image.tmdb.org/t/p/original/619ZkXHvFSqWPK4152b0c6frahM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LT",
+    "homepage": "https://artshot.lt/",
+    "headquarters": "Vilnius",
+    "placeholder": true
+  }
+]

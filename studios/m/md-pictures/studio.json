@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MD Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5344",
+        "logo_uri": "https://image.tmdb.org/t/p/original/QDZf41MZk122e61pZ4IDhwRGkW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "homepage": "https://mdentertainment.com/pictures/",
+    "placeholder": true
+  }
+]

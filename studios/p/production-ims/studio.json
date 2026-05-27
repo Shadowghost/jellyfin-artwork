@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Production IMS",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "65500",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c7uyLMUXrocInxDT3ZzwADOd0NY.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

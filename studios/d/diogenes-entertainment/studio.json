@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Diogenes Entertainment",
+    "country": "CH",
+    "headquarters": "Zurich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225247",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sYVckFGtFnPOHWBEo8es3kDV4Uz.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

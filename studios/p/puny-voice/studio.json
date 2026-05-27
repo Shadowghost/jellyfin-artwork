@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Puny Voice",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "263734",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w9iJ3lo2f7NMNvBB98nBNIdho3H.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

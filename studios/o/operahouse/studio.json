@@ -1,0 +1,17 @@
+[
+  {
+    "name": "OperaHouse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208705",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oSGtf7j3uyaHwLAiMUtBcml04jh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.operahouse.co.jp/",
+    "headquarters": "Kanda Iwamotochō, Chiyoda-ku, Tokyo",
+    "placeholder": true
+  }
+]

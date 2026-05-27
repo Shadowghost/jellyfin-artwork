@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PBS Hollywood",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32711"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

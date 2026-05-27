@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Popolar-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53244"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

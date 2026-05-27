@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Security Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4388"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

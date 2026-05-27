@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Moviematic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95822"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

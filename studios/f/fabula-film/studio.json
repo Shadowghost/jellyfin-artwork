@@ -1,0 +1,13 @@
+[
+  {
+    "name": "fabula-film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262408"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ECV Animation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126260",
+        "logo_uri": "https://image.tmdb.org/t/p/original/57vsNkPO2jqDyZpRnmyO8516yRQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.ecv.fr",
+    "headquarters": "Paris, Bordeaux, Aix-en-Provence, Nantes, Lille",
+    "placeholder": true
+  }
+]

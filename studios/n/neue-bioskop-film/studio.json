@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Neue Bioskop Film",
+    "country": "DE",
+    "homepage": "http://www.bioskop-film.com",
+    "headquarters": "Munich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "403",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h2nyRbglJy4d6TN6UDycqpdsLpr.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

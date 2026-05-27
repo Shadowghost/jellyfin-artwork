@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Instituto Tecnológico de Santo Domingo (INTEC)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200065",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5vNWILgUgDSg5XtUzVdv8K3vmxQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DO",
+    "homepage": "https://www.intec.edu.do/",
+    "headquarters": "Santo Domingo",
+    "placeholder": true
+  }
+]

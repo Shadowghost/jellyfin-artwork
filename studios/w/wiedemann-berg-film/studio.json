@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wiedemann & Berg Film",
+    "country": "DE",
+    "homepage": "http://www.w-b-film.de/?L=1",
+    "headquarters": "Munich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "336",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zImchRS54kHHsu1g1TkeRYv6xi3.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

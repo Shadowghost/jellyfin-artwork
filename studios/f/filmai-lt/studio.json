@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmai LT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "267380",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eQgIeNXtTUARWviqtEHLcvp0H5R.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LT",
+    "homepage": "https://www.filmailt.eu/",
+    "headquarters": "Vilnius",
+    "placeholder": true
+  }
+]

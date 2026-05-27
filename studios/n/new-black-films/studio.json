@@ -1,0 +1,17 @@
+[
+  {
+    "name": "New Black Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7285",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iwQvfvsz0cJ36xwmmfRhhrr7Riv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://www.newblackfilms.com/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

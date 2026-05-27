@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Tito Clint Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114147"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

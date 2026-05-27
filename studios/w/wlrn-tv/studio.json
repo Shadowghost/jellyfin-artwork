@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WLRN-TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56381",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aEjdJScXXCuSAaZFzZKg1vEgydN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.wlrn.org/television",
+    "headquarters": "Miami, FL",
+    "placeholder": true
+  }
+]

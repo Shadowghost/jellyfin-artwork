@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DCM Pictures",
+    "country": "DE",
+    "homepage": "https://dcmworld.com/",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14758",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eCYPzcnF5KidrKPOT90ANslOKMx.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

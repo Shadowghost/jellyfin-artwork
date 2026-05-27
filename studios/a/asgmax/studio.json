@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ASGMax",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250833",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iqqfkbHdUAWpkcR9skIwUcMmR6R.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.asgmax.com",
+    "placeholder": true
+  }
+]

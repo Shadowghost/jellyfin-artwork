@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dargaud Média",
+    "country": "FR",
+    "homepage": "http://www.dargaudmedia.com/fr/index.html",
+    "headquarters": "189, rue d'Aubervilliers 75018 Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152662",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1SJateP6NARfOFuC229wsOAv3KH.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

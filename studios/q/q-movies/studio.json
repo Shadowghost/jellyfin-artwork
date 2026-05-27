@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Q Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109515"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

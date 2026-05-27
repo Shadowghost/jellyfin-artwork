@@ -1,0 +1,41 @@
+[
+  {
+    "name": "PBS",
+    "description": "American public broadcaster and non-commercial, free-to-air television network with 350+ member stations across the United States.",
+    "country": "US",
+    "type": "broadcast-network",
+    "colors": [
+      {
+        "name": "PBS Blue",
+        "hex": "#2638C4"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124017",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ioSRRQqdux1jFOxjBI5jUxcruGW.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "PBS (Public Broadcasting Service)"
+    ],
+    "template": true,
+    "homepage": "https://www.pbs.org",
+    "headquarters": "Crystal City, Arlington, Virginia"
+  }
+]

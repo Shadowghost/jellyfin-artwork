@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Electric City Entertainment",
+    "country": "US",
+    "homepage": "http://www.electriccityent.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8600"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

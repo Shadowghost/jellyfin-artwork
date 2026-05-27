@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Asterisco",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111977"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

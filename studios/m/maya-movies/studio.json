@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Maya Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42738"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

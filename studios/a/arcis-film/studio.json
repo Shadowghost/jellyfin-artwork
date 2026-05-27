@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ARCIS-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219154"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

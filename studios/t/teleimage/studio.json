@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TeleImage",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7765",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kyZyb7enWovBqmhIZNbseIT9GZI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.teleimage.com.br/",
+    "headquarters": "São Paulo, Brazil",
+    "placeholder": true
+  }
+]

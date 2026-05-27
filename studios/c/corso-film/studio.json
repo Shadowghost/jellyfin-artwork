@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CORSO Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101509",
+        "logo_uri": "https://image.tmdb.org/t/p/original/al4qRaI9Vet4CXbeqI0DE0KnIdl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.corsofilm.de",
+    "headquarters": "Cologne",
+    "placeholder": true
+  }
+]

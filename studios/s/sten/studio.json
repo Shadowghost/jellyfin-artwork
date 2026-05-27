@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Æsten",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270002",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3YOozSlpN33ArNuWnFty3lLOrcp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://aesten.studio",
+    "placeholder": true
+  }
+]

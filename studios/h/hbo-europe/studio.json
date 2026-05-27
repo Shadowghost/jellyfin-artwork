@@ -1,0 +1,16 @@
+[
+  {
+    "name": "HBO Europe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48582",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tyoN6zoxMJ71GBddxVkk4dpaeze.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "https://www.hbo-europe.com/",
+    "placeholder": true
+  }
+]

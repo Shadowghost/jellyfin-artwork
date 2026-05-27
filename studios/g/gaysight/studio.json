@@ -1,0 +1,15 @@
+[
+  {
+    "name": "GaySight",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212769",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xnyCl7q0zKr7vjN0mQgjmcsjDzO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

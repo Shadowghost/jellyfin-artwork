@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Panini Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60823"
+      }
+    ],
+    "artwork": {},
+    "country": "SG",
+    "placeholder": true
+  }
+]

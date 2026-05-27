@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Base Media",
+    "country": "CN",
+    "homepage": "https://www.base-fx.com/",
+    "headquarters": "Beijing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121604",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sdt19ueRoZiJMZ3niK09r9MSF2s.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

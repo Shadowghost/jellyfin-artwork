@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Auto Images",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17518",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1gPGo3B6BAFYSRQ3X6NumB3nGMU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.autoimages.se/",
+    "headquarters": "Malmö",
+    "placeholder": true
+  }
+]

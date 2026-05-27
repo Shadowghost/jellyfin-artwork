@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nova Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "244239"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

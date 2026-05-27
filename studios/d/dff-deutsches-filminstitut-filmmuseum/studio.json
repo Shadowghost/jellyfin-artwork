@@ -1,0 +1,15 @@
+[
+  {
+    "name": "DFF - Deutsches Filminstitut & Filmmuseum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90601"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.dff.film/",
+    "placeholder": true
+  }
+]

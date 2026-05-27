@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MissaX",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111525",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q1inwlfDFAMCBcJ3MAWiYBCvYzR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://missax.com",
+    "placeholder": true
+  }
+]

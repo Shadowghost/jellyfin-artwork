@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Shawscope",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "286528",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pJM2HVVYwUnCSAh52Q2qYkMDeW4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://shawscope.com",
+    "headquarters": "New Orleans, LA",
+    "placeholder": true
+  }
+]

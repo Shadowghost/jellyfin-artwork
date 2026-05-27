@@ -1,0 +1,16 @@
+[
+  {
+    "name": "POP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "288531",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8nGXwU78Y9KXqaTHA2yMIL64mGu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.pop-film.com/",
+    "placeholder": true
+  }
+]

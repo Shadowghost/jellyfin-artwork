@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bel RTL",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "261916",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iovSi1DFgefJUec4MqLtASfqmgf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "http://belrtl.be",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Metropool",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234175"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

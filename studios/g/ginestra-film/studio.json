@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ginestra Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97568",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t1KnXZeHO3bVYGjs2nUJGQc5n8i.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://ginestrafilm.se/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

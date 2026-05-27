@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MagicBox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100070"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

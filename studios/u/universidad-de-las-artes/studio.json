@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Universidad de las Artes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128569",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oAaT92g6NYeE9tCOisusJjtNn1z.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EC",
+    "homepage": "http://www.uartes.edu.ec",
+    "headquarters": "Guayaquil, Ecuador",
+    "placeholder": true
+  }
+]

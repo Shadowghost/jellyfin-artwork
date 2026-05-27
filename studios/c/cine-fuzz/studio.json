@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine Fuzz",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81485"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

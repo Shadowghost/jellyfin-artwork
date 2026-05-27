@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cinéfrance 1888",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31229"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://cinefrance.eu/en",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

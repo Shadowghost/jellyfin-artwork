@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Mulmur Feed",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3745"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Snowcloud Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73519",
+        "logo_uri": "https://image.tmdb.org/t/p/original/65S3TDffjC2lxvA4reXUd3upkye.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://www.snowcloud.se/",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

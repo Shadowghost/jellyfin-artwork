@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Firma Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129430",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4zFzKePREraN2qo9fwl1Ay50Wpu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IL",
+    "homepage": "https://www.firma-films.com/",
+    "headquarters": "Tel-Aviv",
+    "placeholder": true
+  }
+]

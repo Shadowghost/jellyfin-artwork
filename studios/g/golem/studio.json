@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Golem",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37215"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Tencent Pictures",
+    "description": "Chinese film production and distribution company, a subsidiary of Tencent, that has co-financed numerous international productions.",
+    "country": "CN",
+    "type": "production-company",
+    "homepage": "https://ieg.tencent.com/film.html",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81620",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7LkIVuWBVScdujpKhBPx1TMnPQE.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

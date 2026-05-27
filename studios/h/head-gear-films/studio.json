@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Head Gear Films",
+    "country": "GB",
+    "homepage": "https://www.headgearfilms.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5056",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ok7CQyn0RPEuI0upznPoo93YE6H.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

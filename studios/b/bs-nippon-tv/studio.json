@@ -1,0 +1,35 @@
+[
+  {
+    "name": "BS Nippon TV",
+    "description": "Japanese private satellite broadcasting station (BS11), subsidiary of Bic Camera, airing news, sports, K-drama, and anime.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.bs11.jp/",
+    "headquarters": "Chiyoda, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118502",
+        "logo_uri": "https://image.tmdb.org/t/p/original/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Nippon BS Broadcasting (BS11)"
+    ],
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Puppet Show Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280374"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

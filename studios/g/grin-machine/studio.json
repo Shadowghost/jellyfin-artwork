@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Grin Machine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240327"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

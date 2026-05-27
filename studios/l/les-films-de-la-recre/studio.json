@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films de la Récré",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124137",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zGIdVOzXZnEvRTGerm1tqEVLq78.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.filmsdelarecre.com/",
+    "headquarters": "City of Brussels",
+    "placeholder": true
+  }
+]

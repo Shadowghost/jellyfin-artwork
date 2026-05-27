@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Preview Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203446"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

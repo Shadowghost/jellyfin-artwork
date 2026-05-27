@@ -1,0 +1,15 @@
+[
+  {
+    "name": "MediaPro Pictures",
+    "country": "RO",
+    "headquarters": "București",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11819"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

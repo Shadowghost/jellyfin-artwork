@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Base",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "254461"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Brandywine Productions",
+    "description": "Founded by American filmmakers Walter Hill, David Giler, and Gordon Carroll. Most well known for producing the Alien franchise of films.",
+    "country": "US",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "401",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t7mM3DvQ9MwDT3YzMCBrkWpWiiz.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

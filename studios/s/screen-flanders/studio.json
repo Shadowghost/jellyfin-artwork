@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Screen Flanders",
+    "country": "BE",
+    "homepage": "https://screenflanders.be/",
+    "headquarters": "Brussels",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78299",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6oR2zvVsvJzk94rake7LdnFkorQ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

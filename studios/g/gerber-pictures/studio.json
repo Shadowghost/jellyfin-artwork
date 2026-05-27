@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gerber Pictures",
+    "country": "US",
+    "homepage": "https://www.gerberpictures.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "975",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fknQoaiVO632mD4QMdJFmP3Gbda.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

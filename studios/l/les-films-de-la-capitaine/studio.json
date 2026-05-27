@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films de la Capitaine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143013",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jw70p4qxgNHwnSFeYHMqSZpGe0N.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://lacapitaine.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

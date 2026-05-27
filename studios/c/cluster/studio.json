@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cluster",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290939",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3BL7uGjGURRUFI6BNsqw9O6zOSG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://corp.cluster.mu/",
+    "placeholder": true
+  }
+]

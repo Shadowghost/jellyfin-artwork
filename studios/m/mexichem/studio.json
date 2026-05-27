@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mexichem",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255028",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ynTQHu7LYLMpCQvkEKCdJamIaJg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "http://www.mexichem.com/",
+    "headquarters": "Ciudad de México",
+    "placeholder": true
+  }
+]

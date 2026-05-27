@@ -1,0 +1,16 @@
+[
+  {
+    "name": "First Star",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203658",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b2GMAWn5gB7kCIBrQa6vZmREr3H.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.first-star.co.jp",
+    "placeholder": true
+  }
+]

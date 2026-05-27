@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Nurostar",
+    "country": "CN",
+    "headquarters": "Beijing, China",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "228041"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

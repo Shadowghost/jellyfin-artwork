@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SISTER",
+    "country": "US",
+    "homepage": "https://www.sister.net",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239315",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kL6jD0jB836NqSfBusvjmYX1wAB.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

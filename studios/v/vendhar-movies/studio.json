@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Vendhar Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11868"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

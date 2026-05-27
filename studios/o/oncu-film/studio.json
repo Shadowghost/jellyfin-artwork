@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Öncü Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221065"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

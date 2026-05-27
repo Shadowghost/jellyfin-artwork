@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Belga Films",
+    "description": "Belgian film distribution and production company based in Brussels, distributing films for Universal, Lionsgate, and others in Benelux territories.",
+    "country": "BE",
+    "type": "distributor",
+    "homepage": "http://www.belgafilms.be/FR/home",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1145",
+        "logo_uri": "https://image.tmdb.org/t/p/original/995rL7XQxJiG4eE7gHYB82sO61S.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

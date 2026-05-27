@@ -1,0 +1,17 @@
+[
+  {
+    "name": "OhmyNews",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239517",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q736Q6nMDsh1x0A5T1dUyM8CliZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.ohmynews.com/",
+    "headquarters": "Mapo, Seoul, South Korea",
+    "placeholder": true
+  }
+]

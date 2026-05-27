@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mandarin Films",
+    "country": "HK",
+    "homepage": "http://www.mandarinfilms.com",
+    "headquarters": "Causeway Bay",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4054",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3FRmZA2Mizdncwk8pqgy27xXjhP.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

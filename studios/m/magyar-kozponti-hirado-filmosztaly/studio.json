@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Magyar Központi Híradó Filmosztály",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130046"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "True Motion Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "259823",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j1vJK5RticfAvs1cZaiXMRUwIQT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.truemotionpictures.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

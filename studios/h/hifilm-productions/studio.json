@@ -1,0 +1,17 @@
+[
+  {
+    "name": "HiFilm Productions",
+    "country": "RO",
+    "homepage": "http://www.hifilm.ro/",
+    "headquarters": "Bucharest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79268",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2wFd7q4dk8mo0QApTQ0v1UvD6Wu.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

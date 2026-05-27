@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Grupo Planeta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122120",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tsvNXggGQqcLw5OQrYi8SnsWEpu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.planeta.es",
+    "headquarters": "Madrid, Spain",
+    "placeholder": true
+  }
+]

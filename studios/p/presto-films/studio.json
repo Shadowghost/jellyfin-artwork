@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Presto Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120341"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

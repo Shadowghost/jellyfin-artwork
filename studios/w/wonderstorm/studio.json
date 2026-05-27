@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wonderstorm",
+    "country": "US",
+    "homepage": "https://www.wonderstorm.net/",
+    "headquarters": "El Segundo, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108837",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5JLjOC1BuBk2EdLttXZtS4yoMlQ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

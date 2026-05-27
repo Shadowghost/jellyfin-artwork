@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AV-Arkki",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127696",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qYvdQ2mPWOicKpvBt6m1KmR943e.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://www.av-arkki.fi/",
+    "headquarters": "Töölönkatu 11A, 00100 Helsinki",
+    "placeholder": true
+  }
+]

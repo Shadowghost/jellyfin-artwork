@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Move movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222475"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

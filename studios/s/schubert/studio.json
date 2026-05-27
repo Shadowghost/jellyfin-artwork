@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Schubert",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141151",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dLhJy7NJYrANcDonHRhcM1xGXJC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "https://schubert.film/",
+    "headquarters": "Vienna",
+    "placeholder": true
+  }
+]

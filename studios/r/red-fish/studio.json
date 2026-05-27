@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Red Fish",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202419"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

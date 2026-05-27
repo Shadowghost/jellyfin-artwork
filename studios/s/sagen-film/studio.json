@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sägen Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "244643",
+        "logo_uri": "https://image.tmdb.org/t/p/original/igy89tJPduQdOCZ89Fj05VllN7u.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.sagenfilm.com/",
+    "headquarters": "Varberg",
+    "placeholder": true
+  }
+]

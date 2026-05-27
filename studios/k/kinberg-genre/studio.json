@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kinberg Genre",
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28788",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Aqomtf9oh5dKtxBNEagkdlp3aGv.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Red Balloon Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167054",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h1UP29EP3F8qIwkjdgbi9MAFMXX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://redballoonfilm.de",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

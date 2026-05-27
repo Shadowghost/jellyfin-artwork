@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Prime Time",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11931",
+        "logo_uri": "https://image.tmdb.org/t/p/original/38bX28MdtlhBIgwv71KPqBqE7lO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.prime-time.be/",
+    "headquarters": "Brussels",
+    "placeholder": true
+  }
+]

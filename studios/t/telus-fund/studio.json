@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Telus Fund",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138489",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dFPDRjnMwiVaUK8XWvqehwtDKaV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://telusfund.ca",
+    "placeholder": true
+  }
+]

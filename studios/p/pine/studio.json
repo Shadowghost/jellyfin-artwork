@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PINE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199475",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yG0H8Kic8TqWSBHq2pgNIm2YtTE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://pine.se/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

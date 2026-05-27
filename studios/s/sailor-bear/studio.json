@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sailor Bear",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14634",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bAhlRdNpjgsloPOH5mhZiX85gMZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.sailorbear.com",
+    "placeholder": true
+  }
+]

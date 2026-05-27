@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Shochiku Broadcasting",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81419",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ccCHsFEJgj2TTErgY7uI35xGSQa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.broadcasting.co.jp/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pensilvania Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124185",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jjKtAU6I6jRy6lRyyAZfWKPKK2a.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://pensilvaniafilms.com",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

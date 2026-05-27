@@ -1,0 +1,31 @@
+[
+  {
+    "name": "BS Asahi",
+    "description": "Japanese satellite television broadcaster, a subsidiary of TV Asahi Holdings.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.bs-asahi.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188144",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tft4KzwjS3okGiN6duB3qwHkIX1.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

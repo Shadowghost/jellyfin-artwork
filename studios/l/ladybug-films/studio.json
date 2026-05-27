@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ladybug Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108930",
+        "logo_uri": "https://image.tmdb.org/t/p/original/c51MEYhh0i3eBpkVUjEX9ZD0iiB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ZA",
+    "homepage": "http://ladybugfilms.co.za/",
+    "headquarters": "Johannesburg",
+    "placeholder": true
+  }
+]

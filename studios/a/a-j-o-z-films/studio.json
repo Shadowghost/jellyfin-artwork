@@ -1,0 +1,17 @@
+[
+  {
+    "name": "A.J.O.Z. Films",
+    "country": "FR",
+    "homepage": "http://www.ajoz-films.com/",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11473",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qAFim6lLYyvlWyDIRZcGr6oZwkg.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

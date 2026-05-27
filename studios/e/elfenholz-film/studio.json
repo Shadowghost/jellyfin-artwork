@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Elfenholz Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161589",
+        "logo_uri": "https://image.tmdb.org/t/p/original/z0IqhOp9iPijj54RIjy5LnWzNd3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://elfenholzfilm.de/",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

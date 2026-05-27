@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Capitol Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30060"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

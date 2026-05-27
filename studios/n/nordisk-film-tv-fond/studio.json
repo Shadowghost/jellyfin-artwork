@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nordisk Film & TV Fond",
+    "country": "NO",
+    "homepage": "http://www.nordiskfilmogtvfond.com",
+    "headquarters": "Oslo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5403",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fAz2WhTpoMxutBA92JqlfeHEGuz.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

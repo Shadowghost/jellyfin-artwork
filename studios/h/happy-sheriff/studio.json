@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Happy sheriff",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "282904",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6L26RY1U4HueOj3KF1rlbEUbSef.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.happysheriff.no/",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

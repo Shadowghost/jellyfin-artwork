@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Radio Silence",
+    "country": "US",
+    "homepage": "https://www.hiradiosilence.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126588",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cNhOITS96oOV7SCgUHxvZlWRecx.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

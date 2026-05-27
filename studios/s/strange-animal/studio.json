@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Strange Animal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185201",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eNulDiRC4e56ed3nVWfKlTebHMX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.strangeanimalent.com/",
+    "placeholder": true
+  }
+]

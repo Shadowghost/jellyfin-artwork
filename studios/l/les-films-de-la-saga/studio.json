@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films de la Saga",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22280"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

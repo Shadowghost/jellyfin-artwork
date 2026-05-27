@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Scott Free Productions",
+    "country": "US",
+    "homepage": "https://scottfree.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221347",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

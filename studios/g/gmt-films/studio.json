@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GMT Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181423",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uAUtVl4GowP1wFdx26LzudkDiz5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.gmtfilms.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

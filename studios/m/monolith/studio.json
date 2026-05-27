@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Monolith",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "259163"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

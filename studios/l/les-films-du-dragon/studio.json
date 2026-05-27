@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films du Dragon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102083"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

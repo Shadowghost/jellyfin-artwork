@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Blue Sky Studios",
+    "description": "American computer animation film studio acquired by Disney through the 20th Century Fox purchase and shuttered in 2021; known for the Ice Age franchise and Rio. Logo appears to be shared with 'Indent Studios' per duplicate hash.",
+    "country": "US",
+    "type": "studio",
+    "headquarters": "Greenwich, Connecticut",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9383",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ppeMh4iZJQUMm1nAjRALeNhWDfU.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

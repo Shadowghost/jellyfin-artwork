@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Omroep Zeeland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140092"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

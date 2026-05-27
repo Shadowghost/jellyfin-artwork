@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tate Modern",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123616"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

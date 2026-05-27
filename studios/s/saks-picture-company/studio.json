@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Saks Picture Company",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194285"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

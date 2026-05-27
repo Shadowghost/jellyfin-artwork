@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Globomedia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42819",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f5h7s7xdwG3mL3F3MWnQfwMdRli.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.globomedia.es/",
+    "headquarters": "Madrid, Spain",
+    "placeholder": true
+  }
+]

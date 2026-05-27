@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Daegu Media Center",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134494"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.media-center.or.kr/daegu/main.do",
+    "placeholder": true
+  }
+]

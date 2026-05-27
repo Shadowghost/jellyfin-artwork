@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Honey Bee",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166218",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lOpDavR8FVJk5P4gcotUwbSbon.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://honeybeetv.co.uk/",
+    "headquarters": "Bristol",
+    "placeholder": true
+  }
+]

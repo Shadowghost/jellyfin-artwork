@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Solobby Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168747"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

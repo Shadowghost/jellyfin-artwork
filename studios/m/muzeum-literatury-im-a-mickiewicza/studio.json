@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Muzeum Literatury im. A. Mickiewicza",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "281919",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nsxVWoplzDwpALc2wSqIBlvrR6e.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://muzeumliteratury.pl/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

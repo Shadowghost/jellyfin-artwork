@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Film Works",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11065"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.thefilmworks.ca",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kazoo Audio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222013"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

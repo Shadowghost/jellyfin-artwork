@@ -1,0 +1,13 @@
+[
+  {
+    "name": "JCI Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204405"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

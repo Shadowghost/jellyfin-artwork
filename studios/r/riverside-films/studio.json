@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Riverside Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90318",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kSZSPHRAXSoCd6QqGFLoZbpX3DE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.riversidefilms.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

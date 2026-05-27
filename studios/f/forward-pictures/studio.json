@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Forward Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105485",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qZEwftlaOePt59NRcijqw2GK4Km.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BG",
+    "homepage": "https://forwardpictures.com/",
+    "headquarters": "Sofia",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Media Luna New Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198403",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7qoiJxXb1xy8uXWnKUkYtkR8AOf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://medialuna.biz",
+    "headquarters": "Cologne, North Rhine-Westphalia",
+    "placeholder": true
+  }
+]

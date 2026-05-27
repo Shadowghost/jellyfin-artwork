@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kansai Television",
+    "country": "JP",
+    "homepage": "https://www.ktv.jp",
+    "headquarters": "Osaka",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7549",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bXc1vp0lER6PDHtsVe12pSPwNkv.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

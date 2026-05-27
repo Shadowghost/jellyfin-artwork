@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MEDiAND",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86669",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a5uwtIte7sbYjtKvon6ycUqpOgk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.mediand.jp/",
+    "placeholder": true
+  }
+]

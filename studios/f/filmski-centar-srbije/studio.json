@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmski centar Srbije",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82871",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kQ3bbwVPehXN3M1c64ClJMTuNPr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "homepage": "http://fcs.rs/eng/",
+    "headquarters": "Belgrade",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Low Spark Films",
+    "country": "US",
+    "homepage": "https://lowsparkfilms.com",
+    "headquarters": "Chagrin Falls, Ohio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28286",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m4zzuwJbTrqw5qZHoXpySkC87jE.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

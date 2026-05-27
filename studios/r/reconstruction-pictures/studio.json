@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Reconstruction Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36835"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

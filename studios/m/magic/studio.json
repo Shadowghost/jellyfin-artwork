@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Magic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105015"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

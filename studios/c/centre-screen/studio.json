@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Centre Screen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160272"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

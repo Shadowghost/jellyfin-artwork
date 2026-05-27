@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Youku",
+    "description": "Chinese video-hosting and streaming service owned by Alibaba Group; one of China's largest streaming platforms, often compared to YouTube and Netflix.",
+    "country": "CN",
+    "type": "streaming-service",
+    "homepage": "https://www.youku.com",
+    "headquarters": "Beijing",
+    "colors": [
+      {
+        "name": "Youku Blue",
+        "hex": "#168AE6"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48460",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7m3BMwdstKRqw7qg5vSYW2S0HrR.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

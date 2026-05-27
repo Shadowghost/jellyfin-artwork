@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ERC Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264455"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Flab Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87555",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mRTo6yzdSNzQsv23gaXUBeKDGUA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://flab-prod.fr/",
+    "headquarters": "2 Rue de Silly, 92100 Boulogne-Billancourt",
+    "placeholder": true
+  }
+]

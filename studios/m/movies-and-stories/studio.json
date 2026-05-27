@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Movies and Stories",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215849"
+      }
+    ],
+    "artwork": {},
+    "country": "CY",
+    "placeholder": true
+  }
+]

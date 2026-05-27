@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ballad Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165295",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kG2K0DUcIKnHFgkcREpiDPKIdi4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://balladfilm.se",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

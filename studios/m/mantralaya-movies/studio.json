@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mantralaya Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241867"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

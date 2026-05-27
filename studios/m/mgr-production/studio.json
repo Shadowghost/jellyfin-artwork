@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MGR Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264355"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

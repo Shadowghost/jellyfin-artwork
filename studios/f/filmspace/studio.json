@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmspace",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240503"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ASA-Panorama",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42078"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

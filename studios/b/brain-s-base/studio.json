@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Brain's Base",
+    "description": "Japanese animation studio known for works such as Natsume's Book of Friends, Baccano!, and Durarara!!.",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "http://www.brainsbase.co.jp",
+    "headquarters": "Mitaka, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22602",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8IYhcuLMK8cdzlh3sugyOrWYGKJ.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

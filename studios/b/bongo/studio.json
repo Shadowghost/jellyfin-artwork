@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bongo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161019",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yvJKJO7n8rQiaztFhKeIAGoTx9S.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BD",
+    "homepage": "http://bongobd.com",
+    "placeholder": true
+  }
+]

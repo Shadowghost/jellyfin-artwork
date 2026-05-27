@@ -1,0 +1,13 @@
+[
+  {
+    "name": "bookscapes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289631"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Capital Film",
+    "country": "IT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9290"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

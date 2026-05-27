@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmko Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106719",
+        "logo_uri": "https://image.tmdb.org/t/p/original/guRkFlBRrl8PKEUYXxymMitJ94p.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TW",
+    "homepage": "http://www.filmkofilm.cn",
+    "headquarters": "Taipei, Taiwan",
+    "placeholder": true
+  }
+]

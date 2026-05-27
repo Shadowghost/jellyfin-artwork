@@ -1,0 +1,13 @@
+[
+  {
+    "name": "UniversCiné",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224710"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

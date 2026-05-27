@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SGCM Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242702"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "USEN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "253836",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zNKBoz7gYlBwlNysKm517DVDVEK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://usen.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Druga linija",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80039"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "placeholder": true
+  }
+]

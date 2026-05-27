@@ -1,0 +1,16 @@
+[
+  {
+    "name": "No Ficción",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125863",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bKBJVvbKBYnfU0XcJGGjQ6Rf1Gv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "http://noficcion.mx/",
+    "placeholder": true
+  }
+]

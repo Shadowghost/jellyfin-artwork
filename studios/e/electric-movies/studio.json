@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Electric Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107201"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

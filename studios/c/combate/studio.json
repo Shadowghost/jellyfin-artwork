@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Combate",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202007",
+        "logo_uri": "https://image.tmdb.org/t/p/original/55mh8VenKoCLWp833L6CtIuQK0o.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://combate.globo.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TICO Film Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87904",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w6u3FF3Fn9IAqJvjqhICajauZiJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.ticofilm.com/site/en",
+    "headquarters": "Trieste, Italy",
+    "placeholder": true
+  }
+]

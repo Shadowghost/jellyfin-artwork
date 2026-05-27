@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Europa Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1763",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mpT9ipd8lt4qMYzdnV8SN7VJdnA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "headquarters": "Bromma, Sweden",
+    "placeholder": true
+  }
+]

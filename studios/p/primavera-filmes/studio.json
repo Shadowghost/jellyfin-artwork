@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Primavera Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245169"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

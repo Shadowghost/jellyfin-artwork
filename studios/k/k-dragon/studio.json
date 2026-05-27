@@ -1,0 +1,17 @@
+[
+  {
+    "name": "K-Dragon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197422",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lG8Pg6Dr19H17cKiY2uGCdmwGCh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.k-dragon.co.kr/",
+    "headquarters": "Busan, South Korea",
+    "placeholder": true
+  }
+]

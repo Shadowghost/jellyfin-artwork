@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sublime Frequencies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20105"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

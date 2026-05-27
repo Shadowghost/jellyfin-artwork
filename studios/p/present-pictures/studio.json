@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Present Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3017"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Bandai Namco Amusement",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163863"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "JP",
+    "homepage": "https://bandainamco-am.co.jp/",
+    "template": true
+  }
+]

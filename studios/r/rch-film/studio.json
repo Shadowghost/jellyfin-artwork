@@ -1,0 +1,13 @@
+[
+  {
+    "name": "RCH-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20337"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

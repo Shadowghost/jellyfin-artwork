@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bolívar Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15134",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rMIs9GyhTaZ5dZEKlw2pgXuPb1G.png"
+      }
+    ],
+    "artwork": {},
+    "country": "VE",
+    "homepage": "https://www.bolivarfilms.com/",
+    "headquarters": "Caracas",
+    "placeholder": true
+  }
+]

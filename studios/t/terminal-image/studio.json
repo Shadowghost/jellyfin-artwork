@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Terminal Image",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175153"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

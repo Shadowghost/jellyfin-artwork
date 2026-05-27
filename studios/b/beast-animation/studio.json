@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Beast Animation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80335",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4HZqAh4nww6SQeu459RxOoqb8i.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://www.beastanimation.com/",
+    "headquarters": "Gent",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Dashing Agent",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255107"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TOSCA Media Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55357"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

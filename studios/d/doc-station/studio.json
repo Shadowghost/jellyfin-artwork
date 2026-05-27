@@ -1,0 +1,14 @@
+[
+  {
+    "name": "doc.station",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100311"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Gros Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "279529",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cx3b0B5HL83bn5DVtvhAiQn9DOz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://lesgrosfilms.com",
+    "headquarters": "128 rue de la Boétie - 75008 Paris",
+    "placeholder": true
+  }
+]

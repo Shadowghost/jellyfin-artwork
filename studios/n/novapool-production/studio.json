@@ -1,0 +1,13 @@
+[
+  {
+    "name": "novapool production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2423"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Toto Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283725"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

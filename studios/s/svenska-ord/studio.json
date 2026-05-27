@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Svenska Ord",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Riksteatern",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133231",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1YG0FubeYVwuRfwjQH0MTnWaye0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.riksteatern.se",
+    "headquarters": "Hallunda",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cherry Vision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100291",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o5WBB4Ez1oXTCoJ0YxgZsVEj0E3.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

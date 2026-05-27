@@ -1,0 +1,15 @@
+[
+  {
+    "name": "W. Chump and Sons",
+    "country": "GB",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81069"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

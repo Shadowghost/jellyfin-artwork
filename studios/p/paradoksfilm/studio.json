@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ParadoksFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222222"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

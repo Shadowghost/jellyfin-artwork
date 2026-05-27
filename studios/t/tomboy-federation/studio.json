@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Tomboy Federation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "295141",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3buxMgLYgsQKvOSX4MY95rfvlno.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PH",
+    "placeholder": true
+  }
+]

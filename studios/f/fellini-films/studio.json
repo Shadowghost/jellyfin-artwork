@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fellini Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "297013"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

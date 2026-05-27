@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Max Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8117",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eVsVPEZRK63zsQMxxSHf5Cv017g.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.maxfilms.ca",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

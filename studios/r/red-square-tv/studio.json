@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Red Square TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128870",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j9T9bnqSHRGpTfCKLeYdMv4WR7s.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

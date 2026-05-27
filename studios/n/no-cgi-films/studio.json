@@ -1,0 +1,13 @@
+[
+  {
+    "name": "No CGI Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60666"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

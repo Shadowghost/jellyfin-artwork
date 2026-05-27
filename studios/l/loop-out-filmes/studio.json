@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Loop out Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222972"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

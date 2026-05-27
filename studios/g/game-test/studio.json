@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Game Test",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205909"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FelixFilm",
+    "country": "JP",
+    "homepage": "https://felixfilm.co.jp/",
+    "headquarters": "Mitaka, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106076",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5FHxgxvhqNC6aOVce3X9T2Wz426.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

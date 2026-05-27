@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Bohbot Communications",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96345",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mxmVRJx0vM2zcDYIlDebNZOmpT3.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

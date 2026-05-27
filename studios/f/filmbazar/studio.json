@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmbazar",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252181",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iTFKfyfaAtJvy87uAqALdSqJhTW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://www.filmbazar.dk/",
+    "headquarters": "Copenhagen",
+    "placeholder": true
+  }
+]

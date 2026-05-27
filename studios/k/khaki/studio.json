@@ -1,0 +1,17 @@
+[
+  {
+    "name": "khaki",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168602",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pfPBdKhfMfc1CZTyYwIjeKFnguE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://khaki.tokyo/",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Théâtre de la Madeleine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171173",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hYsv58QTUaoDOhWtN40YdM3hy24.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.theatre-madeleine.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

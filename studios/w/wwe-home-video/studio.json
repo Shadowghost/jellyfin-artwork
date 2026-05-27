@@ -1,0 +1,15 @@
+[
+  {
+    "name": "WWE Home Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13651",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rVJkMs9cSaE1BQoPiDcH6OxmaVZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

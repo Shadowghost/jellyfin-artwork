@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Fox Film Corporation",
+    "description": "American film production company founded in 1915 by William Fox; merged with Twentieth Century Pictures in 1935 to form 20th Century Fox.",
+    "country": "US",
+    "type": "studio",
+    "headquarters": "Fort Lee, New Jersey",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5488",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3O2mAL8Z32SbKtQK7h9ePZjtzSu.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

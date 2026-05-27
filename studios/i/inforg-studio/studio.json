@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Inforg Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11007",
+        "logo_uri": "https://image.tmdb.org/t/p/original/irlUVryOnJuz7iD5K7cy1bdQH4e.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "headquarters": "Budapest",
+    "placeholder": true
+  }
+]

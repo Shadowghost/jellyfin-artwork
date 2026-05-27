@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Shutter Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17202"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

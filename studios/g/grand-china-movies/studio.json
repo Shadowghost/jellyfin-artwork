@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Grand China Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129902"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

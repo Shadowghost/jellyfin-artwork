@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Filmel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42182"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

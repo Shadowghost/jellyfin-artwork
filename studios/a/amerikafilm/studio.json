@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Amerikafilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48477"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.amerikafilm.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

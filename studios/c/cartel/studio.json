@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cartel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1026"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

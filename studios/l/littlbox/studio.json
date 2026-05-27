@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Littlbox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "265945",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2JOP3SsdeGPoqv5OfErK49LbVLj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://littlbox.com/",
+    "placeholder": true
+  }
+]

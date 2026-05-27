@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Integral Film",
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1905"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

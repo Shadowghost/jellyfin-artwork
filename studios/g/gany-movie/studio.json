@@ -1,0 +1,15 @@
+[
+  {
+    "name": "GANY Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250841",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tf6hI9ahgR64xJ1wnee2WRahYU3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

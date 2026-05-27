@@ -1,0 +1,17 @@
+[
+  {
+    "name": "VICE Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17209",
+        "logo_uri": "https://image.tmdb.org/t/p/original/khOQX3iJuSmaFWrL3w4LijbtnJZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://company.vice.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

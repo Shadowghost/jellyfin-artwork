@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Girelle Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205350",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jE7QEbtTMa2o3UQ1I9Nf3uU36Yf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.girelle.fr/",
+    "headquarters": "Orléans",
+    "placeholder": true
+  }
+]

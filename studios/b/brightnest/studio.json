@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Brightnest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230488",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ApZdjnmrwkxCnd0Cb7o8DsuAcYG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://brightnest.se/",
+    "headquarters": "Luleå",
+    "placeholder": true
+  }
+]

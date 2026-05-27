@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fork Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13045",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mBR20RYepv3OrKF7OJYu5EYUt2y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.forkfilms.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

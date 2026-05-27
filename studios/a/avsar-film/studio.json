@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Avşar Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67496",
+        "logo_uri": "https://image.tmdb.org/t/p/original/95k6qxrpMGoiKkwKC5SBUHb4Pa1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.avsarfilm.com.tr",
+    "headquarters": "Istanbul",
+    "placeholder": true
+  }
+]

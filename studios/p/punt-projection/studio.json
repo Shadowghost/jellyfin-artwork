@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Punt Projection",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202817"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

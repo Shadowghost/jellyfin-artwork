@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Favorite Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4655"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

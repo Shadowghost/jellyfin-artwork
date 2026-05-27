@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Vixen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97168",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9UHomck6x1axhh2C1lNiUcugIBw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.vixen.com/",
+    "placeholder": true
+  }
+]

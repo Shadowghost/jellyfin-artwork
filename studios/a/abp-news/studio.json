@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ABP News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91388"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

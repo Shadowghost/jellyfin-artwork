@@ -1,0 +1,17 @@
+[
+  {
+    "name": "El Pampero Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20124",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uyKNacxTuJItGNZoqMzPtKtZBLn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://www.elpamperocine.com.ar",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

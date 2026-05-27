@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Working Title Television",
+    "country": "GB",
+    "homepage": "https://www.workingtitlefilms.com/tv/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8102",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xDCttGk89Udx0Mc11ZZOb14xIg4.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

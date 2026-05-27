@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Coco.TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114582",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aJvyMNTJUCODVn9eW6Lcp7HKSLZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.cocotv.ca/en/",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

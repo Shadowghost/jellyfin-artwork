@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmoteca de Galicia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222903"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

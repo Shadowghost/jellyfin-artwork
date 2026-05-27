@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Motion Picture Exchange",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158172",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iLatgBV9TLkT55n1acnUYqRyDF4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://mpxfilms.com/",
+    "headquarters": "Burbank, California",
+    "placeholder": true
+  }
+]

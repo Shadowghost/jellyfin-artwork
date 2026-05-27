@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ekipa",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113069",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xdOWWeuVPyy1rUZW7DWJUz16vuF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://agencjaekipa.pl/",
+    "placeholder": true
+  }
+]

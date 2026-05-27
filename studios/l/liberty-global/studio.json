@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Liberty Global",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125100",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tk2J7oq7xoKiAfur44lIkej8SMk.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://www.libertyglobal.com"
+  }
+]

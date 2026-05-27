@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SBS News Documentaries",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201958"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "AP Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78348",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ggzKfcxz4ZwUa3BsUiK4H77JygR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

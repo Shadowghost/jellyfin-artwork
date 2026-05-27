@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mad Solar",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145430",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cU8QLnmjjiXBKpdrxgXZLi8vTsm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Beverly Hills, California",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Local Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113914",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rs5e0U4BOJy5PjO050cJPt0BfHG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NP",
+    "homepage": "http://www.localcinemanepal.com/",
+    "headquarters": "Kathmandu",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CropTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111209",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l7nrp2hZyiQBhl7cLoo3UQV18XR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://croptv.es",
+    "placeholder": true
+  }
+]

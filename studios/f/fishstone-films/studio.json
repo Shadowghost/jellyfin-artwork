@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fishstone Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36415",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ymtcH5Vybl94Bk1AbEZPCLPA1iu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.fishstone.cz",
+    "placeholder": true
+  }
+]

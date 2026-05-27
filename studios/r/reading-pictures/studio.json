@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Reading Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109834"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

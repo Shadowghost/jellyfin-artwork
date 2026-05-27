@@ -1,0 +1,14 @@
+[
+  {
+    "name": "TKBC",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38227"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

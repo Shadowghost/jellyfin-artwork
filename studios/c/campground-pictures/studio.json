@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Campground Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "259070"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

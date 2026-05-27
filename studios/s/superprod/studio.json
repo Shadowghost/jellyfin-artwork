@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Superprod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106612",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ygHUNIBl4C8KjYI25iDVOtdaGwr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.superprod.net",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

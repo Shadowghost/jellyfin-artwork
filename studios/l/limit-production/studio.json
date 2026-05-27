@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LIMIT Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233693"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

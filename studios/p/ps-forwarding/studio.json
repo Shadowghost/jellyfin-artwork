@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PS forwarding",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229463",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eMZGASOlTTTEa3JhGwxm1QKtezi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.psforwarding.cz/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

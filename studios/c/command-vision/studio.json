@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Command Vision",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96589"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

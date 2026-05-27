@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Les films du plateau",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144397"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "19 rue Dumont d'Urville, 69004 LYON",
+    "placeholder": true
+  }
+]

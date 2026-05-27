@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kanopy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122372",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8H2L7tDacC7QRD62v15R15eZEuc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.kanopy.com",
+    "headquarters": "Cleveland, Ohio",
+    "placeholder": true
+  }
+]

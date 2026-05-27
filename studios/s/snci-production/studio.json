@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SNCI Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157803"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

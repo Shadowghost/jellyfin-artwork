@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Visceral",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208233",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bCnIfDvRZpAHtokBxMN5vST6ybF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://visceral.pro/",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Easy Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157727"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

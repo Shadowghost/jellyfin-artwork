@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DMG Entertainment",
+    "country": "US",
+    "homepage": "http://www.dmg-entertainment.com",
+    "headquarters": "Beverly Hills, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10289",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4lXJcFjACjb34LF78AUjEz4FtB9.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

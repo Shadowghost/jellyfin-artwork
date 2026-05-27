@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Filmoteka Narodowa",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21810"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

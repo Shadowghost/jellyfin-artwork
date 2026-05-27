@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Shazam",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102621"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

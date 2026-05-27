@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Voice Global",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224049"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

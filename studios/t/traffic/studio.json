@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Traffic.",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "232289",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bV35YIaGQvRtjsD2r8KdlvYDKrp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.traffic.film",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

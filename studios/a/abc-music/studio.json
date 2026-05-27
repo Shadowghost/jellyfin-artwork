@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ABC Music",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181271"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

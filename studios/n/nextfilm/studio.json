@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NextFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "267614"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

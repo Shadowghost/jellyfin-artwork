@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Celebrity Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12291"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

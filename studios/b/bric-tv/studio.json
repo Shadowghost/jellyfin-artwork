@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BRIC TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108782",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jU7C6yyBxmRpsiBqyG6ohzZ3H0a.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://bricartsmedia.org/tv-films-podcasts/bric-tv/",
+    "headquarters": "Brooklyn, New York",
+    "placeholder": true
+  }
+]

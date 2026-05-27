@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Trilogy Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72131",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5TD0EPhPAESDJM5QyQFlPkaVXK7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.trilogy-films.com",
+    "headquarters": "San Francisco, California",
+    "placeholder": true
+  }
+]

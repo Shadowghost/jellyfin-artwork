@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Slovenska kinoteka",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107862"
+      }
+    ],
+    "artwork": {},
+    "country": "SI",
+    "placeholder": true
+  }
+]

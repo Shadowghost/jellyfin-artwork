@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TV Thunder",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125705",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8uAQC74JeUhknKsMPeIHURMj8Wp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TH",
+    "homepage": "http://www.tvthunder.co.th/",
+    "headquarters": "Bangkok, Thailand",
+    "placeholder": true
+  }
+]

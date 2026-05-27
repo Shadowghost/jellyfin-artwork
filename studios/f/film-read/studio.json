@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Read",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "261094"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

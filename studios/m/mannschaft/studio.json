@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mannschaft",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200240"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://mannschaft.cz/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

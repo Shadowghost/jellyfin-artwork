@@ -1,0 +1,15 @@
+[
+  {
+    "name": "MVFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226026"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://mvfilm.ru/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NFL Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3232",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8KtxMsWLOK6zDTNAfi75yg2QvSt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.nflfilms.com/",
+    "headquarters": "Mount Laurel, New Jersey",
+    "placeholder": true
+  }
+]

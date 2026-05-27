@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Halal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107653",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Nk2OFKJNFALXkjxzDyBX1OCaAt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://100prcnt.film/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

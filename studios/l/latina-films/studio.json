@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Latina Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160060",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mg6NLsO2S3s1HLmtIkr7xnpWePk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PE",
+    "homepage": "https://www.latina.pe/",
+    "placeholder": true
+  }
+]

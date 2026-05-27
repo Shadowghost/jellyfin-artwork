@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Aura Films",
+    "country": "GB",
+    "homepage": "https://aurafilms.co.uk",
+    "headquarters": "East Anglia, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234680"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

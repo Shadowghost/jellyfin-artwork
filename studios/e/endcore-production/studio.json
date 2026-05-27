@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Endcore Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283130"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

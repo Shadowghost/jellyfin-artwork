@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Yonaka",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211823",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6BrrjPZbfDaOP52A6aqG9lsTOSc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.choi-waru.com/yonaka/",
+    "placeholder": true
+  }
+]

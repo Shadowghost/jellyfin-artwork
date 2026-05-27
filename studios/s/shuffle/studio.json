@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Shuffle",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130488"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "To The Stars",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40937",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kuQmNnLnl0rGtP8XyAM3YdkcXdR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://tothestars.media/",
+    "headquarters": "San Diego, California",
+    "placeholder": true
+  }
+]

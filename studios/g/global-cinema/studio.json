@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Global Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23137"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

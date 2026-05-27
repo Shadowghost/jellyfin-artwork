@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films de L'Autre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29201",
+        "logo_uri": "https://image.tmdb.org/t/p/original/93Cu4sHMvJLgCwk9wpQY5xrb3XA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://lesfilmsdelautre.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

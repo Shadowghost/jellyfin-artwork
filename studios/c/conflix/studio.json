@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Conflix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180324",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4mqPr8DIhTsb5nWOQoqUObaMJTs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.conflix.com/",
+    "placeholder": true
+  }
+]

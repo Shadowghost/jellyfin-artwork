@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Espectáculos de Arte",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10192"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "placeholder": true
+  }
+]

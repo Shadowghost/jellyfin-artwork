@@ -1,0 +1,32 @@
+[
+  {
+    "name": "FR3",
+    "description": "Original name (1972–1992) of the French public-service regional television channel now known as France 3.",
+    "country": "FR",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166010"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "FR3 (France Régions 3)"
+    ],
+    "template": true
+  }
+]

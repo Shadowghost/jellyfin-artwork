@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Easy Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5402",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iYQ3d8XgHgmvvuphqIr7amSDqwH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "placeholder": true
+  }
+]

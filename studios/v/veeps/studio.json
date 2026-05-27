@@ -1,0 +1,17 @@
+[
+  {
+    "name": "VEEPS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176076",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iyGTex7KZlD0h1gwn5HqgUxcYfB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://veeps.com",
+    "headquarters": "Beverly Hills, California",
+    "placeholder": true
+  }
+]

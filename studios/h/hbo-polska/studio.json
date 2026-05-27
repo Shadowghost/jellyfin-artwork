@@ -1,0 +1,15 @@
+[
+  {
+    "name": "HBO Polska",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37659",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zfouUSOEq718TbB9YqN9OylPtD7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

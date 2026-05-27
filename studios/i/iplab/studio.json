@@ -1,0 +1,16 @@
+[
+  {
+    "name": "IPLab",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "294253",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iaWoKDCNfqMTnbvtEsyzslX5cN6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://iplab.co.jp",
+    "placeholder": true
+  }
+]

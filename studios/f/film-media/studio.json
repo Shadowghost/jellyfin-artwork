@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Film Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "68038",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nT7jNpJw7UR4MD8hV8PXtBGREb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://filmmedia.com.pl/en/",
+    "placeholder": true
+  }
+]

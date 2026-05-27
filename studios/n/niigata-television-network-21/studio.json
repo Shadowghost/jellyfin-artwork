@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Niigata Television Network 21",
+    "country": "JP",
+    "homepage": "https://www.uxtv.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256897",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8gY2bWR4TopxKJchQxvrhroKz3q.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Puy du Fou Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179909",
+        "logo_uri": "https://image.tmdb.org/t/p/original/49HRXsDHDmbWLQPSOp2xckTCecP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.puydufou.com/",
+    "headquarters": "Les Epesses",
+    "placeholder": true
+  }
+]

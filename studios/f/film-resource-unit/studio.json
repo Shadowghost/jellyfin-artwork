@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Resource Unit",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208129"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Red Lion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2409"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

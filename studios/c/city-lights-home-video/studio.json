@@ -1,0 +1,15 @@
+[
+  {
+    "name": "City Lights Home Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60435",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sIDMHAXMiSOSc2X6aqlrGHJAAII.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

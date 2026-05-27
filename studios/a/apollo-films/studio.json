@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Apollo Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49755",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iom7Z8e1dzoTfCvwq8F4bJvbeIJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://materiel.apollo-films.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

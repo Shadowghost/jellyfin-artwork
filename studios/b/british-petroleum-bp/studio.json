@@ -1,0 +1,17 @@
+[
+  {
+    "name": "British Petroleum (BP)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161725",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l24wQuSzgtkuXuo9cqGkpfL2Pfe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.bp.com",
+    "headquarters": "British Petroleum, London, United-Kingdom",
+    "placeholder": true
+  }
+]

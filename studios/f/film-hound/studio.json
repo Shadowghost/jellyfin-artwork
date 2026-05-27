@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Film Hound",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240098",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m3KQCZToJMHwty1iszMQEhVHNcG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Denver",
+    "placeholder": true
+  }
+]

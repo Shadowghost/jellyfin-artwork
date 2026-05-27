@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ibermedia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "302"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

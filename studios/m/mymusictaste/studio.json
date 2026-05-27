@@ -1,0 +1,14 @@
+[
+  {
+    "name": "MyMusicTaste",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153273",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6aslsZ5OwOotQoPi8TOg5Bmpf0H.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

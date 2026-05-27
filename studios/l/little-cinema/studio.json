@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Little Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100042"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

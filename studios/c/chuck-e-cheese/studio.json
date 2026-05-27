@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Chuck E. Cheese",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183325",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tv5XGRgpGoWHkiWFgU9Bq2jpYS7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.chuckecheese.com",
+    "headquarters": "Irving, Texas",
+    "placeholder": true
+  }
+]

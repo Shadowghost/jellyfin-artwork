@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Readers Digest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85923"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

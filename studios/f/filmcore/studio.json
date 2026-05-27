@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FilmCore",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153697"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

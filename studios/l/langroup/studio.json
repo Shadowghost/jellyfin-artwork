@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Langroup",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220005"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

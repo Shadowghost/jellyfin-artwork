@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bac Cinema",
+    "country": "LU",
+    "homepage": "http://www.juliettefilms.lu",
+    "headquarters": "Kehlen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45015",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7O9okD5UDjnyHUwNR3VZN3gbUpA.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

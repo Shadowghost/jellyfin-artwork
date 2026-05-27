@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Spiritus Movens",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79271",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3AJhvnPldXV3cSVm60pUjjOCqN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HR",
+    "homepage": "http://spiritus-movens.hr/",
+    "headquarters": "Zagreb",
+    "placeholder": true
+  }
+]

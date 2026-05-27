@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Vagrant Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160692"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

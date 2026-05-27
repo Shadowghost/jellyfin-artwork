@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Berghein Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153042"
+      }
+    ],
+    "artwork": {},
+    "country": "LV",
+    "homepage": "https://www.berghein.com",
+    "placeholder": true
+  }
+]

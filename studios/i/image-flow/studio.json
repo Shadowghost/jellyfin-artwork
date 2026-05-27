@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Image Flow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75560"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

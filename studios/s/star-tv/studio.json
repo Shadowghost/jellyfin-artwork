@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Star TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233676",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AiGJnUYP4rSj3x6Z0UOHBi2ALRQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

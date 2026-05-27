@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RV Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226274",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mVak3ybJwdxsVwLcb50ZvvqWCub.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.rventertainment.es/",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

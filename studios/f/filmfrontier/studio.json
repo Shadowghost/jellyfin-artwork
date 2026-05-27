@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FilmFrontier",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155964"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

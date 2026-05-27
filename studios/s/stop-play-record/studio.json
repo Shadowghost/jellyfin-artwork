@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Stop Play Record",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274311"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

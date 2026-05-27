@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Debayer Interactive",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250267"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

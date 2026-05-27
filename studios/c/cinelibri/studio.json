@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CineLibri",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164884"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

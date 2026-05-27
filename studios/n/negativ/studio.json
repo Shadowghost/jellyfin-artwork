@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Negativ",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4595",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kkvPl5Y3NKZXK7mqw0esuTZmVor.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://negativ.cz/?lang=en",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

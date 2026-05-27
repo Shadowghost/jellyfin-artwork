@@ -1,0 +1,13 @@
+[
+  {
+    "name": "közmédia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82493"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Galaxy Play",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172923",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ssRJNbmCE0qD0IToBeKkKPfu37t.png"
+      }
+    ],
+    "artwork": {},
+    "country": "VN",
+    "homepage": "http://galaxyplay.vn",
+    "headquarters": "Vietnam",
+    "placeholder": true
+  }
+]

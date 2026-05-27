@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Marmot Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19124",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jRMq76cxlGrmCGLnVO4plf44Olm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://todorovsky-company.ru/",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

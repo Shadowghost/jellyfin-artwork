@@ -1,0 +1,17 @@
+[
+  {
+    "name": "World of HA Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161406",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8nKTrAIhB5OnrcFOEOZk1aS5z7v.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.wohapro.com/",
+    "headquarters": "Philadelphia, Pennsylvania",
+    "placeholder": true
+  }
+]

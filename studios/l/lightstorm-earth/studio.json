@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lightstorm Earth",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "282842",
+        "logo_uri": "https://image.tmdb.org/t/p/original/25ZDfKhnnloS2VmLtEMxNLNgOnS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Santa Monica, California",
+    "placeholder": true
+  }
+]

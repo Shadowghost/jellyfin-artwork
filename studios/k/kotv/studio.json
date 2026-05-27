@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KOTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69754",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4iI3g8mbKyn61EtucAlwqCzZYkE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.kotv.ca/en/",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

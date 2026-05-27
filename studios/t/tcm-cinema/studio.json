@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TCM Cinéma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115442",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dH3KQzu0wZ3a4JiE7LoVfpI8qp3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Neuilly-sur-Seine",
+    "placeholder": true
+  }
+]

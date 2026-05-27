@@ -1,0 +1,14 @@
+[
+  {
+    "name": "White Oak Pictures",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91405"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

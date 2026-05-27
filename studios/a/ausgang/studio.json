@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ausgang",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121090"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

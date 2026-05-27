@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Metra Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210665",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sLKedOjPZ7wigba0M8RBVBPknhC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://metrafilms.com/",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

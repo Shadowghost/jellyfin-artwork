@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Dynamic Range",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83693"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TVB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79261",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4OKzkasr0IV8CSqejjgRfKw7e0m.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HK",
+    "homepage": "http://www.tvb.com",
+    "headquarters": "Tseung Kwan O, Kowloon, Hong Kong",
+    "placeholder": true
+  }
+]

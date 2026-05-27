@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Cinemeteque",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "287704"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.cinemeteque.com/",
+    "placeholder": true
+  }
+]

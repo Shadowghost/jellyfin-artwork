@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Salt-Pan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17967"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

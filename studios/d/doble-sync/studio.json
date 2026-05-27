@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Doble Sync",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203973"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

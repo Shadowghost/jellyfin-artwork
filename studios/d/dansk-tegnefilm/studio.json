@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dansk Tegnefilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15248",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cXYm8Gs7Q3MlXxNSKG96psK2uwR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "http://tegnefilm.com",
+    "headquarters": "Copenhagen",
+    "placeholder": true
+  }
+]

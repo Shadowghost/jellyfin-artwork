@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LesFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255738"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

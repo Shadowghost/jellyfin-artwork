@@ -1,0 +1,16 @@
+[
+  {
+    "name": "PS Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53467"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "http://www.psfilm.ch",
+    "headquarters": "Zurich",
+    "placeholder": true
+  }
+]

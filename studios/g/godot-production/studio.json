@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Godot production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85556"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Facultad de Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153057",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sz9GrkTMp7hmQJRqwX9p7PrViBO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://facultaddecine.edu.mx/",
+    "headquarters": "Cuauhtémoc, CDMX",
+    "placeholder": true
+  }
+]

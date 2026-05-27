@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Chest",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "154120"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

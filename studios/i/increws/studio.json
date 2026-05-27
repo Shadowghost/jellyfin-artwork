@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Increws",
+    "country": "JP",
+    "homepage": "https://www.increws.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249873"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

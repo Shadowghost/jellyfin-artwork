@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Montreux Film & Fjernsyn AS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165161",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6d4kGPm1XYiPyGgrGAWr7ekMSMO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.montreux.no/",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

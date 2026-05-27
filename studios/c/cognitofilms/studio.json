@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CognitoFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112178"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.cognito-films.com",
+    "headquarters": "Zurich",
+    "placeholder": true
+  }
+]

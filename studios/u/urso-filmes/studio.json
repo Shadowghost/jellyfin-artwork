@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Urso Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95601",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2AV4ChlMW3YrUAzZImg9cQrA9U5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.ursofilmes.com.br",
+    "headquarters": "Recife PE",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pod Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45753"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Futurikon",
+    "country": "FR",
+    "homepage": "https://www.futurikon.com",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2613",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8e3yYQVDwCqjEvudzfDvgQSsdlc.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

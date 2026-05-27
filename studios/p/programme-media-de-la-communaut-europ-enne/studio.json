@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Programme MEDIA de la Communauté européenne",
+    "description": "European Union funding programme supporting the development and distribution of European audiovisual works; predecessor to Creative Europe MEDIA.",
+    "country": "BE",
+    "type": "government-agency",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21972"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

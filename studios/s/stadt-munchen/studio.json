@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Stadt München",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24079"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

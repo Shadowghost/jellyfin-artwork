@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SRG SSR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12431",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3m45frhaRCLsCKuMtuj7ZwfGwBB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.srgssr.ch/en/home",
+    "headquarters": "Bern",
+    "placeholder": true
+  }
+]

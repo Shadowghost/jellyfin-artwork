@@ -1,0 +1,13 @@
+[
+  {
+    "name": "beam",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289071"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

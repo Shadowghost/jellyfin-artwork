@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pokémon Shanghai",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194910"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://www.pokemon.com.cn",
+    "headquarters": "Shanghai",
+    "placeholder": true
+  }
+]

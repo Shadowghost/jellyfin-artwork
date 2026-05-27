@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jumpy Cow Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210312",
+        "logo_uri": "https://image.tmdb.org/t/p/original/blZt02hAe7TP3Sn4PCWoVoDDVQo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://jumpy-cow-pictures.com/en/",
+    "headquarters": "Zurich",
+    "placeholder": true
+  }
+]

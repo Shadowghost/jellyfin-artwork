@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DVS Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "268289"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

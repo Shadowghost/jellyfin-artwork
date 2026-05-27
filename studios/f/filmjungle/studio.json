@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Filmjungle",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126329"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "http://www.filmdzsungel.hu",
+    "placeholder": true
+  }
+]

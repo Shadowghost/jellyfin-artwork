@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Fat City",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208363",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nPXwPbmlUVl9saVTNBMuvPGRV7c.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

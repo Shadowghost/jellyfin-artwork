@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Yellow Cab",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131200"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

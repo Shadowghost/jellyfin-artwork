@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Service du Film de Recherche Scientifique",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194385"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

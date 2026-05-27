@@ -1,0 +1,16 @@
+[
+  {
+    "name": "LIDENFILMS",
+    "country": "JP",
+    "homepage": "http://lidenfilms.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "42521",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pQfzDuY4chOVbSmsurvB9MHFsYa.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

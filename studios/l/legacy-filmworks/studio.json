@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Legacy Filmworks",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4369",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9IOys9AslGUqSDk7SJhWkdEgTlX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.legacyfilmworks.com",
+    "headquarters": "Vancouver, British Columbia",
+    "placeholder": true
+  }
+]

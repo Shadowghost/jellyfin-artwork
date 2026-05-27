@@ -1,0 +1,15 @@
+[
+  {
+    "name": "furec",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256424"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.furec.jp",
+    "placeholder": true
+  }
+]

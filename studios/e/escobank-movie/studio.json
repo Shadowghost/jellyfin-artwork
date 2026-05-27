@@ -1,0 +1,13 @@
+[
+  {
+    "name": "EscoBank Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280523"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BOB Film Sweden",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3792"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://www.bobfilm.se",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

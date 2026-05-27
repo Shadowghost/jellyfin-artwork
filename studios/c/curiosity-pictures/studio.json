@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Curiosity Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202100"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "headquarters": "Beijing",
+    "placeholder": true
+  }
+]

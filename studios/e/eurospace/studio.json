@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Eurospace",
+    "country": "JP",
+    "homepage": "http://www.eurospace.co.jp",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75055",
+        "logo_uri": "https://image.tmdb.org/t/p/original/25cZ1MQpH8cG6g9Qyb5AQWKXAOe.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

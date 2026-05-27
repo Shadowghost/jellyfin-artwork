@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SNK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138427",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9zRDchHHy4xZyL8W8MIjf4Nqj3w.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.snk-corp.co.jp/",
+    "headquarters": "Suita, Osaka, Japan",
+    "placeholder": true
+  }
+]

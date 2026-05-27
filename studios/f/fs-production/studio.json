@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FS Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121307"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

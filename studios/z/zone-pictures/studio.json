@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Zone Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169878"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

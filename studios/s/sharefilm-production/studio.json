@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ShareFilm Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230841"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

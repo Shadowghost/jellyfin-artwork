@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Strani Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106382",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tiQ5gmHARVjNjtyh6nTm7HOCflW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.stranifilm.it",
+    "placeholder": true
+  }
+]

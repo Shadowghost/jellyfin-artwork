@@ -1,0 +1,14 @@
+[
+  {
+    "name": "See Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "68355"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

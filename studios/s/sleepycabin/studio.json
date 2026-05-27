@@ -1,0 +1,14 @@
+[
+  {
+    "name": "SleepyCabin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89811"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

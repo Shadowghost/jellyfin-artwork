@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Manga Bruta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229043"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

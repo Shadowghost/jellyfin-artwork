@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Magnolia TV Spain",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109146",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v3F19hY8xzGOIzUaqQ6XWnWOhhb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://magnoliatv.es",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

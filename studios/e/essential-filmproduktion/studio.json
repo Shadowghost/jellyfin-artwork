@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Essential Filmproduktion",
+    "country": "DE",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20691",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zB4VpQ8BDxKKhUXam2u57ZZ9mtx.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

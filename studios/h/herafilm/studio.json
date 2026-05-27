@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Herafilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121724"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.herafilm.cz/en/",
+    "headquarters": "Prague, Czech Republic",
+    "placeholder": true
+  }
+]

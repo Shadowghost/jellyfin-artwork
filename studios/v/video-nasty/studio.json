@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Video Nasty",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180928",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xxxnEFGxjfrQvJ1PCcXihVoj7UU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://videonasty.com.au/",
+    "placeholder": true
+  }
+]

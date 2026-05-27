@@ -1,0 +1,17 @@
+[
+  {
+    "name": "asterisk*",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153368",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gWeus5KF2wV4OsikAaXbgqXv7Za.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GR",
+    "homepage": "http://www.asteriskfilm.gr/",
+    "headquarters": "Athens",
+    "placeholder": true
+  }
+]

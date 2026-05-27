@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Taleswapper",
+    "country": "US",
+    "homepage": "http://www.taleswapper.net",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31826"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Kyokuichi-Tokyo Movie",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160520"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

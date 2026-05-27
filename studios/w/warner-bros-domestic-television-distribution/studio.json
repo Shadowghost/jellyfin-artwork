@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Warner Bros. Domestic Television Distribution",
+    "description": "Television syndication and distribution arm of Warner Bros., handling first-run and off-network syndication of Warner-produced TV programming in the US.",
+    "country": "US",
+    "type": "distributor",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

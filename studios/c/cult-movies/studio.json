@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cult Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5567"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

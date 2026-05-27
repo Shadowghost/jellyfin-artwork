@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Studio Prometheus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99821"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

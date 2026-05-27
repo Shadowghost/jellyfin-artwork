@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Darjeeling",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121217",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jAWhnlT1LGov8S0AyjkpPxOGP0S.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.darjeelingprod.com",
+    "headquarters": "Montreuil",
+    "placeholder": true
+  }
+]

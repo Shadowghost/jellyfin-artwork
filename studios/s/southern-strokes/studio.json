@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Southern Strokes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123249",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2Ne9FAZHrArtLv67X8v29ZJuphV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

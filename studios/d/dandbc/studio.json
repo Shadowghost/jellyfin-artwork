@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DanDBC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215600"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

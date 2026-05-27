@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cineteatro",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204033"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

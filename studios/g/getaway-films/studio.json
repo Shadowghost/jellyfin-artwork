@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Getaway Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137610",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gNNiV7xHCmOnJtUPZXJ9sC8HyKC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.getaway-prod.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

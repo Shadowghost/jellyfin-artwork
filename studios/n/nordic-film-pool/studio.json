@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nordic Film Pool",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168777"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

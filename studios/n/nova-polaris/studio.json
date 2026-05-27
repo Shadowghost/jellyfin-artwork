@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nova Polaris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200504"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

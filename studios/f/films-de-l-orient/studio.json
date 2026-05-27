@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Films de l'Orient",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63790",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dO5PoYVpA7xtP0CgpqRQDcsKJHD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://filmsorient.cat",
+    "headquarters": "Carrer dels Albigesos, 3, 08024; Barcelona",
+    "placeholder": true
+  }
+]

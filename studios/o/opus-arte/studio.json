@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Opus Arte",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4775",
+        "logo_uri": "https://image.tmdb.org/t/p/original/z1HSU7AQ04jeOICLE1mBzEJxiEJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://www.opusarte.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

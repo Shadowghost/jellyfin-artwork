@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bluegreen production NC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "266261"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

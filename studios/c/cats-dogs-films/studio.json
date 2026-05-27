@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Cats & Dogs Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92745"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

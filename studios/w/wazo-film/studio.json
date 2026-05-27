@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Wazo film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "295784"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

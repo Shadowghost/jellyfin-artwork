@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vento Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79765",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vUaDu4hd5pLXLxKRnEaBpC6Yxe6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "http://www.ventofilm.com/",
+    "headquarters": "Vienna",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "LINT FILM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240415"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "placeholder": true
+  }
+]

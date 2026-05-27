@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Magnum Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8608"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://www.magnumfilm.ru/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Instituto Federal de Minas Gerais (IFMG)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289041",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vDgl9C9Br1r8qYQNJDJSTWEXPG5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.ifmg.edu.br/portal",
+    "headquarters": "Minas Gerais",
+    "placeholder": true
+  }
+]

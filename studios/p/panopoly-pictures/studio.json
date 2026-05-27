@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Panopoly Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9318"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

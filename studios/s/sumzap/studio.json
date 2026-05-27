@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sumzap",
+    "country": "JP",
+    "homepage": "https://www.sumzap.co.jp/",
+    "headquarters": "Shibuya, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158200",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rf4ZArxPuqx5hdeU7rPIU8IQlYx.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

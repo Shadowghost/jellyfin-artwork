@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Company Films",
+    "country": "US",
+    "homepage": "http://www.companyfilms.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7193"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

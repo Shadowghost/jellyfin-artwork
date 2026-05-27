@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SK Telecom",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4444",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8ZKF3O66fA5ep7lyqpH6OUMbpMt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://www.sktelecom.com/",
+    "headquarters": "Jung, Seoul, South Korea",
+    "placeholder": true
+  }
+]

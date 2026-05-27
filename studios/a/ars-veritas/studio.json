@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ars Veritas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89123"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

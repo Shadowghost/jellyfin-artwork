@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Electronic Arts",
+    "description": "American video game company headquartered in Redwood City, California, one of the world's largest publishers.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "https://www.ea.com",
+    "headquarters": "Redwood City, California",
+    "colors": [
+      {
+        "name": "EA Red",
+        "hex": "#FF4747"
+      },
+      {
+        "name": "EA Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3550",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i0WERoFpOlFXEYZrpyc419ak8DW.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

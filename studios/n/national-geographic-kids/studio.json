@@ -1,0 +1,16 @@
+[
+  {
+    "name": "National Geographic Kids",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171426",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2aYt1Cn8tqg0q9rKWLguvgtEzdp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://kids.nationalgeographic.com/",
+    "placeholder": true
+  }
+]

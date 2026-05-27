@@ -1,0 +1,16 @@
+[
+  {
+    "name": "RTR-Planeta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32940"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://rtr-planeta.com",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

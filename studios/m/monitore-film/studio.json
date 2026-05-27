@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Monitore film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86908"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.monitorefilm.com",
+    "placeholder": true
+  }
+]

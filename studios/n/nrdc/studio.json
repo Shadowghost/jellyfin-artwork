@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NRDC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174781",
+        "logo_uri": "https://image.tmdb.org/t/p/original/78cO3veGGnKuOgQE2EwgIacIMjl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.nrdc.org/",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

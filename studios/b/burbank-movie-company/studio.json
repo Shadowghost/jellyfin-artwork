@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Burbank Movie Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21333"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

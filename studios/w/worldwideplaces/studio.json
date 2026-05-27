@@ -1,0 +1,13 @@
+[
+  {
+    "name": "WorldWidePlaces",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219089"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

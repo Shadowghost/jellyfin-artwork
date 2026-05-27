@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Playvideo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252788"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

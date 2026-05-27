@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mosaicon Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177596",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m8rce7UFrBAhntKXTz1oNDE4T27.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.mosaiconfilm.it/",
+    "headquarters": "Napoli",
+    "placeholder": true
+  }
+]
