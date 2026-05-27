@@ -1,0 +1,17 @@
+[
+  {
+    "name": "In Vivo Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89264",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2uT5kQN2JESzyJdfWmcZPBH4fGd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.invivofilms.com/",
+    "headquarters": "La Rochelle",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cameron Mackintosh Ltd.",
+    "country": "GB",
+    "homepage": "https://www.cameronmackintosh.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135040",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qhPk7bzBn1YFveIDhGjif21ENSj.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

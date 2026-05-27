@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Smoke",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118424"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cybird",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80126",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6a8jPSkezQcOD5Ev3w6T12wG1Kw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.cybird.co.jp/",
+    "placeholder": true
+  }
+]

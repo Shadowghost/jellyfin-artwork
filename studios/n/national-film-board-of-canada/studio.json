@@ -1,0 +1,29 @@
+[
+  {
+    "name": "National Film Board of Canada",
+    "description": "Canadian public film and digital media producer and distributor, a federal Crown corporation creating documentary, animation, and interactive works.",
+    "country": "CA",
+    "type": "government-agency",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "261764"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

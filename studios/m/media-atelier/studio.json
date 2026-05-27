@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Media Atelier",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214659",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fQIUprhND4LP2SwVApGDEKDU0vD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.media-atelier.tv/",
+    "headquarters": "Mainz",
+    "placeholder": true
+  }
+]

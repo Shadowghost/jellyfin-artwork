@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Videometra",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97578",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wOvuCsQ2i2uRRK6uMP6k6JW5BEi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LT",
+    "homepage": "https://videometra.lt/",
+    "headquarters": "Trakų g. 11-12, LT-01132 Vilnius",
+    "placeholder": true
+  }
+]

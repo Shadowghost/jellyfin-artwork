@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zanzibar Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11457",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9MXlFmBKp93DpPVmn6yCw88xuNx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "http://www.zanzibarfilms.net/",
+    "headquarters": "Dublin",
+    "placeholder": true
+  }
+]

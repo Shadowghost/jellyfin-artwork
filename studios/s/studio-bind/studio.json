@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Studio Bind",
+    "description": "Japanese animation studio established in 2018, known for producing Mushoku Tensei: Jobless Reincarnation.",
+    "country": "JP",
+    "type": "studio",
+    "homepage": "https://st-bind.jp",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124275",
+        "logo_uri": "https://image.tmdb.org/t/p/original/b3gxPqVIVIeHDMLt1Lr0WvuxYwP.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lista Calista Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166144",
+        "logo_uri": "https://image.tmdb.org/t/p/original/248FblDITR7uTyHfybFnleM5D7q.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.listacalistafilms.org/",
+    "headquarters": "Edinburgh, Scotland",
+    "placeholder": true
+  }
+]

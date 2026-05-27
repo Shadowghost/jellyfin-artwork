@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Kulüp Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "260725"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sentient Entertainment",
+    "country": "US",
+    "homepage": "https://www.senti-ent.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23514",
+        "logo_uri": "https://image.tmdb.org/t/p/original/upijXK42EK54sbRf0Opse46F2lH.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cinetop-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141155"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Scandinavian Film Distribution",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252180",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wLw9b93pGqx7IaYCWjXIyBMxHLI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://www.scandinavian.film/",
+    "headquarters": "Copenhagen",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films de la Butte",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10238",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jiJ2jBX8izOJz7Vp88YazkFiIaP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://filmsdelabutte.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

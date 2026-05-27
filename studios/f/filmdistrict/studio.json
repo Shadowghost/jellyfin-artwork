@@ -1,0 +1,15 @@
+[
+  {
+    "name": "FilmDistrict",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7263",
+        "logo_uri": "https://image.tmdb.org/t/p/original/auaadhBBcvvTDtmW2iJzOrEjfgO.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

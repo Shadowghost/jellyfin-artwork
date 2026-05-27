@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TeaTime Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148258",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7jE6IT7EMkC7g6frJUZRLFrdgNe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://teatime.pictures",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

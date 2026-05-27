@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Les Films Selmon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123433",
+        "logo_uri": "https://image.tmdb.org/t/p/original/asgMs55sZGZYsQ5zOmjSjDofMJ3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BF",
+    "headquarters": "Ouagadougou",
+    "placeholder": true
+  }
+]

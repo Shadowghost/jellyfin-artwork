@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Wholesome Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143463"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

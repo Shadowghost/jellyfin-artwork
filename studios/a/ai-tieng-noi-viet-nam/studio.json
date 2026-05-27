@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Đài Tiếng nói Việt Nam",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289680",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eYs8eWYysxm6N5CFPi43JOl4c7g.png"
+      }
+    ],
+    "artwork": {},
+    "country": "VN",
+    "homepage": "https://vov.gov.vn",
+    "headquarters": "Trung tâm Phát thanh Quốc gia, số 58 phố Quán Sứ, phường Cửa Nam, thành phố Hà Nội, Việt Nam",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KINEMA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13338",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9ZmugAA5bDuUGQFMtRo8824Mbl9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LT",
+    "homepage": "https://www.kinema.lt/",
+    "headquarters": "Vilnius",
+    "placeholder": true
+  }
+]

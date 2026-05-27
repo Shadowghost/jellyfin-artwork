@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Eat Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203760"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

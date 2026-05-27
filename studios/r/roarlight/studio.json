@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Roarlight",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "182912",
+        "logo_uri": "https://image.tmdb.org/t/p/original/smbFMBpRUDpCTtaxYzxjBKMkiTO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.roarlight.com",
+    "placeholder": true
+  }
+]

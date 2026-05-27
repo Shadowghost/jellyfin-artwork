@@ -1,0 +1,15 @@
+[
+  {
+    "name": "AKOM Production Company",
+    "country": "KR",
+    "homepage": "http://www.akomkorea.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80853"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

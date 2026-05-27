@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Square production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "227216"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

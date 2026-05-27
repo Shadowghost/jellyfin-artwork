@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Gutenberghus",
+    "country": "DK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7962"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

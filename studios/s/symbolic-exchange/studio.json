@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Symbolic Exchange",
+    "country": "US",
+    "headquarters": "New York, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103536"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

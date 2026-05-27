@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pyramid",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96953",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kXYYcyVAEWTeOCS0RiD927dRdyo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://pyramidfilm.ru",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

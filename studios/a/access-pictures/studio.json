@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Access Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2826"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

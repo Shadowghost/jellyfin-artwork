@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Kas'Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214101",
+        "logo_uri": "https://image.tmdb.org/t/p/original/psP5XJUAZG42PkwYQQ7Nlv3v3qJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

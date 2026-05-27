@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Waterfront Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71815",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4zGECeowGlsOrtphIkyi08BBCFr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BG",
+    "homepage": "https://waterfrontfilm.net",
+    "headquarters": "Sofia, Sofia City",
+    "placeholder": true
+  }
+]

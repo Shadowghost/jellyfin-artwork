@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Reprodutora",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208453"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

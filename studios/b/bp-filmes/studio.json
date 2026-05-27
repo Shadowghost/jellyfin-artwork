@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BP Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160993"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

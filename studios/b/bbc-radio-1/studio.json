@@ -1,0 +1,29 @@
+[
+  {
+    "name": "BBC Radio 1",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69415",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9HmYGZVwixD7ect1YR2w1drcqq1.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "GB",
+    "homepage": "https://www.bbc.co.uk/radio1",
+    "template": true
+  }
+]

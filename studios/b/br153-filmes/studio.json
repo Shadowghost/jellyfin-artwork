@@ -1,0 +1,14 @@
+[
+  {
+    "name": "BR153 Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174238"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

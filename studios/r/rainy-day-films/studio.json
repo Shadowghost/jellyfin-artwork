@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Rainy Day Films",
+    "country": "GB",
+    "homepage": "http://www.rainydayfilms.co.uk",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45191"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

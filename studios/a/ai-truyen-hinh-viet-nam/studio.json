@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Đài Truyền hình Việt Nam",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210366",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hGRrnFuyYQ6N3ZDJGBOrpNQtlnj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "VN",
+    "homepage": "https://vtv.gov.vn",
+    "headquarters": "Số 43 đường Nguyễn Chí Thanh, phường Giảng Võ, thành phố Hà Nội, Việt Nam",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ampel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170175"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Phoenix Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122544",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ynP0GOiC6YpmSkZfllb08RM538K.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HK",
+    "homepage": "https://www.ifeng.com/",
+    "placeholder": true
+  }
+]

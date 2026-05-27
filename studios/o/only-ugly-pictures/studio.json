@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Only Ugly Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "232585"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

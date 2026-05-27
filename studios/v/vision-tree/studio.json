@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Vision Tree",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102969"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

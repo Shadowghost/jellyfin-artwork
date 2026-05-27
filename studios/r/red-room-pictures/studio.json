@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Red Room Pictures",
+    "country": "US",
+    "homepage": "https://mikeflanaganfilm.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230188",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3fcDHrejilPCzhDkgSd49R2ttfz.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

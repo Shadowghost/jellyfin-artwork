@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Tri-State Pictures",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50914"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

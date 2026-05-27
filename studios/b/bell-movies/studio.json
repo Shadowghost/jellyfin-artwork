@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bell Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63119"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

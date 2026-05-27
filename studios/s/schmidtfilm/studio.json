@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Schmidtfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143370"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.schmidt-film.com",
+    "headquarters": "Leipzig",
+    "placeholder": true
+  }
+]

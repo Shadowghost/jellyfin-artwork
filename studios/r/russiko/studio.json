@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Russiko",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203000"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

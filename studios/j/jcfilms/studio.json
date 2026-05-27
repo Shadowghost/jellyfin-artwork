@@ -1,0 +1,17 @@
+[
+  {
+    "name": "JCFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112350",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sES78QueD3qJ3CG8dezySKzBkVa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://jcfilms.org",
+    "headquarters": "Bridgeport, West Virginia",
+    "placeholder": true
+  }
+]

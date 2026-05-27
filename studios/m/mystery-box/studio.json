@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mystery Box",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213859",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lc3sHLuxiCZ377N904A1KwcrZGv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.mysterybox.us/",
+    "headquarters": "Vineyard, Utah",
+    "placeholder": true
+  }
+]

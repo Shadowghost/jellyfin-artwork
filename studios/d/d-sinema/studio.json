@@ -1,0 +1,16 @@
+[
+  {
+    "name": "D Sinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "267927",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kAXwShwRfLfau8NFhvVq1xgDphe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "August Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17576",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1MQcG1KC3wJ0qyYtU9FOwAZldag.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "homepage": "http://www.augustcinemaindia.in/",
+    "headquarters": "Thiruvananthapuram",
+    "placeholder": true
+  }
+]

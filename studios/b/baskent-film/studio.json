@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Başkent Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280508"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

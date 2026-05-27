@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Moi Animation",
+    "country": "KR",
+    "homepage": "https://www.moianimation.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8410"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

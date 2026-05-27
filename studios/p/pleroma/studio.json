@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pleroma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200500"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

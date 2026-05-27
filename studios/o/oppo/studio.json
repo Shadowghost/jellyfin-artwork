@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Oppo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109867",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zNdjXNl7uOfodPjhLiwmCOvbNYo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://www.oppo.com",
+    "headquarters": "Shenzhen, Guangdong, China",
+    "placeholder": true
+  }
+]

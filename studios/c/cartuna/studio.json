@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cartuna",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72768",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uLRLaFCxwy1OZqvEWYfycpRJAXq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.cartuna.com/",
+    "headquarters": "Brooklyn, New York",
+    "placeholder": true
+  }
+]

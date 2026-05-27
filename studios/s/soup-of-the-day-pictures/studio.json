@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Soup of the Day Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185692"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

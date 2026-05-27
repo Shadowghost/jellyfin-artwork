@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Incredible Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108148",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3uQcIexuoQKQOgYuVIdhwygtr9R.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://incrediblefilm.com",
+    "placeholder": true
+  }
+]

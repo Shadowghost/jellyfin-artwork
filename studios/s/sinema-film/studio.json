@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sinema-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224551"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

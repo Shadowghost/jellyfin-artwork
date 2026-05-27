@@ -1,0 +1,16 @@
+[
+  {
+    "name": "myTV SUPER",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "206592",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5Sd331jFGxtjgaozbJwCnDMeG6C.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HK",
+    "homepage": "https://www.mytvsuper.com/tc/home/",
+    "placeholder": true
+  }
+]

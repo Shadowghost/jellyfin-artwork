@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Rotana Studios",
+    "description": "Saudi Arabian entertainment company; Rotana Studios is the film production division of Rotana Group, the largest Arab entertainment company.",
+    "country": "SA",
+    "type": "production-company",
+    "homepage": "https://rotanastudios.com/",
+    "headquarters": "Riyadh",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11524",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zlVF3eMw9LiZRaEsoFaPrQKoNVz.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

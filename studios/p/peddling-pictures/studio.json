@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Peddling Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200122"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "https://www.peddlingpictures.com"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "VOX",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200892",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tfrd4tN4KOr9cWmMBI1xdhWc6v6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

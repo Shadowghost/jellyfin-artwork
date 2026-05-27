@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Paradox Produksjon",
+    "country": "NO",
+    "homepage": "https://www.paradox.no/",
+    "headquarters": "Oslo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5111",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cHPWFsOLLSX8Qw9FD9q3FqEnDSd.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

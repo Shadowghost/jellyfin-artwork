@@ -1,0 +1,16 @@
+[
+  {
+    "name": "LIVE VIEWING JAPAN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99256",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3JXZ6KNftienu8BCdiOxlHv4rba.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://liveviewing.jp/",
+    "placeholder": true
+  }
+]

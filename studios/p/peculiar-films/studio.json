@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Peculiar Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273684",
+        "logo_uri": "https://image.tmdb.org/t/p/original/y31362BVKdVYqLstIWRxuPfVeR3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "headquarters": "Barcelona",
+    "placeholder": true
+  }
+]

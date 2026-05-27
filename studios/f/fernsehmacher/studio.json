@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fernsehmacher",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "251939",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zfuX4J4psa4krBzuHqpdtCZoJtD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.fernsehmacher.de/",
+    "placeholder": true
+  }
+]

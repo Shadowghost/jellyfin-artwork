@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Two Piece",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289497",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gAQxFksgV5QQWbhAbzPjkHOj4td.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.twopiece-nyc.com",
+    "headquarters": "New York City",
+    "placeholder": true
+  }
+]

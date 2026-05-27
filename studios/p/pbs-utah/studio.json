@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PBS Utah",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163850",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rIZw6VmkrayG7ITZQmHjPcLBqzd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.pbsutah.org/",
+    "headquarters": "Dolores Doré Eccles Broadcast Center (EBC) 101 S. Wasatch Dr. Salt Lake City, Utah 84112",
+    "placeholder": true
+  }
+]

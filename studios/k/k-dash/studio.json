@@ -1,0 +1,16 @@
+[
+  {
+    "name": "K DASH",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106001",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dH3zNmXCfFFoqiA6cnMRmnPik6M.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.kdash.jp/",
+    "placeholder": true
+  }
+]

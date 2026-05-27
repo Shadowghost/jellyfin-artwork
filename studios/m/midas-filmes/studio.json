@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Midas Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9205",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xgWTV26uLEhZALJ3BxN9WZtmDUw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "http://www.midas-filmes.pt",
+    "headquarters": "Lisboa",
+    "placeholder": true
+  }
+]

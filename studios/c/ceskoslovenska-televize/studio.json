@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Československá televize",
+    "country": "XC",
+    "headquarters": "Prague",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18369",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mDjPjvkTpRywYMGcuNReCe4xWbG.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

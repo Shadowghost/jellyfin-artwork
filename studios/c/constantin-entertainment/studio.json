@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Constantin Entertainment",
+    "country": "DE",
+    "homepage": "https://www.constantin-entertainment.de",
+    "headquarters": "Ismaning",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80748",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hFeRxvOms7shorn3qbmXVaUaGCn.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

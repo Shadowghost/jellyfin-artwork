@@ -1,0 +1,13 @@
+[
+  {
+    "name": "World Channel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157247"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

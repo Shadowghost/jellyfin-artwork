@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Discovery Next",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "274862",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rPTZ7iWT2EfNSr7b3OEcZTL8bad.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.discovery-n.co.jp/",
+    "placeholder": true
+  }
+]

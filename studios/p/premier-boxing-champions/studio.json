@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Premier Boxing Champions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183122",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A2wK9kBNAQmVex9yEQNdsKRO7YB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.premierboxingchampions.com/",
+    "headquarters": "Haymon Boxing, 1180 North Town Center Drive, Suite 100, Las Vegas, NV, 89144",
+    "placeholder": true
+  }
+]

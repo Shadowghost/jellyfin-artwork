@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Peking Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89272",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zJVtotZyNl1b8cuSnncaNiTjqbe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://www.pekingpictures.com/",
+    "headquarters": "Ballarat, Victoria",
+    "placeholder": true
+  }
+]

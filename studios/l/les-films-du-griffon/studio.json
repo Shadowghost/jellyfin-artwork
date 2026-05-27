@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Les Films du Griffon",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4268"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

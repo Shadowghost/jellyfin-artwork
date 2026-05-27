@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Globe",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116209"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

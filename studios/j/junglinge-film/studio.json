@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jünglinge Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121904",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kGiwUTvL8LJPLgjsq3Hls3UYxyW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://juenglinge-film.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

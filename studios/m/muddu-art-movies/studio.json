@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Muddu Art Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165939"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

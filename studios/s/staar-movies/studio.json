@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Staar Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69114"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

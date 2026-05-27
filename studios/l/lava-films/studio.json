@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lava Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51112",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kWLbDFg6koYqFMYjmjcifeBFB8F.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://lavafilms.pl",
+    "headquarters": "Lodz",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Supercell",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46120",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2rfLgt0sWCwJtchessv6Nw9AhGu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "headquarters": "Helsinki, Finland",
+    "placeholder": true
+  }
+]

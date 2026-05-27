@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Combat Zone",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7077",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fRDkexwEFcosq9JZ7qinxOysoM0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.combatzone.us",
+    "headquarters": "Chatsworth, California, USA",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kino Montréal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135260",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qGZnCm0uNm875wvVUnFX1UzNeCN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.kinomontreal.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

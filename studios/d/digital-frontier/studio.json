@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Digital Frontier",
+    "country": "JP",
+    "homepage": "https://www.dfx.co.jp/en/index.html",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3361",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sDKWkiVJRY0gn1j5NBseGKlgFyY.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

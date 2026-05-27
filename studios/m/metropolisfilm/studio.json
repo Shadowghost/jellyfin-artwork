@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Metropolisfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212816"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

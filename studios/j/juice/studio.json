@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Juice",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84347",
+        "logo_uri": "https://image.tmdb.org/t/p/original/523Eim7XNgnK07aC1NSiRuiu84N.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://www.j.studio/",
+    "placeholder": true
+  }
+]

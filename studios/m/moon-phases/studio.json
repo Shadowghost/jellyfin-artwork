@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Moon Phases",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "265480"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

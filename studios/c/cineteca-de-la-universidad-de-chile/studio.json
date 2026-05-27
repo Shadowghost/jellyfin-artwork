@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cineteca de la Universidad de Chile",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203505"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

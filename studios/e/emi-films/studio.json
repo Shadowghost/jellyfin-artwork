@@ -1,0 +1,16 @@
+[
+  {
+    "name": "EMI Films",
+    "country": "GB",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "538",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oGpxL5lFf8VpWsAQ6tut0on25LW.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

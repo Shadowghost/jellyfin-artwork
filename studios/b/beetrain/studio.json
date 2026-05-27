@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BeeTrain",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4289",
+        "logo_uri": "https://image.tmdb.org/t/p/original/giJ1metwaligmvKM8ZFFX96ATfN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.beetrain.co.jp",
+    "placeholder": true
+  }
+]

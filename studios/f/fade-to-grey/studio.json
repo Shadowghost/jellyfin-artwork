@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fade to grey",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183065"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

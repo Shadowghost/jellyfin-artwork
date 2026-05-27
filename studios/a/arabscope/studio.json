@@ -1,0 +1,13 @@
+[
+  {
+    "name": "arabscope",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233968"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

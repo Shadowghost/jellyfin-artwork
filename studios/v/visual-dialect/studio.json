@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Visual Dialect",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150862"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

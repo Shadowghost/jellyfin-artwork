@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Idéale Audience",
+    "country": "FR",
+    "homepage": "https://www.ideale-audience.com/en/catalogue",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2606",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2KJaKgKrsJE3JXpp2pf2TQpxomf.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

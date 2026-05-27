@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Fredagsfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142079"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.fredagsfilm.no/",
+    "placeholder": true
+  }
+]

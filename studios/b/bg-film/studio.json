@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BG Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "284748",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8FRj7ldmiRJIzwIS51HjU9jMNJz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://bgfilmcilik.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

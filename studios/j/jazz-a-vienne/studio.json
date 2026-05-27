@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jazz à Vienne",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172739",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w5h4x8YvFb23K8XShQQS4eYuAH8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.jazzavienne.com/fr",
+    "headquarters": "Vienne",
+    "placeholder": true
+  }
+]

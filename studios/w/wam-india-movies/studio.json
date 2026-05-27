@@ -1,0 +1,13 @@
+[
+  {
+    "name": "WAM India Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63480"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

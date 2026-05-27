@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Tabla Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "292710"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

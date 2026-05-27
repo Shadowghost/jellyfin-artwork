@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FBE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155689",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m7vcuzspbOnaAsOFuFNGQpN2e6D.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://fbereact.com",
+    "headquarters": "Los Angeles",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pirata Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "261526"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Production Crate",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172974"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

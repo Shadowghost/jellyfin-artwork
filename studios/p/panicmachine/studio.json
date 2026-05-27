@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PanicMachine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "195464"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Arbetarnas Bildningsförbund",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17545",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eF4qXwlmBaLwgaevfAIpMzEttio.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.abf.se/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

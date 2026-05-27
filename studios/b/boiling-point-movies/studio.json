@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Boiling Point Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224355"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

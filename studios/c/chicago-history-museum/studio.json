@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Chicago History Museum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174316"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

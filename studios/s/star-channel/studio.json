@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Star Channel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109165"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

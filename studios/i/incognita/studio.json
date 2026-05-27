@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Incognita",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76297",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4Sb0bPPIycFpIK9J9HDQk4jpNG5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.incognita.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

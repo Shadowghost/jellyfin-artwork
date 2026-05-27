@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Slackjaw Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16423",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zQVmJaEDCzBfwbthZILQQN1LXoX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.slackjaw.co.uk/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Platforma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101087"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Scientifilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13544",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2tRcH7g8JVwJOfnZoKDUOSyPa5m.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.scientifilms.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

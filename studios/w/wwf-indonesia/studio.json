@@ -1,0 +1,16 @@
+[
+  {
+    "name": "WWF Indonesia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123221",
+        "logo_uri": "https://image.tmdb.org/t/p/original/reyIdDf4M6BNii26BGS7w78vwpl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "homepage": "https://www.wwf.id/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Boulevard Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "43322",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bYGyq0huzONaFewFbwhqxYCUoTq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.boulevardfilmes.com.br/",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

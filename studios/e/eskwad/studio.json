@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Eskwad",
+    "country": "FR",
+    "homepage": "http://www.eskwad.fr",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "616",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aeBPwUMUqIOFnt3Fxv9fC91hBuq.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

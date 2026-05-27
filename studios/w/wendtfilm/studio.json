@@ -1,0 +1,14 @@
+[
+  {
+    "name": "wendtfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122327"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "http://www.wendtfilm.de/"
+  }
+]

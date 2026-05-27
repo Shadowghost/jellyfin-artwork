@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Barbería Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256638",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aKpxGnd2iMusolqrhMKy1tROh48.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.labarberiafilms.com/",
+    "headquarters": "Sevilla, Andalusia",
+    "placeholder": true
+  }
+]

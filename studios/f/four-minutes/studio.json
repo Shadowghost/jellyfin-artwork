@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Four Minutes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123538",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iIjkKt3t9Si5dvvcBFfoJT5pHlw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.fourminutes-film.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

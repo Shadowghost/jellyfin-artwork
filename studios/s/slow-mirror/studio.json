@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Slow Mirror",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219336"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "why? prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213085"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Hawaii News Now",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141686",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i9kgKvfZjYJgx5qCM4PGexx9LOp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.hawaiinewsnow.com/",
+    "placeholder": true
+  }
+]

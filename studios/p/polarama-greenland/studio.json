@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Polarama Greenland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213199",
+        "logo_uri": "https://image.tmdb.org/t/p/original/twu1C33vuURZA8o2IozVzgxTymc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GL",
+    "homepage": "https://www.polarama.is/polarama/",
+    "headquarters": "Nuuk",
+    "placeholder": true
+  }
+]

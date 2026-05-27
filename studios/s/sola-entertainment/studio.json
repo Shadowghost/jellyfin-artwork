@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sola Entertainment",
+    "country": "JP",
+    "homepage": "http://sola-ent.com/",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "169947",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sg9CIYwE3UFszpI4jMR4LmayLwc.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

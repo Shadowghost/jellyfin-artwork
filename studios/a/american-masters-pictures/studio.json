@@ -1,0 +1,16 @@
+[
+  {
+    "name": "American Masters Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99614",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gXrb4q4TqBHCYEvjRa16WOE9NRs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.pbs.org/wnet/americanmasters",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kinomatik",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185516",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kX3SFZc5jbEtmcIJYxvnFTc5TIv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.kinomatik.fr/",
+    "headquarters": "Marseille",
+    "placeholder": true
+  }
+]

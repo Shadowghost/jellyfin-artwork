@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Salt Picturehouse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283145"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

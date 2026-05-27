@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Viva Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8356",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tais5f60IAWlBZvkU8KwjGvBUc4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PH",
+    "homepage": "http://www.viva.com.ph/entertainment/films/coming-soon",
+    "headquarters": "Quezon City",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TBS Radio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91253",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aD91ywW7l93wk9N0fNX8URMgQSC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.tbsradio.jp/",
+    "placeholder": true
+  }
+]

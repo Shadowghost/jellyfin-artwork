@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Posh Picturehouse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221679"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

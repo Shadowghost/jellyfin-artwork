@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Oublaum Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117982",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oLPjtmqrNbIaVIg4LWKqZlnHiKa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "https://oublaum.com/",
+    "headquarters": "Lisbon",
+    "placeholder": true
+  }
+]

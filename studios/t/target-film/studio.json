@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Target Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271923"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

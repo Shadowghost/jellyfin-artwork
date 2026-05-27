@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Petquila Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82977"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "placeholder": true
+  }
+]

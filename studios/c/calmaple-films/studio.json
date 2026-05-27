@@ -1,0 +1,14 @@
+[
+  {
+    "name": "CalMaple Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107107"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

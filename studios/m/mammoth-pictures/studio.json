@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mammoth Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148378",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fKbO9AfFPgeqoUp2XUrfJYQ8FiO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://mammothpictures.com",
+    "placeholder": true
+  }
+]

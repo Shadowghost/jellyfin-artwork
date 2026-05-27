@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rockzeline",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87533",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t0y8nT0FT41JXSK0GlFKrx4CzR6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.rockzeline.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

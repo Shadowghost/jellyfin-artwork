@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Centre Vidéo de Bruxelles",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76697",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p9mt0k93kW7DkpIasB6PTLhxRl0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://cvb.be",
+    "headquarters": "Bruxelles",
+    "placeholder": true
+  }
+]

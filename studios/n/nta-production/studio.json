@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NTA Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102333"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Photo Planet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38270"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

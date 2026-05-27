@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sports Illustrated",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "65234",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2XP8ItyELuI7ouPA402LmBDtuvx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.si.com/",
+    "placeholder": true
+  }
+]

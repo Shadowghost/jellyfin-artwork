@@ -1,0 +1,13 @@
+[
+  {
+    "name": "EAN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "229519"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

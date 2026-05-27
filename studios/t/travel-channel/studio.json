@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Travel Channel",
+    "description": "American basic cable television channel owned by Warner Bros. Discovery, focusing on travel-themed programming.",
+    "country": "US",
+    "type": "cable-network",
+    "homepage": "http://travelchannel.com",
+    "headquarters": "New York, NY, USA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "57980",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vWZNEkfw7u0zEHTLScAAKcgO2uS.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

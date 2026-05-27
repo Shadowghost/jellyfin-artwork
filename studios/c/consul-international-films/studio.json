@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Consul International Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4849"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

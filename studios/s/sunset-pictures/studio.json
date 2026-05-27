@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sunset Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21792",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kRVU791IGotgqcnNnLaNz8wKt0j.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.sunsetpictures.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MyContent Distribution",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245819"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

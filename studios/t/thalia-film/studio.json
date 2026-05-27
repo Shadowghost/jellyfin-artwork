@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Thalia-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30630"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "placeholder": true
+  }
+]

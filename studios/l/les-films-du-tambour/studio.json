@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Les Films du Tambour",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51609",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v2OFEFeiZuVd9iLYlQ0BwkiUHgv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

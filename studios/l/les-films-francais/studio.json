@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les Films Français",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16782"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

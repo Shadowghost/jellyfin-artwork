@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Strada Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5828",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gyXBCNkohhytvC96YdMa6An0a78.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "homepage": "http://www.stradafilm.ro",
+    "headquarters": "Bucharest",
+    "placeholder": true
+  }
+]

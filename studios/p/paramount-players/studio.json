@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Paramount Players",
+    "description": "American film production label of Paramount Pictures, focused on producing genre and youth-oriented films using ViacomCBS/Paramount Global properties.",
+    "country": "US",
+    "type": "studio",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96540",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AgYjTNeIKOh0yvegPLSjq8EOsif.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

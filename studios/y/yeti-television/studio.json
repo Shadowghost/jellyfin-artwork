@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Yeti Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217117",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ul8xG9n2POsvU1W4VrZtVLysSHR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://yetitelevision.com",
+    "headquarters": "Caernarfon, Wales",
+    "placeholder": true
+  }
+]

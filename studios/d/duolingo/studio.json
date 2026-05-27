@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Duolingo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250262",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9yMe5qO7JsUNk8lMS0UmwPFjEus.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.duolingo.com",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Amazon MGM Studios",
+    "country": "US",
+    "homepage": "https://mgm.com",
+    "headquarters": "Culver City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210099",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

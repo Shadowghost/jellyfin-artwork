@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Estrella TV",
+    "description": "American Spanish-language broadcast television network owned by Estrella Media, targeting U.S. Hispanic audiences.",
+    "country": "US",
+    "type": "broadcast-network",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

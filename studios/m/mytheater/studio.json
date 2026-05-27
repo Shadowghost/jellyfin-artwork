@@ -1,0 +1,13 @@
+[
+  {
+    "name": "mytheater",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99255"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

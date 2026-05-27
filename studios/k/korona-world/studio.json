@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Korona World",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256537",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9tGx1naFV3n61e7f3BI28jvi0WR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.korona.co.jp/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "LUV Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85334",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l5cbo6KR6aRBoVfhFPzx8z5ndYs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "homepage": "http://luvfilms.in",
+    "headquarters": "Mumbai",
+    "placeholder": true
+  }
+]

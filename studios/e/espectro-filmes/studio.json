@@ -1,0 +1,13 @@
+[
+  {
+    "name": "espectro filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "291772"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

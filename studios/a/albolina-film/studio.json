@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Albolina Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103135",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ffj2JNRaYdNTv8iyWau4W4LGiQJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.albolina.org/",
+    "headquarters": "Bolzano",
+    "placeholder": true
+  }
+]

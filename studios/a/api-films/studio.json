@@ -1,0 +1,13 @@
+[
+  {
+    "name": "API Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100022"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

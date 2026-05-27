@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Chubu-nippon Broadcasting Company",
+    "description": "Japanese commercial radio and television broadcaster headquartered in Nagoya, affiliated with JNN/TBS network; Japan's first commercial broadcaster.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6952"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Chubu-Nippon Broadcasting"
+    ],
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "EnterFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204755"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

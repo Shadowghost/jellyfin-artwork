@@ -1,0 +1,13 @@
+[
+  {
+    "name": "New York Shakespeare Exchange",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100899"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

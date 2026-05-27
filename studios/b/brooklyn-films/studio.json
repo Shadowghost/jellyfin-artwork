@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Brooklyn Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35000"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

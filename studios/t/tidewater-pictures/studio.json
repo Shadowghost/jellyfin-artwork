@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tidewater Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "228961",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eD0DZ4Im5ayB44ctb6siIQw3fNb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://tidewater-pictures.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

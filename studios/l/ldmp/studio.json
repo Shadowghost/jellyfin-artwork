@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LDMP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143789"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

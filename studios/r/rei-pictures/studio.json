@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rei Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37159",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aZxA9srDC56wBl7ppYEAB2ZPSP2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://reipictures.com",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

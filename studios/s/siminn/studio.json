@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Síminn",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "227107",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pavFKlPlBVhWfymoFsy0n7nvUJ6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IS",
+    "homepage": "https://www.siminn.is/",
+    "headquarters": "Reykjavík",
+    "placeholder": true
+  }
+]

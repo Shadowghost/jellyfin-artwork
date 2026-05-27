@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Song Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225952"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

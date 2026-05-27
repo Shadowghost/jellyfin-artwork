@@ -1,0 +1,17 @@
+[
+  {
+    "name": "qooop",
+    "country": "JP",
+    "homepage": "https://www.qooop.co.jp/",
+    "headquarters": "Minato, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210347",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bOIpaZUmTFwnpqMYbQduFuf2uY8.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

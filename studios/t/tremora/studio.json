@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tremora",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19118",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eM2bob2r7Zmwlbx5YPSeqs4Vm1X.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LT",
+    "homepage": "https://tremora.com/",
+    "headquarters": "Vilnius",
+    "placeholder": true
+  }
+]

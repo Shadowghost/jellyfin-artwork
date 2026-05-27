@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Big World Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91726",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6RHosrjNEdoJqV8bOiVqz68XiX8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ZA",
+    "homepage": "http://bigworldcinema.com",
+    "headquarters": "Cape Town",
+    "placeholder": true
+  }
+]

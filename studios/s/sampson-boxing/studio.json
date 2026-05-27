@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sampson Boxing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210736",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gLx052iaD3yZ2E2oajKEpRfDGNM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.sampsonboxing.com/",
+    "placeholder": true
+  }
+]

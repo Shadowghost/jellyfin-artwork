@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Unicorn Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172306"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

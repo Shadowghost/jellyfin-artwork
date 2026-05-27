@@ -1,0 +1,16 @@
+[
+  {
+    "name": "FLaMme",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129523",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xXNSOVLkSpnsubPvAAvDSf6UPlL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.flamme.co.jp/",
+    "placeholder": true
+  }
+]

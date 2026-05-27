@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sound Domain",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99881"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

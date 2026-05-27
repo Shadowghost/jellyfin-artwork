@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Maquina",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290546"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

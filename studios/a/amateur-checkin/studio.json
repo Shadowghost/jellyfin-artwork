@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Amateur Checkin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108251"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

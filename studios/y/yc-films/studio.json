@@ -1,0 +1,13 @@
+[
+  {
+    "name": "YC-Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "251303"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

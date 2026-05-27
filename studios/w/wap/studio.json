@@ -1,0 +1,13 @@
+[
+  {
+    "name": "WAP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90256"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "EuroASK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111331"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

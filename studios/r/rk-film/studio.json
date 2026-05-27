@@ -1,0 +1,13 @@
+[
+  {
+    "name": "rk-film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138697"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Les Films en Hiver",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7825"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.les-films-en-hiver.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

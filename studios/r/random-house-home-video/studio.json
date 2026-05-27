@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Random House Home Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8823",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h1h2jSXAeBvrjbAyPuHGXg9eZwv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

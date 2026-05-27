@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Academia de Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "87456",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qCt0OTlEeX6ERSQIHcpiElYnhau.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.academiadefilmes.com.br",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

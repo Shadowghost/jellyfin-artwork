@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Block Media Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203025",
+        "logo_uri": "https://image.tmdb.org/t/p/original/64xf0uu3lx5HlYMPs4pbsJn7pan.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://www.blockmedia.tv/",
+    "headquarters": "Ciudad de México, México",
+    "placeholder": true
+  }
+]

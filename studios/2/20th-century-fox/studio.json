@@ -1,0 +1,45 @@
+[
+  {
+    "name": "20th Century Fox",
+    "description": "American film studio founded via merger of Fox Film and Twentieth Century Pictures, now a subsidiary of Walt Disney Studios.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "https://www.20thcenturystudios.com",
+    "headquarters": "Los Angeles, California",
+    "colors": [
+      {
+        "name": "Fox Gold",
+        "hex": "#B98C32"
+      },
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127928",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h0rjX5vjW5r8yEnUBStFarjcLT4.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "20th Century Studios"
+    ],
+    "template": true
+  }
+]

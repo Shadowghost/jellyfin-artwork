@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GEDI Visual",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "278464",
+        "logo_uri": "https://image.tmdb.org/t/p/original/98xiN81hWc7Oxhd36a04cm3A3Hb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.gedivisual.it/",
+    "headquarters": "Via Ernesto Lugaro n. 15 – 10126 TORINO",
+    "placeholder": true
+  }
+]

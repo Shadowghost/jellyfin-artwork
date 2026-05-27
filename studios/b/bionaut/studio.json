@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bionaut",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34256",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wBec7lBwbscan3pcBdZUS4i5wcf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://bionaut.cz",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

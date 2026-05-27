@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Incamera",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290246"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pictures in a Frame",
+    "country": "DE",
+    "homepage": "https://www.picturesinaframe.de/",
+    "headquarters": "Grünwald, Bavaria",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66751",
+        "logo_uri": "https://image.tmdb.org/t/p/original/89kSVam30IQrA7Ac8HRgqCSRwTU.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

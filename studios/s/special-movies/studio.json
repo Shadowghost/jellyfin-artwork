@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Special Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "184318"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

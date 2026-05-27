@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RMC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "247483",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iVLCH7Ay5NrzRUQW3um8GZZQEA6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://rmc.bfmtv.com/",
+    "headquarters": "2 Rue du Général-Alain-de-Boissieu, 75015 Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "13CO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180432"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

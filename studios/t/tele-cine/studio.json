@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tele Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49302"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

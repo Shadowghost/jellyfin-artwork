@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Univerzita Palackého v Olomouci",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185600"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.upol.cz/",
+    "headquarters": "Olomouc",
+    "placeholder": true
+  }
+]

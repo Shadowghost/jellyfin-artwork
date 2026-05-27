@@ -1,0 +1,14 @@
+[
+  {
+    "name": "White Eagle",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21919"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

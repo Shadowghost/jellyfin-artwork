@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Reinvent Yellow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290125",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e24UDpMgBACRGkN7X0aRyujGN8A.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://reinvent.dk",
+    "headquarters": "Copenhagen",
+    "placeholder": true
+  }
+]

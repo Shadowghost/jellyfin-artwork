@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Polot Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168786",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3llxAk0jjeCkpsECMO1xtmDCGw6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://polotmedia.pl",
+    "headquarters": "Wrocław",
+    "placeholder": true
+  }
+]

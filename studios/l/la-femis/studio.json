@@ -1,0 +1,17 @@
+[
+  {
+    "name": "La Fémis",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34935",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4JDPygYD7c8ZKXyD5zj9U1j3IvM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.femis.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

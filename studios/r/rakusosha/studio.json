@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Rakusosha",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "186150",
+        "logo_uri": "https://image.tmdb.org/t/p/original/50AoXTuaCsUM1GpU6Pc1TQnwBCI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://rakusosha.com/",
+    "placeholder": true
+  }
+]

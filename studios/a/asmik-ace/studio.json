@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Asmik Ace",
+    "country": "JP",
+    "homepage": "http://www.asmik-ace.co.jp",
+    "headquarters": "Chiyoda, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3033",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AwgX2FHGJd54aSWfWJqptFvT1h.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

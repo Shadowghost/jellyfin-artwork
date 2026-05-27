@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DC",
+    "country": "US",
+    "homepage": "https://www.dc.com/comics",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "429",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4Y00XuSMuP1gimd0jP6JT57QbCI.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

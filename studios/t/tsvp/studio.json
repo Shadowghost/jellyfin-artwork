@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TSVP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85979",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A5tJ4wnByy98VlnqmyOmETdez3y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://tsvp-prod.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

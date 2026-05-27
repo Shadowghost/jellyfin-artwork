@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Stora teatern",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153164",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9S3NV42uVVfiIEW8XxS1HPmn6Er.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://storateatern.se",
+    "headquarters": "Gothenburg",
+    "placeholder": true
+  }
+]

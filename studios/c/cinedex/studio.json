@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinedex",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82118"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

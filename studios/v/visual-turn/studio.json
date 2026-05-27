@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Visual Turn",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "282346"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

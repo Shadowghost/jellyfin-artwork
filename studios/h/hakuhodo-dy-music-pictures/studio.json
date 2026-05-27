@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Hakuhodo DY Music & Pictures",
+    "country": "JP",
+    "homepage": "https://www.hakuhodody-map.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142186",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bdXTOuU7PdsDtQngyM7vb47zePs.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

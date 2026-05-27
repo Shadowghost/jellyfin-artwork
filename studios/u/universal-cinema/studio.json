@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Universal Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40429"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Fabric",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217261"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

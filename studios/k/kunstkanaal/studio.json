@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kunstkanaal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234174"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

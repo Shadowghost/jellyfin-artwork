@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Westward",
+    "country": "US",
+    "homepage": "https://www.westward-productions.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166623",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rvmwTPf8K4tMFCSqzS4rKs9K0Eo.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

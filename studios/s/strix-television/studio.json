@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Strix Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4982",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jrYmyTLXXSBY3NgBc4u5CDHlZic.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://strix.se/",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Taskovski Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8654",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pGcpqGXiqNmkEvyKt2E3sMUwLy7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.taskovskifilms.com/",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

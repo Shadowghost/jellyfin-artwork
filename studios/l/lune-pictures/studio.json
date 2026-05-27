@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lune Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153406",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6XaoW530ZzUCsrTkN1ucEWfqTp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.lune-soft.jp/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Message Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "247422",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jex1WT9MboRpQBzCWcnNMI98WZ4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.messagepics.com",
+    "headquarters": "Brooklyn, New York City, New York",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Channel One",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92850"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

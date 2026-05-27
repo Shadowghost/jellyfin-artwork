@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Basset Hound Distribution",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143220",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9auzcLEiozgRfETCWj8p3aaKODO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

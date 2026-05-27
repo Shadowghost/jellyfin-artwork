@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Point Nemo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156383",
+        "logo_uri": "https://image.tmdb.org/t/p/original/km9cd2fDlKwJU4EEvfw3oDRe9KE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.pointnemofilm.it/",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

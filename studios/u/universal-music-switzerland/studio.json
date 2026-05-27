@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Universal Music Switzerland",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "178189",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sN6UKWX8mV49WNPk00Wfb0B8QII.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://universalmusic.ch",
+    "headquarters": "Zürich",
+    "placeholder": true
+  }
+]

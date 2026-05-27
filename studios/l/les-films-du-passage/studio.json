@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Les Films du Passage",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18888"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

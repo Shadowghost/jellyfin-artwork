@@ -1,0 +1,13 @@
+[
+  {
+    "name": "WKTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191104"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

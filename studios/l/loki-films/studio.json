@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Loki Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7370",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pFwK8QOAx3b1xq1c16YT2XgGMj5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://lokifilms.com",
+    "headquarters": "New York, New York",
+    "placeholder": true
+  }
+]

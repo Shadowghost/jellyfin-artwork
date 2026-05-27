@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Win the Day",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285851",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q4JHelEamHykvp0HYVqarYhtUTT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://www.wintheday.dk/",
+    "headquarters": "Copenhagen",
+    "placeholder": true
+  }
+]

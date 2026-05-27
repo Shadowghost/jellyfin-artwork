@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bolshoi Theatre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69714"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://www.bolshoi.ru/en",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

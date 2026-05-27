@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Werkteater",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116182"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Más Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225625"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

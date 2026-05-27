@@ -1,0 +1,16 @@
+[
+  {
+    "name": "EKHO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "237399",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5md0qnIAASEkJ22B6wbFyTeaaXh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

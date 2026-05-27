@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Advent Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170111"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

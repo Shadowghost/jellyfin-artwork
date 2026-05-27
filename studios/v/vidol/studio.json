@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Vidol",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "207419",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dqWfbLn3Se1fyI940fhSdqKcTlL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TW",
+    "homepage": "https://www.vidol.tv/",
+    "placeholder": true
+  }
+]

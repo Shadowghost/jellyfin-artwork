@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Window Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23232"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Black Snake",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21612"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

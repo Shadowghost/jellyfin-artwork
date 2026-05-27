@@ -1,0 +1,17 @@
+[
+  {
+    "name": "HORSE&FRUITS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101519",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bcOCnhhpTkBUPqgMSV1Ejhlm53U.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "homepage": "http://www.horseandfruits.com",
+    "headquarters": "Vienna",
+    "placeholder": true
+  }
+]

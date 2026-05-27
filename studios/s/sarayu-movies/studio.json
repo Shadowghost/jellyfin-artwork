@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sarayu Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52511"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Acrobates Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "172422",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1eg3CKZPCjVj4QroI8rlHgLv5le.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.acrobatesfilms.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "name": "The New York Times",
+    "description": "American daily newspaper based in New York City, founded in 1851; also produces documentary films and the FX/Hulu docu-series The Weekly.",
+    "country": "US",
+    "type": "news",
+    "colors": [
+      {
+        "name": "NYT Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "NYT White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32686",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6sDPxaKC0rGfxeWueXsYXu5YlDU.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

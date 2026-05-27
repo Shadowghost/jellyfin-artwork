@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Postworks New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202317",
+        "logo_uri": "https://image.tmdb.org/t/p/original/omKAavxcqgSWhtoIT56PrJmIskO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.postworks.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

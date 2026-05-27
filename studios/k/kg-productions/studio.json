@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KG Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123220",
+        "logo_uri": "https://image.tmdb.org/t/p/original/78WFEzOdyyCUrglTfnZi0CIYXsD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.kgproductions.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Taliesin Nexus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "278539",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jnVHnepOqE0BNHLQoGwXTV7CMlP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

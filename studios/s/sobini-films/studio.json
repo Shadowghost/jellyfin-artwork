@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sobini Films",
+    "country": "US",
+    "homepage": "http://www.sobinifilms.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13923",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wobbHfqb8lIBcsUxMOQEgMdVqsQ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

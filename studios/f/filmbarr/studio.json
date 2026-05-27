@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmbarr",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290364",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6OnXPrkJJfsZUEgWEaQGxE9YA4K.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://www.filmbarr.com/",
+    "headquarters": "Brisbane, Queensland",
+    "placeholder": true
+  }
+]

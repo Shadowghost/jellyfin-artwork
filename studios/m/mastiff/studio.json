@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mastiff",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115833",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wdYJBpDd05JSG2ayOshX9SF0X56.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://mastiff.no/",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

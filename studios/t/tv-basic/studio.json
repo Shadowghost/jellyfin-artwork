@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TV-Basic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131267"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Universal CGI",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1868"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

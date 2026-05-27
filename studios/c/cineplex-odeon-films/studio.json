@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Cineplex-Odeon Films",
+    "country": "CA",
+    "headquarters": "Toronto, Ontario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5231"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

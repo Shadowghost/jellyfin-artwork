@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Yofox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234312",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A3dTTu6GmLpjFyGfwRnbEOpQ4n8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "placeholder": true
+  }
+]

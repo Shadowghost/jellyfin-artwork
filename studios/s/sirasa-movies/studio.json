@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sirasa Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114660",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2IgaCLjxdycvZnb28bgwCI64REM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "LK",
+    "homepage": "http://sirasamovies.com/",
+    "headquarters": "Colombo, Sri Lanka",
+    "placeholder": true
+  }
+]

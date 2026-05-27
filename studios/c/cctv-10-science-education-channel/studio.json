@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CCTV-10 Science & Education Channel 中央电视台科教频道",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103205",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tJcBAKr51BF8pYkmM4k58RBhaRF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://tv.cctv.com/cctv10",
+    "headquarters": "中国,北京",
+    "placeholder": true
+  }
+]

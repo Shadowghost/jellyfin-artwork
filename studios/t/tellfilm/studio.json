@@ -1,0 +1,17 @@
+[
+  {
+    "name": "tellfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34086",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aBKkhycyubHlCsszV8KibiKZGg0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.tellfilm.ch/",
+    "headquarters": "Zürich",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Art et essai",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108505",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xRVAK6cm49VHIgWCHpr2ZQBUT9b.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.artessai.ca/",
+    "headquarters": "Montréal, Canada",
+    "placeholder": true
+  }
+]

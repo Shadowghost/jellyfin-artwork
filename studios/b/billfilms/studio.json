@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Billfilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200351",
+        "logo_uri": "https://image.tmdb.org/t/p/original/glTGNCFWojowiuR9QPrYlraDgNh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

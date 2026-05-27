@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Orange Iceberg Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159133",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wOWZlZCgp0qVmHlB1yt6CUelGyk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.orangeiceberg.ca",
+    "placeholder": true
+  }
+]

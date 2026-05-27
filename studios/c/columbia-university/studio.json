@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Columbia University",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50442",
+        "logo_uri": "https://image.tmdb.org/t/p/original/49nYSmmxCij9XO78g1qFa6fGcRP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

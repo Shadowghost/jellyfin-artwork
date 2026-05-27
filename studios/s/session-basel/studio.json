@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Session Basel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91493",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gVEEw2GM2mrV0bj1sBdVGC29eBS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.baloisesession.ch/",
+    "headquarters": "Basel",
+    "placeholder": true
+  }
+]

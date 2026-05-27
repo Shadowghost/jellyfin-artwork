@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Adelaide Film Festival",
+    "description": "Biennial international film festival held in Adelaide, South Australia.",
+    "country": "AU",
+    "type": "film-festival",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

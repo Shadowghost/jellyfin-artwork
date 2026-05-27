@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BS11",
+    "country": "JP",
+    "homepage": "https://www.bs11.jp/",
+    "headquarters": "Chiyoda, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118502",
+        "logo_uri": "https://image.tmdb.org/t/p/original/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

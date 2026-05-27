@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MWBTF",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "287140",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vhzkgYhAvI5U6IhGy3IzJUGuriV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://mwbtf.org",
+    "headquarters": "Gangnam, Seoul, South Korea",
+    "placeholder": true
+  }
+]

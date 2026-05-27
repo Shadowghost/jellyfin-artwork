@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Filme de Roupa",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "267612",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pARpeWoCvnEcLXOFnDJympRZTMM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "headquarters": "Rio de Janeiro, RJ",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "HARVEST FILM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250560",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4jXfugd4ObnQOhdEslGvnFVl90C.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://harvest-film.tokyo/",
+    "placeholder": true
+  }
+]

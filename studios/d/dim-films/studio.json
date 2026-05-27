@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DIM Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197411",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l42cW0qmGtF0zunqDqgTshUKAH2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://dimfilms.com/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

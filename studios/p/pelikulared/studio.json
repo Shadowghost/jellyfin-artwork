@@ -1,0 +1,15 @@
+[
+  {
+    "name": "PelikulaRED",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15810",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9GKYJ0DPhTk6aJt1mrXho45IBpU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PH",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "COFFI Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130862",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8cZnyNwphjWtDBqaPPjiMeZDNve.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://coffi-festival.it",
+    "headquarters": "Salerno, Italy",
+    "placeholder": true
+  }
+]

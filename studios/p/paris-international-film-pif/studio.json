@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Paris International Film (PIF)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210377"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Snitch Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "59009",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6DQSOkjVc8i9X6Rwjiz3GWXI2eq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.snitchpictures.com",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

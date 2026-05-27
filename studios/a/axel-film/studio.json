@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Axel Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99677",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1IAeYNQdZ5a0SQ2mwr2UIuk5mtH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "homepage": "https://axelfilm.ro/",
+    "headquarters": "Bucharest",
+    "placeholder": true
+  }
+]

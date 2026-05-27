@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Compagnie des Guides de Chamonix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "261732",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8Vy2sJ0rm7yaLFQvhIByQpaAro3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.chamonix-guides.com",
+    "headquarters": "Compagnie des Guides de Chamonix, 190 Place de l'Église, Chamonix-Mont-Blanc,France",
+    "placeholder": true
+  }
+]

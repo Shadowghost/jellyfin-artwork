@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ZDFinfo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158863",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jesjyrCXGl2f7mHWM9ROiQuepA7.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "DE",
+    "homepage": "http://info.zdf.de/",
+    "headquarters": "Mainz",
+    "template": true
+  }
+]

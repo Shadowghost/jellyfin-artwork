@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RTVC - Sistema de Medios Públicos",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8201",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yACHKdjZoZJJAuttdGkR544H0kr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CO",
+    "homepage": "http://www.rtvc.gov.co/",
+    "headquarters": "Bogotá, Colombia",
+    "placeholder": true
+  }
+]

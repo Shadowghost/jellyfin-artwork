@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Thurnfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129473",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eWOjpS3o17jwlwEzU7TOeXKDXnN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.thurnfilm.de",
+    "placeholder": true
+  }
+]

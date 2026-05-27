@@ -1,0 +1,13 @@
+[
+  {
+    "name": "W Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271103"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

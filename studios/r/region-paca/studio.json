@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Region PACA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78987",
+        "logo_uri": "https://image.tmdb.org/t/p/original/a3mXqu3BB8UBXrc7PbkaBg13ruv.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

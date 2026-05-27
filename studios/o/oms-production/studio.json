@@ -1,0 +1,17 @@
+[
+  {
+    "name": "OMS Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203412",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8o31Frag7NVT7vL7VhsfXhGrs3b.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://produkce.onemanshow.cz/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

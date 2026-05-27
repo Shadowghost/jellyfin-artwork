@@ -1,0 +1,14 @@
+[
+  {
+    "name": "NACG",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95807"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

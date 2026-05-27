@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ruta 66",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16357"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

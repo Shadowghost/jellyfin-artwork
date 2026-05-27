@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Películas Mexicanas (Peli-Mex)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81991"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Patria",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "297100",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4pwm8i99XZnvDlpXPLOQBTtTGQc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CU",
+    "headquarters": "Havana",
+    "placeholder": true
+  }
+]

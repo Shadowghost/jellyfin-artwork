@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Media Attack",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91734",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sm7O3p9vXKzMypHJgTnU5FRygKS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://media-attack.tv/",
+    "headquarters": "Bilbao, Basque Country",
+    "placeholder": true
+  }
+]

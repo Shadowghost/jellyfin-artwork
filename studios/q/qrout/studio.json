@@ -1,0 +1,15 @@
+[
+  {
+    "name": "QROUT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250478"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://qrout.jp/",
+    "placeholder": true
+  }
+]

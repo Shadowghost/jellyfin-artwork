@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Krystallplaneten",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212431",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gBrhIfJzsVN5vqB8PmS9aT5LSKq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.krystallplaneten.no/",
+    "headquarters": "Tromsø",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Good Bad Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134303",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aaYoC08a2nSVpYn4IsxucldNh6O.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "headquarters": "Mumbai",
+    "placeholder": true
+  }
+]

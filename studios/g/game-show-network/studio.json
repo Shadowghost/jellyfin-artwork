@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Game Show Network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62491"
+      },
+      {
+        "provider_name": "tvdb",
+        "id": "116"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "game-show-network",
+    "template": true
+  }
+]

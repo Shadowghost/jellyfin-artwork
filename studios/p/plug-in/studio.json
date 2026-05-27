@@ -1,0 +1,13 @@
+[
+  {
+    "name": "plug_in",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "280702"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

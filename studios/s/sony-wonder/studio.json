@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sony Wonder",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "59311",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bOIFRsIQqZ5u2k8mqhYooBsnJvv.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

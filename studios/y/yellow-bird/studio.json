@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Yellow Bird",
+    "country": "SE",
+    "homepage": "https://yellowbird.se",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5746",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sWgSj9muRStENKBoIoaDK6OZmDu.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

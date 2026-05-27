@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Koncern TV og film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5563",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g2ozlYmAKKfly0sx8w8HktjBs9H.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://koncern.tv/",
+    "placeholder": true
+  }
+]

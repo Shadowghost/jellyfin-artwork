@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RTL Televizija",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166640",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uK1SJytO1HM70UpC1YGnTEw282f.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HR",
+    "homepage": "https://www.rtl.hr",
+    "headquarters": "Zagreb",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CinemaColor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96351"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

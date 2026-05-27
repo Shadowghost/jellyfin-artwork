@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SPI",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134286"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

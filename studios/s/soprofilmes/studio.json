@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SoproFilmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "247726"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

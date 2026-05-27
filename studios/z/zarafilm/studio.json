@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zarafilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101851",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bXKtYw5xhqIdT08FAEZF1FX6Pqb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://zaradoc.com/",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

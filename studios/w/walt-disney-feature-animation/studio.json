@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Walt Disney Feature Animation",
+    "description": "American animation studio that creates animated feature films, short films, and television specials for The Walt Disney Company; founded by Walt and Roy O. Disney.",
+    "country": "US",
+    "type": "studio",
+    "homepage": "https://www.disneyanimation.com/",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6125",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8bH86UPmMP8hlITzXV3XgV9eaAc.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Walt Disney Animation Studios"
+    ],
+    "template": true
+  }
+]

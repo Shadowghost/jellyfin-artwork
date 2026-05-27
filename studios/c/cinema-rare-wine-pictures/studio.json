@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Cinema Rare Wine Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147019",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3zfjEUVuktTeLw1pq70Q4Dfojb6.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "headquarters": "Cincinnati, Ohio"
+  }
+]

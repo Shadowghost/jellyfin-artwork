@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pelago film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77926",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cnGy0VrEZDHrYVeKU1sSqdYRDJt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://www.pelagofilm.com",
+    "headquarters": "Mariehamn",
+    "placeholder": true
+  }
+]

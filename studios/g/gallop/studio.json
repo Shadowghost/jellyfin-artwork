@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Gallop",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50879",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ngBzcij6R07oCrRWrm6MQXnYSYt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.anime-gallop.co.jp",
+    "placeholder": true
+  }
+]

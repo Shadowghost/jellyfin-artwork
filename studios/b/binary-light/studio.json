@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Binary Light",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95674",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xGM4kuLuDAQcrVbkfkSqIOxa7gy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://bilifi.com",
+    "headquarters": "Burbank, California",
+    "placeholder": true
+  }
+]

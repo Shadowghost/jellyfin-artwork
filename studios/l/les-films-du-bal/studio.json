@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Les Films du Bal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36496",
+        "logo_uri": "https://image.tmdb.org/t/p/original/96s5O54EI0hUeGi6BfolRXhLFKb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WOWMAX",
+    "country": "JP",
+    "homepage": "https://www.wowmax.co.jp/english/",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181155",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hM9boLS4ihfaTb3RJViMeqOyQY9.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

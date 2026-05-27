@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movies N More",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212932"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

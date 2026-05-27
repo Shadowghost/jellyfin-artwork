@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Serial Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17905"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

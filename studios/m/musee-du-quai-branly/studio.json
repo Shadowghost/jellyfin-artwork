@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Musée du Quai Branly",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108059",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ozpsqIutBn33J4kEOPRryZiew2F.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://quaibranly.fr/",
+    "headquarters": "37 Quai Branly, 75007 Paris",
+    "placeholder": true
+  }
+]

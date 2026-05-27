@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kimerafilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91946",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1uFfeKaa08sIxqM4Wq9DyhnsARL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.kimerafilm.com/",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

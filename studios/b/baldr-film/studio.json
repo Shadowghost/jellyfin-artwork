@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BALDR Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34574",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sKFIZJUuctmEgDJngtIXMPjaRZ9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.baldrfilm.nl/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

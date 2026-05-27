@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Video Spot",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "77011"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

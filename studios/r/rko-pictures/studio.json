@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RKO Pictures",
+    "country": "US",
+    "homepage": "https://rko.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46976",
+        "logo_uri": "https://image.tmdb.org/t/p/original/A8LyPh201AmDlyBley6r9R3SZYS.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ETA films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63611",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bHPC39cG5aAcuFnViWmRD59gzZ8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Beverly Hills, California",
+    "placeholder": true
+  }
+]

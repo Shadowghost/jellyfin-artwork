@@ -1,0 +1,17 @@
+[
+  {
+    "name": "filmpool fiction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17368",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i7pXtR7dMbba0nIkDYvaRA3kGyE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.filmpool-fiction.de/home.html",
+    "headquarters": "Hürth",
+    "placeholder": true
+  }
+]

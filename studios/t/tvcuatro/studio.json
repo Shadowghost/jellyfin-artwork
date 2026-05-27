@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TVCuatro",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192210",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8yAGUKhP0knieSrR5TJaRpLhZKr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://www.tvcuatro.com/",
+    "headquarters": "Guanajuato, MX",
+    "placeholder": true
+  }
+]

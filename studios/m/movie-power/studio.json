@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie Power",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75895"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

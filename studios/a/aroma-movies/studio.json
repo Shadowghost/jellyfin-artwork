@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Aroma Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58340"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

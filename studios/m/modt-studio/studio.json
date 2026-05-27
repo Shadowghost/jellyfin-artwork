@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MODT Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193983",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eknwx3odrqr2mrhMhCGvqFdX9eL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "http://modt.tv/",
+    "placeholder": true
+  }
+]

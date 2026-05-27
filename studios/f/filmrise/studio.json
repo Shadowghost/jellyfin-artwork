@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FilmRise",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98416",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fLEMBm5QIFs63sLYtEHBWNj1JQH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://filmrise.com/",
+    "headquarters": "Brooklyn, NY",
+    "placeholder": true
+  }
+]

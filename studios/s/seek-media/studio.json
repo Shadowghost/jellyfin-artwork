@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SEEK Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272686",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fhPyGJqvCTfK5xb6RdMliDbbmt1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.seekmediakorea.com/",
+    "placeholder": true
+  }
+]

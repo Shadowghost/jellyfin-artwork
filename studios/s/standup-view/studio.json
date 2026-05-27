@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Standup-view",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217476"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

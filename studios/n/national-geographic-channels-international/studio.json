@@ -1,0 +1,16 @@
+[
+  {
+    "name": "National Geographic Channels International",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123388",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fAtGS8zDA5g2Qovf7uwPgiD2zID.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.nationalgeographic.com/tv/",
+    "placeholder": true
+  }
+]

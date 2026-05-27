@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Purkur",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193937",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8CndLsq3hiIS2Cmhs6hCqiKCkUH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IS",
+    "homepage": "https://purkur.is/",
+    "headquarters": "Reykjavík",
+    "placeholder": true
+  }
+]

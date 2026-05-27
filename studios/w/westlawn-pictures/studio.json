@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Westlawn Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127055",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9BN4425Wk5Fu2RKmM9CkqbodPeJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.westlawnpictures.com/",
+    "placeholder": true
+  }
+]

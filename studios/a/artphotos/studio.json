@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Artphotos",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240089"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://www.artphotos.com.au",
+    "headquarters": "Adelaide",
+    "placeholder": true
+  }
+]

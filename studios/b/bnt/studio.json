@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BNT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74701",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tXlAkHJqG0Vf8fPnRPKwskEJlDK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BG",
+    "homepage": "http://bnt.bg",
+    "placeholder": true
+  }
+]

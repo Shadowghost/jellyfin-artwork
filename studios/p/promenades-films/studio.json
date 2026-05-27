@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Promenades Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76928",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vYxQmJPhzdqB91V9vaeZfaGTSHr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.promenadesfilms.com/",
+    "headquarters": "Marseille",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Elokuvayhtiö Testifilmi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113605",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w2aXKY7WGTTXA0FEYzJNdqGJTI0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "http://testifilmi.fi/",
+    "headquarters": "Sipoo",
+    "placeholder": true
+  }
+]

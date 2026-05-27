@@ -1,0 +1,14 @@
+[
+  {
+    "name": "The Best Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121201"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

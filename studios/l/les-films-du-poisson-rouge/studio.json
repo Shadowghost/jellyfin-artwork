@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films du poisson rouge",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130160",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4ZSZjnqP69Q038EtLBgxvxpkPGt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://lesfilmsdupoissonrouge.com/",
+    "headquarters": "37 Rue Louis Desbrandes, 16000 Angoulême",
+    "placeholder": true
+  }
+]

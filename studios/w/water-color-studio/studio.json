@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Water Color Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113766",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6tu98l58GHGeKXEPHwkj6SUSaON.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://watercolorfilm.com",
+    "placeholder": true
+  }
+]

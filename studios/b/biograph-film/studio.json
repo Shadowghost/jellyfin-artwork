@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Biograph-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29405"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

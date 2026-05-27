@@ -1,0 +1,17 @@
+[
+  {
+    "name": "L'Obs",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145979",
+        "logo_uri": "https://image.tmdb.org/t/p/original/woiIt0X2VFmgQf5uGBLBQzrvnsM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.nouvelobs.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

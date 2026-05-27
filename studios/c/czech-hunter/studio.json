@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Czech Hunter",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104112",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zWmZY29Q7LgaNZpISIh76CmGGhi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.czechhunter.com/",
+    "placeholder": true
+  }
+]

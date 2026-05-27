@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Caesar Film",
+    "country": "IT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "57992"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

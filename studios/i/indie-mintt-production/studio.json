@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Indie Mintt production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "254892"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

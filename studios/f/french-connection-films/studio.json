@@ -1,0 +1,17 @@
+[
+  {
+    "name": "French Connection Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90594",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4Z4FdPkPcuAn4CU9jC0LuJJAMwR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.frenchcx.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NBCUniversal Local",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249640",
+        "logo_uri": "https://image.tmdb.org/t/p/original/65ai14mqjW47Q4abvMjVlIGP9Fk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

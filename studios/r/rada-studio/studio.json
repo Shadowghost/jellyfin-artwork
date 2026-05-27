@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rada Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155007",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6XTX3FjGPMemntv2t9eJhgQ7oVB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://radastudio.org/",
+    "headquarters": "Brooklyn, New York",
+    "placeholder": true
+  }
+]

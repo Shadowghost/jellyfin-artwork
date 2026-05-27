@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ghost Pictures",
+    "country": "AU",
+    "homepage": "http://www.ghostfilm.net/",
+    "headquarters": "St Kilda, Victoria",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111240"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "OPUSNET",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170916"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

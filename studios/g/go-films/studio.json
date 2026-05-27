@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GO Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13313",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tun1rhS6dv5Z0m7mFCZqaJrUPjl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.gofilms.ca/en/",
+    "headquarters": "Montréal, Québec",
+    "placeholder": true
+  }
+]

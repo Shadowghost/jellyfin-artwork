@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Historic Muse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161004"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

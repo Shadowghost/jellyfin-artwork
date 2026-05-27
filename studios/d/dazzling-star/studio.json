@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Dazzling Star",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111595",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fAEOFqvlRKJbNAZ4qbChoqs1Djx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "placeholder": true
+  }
+]

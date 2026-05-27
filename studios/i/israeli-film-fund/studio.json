@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Israeli Film Fund",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4520",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cbTP5NRekgyIdIWjKCULenRF3p0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IL",
+    "homepage": "http://intl.filmfund.org.il/",
+    "headquarters": "Tel Aviv",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kunsthalle Zürich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116352"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

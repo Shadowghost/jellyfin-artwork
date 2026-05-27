@@ -1,0 +1,16 @@
+[
+  {
+    "name": "WWF-Brasil",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196176",
+        "logo_uri": "https://image.tmdb.org/t/p/original/reyIdDf4M6BNii26BGS7w78vwpl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.wwf.org.br/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Reserve Room",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10222"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Aview Images",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "237466",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6y01m2s7VUXh10ebhkvrzCp1eKn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TW",
+    "placeholder": true
+  }
+]

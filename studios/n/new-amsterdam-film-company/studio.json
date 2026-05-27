@@ -1,0 +1,17 @@
+[
+  {
+    "name": "New Amsterdam Film Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86593",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6v8GxWfpySUJD66fqYyP4yrPb3X.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://newams.com/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

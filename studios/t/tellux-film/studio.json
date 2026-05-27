@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TELLUX-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20276",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o32RqN5s3TZKz4VCKBI1WCmMQxk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.tellux.tv",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

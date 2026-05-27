@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Martange Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110369",
+        "logo_uri": "https://image.tmdb.org/t/p/original/girzZNbsSO1uJ4NTfKjRx3PWW8l.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.martange.fr/",
+    "headquarters": "Boulogne-Billancourt, France",
+    "placeholder": true
+  }
+]

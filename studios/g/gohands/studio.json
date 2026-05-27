@@ -1,0 +1,31 @@
+[
+  {
+    "name": "GoHands",
+    "description": "Japanese animation studio known for series such as K and Mardock Scramble.",
+    "country": "JP",
+    "type": "production-company",
+    "headquarters": "Osaka",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7759",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jZ6PgJimkzmKkqpunlaBgEkLPjv.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NAS",
+    "country": "JP",
+    "homepage": "https://nasinc.co.jp",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "53504"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

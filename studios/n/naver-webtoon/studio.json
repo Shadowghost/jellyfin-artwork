@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Naver Webtoon",
+    "country": "KR",
+    "homepage": "https://webtoonscorp.com/",
+    "headquarters": "Seongnam, Gyeonggi, South Korea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113564",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bvnlDklHxdCfuWnfial1StIaA9M.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

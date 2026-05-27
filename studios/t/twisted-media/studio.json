@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Twisted Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101832",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vO7CKIeogFxphT1CHkUIhjEXf2C.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.twistedmedia.com",
+    "headquarters": "Chicago & Los Angeles",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mona Lisa Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18762",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oJWmIqNYC4phwDpMuhGO9KNW07H.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.monalisa-prod.com",
+    "headquarters": "Lyon",
+    "placeholder": true
+  }
+]

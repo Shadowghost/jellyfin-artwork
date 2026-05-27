@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Sky Showcase",
+    "description": "British pay-television flagship entertainment channel operated by Sky Group, replacing Sky One in 2021.",
+    "country": "GB",
+    "type": "cable-network",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

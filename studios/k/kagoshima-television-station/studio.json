@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kagoshima Television Station",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256951",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ujL1zgs40tJMxNfc3p0QFHMSc1P.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.kts-tv.co.jp/",
+    "placeholder": true
+  }
+]

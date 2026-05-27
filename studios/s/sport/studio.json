@@ -1,0 +1,17 @@
+[
+  {
+    "name": "SPORT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122417",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pQiSunYd8ItzSA5Cb8Ru7AKGEQc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.chezsport.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Qimao Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221701"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://pictures.qimao.com/",
+    "placeholder": true
+  }
+]

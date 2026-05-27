@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Reinhardt-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2005"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Karlsruhe",
+    "placeholder": true
+  }
+]

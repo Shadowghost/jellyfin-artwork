@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les Films JMP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4850"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

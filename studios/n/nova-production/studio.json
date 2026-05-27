@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nova Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141951",
+        "logo_uri": "https://image.tmdb.org/t/p/original/87msvFLWR6zStUX21yS2aMYPPdD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.novaproduction.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

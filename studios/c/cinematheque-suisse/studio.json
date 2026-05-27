@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinémathèque Suisse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155858",
+        "logo_uri": "https://image.tmdb.org/t/p/original/euVgsJKlYuTYoIEuHqfR88aWTAJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.cinematheque.ch/",
+    "headquarters": "Casino de Montbenon CH-1002 Lausanne, Vaud, Suisse",
+    "placeholder": true
+  }
+]

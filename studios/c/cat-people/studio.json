@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cat People",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240088",
+        "logo_uri": "https://image.tmdb.org/t/p/original/40rBwyJ2c5iPH7U8AHX4YOBfnYj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.catpeoplefilms.com/",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

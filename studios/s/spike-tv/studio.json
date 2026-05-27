@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Spike TV",
+    "description": "American cable network owned by Viacom, rebranded from TNN in 2003 and again as Paramount Network in 2018; aimed at male audiences.",
+    "country": "US",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "59108"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

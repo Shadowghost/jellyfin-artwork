@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Televízia JOJ",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76750",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5jTfcrz0IUNrMA5Ant0Jh02GCVq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SK",
+    "homepage": "https://www.joj.sk",
+    "headquarters": "Bratislava",
+    "placeholder": true
+  }
+]

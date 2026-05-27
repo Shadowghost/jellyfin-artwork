@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Light Source & Imagery",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71185"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

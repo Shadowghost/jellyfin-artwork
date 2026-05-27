@@ -1,0 +1,13 @@
+[
+  {
+    "name": "filmbites",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98322"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

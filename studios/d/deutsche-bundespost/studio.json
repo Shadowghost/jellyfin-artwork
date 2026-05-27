@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Deutsche Bundespost",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218291"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Darmstadt",
+    "placeholder": true
+  }
+]

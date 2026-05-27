@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pergamon Film",
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109460"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

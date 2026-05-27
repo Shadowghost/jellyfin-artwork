@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Zhongce Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193520",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nCTY4Grbn14TJeo1k8xXQkmYSy2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://zhongcepicture.com/",
+    "placeholder": true
+  }
+]

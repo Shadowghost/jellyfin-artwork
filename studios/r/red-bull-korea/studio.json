@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Red Bull Korea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "237390",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9ST2SQAuHjt8GmnQwyIegfG3AjA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.redbull.com/kr-ko",
+    "headquarters": "Gangnam, Seoul, South Korea",
+    "placeholder": true
+  }
+]

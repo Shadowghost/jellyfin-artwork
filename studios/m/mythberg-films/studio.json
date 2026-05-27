@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mythberg Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6266",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cKEYr7wwstX4p6PrelqNuEvmgXA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "http://www.mythbergfilms.hu",
+    "placeholder": true
+  }
+]

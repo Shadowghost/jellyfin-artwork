@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Film Monster",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113553",
+        "logo_uri": "https://image.tmdb.org/t/p/original/asYwlV8bdPaQr3iQN7k01llcFDG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "headquarters": "Seocho, Seoul",
+    "placeholder": true
+  }
+]

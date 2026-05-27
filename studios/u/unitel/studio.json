@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Unitel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26290",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o7QeTO6M5CLKZP7RYuIxoHbTqET.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://www.unitel.de",
+    "headquarters": "Munich, Germany",
+    "placeholder": true
+  }
+]

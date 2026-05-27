@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Dimsum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127103"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

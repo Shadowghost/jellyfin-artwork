@@ -1,0 +1,13 @@
+[
+  {
+    "name": "szirtesfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78027"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

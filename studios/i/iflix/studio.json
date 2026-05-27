@@ -1,0 +1,13 @@
+[
+  {
+    "name": "iflix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123236"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

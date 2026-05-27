@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Maharaja Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240829"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mapa Fílmico de un País (MAFI)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116262"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

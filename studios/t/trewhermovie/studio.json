@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TrewherMovie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153114"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

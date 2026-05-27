@@ -1,0 +1,13 @@
+[
+  {
+    "name": "C Street Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242203"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

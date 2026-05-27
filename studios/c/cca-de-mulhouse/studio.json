@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CCA de Mulhouse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "147594",
+        "logo_uri": "https://image.tmdb.org/t/p/original/XIs16ItNG1rC0qp3XLMUtUDsMB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.ccamulhouse.com/",
+    "headquarters": "2 bis rue du Port, 68100 MULHOUSE",
+    "placeholder": true
+  }
+]

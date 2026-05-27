@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Aashirvad Cinemas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16401",
+        "logo_uri": "https://image.tmdb.org/t/p/original/khS7G0KzBoCYcLs4xuNjpuZjntR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "homepage": "http://aashirvadcinemas.com",
+    "headquarters": "Kochi, Kerala, India",
+    "placeholder": true
+  }
+]

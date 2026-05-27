@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Hokkaido Cultural Broadcasting",
+    "description": "Japanese commercial television station serving Hokkaido, affiliated with the Fuji News Network (FNN).",
+    "country": "JP",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8384",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vkOmMDoyA8Jj8gDJOyP6CjD06Kj.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Hokkaido Cultural Broadcasting Co., Ltd."
+    ],
+    "template": true
+  }
+]

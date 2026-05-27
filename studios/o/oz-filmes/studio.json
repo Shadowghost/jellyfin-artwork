@@ -1,0 +1,15 @@
+[
+  {
+    "name": "OZ Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250543"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://ozfilmes.com.br/",
+    "placeholder": true
+  }
+]

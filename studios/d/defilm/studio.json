@@ -1,0 +1,17 @@
+[
+  {
+    "name": "deFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5958",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6ZJCP2YXRh174DUAfNSnE2wTIfg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "homepage": "https://www.defilm.ro/",
+    "headquarters": "Bucharest",
+    "placeholder": true
+  }
+]

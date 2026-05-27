@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Good Hero",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "243170",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9LN0F6ZDBC3zR561OfhkrBvQdHu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.goodhero.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "F/SIMAS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105821",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8BzBrDx5zAeWx4ixPL7Nd8qVzyr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.fsimas.com.br/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "LucasArts",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15244",
+        "logo_uri": "https://image.tmdb.org/t/p/original/owlgJF10xFSYFBeYbv3ZUttOujP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "San Francisco, California, US",
+    "placeholder": true
+  }
+]

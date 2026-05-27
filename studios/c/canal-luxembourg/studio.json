@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Canal+ Luxembourg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "290487"
+      }
+    ],
+    "artwork": {},
+    "country": "LU",
+    "headquarters": "Luxembourg",
+    "placeholder": true
+  }
+]

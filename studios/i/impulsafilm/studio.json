@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Impulsafilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106650"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.impulsafilm.com",
+    "placeholder": true
+  }
+]

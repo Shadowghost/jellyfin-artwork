@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Manny Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67475",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5A0604iOkdtb84pIEFs0gS2Bf4G.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.mannyfilms.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

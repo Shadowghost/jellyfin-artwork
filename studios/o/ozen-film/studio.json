@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Özen Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72673",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7F7TCMk3xGmGYtl0cij431JdXz7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "http://www.ozenfilm.com.tr",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

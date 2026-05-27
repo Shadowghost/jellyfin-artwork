@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Room One Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116818",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m8yKoRZ8pMrcbRyRCF08aGNo58i.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "headquarters": "London, United Kingdom",
+    "placeholder": true
+  }
+]

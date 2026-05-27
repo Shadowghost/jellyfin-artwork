@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Workhouse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145422",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fHE3EuVRGAGx4TbW0wJoXv0TYWm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://theworkhouselondon.co.uk",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

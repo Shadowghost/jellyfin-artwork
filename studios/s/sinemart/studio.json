@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SinemArt",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20411",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yAqitOd5LbZ00ChUf4UqwxrWm6W.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "homepage": "https://sinemart.com/",
+    "placeholder": true
+  }
+]

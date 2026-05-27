@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Letiště Praha",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137870"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.prg.aero",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

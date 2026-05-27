@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Heaven Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90979",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ivsLMzIBeLYi7BlRn6oz8zozxyD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://www.heavenpictures.net/",
+    "headquarters": "Beijing",
+    "placeholder": true
+  }
+]

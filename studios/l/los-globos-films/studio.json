@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Los Globos Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273315",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gxDTgFVKbMgXmFwSy0eljwQ0GSW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://losglobosfilms.com/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

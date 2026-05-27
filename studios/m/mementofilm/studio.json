@@ -1,0 +1,14 @@
+[
+  {
+    "name": "mementoFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "852"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

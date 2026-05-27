@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Image Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105071",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v8hIf5ldiTOFqNa8n6MR7JHwZHm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UA",
+    "homepage": "http://image-pictures.com",
+    "headquarters": "Kiev",
+    "placeholder": true
+  }
+]

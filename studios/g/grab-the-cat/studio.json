@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Grab the cat",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275654"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

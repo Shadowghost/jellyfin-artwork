@@ -1,0 +1,17 @@
+[
+  {
+    "name": "All Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "247946",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6cqLTAJrZAb3OTC9DC6jF6Ok2bd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://allmediacompany.ru/",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filmsignal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180683"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

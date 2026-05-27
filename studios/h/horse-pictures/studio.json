@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Horse Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28565"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

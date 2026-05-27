@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nyasawood Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225701"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

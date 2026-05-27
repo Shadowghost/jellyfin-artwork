@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kenya Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159797",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mmHtkWczwcuyaLd34HFJhM9uBD7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://www.kenyafilms.com",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

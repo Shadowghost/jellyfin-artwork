@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Desenfilmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69026"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

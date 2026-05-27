@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Hi Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240183"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Accent Aigu Entertainment",
+    "country": "CA",
+    "homepage": "https://www.accent-aigu.ca",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "277158",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g6AoMl1HwNz9ljq3AuNql1SWaYY.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

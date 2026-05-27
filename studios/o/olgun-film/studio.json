@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Olgun Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98873"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

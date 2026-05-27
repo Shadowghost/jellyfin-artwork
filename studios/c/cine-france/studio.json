@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ciné France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27693"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

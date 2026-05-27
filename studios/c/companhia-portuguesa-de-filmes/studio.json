@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Companhia Portuguesa de Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10205"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "placeholder": true
+  }
+]

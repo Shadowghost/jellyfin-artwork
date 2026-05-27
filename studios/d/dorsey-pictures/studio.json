@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dorsey Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85840",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3i5wcd9lVYAC6dMyGx5BSo7fHrI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.dorseypictures.tv/",
+    "headquarters": "Castle Rock, Colorado",
+    "placeholder": true
+  }
+]

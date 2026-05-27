@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Memoria artis",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240791"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

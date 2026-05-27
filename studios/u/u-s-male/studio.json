@@ -1,0 +1,16 @@
+[
+  {
+    "name": "U.S. Male",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9356",
+        "logo_uri": "https://image.tmdb.org/t/p/original/muamv4HhYM6tFDOCYx3EvBKVJof.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Chatsworth, CA",
+    "placeholder": true
+  }
+]

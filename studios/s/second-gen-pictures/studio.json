@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Second Gen Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "207435",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1a3NGyd1pxWZ4sfc01XxFxUJHUJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.secondgen.es/?lang=en",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Berlanti Productions",
+    "country": "US",
+    "headquarters": "California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27711",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3e294jszfE6cE8TOogmj0zNd6pL.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

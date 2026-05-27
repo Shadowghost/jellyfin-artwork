@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Margen Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127570",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hSWx8uEHjQ1xOsmvmrI2P6Qn99F.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://www.margencine.com/#/Catalog",
+    "placeholder": true
+  }
+]

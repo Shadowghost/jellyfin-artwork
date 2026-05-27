@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nukufilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69851",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eRkN7XGL7KmMYe8vUmtTuM4oSLP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EE",
+    "homepage": "https://www.nukufilm.ee/",
+    "headquarters": "Tallinn",
+    "placeholder": true
+  }
+]

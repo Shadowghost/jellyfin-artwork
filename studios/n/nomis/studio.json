@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Nomis",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165099"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

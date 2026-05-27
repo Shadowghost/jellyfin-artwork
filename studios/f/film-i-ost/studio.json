@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film i Öst",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99022",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4Mqr2CT5gYIpxAppALtQVGnhmWc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://filmiost.se/",
+    "headquarters": "Norrköping",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GritWorld",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203704",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kfRKIL4CviJcdGstgiUVUzTLkkD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://www.gritworld.cn/index",
+    "headquarters": "Shanghai, China",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Rolling media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115128"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.rollingmedia.cz/",
+    "headquarters": "Prague, Czech Republic",
+    "placeholder": true
+  }
+]

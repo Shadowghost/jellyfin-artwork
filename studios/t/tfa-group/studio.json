@@ -1,0 +1,26 @@
+[
+  {
+    "name": "TFA Group",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "232702"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

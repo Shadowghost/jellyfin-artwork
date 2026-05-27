@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hexagram",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225397"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

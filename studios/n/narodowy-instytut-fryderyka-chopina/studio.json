@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Narodowy Instytut Fryderyka Chopina",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222911",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4RNFApZW3Vn3EdGMcxSrCU7RQYo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://nifc.pl/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

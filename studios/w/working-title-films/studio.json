@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Working Title Films",
+    "country": "GB",
+    "homepage": "https://www.workingtitlefilms.com/",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10163",
+        "logo_uri": "https://image.tmdb.org/t/p/original/16KWBMmfPX0aJzDExDrPxSLj0Pg.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

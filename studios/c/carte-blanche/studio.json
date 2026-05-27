@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Carte Blanche",
+    "country": "US",
+    "homepage": "https://carteblanchefilms.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171436",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2PCuIrmhOMX9eGpxs8PQWjxfU3s.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

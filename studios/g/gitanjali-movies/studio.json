@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Gitanjali Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165425"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

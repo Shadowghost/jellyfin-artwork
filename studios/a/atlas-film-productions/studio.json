@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Atlas Film Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "264609",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tCmHDLm70Za8t9miGfSAf9ksj0B.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://atlasfilmproductions.com/",
+    "headquarters": "Denver, Colorado",
+    "placeholder": true
+  }
+]

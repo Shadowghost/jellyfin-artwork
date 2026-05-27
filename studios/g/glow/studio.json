@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Glow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80408",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e2LblDStah74O4c9E6o1U0qv0Oa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.theglow.es",
+    "headquarters": "Almendralejo, Extremadura",
+    "placeholder": true
+  }
+]

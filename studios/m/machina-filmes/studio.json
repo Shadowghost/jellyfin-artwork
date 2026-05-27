@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Machina Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92307"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.machinafilmes.com/",
+    "headquarters": "Porto Alegre RS",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Murasu Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "168312"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Volcano Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52184",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8xDCQ6iXoj0RH3v2K2ynk67uFgJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://volcanofilms.com/",
+    "headquarters": "Canary Islands",
+    "placeholder": true
+  }
+]

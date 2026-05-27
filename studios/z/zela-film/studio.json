@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zela Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "186502",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k1hHXBGIkegY0N6fjXL4TEuBsAK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "http://www.zelafilm.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

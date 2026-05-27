@@ -1,0 +1,16 @@
+[
+  {
+    "name": "HB Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130043",
+        "logo_uri": "https://image.tmdb.org/t/p/original/upAEWocmKZKhxNcZc1f2yt12Lmz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.hbfilms.co.uk",
+    "placeholder": true
+  }
+]

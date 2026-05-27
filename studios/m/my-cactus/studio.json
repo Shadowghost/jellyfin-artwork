@@ -1,0 +1,14 @@
+[
+  {
+    "name": "My Cactus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "32599"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

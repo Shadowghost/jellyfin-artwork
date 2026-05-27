@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MOIN Filmförderung Hamburg Schleswig-Holstein",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "228959",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rVPOLCzB7wkx1X7BMpHDgs0kP5x.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://moin-filmfoerderung.de/",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

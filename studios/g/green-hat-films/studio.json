@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Green Hat Films",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3527"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

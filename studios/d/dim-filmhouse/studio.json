@@ -1,0 +1,16 @@
+[
+  {
+    "name": "DIM filmhouse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219831",
+        "logo_uri": "https://image.tmdb.org/t/p/original/XAgrYuX5NzICDy4RWe1JK7XC5T.png"
+      }
+    ],
+    "artwork": {},
+    "country": "UA",
+    "homepage": "https://dimfilmhouse.com/",
+    "placeholder": true
+  }
+]

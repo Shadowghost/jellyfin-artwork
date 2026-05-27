@@ -1,0 +1,14 @@
+[
+  {
+    "name": "PFLUG",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249871"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

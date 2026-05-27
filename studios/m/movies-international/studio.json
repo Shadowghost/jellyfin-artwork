@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movies International",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121564"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "NHK BS Premium",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221631",
+        "logo_uri": "https://image.tmdb.org/t/p/original/23RxqAqBGPaOOuX9L6iH6NFxu7q.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

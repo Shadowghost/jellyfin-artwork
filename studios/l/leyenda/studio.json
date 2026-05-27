@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Leyenda",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120128",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9H703SqAOpEZmCj4A7qwGrTVpo3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://www.leyenda.film",
+    "headquarters": "Caba",
+    "placeholder": true
+  }
+]

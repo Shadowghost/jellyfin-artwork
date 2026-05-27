@@ -1,0 +1,17 @@
+[
+  {
+    "name": "EuroArts",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2255",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o8meyz6tKQgWpYevIuMmSlOJp9K.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.euroarts.com",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

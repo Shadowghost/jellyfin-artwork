@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ComedyBox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52367"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

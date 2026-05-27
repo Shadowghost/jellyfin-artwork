@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Spotlite News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160538"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

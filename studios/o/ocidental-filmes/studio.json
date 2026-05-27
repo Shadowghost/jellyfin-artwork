@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ocidental Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "207709",
+        "logo_uri": "https://image.tmdb.org/t/p/original/p8FUmUtjjIheg23uY5Zgs2slmvX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "https://ocidental-filmes.pt/",
+    "headquarters": "Vila Velha de Ródão",
+    "placeholder": true
+  }
+]

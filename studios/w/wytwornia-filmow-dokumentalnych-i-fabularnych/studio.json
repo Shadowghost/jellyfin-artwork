@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wytwórnia Filmów Dokumentalnych i Fabularnych",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2466",
+        "logo_uri": "https://image.tmdb.org/t/p/original/596Eq7ivA0DpNfB5zzDU7yMeTB4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://www.wfdif.pl",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

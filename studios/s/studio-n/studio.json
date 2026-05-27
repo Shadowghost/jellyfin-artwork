@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio N",
+    "country": "KR",
+    "homepage": "https://studioncorp.com/",
+    "headquarters": "Gangnam, Seoul",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119174",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hLiXjOBvOlEA0IdTveoR7MsZwbj.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

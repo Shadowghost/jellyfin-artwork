@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MOTION GALLERY",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "96265",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qemFrmnfuwx8Jw77kVI8XS6FjqN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://motion-gallery.net/",
+    "placeholder": true
+  }
+]

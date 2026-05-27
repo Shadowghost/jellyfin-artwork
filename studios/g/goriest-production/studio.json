@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Goriest Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123401"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

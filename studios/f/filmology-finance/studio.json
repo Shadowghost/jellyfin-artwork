@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Filmology Finance",
+    "country": "AU",
+    "homepage": "http://www.filmologyfinance.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159674",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2NAHsquI5QpycL3RnnxlESGgS7C.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

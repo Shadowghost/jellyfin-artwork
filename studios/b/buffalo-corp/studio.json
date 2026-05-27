@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Buffalo Corp.",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49121",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mvLJUGca36nSTI0D2mpzoxLTsyB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.buffalocorp.fr",
+    "placeholder": true
+  }
+]

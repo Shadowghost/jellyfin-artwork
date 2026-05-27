@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Starlight Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15378",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fWYppVfDhR10NbVMrJyMuBp7fD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Bochum",
+    "placeholder": true
+  }
+]

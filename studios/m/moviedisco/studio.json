@@ -1,0 +1,13 @@
+[
+  {
+    "name": "moviedisco",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92165"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

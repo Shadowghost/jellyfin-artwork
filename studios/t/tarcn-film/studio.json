@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tarçın Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "278986",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xPdvWDeTTb1KAxJDqSH30FLmSln.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.tarcinfilm.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

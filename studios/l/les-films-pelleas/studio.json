@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films Pelléas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12389",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6yilbEvoHtPcTb4LwAueAq091iT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.lesfilmspelleas.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

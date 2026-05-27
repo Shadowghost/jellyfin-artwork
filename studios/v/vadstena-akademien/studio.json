@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vadstena Akademien",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212279",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i0ku5x5bKUWA3hsdADlVA7Lwgc8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.vadstena-akademien.org/",
+    "headquarters": "Vadstena",
+    "placeholder": true
+  }
+]

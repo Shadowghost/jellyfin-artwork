@@ -1,0 +1,13 @@
+[
+  {
+    "name": "telefilmov",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233071"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

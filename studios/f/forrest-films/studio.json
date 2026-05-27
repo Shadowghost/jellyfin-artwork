@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Forrest Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89630"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://forrest-films.com",
+    "placeholder": true
+  }
+]

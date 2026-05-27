@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film Andes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2129",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zbTs42UFwwu8hGafOeYX9XLB69W.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://filmandes.com/",
+    "headquarters": "Mendoza, Argentina",
+    "placeholder": true
+  }
+]

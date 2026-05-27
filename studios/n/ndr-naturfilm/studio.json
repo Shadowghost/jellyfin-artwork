@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NDR Naturfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18407",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cI9BOAZbURxD8hrbtbB4ncwZzox.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.ndr.de",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

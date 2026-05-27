@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tekila Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111987"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

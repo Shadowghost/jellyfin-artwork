@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bentkey",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211142",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9aOfW2X7SqbaVMS6anREyXifyrV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.bentkey.com/",
+    "placeholder": true
+  }
+]

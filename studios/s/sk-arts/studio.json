@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SK Arts",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283519",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4clGo1ZZnmd1jGORstVHEqOogGS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://sk-arts.ca",
+    "placeholder": true
+  }
+]

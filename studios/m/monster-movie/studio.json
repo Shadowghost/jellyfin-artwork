@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Monster Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145718"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

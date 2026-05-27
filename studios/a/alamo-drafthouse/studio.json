@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Alamo drafthouse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180376"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

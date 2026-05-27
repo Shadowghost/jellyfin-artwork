@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmlance International",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2669",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xuSvgLUZJyrY4IO1jBpmlqpHqyc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://filmlance.se/",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

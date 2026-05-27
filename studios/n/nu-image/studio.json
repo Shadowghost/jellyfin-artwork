@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nu Image",
+    "country": "US",
+    "homepage": "http://www.millennium-media.net",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "925",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dIb9hjXNOkgxu4kBWdIdK8nM4w.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

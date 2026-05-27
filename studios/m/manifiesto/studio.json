@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Manifiesto",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202209"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

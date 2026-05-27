@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ghibli Museum Library",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167494"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

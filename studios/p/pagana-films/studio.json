@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pagana Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180807",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wp28wvfSjwAhF5yBjlE934u3AXc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "http://paganafilms.net",
+    "placeholder": true
+  }
+]

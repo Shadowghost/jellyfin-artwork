@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Acar Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1385",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qd1o2y8IXhSzjZkITdLLXRsSWrQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

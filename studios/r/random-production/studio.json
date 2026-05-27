@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Random Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "105508"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

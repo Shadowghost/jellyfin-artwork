@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Poembaked Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220220"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

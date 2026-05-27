@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Middlemarch Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "73742",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yaqAmh9yptR8ukViBA6v4NJhvji.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://middlemarch.com",
+    "headquarters": "New York City",
+    "placeholder": true
+  }
+]

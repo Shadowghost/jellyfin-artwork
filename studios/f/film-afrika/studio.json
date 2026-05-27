@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film Afrika",
+    "country": "ZA",
+    "homepage": "http://www.filmafrika.com",
+    "headquarters": "Cape Town",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "773",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qkcN6yZEyBw3cgO5DJu55LGEsf7.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

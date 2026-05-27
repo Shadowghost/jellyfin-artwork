@@ -1,0 +1,16 @@
+[
+  {
+    "name": "American Experience Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92479",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xBlCFYbQb8H4ZpIMLco53ybin9L.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.pbs.org/wgbh/americanexperience/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Internetstiftelsen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159820",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qKsJLPQiewhCzfhPRqByDGt1GfJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://internetstiftelsen.se/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

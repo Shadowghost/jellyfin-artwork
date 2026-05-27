@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie Express",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209721"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

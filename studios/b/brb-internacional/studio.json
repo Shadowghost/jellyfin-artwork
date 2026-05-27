@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BRB Internacional",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55627",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bzYzbvudH6eDsroZSVW8RVDYFEH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://brb.es/en",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nordpolaris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "88212",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ivZwhkdoNucUhhOr74tQIWRyQhS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://nordpolaris.de/",
+    "headquarters": "Munich, Germany",
+    "placeholder": true
+  }
+]

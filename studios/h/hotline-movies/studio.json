@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Hotline Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211211"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "PajaroFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210808",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sN21PyKBX5ChuXcfHaqfcKf0884.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "headquarters": "Galicia",
+    "placeholder": true
+  }
+]

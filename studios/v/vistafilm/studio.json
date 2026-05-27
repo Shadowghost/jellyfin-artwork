@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Vistafilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128346"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.vistafilm.cz/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

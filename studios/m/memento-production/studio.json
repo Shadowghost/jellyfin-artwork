@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Memento Production",
+    "country": "FR",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5162",
+        "logo_uri": "https://image.tmdb.org/t/p/original/MVQnWo9PznYQ6Hz8vESofPOlCX.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

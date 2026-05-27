@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Double Eagle",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37256"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

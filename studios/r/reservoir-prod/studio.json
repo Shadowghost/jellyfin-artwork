@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Réservoir Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35148",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fO4Qi1acA1EUdDUiIQdkGZ3p0TT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.reservoir-prod.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Limerick Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "128401"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

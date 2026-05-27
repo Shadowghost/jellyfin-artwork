@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nordisk Film Norway",
+    "country": "NO",
+    "homepage": "https://www.nordiskfilm.no",
+    "headquarters": "Oslo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38072",
+        "logo_uri": "https://image.tmdb.org/t/p/original/obOynoztBEhDNfHsDXBqOuQLAZk.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

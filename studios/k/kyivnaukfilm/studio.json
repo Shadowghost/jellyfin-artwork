@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kyivnaukfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19997",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n1XHZgKeOC4GAGcLMAqQSr9Cchz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SU",
+    "headquarters": "Kiev",
+    "placeholder": true
+  }
+]

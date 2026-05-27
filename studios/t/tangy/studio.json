@@ -1,0 +1,16 @@
+[
+  {
+    "name": "tangy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45463",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3xByA8rEdAluHHCJPf5reOGoDAG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.tangy.se/",
+    "placeholder": true
+  }
+]

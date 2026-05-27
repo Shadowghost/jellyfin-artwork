@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Reichsanstalt für Film und Bild im Unterricht (RWU)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "61877",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t79kDRYyGnttRXalb1fAYCxioXh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

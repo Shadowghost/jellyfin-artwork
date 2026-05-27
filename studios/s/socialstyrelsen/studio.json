@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Socialstyrelsen",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110984"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.socialstyrelsen.se/",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

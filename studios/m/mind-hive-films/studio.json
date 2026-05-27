@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mind Hive Films",
+    "country": "US",
+    "homepage": "http://www.mindhivefilms.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116736",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5qSrmPricJH5TKXvfRSmUc7o1wP.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

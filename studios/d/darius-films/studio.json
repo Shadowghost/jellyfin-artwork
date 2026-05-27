@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Darius Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5486",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gDkL1DKC1IaXToq7APrT8vBXK4y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.dariusfilms.com",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

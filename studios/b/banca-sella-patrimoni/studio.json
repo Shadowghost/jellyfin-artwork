@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Banca Sella Patrimoni",
+    "description": "Italian private bank specializing in wealth management, part of the Banca Sella group; appears as a film-financing/sponsoring credit on some Italian productions.",
+    "country": "IT",
+    "type": "other",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151802"
+      }
+    ],
+    "artwork": {},
+    "aka": [
+      "Banca Patrimoni Sella & C."
+    ],
+    "placeholder": true
+  }
+]

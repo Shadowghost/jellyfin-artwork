@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Granite Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112845",
+        "logo_uri": "https://image.tmdb.org/t/p/original/z6PdpvxdvdipEIXaIXyxMPMuCgN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.granitefilms.com",
+    "placeholder": true
+  }
+]

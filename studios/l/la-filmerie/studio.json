@@ -1,0 +1,16 @@
+[
+  {
+    "name": "La Filmerie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137571"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://lafilmerie.com/",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

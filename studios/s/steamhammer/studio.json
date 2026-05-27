@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Steamhammer",
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123647"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

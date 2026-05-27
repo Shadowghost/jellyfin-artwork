@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Czar Amsterdam",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209794",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uH7GqHgwEOV5JpZyKlnohw1Zj5z.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://czar.nl/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

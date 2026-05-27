@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sentana Filmproduktion",
+    "country": "DE",
+    "homepage": "https://www.sentana.de/",
+    "headquarters": "München",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12999",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4fCk9aqM5PbfdFWGrXi6eEALUqD.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

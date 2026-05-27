@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Miyazaki Broadcasting",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210512",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hs8PzdZ9YHIWDFB4xX7Y8zyi9Iv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://mrt.jp/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "stream.theatre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156232"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

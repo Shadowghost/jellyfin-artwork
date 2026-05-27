@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Masqulin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134427",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mdjE4xdnT5DX1fzfBWk0mv6gYdM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://masqulin.com",
+    "placeholder": true
+  }
+]

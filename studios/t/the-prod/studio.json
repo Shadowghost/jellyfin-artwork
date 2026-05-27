@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "57787",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v8avEbyEMJOkiiocInfEy6AMTl7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://theprod.fr",
+    "placeholder": true
+  }
+]

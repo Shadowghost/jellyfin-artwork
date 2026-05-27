@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Machaco Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28912",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jMjy9m6msnTVMEqrM22ULXJa45Y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://machaco.ar",
+    "placeholder": true
+  }
+]

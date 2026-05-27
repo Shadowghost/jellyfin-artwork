@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Olive Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148698",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gsEAhzRwbkMkpOS23IopF8WCppW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://olivefilms.com/",
+    "headquarters": "Chicago, IL",
+    "placeholder": true
+  }
+]

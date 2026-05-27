@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Scenario",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70280"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

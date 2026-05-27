@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Silver Reel",
+    "country": "CH",
+    "homepage": "https://www.silver-reel.com",
+    "headquarters": "Zurich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12075"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

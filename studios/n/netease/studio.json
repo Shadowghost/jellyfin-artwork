@@ -1,0 +1,17 @@
+[
+  {
+    "name": "NetEase",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193551",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j6BbusZwHQzzIE0eKdF1xk9dCOD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "http://www.netease.com/",
+    "headquarters": "Hangzhou",
+    "placeholder": true
+  }
+]

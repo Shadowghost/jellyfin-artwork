@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Banned Movies Pilipinas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149507"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

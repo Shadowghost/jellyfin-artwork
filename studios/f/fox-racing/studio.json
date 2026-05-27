@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Fox Racing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161156"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

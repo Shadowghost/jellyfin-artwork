@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Victory Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56967",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jrfxAiQC7PY65OcO2pLxCFCCA9U.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://victorypictures.com/",
+    "headquarters": "Avon, CT",
+    "placeholder": true
+  }
+]

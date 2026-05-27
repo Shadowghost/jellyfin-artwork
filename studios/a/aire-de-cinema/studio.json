@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Aire de Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "232403",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qhTToweWImOKj1arh1jLhy4TGH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.airedecinema.com/",
+    "headquarters": "Valencia",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FilmBrewery",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217215"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

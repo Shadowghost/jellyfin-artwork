@@ -1,0 +1,17 @@
+[
+  {
+    "name": "British Vogue",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104623",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v9gSF61PXuGz9gYTNXnCROJodK8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.vogue.co.uk/",
+    "headquarters": "London, England, United Kingdom",
+    "placeholder": true
+  }
+]

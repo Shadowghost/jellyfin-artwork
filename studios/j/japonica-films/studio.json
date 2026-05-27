@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Japonica Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "156323",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qN9KM9JyDEL1rToPd4CJ66I1rgt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://japonicafilms.com/",
+    "headquarters": "Barcelona, Catalonia",
+    "placeholder": true
+  }
+]

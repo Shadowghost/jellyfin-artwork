@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Filmkompaniet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21811"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://www.filmkompaniet.fi/",
+    "headquarters": "Helsinki, Finland",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Firestick Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110060",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vlQMY1NYel1rhmkD7bMHg0sdGLJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://www.firestickfilms.com",
+    "headquarters": "South Australia",
+    "placeholder": true
+  }
+]

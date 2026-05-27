@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sagafilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91291",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xy2KPzjdztf17Bwrp3ZuQqpxPax.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IS",
+    "homepage": "https://www.sagafilm.is/",
+    "headquarters": "Reykjavík",
+    "placeholder": true
+  }
+]

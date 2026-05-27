@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AVIDIA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217783",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iKACZkC5nWp22IgT3AX9TWlMF2x.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.avidia.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

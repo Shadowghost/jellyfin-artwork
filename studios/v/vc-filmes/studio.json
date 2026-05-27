@@ -1,0 +1,14 @@
+[
+  {
+    "name": "VC Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5139"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "placeholder": true
+  }
+]

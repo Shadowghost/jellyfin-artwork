@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mystery film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117930"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.mysteryfilm.cz",
+    "headquarters": "Ostrava, Czech Republic",
+    "placeholder": true
+  }
+]

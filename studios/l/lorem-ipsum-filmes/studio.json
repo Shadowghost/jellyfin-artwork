@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lorem Ipsum Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213772"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

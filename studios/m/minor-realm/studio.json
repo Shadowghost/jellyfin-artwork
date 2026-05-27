@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Minor Realm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219288"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

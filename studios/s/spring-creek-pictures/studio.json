@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Spring Creek Pictures",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "705"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Muzej Velikog Gradišta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133081"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "headquarters": "Veliko Gradište",
+    "placeholder": true
+  }
+]

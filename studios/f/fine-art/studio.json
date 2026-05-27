@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Fine Art",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "54899"
+      }
+    ],
+    "artwork": {},
+    "country": "MN",
+    "placeholder": true
+  }
+]

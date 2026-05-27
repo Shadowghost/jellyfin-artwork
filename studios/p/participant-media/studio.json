@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Participant",
+    "description": "American film production company founded by Jeff Skoll focusing on socially relevant films and documentaries; ceased operations in 2024.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://www.participantmedia.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6735",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pAQW38WU8ychBvYU2aGPTEbynEN.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

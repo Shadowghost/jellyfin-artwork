@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Secret Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "36778"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

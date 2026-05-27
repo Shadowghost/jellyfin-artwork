@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Immediate Media Partners",
+    "description": "Independent film financing/production entity credited on a handful of features; not to be confused with the UK magazine publisher Immediate Media Co.",
+    "country": "RO",
+    "type": "production-company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142213"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

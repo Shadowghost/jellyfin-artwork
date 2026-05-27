@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Berolina-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15548"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Berlin/Munich",
+    "placeholder": true
+  }
+]

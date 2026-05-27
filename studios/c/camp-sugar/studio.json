@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Camp Sugar",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115634",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mNZEYkVq7VIAwyC1jZE7Y2ISGsI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

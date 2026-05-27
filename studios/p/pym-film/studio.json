@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pym Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101011"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

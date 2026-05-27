@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Prometheus Entertainment",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11453",
+        "logo_uri": "https://image.tmdb.org/t/p/original/82y8ld5VUXjAy7k3U3h61XO5lrx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.prometheusentertainment.com/",
+    "placeholder": true
+  }
+]

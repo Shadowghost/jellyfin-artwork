@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cinema Bruto",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220225"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films de l'Olivier",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101823"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

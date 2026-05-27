@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MEP Capital",
+    "country": "US",
+    "homepage": "https://www.mepcap.com",
+    "headquarters": "New York City, New York",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "132437"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Motel Mojave",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "225614",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dehZ285rC4RfD6Fm4LrUUBHu3Uu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

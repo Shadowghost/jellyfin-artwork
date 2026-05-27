@@ -1,0 +1,16 @@
+[
+  {
+    "name": "North Country Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129627",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q5Fky0M0qnf9Ue79SWEyoudvamu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.northcountrycinema.com",
+    "placeholder": true
+  }
+]

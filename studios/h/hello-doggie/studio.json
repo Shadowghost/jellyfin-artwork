@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Hello Doggie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "294085"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

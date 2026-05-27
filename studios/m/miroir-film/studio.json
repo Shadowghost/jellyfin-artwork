@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Miroir Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55009"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

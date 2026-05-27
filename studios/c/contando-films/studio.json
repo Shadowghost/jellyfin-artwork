@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Contando Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151482",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2foeGkDgiVfJGpYw9N0gn9Zt3qv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://contandofilms.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

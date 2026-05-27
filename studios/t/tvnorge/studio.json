@@ -1,0 +1,14 @@
+[
+  {
+    "name": "TVNorge",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104046"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "placeholder": true
+  }
+]

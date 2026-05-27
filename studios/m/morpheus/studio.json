@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Morpheus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "532"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

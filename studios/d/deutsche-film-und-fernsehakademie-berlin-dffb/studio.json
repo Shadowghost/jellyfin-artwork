@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Deutsche Film- und Fernsehakademie Berlin (DFFB)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31052",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pJgQoO1PyJdhOP1UOrVsDeolYw7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.dffb.de",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

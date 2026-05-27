@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Foxy Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222436"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

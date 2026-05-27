@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Det Danske Filmmuseum",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "242117"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "placeholder": true
+  }
+]

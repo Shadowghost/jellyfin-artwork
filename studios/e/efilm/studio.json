@@ -1,0 +1,13 @@
+[
+  {
+    "name": "EFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95842"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

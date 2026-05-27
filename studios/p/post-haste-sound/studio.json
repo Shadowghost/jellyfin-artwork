@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Post Haste Sound",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20463"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

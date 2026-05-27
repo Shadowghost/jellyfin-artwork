@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Quizzical Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52117",
+        "logo_uri": "https://image.tmdb.org/t/p/original/AcK4CcjzcdapS8TOk0VhguvZNtw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ZA",
+    "homepage": "https://www.quizzical.co.za/",
+    "headquarters": "Johannesburg",
+    "placeholder": true
+  }
+]

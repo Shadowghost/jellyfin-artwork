@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cinéma Public Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100206"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "placeholder": true
+  }
+]

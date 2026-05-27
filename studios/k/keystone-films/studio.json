@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Keystone films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170170"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

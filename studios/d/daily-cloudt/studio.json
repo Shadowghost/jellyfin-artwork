@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Daily Cloudt",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "294761"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Open Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16792"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ZLS Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100688"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RMV Film",
+    "country": "SE",
+    "homepage": "https://rmvfilm.com/",
+    "headquarters": "Stockholm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46798",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qi3gGtgoAr6A80l2RQbhPvuCbzY.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

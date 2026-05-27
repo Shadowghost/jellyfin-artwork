@@ -1,0 +1,17 @@
+[
+  {
+    "name": "P2 Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103700",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ials5lX7dXuaCq8nVSzhVAhv6Nf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://p2films.com",
+    "headquarters": "Burbank, California",
+    "placeholder": true
+  }
+]

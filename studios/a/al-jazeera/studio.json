@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Al Jazeera",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62165",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9i15HMPXjW657H4BnrMkeQcbktL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "QA",
+    "homepage": "https://www.aljazeera.com",
+    "headquarters": "Doha",
+    "placeholder": true
+  }
+]

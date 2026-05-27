@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bibliothèque nationale de France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "134047",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eACqHIgivbwjN9sjAc7e3fKRrXd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.bnf.fr/",
+    "headquarters": "Paris, France",
+    "placeholder": true
+  }
+]

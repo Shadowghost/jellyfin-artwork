@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Staatsoper Hamburg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131289",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5ykWREyO7gjAxFS2nGfPWfg7o6N.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.die-hamburgische-staatsoper.de/de",
+    "placeholder": true
+  }
+]

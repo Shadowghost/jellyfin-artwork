@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Novi Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127206",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eFOHWRU7n4T8LN63xeNBGhWIu7h.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BA",
+    "homepage": "https://www.novi-film.com/",
+    "headquarters": "Sarajevo",
+    "placeholder": true
+  }
+]

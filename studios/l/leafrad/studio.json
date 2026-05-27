@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Leafrad",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103571"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

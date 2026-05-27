@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Komodo Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "259466"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

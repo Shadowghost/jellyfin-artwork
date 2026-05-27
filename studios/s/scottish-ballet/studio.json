@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Scottish Ballet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "132637",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3j4mQS3YlAlcDPkdwlLh087BKcq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://scottishballet.co.uk",
+    "headquarters": "Glasgow, Scotland",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Películas Colombianas (PELCO)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143648"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

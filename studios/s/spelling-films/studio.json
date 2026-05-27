@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Spelling Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10355",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9giKdog64UQWRFhVPyXBSgdPIc2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Monster",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103857",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kNvQWj6V8GneIXNgbCqJr2SroIA.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "http://monster.as/",
+    "placeholder": true
+  }
+]

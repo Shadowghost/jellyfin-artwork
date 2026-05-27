@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Canal+ Horizons",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22029",
+        "logo_uri": "https://image.tmdb.org/t/p/original/asH5UhhC8dRUUExZKIis0Y3dyjy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie Machine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18890"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

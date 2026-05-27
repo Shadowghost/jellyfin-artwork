@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Project",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110360"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://theproject.paris",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

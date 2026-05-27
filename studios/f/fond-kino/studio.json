@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fond kino",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76352"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

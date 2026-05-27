@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Camp Lucky",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "227522",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ttR3l79x4eOfOhRJUEYoSwtF7xB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://camp-lucky.com/",
+    "headquarters": "Dallas, Texas",
+    "placeholder": true
+  }
+]

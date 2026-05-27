@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Hochschule Luzern (HSLU)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39807"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://www.hslu.ch/de-ch/design-kunst/",
+    "headquarters": "Luzern",
+    "placeholder": true
+  }
+]

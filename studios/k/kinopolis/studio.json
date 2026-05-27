@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kinopolis",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170416"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

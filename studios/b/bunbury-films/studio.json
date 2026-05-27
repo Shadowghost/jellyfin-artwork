@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bunbury Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26855",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qijzRuv4faQWjWWusDmAgTJwynB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.bunburyfilms.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

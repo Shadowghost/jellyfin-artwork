@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TD films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "275442",
+        "logo_uri": "https://image.tmdb.org/t/p/original/m7SVLzfw0h95azUAJRKBLDrvLte.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.tdfilms.it",
+    "placeholder": true
+  }
+]

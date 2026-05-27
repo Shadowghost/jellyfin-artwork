@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Noise",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8602"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

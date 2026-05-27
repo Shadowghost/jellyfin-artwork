@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ArgoFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97146"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

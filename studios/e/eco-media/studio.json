@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ECO Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89110",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qLFHtDLgfkclvTtzXKu5sPHNywr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://ecomediatv.de/",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

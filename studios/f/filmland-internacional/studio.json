@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmland Internacional",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81976",
+        "logo_uri": "https://image.tmdb.org/t/p/original/z2PpdUlklHNn5OKm5wZLMQmyQ9o.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.filmland.com.br",
+    "headquarters": "São Paulo",
+    "placeholder": true
+  }
+]

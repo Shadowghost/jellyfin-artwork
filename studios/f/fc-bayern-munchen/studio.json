@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FC Bayern München",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211502",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jMGotJBM5QoszF9eHdR0cYtqHkH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://fcbayern.com/en",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

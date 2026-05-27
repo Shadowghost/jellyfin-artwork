@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Attitude",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162519"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

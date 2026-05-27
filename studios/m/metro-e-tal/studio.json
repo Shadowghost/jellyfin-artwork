@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Metro e Tal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100203"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "placeholder": true
+  }
+]

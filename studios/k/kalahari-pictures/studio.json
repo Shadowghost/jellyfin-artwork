@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kalahari Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76007",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nizgJHI6cr2LSD4K0EijjIdQiLs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ZA",
+    "homepage": "https://www.kalaharipictures.com",
+    "headquarters": "Cape Town",
+    "placeholder": true
+  }
+]

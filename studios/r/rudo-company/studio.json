@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rudo Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234827",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cmrbsKNDWD5VAMeSP5RkJqd12B8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://rudocompany.com/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

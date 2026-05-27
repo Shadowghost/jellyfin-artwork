@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film Market Fund",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193790",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rriRtsCkA24uZ8A9Uuh0iQvIF6y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://filmmarket.es/",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

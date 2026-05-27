@@ -1,0 +1,14 @@
+[
+  {
+    "name": "FK Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26439"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

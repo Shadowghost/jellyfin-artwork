@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tele+",
+    "country": "IT",
+    "headquarters": "Milan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15139",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pDMWjx8DQZ7joB5Yd5lieixKUAp.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

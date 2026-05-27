@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Human Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "94976",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1TUgL8u1bxPF4BNSzyc9FCVW3D4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.humanfilm.co.uk/",
+    "headquarters": "Leeds, England",
+    "placeholder": true
+  }
+]

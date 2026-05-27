@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RDF Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "54254",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oaoKn7D6TgCKZ8KmWHYxn1MPT1k.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.rdftelevision.com/",
+    "headquarters": "London",
+    "placeholder": true
+  }
+]

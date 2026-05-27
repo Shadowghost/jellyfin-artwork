@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Phantasm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "205081"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

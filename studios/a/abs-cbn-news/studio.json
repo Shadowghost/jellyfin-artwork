@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ABS-CBN News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "299260"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

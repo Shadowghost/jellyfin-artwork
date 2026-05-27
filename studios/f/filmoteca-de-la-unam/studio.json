@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmoteca de la UNAM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79106",
+        "logo_uri": "https://image.tmdb.org/t/p/original/34ePaM55y8Pr4W5Fkrg9FYgBLGW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://www.filmoteca.unam.mx",
+    "headquarters": "Circuito exterior Mtro. Mario de la Cueva s/n.Ciudad Universitaria, Delegación Coyoacán, C.P. 04510 Ciudad de México.",
+    "placeholder": true
+  }
+]

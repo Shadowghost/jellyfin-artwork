@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Éditions Montparnasse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60707",
+        "logo_uri": "https://image.tmdb.org/t/p/original/acBmHgTZuEUw7gtezSgRLxRF1Y6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.editionsmontparnasse.fr/",
+    "placeholder": true
+  }
+]

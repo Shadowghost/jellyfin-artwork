@@ -1,0 +1,13 @@
+[
+  {
+    "name": "sixnema production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "296823"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

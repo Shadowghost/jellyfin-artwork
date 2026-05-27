@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pomor Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23679",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6FCHtnJBEfGmsUbAEMavAPXWNfp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.pomorfilm.no/",
+    "headquarters": "Tromsø",
+    "placeholder": true
+  }
+]

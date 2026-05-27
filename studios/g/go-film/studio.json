@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GO! Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289948",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8niVvzEoawmqzWuQPEo0etDobji.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.go-film.com",
+    "headquarters": "Am Lenzenfleck 23  85737 Ismaning",
+    "placeholder": true
+  }
+]

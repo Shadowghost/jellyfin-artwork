@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DOK-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "181522"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Exhibit A Pictures",
+    "country": "US",
+    "homepage": "http://www.exhibitapictures.com",
+    "headquarters": "Denver, Colorado",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63267",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aBsWy0FMOCdtvGGxJFQl5CPR07i.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

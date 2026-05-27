@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Whisky Content",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201718",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8PxtDaNXb9xSWm5ibFRO28xT3bi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "http://whiskycontent.com",
+    "placeholder": true
+  }
+]

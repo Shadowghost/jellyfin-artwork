@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Remote",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52515"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

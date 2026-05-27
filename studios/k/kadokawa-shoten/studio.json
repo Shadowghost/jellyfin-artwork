@@ -1,0 +1,35 @@
+[
+  {
+    "name": "KADOKAWA Shoten",
+    "description": "Japanese publishing brand and division of Kadokawa Corporation, producing manga, light novels and magazines.",
+    "country": "JP",
+    "type": "publisher",
+    "homepage": "https://kadokawashoten.kadokawa.co.jp",
+    "headquarters": "Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1194",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dwkHaFLgtA7CUNbgKK0wB6bospu.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Kadokawa Shoten"
+    ],
+    "template": true
+  }
+]

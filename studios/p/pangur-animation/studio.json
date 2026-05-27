@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pangur Animation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258247",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ceQDa16Psf0hg1HCPAlWMy3FxBj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://panguranimation.com",
+    "placeholder": true
+  }
+]

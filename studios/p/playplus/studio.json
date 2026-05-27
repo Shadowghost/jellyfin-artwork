@@ -1,0 +1,15 @@
+[
+  {
+    "name": "PlayPlus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113005"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.playplus.com",
+    "placeholder": true
+  }
+]

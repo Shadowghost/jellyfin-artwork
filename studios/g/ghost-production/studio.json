@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ghost Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "243904"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

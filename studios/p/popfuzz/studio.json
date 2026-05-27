@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Popfuzz",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "191100"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

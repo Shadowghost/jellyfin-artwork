@@ -1,0 +1,17 @@
+[
+  {
+    "name": "North Macedonia Film Agency",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "126904",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sdA4YJhdUO6XPcIkQTkVjRGFuLa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MK",
+    "homepage": "http://www.filmagency.gov.mk/",
+    "headquarters": "Skopje",
+    "placeholder": true
+  }
+]

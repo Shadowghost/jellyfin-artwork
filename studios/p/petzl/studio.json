@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Petzl",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100504",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6XvrNwlcHOzxmmEGiEjPmhhBpS8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.petzl.com",
+    "headquarters": "Petzl, rue Fernand Petzl, 38920 Crolles, France",
+    "placeholder": true
+  }
+]

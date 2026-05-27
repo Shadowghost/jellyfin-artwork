@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Film Factory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3707",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t5NHIVyPAeaQlOWOgpAsH89qgPH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ZA",
+    "homepage": "https://thefilmfactory.co.za",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wiedemann & Berg Television",
+    "country": "DE",
+    "homepage": "http://www.w-b-television.de/?L=1",
+    "headquarters": "Munich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "40788",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ydsYNksXNi0NzkCDSjnpsPRUCGI.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

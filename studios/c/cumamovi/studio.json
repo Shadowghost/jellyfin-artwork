@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cumamovi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "174982",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jyYqAp0wuNRr2JpWMoAi3lcsyhp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.cumamovi.fr",
+    "headquarters": "Pau, France",
+    "placeholder": true
+  }
+]

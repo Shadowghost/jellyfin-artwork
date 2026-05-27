@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Argot Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144766",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jfWggBtbW94AisN9kuGFvLkWgZJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://argotfilms.es/",
+    "placeholder": true
+  }
+]

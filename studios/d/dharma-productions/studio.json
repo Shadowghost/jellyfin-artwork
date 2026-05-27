@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Dharma Productions",
+    "description": "Indian film production and distribution company based in Mumbai, founded by Yash Johar and now run by his son Karan Johar.",
+    "country": "IN",
+    "type": "production-company",
+    "homepage": "http://www.dharma-production.com",
+    "headquarters": "Mumbai, Maharashtra",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19146",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5Ff25ornzVNhm5skuAvMAR556NB.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

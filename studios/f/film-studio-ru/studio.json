@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Film Studio.ru",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108048"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

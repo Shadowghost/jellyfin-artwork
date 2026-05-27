@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Our Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "236895",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wkmGNKVjJawiqVSjKTC0VQB3Qd5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.ourfilms.it/",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

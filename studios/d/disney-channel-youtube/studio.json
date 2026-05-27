@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Disney Channel, YouTube",
+    "description": "Official YouTube channel of Disney Channel, used to publish clips, music videos and full episodes from the Disney Channel cable television network.",
+    "country": "US",
+    "type": "streaming-service",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Disney Channel (YouTube)"
+    ],
+    "template": true
+  }
+]

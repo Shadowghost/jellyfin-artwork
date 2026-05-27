@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ministère des Solidarités et de la Santé",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95264",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pHOCvzHRZQpvz1IsnsglbFJ6Yem.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://solidarites-sante.gouv.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

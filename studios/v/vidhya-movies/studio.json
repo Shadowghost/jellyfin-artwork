@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Vidhya Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180422"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

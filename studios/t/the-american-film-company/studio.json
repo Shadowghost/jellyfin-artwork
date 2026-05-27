@@ -1,0 +1,14 @@
+[
+  {
+    "name": "The American Film Company",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38272"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

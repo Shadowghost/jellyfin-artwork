@@ -1,0 +1,13 @@
+[
+  {
+    "name": "RTAMovie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216029"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

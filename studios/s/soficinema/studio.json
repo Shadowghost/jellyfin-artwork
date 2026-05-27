@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Soficinéma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "312"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

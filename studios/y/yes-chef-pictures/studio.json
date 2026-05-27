@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Yes Chef Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241142"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

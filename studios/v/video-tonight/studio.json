@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Video Tonight",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199252"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

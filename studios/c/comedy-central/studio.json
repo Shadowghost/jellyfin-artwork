@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Comedy Central",
+    "country": "PL",
+    "providers": [
+      {
+        "provider_name": "tvdb",
+        "id": "1300"
+      },
+      {
+        "provider_name": "tmdb",
+        "id": "182800"
+      },
+      {
+        "provider_name": "imdb",
+        "id": "co0029768"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "machine-name": "coedy-central",
+    "template": true
+  }
+]

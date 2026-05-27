@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Galaxy Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "227949"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "placeholder": true
+  }
+]

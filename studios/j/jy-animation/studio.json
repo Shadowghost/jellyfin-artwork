@@ -1,0 +1,16 @@
+[
+  {
+    "name": "JY Animation",
+    "country": "CN",
+    "homepage": "http://www.jya.cn/",
+    "headquarters": "beijing",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123014"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

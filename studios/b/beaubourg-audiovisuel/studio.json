@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Beaubourg Audiovisuel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33098",
+        "logo_uri": "https://image.tmdb.org/t/p/original/z3EyBQy1MAWIadTAXy2zxIPy04S.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

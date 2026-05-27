@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Amazon Music",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119091",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h247vywkx9hwWoqwVm5pjjK0qnq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

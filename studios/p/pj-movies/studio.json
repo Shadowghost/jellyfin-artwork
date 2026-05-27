@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PJ Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114913"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

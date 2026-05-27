@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Kookje Daily News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "228796",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vumgTfdAFnY79MjepdZkHrAN9Hd.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.kookje.co.kr/",
+    "headquarters": "Yeonje, Busan, South Korea",
+    "placeholder": true
+  }
+]

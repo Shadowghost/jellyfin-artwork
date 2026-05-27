@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cut 'N' Run Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256865"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

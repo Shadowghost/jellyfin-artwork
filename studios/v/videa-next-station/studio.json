@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Videa Next Station",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165200",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9rdA5LwSOWRWnnfWFKTYXj2AAjF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.videaspa.it/next-station/",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

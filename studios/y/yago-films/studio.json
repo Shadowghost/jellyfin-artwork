@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Yago Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90890"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "placeholder": true
+  }
+]

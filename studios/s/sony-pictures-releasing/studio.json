@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Sony Pictures Releasing",
+    "description": "Theatrical film distribution arm of Sony Pictures Entertainment, distributing Sony's film output domestically and internationally.",
+    "country": "US",
+    "type": "distributor",
+    "homepage": "https://www.sonypictures.com",
+    "headquarters": "Culver City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3045",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5jNRqXspCmQ3XkHNzuZIbvnHOWw.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bibo TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100431"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

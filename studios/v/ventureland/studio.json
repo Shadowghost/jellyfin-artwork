@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ventureland",
+    "country": "US",
+    "homepage": "https://venture.land",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138301",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kjYLNBezs8z364sgZDi2qHDEMb3.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SiaPSS Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187147"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

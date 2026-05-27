@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lolafilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1025",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9kuQMWUQxiWbPkOrNi9xYIypwNa.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.lolafilms.com/en-US",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

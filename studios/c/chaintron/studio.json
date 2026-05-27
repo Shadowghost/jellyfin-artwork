@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Chaintron",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3027"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

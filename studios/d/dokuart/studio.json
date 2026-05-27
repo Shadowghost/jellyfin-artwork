@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DokuArt",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250899"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

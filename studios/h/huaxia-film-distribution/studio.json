@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Huaxia Film Distribution",
+    "country": "CN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25660",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q0418HVUNk0kq15tdU9idy00s11.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

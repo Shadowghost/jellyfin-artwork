@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Racket",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "244220"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinéfrance Studios",
+    "country": "FR",
+    "homepage": "http://cinefrance.eu",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75816",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nVDVcbfYplh43TvxGyj1rGUWiif.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

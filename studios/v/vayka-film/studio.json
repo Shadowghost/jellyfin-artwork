@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vayka Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196303",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q1UFOm3R2CbCjJaUPWq7BhU0Ppp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://vaykafilm.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

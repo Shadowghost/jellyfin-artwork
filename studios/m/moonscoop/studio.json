@@ -1,0 +1,32 @@
+[
+  {
+    "name": "MoonScoop",
+    "description": "French animation production company best known for Code Lyoko; entered administration in 2013, with assets acquired by Ellipsanime and Splash Entertainment.",
+    "country": "FR",
+    "type": "production-company",
+    "homepage": "http://www.mediatoon-distribution.com/fr/accueil/",
+    "headquarters": "14 rue Alexandre Parodi, 75010 Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62041",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tqvwJdwaZxDqgsqUoyN1ogCjEjO.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

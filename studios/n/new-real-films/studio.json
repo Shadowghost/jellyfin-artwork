@@ -1,0 +1,17 @@
+[
+  {
+    "name": "New Real Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2649",
+        "logo_uri": "https://image.tmdb.org/t/p/original/LPxF80bpluDXB5SOEvupc7Om9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.newrealfilms.com/",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

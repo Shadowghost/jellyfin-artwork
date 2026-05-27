@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Digital Caviar",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112098",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hY7fqxZfCVvf6nE9xGBW41zKqpm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://digitalcaviar.net",
+    "headquarters": "Tampa, Florida",
+    "placeholder": true
+  }
+]

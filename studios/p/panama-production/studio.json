@@ -1,0 +1,13 @@
+[
+  {
+    "name": "panama production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46228"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

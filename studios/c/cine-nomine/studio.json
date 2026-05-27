@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cine Nomine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22385",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3oX9AAEqsmRbu5ekAQRomf8MBEt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://cinenomine.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

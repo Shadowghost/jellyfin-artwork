@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Wados",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "351",
+        "logo_uri": "https://image.tmdb.org/t/p/original/acj4TPY4uhbfBk8YtjONvp1Cr2w.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://wados.ml",
+    "placeholder": true
+  }
+]

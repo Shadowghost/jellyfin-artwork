@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Good TV Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124204",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jwUkzHG2T4a2lvVIIIahcgV9zGX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://goodtv.cz/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

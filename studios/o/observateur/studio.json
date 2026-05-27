@@ -1,0 +1,13 @@
+[
+  {
+    "name": "observateur",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "292838"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sender Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5234",
+        "logo_uri": "https://image.tmdb.org/t/p/original/24GREmyxfSHuaLUkrDCVngO18rO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://senderfilms.com",
+    "headquarters": "Boulder, Colorado",
+    "placeholder": true
+  }
+]

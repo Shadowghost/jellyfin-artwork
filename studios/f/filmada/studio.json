@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmada",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137029",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u4pt51RivIgQJaUo3X4axEFWRs2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.filmada.net/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

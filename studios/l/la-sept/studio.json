@@ -1,0 +1,16 @@
+[
+  {
+    "name": "La Sept",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153395",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oVCO4P9C1pEyO38OfclcsMHHT7U.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filomon production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "253295"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

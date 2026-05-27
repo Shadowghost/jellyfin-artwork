@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Generator Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109176",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eRbA2mZxQInvSxyrmzv77wfoPlW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://generator-pictures.com/",
+    "headquarters": "Melbourne, Victoria",
+    "placeholder": true
+  }
+]

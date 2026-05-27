@@ -1,0 +1,17 @@
+[
+  {
+    "name": "HK Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107204",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mOl1hfTl0qyHBRFewO9CfmFi3Ib.png"
+      }
+    ],
+    "artwork": {},
+    "country": "VN",
+    "homepage": "https://hkfilm.com.vn/",
+    "headquarters": "24A Đường Trần Bình Trọng, Phường Bình Lợi Trung, Thành phố Hồ Chí Minh, Việt Nam",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Disney XD",
+    "description": "American pay television channel owned by Disney, targeting boys ages 6-14 with action and comedy programming; rebranded from Toon Disney in 2009.",
+    "country": "US",
+    "type": "cable-network",
+    "colors": [
+      {
+        "name": "Disney XD Blue",
+        "hex": "#1FB6E7"
+      }
+    ],
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

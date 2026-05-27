@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Amalia Film",
+    "country": "DE",
+    "homepage": "https://amalia-film.de",
+    "headquarters": "Munich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15193",
+        "logo_uri": "https://image.tmdb.org/t/p/original/erXgXZ0bKMkatH9O5tPryHiEjwk.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

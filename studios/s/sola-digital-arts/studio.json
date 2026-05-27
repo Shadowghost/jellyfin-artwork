@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sola Digital Arts",
+    "country": "JP",
+    "homepage": "https://sola-digital.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23333",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4Ts3PMtlSMsqCLDxRKO59P2kH00.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "American Public Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "26277",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uXqiWcZbtSG2G9cQ031fRl2V0gH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://aptonline.org",
+    "placeholder": true
+  }
+]

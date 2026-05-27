@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Freischwimmer Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185112",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7p4Wn4Hl4uRHtjXbmyF4ylo8q4D.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://freischwimmerfilm.de/",
+    "headquarters": "Bremen",
+    "placeholder": true
+  }
+]

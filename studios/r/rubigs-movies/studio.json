@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Rubigs Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "93007"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

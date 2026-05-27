@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Seymore Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133325",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pxLdusnbTDS7dGgAXRV4fw7KJpI.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "http://www.seymorefilms.com/"
+  }
+]

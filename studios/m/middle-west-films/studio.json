@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Middle West Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37147",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qsTp5jprmkanKioff9iIrI68vO6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "EG",
+    "homepage": "http://middlewestfilms.com/",
+    "headquarters": "Cairo",
+    "placeholder": true
+  }
+]

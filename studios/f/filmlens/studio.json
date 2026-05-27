@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FilmLens",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "240500"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

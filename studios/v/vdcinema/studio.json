@@ -1,0 +1,13 @@
+[
+  {
+    "name": "VDCinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262481"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

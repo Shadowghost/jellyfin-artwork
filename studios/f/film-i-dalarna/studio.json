@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film i Dalarna",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5610",
+        "logo_uri": "https://image.tmdb.org/t/p/original/j9BLlslzGt5JL1Qekeqd2K1zSDH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://filmidalarna.se/",
+    "headquarters": "Falun",
+    "placeholder": true
+  }
+]

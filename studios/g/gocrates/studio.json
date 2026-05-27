@@ -1,0 +1,13 @@
+[
+  {
+    "name": "gocrates",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249717"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PARCO",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12150",
+        "logo_uri": "https://image.tmdb.org/t/p/original/WdjrchcdBhMcdQU5wWrL60lPd7.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://parco.jp",
+    "headquarters": "Shinsen-chō, Shibuya, Tokyo, Japan",
+    "placeholder": true
+  }
+]

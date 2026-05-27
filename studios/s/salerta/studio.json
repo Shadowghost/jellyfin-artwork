@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Salerta",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258006"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

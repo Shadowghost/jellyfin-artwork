@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CreateSpace",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "95694"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

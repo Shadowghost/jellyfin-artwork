@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hornfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158514",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3Joy3ntXEVDFhCbnQlFp36EBHWb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.hornfilm.de/",
+    "headquarters": "Köln",
+    "placeholder": true
+  }
+]

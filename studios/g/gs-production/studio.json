@@ -1,0 +1,13 @@
+[
+  {
+    "name": "GS Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112623"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

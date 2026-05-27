@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Thema Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "82429"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

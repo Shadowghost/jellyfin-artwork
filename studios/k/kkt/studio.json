@@ -1,0 +1,15 @@
+[
+  {
+    "name": "KKT",
+    "country": "TW",
+    "homepage": "https://www.kktv.me/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248300"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

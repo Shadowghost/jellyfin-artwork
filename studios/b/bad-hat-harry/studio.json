@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Bad Hat Harry Productions",
+    "description": "American television and film production company founded by director Bryan Singer, best known for producing House M.D.",
+    "country": "US",
+    "type": "production-company",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9168",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xWE982LvaAmBQffyRGkaGg7qNK5.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

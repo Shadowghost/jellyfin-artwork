@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Gecko",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "137458"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

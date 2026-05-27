@@ -1,0 +1,14 @@
+[
+  {
+    "name": "BMG Funhouse",
+    "country": "JP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250859"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

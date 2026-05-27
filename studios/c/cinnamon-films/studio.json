@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinnamon Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110281",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dU3KWsnbB3j1F3b0XAXqFE2FFH4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "homepage": "http://www.cinnamonfilm.com",
+    "headquarters": "Belgrade",
+    "placeholder": true
+  }
+]

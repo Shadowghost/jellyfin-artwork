@@ -1,0 +1,13 @@
+[
+  {
+    "name": "vMovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273182"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

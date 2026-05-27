@@ -1,0 +1,17 @@
+[
+  {
+    "name": "National Women's Soccer League",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252602",
+        "logo_uri": "https://image.tmdb.org/t/p/original/feAXEpMq6z1yCuJykaHEIr7g9TI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.nwslsoccer.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

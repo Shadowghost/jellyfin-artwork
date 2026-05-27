@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Productions du Rapide-Blanc",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20437",
+        "logo_uri": "https://image.tmdb.org/t/p/original/udmAwsZVjwjUCtz2gBMswim46kM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.rapideblanc.ca",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LittleBigMovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2385"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

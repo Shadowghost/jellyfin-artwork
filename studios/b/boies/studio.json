@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Boies",
+    "country": "JP",
+    "homepage": "https://www.bones.co.jp",
+    "headquarters": "Suginami, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2849",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cN3JNIKawjOMtfk0GBVIbsx69bg.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

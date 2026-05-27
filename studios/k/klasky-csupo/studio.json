@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Klasky-Csupo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "59150",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r5SBUNdHCnrDUbZ7hA1SFOOKpGB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.klaskycsupo.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

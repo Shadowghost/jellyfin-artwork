@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pandora Filmverleih",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10343"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

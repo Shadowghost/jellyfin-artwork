@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kinematograf",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91695",
+        "logo_uri": "https://image.tmdb.org/t/p/original/92MGv5y76tBACN5zD6lLsa6pdD8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HR",
+    "homepage": "http://www.kinematograf.hr/en/",
+    "headquarters": "Zagreb",
+    "placeholder": true
+  }
+]

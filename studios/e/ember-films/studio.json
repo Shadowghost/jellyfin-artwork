@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ember Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16043"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

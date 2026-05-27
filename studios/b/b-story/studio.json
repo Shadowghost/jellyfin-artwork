@@ -1,0 +1,14 @@
+[
+  {
+    "name": "B Story",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "50499"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

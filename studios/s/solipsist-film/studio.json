@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Solipsist Film",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "29076"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

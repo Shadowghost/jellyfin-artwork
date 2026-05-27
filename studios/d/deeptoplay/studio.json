@@ -1,0 +1,16 @@
+[
+  {
+    "name": "DeeptoPlay",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "195418",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lmuCTWASuFnaEd1QD2hkPh18sVe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BD",
+    "homepage": "https://www.deeptoplay.com/",
+    "placeholder": true
+  }
+]

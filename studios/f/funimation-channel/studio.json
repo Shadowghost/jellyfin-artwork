@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Funimation Channel",
+    "description": "American digital cable and satellite television channel that aired anime programming; relaunched as the streaming service Funimation, now folded into Crunchyroll.",
+    "country": "US",
+    "type": "cable-network",
+    "providers": [],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

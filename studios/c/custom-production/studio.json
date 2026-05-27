@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Custom Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224030"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

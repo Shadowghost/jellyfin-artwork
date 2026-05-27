@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Francofolies de la Rochelle",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "267691",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mV7t2iZ3aWhgRGTiQIG4iQGbgtg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.francofolies.fr/",
+    "headquarters": "La Rochelle",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Den Danske Filmskole",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "68380",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eOjIRK4edfDS1LRlL7KKE5t3eC8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://www.filmskolen.dk/",
+    "headquarters": "Copenhagen",
+    "placeholder": true
+  }
+]

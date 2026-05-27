@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fax Machine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140710",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2Ku4SoXWAFEkVvcqELktBc5LcDP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://www.faxmachinefilms.com/",
+    "headquarters": "Sydney, NSW",
+    "placeholder": true
+  }
+]

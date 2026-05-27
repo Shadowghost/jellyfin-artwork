@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sverdlovsk Film Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11436",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zvvXyn4CvHqmBX7X6zdbDOCGG3M.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SU",
+    "headquarters": "Sverdlovsk, RSFSR, USSR",
+    "placeholder": true
+  }
+]

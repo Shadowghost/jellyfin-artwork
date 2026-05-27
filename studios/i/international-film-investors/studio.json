@@ -1,0 +1,14 @@
+[
+  {
+    "name": "International Film Investors",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "502"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

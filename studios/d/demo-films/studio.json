@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Demo Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60693"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

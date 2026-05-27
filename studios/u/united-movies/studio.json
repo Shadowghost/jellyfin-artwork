@@ -1,0 +1,13 @@
+[
+  {
+    "name": "United Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55640"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

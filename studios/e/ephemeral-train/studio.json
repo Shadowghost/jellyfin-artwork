@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ephemeral Train",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "284580"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

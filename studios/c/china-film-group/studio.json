@@ -1,0 +1,17 @@
+[
+  {
+    "name": "China Film Group（废弃）",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5635",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5YUGbLSr66xuPGDAjZrMDHzxT2x.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://www.chinafilm.com/",
+    "headquarters": "Beijing, China",
+    "placeholder": true
+  }
+]

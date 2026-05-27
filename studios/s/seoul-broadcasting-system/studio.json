@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Seoul Broadcasting System",
+    "description": "South Korean major private television and radio network based in Seoul.",
+    "country": "KR",
+    "type": "broadcast-network",
+    "homepage": "https://www.sbs.co.kr",
+    "headquarters": "Yangcheon, Seoul, South Korea",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "38369",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uHQFPvRTlpgaIFQVN8eKWEnFOll.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

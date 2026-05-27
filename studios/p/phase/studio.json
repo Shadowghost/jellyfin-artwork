@@ -1,0 +1,13 @@
+[
+  {
+    "name": "phase",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143928"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "name": "ABC2",
+    "description": "Australian free-to-air digital television channel operated by the ABC, later rebranded as ABC Comedy and then ABC TV Plus.",
+    "country": "AU",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51240"
+      }
+    ],
+    "colors": [
+      {
+        "name": "ABC2 green",
+        "hex": "#00B900"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

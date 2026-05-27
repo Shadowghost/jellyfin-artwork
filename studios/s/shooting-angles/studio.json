@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Shooting Angles",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51000"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

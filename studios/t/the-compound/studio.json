@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The Compound",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163602",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hKEHnVQCcAxWw8KERMl1SLA44Id.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://www.thecompound.dk/",
+    "placeholder": true
+  }
+]

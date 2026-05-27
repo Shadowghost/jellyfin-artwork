@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fable Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107190",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2bulClv7G3kbAoGRUyKUD3wwl9M.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://fablepictures.com/",
+    "placeholder": true
+  }
+]

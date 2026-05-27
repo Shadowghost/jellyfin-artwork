@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sriram Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183262"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

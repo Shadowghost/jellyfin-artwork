@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Global Television Network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28976",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3fb5reIq0aHR5UWYUbgI6a3ubEb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.globaltv.com/",
+    "placeholder": true
+  }
+]

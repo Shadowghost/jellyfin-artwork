@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Hollywood Gang Productions",
+    "country": "US",
+    "headquarters": "Burbank, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2994",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jg4nWIIjQ49APUHqTWZ09gArhF8.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

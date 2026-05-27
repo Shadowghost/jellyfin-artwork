@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie Junction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114518"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

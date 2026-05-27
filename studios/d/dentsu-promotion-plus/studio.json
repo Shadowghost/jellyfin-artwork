@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Dentsu Promotion Plus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250861",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k9kVxK1P5uNFIb2H0R5KTvtZrhR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.dentsu-pmp.co.jp/",
+    "placeholder": true
+  }
+]

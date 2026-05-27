@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Matka Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "230507",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8PDXYW2ke0THXG6jYQXEJfkSymH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Bordeaux",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ubique Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92400",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8RN1aj4nr3JOCuydgTSZ3n4KT9P.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://ubiquefilm.com",
+    "headquarters": "Sherbrooke, Quebec",
+    "placeholder": true
+  }
+]

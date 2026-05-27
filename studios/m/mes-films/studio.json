@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mes Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2701"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

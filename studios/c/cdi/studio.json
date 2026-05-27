@@ -1,0 +1,15 @@
+[
+  {
+    "name": "CDI",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8804",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vS0t7Q488Ag2rDmPR9tDAuBkVDS.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

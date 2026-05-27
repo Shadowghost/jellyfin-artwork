@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FAMO Písek",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110190",
+        "logo_uri": "https://image.tmdb.org/t/p/original/usBz1AXGacJ0lfh3LdKlc3WsZRl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://filmovka.cz/cs/famo",
+    "headquarters": "Písek",
+    "placeholder": true
+  }
+]

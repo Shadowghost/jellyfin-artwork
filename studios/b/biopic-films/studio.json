@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Biopic Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200868",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cBq42p2cY0HlIa1QpYBYQNSiQ4z.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://biopic.es/",
+    "headquarters": "Murcia",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Such Much Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13195",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2oaLwYqTQLxSAwMpavMamSVA84j.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.suchmuchfilms.com",
+    "headquarters": "Santa Monica, California",
+    "placeholder": true
+  }
+]

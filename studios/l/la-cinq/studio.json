@@ -1,0 +1,16 @@
+[
+  {
+    "name": "La Cinq",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "132087",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kHWnHqmHppKeltknqRxFWrATb9x.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fastnet Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5353",
+        "logo_uri": "https://image.tmdb.org/t/p/original/geDx1abLYhZECj8veAG0QLCWzMj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "http://fastnetfilms.com",
+    "headquarters": "Dublin",
+    "placeholder": true
+  }
+]

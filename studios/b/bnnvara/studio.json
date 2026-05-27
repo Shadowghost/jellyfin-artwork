@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BNNVARA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100462",
+        "logo_uri": "https://image.tmdb.org/t/p/original/24dhPKt8sDtfWfNs1rsVtskOwZZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://www.bnnvara.nl/",
+    "headquarters": "Hilversum",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "LINE Digital Frontier",
+    "country": "JP",
+    "homepage": "https://ldfcorp.com",
+    "headquarters": "Shinagawa, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218052",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ekDHmKkZgEawMh2tEffOzMXkaYM.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

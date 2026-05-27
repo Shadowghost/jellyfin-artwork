@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Screen Tasmania",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8632",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jrgZ050ZRqrAIEuR14eu3R9fFv8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AU",
+    "homepage": "https://www.screen.tas.gov.au/",
+    "headquarters": "Hobart, Tasmania",
+    "placeholder": true
+  }
+]

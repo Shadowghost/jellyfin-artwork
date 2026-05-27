@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films de la Chapelle",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160715",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nFSiXxQZ0OJWOwzfleI2pruoJPx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.lesfilmsdelachapelle.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Minimal Movies Documentary",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "295344"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

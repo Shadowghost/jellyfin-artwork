@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pantera",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200979"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://pantera.co/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

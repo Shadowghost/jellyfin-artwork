@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Omni Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18067"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

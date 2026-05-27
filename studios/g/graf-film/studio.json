@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Graf Film",
+    "homepage": "https://www.graffilm.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8274"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

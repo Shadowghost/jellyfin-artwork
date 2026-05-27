@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Get Some Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167508"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

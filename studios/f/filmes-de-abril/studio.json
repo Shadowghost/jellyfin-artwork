@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmes de Abril",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90217",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7YU41JGi9vvgGB4eWxXXP5EuUTq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.filmesdeabril.com.br/",
+    "headquarters": "São Paulo SP",
+    "placeholder": true
+  }
+]

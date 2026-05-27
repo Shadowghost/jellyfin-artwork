@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Mock Yeah Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "175401",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e8aoMiUDGdQprRRuuq61SZuwE9u.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

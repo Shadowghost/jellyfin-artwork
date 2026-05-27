@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Metronome Musica de Peliculas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99863"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

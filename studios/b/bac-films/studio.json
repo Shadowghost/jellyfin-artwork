@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Bac Films",
+    "description": "French film distribution and international sales company founded in 1986, handling theatrical distribution in France and worldwide sales.",
+    "country": "FR",
+    "type": "distributor",
+    "homepage": "http://www.bacfilms.com/production/",
+    "headquarters": "Paris, France",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "208",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bxQYlRhQu6nbohBEL0SWz8xIAGy.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "BAC Films"
+    ],
+    "template": true
+  }
+]

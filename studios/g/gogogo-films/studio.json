@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gogogo Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129950",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q99i0HTouIYYnsMbQ9mEMzVBkMn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.gogogo-films.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

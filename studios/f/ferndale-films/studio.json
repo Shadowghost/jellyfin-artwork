@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ferndale Films",
+    "country": "IE",
+    "homepage": "https://www.ferndalefilms.com/",
+    "headquarters": "Dublin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1468"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

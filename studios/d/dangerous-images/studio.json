@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Dangerous Images",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249242"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

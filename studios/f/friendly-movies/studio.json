@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Friendly Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "298352"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

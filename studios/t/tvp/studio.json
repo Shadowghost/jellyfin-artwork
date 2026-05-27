@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TVP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "121259"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://www.tvpublica.com.ar",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

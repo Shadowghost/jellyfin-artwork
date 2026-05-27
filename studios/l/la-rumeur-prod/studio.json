@@ -1,0 +1,13 @@
+[
+  {
+    "name": "La Rumeur Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100472"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

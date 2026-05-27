@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MNC Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "69003",
+        "logo_uri": "https://image.tmdb.org/t/p/original/myijutPRTtVLlwUZjLAvAuzf8db.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ID",
+    "homepage": "https://www.mncpictures.com",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "bsf",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104500"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

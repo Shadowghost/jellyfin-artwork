@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Piano",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19771",
+        "logo_uri": "https://image.tmdb.org/t/p/original/anRmhRCSY9fXOIygcjjVHL4bWL1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://www.somospiano.com",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RocketJump",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35224",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gk1IiAm8GZ5t7cQLpVT0NR5TwPY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://rocketjump.com",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

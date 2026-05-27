@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BintFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151026"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

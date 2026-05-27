@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tale Runners",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192940",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4SwjiWl3ag1Ij7RLuYns9UAaISy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IL",
+    "homepage": "https://www.talerunners.com/",
+    "headquarters": "Jerusalem",
+    "placeholder": true
+  }
+]

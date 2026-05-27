@@ -1,0 +1,14 @@
+[
+  {
+    "name": "CloseFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270055"
+      }
+    ],
+    "artwork": {},
+    "country": "AT",
+    "placeholder": true
+  }
+]

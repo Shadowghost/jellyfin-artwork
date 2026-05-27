@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nostalgia Shop Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150051",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aMZneUN6HoDmF7WKm3baBvKjEIt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.nostalgiashopfilms.com/",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

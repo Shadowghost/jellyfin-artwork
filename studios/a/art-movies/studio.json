@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Art Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86933"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Florida Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "28506"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

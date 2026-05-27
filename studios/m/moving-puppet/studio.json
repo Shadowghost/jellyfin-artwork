@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Moving Puppet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "153632"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

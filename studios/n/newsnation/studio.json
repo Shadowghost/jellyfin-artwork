@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NewsNation",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "183588"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

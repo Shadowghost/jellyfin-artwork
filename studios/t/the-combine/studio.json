@@ -1,0 +1,15 @@
+[
+  {
+    "name": "The Combine",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "27450",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mZI9ZCAveJPEFRXlTcxlZKYrw2m.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Doppler Audio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198145"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

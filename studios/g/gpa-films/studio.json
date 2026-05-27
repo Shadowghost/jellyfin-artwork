@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GPA Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62713",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kU0WIeX0ziUE4xdkC4TrFGZCp0m.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://gpafilms.ca",
+    "headquarters": "Longueuil, Quebec",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Roberta Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51093"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

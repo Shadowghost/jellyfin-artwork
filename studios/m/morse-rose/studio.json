@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Morse Rose",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "102414"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://morserose.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

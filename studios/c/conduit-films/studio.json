@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Conduit Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "186421",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2NzbCTcxcMvTz05POUpDDSUguCl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.conduit-films.com",
+    "headquarters": "California",
+    "placeholder": true
+  }
+]

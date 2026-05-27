@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BipTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204574",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cCKo5MG0ZEeb1zmDCOLN0bUTScJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.biptv.tv/",
+    "headquarters": "Issoudun",
+    "placeholder": true
+  }
+]

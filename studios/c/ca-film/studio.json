@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CA-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119959"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NSFTV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101345"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

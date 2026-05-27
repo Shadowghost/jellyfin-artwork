@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FILM.UA Group",
+    "country": "UA",
+    "homepage": "https://film.ua/en/",
+    "headquarters": "Kyiv",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21652",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o5qeK1nhECoVkuIxMO4T6yBYqwX.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

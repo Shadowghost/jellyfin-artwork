@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Animal’s Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "163721"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

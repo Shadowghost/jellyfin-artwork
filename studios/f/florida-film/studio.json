@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Florida Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142605",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3OW1AXfwcfaBLGJz5qNgTBjFFIO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.floridatv-entertainment.de/#Film",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

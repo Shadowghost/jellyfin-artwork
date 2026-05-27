@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Strange Trace",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185487"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

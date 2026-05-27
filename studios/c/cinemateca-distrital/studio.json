@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Cinemateca Distrital",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89240"
+      }
+    ],
+    "artwork": {},
+    "country": "CO",
+    "headquarters": "Bogotá, Colombia",
+    "placeholder": true
+  }
+]

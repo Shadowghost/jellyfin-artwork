@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Creek",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "173116",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tOdZzJz26XrPDsUWoEDaJAI236d.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://creek-inc.jp/",
+    "placeholder": true
+  }
+]

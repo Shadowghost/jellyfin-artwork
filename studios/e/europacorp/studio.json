@@ -1,0 +1,32 @@
+[
+  {
+    "name": "EuropaCorp",
+    "description": "French film production and distribution company founded by Luc Besson, known for Taken, Lucy, and Valerian.",
+    "country": "FR",
+    "type": "production-company",
+    "homepage": "http://www.europacorp.com/",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6896",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

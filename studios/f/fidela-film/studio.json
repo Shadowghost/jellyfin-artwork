@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fidela Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "226937",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mlrDezWNWuk1UkjLJh5CDkJrvSM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://www.fidelafilm.it/",
+    "headquarters": "Rome",
+    "placeholder": true
+  }
+]

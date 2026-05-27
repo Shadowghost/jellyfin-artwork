@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Epipheo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272677",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dFi27ZAsPJzvmus5bzDHK91ZFIQ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://epipheo.com/",
+    "headquarters": "Norwood, Ohio",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Helsinki Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223529"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

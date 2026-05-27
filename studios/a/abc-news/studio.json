@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ABC News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25992",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6s8EPSIUw1APohH6lV2bsA9o3Xz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://abcnews.go.com",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

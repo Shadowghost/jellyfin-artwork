@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Popcorn Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "170200"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Quijote Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84642",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kBjtbXhMLz55Ghkp6dOHKXI4VVt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CL",
+    "homepage": "http://www.quijotefilms.com/cine/",
+    "headquarters": "Santiago",
+    "placeholder": true
+  }
+]

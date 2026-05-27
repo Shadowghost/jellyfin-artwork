@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Goldkind Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "221424",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lZglSSQrBZsRm2APC14dzulkFiX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://goldkindfilm.com/",
+    "headquarters": "Munich, Bavaria",
+    "placeholder": true
+  }
+]

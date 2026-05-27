@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Spin a Black Yarn",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "144586",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zJpOzVCUgmlNJJJe8PzS5lsurgW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

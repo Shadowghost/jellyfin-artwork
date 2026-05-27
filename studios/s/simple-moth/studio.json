@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Simple Moth",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "294450"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

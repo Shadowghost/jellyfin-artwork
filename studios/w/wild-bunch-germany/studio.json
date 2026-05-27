@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Wild Bunch Germany",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "24145",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fp5JJvHZFHAqylqXRCoX99ut3zw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.wildbunch-germany.de/en",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

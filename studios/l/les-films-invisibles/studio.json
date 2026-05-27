@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Les Films Invisibles",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214349",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7nz1efWjbi7KIGpBK6Cylq3nJkZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

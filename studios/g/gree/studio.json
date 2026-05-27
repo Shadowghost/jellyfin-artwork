@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GREE",
+    "country": "JP",
+    "homepage": "http://www.gree.co.jp/",
+    "headquarters": "Minato, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151191",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wBA1v3dFtpRARIE7sYxc657x7rQ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "civic films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193864",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wd5I1x9gJtLFHpPxNhA5gVpobqs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.civicfilms.org/",
+    "headquarters": "San Diego, California",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "esan movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "200750"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

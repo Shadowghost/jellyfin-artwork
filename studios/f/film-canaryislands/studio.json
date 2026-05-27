@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Film!CanaryIslands",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "158332",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1BeY2Iwse7Ws5BOLihWBJ9VkNaw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.filmcanaryislands.com/",
+    "headquarters": "Tenerife, Canary Islands",
+    "placeholder": true
+  }
+]

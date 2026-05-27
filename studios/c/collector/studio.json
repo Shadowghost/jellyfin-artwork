@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Collector",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "107273",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mdjeFQ0WY2Xk85FLkkfwRWL7AUi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.collector.se/",
+    "headquarters": "Gothenburg, Sweden",
+    "placeholder": true
+  }
+]

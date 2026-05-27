@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Reykjavik Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117113"
+      }
+    ],
+    "artwork": {},
+    "country": "IS",
+    "placeholder": true
+  }
+]

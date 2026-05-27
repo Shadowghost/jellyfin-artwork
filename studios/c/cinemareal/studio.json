@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CinemaReal",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141340"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

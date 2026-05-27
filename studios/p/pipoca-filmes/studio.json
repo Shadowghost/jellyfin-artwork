@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Pipoca Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125205"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

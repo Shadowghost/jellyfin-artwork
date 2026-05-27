@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Foma Kino",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "222701"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "headquarters": "https://fomakino.com/projects",
+    "placeholder": true
+  }
+]

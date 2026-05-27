@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Red Granite Pictures",
+    "description": "American film production company, known for The Wolf of Wall Street and Daddy's Home, notable for involvement in the 1MDB scandal.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://www.redgranitepictures.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "19177"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

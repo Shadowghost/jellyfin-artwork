@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kunsthalle Basel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255819"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Un film qui me plaît",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "281812"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

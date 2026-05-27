@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Next Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46346",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pcBTGWDtsjOSTIczHTfThttHe9P.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://www.next-film.pl/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

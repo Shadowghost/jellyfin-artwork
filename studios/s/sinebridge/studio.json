@@ -1,0 +1,13 @@
+[
+  {
+    "name": "sinebridge",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "74224"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Plex",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "283072"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

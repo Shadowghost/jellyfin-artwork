@@ -1,0 +1,17 @@
+[
+  {
+    "name": "National Gugak Center",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256478",
+        "logo_uri": "https://image.tmdb.org/t/p/original/raQD0wJgzCT7MJEtgymuSDwTvck.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.gugak.go.kr/",
+    "headquarters": "Seocho, Seoul, South Korea",
+    "placeholder": true
+  }
+]

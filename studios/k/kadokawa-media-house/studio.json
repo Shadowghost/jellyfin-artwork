@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KADOKAWA Media House",
+    "country": "JP",
+    "homepage": "http://www.kmh.kadokawa.co.jp/",
+    "headquarters": "Chiyoda, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157001",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vDBycpPRLKBf7T0RQbQtU49BQO6.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

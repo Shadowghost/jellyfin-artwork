@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Australian Film Commission",
+    "description": "Australian federal government agency for film support; merged into Screen Australia in 2008.",
+    "country": "AU",
+    "type": "government-agency",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "417",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w7d3hoHQaC0XwjrxEG1yPeuUhu5.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

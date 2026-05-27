@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Menoboy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111459",
+        "logo_uri": "https://image.tmdb.org/t/p/original/o6OmOyXvDYxPGeJDdW5KHc0Wyka.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.menoboy.com",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CPB Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "80138",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sfVmSNU1aq6g6zZ7DsdPYIHqZ3R.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://cpbfilms.com/en",
+    "headquarters": "108, avenue Ledru Rollin 75011 Paris, France",
+    "placeholder": true
+  }
+]

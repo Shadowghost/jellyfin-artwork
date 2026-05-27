@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Euronews",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "166969",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rd1niQs3o6HiHaRexSTlxykCUAN.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

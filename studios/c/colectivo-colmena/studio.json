@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Colectivo Colmena",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157164",
+        "logo_uri": "https://image.tmdb.org/t/p/original/83gtYLjwREnG0ex4U2LrSEoCXiP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://colmena.tv/",
+    "headquarters": "Colonia Juárez, Mexico City",
+    "placeholder": true
+  }
+]

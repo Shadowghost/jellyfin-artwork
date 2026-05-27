@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Loma Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "177564",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7G7yJhVcCi4t8uI8slFKR0OZaPB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.lomafilmes.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lakeport Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39965",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4gP4SBj6FWUEh2mTeAG4gB8sf3W.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://lakeportpictures.com",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

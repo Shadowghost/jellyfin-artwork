@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Razor Film Produktion",
+    "country": "DE",
+    "homepage": "http://razor-film.de",
+    "headquarters": "Berlin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "703",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lMV4teVPQWJxIaiDsAsU7Vdh1iC.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

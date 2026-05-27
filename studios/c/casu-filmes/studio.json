@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CASU Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124827"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

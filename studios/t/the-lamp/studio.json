@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The LAMP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92012",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lGELj7l0lQpnbC4uYm3nX4jS4d1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "headquarters": "Gangnam, Seoul, South Korea",
+    "placeholder": true
+  }
+]

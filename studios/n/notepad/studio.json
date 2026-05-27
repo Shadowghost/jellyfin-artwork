@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Notepad",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "249721"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

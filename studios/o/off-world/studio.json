@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Off World",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46750",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rDqY6EqEL6V3DV0HhMj8TtVyeDo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "http://www.offworld.be",
+    "headquarters": "Brussels",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "EBAM Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "295099"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

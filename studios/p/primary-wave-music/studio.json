@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Primary Wave Music",
+    "country": "US",
+    "homepage": "https://primarywave.com",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "132659"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

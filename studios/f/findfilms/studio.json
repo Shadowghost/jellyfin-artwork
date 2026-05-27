@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FindFilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "224035"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

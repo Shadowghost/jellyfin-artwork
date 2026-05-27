@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ImageryStorm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52894"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "La Sept Cinéma",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "16366",
+        "logo_uri": "https://image.tmdb.org/t/p/original/llLC13cdNDmJbq0E0PG8fraWsLp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

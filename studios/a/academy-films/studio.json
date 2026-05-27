@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Academy Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "54030",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xByssKLJXiLHX5QJl7icVqCeG8r.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.academyfilms.com",
+    "headquarters": "16 West Central Street, London WC1A 1JJ",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MBL Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123246"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

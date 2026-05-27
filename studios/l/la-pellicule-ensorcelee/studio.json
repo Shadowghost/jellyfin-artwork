@@ -1,0 +1,16 @@
+[
+  {
+    "name": "La Pellicule Ensorcelée",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "243650",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5riHX28sQ4AjEBkxkF5yCwfXVwM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://lapelliculeensorcelee.org/",
+    "placeholder": true
+  }
+]

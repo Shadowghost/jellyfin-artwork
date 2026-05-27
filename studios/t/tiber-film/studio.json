@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tiber-film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "49993"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

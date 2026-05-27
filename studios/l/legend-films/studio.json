@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Legend Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3794",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sCZVjOxmERbBE99pcHFkjXjxkg8.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "http://www.legendfilms.net/",
+    "headquarters": "San Diego, California, USA"
+  }
+]

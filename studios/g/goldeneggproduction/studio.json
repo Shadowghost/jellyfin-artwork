@@ -1,0 +1,16 @@
+[
+  {
+    "name": "GoldenEggProduction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91765"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "http://www.goldeneggproduction.ch/profil-en",
+    "headquarters": "Geneva",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Aleph",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10188",
+        "logo_uri": "https://image.tmdb.org/t/p/original/es95AfZkgSEFwxub9zfhrjlnnCc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://www.alephcine.com",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

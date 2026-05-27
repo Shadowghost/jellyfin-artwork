@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Postcard",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "293751"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

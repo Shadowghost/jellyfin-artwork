@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Asahi Broadcasting Nagano",
+    "description": "Japanese television station based in Nagano Prefecture, affiliated with the ANN (All-Nippon News Network).",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.abn-tv.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271784",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rGPAgJnB0wF7FAnXjpv2F21ReoM.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

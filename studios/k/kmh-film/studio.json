@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KMH Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17432",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wrmpBz1aEednbIOutgO1dBU7mCU.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "https://www.kmhfilm.hu",
+    "headquarters": "Budapest",
+    "placeholder": true
+  }
+]

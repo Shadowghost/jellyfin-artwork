@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Studio Bon Soleil",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "289233",
+        "logo_uri": "https://image.tmdb.org/t/p/original/nP5b7TIZcEpEHWPjGlfgJF0ymEv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.studiobonsoleil.com/",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

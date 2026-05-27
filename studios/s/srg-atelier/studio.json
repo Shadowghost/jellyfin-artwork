@@ -1,0 +1,14 @@
+[
+  {
+    "name": "SRG Atelier",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210890"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Upstart Film Collective",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "97669",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qvykSLlJDfmyLiDjOKCkW1svawF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.upstartfilmcollective.com/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Saba Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234145",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4oiSf8WEAVaVBA0g6xauQ5zNXJs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.sabafilm.com.tr/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

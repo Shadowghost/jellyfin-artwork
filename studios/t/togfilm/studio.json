@@ -1,0 +1,14 @@
+[
+  {
+    "name": "TogFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123360"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

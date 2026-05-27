@@ -1,0 +1,16 @@
+[
+  {
+    "name": "La Mirada Oblicua",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52885",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bp1BpCPsKnpUlAxhWaVMocdt2vT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.lamiradaoblicua.es",
+    "placeholder": true
+  }
+]

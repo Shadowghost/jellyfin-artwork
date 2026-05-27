@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Optical-Core",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58121"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

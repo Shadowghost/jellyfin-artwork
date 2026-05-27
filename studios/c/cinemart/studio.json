@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CinemArt",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7976"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.cinemart.cz",
+    "headquarters": "Prague, Czech Republic",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PM Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "244067"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

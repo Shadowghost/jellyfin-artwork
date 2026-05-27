@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cinemateca do Museu Guido Viaro",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273412"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

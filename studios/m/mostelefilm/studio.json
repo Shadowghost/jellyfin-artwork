@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mostelefilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117017",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fzzEmNypoxR7Z917v2HjK1IWInw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://mostelefilm.ru/",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

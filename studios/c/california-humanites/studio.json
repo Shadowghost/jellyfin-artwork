@@ -1,0 +1,16 @@
+[
+  {
+    "name": "California Humanites",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "152799",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5FwGpC8iliH1a0N5iNmRlDv6VQR.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://calhum.org/",
+    "placeholder": true
+  }
+]

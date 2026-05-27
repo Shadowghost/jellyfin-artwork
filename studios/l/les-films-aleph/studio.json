@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Les Films Aleph",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75642"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

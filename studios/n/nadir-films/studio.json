@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nadir Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "125911",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t8NKolJDVDof0vwbKJZ3OhCu58O.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://nadirfilms.com",
+    "headquarters": "Barcelona, Catalonia",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Tobis",
+    "country": "DE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "480"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

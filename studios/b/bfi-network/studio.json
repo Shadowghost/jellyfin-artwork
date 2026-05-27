@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BFI Network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124380",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qIdZ9URViV66jgRCJKwnQHeOcB0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.bfi.org.uk",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

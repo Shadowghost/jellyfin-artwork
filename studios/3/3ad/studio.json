@@ -1,0 +1,17 @@
+[
+  {
+    "name": "3AD",
+    "country": "US",
+    "homepage": "http://3admedia.com",
+    "headquarters": "Hollywood, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90375",
+        "logo_uri": "https://image.tmdb.org/t/p/original/n1DLv6P0RaxqvJRnOXPRNuqDwfQ.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dolby",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20560",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vDqA81heS9nco9CdQhsiMe87PXL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.dolby.com",
+    "headquarters": "San Francisco, California",
+    "placeholder": true
+  }
+]

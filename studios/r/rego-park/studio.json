@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Rego Park",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "218445"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

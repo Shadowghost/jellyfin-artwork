@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NWDR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12815",
+        "logo_uri": "https://image.tmdb.org/t/p/original/krVAKPR2h15QvDpBYQc2H0GcNLb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Hamburg",
+    "placeholder": true
+  }
+]

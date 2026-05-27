@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SMTS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "22999"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

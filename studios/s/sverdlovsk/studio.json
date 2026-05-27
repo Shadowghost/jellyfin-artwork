@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sverdlovsk",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123128"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Greenwich tiger",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "263211"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

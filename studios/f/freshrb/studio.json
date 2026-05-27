@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FreshRB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239863"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

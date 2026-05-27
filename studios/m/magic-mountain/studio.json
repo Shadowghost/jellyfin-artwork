@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Magic Mountain",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111102"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

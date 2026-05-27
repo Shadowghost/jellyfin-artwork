@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Good Smile Film",
+    "description": "Japanese manufacturer of hobby products (Nendoroid, figma) and anime production committee member; Good Smile Film is the company's film production division.",
+    "country": "JP",
+    "type": "production-company",
+    "homepage": "https://www.goodsmile.info/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60197",
+        "logo_uri": "https://image.tmdb.org/t/p/original/D5B8l99tlFJGoMpYJk1kqxYdey.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Good Smile Company"
+    ],
+    "template": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "American Documentary",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20590",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pco0XApCHktibWvUG2IpGj4DBV9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.amdoc.org/",
+    "placeholder": true
+  }
+]

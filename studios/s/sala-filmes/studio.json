@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sala Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140234"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NBDK Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110732"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

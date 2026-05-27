@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Play-Doh",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "269868",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qO25KZm959CiFqvuajppgrtLL1z.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

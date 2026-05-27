@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Berlin Producers",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106922",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ve3Btm9GUqlPNvboCHQgPZveFBp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.berlin-producers.de/en",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

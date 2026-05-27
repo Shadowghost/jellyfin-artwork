@@ -1,0 +1,15 @@
+[
+  {
+    "name": "CP Medien",
+    "country": "DE",
+    "headquarters": "Ludwigsburg",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5521"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

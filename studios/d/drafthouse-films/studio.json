@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Drafthouse Films",
+    "country": "US",
+    "headquarters": "Austin, Texas, United States",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10485",
+        "logo_uri": "https://image.tmdb.org/t/p/original/87tUvESDOf46JSIYLXLGIWhE73q.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

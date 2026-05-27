@@ -1,0 +1,17 @@
+[
+  {
+    "name": "StartAnima",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15313",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yVtcY4tD7QH4GrzZs7dpZL40opo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://www.startanima.com.br",
+    "headquarters": "Rua França Pinto, 964 Vila Mariana, São Paulo, SP,  Brazil",
+    "placeholder": true
+  }
+]

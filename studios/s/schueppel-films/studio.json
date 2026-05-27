@@ -1,0 +1,15 @@
+[
+  {
+    "name": "schueppel-films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "113806"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

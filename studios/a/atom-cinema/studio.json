@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Atom Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "30593"
+      }
+    ],
+    "artwork": {},
+    "country": "TW",
+    "placeholder": true
+  }
+]

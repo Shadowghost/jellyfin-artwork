@@ -1,0 +1,15 @@
+[
+  {
+    "name": "ATF Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "151440",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6T4662hfL47TC50u6XMxYc63s5Q.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IQ",
+    "placeholder": true
+  }
+]

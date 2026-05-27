@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kinorama Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255721",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sLPpeDkekrvLJUFHMmQf32fPYqZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://kinorama.pictures",
+    "placeholder": true
+  }
+]

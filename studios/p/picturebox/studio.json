@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Picturebox",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10977"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

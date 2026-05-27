@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Free Movie Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123826"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

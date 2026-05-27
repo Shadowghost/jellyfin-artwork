@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tokuma Shoten",
+    "country": "JP",
+    "homepage": "https://www.tokuma.jp/",
+    "headquarters": "Shinagawa, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1779",
+        "logo_uri": "https://image.tmdb.org/t/p/original/41nGzTdCnORYZIZzaGZtfsBwQCl.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

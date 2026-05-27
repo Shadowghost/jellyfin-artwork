@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Eureka Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "185363",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7ETifhFkq1MfhJZ5cj4ysSG3p5f.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://eurekastudio.eu/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

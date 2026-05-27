@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TV Nova",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "31292",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6EeaMNiKbomWHsB5jq5W5vflOj2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://tv.nova.cz/",
+    "headquarters": "Prague, Czech Republic",
+    "placeholder": true
+  }
+]

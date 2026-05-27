@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nobody Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258027",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dV1s5bdiLMEvU53C0tIfcbCUOwD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://nobodyfilms.fr",
+    "headquarters": "Calvi",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Graffiti Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "207708",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2EHQ13Dt1cAFYJTEsAyx9f3dKQt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.graffitidoc.it/",
+    "headquarters": "Torino",
+    "placeholder": true
+  }
+]

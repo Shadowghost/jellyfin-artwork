@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ex Libris Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "287074"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

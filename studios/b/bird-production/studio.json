@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bird Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "111883"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

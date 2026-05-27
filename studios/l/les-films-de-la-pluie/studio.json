@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les Films de la pluie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123241"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

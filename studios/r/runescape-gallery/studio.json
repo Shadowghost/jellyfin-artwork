@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Runescape Gallery",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257599"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

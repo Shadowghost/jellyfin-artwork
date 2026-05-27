@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FPT Play",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270114"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "BBC World News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66880",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6YaxSJxuqKs1mvxFwLt71SCySuD.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

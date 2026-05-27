@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SBS New Documentaries",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "212945"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

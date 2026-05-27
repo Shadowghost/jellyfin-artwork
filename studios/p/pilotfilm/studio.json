@@ -1,0 +1,13 @@
+[
+  {
+    "name": "pilotfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7199"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

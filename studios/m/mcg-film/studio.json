@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MCG Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241980",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wVYy5qqHgEv7Z1OCyf7rHyOhiPv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.mcgfilm.com/",
+    "headquarters": "İstanbul",
+    "placeholder": true
+  }
+]

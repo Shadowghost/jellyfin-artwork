@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Apollo AVP",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "220855"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

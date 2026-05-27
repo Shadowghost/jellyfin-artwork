@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Rita Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "135062",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zPQGuQgmKZQXc75rDD6BNFnT8qp.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "http://ritacine.com.ar",
+    "placeholder": true
+  }
+]

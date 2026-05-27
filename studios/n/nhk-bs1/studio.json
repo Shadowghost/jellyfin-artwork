@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NHK BS1",
+    "country": "JP",
+    "homepage": "https://www6.nhk.or.jp/nhkpr/tag/index.html?i=06644",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18969",
+        "logo_uri": "https://image.tmdb.org/t/p/original/md392pHNN6pSsINZimty9jrbHEo.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

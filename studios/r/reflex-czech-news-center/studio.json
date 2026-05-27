@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Reflex/Czech News Center",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118887"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://www.cncenter.cz",
+    "headquarters": "Prague, Czech Republic",
+    "placeholder": true
+  }
+]

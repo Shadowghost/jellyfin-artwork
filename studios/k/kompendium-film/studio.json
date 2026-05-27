@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kompendium Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209651",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hpa4ZeMdDdOUo0r40nNioxS06MH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.kompendiumfilm.com/",
+    "headquarters": "Bergen",
+    "placeholder": true
+  }
+]

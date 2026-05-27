@@ -1,0 +1,16 @@
+[
+  {
+    "name": "AEON",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194162",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mREPaaVtXQjW7atNm8oiOvu6WLn.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.aeon.info",
+    "placeholder": true
+  }
+]

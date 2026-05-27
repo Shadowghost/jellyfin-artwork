@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Toronto Film School",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89481",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xJjE27XL3W5WyklUhawkKr7O7it.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "placeholder": true
+  }
+]

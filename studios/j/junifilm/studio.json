@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Junifilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56362",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bBI4iiqT8LDjtetbHyyjIL0Lf59.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.junifilm.de",
+    "placeholder": true
+  }
+]

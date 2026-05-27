@@ -1,0 +1,16 @@
+[
+  {
+    "name": "DMM.futureworks",
+    "country": "JP",
+    "homepage": "https://dmm-futureworks.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123172",
+        "logo_uri": "https://image.tmdb.org/t/p/original/52z6trsASwSR0hVhwgNJ4KkmOd2.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

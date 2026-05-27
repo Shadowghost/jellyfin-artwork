@@ -1,0 +1,29 @@
+[
+  {
+    "name": "WE tv",
+    "description": "American basic cable channel owned by AMC Networks, targeting a female audience with reality and lifestyle programming.",
+    "country": "US",
+    "type": "cable-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90241"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

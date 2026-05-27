@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Muzej Savremene umetnosti",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133165"
+      }
+    ],
+    "artwork": {},
+    "country": "RS",
+    "headquarters": "Beograd",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lloyds TSB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "86222"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Seabreeze Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203106",
+        "logo_uri": "https://image.tmdb.org/t/p/original/w7RxXryoUDs3uI0o28JjTWwNQ1u.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.seabreezefilms.com/",
+    "headquarters": "Seattle, Washington",
+    "placeholder": true
+  }
+]

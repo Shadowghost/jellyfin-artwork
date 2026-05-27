@@ -1,0 +1,16 @@
+[
+  {
+    "name": "FuRyu Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "285767",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9oek9p93tkrFpX9v1lOHm2zjSLs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.furyu-pictures.jp",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "stateless films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "89179"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

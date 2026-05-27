@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cypher films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "85067"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

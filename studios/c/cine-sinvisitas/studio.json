@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine SinVisitas",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157025"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

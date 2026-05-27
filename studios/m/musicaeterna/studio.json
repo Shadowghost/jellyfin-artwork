@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MusicAeterna",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210008"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

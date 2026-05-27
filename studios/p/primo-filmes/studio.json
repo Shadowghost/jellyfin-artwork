@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Primo Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33792",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wN0HwkFPORlOmJUHv78iOqxhA90.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "http://primofilmes.net/web/en/",
+    "headquarters": "São Paulo, São Paulo",
+    "placeholder": true
+  }
+]

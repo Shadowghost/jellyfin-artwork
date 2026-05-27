@@ -1,0 +1,16 @@
+[
+  {
+    "name": "China Film Administration",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "254511"
+      }
+    ],
+    "artwork": {},
+    "country": "CN",
+    "homepage": "https://www.chinafilm.gov.cn/",
+    "headquarters": "Beijing, China",
+    "placeholder": true
+  }
+]

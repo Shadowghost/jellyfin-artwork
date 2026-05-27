@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie World",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13574"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

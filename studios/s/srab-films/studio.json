@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Srab Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101932",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4rIkZawmATzcjB5vOLzUap7XdB1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.srabfilms.fr",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

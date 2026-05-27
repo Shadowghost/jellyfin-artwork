@@ -1,0 +1,26 @@
+[
+  {
+    "name": "TF1 Séries Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204416"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Deutsche Bioscope",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51972"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

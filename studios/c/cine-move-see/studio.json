@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Cine Move See",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "33786"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

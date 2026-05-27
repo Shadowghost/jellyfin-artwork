@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Al Arabiya",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "131867",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fOYXRQbhHXQI3H9JtHGFJgR4xN3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SA",
+    "homepage": "https://www.alarabiya.net/",
+    "headquarters": "Dubai, United Arab Emirates",
+    "placeholder": true
+  }
+]

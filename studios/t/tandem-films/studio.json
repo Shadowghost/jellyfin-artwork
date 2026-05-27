@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tandem Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23295",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qhcd72CVp5XobLPpr4J4uDppm5T.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://tandemfilms.es",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

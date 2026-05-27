@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Persian Sarv",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133629",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1Dhrlvhu02OVQscEknt8JKVP0Pt.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IR",
+    "homepage": "http://persiansarv.com/en",
+    "headquarters": "Tehran, Iran",
+    "placeholder": true
+  }
+]

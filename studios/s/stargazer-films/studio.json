@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Stargazer Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62763",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xuR3B9b9lAvpoTcScwWbKgr8beJ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://stargazerfilmsusa.com",
+    "headquarters": "Louisville, Kentucky",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Arizona Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100879"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "http://arizonafilmes.com",
+    "headquarters": "Oeiras Carnaxide",
+    "placeholder": true
+  }
+]

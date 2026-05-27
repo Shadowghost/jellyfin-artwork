@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LAVS Foto e Vídeo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "255550"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

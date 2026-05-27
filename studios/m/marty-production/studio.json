@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MARTY Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91431",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4gJyeiq2TBGRw9Fr2cArlOpc6aq.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://martyestuneentreprise.com",
+    "headquarters": "Sorbais",
+    "placeholder": true
+  }
+]

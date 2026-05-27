@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Les Films du Veyrier",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3452"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

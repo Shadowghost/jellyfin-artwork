@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nushi Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119298",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3geMVLtHyvNXa51Iwq54wJiE8NX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GE",
+    "homepage": "https://www.nushifilm.com/",
+    "headquarters": "Tbilisi",
+    "placeholder": true
+  }
+]

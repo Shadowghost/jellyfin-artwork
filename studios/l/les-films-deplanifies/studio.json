@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Les films déplanifiés",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271978"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Get Some Popcorn",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213483"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

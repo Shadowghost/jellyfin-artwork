@@ -1,0 +1,15 @@
+[
+  {
+    "name": "GloboNews",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79744",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yGT0Z3V6aBdT07vroK6rnYYtM19.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

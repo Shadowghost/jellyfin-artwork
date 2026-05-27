@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Faro Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "250116"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

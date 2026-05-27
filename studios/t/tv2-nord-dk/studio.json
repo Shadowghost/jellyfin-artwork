@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TV2 Nord (DK)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197984",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g7ydoWPYAE9xKX7Od9HJ2uR17ec.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://www.tv2nord.dk/",
+    "headquarters": "Søparken 4, 9440 Aabybro, Denmark",
+    "placeholder": true
+  }
+]

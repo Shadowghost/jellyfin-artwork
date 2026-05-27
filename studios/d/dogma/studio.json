@@ -1,0 +1,16 @@
+[
+  {
+    "name": "DOGMA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180553",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mWP1eBx2Ctc5ouPPBW2TjmR0VG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "http://www.dogma.co.jp",
+    "placeholder": true
+  }
+]

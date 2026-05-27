@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Filmstudio der NVA",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "198023",
+        "logo_uri": "https://image.tmdb.org/t/p/original/eZUBAYLLU2JkccHiEhvk5Gatv3a.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Potsdam",
+    "placeholder": true
+  }
+]

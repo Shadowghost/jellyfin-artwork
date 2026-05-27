@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MWM media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "216161",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3uy9huRDTzyp1TUUW7ow1th2kJw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://mwmmedia.pl/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

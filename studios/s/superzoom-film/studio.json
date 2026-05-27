@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Superzoom Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "269427",
+        "logo_uri": "https://image.tmdb.org/t/p/original/arfI55Svau0bcLDpWRBocb4VwXz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://superzoom-film.de/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

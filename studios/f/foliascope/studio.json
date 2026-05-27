@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Foliascope",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21562",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wdBkO3oqLpPfUkD1CTHdaId7HqB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.foliascope.fr/",
+    "headquarters": "1425 chemin de Reboulet, 26760 Beaumont-lès-Valence",
+    "placeholder": true
+  }
+]

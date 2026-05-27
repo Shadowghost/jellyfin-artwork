@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Fleur de Lys",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "217622",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9fv4P0AIoEWazn8gBMvS94JZvbY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "VN",
+    "placeholder": true
+  }
+]

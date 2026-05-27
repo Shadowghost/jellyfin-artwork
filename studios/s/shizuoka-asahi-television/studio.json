@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Shizuoka Asahi Television",
+    "country": "JP",
+    "homepage": "https://www.satv.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248369",
+        "logo_uri": "https://image.tmdb.org/t/p/original/34nBfbkqxcjrbpVraEfI6MkCvgY.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

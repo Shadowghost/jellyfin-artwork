@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Les Films d'Ici Méditerranée",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "130159"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.filmsdicimediterranee.fr",
+    "headquarters": "Montpellier",
+    "placeholder": true
+  }
+]

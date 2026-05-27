@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Climage",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21530",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cEJO4W8D2eXoeaWz16PC9SkjxmN.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CH",
+    "homepage": "https://climage.ch",
+    "headquarters": "Lausanne",
+    "placeholder": true
+  }
+]

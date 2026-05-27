@@ -1,0 +1,15 @@
+[
+  {
+    "name": "FRONTLINE",
+    "country": "JP",
+    "headquarters": "Musashino, Tokyo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117072"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

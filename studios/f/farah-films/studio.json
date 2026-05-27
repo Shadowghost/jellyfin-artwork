@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Farah Films",
+    "country": "US",
+    "homepage": "http://www.farahfilms.com",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "65368"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

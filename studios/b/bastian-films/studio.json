@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bastian Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "54390",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sB6xwW1qU0162VzqGPmRONsl6vP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://bastianfilms.com/",
+    "headquarters": "Barcelona",
+    "placeholder": true
+  }
+]

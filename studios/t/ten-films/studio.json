@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ten Films",
+    "country": "FR",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8018"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

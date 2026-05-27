@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DOKblick",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "199550",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qNZ1UfeWvUQsR2PPSy3Ps4nghad.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.dok-blick.de/",
+    "headquarters": "Berlin, Germany",
+    "placeholder": true
+  }
+]

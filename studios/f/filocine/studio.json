@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FiloCine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "83961"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

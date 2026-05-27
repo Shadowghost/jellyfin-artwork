@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TiJi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124050",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rN7G6YvZYO4MKkiVldS3jpeTZxc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.tiji.fr/",
+    "headquarters": "2 rue des Cévennes, 75015 Paris",
+    "placeholder": true
+  }
+]

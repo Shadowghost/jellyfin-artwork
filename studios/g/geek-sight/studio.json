@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Geek Sight",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "18835",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hWFJV176ts0kQdKOwc8ynDjLY7E.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://geeksight.co.jp/",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

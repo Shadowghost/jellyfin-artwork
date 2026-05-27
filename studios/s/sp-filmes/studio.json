@@ -1,0 +1,15 @@
+[
+  {
+    "name": "SP Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "98407"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "headquarters": "Lisboa",
+    "placeholder": true
+  }
+]

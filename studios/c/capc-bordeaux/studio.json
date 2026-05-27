@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CAPC-Bordeaux",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "91026"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

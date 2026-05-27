@@ -1,0 +1,17 @@
+[
+  {
+    "name": "I Imagine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71998",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2xkcO1LmRrZ2c4Rbgv21CIbfwzF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://iimagine.org",
+    "headquarters": "New York City, New York",
+    "placeholder": true
+  }
+]

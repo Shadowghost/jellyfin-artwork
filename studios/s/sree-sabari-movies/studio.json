@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sree Sabari Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21102"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

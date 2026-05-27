@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Larkin Lane Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214370",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sAJwwxrPqYk03FmaxtZHuFtpaw2.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.larkinlanefilms.com/",
+    "placeholder": true
+  }
+]

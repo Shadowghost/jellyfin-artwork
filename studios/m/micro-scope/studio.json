@@ -1,0 +1,17 @@
+[
+  {
+    "name": "micro_scope",
+    "country": "CA",
+    "homepage": "http://micro-scope.ca/en/",
+    "headquarters": "Montréal, Québec",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7029",
+        "logo_uri": "https://image.tmdb.org/t/p/original/i49Jb3md21vxSOY3bBXRvCRXYKX.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

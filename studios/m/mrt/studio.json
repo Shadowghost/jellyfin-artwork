@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MRT",
+    "country": "MK",
+    "homepage": "http://www.mrt.com.mk/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120707",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xs0jMU0LhWEOYnRpX05cXBuAiQq.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

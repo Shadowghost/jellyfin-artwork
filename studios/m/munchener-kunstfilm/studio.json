@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Münchener Kunstfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60763"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

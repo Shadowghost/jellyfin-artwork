@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Curious Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81364",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cwPL6vTyZi4tfqSaJ1gizzFdgST.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.curiousfilms.com",
+    "headquarters": "London, England",
+    "placeholder": true
+  }
+]

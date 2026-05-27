@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Japan Home Video (JHV)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39528"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "placeholder": true
+  }
+]

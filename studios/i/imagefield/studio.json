@@ -1,0 +1,13 @@
+[
+  {
+    "name": "imageField",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108271"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

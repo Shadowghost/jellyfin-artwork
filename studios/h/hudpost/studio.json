@@ -1,0 +1,13 @@
+[
+  {
+    "name": "HudPost",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273299"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

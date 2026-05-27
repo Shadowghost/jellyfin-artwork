@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Capitolium",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75540"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "placeholder": true
+  }
+]

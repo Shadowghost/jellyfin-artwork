@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BCP Asset Management",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114482",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mXIIBoW52i57FF2oyFtfaDE5De6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "https://www.bcp.ie/",
+    "headquarters": "Dublin",
+    "placeholder": true
+  }
+]

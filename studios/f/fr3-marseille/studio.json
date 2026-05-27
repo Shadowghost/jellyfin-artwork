@@ -1,0 +1,16 @@
+[
+  {
+    "name": "FR3 Marseille",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188254",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zeI0nx4eSgoe0kWiLlSY45CiMGG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "2 Allée Ray Grassi, 13008 Marseille",
+    "placeholder": true
+  }
+]

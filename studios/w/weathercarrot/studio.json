@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Weathercarrot",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "233951"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Kurzfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17083"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Transient Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "52343",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ySixgqfYc94KEXJyUQ0w6I6kNjf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://transientpictures.com/",
+    "headquarters": "Brooklyn, New York",
+    "placeholder": true
+  }
+]

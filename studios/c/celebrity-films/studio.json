@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Celebrity Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "288097"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

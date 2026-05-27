@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Play Pause Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "281152",
+        "logo_uri": "https://image.tmdb.org/t/p/original/lQMWWnekVTHN9NHbRBpx8tZyIvk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "homepage": "https://playpause.studio",
+    "headquarters": "Mumbai",
+    "placeholder": true
+  }
+]

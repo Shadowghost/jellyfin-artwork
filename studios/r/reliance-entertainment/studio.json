@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Reliance Entertainment",
+    "description": "Indian entertainment company under Anil Ambani's Reliance Group, active in film production, distribution, gaming and digital.",
+    "country": "IN",
+    "type": "production-company",
+    "homepage": "http://relianceentertainment.net",
+    "headquarters": "Mumbai, Maharashtra",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "7294",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kK4PRgceWp9KNrycD8xx8seWxYU.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

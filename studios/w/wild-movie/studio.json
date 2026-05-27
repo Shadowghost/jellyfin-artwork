@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Wild Movie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81476"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

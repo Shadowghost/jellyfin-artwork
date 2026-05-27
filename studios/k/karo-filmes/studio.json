@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Karõ Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108074",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6xLFdq1xZGgMetnFWKT0cfdmcbb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "homepage": "https://www.karofilmes.pt/",
+    "headquarters": "Lisbon",
+    "placeholder": true
+  }
+]

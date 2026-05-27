@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Film Ilumination",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66447",
+        "logo_uri": "https://image.tmdb.org/t/p/original/mPBuOwxoUxQFUhJqjTeX8pEpyEM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "http://www.filmillumination.pl",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Out Of Box Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165104"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

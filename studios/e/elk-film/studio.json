@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Elk Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "159070",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8KUfGxrz3YDwqV40slpcx2TYIFb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DK",
+    "homepage": "https://www.elkfilm.dk",
+    "headquarters": "Copenhagen",
+    "placeholder": true
+  }
+]

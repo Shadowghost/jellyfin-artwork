@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Rabiatfilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "145781",
+        "logo_uri": "https://image.tmdb.org/t/p/original/v10pKodbNQq9HgLG9foCmAp4pYs.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.rabiatfilm-produktion.de/",
+    "placeholder": true
+  }
+]

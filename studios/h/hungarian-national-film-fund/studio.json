@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Hungarian National Film Fund",
+    "country": "HU",
+    "homepage": "https://mnf.hu/en",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "48581",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yqf1h4IKBKBEAjUtrnp0FRVBv76.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

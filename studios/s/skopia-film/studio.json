@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Skopia Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6265",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aXBnwAW7fzntkENZXIEo869etGw.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "headquarters": "Warszawa",
+    "placeholder": true
+  }
+]

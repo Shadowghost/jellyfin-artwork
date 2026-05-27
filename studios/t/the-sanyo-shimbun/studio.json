@@ -1,0 +1,15 @@
+[
+  {
+    "name": "The Sanyo Shimbun",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256426"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.sanyonews.jp",
+    "placeholder": true
+  }
+]

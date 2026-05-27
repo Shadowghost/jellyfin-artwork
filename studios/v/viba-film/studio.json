@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Viba film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4300",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hTb79FtutjvRRAKmIufvM4uczwm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SI",
+    "homepage": "https://www.vibafilm.si/",
+    "headquarters": "Ljubljana",
+    "placeholder": true
+  }
+]

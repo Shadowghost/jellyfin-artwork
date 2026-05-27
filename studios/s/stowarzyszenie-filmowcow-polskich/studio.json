@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Stowarzyszenie Filmowców Polskich",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78877"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://www.sfp.org.pl/",
+    "placeholder": true
+  }
+]

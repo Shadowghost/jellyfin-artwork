@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MUVIO Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "209545",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qEp7ajMZ0eJjq8qjmUY9mPVE6cm.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://jskansbnsn.my.canva.site/muvio-filmes",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Detective",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188128",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8MUfgRGBOPeTH64E1ItGtEz7DiZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "http://detective.org.mx",
+    "headquarters": "Mexico City",
+    "placeholder": true
+  }
+]

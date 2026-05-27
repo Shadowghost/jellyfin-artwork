@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Neal Street Productions",
+    "country": "GB",
+    "homepage": "http://nealstreetproductions.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1522",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8uaoEVgNxFH0R94O53gUiByahVr.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Galena",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "268008"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

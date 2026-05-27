@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Silvergate Media",
+    "description": "British-American children's television production and licensing company known for Octonauts, Hilda, and Peter Rabbit; rebranded as Sony Pictures Television – Kids.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://www.silvergatemedia.com/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "62976",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sJsAk4hueWVKp6bgMfUVslPob81.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

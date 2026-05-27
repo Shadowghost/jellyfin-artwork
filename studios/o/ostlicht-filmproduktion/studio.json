@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ostlicht Filmproduktion",
+    "country": "DE",
+    "homepage": "http://www.ostlicht.de/en/home/",
+    "headquarters": "Weimar",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "35210",
+        "logo_uri": "https://image.tmdb.org/t/p/original/41NPHKSaV2kFGRfmgzm97wWQEHF.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

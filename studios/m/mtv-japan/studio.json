@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MTV Japan",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60070",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r1WOmZIrqcY0YCVB9dyV3S4xZEz.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.mtvjapan.com/",
+    "placeholder": true
+  }
+]

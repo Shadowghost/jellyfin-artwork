@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CinemaFiction",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213354",
+        "logo_uri": "https://image.tmdb.org/t/p/original/Pfc2Ijs0QinS5s5HBvWwM1dIfo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "https://cinemafiction.com/",
+    "headquarters": "Naples, Naples",
+    "placeholder": true
+  }
+]

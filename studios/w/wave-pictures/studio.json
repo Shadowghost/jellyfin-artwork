@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Wave Pictures",
+    "country": "DK",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1098"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

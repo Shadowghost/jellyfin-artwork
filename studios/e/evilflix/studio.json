@@ -1,0 +1,14 @@
+[
+  {
+    "name": "EvilFlix",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "284929"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

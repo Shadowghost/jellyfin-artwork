@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Lions Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "261796"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Yellow",
+    "country": "GB",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "245808"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

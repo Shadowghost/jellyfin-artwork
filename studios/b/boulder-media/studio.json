@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Boulder Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "65013",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2AXFe74AZdwM62KoOmfeOorShrX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "https://www.bouldermedia.tv/en-ie",
+    "headquarters": "Dublin",
+    "placeholder": true
+  }
+]

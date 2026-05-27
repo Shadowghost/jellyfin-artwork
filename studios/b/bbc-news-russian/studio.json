@@ -1,0 +1,28 @@
+[
+  {
+    "name": "BBC News Russian",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "161940",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6OkLhDo3T0XA7p5cEPcI235XF7K.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "country": "GB",
+    "template": true
+  }
+]

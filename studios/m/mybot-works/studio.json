@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MyBot Works",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "239034"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

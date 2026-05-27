@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sarcastic Fish Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "171809",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qrZvIDwBZwcq2PrFQKSCqN18ud1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "http://www.sarcasticfish.com",
+    "headquarters": "London",
+    "placeholder": true
+  }
+]

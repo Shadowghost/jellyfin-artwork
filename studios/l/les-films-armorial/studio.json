@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les Films Armorial",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "25960"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

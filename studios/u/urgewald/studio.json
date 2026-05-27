@@ -1,0 +1,17 @@
+[
+  {
+    "name": "urgewald",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "237915",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5ddp4kPitQePNiOHNKaXruI2C7C.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.urgewald.org/",
+    "headquarters": "Sassenberg",
+    "placeholder": true
+  }
+]

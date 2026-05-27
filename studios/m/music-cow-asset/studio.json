@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Music Cow Asset",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "292005",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jxeTCdVC6kfLOyZTAKYbPY4yXe6.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://www.musicow.com/",
+    "headquarters": "서울특별시 중구 세종대로 92, 9층(태평로2가, 한화금융센터 태평로) 뮤직카우",
+    "placeholder": true
+  }
+]

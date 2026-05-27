@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Edge Factor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109179"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

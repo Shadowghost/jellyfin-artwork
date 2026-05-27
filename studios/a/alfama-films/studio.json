@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Alfama Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3061",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gseYJDkfTwGKG6qHbAa4SY9w1UV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://alfamafilms.com/en",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

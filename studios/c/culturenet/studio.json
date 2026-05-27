@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CultureNet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "223128"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

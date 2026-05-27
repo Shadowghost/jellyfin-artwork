@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mothership",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "59252",
+        "logo_uri": "https://image.tmdb.org/t/p/original/sK2qY3nfFGGo7zG8WL5VaRYZjJ4.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://mothership.tv",
+    "headquarters": "Bergen, Norway",
+    "placeholder": true
+  }
+]

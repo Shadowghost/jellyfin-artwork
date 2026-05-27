@@ -1,0 +1,13 @@
+[
+  {
+    "name": "FreeSpeech TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140915"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Atom Art",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101914"
+      }
+    ],
+    "artwork": {},
+    "country": "LV",
+    "homepage": "http://atomart.lv/",
+    "placeholder": true
+  }
+]

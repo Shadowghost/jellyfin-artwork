@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Omnibus",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55949"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Binge",
+    "country": "BD",
+    "homepage": "https://binge.buzz/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157075",
+        "logo_uri": "https://image.tmdb.org/t/p/original/qkYR8b0kztTZnRrGyeP3G7SC3Xf.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

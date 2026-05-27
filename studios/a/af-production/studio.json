@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AF Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5868"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

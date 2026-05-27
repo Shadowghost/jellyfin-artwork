@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Millennium Media",
+    "country": "US",
+    "homepage": "http://millennium-media.net",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1020",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kuUIHNwMec4dwOLghDhhZJzHZTd.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

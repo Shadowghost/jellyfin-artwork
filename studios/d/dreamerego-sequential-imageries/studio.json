@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DREAMEREGO Sequential Imageries",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "167815"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

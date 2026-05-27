@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Filter Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "219160"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

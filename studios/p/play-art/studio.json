@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Play Art",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1826"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

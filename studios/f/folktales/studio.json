@@ -1,0 +1,13 @@
+[
+  {
+    "name": "folktales",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "237853"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

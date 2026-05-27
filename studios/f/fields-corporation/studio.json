@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Fields Corporation",
+    "country": "JP",
+    "homepage": "https://www.fields.biz/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "60196"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

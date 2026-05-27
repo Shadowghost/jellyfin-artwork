@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gimme a Break",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176399",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1qVGcKjsZbRlZgG7Y4liX9GFvEC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://gimmeabreak.se/",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

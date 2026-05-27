@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Mic Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "206930"
+      }
+    ],
+    "artwork": {},
+    "country": "IN",
+    "placeholder": true
+  }
+]

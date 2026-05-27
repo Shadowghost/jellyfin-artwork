@@ -1,0 +1,13 @@
+[
+  {
+    "name": "RAI Libri",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "180937"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "VO2MAX",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78317"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

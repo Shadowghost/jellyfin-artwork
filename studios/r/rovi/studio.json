@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Rovi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10500"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

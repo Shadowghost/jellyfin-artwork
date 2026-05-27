@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ammo Content",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "112665"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://ammocontent.com/",
+    "headquarters": "New York",
+    "placeholder": true
+  }
+]

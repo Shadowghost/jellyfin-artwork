@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Funhouse",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "101164"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

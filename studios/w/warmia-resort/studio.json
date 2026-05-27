@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Warmia Resort",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196368",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6aTrvGHJZSUqrSQwRZIh2h5FZuW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://www.warmiaresort.pl/",
+    "headquarters": "Olsztyn",
+    "placeholder": true
+  }
+]

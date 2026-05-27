@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Knowledge Network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "90800",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hQp14ShEq17urquFwjHHulSqhgf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.knowledge.ca/",
+    "headquarters": "Burnaby, British Columbia",
+    "placeholder": true
+  }
+]

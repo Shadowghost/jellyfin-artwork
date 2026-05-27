@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Proton Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17173",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ulj78XzGjDOiipXUCKUlJjKnZGf.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "http://protoncinema.hu/",
+    "headquarters": "Budapest",
+    "placeholder": true
+  }
+]

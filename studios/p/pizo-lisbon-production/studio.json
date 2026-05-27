@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pizo Lisbon Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104057"
+      }
+    ],
+    "artwork": {},
+    "country": "PT",
+    "placeholder": true
+  }
+]

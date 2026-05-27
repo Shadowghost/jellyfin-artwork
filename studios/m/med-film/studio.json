@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Med Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "162514",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ozhqzbJMi3J64zF4qYfei17fxKv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.medfilm.fr/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Valhalla Motion Pictures",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11533",
+        "logo_uri": "https://image.tmdb.org/t/p/original/tWM9pmzVYxok4GbQIttxdcml1yT.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

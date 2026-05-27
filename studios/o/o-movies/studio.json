@@ -1,0 +1,13 @@
+[
+  {
+    "name": "o movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "298645"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "LoCo Motion Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "37585",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cfqg8AccZFCdhuwTjiIXB4ktnjB.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "https://www.locomotionpix.com",
+    "headquarters": "Toronto, Ontario",
+    "placeholder": true
+  }
+]

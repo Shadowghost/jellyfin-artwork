@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Attackers",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "61981",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ioFBdRrDFV0d0rDIQgrc5Nvnbig.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.attackers.net",
+    "headquarters": "Tokyo, Japan",
+    "placeholder": true
+  }
+]

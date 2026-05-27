@@ -1,0 +1,17 @@
+[
+  {
+    "name": "watcha",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "140163",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q67Iyada586WNxPdADWT47TCrWO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "homepage": "https://watcha.team/",
+    "headquarters": "Seocho, Seoul, South Korea",
+    "placeholder": true
+  }
+]

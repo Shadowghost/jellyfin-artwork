@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pigouille Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "284014",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5JhGG1VKvFYRRafxKFNBd7qWVxi.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.pigouilleprod.com",
+    "headquarters": "1I Rue André Maurois, 79000 Niort",
+    "placeholder": true
+  }
+]

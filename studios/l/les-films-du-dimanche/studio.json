@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Les Films du Dimanche",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100534"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

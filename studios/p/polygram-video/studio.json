@@ -1,0 +1,14 @@
+[
+  {
+    "name": "PolyGram Video",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17992",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wbnyYL2QhDn8KWuz5htsbOJnVLA.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

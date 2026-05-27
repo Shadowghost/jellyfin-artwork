@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Yandex.Studio",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143271"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://studio.yandex.ru/",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Gossimer",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "142143"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

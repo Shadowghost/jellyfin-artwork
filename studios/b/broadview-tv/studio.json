@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Broadview TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "70551",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9X52qZHMbEBRyz7ReQY61TPVzOY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "https://www.broadview.tv/en",
+    "headquarters": "Cologne",
+    "placeholder": true
+  }
+]

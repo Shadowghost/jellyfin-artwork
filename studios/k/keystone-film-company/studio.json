@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Keystone Film Company",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4148"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

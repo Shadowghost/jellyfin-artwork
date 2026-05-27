@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Holfi",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "157825",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5sluXtOdBaxooEoE4L1Tuqz4zwO.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

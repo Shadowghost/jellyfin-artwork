@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ware\\ner",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72813"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

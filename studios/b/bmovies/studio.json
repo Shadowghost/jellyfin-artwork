@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BMovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "23960"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

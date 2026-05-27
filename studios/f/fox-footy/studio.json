@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Fox Footy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "273631"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Filmhuset Produksjoner",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10971"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.filmhuset.no/",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

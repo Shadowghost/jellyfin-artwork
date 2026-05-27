@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Gunma TV",
+    "description": "Japanese independent local television station serving Gunma Prefecture.",
+    "country": "JP",
+    "type": "broadcast-network",
+    "homepage": "https://www.gtv.co.jp/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "252717",
+        "logo_uri": "https://image.tmdb.org/t/p/original/x29cplqMVhPYNWk6Fy5LIfrMis6.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Gunma Television"
+    ],
+    "template": true
+  }
+]

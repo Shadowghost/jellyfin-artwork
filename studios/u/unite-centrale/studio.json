@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Unité Centrale",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21556",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5wifS8KxFbogaT9cfrwu8Uz8rbg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://www.unitecentrale.ca",
+    "headquarters": "Montréal, Québec",
+    "placeholder": true
+  }
+]

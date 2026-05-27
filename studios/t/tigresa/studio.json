@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tigresa",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176411",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jVNr1Rs2byRweRhepbWz98tDPA5.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

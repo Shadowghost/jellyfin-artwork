@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Papaya Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "79962",
+        "logo_uri": "https://image.tmdb.org/t/p/original/k2MmdLTzGpQUMHRsQBqyJZpvnfc.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PL",
+    "homepage": "https://papaya-films.com/",
+    "headquarters": "Warsaw",
+    "placeholder": true
+  }
+]

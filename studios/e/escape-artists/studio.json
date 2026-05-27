@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Escape Artists",
+    "description": "American film and television production company founded by Todd Black, Jason Blumenthal, and Steve Tisch, known for The Pursuit of Happyness and The Equalizer.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "http://www.escapeartists.com",
+    "headquarters": "Culver City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1423",
+        "logo_uri": "https://image.tmdb.org/t/p/original/gzvsPHV9WqcQMrvI8pq5hbuvEZ5.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

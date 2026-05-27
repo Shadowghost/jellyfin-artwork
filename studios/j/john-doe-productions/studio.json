@@ -1,0 +1,16 @@
+[
+  {
+    "name": "John Doe Productions",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "129727",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4vHDa9ejJQGzgow05568LPztW8t.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

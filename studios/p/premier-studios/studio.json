@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Premier Studios",
+    "country": "RU",
+    "homepage": "https://premier-studios.com",
+    "headquarters": "Moscow, Russia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119813",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iyGJzcnWXZoNxYLzZu4jKzxIoFw.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

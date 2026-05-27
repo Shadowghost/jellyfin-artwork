@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Illumination Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "71598",
+        "logo_uri": "https://image.tmdb.org/t/p/original/h3IulqOLxjA4dwuqqO5mFGqpFex.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.illuminationcinema.com",
+    "headquarters": "Wichita, Kansas",
+    "placeholder": true
+  }
+]

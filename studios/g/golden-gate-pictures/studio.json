@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Golden Gate Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "4242"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

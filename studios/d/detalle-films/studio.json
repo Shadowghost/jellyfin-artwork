@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Detalle Films",
+    "country": "MX",
+    "headquarters": "Mexico City",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "15507"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

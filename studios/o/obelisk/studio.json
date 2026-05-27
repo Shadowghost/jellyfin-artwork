@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Obelisk",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51631"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

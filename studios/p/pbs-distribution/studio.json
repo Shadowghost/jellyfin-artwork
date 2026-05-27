@@ -1,0 +1,16 @@
+[
+  {
+    "name": "PBS Distribution",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "284312",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5XziM1Az2Lg3FVjeyMIwXvxktbe.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://pbsdistribution.org",
+    "placeholder": true
+  }
+]

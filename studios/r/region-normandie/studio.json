@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Région Normandie",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118284",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bz6PxIVh6x5kd9voprR4PplSmfu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.normandie.fr/",
+    "headquarters": "Abbaye-aux-Dames Place Reine Mathilde CS 50523 - 14035 Caen Cedex 1 - France",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Movie On Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "117784"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

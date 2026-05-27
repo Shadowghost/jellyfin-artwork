@@ -1,0 +1,14 @@
+[
+  {
+    "name": "TAO Film",
+    "country": "IT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "473"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Blur",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "196039",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vknbEMR4UKctIeoeWtDY1bsQ0Nk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://blurfilms.tv/",
+    "headquarters": "Madrid, Spain",
+    "placeholder": true
+  }
+]

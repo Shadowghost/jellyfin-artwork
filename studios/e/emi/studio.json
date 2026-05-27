@@ -1,0 +1,29 @@
+[
+  {
+    "name": "EMI",
+    "description": "British transnational music recording and publishing company, founded in 1931 and dissolved in 2012 when most of its assets were acquired by Universal Music Group and Sony.",
+    "country": "GB",
+    "type": "record-label",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14259"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

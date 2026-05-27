@@ -1,0 +1,13 @@
+[
+  {
+    "name": "AgentC",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "287770"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

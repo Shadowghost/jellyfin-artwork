@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Orphée Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197693",
+        "logo_uri": "https://image.tmdb.org/t/p/original/e18a2TZnm6IJJVF0n1iXnsq2QK1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://orpheefilms.fr/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

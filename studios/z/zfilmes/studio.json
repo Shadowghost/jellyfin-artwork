@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ZFilmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "214632"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

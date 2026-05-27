@@ -1,0 +1,17 @@
+[
+  {
+    "name": "24images",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110086",
+        "logo_uri": "https://image.tmdb.org/t/p/original/ai2dkYMUEt7FUgOSUbQwGnjbikF.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://www.24images.fr/en/home",
+    "headquarters": "Le Mans",
+    "placeholder": true
+  }
+]

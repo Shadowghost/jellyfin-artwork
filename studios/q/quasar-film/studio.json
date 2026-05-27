@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Quasar Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "66158",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aoQa6iiu2rMIhpu7wCgCNUvA3jv.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MK",
+    "homepage": "http://quasarfilm.mk/",
+    "headquarters": "Skopje",
+    "placeholder": true
+  }
+]

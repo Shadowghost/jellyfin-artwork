@@ -1,0 +1,16 @@
+[
+  {
+    "name": "WRAP Fund",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "148174",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rSKzMlnrhrGoFAIpYnWjMPDrVkH.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IE",
+    "homepage": "https://wrapfund.ie/",
+    "placeholder": true
+  }
+]

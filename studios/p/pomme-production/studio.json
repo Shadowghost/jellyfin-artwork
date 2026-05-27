@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pomme Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "164324",
+        "logo_uri": "https://image.tmdb.org/t/p/original/oUWdwNaNKX08JM3k1OJCyW2wS6Y.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.k-wet.com/liens/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

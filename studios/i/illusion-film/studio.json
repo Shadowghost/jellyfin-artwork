@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Illusion Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "17546",
+        "logo_uri": "https://image.tmdb.org/t/p/original/jgGujhOAlSr2ZUvQ2pu1Jy4RosI.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://www.illusionfilm.se/",
+    "headquarters": "Gothenburg, Sweden",
+    "placeholder": true
+  }
+]

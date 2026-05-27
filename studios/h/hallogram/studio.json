@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Hallogram",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "136918"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

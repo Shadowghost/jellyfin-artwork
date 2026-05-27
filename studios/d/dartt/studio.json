@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DARTT",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72000"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

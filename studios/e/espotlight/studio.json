@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Espotlight",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "179834",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8bGqk01Irw4Lv2pcyU6HrwZhHbD.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://espotlight.es/en/",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TV Asahi Mediaplex",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "272868",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9SCIHb374ScbXrcYcyE8EdyUk73.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://www.mediaplex.co.jp",
+    "placeholder": true
+  }
+]

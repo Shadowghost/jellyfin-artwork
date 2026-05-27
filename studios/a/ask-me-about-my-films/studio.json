@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ask Me About My Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192150"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

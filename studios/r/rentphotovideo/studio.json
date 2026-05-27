@@ -1,0 +1,14 @@
+[
+  {
+    "name": "RentPhotoVideo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "262761"
+      }
+    ],
+    "artwork": {},
+    "country": "GR",
+    "placeholder": true
+  }
+]

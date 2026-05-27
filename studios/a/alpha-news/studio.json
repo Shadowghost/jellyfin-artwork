@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Alpha News",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "213731"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

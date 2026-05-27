@@ -1,0 +1,16 @@
+[
+  {
+    "name": "net-film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "234037"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "https://www.net-film.ru/",
+    "headquarters": "Moscow",
+    "placeholder": true
+  }
+]

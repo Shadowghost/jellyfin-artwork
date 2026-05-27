@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Static Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202043",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3Y41KPhBCu7ZUONsLyVqgcHhXzW.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.staticfilms.la/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

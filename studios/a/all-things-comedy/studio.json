@@ -1,0 +1,17 @@
+[
+  {
+    "name": "All Things Comedy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109715",
+        "logo_uri": "https://image.tmdb.org/t/p/original/kFNhhuKpTlDKla243zceGMvNd2C.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://allthingscomedy.com/",
+    "headquarters": "Los Angeles, California",
+    "placeholder": true
+  }
+]

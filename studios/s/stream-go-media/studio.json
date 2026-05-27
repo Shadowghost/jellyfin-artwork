@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Stream Go Media",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215147"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

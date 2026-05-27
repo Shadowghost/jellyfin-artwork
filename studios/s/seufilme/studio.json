@@ -1,0 +1,15 @@
+[
+  {
+    "name": "SeuFilme",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "197825",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iBcpwyoku24GgpoFATo0duYTu6b.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "placeholder": true
+  }
+]

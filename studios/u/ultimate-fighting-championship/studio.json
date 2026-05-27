@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ultimate Fighting Championship",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "72685",
+        "logo_uri": "https://image.tmdb.org/t/p/original/pGU8jiv3XnHPVKUR3bBIirB8XjG.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.ufc.com/",
+    "headquarters": "UFC Performance Institute, Enterprise, Nevada",
+    "placeholder": true
+  }
+]

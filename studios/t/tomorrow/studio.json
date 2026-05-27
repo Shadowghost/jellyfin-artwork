@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tomorrow",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141306"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.tomorrow.tv",
+    "headquarters": "Los Angeles, California, USA",
+    "placeholder": true
+  }
+]

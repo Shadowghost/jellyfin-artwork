@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Films Factory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "21152"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

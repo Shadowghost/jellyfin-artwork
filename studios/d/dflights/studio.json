@@ -1,0 +1,14 @@
+[
+  {
+    "name": "dFlights",
+    "country": "PL",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "138279"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

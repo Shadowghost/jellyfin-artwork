@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bridgehead",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63138",
+        "logo_uri": "https://image.tmdb.org/t/p/original/f4XtnpYCo50KRP7YJAjR8fsB2dV.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://bridgehead-jp.net/index.html",
+    "headquarters": "Tokyo",
+    "placeholder": true
+  }
+]

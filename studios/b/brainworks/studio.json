@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Brainworks",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63251",
+        "logo_uri": "https://image.tmdb.org/t/p/original/7cXoYsPYQXqG1TUyLrF0I0EISpK.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://brainworks.tv",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

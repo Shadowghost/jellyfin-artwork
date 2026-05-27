@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Porta dos Fundos",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "75997",
+        "logo_uri": "https://image.tmdb.org/t/p/original/6mpNu4NXhmf3nrXmw6zH9HuclUr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://portadosfundos.com.br/",
+    "placeholder": true
+  }
+]

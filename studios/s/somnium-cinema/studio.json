@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Somnium Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "115424"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

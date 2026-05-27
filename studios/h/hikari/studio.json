@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hikari",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "124970",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4qM20084H2EZRBXzzYHi4n5zZRM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://hikari.media",
+    "headquarters": "Lille",
+    "placeholder": true
+  }
+]

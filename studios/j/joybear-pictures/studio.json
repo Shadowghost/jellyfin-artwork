@@ -1,0 +1,16 @@
+[
+  {
+    "name": "JoyBear Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "51553",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q5EbSV0wADMo2eUvLGZQO8xjeVY.png"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "homepage": "https://www.joybear.com/",
+    "placeholder": true
+  }
+]

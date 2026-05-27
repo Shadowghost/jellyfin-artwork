@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Áralan Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "10021",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aqv4ihV6ptaXIJdzN27rDD6HiC3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.aralanfilms.com/",
+    "headquarters": "Sevilla",
+    "placeholder": true
+  }
+]

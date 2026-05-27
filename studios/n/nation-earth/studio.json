@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Nation Earth",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "63905"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.nationearth.com/",
+    "placeholder": true
+  }
+]

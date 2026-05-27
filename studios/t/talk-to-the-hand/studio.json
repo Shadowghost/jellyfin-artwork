@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Talk to the Hand",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "202926"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

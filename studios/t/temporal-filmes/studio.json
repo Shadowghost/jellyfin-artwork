@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Temporal Filmes",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "232045",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xWfG3XTbJXmDhuzYqzsdXvptpUX.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BR",
+    "homepage": "https://www.temporalfilmes.com/",
+    "headquarters": "São Paulo",
+    "placeholder": true
+  }
+]

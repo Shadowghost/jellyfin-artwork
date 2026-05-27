@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Fox Searchlight Pictures",
+    "country": "US",
+    "homepage": "http://www.foxsearchlight.com/",
+    "headquarters": "Los Angeles, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "43",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4RgIPr55kBakgupWkzdDxqXJEqr.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "opencine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118127"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

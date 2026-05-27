@@ -1,0 +1,32 @@
+[
+  {
+    "name": "IDW Entertainment",
+    "description": "Television and film production arm of IDW Media Holdings, adapting comics from IDW Publishing such as Wynonna Earp and Locke & Key.",
+    "country": "US",
+    "type": "production-company",
+    "homepage": "https://www.idwentertainment.com",
+    "headquarters": "San Diego, Californina",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81275",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wavUlFiAoCdOC1BTlymmHhWFIQr.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

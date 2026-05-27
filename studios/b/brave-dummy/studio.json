@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Brave Dummy",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "235037"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

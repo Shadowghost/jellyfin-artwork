@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Euskadi Movie AIE",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "241821"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

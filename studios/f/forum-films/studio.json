@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Forum Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20550"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Cayuga Ficción",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "215962",
+        "logo_uri": "https://image.tmdb.org/t/p/original/xllKLR0tVjAYfMkm6QcFyJqpTr1.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "headquarters": "Madrid",
+    "placeholder": true
+  }
+]

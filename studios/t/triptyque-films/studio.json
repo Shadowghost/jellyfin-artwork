@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Triptyque Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "116542",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zXQ3HcJ7URpTHC25OUIzRtR8QPk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "http://triptyquefilms.chez.com",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Plan Z Prod",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "193571"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

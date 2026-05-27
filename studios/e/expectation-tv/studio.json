@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Expectation TV",
+    "country": "GB",
+    "homepage": "https://www.expectationtv.com",
+    "headquarters": "London, England",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114378",
+        "logo_uri": "https://image.tmdb.org/t/p/original/u2LABgcjXoomyWSr2T3NHAqxSl7.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

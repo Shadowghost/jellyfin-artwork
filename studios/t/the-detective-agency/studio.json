@@ -1,0 +1,15 @@
+[
+  {
+    "name": "The Detective Agency",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "92693",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rMKRo8kFoJKxZr0MFEVRoZ8b54E.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

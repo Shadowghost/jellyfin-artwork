@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Vega Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123304"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

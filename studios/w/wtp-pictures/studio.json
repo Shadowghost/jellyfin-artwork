@@ -1,0 +1,16 @@
+[
+  {
+    "name": "WTP Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "211264",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uMH9ZQDZeTRfVMzRvrI3mv1ilMx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://wtppictures.com",
+    "placeholder": true
+  }
+]

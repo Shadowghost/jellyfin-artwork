@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Radiodiffusion Télévision Sénégalaise (RTS 1)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187739",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vjDGPC8K5UGOnqqolO2nLB2MP3L.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SN",
+    "homepage": "https://www.rts.sn/",
+    "headquarters": "Radiodiffusion Télévision Sénégalaise, Dakar, Sénégal",
+    "placeholder": true
+  }
+]

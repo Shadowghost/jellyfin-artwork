@@ -1,0 +1,35 @@
+[
+  {
+    "name": "RTBF",
+    "description": "Public broadcasting organization for the French-speaking Community of Belgium.",
+    "country": "BE",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "792",
+        "logo_uri": "https://image.tmdb.org/t/p/original/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "aka": [
+      "Radio-télévision belge de la Communauté française"
+    ],
+    "template": true,
+    "homepage": "https://www.rtbf.be",
+    "headquarters": "Brussels"
+  }
+]

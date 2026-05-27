@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Látókép-Production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "257828",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3zlJIUXLPdHuPDcI5vanDmTqTV0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "headquarters": "Budapest",
+    "placeholder": true
+  }
+]

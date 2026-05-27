@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Finland Cinematic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110011",
+        "logo_uri": "https://image.tmdb.org/t/p/original/znwJo8AKv2udtzLrW90Nncgl4a0.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FI",
+    "homepage": "https://www.cinematic.fi/",
+    "headquarters": "Helsinki",
+    "placeholder": true
+  }
+]

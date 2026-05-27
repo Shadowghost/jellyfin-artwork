@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Avery Pix",
+    "country": "US",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1565"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Aragón TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11292",
+        "logo_uri": "https://image.tmdb.org/t/p/original/wxQY6xZAWIiXszJnI0Anhx2ErBC.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://www.aragontelevision.es",
+    "headquarters": "Zaragoza, Aragón",
+    "placeholder": true
+  }
+]

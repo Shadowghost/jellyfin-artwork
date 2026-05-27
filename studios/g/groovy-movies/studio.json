@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Groovy Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "194908"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

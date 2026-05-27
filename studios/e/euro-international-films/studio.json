@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Euro International Films",
+    "country": "IT",
+    "headquarters": "Rome",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8930"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

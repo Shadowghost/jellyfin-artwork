@@ -1,0 +1,17 @@
+[
+  {
+    "name": "One World Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "5725",
+        "logo_uri": "https://image.tmdb.org/t/p/original/iwPdsbu4EDMVrizP2uoBrnD4iN9.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.one-world-films.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PLAN-B AS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "160132",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vkcOAZQPG0XGsubeOTACEOgeeF8.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NO",
+    "homepage": "https://www.plan-b.no/",
+    "headquarters": "Oslo, Norway",
+    "placeholder": true
+  }
+]

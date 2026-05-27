@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Alex Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "192560"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

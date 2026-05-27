@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Les Films des Tournelles",
+    "country": "FR",
+    "homepage": "https://tournelles.com/",
+    "headquarters": "Paris",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2280",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rYrkINGzLKCsL74y2A9zPDaSwUG.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

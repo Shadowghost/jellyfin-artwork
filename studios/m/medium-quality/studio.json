@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Medium Quality",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "133328",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bOOkH4QsZrWtsmuyyZXQLGe0Nok.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "homepage": "http://mediumquality.ru/",
+    "headquarters": "Moscow, Russia",
+    "placeholder": true
+  }
+]

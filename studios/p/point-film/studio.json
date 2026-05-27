@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Point Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119562",
+        "logo_uri": "https://image.tmdb.org/t/p/original/st7xIPvj0elewcFzV4raRd2yCqg.png"
+      }
+    ],
+    "artwork": {},
+    "country": "RO",
+    "homepage": "https://pointfilm.ro/",
+    "headquarters": "Bucharest",
+    "placeholder": true
+  }
+]

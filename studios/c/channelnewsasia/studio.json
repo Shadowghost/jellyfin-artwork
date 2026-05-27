@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ChannelNewsAsia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "231273"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

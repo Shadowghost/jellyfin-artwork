@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SunStorm Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "13601",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yXJkTw31FG1omh1Et5mNev3VTyf.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "homepage": "http://sunstormcinema.com/",
+    "headquarters": "Coimbra, Portugal"
+  }
+]

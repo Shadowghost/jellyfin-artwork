@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Shrinkfish",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99303"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Film Field",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "165718"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

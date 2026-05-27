@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Remote Control Monkey",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "59553"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.remotecontrolmonkey.tv",
+    "placeholder": true
+  }
+]

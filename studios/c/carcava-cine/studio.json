@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cárcava Cine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "178406",
+        "logo_uri": "https://image.tmdb.org/t/p/original/q3Y5qKckDiF65bKf74gJCIvo2WM.png"
+      }
+    ],
+    "artwork": {},
+    "country": "MX",
+    "homepage": "https://carcavacine.mx/",
+    "headquarters": "Guanajuato",
+    "placeholder": true
+  }
+]

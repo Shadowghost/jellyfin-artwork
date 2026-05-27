@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Georgetown News-Graphic",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "188265"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

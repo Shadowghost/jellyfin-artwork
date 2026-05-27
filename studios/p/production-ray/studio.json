@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Production Ray",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46599"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

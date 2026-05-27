@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Aspect Ratio Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81143"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

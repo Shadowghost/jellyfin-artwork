@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hrvatska Radiotelevizija",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20915",
+        "logo_uri": "https://image.tmdb.org/t/p/original/g0ZgDi0m0RubOnoUFYaHsa8M5To.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HR",
+    "homepage": "https://www.hrt.hr",
+    "headquarters": "Zagreb",
+    "placeholder": true
+  }
+]

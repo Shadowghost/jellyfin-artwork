@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Laika Film & Television",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "12101",
+        "logo_uri": "https://image.tmdb.org/t/p/original/9WfQjr7Un8pkk4hDH1U33zMOsCr.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "http://www.laikafilm.se",
+    "headquarters": "Stockholm",
+    "placeholder": true
+  }
+]

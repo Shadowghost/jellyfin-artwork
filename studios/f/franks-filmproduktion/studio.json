@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Franks Filmproduktion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "187209",
+        "logo_uri": "https://image.tmdb.org/t/p/original/swgsgdzpiMmEEGFpmzWsplvCcLZ.png"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "homepage": "http://franksfilmproduktion.com/",
+    "headquarters": "Berlin",
+    "placeholder": true
+  }
+]

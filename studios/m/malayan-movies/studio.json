@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Malayan Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "44249"
+      }
+    ],
+    "artwork": {},
+    "country": "PH",
+    "placeholder": true
+  }
+]

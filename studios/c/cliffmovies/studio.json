@@ -1,0 +1,13 @@
+[
+  {
+    "name": "cliffMovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "150107"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

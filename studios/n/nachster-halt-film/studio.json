@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nächster Halt Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "176087"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

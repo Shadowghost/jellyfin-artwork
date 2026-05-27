@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DoKino",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "204001"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

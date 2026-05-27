@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KQED",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39477",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hfXGuDnuVFOYJVfw83fJvGUtt5O.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.kqed.org/",
+    "headquarters": "San Francisco, California, United States",
+    "placeholder": true
+  }
+]

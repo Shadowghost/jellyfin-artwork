@@ -1,0 +1,30 @@
+[
+  {
+    "name": "New Line Home Entertainment",
+    "description": "Home-video distribution arm of New Line Cinema, now part of Warner Bros. Home Entertainment.",
+    "country": "US",
+    "type": "distributor",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "39657",
+        "logo_uri": "https://image.tmdb.org/t/p/original/uJmO05SQwMGqpkQSkQY0eGRKF1L.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

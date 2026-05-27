@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TVORBA films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "56780"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "http://www.tvorbafilms.cz",
+    "headquarters": "Prague, Czech Republic",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Filmteam",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45740",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rKcwtO2jnwdBBEdCE80zOXEoJXL.png"
+      }
+    ],
+    "artwork": {},
+    "country": "HU",
+    "homepage": "http://www.filmteam.hu",
+    "headquarters": "Budapest",
+    "placeholder": true
+  }
+]

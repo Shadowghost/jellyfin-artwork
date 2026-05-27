@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Main Street Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "67890"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

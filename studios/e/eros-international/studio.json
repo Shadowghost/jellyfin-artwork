@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Eros International",
+    "country": "IN",
+    "homepage": "http://www.erosnow.com/",
+    "headquarters": "Mumbai, Maharashtra, India",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3653",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dEpilNgoW7tElN3xacXckHxGXbo.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nike",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6774",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zgVaShYJzJslm5YJ98oz1nMoCSj.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "https://www.nike.com/",
+    "headquarters": "Beaverton, Oregon",
+    "placeholder": true
+  }
+]

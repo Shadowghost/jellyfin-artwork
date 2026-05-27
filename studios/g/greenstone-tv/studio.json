@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Greenstone TV",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103181",
+        "logo_uri": "https://image.tmdb.org/t/p/original/aqicjb5pM859n0CLwrLoGnjyecb.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NZ",
+    "homepage": "http://www.greenstonetv.com/",
+    "headquarters": "Auckland",
+    "placeholder": true
+  }
+]

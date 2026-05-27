@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Gazprom Export",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "106391"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Roxy Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "55204"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

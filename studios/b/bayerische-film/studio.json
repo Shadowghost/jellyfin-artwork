@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Bayerische Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "99348"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

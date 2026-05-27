@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Haugalandmuseet",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203431"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

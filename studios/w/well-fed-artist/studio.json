@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Well Fed Artist",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "108528",
+        "logo_uri": "https://image.tmdb.org/t/p/original/fRn5XwDXcmFMqIDbRBRek8CLiUk.png"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "placeholder": true
+  }
+]

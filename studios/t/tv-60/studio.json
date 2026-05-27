@@ -1,0 +1,15 @@
+[
+  {
+    "name": "TV-60",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2048"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "headquarters": "Munich",
+    "placeholder": true
+  }
+]

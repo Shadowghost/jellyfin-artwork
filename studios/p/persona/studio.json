@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Persona",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "110247"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Standaardfilms",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "203823"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

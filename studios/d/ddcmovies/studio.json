@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DDCMovies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "100174"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

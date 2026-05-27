@@ -1,0 +1,14 @@
+[
+  {
+    "name": "IsFilm",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "14935"
+      }
+    ],
+    "artwork": {},
+    "country": "IS",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "South London Gallery",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "201713"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

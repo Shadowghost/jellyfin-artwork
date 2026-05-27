@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SODEC",
+    "country": "CA",
+    "homepage": "https://sodec.gouv.qc.ca",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "9116",
+        "logo_uri": "https://image.tmdb.org/t/p/original/vYeYdFxDWoqBzFgYz2Tf9d2ZseE.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

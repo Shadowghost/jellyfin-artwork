@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Banshee",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "2079"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

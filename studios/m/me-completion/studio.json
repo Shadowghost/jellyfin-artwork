@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ME Completion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "20301"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

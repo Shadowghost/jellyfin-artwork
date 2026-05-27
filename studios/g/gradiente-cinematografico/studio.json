@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gradiente Cinematografico",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123183",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5UYT9UKoFhIYmBtTvQV8323bzhy.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.gradientecinematografico.it",
+    "headquarters": "Venice, Italy",
+    "placeholder": true
+  }
+]

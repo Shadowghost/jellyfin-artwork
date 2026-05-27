@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Film Centre",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "119827"
+      }
+    ],
+    "artwork": {},
+    "country": "GB",
+    "placeholder": true
+  }
+]

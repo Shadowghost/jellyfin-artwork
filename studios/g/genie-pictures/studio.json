@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Genie Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "123567"
+      }
+    ],
+    "artwork": {},
+    "country": "KR",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Facebook",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "155685",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3vH6IdnKQ7zAqlNci32YYk4Jq8q.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true,
+    "headquarters": "Global"
+  }
+]

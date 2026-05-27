@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Xunta de Galicia",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "58958",
+        "logo_uri": "https://image.tmdb.org/t/p/original/zWB378ArpAomecnYO03FJsLcO7X.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "https://www.xunta.gal/",
+    "headquarters": "Santiago de Compostela, A Coruña",
+    "placeholder": true
+  }
+]

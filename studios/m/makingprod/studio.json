@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MakingProd",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "34570",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2daOQlpLWutEaG5HpwNNfcuMJbl.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.makingprod.com",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

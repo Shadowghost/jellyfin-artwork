@@ -1,0 +1,14 @@
+[
+  {
+    "name": "China Movie Channel",
+    "country": "CN",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "11413"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

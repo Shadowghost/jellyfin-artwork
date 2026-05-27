@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Har Pal Geo",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "256383",
+        "logo_uri": "https://image.tmdb.org/t/p/original/t9AJMAOrxcYRmHGloAbxqTTknNP.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PK",
+    "placeholder": true
+  }
+]

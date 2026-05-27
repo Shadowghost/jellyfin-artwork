@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Popple Pictures",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "237467",
+        "logo_uri": "https://image.tmdb.org/t/p/original/l4KPhsbncbJz4IobDKoQMfaiGnT.png"
+      }
+    ],
+    "artwork": {},
+    "country": "PH",
+    "placeholder": true
+  }
+]

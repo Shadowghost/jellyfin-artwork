@@ -1,0 +1,13 @@
+[
+  {
+    "name": "WDS-Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "141228"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

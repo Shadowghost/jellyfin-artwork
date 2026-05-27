@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Sequitur Cinema",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "109293"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

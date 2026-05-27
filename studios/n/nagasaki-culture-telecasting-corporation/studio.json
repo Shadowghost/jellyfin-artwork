@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Nagasaki Culture Telecasting Corporation",
+    "description": "Japanese television station based in Nagasaki Prefecture, affiliated with the All-Nippon News Network (ANN).",
+    "country": "JP",
+    "type": "broadcast-network",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "81416",
+        "logo_uri": "https://image.tmdb.org/t/p/original/1vhLshvOhhCUFf23finCmRvqhAW.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

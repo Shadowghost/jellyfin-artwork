@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Getty Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "270231"
+      }
+    ],
+    "artwork": {},
+    "country": "DE",
+    "placeholder": true
+  }
+]

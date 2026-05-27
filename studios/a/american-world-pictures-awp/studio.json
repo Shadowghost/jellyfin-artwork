@@ -1,0 +1,16 @@
+[
+  {
+    "name": "American World Pictures (AWP)",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "6165"
+      }
+    ],
+    "artwork": {},
+    "country": "US",
+    "homepage": "http://www.americanworldpictures.com/",
+    "headquarters": "Los Angeles, CA",
+    "placeholder": true
+  }
+]

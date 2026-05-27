@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Don Quichotte Films",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "149704",
+        "logo_uri": "https://image.tmdb.org/t/p/original/yJJMAcYecQlq4iaRQUQHvhFPiRh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "FR",
+    "homepage": "https://www.donquichottefilms.com/",
+    "headquarters": "Paris",
+    "placeholder": true
+  }
+]

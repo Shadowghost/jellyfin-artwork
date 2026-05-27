@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vanguard Films",
+    "country": "US",
+    "homepage": "https://www.vanguardanimation.com/live-action",
+    "headquarters": "West Hollywood, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "614",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3pP50VnBQPVjstomuCnCvUGgsfP.png"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

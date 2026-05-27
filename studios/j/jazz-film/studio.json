@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Jazz Film",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "271662",
+        "logo_uri": "https://image.tmdb.org/t/p/original/14jKmOMqHv7DIf5Tkanp7xqyCNo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "JP",
+    "homepage": "https://jazzfilm.jp",
+    "placeholder": true
+  }
+]

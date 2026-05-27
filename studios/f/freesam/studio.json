@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FREESAM",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118483",
+        "logo_uri": "https://image.tmdb.org/t/p/original/8qZaJ4BqzKcbO7TtiXg5HvkPv35.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CZ",
+    "homepage": "https://freesam.org/",
+    "headquarters": "Prague",
+    "placeholder": true
+  }
+]

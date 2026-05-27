@@ -1,0 +1,31 @@
+[
+  {
+    "name": "VGTV",
+    "description": "Norwegian online television and web video service operated by the newspaper Verdens Gang (VG), part of media group Schibsted; offers news, sports and entertainment video.",
+    "country": "NO",
+    "type": "streaming-service",
+    "homepage": "https://www.vgtv.no/",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "122000",
+        "logo_uri": "https://image.tmdb.org/t/p/original/As9iprfSuI45ukYkBYfTl4th8R8.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

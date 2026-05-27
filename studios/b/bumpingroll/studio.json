@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BumpingRoll",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "258426"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

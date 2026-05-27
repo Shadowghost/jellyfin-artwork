@@ -1,0 +1,30 @@
+[
+  {
+    "name": "DreamWorks Home Entertainment",
+    "country": "US",
+    "type": "studio",
+    "headquarters": "Universal City, California",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "3486",
+        "logo_uri": "https://image.tmdb.org/t/p/original/4msGGjTX9E6VJ4fxcF6IkH2W36o.png"
+      }
+    ],
+    "artwork": {
+      "logo": [
+        "svg",
+        "webp"
+      ],
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    },
+    "template": true
+  }
+]

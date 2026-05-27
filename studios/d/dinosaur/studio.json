@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Dinosaur",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "45994"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

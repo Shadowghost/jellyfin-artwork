@@ -1,0 +1,13 @@
+[
+  {
+    "name": "DNS",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "78787"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "KIC-factory",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118456"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

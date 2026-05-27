@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Avventurosa",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "76923",
+        "logo_uri": "https://image.tmdb.org/t/p/original/dr2ZprLwhfLBFwc7dLf0sggh0fu.png"
+      }
+    ],
+    "artwork": {},
+    "country": "IT",
+    "homepage": "http://www.avventurosa.net/",
+    "headquarters": "Roma",
+    "placeholder": true
+  }
+]

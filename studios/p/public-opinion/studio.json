@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Public Opinion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "114304"
+      }
+    ],
+    "artwork": {},
+    "country": "RU",
+    "placeholder": true
+  }
+]

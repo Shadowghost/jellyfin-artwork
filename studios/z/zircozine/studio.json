@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ZircoZine",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "8193",
+        "logo_uri": "https://image.tmdb.org/t/p/original/3DzaUV9bMcQ9wOocHbO5qIwOLRx.png"
+      }
+    ],
+    "artwork": {},
+    "country": "ES",
+    "homepage": "http://zircozine.com/",
+    "headquarters": "Santiago de Compostela, Galiza",
+    "placeholder": true
+  }
+]

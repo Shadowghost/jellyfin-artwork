@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hyperion",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "103598"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

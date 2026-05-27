@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Rollon Movies",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "104180"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

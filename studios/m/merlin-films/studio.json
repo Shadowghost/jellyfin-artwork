@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Merlin Films",
+    "country": "IE",
+    "homepage": "https://merlin-films.com",
+    "headquarters": "Dublin",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "210313"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ITV Studios Sweden",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "118510",
+        "logo_uri": "https://image.tmdb.org/t/p/original/5wXdeMGtaFGms9Vy0zTlgm6hN36.png"
+      }
+    ],
+    "artwork": {},
+    "country": "SE",
+    "homepage": "https://www.itvstudiossweden.com",
+    "headquarters": "Stockholm, Sweden",
+    "placeholder": true
+  }
+]

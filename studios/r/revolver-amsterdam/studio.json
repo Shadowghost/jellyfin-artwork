@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Revolver Amsterdam",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "46421",
+        "logo_uri": "https://image.tmdb.org/t/p/original/rajjM3rDu86FKIGDLQUGy1H41Ym.png"
+      }
+    ],
+    "artwork": {},
+    "country": "NL",
+    "homepage": "https://revolver.nl/",
+    "headquarters": "Amsterdam",
+    "placeholder": true
+  }
+]

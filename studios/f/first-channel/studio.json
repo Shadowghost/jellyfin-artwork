@@ -1,0 +1,13 @@
+[
+  {
+    "name": "First channel",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "1272"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

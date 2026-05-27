@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Art Base Bam",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "120817"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

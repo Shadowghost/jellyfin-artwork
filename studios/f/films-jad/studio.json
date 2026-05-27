@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Films JAD",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "143574",
+        "logo_uri": "https://image.tmdb.org/t/p/original/r2a1deqFINqW2O98PoLc7521Xh3.png"
+      }
+    ],
+    "artwork": {},
+    "country": "CA",
+    "homepage": "http://filmsjad.com",
+    "headquarters": "Montreal, Quebec",
+    "placeholder": true
+  }
+]

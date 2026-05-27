@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cinematres",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "127643",
+        "logo_uri": "https://image.tmdb.org/t/p/original/2n84WOuVB24wnidg7YyrOLY18qh.png"
+      }
+    ],
+    "artwork": {},
+    "country": "AR",
+    "homepage": "https://cinematres.com.ar/",
+    "headquarters": "Buenos Aires",
+    "placeholder": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Argo İzmir",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "287639",
+        "logo_uri": "https://image.tmdb.org/t/p/original/hAQphN2jj1DhJphVKHIuNbN1ESo.png"
+      }
+    ],
+    "artwork": {},
+    "country": "TR",
+    "homepage": "https://www.argoizmir.com/",
+    "headquarters": "Türkiye, İzmir",
+    "placeholder": true
+  }
+]

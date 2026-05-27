@@ -1,0 +1,13 @@
+[
+  {
+    "name": "actart production",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "248308"
+      }
+    ],
+    "artwork": {},
+    "placeholder": true
+  }
+]

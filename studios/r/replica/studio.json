@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Replica",
+    "providers": [
+      {
+        "provider_name": "tmdb",
+        "id": "84747",
+        "logo_uri": "https://image.tmdb.org/t/p/original/bx9mCalhghJxmAUtWG94LkW7UKE.png"
+      }
+    ],
+    "artwork": {},
+    "country": "BE",
+    "homepage": "https://replica-films.com/",
+    "headquarters": "City of Brussels",
+    "placeholder": true
+  }
+]
